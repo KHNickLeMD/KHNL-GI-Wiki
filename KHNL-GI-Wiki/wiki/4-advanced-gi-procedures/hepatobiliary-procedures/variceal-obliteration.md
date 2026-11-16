@@ -3,11 +3,12 @@ title: "Variceal Obliteration (RTO and ATO)"
 category: advanced-procedure
 tags: [variceal-obliteration, rto, brto, carto, parto, ato, gastric-varices, gastrorenal-shunt, portal-hypertension, variceal-bleeding, interventional-radiology]
 created: 2026-10-31
-updated: 2026-11-01
+updated: 2026-11-16
 sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophageal-gastric-varices]
+quality_reviewed: 2026-11-16
 ---
 
-*Endovascular obliteration (embolization) of varices by interventional radiology — **retrograde transvenous obliteration (RTO)**, accessed from the systemic veins through a spontaneous shunt (balloon-occluded [BRTO], modified [mBRTO], plug-assisted [PARTO], coil-assisted [CARTO]), and **anterograde transvenous obliteration (ATO)**, accessed through the portal system. The **haemodynamic opposite of a shunt**: they close the varix and its outflow, redirect flow to the liver, and **raise** the portosystemic pressure gradient (PSPG). Evidence below is American Association for the Study of Liver Diseases (AASLD) **Practice Guidance** — consensus guidance statements (GS), **not Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated** ([[aasld-2024-tips]]) — plus American Gastroenterological Association (AGA) and American Society for Gastrointestinal Endoscopy (ASGE) expert review.*
+*Endovascular obliteration (embolization) of varices by interventional radiology — **retrograde transvenous obliteration (RTO)**, accessed from the systemic veins through a spontaneous shunt (balloon-occluded [BRTO], modified [mBRTO], plug-assisted [PARTO], coil-assisted [CARTO]), and **anterograde transvenous obliteration (ATO)**, accessed through the portal system. The **haemodynamic opposite of a shunt**: they close the varix and its outflow, redirect flow to the liver, and **raise** the portosystemic pressure gradient (PSPG). Evidence below is American Association for the Study of Liver Diseases (AASLD) **Practice Guidance** — consensus guidance statements (GS), **not Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated** ([[aasld-2024-tips]]) — plus American Gastroenterological Association (AGA) Clinical Practice Update Best Practice Advice and an American Society for Gastrointestinal Endoscopy (ASGE) guideline.*
 
 ## Contents
 - [[#Physiological Effects]]
@@ -27,9 +28,8 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 ## Physiological Effects
 
 - **Goal: complete obliteration of the entire variceal complex** — afferent (feeding) vein, varices, and efferent vein/shunt
-- Obliteration redirects portal venous flow back to the liver; portal venous **resistance is unchanged**, so portal pressure and PSPG **rise**
-- **Consequences of the higher gradient:** new or worsening [[variceal-upper-gi-bleeding|esophageal varices]] in up to **60%**, with variceal bleeding in up to **33%**; new or worsened [[ascites]] and/or [[hepatic-hydrothorax]] in up to **10%**, which may then require [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] placement
-- **Upside:** increased portal inflow may improve hepatic function (Model for End-Stage Liver Disease [MELD] and Child-Pugh scores), and [[hepatic-encephalopathy|hepatic encephalopathy (HE)]] **improves** rather than worsens — incidence **0%–5% at 1 year** after BRTO ([[aga-2021-bleeding-gastric-varices]])
+- **Haemodynamics:** obliteration redirects portal venous flow back to the liver; portal venous **resistance is unchanged**, so portal pressure and PSPG **rise** — the source of most post-procedure complications
+- **Upside:** increased portal inflow may improve hepatic function (Model for End-Stage Liver Disease [MELD] and Child-Pugh scores)
 - **Prerequisite:** adequate antegrade portal venous flow — a patent portal vein or porto-portal collaterals (cavernous transformation) — because obliterating the complex restores flow into the liver
 - **Efficacy (RTO):** resolution of gastrofundal variceal hemorrhage in **96%–100%**, recurrence **<3%** over 3–10 years; technical success **97%–100%** with **<3%** major complications
 
@@ -38,15 +38,17 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 
 ## Indications
 
-- **RTO as an alternative to TIPS** for bleeding gastric or ectopic varices with **favorable anatomy** — an accessible and occludable gastrorenal shunt (GRS) (GS 10). Up to **85% of cardiofundal gastric varices** drain through a GRS ([[aga-2021-bleeding-gastric-varices]])
-  - Shunt size is the gating technical criterion, but only the **upper** bound is quantified: the shunt must be smaller than the available plug (**<18 mm**) or coil (**<30 mm**). AASLD 2024 does not state a minimum GRS diameter, nor any flow or imaging cut-point for "accessible and occludable" — judge feasibility on the venogram with interventional radiology
+- **RTO as an alternative to [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]]** for bleeding gastric or ectopic varices with **favorable anatomy** — an accessible and occludable gastrorenal shunt (GRS) (GS 10). Up to **85% of cardiofundal gastric varices** drain through a GRS ([[aga-2021-bleeding-gastric-varices]])
+  - Shunt size is the gating technical criterion, but only the **upper** bound is quantified: the shunt must be smaller than the available plug (**<18 mm**) or coil (**<30 mm**). There must simply be an efferent shunt amenable to catheterization and occlusion — AASLD 2024 states no minimum GRS diameter and no flow or imaging cut-point for "accessible and occludable"
 - **RTO is the first-line endovascular option** for hemorrhage from gastrofundal varices in patients with **contraindications to TIPS** (GS 27)
-- **Type B (shunt-related) HE is itself an indication for RTO** — closing the shunt treats the encephalopathy ([[aga-2021-bleeding-gastric-varices]])
 - **High MELD or Child-Turcotte-Pugh score is not a limitation**, in contrast to TIPS; poor liver function may improve with RTO
 - **ATO** — percutaneous transhepatic, trans-splenic, or trans-TIPS — for **esophageal, gastric, or ectopic** variceal hemorrhage with a **large afferent vein or shunt, or high-flow varices** (GS 15). Chosen when no GRS is present (RTO not possible), and often performed together with TIPS
 - **Complete eradication of the entire variceal complex is advisable** to minimize recurrent bleeding; embolic or sclerosing agent chosen by operator experience and availability (GS 16)
 - **Not for primary prevention:** neither TIPS nor RTO should be used to prevent a **first** hemorrhage from gastrofundal varices (GS 25)
-- For **high-risk gastric varices**, ASGE 2026 suggests **endoscopic ultrasound (EUS)-guided injection over RTO for *initial* management** (conditional recommendation, very low certainty) — the head-to-head adverse-event data and the availability caveat are on [[variceal-upper-gi-bleeding]] ([[asge-2026-esophageal-gastric-varices]])
+- For **high-risk gastric varices**, ASGE 2026 suggests **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-directed injection therapy (EUS-I) over RTO for *initial* management** — Best Practice Advice, *conditional recommendation / very low certainty of evidence*; the head-to-head adverse-event data and the availability caveat are on [[variceal-upper-gi-bleeding]] ([[asge-2026-esophageal-gastric-varices]])
+
+> [!pearl] Closing the shunt treats the encephalopathy
+> Unlike TIPS, RTO redirects shunted blood back to the liver — [[hepatic-encephalopathy|hepatic encephalopathy (HE)]] **improves** after BRTO (incidence **0%–5% at 1 year**), and type B (shunt-related) HE is itself an indication for RTO ([[aga-2021-bleeding-gastric-varices]]).
 
 *Whether to shunt or to obliterate — and which, for gastrofundal (gastroesophageal varices type 2 [GOV2] / isolated gastric varices type 1 [IGV1]) and ectopic varices — is the TIPS-side decision and lives on [[tips]]. The acute gastric-variceal pathway is on [[variceal-upper-gi-bleeding]].*
 
@@ -85,7 +87,7 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 
 - **PARTO** eliminates both the balloon and the sclerosant: access the GRS with a catheter, upsize to a large sheath, deploy a **vascular plug (typically the Amplatzer plug) at the narrowest portion of the shunt (choke point)**, then embolize the entire gastric variceal complex with **Gelfoam slurry**. Using Gelfoam instead of a sclerosant removes the need to embolize small collateral vessels
 - **CARTO** uses **two catheters in the GRS**: the distal catheter advanced into or adjacent to the gastric varices, the proximal catheter placed near the renal vein to deploy **correctly sized detachable coils** and completely occlude the shunt; the distal catheter then delivers Gelfoam to the entire gastric variceal complex
-  - No shunt-size restriction, no anatomical challenge, and no dependence on balloon or plug availability — coils can be sized to any blood vessel, so a **larger GRS can be treated** and pre-procedure planning is simplified
+  - No anatomical challenge and no dependence on balloon or plug availability — coils can be sized to any blood vessel, so a **larger GRS can be treated** than with BRTO or PARTO (up to the largest available coil, <30 mm) and pre-procedure planning is simplified
 
 ### ATO
 
@@ -102,31 +104,29 @@ sources: [aasld-2024-tips, aga-2021-bleeding-gastric-varices, asge-2026-esophage
 | | RTO (all variants) | ATO |
 |---|---|---|
 | **Absolute** | — | Uncontrolled sepsis |
-| **Relative** | Severe sepsis · uncontrollable esophageal variceal bleeding (would require simultaneous TIPS) · difficult-to-control ascites | Coagulopathy, when percutaneous access is used (increased periprocedural access-site hemorrhage) |
-| **Flow/anatomy** | Splenic and/or portal vein thrombosis (insufficient hepatopetal flow capacity for redirection) · no efferent shunt amenable to catheterization and occlusion · GRS too small for the balloon or plug · zigzag IVC–renal vein–GRS course hinders plug deployment (PARTO) | Splenic and/or portal vein thrombosis — the collaterals feeding the varices may not be reachable |
+| **Relative** | Severe sepsis · uncontrollable esophageal variceal bleeding (would require simultaneous TIPS) · difficult-to-control [[ascites]] — can **worsen** after RTO, and is the one relative contraindication that can be mitigated, by placing a TIPS after the RTO | Coagulopathy, when percutaneous access is used (increased periprocedural access-site hemorrhage) |
+| **Flow/anatomy** | Splenic vein thrombosis and/or PVT (insufficient hepatopetal flow capacity for redirection) · no efferent shunt amenable to catheterization and occlusion · GRS too small for the balloon or plug · zigzag IVC–renal vein–GRS course hinders plug deployment (PARTO) | Splenic vein thrombosis and/or PVT — the collaterals feeding the varices may not be reachable |
 | **Not a contraindication** | High MELD or Child-Turcotte-Pugh score; poor liver function or HE — these may **improve** with RTO | — |
 
-- Difficult-to-control ascites can **worsen** with RTO and is the one relative contraindication that can be mitigated — by placing a TIPS after the RTO
+*Table — contraindications to RTO and ATO ([[aasld-2024-tips]], Table 3 and text).*
 
 ## Complications
 
-**RTO**
+| | RTO | ATO |
+|---|---|---|
+| **Agent escapes into the systemic or portal circulation** | **BRTO/mBRTO sclerosants** (sodium tetradecyl sulfate, ethanolamine oleate) → portal and/or renal vein thrombosis, and catastrophic **anaphylactic shock, stroke, disseminated intravascular coagulation**; rare — gross hematuria, cardiac arrhythmia, pulmonary embolization, renal failure. **PARTO/CARTO Gelfoam** (rare) → renal vein thrombosis, PVT, pulmonary embolism; plug or coil migration into the renal vein with nontarget embolization | Embolic material (rare) → renal vein thrombosis, PVT, pulmonary embolism; nontarget embolization |
+| **From the rise in PSPG** | New collateral pathways to coexisting esophageal varices in up to **60%**; new or worsening esophageal or ectopic varices **with bleeding in up to 33%**; worsening ascites and/or hepatic hydrothorax in up to **10%**, which may then require TIPS. Esophageal varices **progress in size in 30%–35%** after BRTO ([[aga-2021-bleeding-gastric-varices]]) | Worsened esophageal varices; new or increased ascites and/or hydrothorax |
+| **Other** | — | **Fever and abdominal pain**, usually transient — the main reported complications. Less frequent: bleeding from access sites, hemoperitoneum, PVT, transient bacteremia, renal vein thrombosis |
 
-- **Sclerosant escape** into the systemic or portal circulation (sodium tetradecyl sulfate, ethanolamine oleate) → portal and/or renal vein thrombosis, and catastrophic events including **anaphylactic shock, stroke, disseminated intravascular coagulation**. Rare: gross hematuria, cardiac arrhythmia, pulmonary embolization, renal failure
-- **PARTO/CARTO:** Gelfoam escape to the systemic/portal circulation (rare) → renal vein thrombosis, PVT, pulmonary embolism; plug or coil migration into the renal vein with nontarget embolization (rare)
-- **From the rise in PSPG:** new or worsening esophageal or ectopic varices with bleeding in up to **33%**; worsened ascites and/or hepatic hydrothorax. Esophageal varices **progress in size in 30%–35%** after BRTO ([[aga-2021-bleeding-gastric-varices]]); post-BRTO hydrothorax rates are on [[hepatic-hydrothorax]]
+*Table — complications of RTO and ATO ([[aasld-2024-tips]]); post-BRTO esophageal variceal progression from [[aga-2021-bleeding-gastric-varices]].*
 
-**ATO**
-
-- **Fever and abdominal pain**, usually transient — the main reported complications
-- From the rise in portal pressure: worsened esophageal varices, new or increased ascites and/or hydrothorax
-- Less frequent: bleeding from access sites, hemoperitoneum, PVT, transient bacteremia, nontarget embolization, renal vein thrombosis
+- Post-BRTO ascites and hydrothorax rates by symptom and by imaging are on [[hepatic-hydrothorax]]
 
 ## Follow-Up After Obliteration
 
 | Step | Timing | Detail |
 |---|---|---|
-| **Confirm complete obliteration** | **Within 72 h** (source also describes 2–3 days) of RTO **or** ATO | Contrast-enhanced CT of the abdomen, or [[endoscopic-ultrasound\|EUS]] where available (GS 13, GS 17). Not achieved → individualized ATO, TIPS, or endoscopic therapy |
+| **Confirm complete obliteration** | **Within 72 h** (2–3 days, before discharge) of RTO **or** ATO | Contrast-enhanced CT of the abdomen, or EUS where available (GS 13, GS 17). Not achieved → individualized ATO, TIPS, or endoscopic therapy |
 | **Surveillance endoscopy** | **1–2 months** after RTO or ATO | Look for development or progression of esophageal varices (GS 14, GS 18). None seen → return to existing surveillance guidance |
 | **Ongoing** | Thereafter | Close surveillance for complications of portal hypertension, with additional treatment — TIPS, beta-blockers, or endoscopic treatment of esophageal varices — as needed (GS 11) |
 

@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] lint | Quality review (release sweep)
+
+**Scope:** Quality review step only, worked from `review-queue.py --pages`, never-reviewed pages first. One subagent per page: decision sufficiency + source fidelity against the tier-1 raw PDFs, then visuals, concision, callouts, organization, abbreviations.
+
+**Pages reviewed:**
+- `variceal-obliteration` — every number re-verified against the AASLD 2024 TIPS/RTO/ATO, AGA 2021 gastric varices and ASGE 2026 varices PDFs. `## Complications` converted from prose to a retrograde-vs-antegrade transvenous obliteration table (caption added to the contraindications table too); removed the duplicated post-RTO 33% / ascites rates; resolved the page's internal CARTO shunt-size contradiction; dropped an unsourced feasibility clause for the guidance's own wording; ASGE statement relabelled **Best Practice Advice** with its own term *EUS-directed injection therapy*; added one `[!pearl]` on shunt-related hepatic encephalopathy as an RTO indication; fixed PVT re-expansion and duplicate links. No figure: AASLD 2024 is not open access.
+
+- `ercp-quality-indicators` — three fidelity errors fixed against the ACG–ASGE 2026 PDF: the "~75% complete clearance at the index ERCP" figure (actually the 75% rate when electrohydraulic or laser lithotripsy is required for stones >10 mm; 85% with sphincterotomy + transpapillary large-balloon dilation), "six of the 13 indicators are graded 3" (four: #2, #11, #12, #13), and the post-sphincterotomy bleeding "<1% to strive for" (the task force deliberated retaining the 2015 indicator and did **not**; low, <1%–2% of all procedures). Added a stone-clearance benchmark table, `### Antibiotic Prophylaxis` and `### Unplanned Events` as parallel siblings, the post-sphincterotomy-pancreatitis numerator/denominator, the "these targets are not the standard of care" caveat and the priority-indicator rule; Table 1 vs indicator-13 cholangitis/cholecystitis discrepancy now stated for the reader; callouts trimmed to the cap; a maintainer phrase replaced with plain reader text. Same errors fixed on `acg-asge-2026-ercp-quality-indicators` and in card note `e71004` (`page_updated:` left unbumped). No figure — the source is not open access; no chart — the clearance values come from different meta-analyses.
+- `esophageal-dysfunction-systemic-disease` — all 10 Best Practice Advice statements, the hypereosinophilic/EGPA criteria and every percentage re-verified against the AGA 2024 CPU. Fixed a BPA-1 mis-attribution (the history-and-physical sentence is from the Conclusion), an unsourced "no explanatory endoscopic or reflux finding" qualifier, "improves diagnosis and treatment" → the source's "understanding and treatment", and "no society guidance exists" → its "guidelines are lacking"; added BPA 8's active-intestinal-disease qualifier. `## Esophageal Crohn's Disease` → `## Crohn's Disease` for parallel siblings; lichen planus and pemphigus subsections put in the same internal order; one `[!pearl]` and one `[!pitfall]` added; achalasia study narrative condensed; paywall-compliant pointer to the source's Figure 1 endoscopic images (not open access, so no capture). Card anchors `e1f006` and `e1f008` repointed.
+- **Open for Nick:** `asge-2023-post-ercp-pancreatitis` is listed in `ercp-quality-indicators` frontmatter and `## Sources` but no claim on the page traces to it; left in place rather than dropping a source unilaterally.
+
+**Cards:** `variceal-obliteration` notes testing the post-RTO 33% / 60% / 10% rates need re-anchoring from `{at:physiological-effects}` to `{at:complications}` on the next card pass.
+
+---
+
 ## [2026-11-15] update | Owed fidelity fixes cleared + "fix every copy" review rule
 
 **Why:** a tally of the 127 quality reviews since 2026-11-11 found ≥1 source-fidelity error on 109 pages (≈46% with a management-changing error). Errors spotted on pages a review did not own had been logged as "later pass" while still live. Tracked as a critical issue in `.claude/CRITICAL-source-fidelity.md`.

@@ -3,19 +3,22 @@ title: "Esophageal Dysfunction in Systemic Immune & Inflammatory Disease"
 category: concept
 tags: [esophagus, dysphagia, systemic-sclerosis, mctd, sjogrens, sle, myositis, lichen-planus, pemphigus, hypereosinophilic-syndrome, egpa, secondary-achalasia, chagas, dysmotility]
 created: 2026-07-28
-updated: 2026-10-03
+updated: 2026-11-16
 sources: [aga-2024-esophageal-immunity-infection]
+quality_reviewed: 2026-11-16
 ---
 
-Framework for the **esophageal manifestations of systemic autoimmune, eosinophilic, and dermatologic disease**, and for **secondary (mimic) achalasia**. Underrecognized causes of dysphagia, odynophagia, chest pain, and [[gerd|heartburn]]. Endoscopy is frequently unrevealing — rings, texture changes, exudates, strictures, nonspecific mucosa, or a normal-appearing esophagus — so diagnosis rests on a high index of suspicion, directed history, and targeted testing.
+Framework for the **esophageal manifestations of systemic autoimmune, eosinophilic, and dermatologic disease**, and for **secondary (mimic) achalasia**. Underrecognized causes of dysphagia, odynophagia, chest pain, and [[gerd|heartburn]]. Endoscopy is frequently unrevealing — rings, texture changes, or nonspecific mucosal appearances — so diagnosis rests on a high index of suspicion, directed history, and targeted testing.
 
 *For the localized entities, see [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]], [[lymphocytic-esophagitis|lymphocytic esophagitis]], and [[infectious-esophagitis|infectious esophagitis]]. Symptom workup: [[dysphagia]].*
+
+*See Figure 1 in [[aga-2024-esophageal-immunity-infection]] for example endoscopic images — Sjögren's esophagus with stricture, Crohn's disease, lichen planus with edema and exudates, candida esophagitis, pemphigus with sloughing tissue, and EoE with rings, furrows, edema and exudates.*
 
 ## Contents
 - [[#When to Suspect]]
 - [[#Eosinophilic Systemic Disease]]
 - [[#Connective Tissue / Rheumatologic Disease]]
-- [[#Esophageal Crohn's Disease]]
+- [[#Crohn's Disease]]
 - [[#Dermatologic Disease]]
   - [[#Esophageal Lichen Planus]]
   - [[#Pemphigus Vulgaris]]
@@ -30,12 +33,13 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 
 ## When to Suspect
 
-- Initial evaluation of any esophageal symptom includes **history + physical directed at concurrent autoimmune or allergic disease** and at **risks for immunosuppression** (which raise infection risk). (Best Practice Advice [BPA] 1)
-- Esophageal symptoms with **no explanatory endoscopic or reflux finding**, or **persisting despite standard therapy** — identify the inflammatory/infectious risks and investigate them as the cause. Symptoms persisting after treatment of [[infectious-esophagitis|infectious esophagitis]] are handled on that page.
-- Known or suspected **rheumatologic, allergic, or dermatologic disease**; peripheral **eosinophilia**; travel/exposure in Central or South America; recent **coronavirus disease 2019 (COVID-19)**.
+- **Identify a patient's inflammatory or infectious risks and investigate them as a potential cause** of the esophageal symptoms — awareness of the esophageal manifestations of systemic immunologic and infectious disease reduces diagnostic delay. (Best Practice Advice [BPA] 1)
+- Initial evaluation of esophageal symptoms = **broad history and physical directed at concurrent autoimmune or allergic disease**, and at **risks for immunosuppression** (which raise infection risk).
+- Risks worth asking for by name: known or suspected **rheumatologic, allergic, or dermatologic disease**; peripheral **eosinophilia**; travel/exposure in Central or South America; recent **coronavirus disease 2019 (COVID-19)**.
 - **Peripheral eosinophilia (absolute eosinophil count [AEC] >1500 cells/µL)** with esophageal symptoms → work up non-EoE eosinophilic gastrointestinal (GI) disease, hypereosinophilic syndrome (HES), and eosinophilic granulomatosis with polyangiitis (EGPA); consult allergy/immunology. (BPA 6)
-- Collaboration with rheumatology, dermatology, allergy/immunology, or infectious disease improves diagnosis and treatment.
-- How many esophageal biopsies to take, and when and how to take them, is not defined for these conditions — no society guidance exists for evaluating extra-esophageal or systemic causes of esophageal dysfunction.
+- Symptoms persisting after therapy for [[infectious-esophagitis|infectious esophagitis]] are handled on that page.
+- Collaboration with rheumatology, dermatology, allergy/immunology, or infectious disease improves understanding and treatment.
+- Guidance is lacking: how many esophageal biopsies to take, and when and how to take them, is not established for these conditions, and guidelines for evaluating extra-esophageal or systemic causes of esophageal dysfunction are lacking.
 
 ## Eosinophilic Systemic Disease
 
@@ -57,13 +61,13 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 | **MCTD** | **Both striated and smooth** | Overlap syndrome (features of SSc, systemic lupus erythematosus [SLE], polymyositis, and/or rheumatoid arthritis); can resemble SSc; manifests **proximally and distally**; involvement may be **more variable and less severe than SSc** |
 | **Sjögren's** | Secretory (sicca) dysfunction from lacrimal/salivary gland destruction, plus dysmotility | Extraglandular manifestations common — up to **80%** report dysphagia |
 | **SLE** | Dysmotility, mechanism unclear | Variable findings on objective testing |
-| **Myositis** — polymyositis, dermatomyositis, inclusion body myositis | **Proximal striated muscle**, with the **cricopharyngeus (CP)** often involved | **30–80%** experience dysphagia; CP-directed endoscopic therapy — **dilation, [[botulinum-toxin\|botulinum toxin]] injection, or myotomy** — often has an important role |
+| **Myositis** — polymyositis, dermatomyositis, inclusion body myositis | **Proximal striated muscle**, with the **cricopharyngeus (CP)** often involved | **30–80%** experience dysphagia; CP-directed endoscopic therapy — **[[esophageal-dilation\|dilation]], [[botulinum-toxin\|botulinum toxin]] injection, or myotomy** — often has an important role |
 
 - Literature on the esophageal manifestations of MCTD, Sjögren's, SLE, and myositis is sparse compared with SSc.
 
-## Esophageal Crohn's Disease
+## Crohn's Disease
 
-- A **minority** of patients with [[crohns-disease|Crohn's disease]]: inflammatory, stricturing, or fistulizing change with **granulomas** on histology. (BPA 8)
+- A **minority** of patients with [[crohns-disease|Crohn's disease]]: inflammatory, stricturing, or fistulizing change with **granulomas** on histology. Esophageal manifestations tend to occur in those with **active intestinal disease**. (BPA 8)
 - Uncommon in adults; described more often in **children — one study reported 20%**.
 - Suspect in a patient with **active disease at multiple sites** who reports dysphagia and has **superficial or deep esophageal mucosal ulceration**.
 - Esophageal involvement **requires biologic therapy**.
@@ -75,22 +79,24 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 
 ### Esophageal Lichen Planus
 
-- Lichen planus (LP) can affect oral, esophageal, and genital mucosa; it is a small fraction of all skin disease but the **most common dermatologic disorder to affect the esophagus**.
-- **Esophageal LP (ELP) occurs in isolation relatively often** — in a retrospective series of 40 patients, **13 (33%) had esophageal involvement alone**; coexisting cutaneous involvement in only **10%**, and concomitant oral or genital involvement in **<50%**.
-- Strong predilection for **Caucasian females, typically middle or older age**. Dysphagia is common.
-- Endoscopy: **narrowed caliber of the majority of the esophagus** (especially proximal and middle) with **multiple strictures**; **pale, edematous mucosa with peeling/sloughing on contact** with the scope; **thick white exudates**.
-- Histology: **Civatte bodies** (keratinocyte necrosis producing a vacuolated appearance) are characteristic, but **<50% of biopsies are diagnostic** — ELP is hard to define histopathologically.
-- Direct immunofluorescence (DIF): used mainly to **exclude other dermatologic disease that involves the esophagus** (e.g., pemphigus vulgaris [PV]). **Fibrinogen deposition in the epithelial basement membrane is suggestive — not diagnostic — of ELP.**
-- **Increased risk of [[esophageal-cancer|esophageal cancer]].**
-- Treatment: algorithms are not fully defined. **Swallowed topical corticosteroids benefit >60%**; non-responders will likely need **systemic immunosuppressants**, with dermatology consultation.
+- **Who:** lichen planus (LP) can affect oral, esophageal, and genital mucosa; a small fraction of all skin disease but the **most common dermatologic disorder to affect the esophagus**. Strong predilection for **Caucasian females, typically middle or older age**; dysphagia is common.
+- **Isolated esophageal disease is frequent** — in a retrospective series of 40 patients with esophageal LP (ELP), **13 (33%) had esophageal involvement alone**; coexisting cutaneous involvement in only **10%**, concomitant oral or genital involvement in **<50%**.
+- **Endoscopy:** **narrowed caliber of the majority of the esophagus** (especially proximal and middle) with **multiple [[esophageal-stricture|strictures]]**; **pale, edematous mucosa with peeling/sloughing on contact** with the scope; **thick white exudates**.
+- **Histology and direct immunofluorescence (DIF):** **Civatte bodies** (keratinocyte necrosis producing a vacuolated appearance) are characteristic, but **<50% of biopsies are diagnostic** — ELP is hard to define histopathologically. DIF is used mainly to **exclude other dermatologic disease that involves the esophagus** (e.g., pemphigus vulgaris [PV]); **fibrinogen deposition in the epithelial basement membrane is suggestive — not diagnostic — of ELP.**
+- **Risk and treatment:** **increased risk of [[esophageal-cancer|esophageal cancer]]**. Treatment algorithms are not fully defined; **swallowed topical corticosteroids benefit >60%**, and non-responders will likely need **systemic immunosuppressants**, with dermatology consultation.
+
+> [!pearl] Lichen planus can be esophagus-only
+> A third of ELP series patients have esophageal involvement alone and only 10% have skin disease — dysphagia with a narrowed, peeling, exudate-coated esophagus is reason enough to biopsy for it, and these patients carry an increased esophageal cancer risk ([[aga-2024-esophageal-immunity-infection]]).
 
 ### Pemphigus Vulgaris
 
-- **Most common bullous disorder**; affects males and females **equally**, often **ages 40–60**.
-- In a prospective study of 28 patients with oral PV, **18 had dysphagia** with objective esophageal involvement: **erythema, red longitudinal lines, erosions, blisters, and/or ulcers**, all at similar rates (ulcers in only one patient).
-- **DIF positive for immunoglobulin G (IgG) and C3 deposition is diagnostic of PV.** In 26 patients with PV and esophageal symptoms, only **12 were DIF-positive** — a negative DIF does not exclude it.
-- Endoscopic findings are otherwise nonspecific; **red longitudinal lines** were the most common. Isolated esophageal PV is described only in a few case reports.
-- During biopsy, pemphigus may show **sloughing with dislodgement of epithelium**, analogous to the cutaneous Nikolsky's sign.
+- **Who:** **most common bullous disorder**; affects males and females **equally**, often **ages 40–60**.
+- **Isolated esophageal PV** is described only in a few case reports.
+- **Endoscopy:** in a prospective study of 28 patients with oral PV, **18 had dysphagia** with objective esophageal involvement — **erythema, red longitudinal lines, erosions, blisters, and/or ulcers**, all at similar rates (ulcers in only one patient). Findings are otherwise nonspecific; **red longitudinal lines** were the most common. During biopsy, pemphigus may show **sloughing with dislodgement of epithelium**, analogous to the cutaneous Nikolsky's sign.
+- **DIF:** **positive for immunoglobulin G (IgG) and C3 deposition is diagnostic of PV.**
+
+> [!pitfall] A negative DIF does not exclude pemphigus
+> Of 26 patients with PV presenting with esophageal symptoms, only **12 were DIF-positive** ([[aga-2024-esophageal-immunity-infection]]).
 
 ### Tissue Handling for Direct Immunofluorescence
 
@@ -105,9 +111,7 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 ### Autoimmune Association
 
 - Prevailing hypothesis: achalasia is an **autoimmune disease targeting esophageal myenteric neurons**.
-- Compared with the general population, patients with achalasia were more likely to carry autoimmune conditions — including type 1 diabetes mellitus, Sjögren's, and SLE — **odds ratio (OR) 3.6 (95% confidence interval [CI] 2.5–5.3)**.
-- Large claims database (6769 achalasia cases vs 27,076 controls): autoimmune conditions associated with **OR 1.26 (95% CI 1.11–1.42)** for achalasia.
-- German case-control study (1141 cases vs 3423 matched controls): **OR 1.49 (95% CI 1.23–1.80)**.
+- Patients with achalasia carry autoimmune conditions — including type 1 diabetes mellitus, Sjögren's, and SLE — more often than the general population: **odds ratio (OR) 3.6 (95% confidence interval [CI] 2.5–5.3)**; **OR 1.26 (95% CI 1.11–1.42)** in a large claims database and **OR 1.49 (95% CI 1.23–1.80)** in a German case-control study.
 - In both database studies the **strongest associations were SSc and Addison's disease**.
 
 ### Eosinophilic and Mast-Cell Disease
@@ -149,7 +153,7 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[lymphocytic-esophagitis]], [[infectious-esophagitis]], [[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[upper-endoscopy]], [[crohns-disease]], [[gerd]], [[esophageal-cancer]], [[proton-pump-inhibitors]], [[small-bowel-motility]]
+[[eosinophilic-esophagitis]], [[lymphocytic-esophagitis]], [[infectious-esophagitis]], [[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[upper-endoscopy]], [[crohns-disease]], [[gerd]], [[esophageal-cancer]], [[esophageal-stricture]], [[esophageal-dilation]], [[botulinum-toxin]], [[proton-pump-inhibitors]], [[small-bowel-motility]]
 
 ---
 

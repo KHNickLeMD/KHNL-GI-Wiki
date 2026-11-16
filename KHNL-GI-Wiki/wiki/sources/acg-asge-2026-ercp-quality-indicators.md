@@ -3,7 +3,7 @@ title: "ACG/ASGE 2026: Quality Indicators for ERCP"
 category: source
 tags: [ercp, quality, quality-indicators, cannulation, post-ercp-pancreatitis, rectal-nsaid, pancreatic-stent, radiation, choledocholithiasis, adverse-events, pancreaticobiliary]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-16
 sources: []
 ---
 
@@ -51,7 +51,7 @@ Strength and target exactly as the document gives them. **Priority indicators ma
 | 10 | Unplanned biliary intervention (e.g., salvage percutaneous transhepatic biliary drainage or repeat ERCP) within **30 days** | 1C | Outcome | **<15%** |
 | 11 | PEP rate documented and tracked | 3 | Process | >95% |
 | 12 | Clinically significant hemorrhage after sphincterotomy or sphincteroplasty documented and tracked | 3 | Process | >95% |
-| 13 | Cholangitis and cholecystitis within 30 days documented and tracked | 3 | Process | >95% |
+| 13 | Cholangitis within 30 days documented and tracked (Table 1 wording; the indicator's own section heading and discussion read **cholangitis and cholecystitis**) | 3 | Process | >95% |
 
 > **Note the measure type on #11–13.** These are **process** indicators — the target is the frequency with which the event is *documented and tracked*, not the event rate itself. The task force says so explicitly: a fair single benchmark for the PEP rate "may not be feasible or justified", so it chose complete tracking instead, with the expectation that the rates are then benchmarked **within groups having similar case mixes**.
 
@@ -92,8 +92,9 @@ The denominator rules are the decision content here, because they decide whether
 ### Stone extraction (indicator 6)
 
 - Most stones are **<10 mm** and come out with conventional sphincterotomy and balloon extraction. Harder: stones **above the biliary confluence**, retained in the **cystic duct**, **impacted**, **multiple stacked**, or in a **nondilated or tapered distal duct**, and any case needing needle-knife sphincterotomy for access.
-- **Complete clearance at the index ERCP is achieved in about 75% of cases**; large stones are less common, occurring in **<20% of ERCPs**.
-- **Large (>10 mm) stones:** sphincterotomy **plus transpapillary large balloon dilation** clears **85%** at the first ERCP. Across 19 RCTs (2,752 patients) comparing 5 approaches, clearance of common duct stones >10 mm ranged from **100% with single-operator cholangioscopy** down to **57% with mechanical lithotripsy**.
+- **Most stones are <10 mm** and come out with conventional sphincterotomy and balloon extraction; the difficult situations above are **less common, occurring in <20% of ERCPs**.
+- **Large (>10 mm) stones:** sphincterotomy **plus transpapillary large balloon dilation** clears **85%** at the first ERCP in a systematic review and meta-analysis; **when electrohydraulic or laser lithotripsy was required, complete clearance was 75%**. Across 19 RCTs (2,752 patients) comparing 5 approaches, clearance of common duct stones >10 mm ranged from **100% with single-operator cholangioscopy** down to **57% with mechanical lithotripsy**.
+- Per-provider data: 63 endoscopists self-reporting outcomes in **18,182 ERCPs** had technical success for stones **<10 mm of nearly 100% overall and >92% per provider** (self-reporting bias).
 - Real-world shortfall: in independently verified hospital episode statistics on **37,468 patients** undergoing a first ERCP for biliary stones, **only two-thirds had complete clearance**. Nationwide registry data from the Netherlands put ERCP success at **85.8% when reported versus 76.0% when not reported** (*P* < 0.001).
 - **Document the size and location of the stones, any strictures and any postsurgical anatomy**, so that later benchmarking compares like with like.
 
@@ -149,7 +150,7 @@ Published literature most strongly supports prophylaxis in **three scenarios**, 
 | Hemorrhage (most often after sphincterotomy) | **0.8%–2%** of cases |
 | Perforation (guidewire-, sphincterotomy- or endoscope-induced) | **0.1%–0.6%** |
 | Cholangitis/cholecystitis rates across reported cohorts | **1%–8%**, with **PSC the highest-risk indication** |
-| Post-sphincterotomy bleeding — the rate to strive for | **<1%**, and in all cases **<1%–2%** of all procedures |
+| Post-sphincterotomy bleeding — no target set | The Task Force **deliberated retaining the 2015 outcome indicator of <1% and did not**; bleeding is not entirely preventable, but the rate should be low — **<1%–2% of all procedures** |
 
 - **Informed consent (indicator 2) should cover at least 5 adverse outcomes:** pancreatitis, hemorrhage, **infection (both procedure-related and duodenoscope-related)**, perforation, and cardiopulmonary events — plus the possibility that the ERCP may not succeed and that an adverse event could be severe.
 - **Carbapenem-resistant *Escherichia coli* infections are rare** but have been reported in the context of previous duodenoscope outbreaks. The task force **deliberately did not make duodenoscope contamination a quality indicator**: the measurable event rate is low and the clinical significance of contamination identified by endoscope culture remains unclear.
