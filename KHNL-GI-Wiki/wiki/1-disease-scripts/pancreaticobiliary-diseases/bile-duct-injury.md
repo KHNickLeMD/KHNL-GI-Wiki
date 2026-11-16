@@ -119,6 +119,8 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 
 **A postcholecystectomy stricture gets temporary multiple plastic stents (MPSs)** — *conditional recommendation, very low quality of evidence* ([[esge-2026-biliary-strictures|ESGE 2026]]).
 
+- **When to start endotherapy:** liver function tests persistently elevated for **more than a month** and/or **cholangitis**. Untreated, a sustained rise drives cholangitis, liver abscess and secondary biliary cirrhosis.
+- **Endoscopic sphincterotomy is required** to run an MPS protocol — also to place or remove an intraductal fully covered self-expandable metal stent (FCSEMS), and to cut the pancreatitis risk of a transpapillary FCSEMS.
 - **Why plastic and not metal:** these strictures **involve the main hepatic confluence in almost half of cases**, and MPSs adapt to a confluence stricture. Postcholecystectomy stricture complicates **<1% of cholecystectomies**.
 - **A fully covered self-expandable metal stent (FCSEMS) can be considered only when** the stricture is **>2 cm distally from the main hepatic confluence**, or the patient is **noncompliant with repeated [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]s**.
 

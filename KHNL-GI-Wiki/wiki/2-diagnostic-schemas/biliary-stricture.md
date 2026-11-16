@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures, esge-2026-biliary-strictures]
 ---
 
@@ -239,6 +239,7 @@ The following features increase pre-test probability of malignancy and should pr
 - uSEMS vs fcSEMS: **insufficient evidence** to prefer one; roughly equivalent patency. Favor uSEMS if cystic duct takeoff cannot be avoided
 - **Confirm malignancy before uSEMS placement** — uSEMS becomes permanently embedded; misplacement in benign disease causes lifelong complications
 - If patient is a potential pancreaticoduodenectomy candidate and uSEMS is placed: position proximal end **≥1.5 cm below the biliary confluence**
+- **Blocked SEMS:** for distal malignant obstruction, a uSEMS and a covered SEMS placed inside the original SEMS appear **equally effective** for patency (one RCT plus a retrospective series); for proximal obstruction the data conflict between plastic and metal inside the original SEMS, and ESGE 2026 makes no recommendation — ESGE 2017 had advised replacing a plastic stent with a SEMS and inserting a plastic stent or a new SEMS inside a blocked SEMS ([[esge-2026-biliary-strictures]])
 
 ### Perihilar Stricture
 
@@ -247,7 +248,7 @@ The following features increase pre-test probability of malignancy and should pr
 - Goal is to drain **>50%, and ideally ≥70%, of the viable nonatrophic liver volume** for proven malignant **Bismuth II–IV** strictures — a **volumetric sectorial approach**, not simply unilateral vs bilateral (Conditional, Low — [[esge-2026-biliary-strictures]]; ACG 2023 set the target at >50%)
 - **Multimodal:** use [[eus-guided-biliary-drainage|EUS-BD]] and/or PTBD as complements to ERCP to reach the target
 - **How to compute it:** segments drained ÷ nonatrophic, nonresected segments present. Plan from MRCP (or three-dimensional CT volumetry), noting whether tumor infiltration separates the sectors
-- Right anterior sector (segments V, VIII), right posterior sector (segments VI, VII), and left sector (segments II, III) each contribute ~30% of hepatic volume
+- Sectors to identify on preprocedural imaging: right anterior (segments V, VIII), right posterior (segments VI, VII), and left (segments II, III) — note for each whether tumor infiltration separates it ([[esge-2026-biliary-strictures]]). Each sector contributes roughly one-third (~30%) of hepatic volume ([[acg-2023-biliary-strictures]])
 - Avoid opacifying or stenting atrophic segments — no functional benefit and increases cholangitis risk
 - Administer **[[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]]** when incomplete or slow drainage of contrast is anticipated
 - **Drain in a high-volume center with a hepatobiliary multidisciplinary team (MDT)** (Strong, Moderate — [[esge-2026-biliary-strictures]])

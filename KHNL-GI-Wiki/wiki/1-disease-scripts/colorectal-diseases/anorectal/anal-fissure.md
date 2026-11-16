@@ -145,8 +145,8 @@ sources: [ascrs-2023-anal-fissures, acg-2021-anorectal-disorders, asge-2010-anor
 | | Conventional LIS | Tailored LIS |
 |---|---|---|
 | Extent | Internal sphincter divided **up to the dentate line** | Divided **only to the apex of the fissure** |
-| Healing | — | **Similar** |
-| FI | Wexner score rose significantly from baseline (0.58 → 0.16, *p* = 0.02) | **No significant rise**; 287-patient series: **1.4% flatus incontinence, no stool incontinence** |
+| Healing | **90%–100%** | **90%–100%** — equivalent (3 randomized trials, 259 patients) |
+| FI | **11%**; mean incontinence score rose vs baseline (**0.58 vs 0.16**, *p* = 0.02) | **2%** (*p* = 0.04); no significant rise vs baseline (0.42 vs 0.29, *p* = 0.13); 287-patient series **1.4% flatus incontinence, no stool incontinence** |
 
 - **The quantitative anchor:** in 31 women studied by endoanal ultrasound after tailored LIS, mean **Wexner score was 1 when <25% of sphincter length was divided vs 3 when ≥25%** (*p* = 0.004). **25% of sphincter length is the number to stay under.**
 - **Open vs closed technique: equivalent** (Rec 7, 1A) — healing **90%–100% open**, **85%–100% closed**, minor FI **5%–25%**. Either may be used.

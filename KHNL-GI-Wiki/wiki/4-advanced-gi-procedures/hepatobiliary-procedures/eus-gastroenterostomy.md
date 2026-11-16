@@ -159,7 +159,7 @@ The **main cause of technical failure and of adverse events**. Management is tai
 ### Recurrent obstruction
 
 - **Manage recurrent GOO endoscopically first when the LAMS is dysfunctional** (91%). Stent dysfunction is uncommon — 0% to 3% across large series.
-- **Most recurrent symptoms are not stent occlusion.** In one series only 2 of 8 reinterventions were for occlusion (managed by food-impaction removal or a coaxial tubular stent); the rest were **gastroparesis or downstream obstruction**. In another, recurrent obstruction in 16% was **entirely downstream small-bowel obstruction from carcinomatosis**, not stent failure.
+- **Most recurrent symptoms are not stent occlusion.** In one series only 2 of 8 reinterventions were for occlusion (managed by food-impaction removal or a coaxial tubular stent); the rest were **gastroparesis or downstream obstruction**. In another, recurrent obstruction in 16% was **entirely downstream [[small-bowel-obstruction|small-bowel obstruction]] from carcinomatosis**, not stent failure.
 - So: **look for a second level of obstruction and for impaired gastric motility before blaming the anastomosis.**
 
 ---

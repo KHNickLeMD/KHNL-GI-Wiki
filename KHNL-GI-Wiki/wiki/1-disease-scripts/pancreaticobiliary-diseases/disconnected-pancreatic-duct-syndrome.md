@@ -187,7 +187,7 @@ flowchart TD
 - If the collection was **initially treated with multiple plastic stents, these can remain indefinitely**, assuming drainage was successful.
 - Where LAMS are removed but a double-pigtail stent **cannot** be placed (cavity too small/decompressed, or technical reasons) → **higher rate of recurrent fluid collections.**
 - **Migration:** recurrent collections after transmural stent placement all occurred with migration **<6 months** after placement; patients with migration **after 6 months were asymptomatic** (Rana et al.). In another series **17 of 36 (47%)** migrated spontaneously, yet recurrence occurred in only one. Periodic follow-up to confirm stent position is therefore needed to interpret long-term outcomes.
-- **Complications are infrequent but can be significant:** **8%** had **colon perforation, 5 to 33 months** after placement; small bowel obstruction from migration also reported. Overall, indefinite indwelling double-pigtail transgastric stents **appear safe** in DPD.
+- **Complications are infrequent but can be significant:** **8%** had **colon perforation, 5 to 33 months** after placement; [[small-bowel-obstruction|small bowel obstruction]] from migration also reported. Overall, indefinite indwelling double-pigtail transgastric stents **appear safe** in DPD.
 - ⚠ **Explicitly unknown per the guideline:** the ideal **number** (beyond "at least 2"), **size**, and **length** of stents; **whether/when to remove** them; the impact of migration on recurrence; and whether recurrent collections are symptomatic enough to warrant therapy. Gradual atrophy of the disconnected segment may eventually diminish enzyme secretion and obviate long-term drainage.
 
 ### Surgery

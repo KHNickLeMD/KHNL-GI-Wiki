@@ -3,7 +3,7 @@ title: "IgG4-Related Sclerosing Cholangitis (IgG4-SC)"
 category: disease-script
 tags: [igg4, igg4-related-disease, igg4-sclerosing-cholangitis, biliary, cholestasis, biliary-stricture, psc, cholangiocarcinoma, autoimmune-pancreatitis, corticosteroids, rituximab]
 created: 2026-10-10
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [aasld-2022-psc, acg-2015-psc, aga-2019-autoimmune-pancreatitis, asge-2023-indeterminate-biliary-strictures, acg-2017-liver-chemistries, nccn-2026-biliary-tract-cancers, esge-2026-biliary-strictures]
 ---
 
@@ -41,7 +41,7 @@ The biliary manifestation of immunoglobulin G4 (IgG4)-related disease, and **the
 | Serology | Serum IgG4 elevation |
 | Frequent accompaniment | Pancreatic involvement |
 
-- **The diagnostic framework is HISORt** — **h**istology, **i**maging (cholangiography, per [[#Imaging and Cholangiography]]), **s**erology (serum IgG4), **o**rgan involvement, and **r**esponse to steroids ([[esge-2026-biliary-strictures]]). No ingested guideline prints the operative criteria within each domain, so assemble the diagnosis from the five elements as detailed below.
+- **The diagnostic framework is HISORt** — **h**istology, **i**maging (magnetic resonance cholangiopancreatography [MRCP], per [[#Imaging and Cholangiography]]), **s**erology (serum IgG4), **o**rgan involvement (associated AIP, sialadenitis), and **r**esponse to steroid treatment ([[esge-2026-biliary-strictures]]). No ingested guideline prints the operative criteria within each domain, so assemble the diagnosis from the five elements as detailed below.
 - The pancreatic side of the same disease **does** have a criteria set: the International Consensus Diagnostic Criteria (ICDC) for AIP, whose five cardinal features and the one printed component criterion live on [[autoimmune-pancreatitis]].
 
 ### Who Gets Tested for It
@@ -108,7 +108,7 @@ IgG4-SC sits on the spectrum of IgG4-related disease. The full list of other org
 
 ### Imaging and Cholangiography
 
-- **[[mri-mrcp|Magnetic resonance imaging / magnetic resonance cholangiopancreatography (MRI/MRCP)]] is the first imaging modality** for a suspected sclerosing cholangiopathy, and **[[ercp|ERCP]] should be avoided for diagnosis alone** ([[aasld-2022-psc]] GS 1, GS 3) — reserve it for tissue sampling or therapy of a relevant stricture.
+- **[[mri-mrcp|Magnetic resonance imaging (MRI) / MRCP]] is the first imaging modality** for a suspected sclerosing cholangiopathy, and **[[ercp|ERCP]] should be avoided for diagnosis alone** ([[aasld-2022-psc]] GS 1, GS 3) — reserve it for tissue sampling or therapy of a relevant stricture.
 - **Look at the pancreas on the same study.** The features that identify the pancreatic half of the disease ([[aga-2019-autoimmune-pancreatitis]]): **diffuse parenchymal enlargement ("sausage shape")**, a **low-attenuating capsule ("rim enhancement")**, and **diffuse or multifocal narrowing of the pancreatic duct without upstream dilatation**. Their presence converts an indeterminate biliary stricture into a confident IgG4 diagnosis.
 - **Distinguish the two mechanisms of jaundice**, because only one is IgG4-SC: **distal biliary compression by pancreatic head swelling** (a pancreatic problem) vs a **proximal biliary stricture** (IgG4-SC proper, and the one tied to relapse risk).
 

@@ -30,7 +30,7 @@ quality_reviewed: 2026-11-12
 
 **Scope of this page: chronic or recurrent nausea and/or vomiting** — the presentation Rome V's algorithm addresses ([[rome-v-2026-gastroduodenal-disorders]]).
 
-**The emergency presentation is a different pathway.** In the emergency department the approach is immediate evaluation for life-threatening disorders — acute abdomen, bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]], [[acute-pancreatitis|pancreatitis]], myocardial infarction, among others ([[aga-2024-chs]]).
+**The emergency presentation is a different pathway.** In the emergency department the approach is immediate evaluation for life-threatening disorders — acute abdomen, [[small-bowel-obstruction|bowel obstruction]], [[acute-mesenteric-ischemia|mesenteric ischemia]], [[acute-pancreatitis|pancreatitis]], myocardial infarction, among others ([[aga-2024-chs]]).
 
 ---
 
@@ -128,7 +128,7 @@ Rome V places three adult entities under **B2 — nausea and vomiting disorders*
 
 ## See Also
 
-[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[rumination-syndrome]], [[functional-dyspepsia]], [[dyspepsia]], [[nausea-and-vomiting-of-pregnancy]], [[liver-disease-in-pregnancy]], [[acute-hepatic-porphyria]], [[gerd]], [[achalasia]], [[gastric-outlet-obstruction]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[acute-mesenteric-ischemia]], [[acute-pancreatitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[high-resolution-manometry]], [[disorders-of-gut-brain-interaction]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[rumination-syndrome]], [[functional-dyspepsia]], [[dyspepsia]], [[nausea-and-vomiting-of-pregnancy]], [[liver-disease-in-pregnancy]], [[acute-hepatic-porphyria]], [[gerd]], [[achalasia]], [[gastric-outlet-obstruction]], [[small-bowel-obstruction]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[acute-mesenteric-ischemia]], [[acute-pancreatitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[high-resolution-manometry]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

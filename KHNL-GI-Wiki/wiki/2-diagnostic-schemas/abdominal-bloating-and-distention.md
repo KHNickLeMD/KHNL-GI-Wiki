@@ -77,7 +77,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 - **[[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth (SIBO)]]** / **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** (methane, *Methanobrevibacter smithii*, esp. IBS-C) — pursue on the basis of **risk factors and accompanying diarrhea**, not the bloating itself (see the pitfall below).
 - **Pelvic floor / defecatory dysfunction** — dyssynergic defecation with retained stool ([[defecation-disorders]]).
 - **Abdominophrenic dyssynergia (APD)** — paradoxical diaphragm descent + anterior abdominal wall relaxation producing visible distention.
-- **Structural / alarm** — [[ascites]], intra-abdominal mass, bowel obstruction/ileus/[[acute-colonic-pseudo-obstruction|pseudo-obstruction]], ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
+- **Structural / alarm** — [[ascites]], intra-abdominal mass, [[small-bowel-obstruction|bowel obstruction]]/ileus/[[acute-colonic-pseudo-obstruction|pseudo-obstruction]], ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
 
 ---
 
@@ -208,7 +208,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[functional-dyspepsia]], [[functional-diarrhea]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[achalasia]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]], [[botulinum-toxin]], [[brain-gut-behavioral-therapy]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]], [[low-fodmap-diet]], [[rifaximin]], [[prucalopride]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[functional-dyspepsia]], [[functional-diarrhea]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[small-bowel-obstruction]], [[acute-colonic-pseudo-obstruction]], [[achalasia]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]], [[botulinum-toxin]], [[brain-gut-behavioral-therapy]], [[proton-pump-inhibitors]], [[probiotics]], [[baclofen]], [[low-fodmap-diet]], [[rifaximin]], [[prucalopride]]
 
 ---
 

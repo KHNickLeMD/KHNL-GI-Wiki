@@ -77,6 +77,8 @@ Two published models predict the need for surgery (the guideline describes them;
 
 ## Differential Diagnosis
 
+*Workup: see [[nausea-and-vomiting]] for the broader obstruction/ileus evaluation.*
+
 Non-adhesive causes of small bowel obstruction named by WSES 2017:
 
 - Incarcerated hernias
@@ -188,7 +190,7 @@ flowchart TD
 
 ## See Also
 
-[[acute-colonic-pseudo-obstruction]], [[gastric-outlet-obstruction]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[short-bowel-syndrome]]
+[[nausea-and-vomiting]], [[acute-colonic-pseudo-obstruction]], [[gastric-outlet-obstruction]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[short-bowel-syndrome]], [[enteral-access]]
 
 ---
 

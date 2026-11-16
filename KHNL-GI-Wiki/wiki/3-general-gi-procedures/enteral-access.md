@@ -104,7 +104,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes, asge-
 
 ## Contraindications
 
-- **Only ABSOLUTE contraindication** to enteral access for feeding: **mechanical small-bowel obstruction** (unless tube placed for decompression).
+- **Only ABSOLUTE contraindication** to enteral access for feeding: **mechanical [[small-bowel-obstruction|small-bowel obstruction]]** (unless tube placed for decompression).
 - **Avoid nasal access** with abnormal nasal anatomy, facial trauma, or recent oronasal surgery.
 - **Relative contraindications to percutaneous insertion:**
   - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]

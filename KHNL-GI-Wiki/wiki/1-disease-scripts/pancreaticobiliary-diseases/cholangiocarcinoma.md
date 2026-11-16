@@ -3,8 +3,8 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-11-15
-sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction, esge-2026-biliary-strictures]
+updated: 2026-11-16
+sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction, esge-2026-biliary-strictures, acg-2023-biliary-strictures]
 ---
 
 Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epithelium, classified anatomically as **intrahepatic (iCCA)**, **perihilar (Klatskin)**, or **distal extrahepatic**. US incidence is ~8000 cases/year and rising; overall 5-year survival ~10%, but earlier-stage diagnosis carries a meaningfully better prognosis ([[asge-2023-indeterminate-biliary-strictures]]) — so prompt tissue diagnosis when a patient presents with a [[biliary-stricture|biliary stricture]] matters.
@@ -223,10 +223,11 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 
 - **Drain in a high-volume center with a hepatobiliary multidisciplinary team (MDT)** (Strong, moderate).
 - **Volume target: drain >50%, and ideally ≥70%, of the viable nonatrophic liver volume** in proven malignant **Bismuth II–IV** strictures, using a multimodal approach — [[eus-guided-biliary-drainage|EUS-guided biliary drainage (EUS-BD)]] and/or percutaneous transhepatic biliary drainage (PTBD) as complements to ERCP (conditional, low). *How the fraction is computed, and the sector anatomy behind it: [[biliary-stricture]].*
-- **Preoperative: ERCP over PTBD** (Strong, moderate) — the randomized trial in potentially resectable perihilar CCA was stopped early for higher mortality with PTBD, which also carries more implantation metastases.
+- **Preoperative: ERCP over PTBD** (Strong, moderate) — the randomized trial in potentially resectable perihilar CCA was **stopped early for higher mortality with PTBD (41% vs 11%)**, which also carries more implantation metastases.
 - **Palliative: ERCP for Bismuth I–II.** For **Bismuth III–IV**, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD; complementary PTBD may still be required (conditional, very low).
 - **Stent choice: either a plastic stent or an uncovered SEMS** for proven malignant hilar obstruction (conditional, moderate) — **plastic while the optimal drainage strategy has not been defined**, **uncovered SEMS in expert centers** to reduce revisional procedures, judged on expected survival and the likelihood of achieving complete drainage. An uncovered SEMS is a **definitive** intervention: suboptimal initial drainage cannot easily be optimized afterwards.
 - ⚠ **Do not place an uncovered SEMS for extrahepatic obstruction of unconfirmed etiology** (conditional, low) — **5%–10% of patients resected for presumed pancreatic cancer turn out to have benign disease**.
+- ⚠ **Where this changed:** [[acg-2023-biliary-strictures|ACG 2023]] found insufficient evidence to prefer ERCP or PTBD for hilar drainage and set the target at >50% of nonatrophic volume; ESGE 2026 is the newer tier-1 source and governs the page.
 
 ### Surveillance After Resection
 
@@ -246,3 +247,4 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 2. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]
 3. [[asge-2021-malignant-hilar-obstruction|ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (2021)]]
 4. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+5. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]

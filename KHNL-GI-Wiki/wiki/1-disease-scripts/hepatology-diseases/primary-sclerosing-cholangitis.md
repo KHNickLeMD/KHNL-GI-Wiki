@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-11-15
-sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures]
+updated: 2026-11-16
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Assessment
@@ -112,7 +112,7 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 **Stricture Terminology** ([[aasld-2022-psc]]):
 
 - **Dominant stricture:** a stricture **on ERCP** with diameter **≤1.5 mm in the common bile duct (CBD)** or **≤1 mm in the hepatic duct**; present in up to half of patients at diagnosis, and up to **45%** develop one during the disease course. **Do not use this term in MRI reports** — MRI/MRCP lacks the spatial resolution and ERCP's high-pressure injection makes the two non-equivalent
-- **High-grade stricture:** the MRI/MRCP counterpart — **>75% lumen reduction** in CBD or hepatic ducts. ESGE 2026 uses **"high grade" in place of "dominant"** and defines it on MRCP as a **75% reduction in duct diameter** in the CBD or hepatic ducts ([[esge-2026-biliary-strictures]])
+- **High-grade stricture:** the MRI/MRCP counterpart — **>75% lumen reduction** in CBD or hepatic ducts. [[esge-2026-biliary-strictures|European Society of Gastrointestinal Endoscopy (ESGE) 2026]] uses **"high grade" in place of "dominant"** and defines it on MRCP as a **75% reduction in duct diameter** in the CBD or hepatic ducts
 - **Relevant stricture:** Any stricture of CBD or hepatic ducts with obstructive cholestasis and/or bacterial cholangitis signs/symptoms
 
 ---
@@ -139,7 +139,9 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 
 **Overlap syndromes:**
 
-- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14)
+- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14). ⚠ **The budesonide option is superseded** — [[easl-2025-autoimmune-hepatitis|EASL 2025]] removes budesonide from first-line AIH therapy and **contraindicates it in cirrhosis**
+- **AIH/PSC variant — EASL 2025 regimen** (weak recommendation; management targets the predominant component): **immunosuppression ± [[ursodeoxycholic-acid|UDCA]]** in adults and children. Combine when the **simplified AIH score is >5 and the modified hepatic activity index (mHAI) is >3** — predniso(lo)ne **0.5 mg/kg/day tapered to 10–15 mg/day** plus **UDCA 13–15 mg/kg/day**, which improved survival and reduced liver transplantation versus classic PSC. A biopsy showing **moderate and/or severe hepatitis is mandatory** whichever diagnostic score is used. Doses, response definitions and the paediatric score: [[autoimmune-hepatitis]] ([[easl-2025-autoimmune-hepatitis]])
+- **Every child with AIH gets magnetic resonance cholangiography at diagnosis**, independent of cholestatic enzymes, repeated if activity or cholestatic features persist; consider underlying sclerosing cholangitis in **every** case of childhood AIH (strong). Not needed under age 6 if gamma-glutamyltransferase (GGT) is normal. Failure to reach complete biochemical response is itself a reason to look for sclerosing cholangitis ([[easl-2025-autoimmune-hepatitis]])
 - IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC) — regimen on [[igg4-related-cholangitis]]
 
 **[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
@@ -190,10 +192,12 @@ MRI/MRCP should generally precede ERCP to clarify need and guide technical appro
 
 **Procedural approach:**
 
-- [[antibiotic-prophylaxis-endoscopy|Antimicrobial prophylaxis]] required periprocedurally for all PSC patients undergoing ERCP (GS 24); duration generally 1–3 days
+- [[antibiotic-prophylaxis-endoscopy|Antimicrobial prophylaxis]] required periprocedurally for all PSC patients undergoing ERCP (GS 24); duration generally 1–3 days. ESGE 2026 likewise lists PSC among the indications for antibiotics before ERCP ([[esge-2026-biliary-strictures]])
 - Intraductal tissue sampling (brushings + biopsy for cytology and FISH) routinely in all relevant strictures (GS 19)
-- Balloon dilation ± stenting at endoscopist/multidisciplinary discretion; balloon diameter must not exceed diameter of bile ducts immediately flanking the stricture (GS 25)
-- Plastic stent, if placed: remove within 4 weeks (GS 25); self-expanding metallic stents — role unclear in PSC
+- **High-grade stricture → balloon dilation alone; do not stent after dilating.** There is no added benefit from stenting following balloon dilation, and stenting may increase adverse events, mainly cholangitis (*Conditional recommendation, low quality of evidence* — [[esge-2026-biliary-strictures]]). Dilation alone vs dilation plus stent: clinical success **86.5% vs 70.8%**, adverse events **11.2% vs 26.9%**; in the multicenter randomized trial, severe procedure-related adverse events were **6.7% vs 45.4%**
+  - ⚠ **This supersedes AASLD's discretionary posture.** [[aasld-2022-psc]] GS 25 left the choice between dilation and stenting to endoscopist/multidisciplinary discretion and allowed a plastic stent to remain **up to 4 weeks**. ESGE 2026 is the newer tier-1 document and governs the page: **dilate alone**, and if a stent is unavoidable remove it within **1–2 weeks**
+- Balloon diameter must not exceed the diameter of the bile ducts immediately flanking the stricture (GS 25)
+- **Stent only in selected rare cases — plastic, removed within 1–2 weeks**, to avoid cholangitis from stent occlusion by debris ([[esge-2026-biliary-strictures]]); self-expanding metallic stents — role unclear in PSC ([[aasld-2022-psc]])
 - Biliary sphincterotomy/papillotomy: controversial; consider for difficult cannulation or anticipated need for repeat ERCPs; weigh risks (bleeding, especially with portal hypertension/coagulopathy)
 - Post-ERCP pancreatitis (PEP) prevention: rectal indomethacin 100 mg + aggressive lactated Ringer's intravenous (IV) hydration (consider in all ERCP patients; note PSC-specific concerns with portal hypertension/coagulopathy/volume overload); prophylactic pancreatic duct stent when pancreatic duct accessed
 
@@ -337,3 +341,5 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 7. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
 8. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
+9. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+10. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

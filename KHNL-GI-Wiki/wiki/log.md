@@ -6,6 +6,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] lint | Lint pass — finish partial ingests, then backlog ingest by budget
+
+**Mode:** backlog mode **ON**. A `raw/`-vs-`wiki/sources/` audit (fuzzy-matching raw filenames against each source page's `title:` + `**Article:**` line, then keyword-confirming the low scorers against the full source-page corpus) leaves **16 confirmed-uningested tier-1/2 files**. Per CLAUDE.md the pass's budget goes to ingest, so *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**.
+
+**Inbox sync:** `git status` clean at pass start — no untracked files under `raw/`, nothing to commit.
+
+**Hygiene (whole-wiki, clean):** unescaped alias pipes in table cells **0** · OS artifacts (`.DS_Store`, `Thumbs.db`) **0** · stub pages **0** (the only `Stub — to be expanded` string left in the wiki is the template quoted inside `log.md` itself) · broken `[[link]]` targets **0** · orphan pages (no inbound links) **0**, across **827** pages.
+
+**Resume markers — ALL FOUR STILL SET, deliberately.** `easl-2025-autoimmune-hepatitis`, `esge-2026-biliary-strictures`, `global-consensus-2025-pregnancy-ibd` and `wses-2017-adhesive-sbo` keep `ingest: partial`. All four source pages are themselves complete (455 / 160 / 305 / 148 lines, recommendations fully captured) and all four already have `index.md` rows; the unfinished part is propagation to the ~35 topic pages they touch. Propagation work was dispatched and **page edits from it are committed**, but this pass ran out of budget before any of the four could be verified finished end-to-end, so **no marker was removed**. The next pass finishes these four before starting anything new. Never remove a marker early.
+
+**Pages edited this pass (propagation toward the four partials; committed but not yet verified complete):**
+- `biliary-stricture`, `primary-sclerosing-cholangitis`, `chronic-pancreatitis`, `liver-transplantation`, `disconnected-pancreatic-duct-syndrome`, `eus-gastroenterostomy`, `enteral-access` — ESGE 2026 etiology-specific benign stenting, stent sizes/exchange intervals, the hilar >50% / ideally ≥70% viable-liver-volume target, and the PTBD-displacement decisions.
+- `autoimmune-hepatitis` — EASL 2025 propagation.
+- `crohns-disease` — Global Consensus 2025 pregnancy propagation.
+- `small-bowel-obstruction`, `abdominal-bloating-and-distention`, `nausea-and-vomiting` — WSES 2017 follow-through, incl. the inline `[[small-bowel-obstruction]]` links the 2026-11-15 entry left for this pass.
+
+**New ingest — started, NOT finished:** `EASL 2018 Hepatitis E Virus Infection CPG` (`raw/GI Guidelines/EASL/`) was picked as the pass's first new file, to create the missing **hepatitis E** entity (no page in the wiki; row in `needed-sources.md` → *In `raw/`, awaiting ingest*). Licence checked first: **not open access** (no Creative Commons line), so no figure capture — any algorithm recreated natively. **The run hit its budget cap before the source page was created**, so nothing landed and `needed-sources.md` keeps its hepatitis E row. The next pass restarts this file from the top.
+
+**Ingest targets confirmed for the next passes** (all already in `raw/`, no download needed — from `needed-sources.md` → *In `raw/`, awaiting ingest*, cross-checked against the corpus this pass): EASL 2018 Hepatitis E · SRU 2022 Incidentally Detected Gallbladder Polyps (Kamaya) — creates **gallbladder polyps** · ESGE 2020 GI Motility Part 2 incl Zenker (Weusten) — creates **Zenker's diverticulum** · ASCO 2021 irAE (Schneider) — closes the mycophenolate/azathioprine/tacrolimus dose gap on `[[immune-checkpoint-inhibitor-hepatitis]]` · plus Intl Consensus 2026 Pathology Reporting After ESD, European Consensus 2025 Cholangioscopy/Pancreatoscopy, Intl Consensus 2026 Fatty Pancreas, UEG-EPC 2026 Pain in Acute Pancreatitis, UEG-ESNM 2025 Chronic Nausea and Vomiting, ECCO 2025 IBD Diagnostics Part 2 (Yanai), ASGE-ESGE 2024 Endoscopic Bariatric Therapies, Fiesole Consensus 2026 Diverticular Disease, Chicago v4.0 Technical Review (Kahrilas), ACR LI-RADS 2024 Treatment Response, BSG 2018 Chronic Diarrhoea, Jeppesen 2012 STEPS teduglutide (tier-2 RCT). NCCN files remain deliberately uningested (EULA forbids LLM use).
+
+**Quality review (never paused by backlog mode):** queue at pass start **121/368** pages reviewed. Two never-reviewed pages at the ~2,500-word ceiling were dispatched — `anal-fissure` (2,597 w) and `serrated-polyposis-syndrome` (2,575 w). Both were still running at the budget cap; neither has `quality_reviewed:` set, so **both requeue** per the mid-page rule.
+
+**Nothing qualified / did not run:**
+- *Daily source fetch* — **did not run**: this is a user-triggered pass, not the 06:00 server pass.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog**. No stub exists to expand in any case (0 stub pages wiki-wide).
+- *Cards* — **not written this pass**. In backlog mode the budget went to ingest. No card file's content was confirmed changed; the pages edited above are flagged for the 05:00 card pass to re-check for staleness.
+- *Slim long pages* — not run this pass (budget); `anal-fissure` and `serrated-polyposis-syndrome` were the two over-ceiling pages picked up, via the Quality review step instead.
+
+**Budget note:** the pass's cap stopped it with the four partials unverified, one new ingest unstarted and two quality reviews unfinished. Everything incomplete is marked so it resumes: `ingest: partial` kept on all four, `quality_reviewed:` unset on both pages.
+
+---
+
 ## [2026-11-15] lint | Quality review sweep — release pass
 
 **Pages reviewed:**

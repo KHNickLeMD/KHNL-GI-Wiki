@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-2025-autoimmune-hepatitis, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
 ---
 
@@ -161,10 +161,26 @@ Both definitions additionally require **no previously recognized liver disease**
 | | Acute severe AIH | AIH-related ALF |
 |---|---|---|
 | [[jaundice\|Jaundice]] | required | — |
-| International normalized ratio (INR) | **>1.5 and <2.0** | **≥2.0** |
-| [[hepatic-encephalopathy\|Hepatic encephalopathy]] | absent | present, **within 26 weeks of onset of illness** |
+| International normalized ratio (INR) | **≥1.5 and <2.0** | **>2.0** |
+| [[hepatic-encephalopathy\|Hepatic encephalopathy]] | absent | present |
 | Prior liver disease | none recognized | none recognized |
-| Action | steroid trial, reassess 1–2 wk | evaluate directly for liver transplantation; see [[acute-liver-failure]] |
+| Biopsy | no chronic lesions | — |
+| Action | steroid trial, **reassess at days 3–7** | evaluate directly for liver transplantation; see [[acute-liver-failure]] |
+
+- ⚠ **Two numbers differ between the guidelines; this page uses the newer EASL ones.** EASL 2025 sets the acute severe threshold at **INR ≥1.5** (AASLD 2020: >1.5) and times ALF encephalopathy to **within 8 weeks of onset** (AASLD 2020: within 26 weeks). EASL also adds *no chronic lesions on liver biopsy* to the acute severe definition. [[easl-2025-autoimmune-hepatitis]]
+- In **children**, ALF is defined as elevated ALT with **INR >1.5 plus encephalopathy, or INR >2.0 regardless of encephalopathy** [[easl-2025-autoimmune-hepatitis]]
+
+**EASL presentation categories** — the label decides the pathway, so assign one at presentation ([[easl-2025-autoimmune-hepatitis]]):
+
+| Category | Definition |
+|---|---|
+| Asymptomatic | No symptoms, only abnormal liver biochemistry (6–23% of adults, 12–18% of children) |
+| Chronic | **>6 months** from onset of abnormal biochemistry or symptoms (48–68% adults, 33–52% children) |
+| Acute | **<30 days** from symptom onset — jaundice, fatigue, drowsiness, fever (10–26% adults, 19–58% children) |
+| Acute exacerbation of chronic AIH | Acute injury on underlying, often unrecognised, chronic disease — **about one third of patients have cirrhosis at diagnosis** |
+| Acute severe AIH | As in the table above |
+| [[acute-on-chronic-liver-failure\|ACLF]] | Acute injury in a patient with often unrecognised cirrhosis **plus extrahepatic organ failure** |
+| ALF | As in the table above |
 
 **Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. Model for End-Stage Liver Disease (MELD) score for decompensated AIH [[cirrhosis|cirrhosis]]
 
@@ -225,7 +241,7 @@ Both definitions additionally require **no previously recognized liver disease**
 - Complete blood count (CBC) (cytopenias with [[portal-hypertension|portal hypertension]]); comprehensive metabolic panel (CMP); thiopurine methyltransferase (TPMT) genotype/phenotype before azathioprine (AZA)
 - Exclusion panel: hepatitis B surface antigen (HBsAg), anti-hepatitis B core (anti-HBc), HBV DNA, anti-HCV, HCV RNA, anti-hepatitis A virus (HAV) IgM, anti-HEV IgM
 - AMA — positive in PBC overlap; negative in isolated AIH
-- Celiac panel (TTG-IgA), thyroid-stimulating hormone (TSH) — comorbid autoimmune screening [[aasld-2020-autoimmune-hepatitis]]
+- Celiac panel (TTG-IgA), thyroid-stimulating hormone (TSH) — comorbid autoimmune screening; **EASL 2025 makes screening for autoimmune thyroid and coeliac disease mandatory in every patient at diagnosis** (*LoE 2, strong*) — TSH, T4, anti-thyroid antibodies and coeliac-related antibodies [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
 - 25-hydroxyvitamin D — baseline and annually on glucocorticoids [[aasld-2020-autoimmune-hepatitis]]
 
 ### Pretreatment Evaluation
@@ -258,7 +274,7 @@ Both definitions additionally require **no previously recognized liver disease**
 
 ### First-Line Treatment
 
-**Predniso(lo)ne + either [[thiopurines|azathioprine]] or mycophenolate mofetil (MMF)** — EASL 2025 promotes MMF to a first-line alternative (*LoE 2, strong recommendation, consensus*). [[easl-2025-autoimmune-hepatitis]]
+**Predniso(lo)ne + either [[thiopurines|azathioprine]] or [[mycophenolate-mofetil|mycophenolate mofetil (MMF)]]** — EASL 2025 promotes MMF to a first-line alternative (*LoE 2, strong recommendation, consensus*). [[easl-2025-autoimmune-hepatitis]]
 
 | Drug | Start | Final dose | Timing / caveats |
 |---|---|---|---|
@@ -483,6 +499,59 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 - Treatment discontinuation carries significant risk of hepatic decompensation/ALF
 - See [[liver-disease-in-pregnancy]] for full pregnancy management context
 
+### Paediatric AIH
+
+**Treatment follows the adult guidance with one change — predniso(lo)ne is weaned to a maintenance dose of 2.5–5 mg/day** to avoid corticosteroid side effects including **growth failure** (*LoE 2, strong*). [[easl-2025-autoimmune-hepatitis]]
+
+| Line | Drug | Dose | Notes |
+|---|---|---|---|
+| First | Predniso(lo)ne | **1–2 mg/kg/day, max 60 mg daily** | Taper to maintenance **2.5–5 mg/day**; paediatric budesonide experience is limited |
+| First | [[thiopurines\|Azathioprine]] | **1 mg/kg/day**, titrate up to max **2–2.5 mg/kg/day** | Start **after 2 weeks**, or second-line for insufficient response to predniso(lo)ne. Caution if jaundiced (hepatotoxic); check TPMT first; monitor the 6-MMP/6-TGN ratio |
+| Second | MMF | **5–10 mg/kg twice daily**, increase to **20 mg/kg twice daily (max 1,000 mg twice daily)** | Replaces azathioprine in refractory AIH; adverse events ≈48%; metabolites not routinely measured; **teratogenic** |
+| Third | [[tacrolimus\|Tacrolimus]] | **0.05 mg/kg/day** in 2 divided doses; trough ≈**5 ng/ml** | Rarely used second-line; adverse events ≈42%; nephrotoxicity and diabetes risk |
+| Third | Cyclosporine ([[calcineurin-inhibitors\|calcineurin inhibitor]]) | **4 mg/kg/day** in 2 divided doses; trough **200–250 ng/ml**, decreasing after remission | Occasional induction use; adverse events ≈78%; cosmetic side effects, nephrotoxicity |
+
+- **MMF is the preferred second/third-line agent, then calcineurin inhibitors** (*LoE 3, strong*) — monitor closely, including MMF teratogenicity
+- **Use dispersible tablets and syrups** in younger children or developmental delay, to avoid incorrect dosing (*LoE 2, strong*) — children under 6 years often cannot swallow tablets, and 44% of European paediatricians have carers crush tablets instead
+- **Vaccination:** give HAV and HBV vaccines if not in the national programme; **live vaccines only cautiously and after discussion with the medical teams** (*LoE 3, strong*). Complete vaccination *before* starting treatment unless the child has ALF — then start once immunosuppression is tapered
+- Biochemical remission on predniso(lo)ne ± azathioprine is reported in **75–95% within the first year**
+- Screen for **autoimmune thyroid and coeliac disease** at diagnosis, and for **cholangiopathy** — add [[ursodeoxycholic-acid|UDCA]] if AIH/PSC is diagnosed (magnetic resonance cholangiography rule: [[#Overlap / Variant Syndromes]])
+- **Anti-LKM1/anti-LC1 AIH is ~10% of paediatric cases** — younger at presentation and more often ALF
+
+**ESPGHAN 2018 paediatric score** — may be used in children (*LoE 3, weak*); it scores the AIH and the AIH/PSC variant in parallel, and **cholangiography is what separates them**. [[easl-2025-autoimmune-hepatitis]]
+
+| Characteristic | Cut-off | AIH points | AIH/PSC points |
+|---|---|---|---|
+| ANA and/or SMA | ≥1:20 | 1 | 1 |
+| ANA and/or SMA | ≥1:80 | 2 | 2 |
+| Anti-LKM1 | ≥1:10 | 1 | 1 |
+| Anti-LKM1 | ≥1:80 | 2 | 1 |
+| Anti-LC1 | Positive | 2 | 1 |
+| Anti-SLA/LP | Positive | 2 | 2 |
+| pANNA | Positive | 1 | 2 |
+| IgG | >ULN | 1 | 1 |
+| IgG | >1.2× ULN | 2 | 2 |
+| Liver histology | Compatible | 1 | 1 |
+| Liver histology | Typical | 2 | 2 |
+| Absence of viral hepatitis (A, B, E, Epstein-Barr virus), MASH, Wilson disease and drug exposure | Yes | 2 | 2 |
+| Extrahepatic autoimmunity | Yes | 1 | 1 |
+| Family history of autoimmune disease | Yes | 1 | 1 |
+| Cholangiography | Normal | 2 | **−2** |
+| Cholangiography | Abnormal | **−2** | 2 |
+
+- **≥7 = probable · ≥8 = definite**, for AIH and for AIH/PSC alike
+- Autoantibodies are measured by immunofluorescence on composite rodent substrate (kidney, liver, stomach), and the **autoantibody points cap at 2** however many are positive — as in the adult simplified score
+- The **2022 IAHPG criteria may be substituted for the histology line**, expected to raise sensitivity in children too (acute onset, predominantly lobular inflammation)
+- The IgG thresholds matter here because **IgG is physiologically lower before age 10**
+
+**Withdrawal in children** — ESPGHAN extends treatment to **at least 3 years** and considers withdrawal only if aminotransferases and IgG are persistently normal and autoantibodies negative **for at least a year**, with **liver biopsy before withdrawal strongly advised**. A long-term cohort withdrew 53% successfully without biopsy under strict surveillance — **deep-normal aminotransferases and a prothrombin ratio ≥70%** were the best predictors — but ESPGHAN has since reaffirmed the biopsy. A **6-TGN:6-MMP ratio <4** may optimise remission with allopurinol. [[easl-2025-autoimmune-hepatitis]]
+
+**Transition to adult care** [[easl-2025-autoimmune-hepatitis]]:
+
+- **Young people aged 16–25 years should receive specialised care** with multidisciplinary team support (*LoE 2, strong*)
+- **Transition must not depend on age alone** — paediatric and adult services collaborate, with parents/carers included (*LoE 2, strong*)
+- Assess **mental health and health-related quality of life** routinely in all patients, and signpost to other services as needed (*LoE 2, strong*); because corticosteroids hit quality of life and adherence hardest, **consider dose reduction or withdrawal when appropriate** (*LoE 2, strong*)
+
 ### Post-Liver Transplant AIH
 
 **Recurrent AIH:** [[aasld-2020-autoimmune-hepatitis]]
@@ -514,7 +583,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[cholangiocarcinoma]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]], [[extraintestinal-manifestations-ibd]]
+[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[cholangiocarcinoma]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[mycophenolate-mofetil]], [[ursodeoxycholic-acid]], [[anti-tnf-agents]], [[acute-on-chronic-liver-failure]], [[extraintestinal-manifestations-ibd]]
 
 ---
 
@@ -522,11 +591,11 @@ See [[liver-transplantation]] for broader post-LT context.
 
 1. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
 2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
-2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
-3. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
-4. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
-5. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]
-6. [[hennes-2008-simplified-aih-criteria|Simplified Criteria for the Diagnosis of Autoimmune Hepatitis (2008)]]
-7. [[alvarez-1999-iaihg-revised-criteria|International Autoimmune Hepatitis Group Report: Review of Criteria for Diagnosis of Autoimmune Hepatitis (1999)]]
-8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
-9. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
+3. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+4. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
+5. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
+6. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]
+7. [[hennes-2008-simplified-aih-criteria|Simplified Criteria for the Diagnosis of Autoimmune Hepatitis (2008)]]
+8. [[alvarez-1999-iaihg-revised-criteria|International Autoimmune Hepatitis Group Report: Review of Criteria for Diagnosis of Autoimmune Hepatitis (1999)]]
+9. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
+10. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
