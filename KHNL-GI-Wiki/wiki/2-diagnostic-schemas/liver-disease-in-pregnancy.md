@@ -179,14 +179,14 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 - Serum bile acids >10 µmol/l (diagnostic); >40 µmol/l = high risk for fetal distress
 - Aminotransferases may be elevated (up to >1,000 U/l)
 - Ultrasound to exclude cholelithiasis
-- Bilirubin elevated in <25% of patients (typically mild)
+- Jaundice in <25% of patients (typically mild)
 - Evaluate for alternative etiology if cholestasis fails to resolve after delivery
 
 **Fetal risks:** Preterm labor, prematurity, intrauterine death (more common in last month of pregnancy; few deaths occur before 37 weeks).
 
 **Management:**
 
-- **[[ursodeoxycholic-acid|Ursodeoxycholic acid]] (UDCA) 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
+- **[[ursodeoxycholic-acid|Ursodeoxycholic acid]] (UDCA) 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acid patterns in babies; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
 - Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
 - **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]], relaying the Society for Maternal-Fetal Medicine [SMFM] and the European Association for the Study of the Liver [EASL]):
 

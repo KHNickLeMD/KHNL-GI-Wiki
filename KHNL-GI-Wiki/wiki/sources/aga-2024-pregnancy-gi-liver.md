@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and L
 category: source
 tags: [pregnancy, liver-disease, ibd, endoscopy, ercp, hyperemesis-gravidarum, nausea-vomiting, constipation, intrahepatic-cholestasis, acute-fatty-liver, hellp, preeclampsia, hepatitis-b, hepatitis-c, cholecystectomy, gallstone-disease]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-11-16
 sources: []
 ---
 
@@ -104,10 +104,10 @@ Hepatobiliary: **endoscopic retrograde cholangiopancreatography (ERCP)** for urg
 | Onset | 2nd/3rd trimester | 3rd trimester/postpartum | 3rd trimester/postpartum |
 | Family history | Often | No | Occasionally |
 | Pregnancy characteristics | Multiparity, multifetal | Multiparity, aged >35 y | Multifetal, male fetus |
-| Symptoms | Pruritus, jaundice | Abdominal pain, vomiting, proteinuria, headache, peripheral edema | Abdominal pain, vomiting, polydipsia/polyuria, |hepatic encephalopathy, liver failure, disseminated intravascular coagulation (DIC) ||
+| Symptoms | Pruritus, jaundice | Abdominal pain, vomiting, proteinuria, headache, peripheral edema | Abdominal pain, vomiting, polydipsia/polyuria, hepatic encephalopathy, liver failure, disseminated intravascular coagulation (DIC) |
 | Pre-eclampsia | No | Yes | ~50% |
 | Imaging | Normal | Infarcts, hematoma, rupture, no ascites | Fatty infiltration, sometimes ascites |
-| Labs | Bilirubin <5 mg/dL, ↑alkaline phosphatase (ALP) & gamma-glutamyl transferase (GGT), ↑bile acids | Bilirubin <5 mg/dL, hemolysis, platelets <100×10⁹/L, ↑uric acid, ±proteinuria, ALT <500 U/L, |↑lactate dehydrogenase (LDH) || Bilirubin <5 mg/dL, hypoglycemia, ↑creatinine, ±proteinuria & thrombocytopenia, ↑ammonia, ALT <500 U/L, prolonged prothrombin time (PT), DIC >75% |
+| Labs | Bilirubin <5 mg/dL, ↑alkaline phosphatase (ALP) & gamma-glutamyl transferase (GGT), ↑bile acids | Bilirubin <5 mg/dL, hemolysis, platelets <100×10⁹/L, ↑uric acid, ±proteinuria, ALT <500 U/L, ↑lactate dehydrogenase (LDH) | Bilirubin <5 mg/dL, hypoglycemia, ↑creatinine, ±proteinuria & thrombocytopenia, ↑ammonia, ALT <500 U/L, prolonged prothrombin time (PT), DIC >75% |
 | Morbidity/mortality | Maternal: recurrence in subsequent pregnancy (45%–70%); fetal stillbirth, fetal mortality 0.4%–1% | Maternal: seizures, acute renal failure, hepatic rupture, mortality 1%–25%; fetal mortality 11% | Maternal: acute renal failure, mortality 7%–18%; fetal mortality 9%–23% |
 
 - Management of pre-eclampsia/HELLP/AFLP converges on **appropriate, expeditious delivery**. Liver biopsy rarely needed. **Liver transplant evaluation** if progression to acute liver failure — especially suspected AFLP who have already delivered but do not improve.

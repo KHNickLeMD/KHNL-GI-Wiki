@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Focal Liver Lesions (2024)"
 category: source
 tags: [liver, focal-liver-lesion, hca, fnh, hemangioma, hepatic-cysts, hcc, li-rads, hpb]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-11-16
 sources: []
 ---
 
@@ -56,10 +56,11 @@ HCA carries the highest management stakes: it has four molecular subtypes with d
 **HCA:**
 
 - Molecular subtypes and their frequencies *(Table 4)*:
-  1. **Inflammatory** (~35%–45%): activated JAK/STAT; elevated alkaline phosphatase, C-reactive protein (CRP) ± fibrinogen. Risk factors — moderate estrogen association, obesity, hepatic steatosis, excess alcohol, glycogen storage disease
-  2. **HNF-1α-inactivated** (~35%–40%): steatotic on imaging; associated with maturity-onset diabetes of the young type 3 (MODY3)
-  3. **β-catenin activated** (exon 3 **~10%**, male predominant; CTNNB1 exon 7/8 **<10%**): highest malignant-transformation risk — **resect regardless of size** *(key concept [KC] 11)*. Risk factors — strong estrogen association, androgen/anabolic steroid use, glycogen storage disease
-  4. **Sonic hedgehog** (**<5%**): INHBE/GLI1 fusion; exogenous hormonal stimuli and obesity
+  1. **Inflammatory** (~35%–45%): activated JAK/STAT; elevated alkaline phosphatase, C-reactive protein (CRP) ± fibrinogen. Risk factors — moderate estrogen association, obesity, hepatic steatosis, excess alcohol, glycogen storage disease. Complications — hemorrhage low, malignancy moderate
+  2. **HNF-1α-inactivated** (~35%–40%): steatotic on imaging; loss of liver fatty acid–binding protein staining. Risk factors — **strong** estrogen association (oral contraceptive pill use, excess estrogen, anabolic steroids) and maturity-onset diabetes of the young type 3 (MODY3). Complications — hemorrhage low, malignancy low
+  3. **β-catenin activated** (exon 3 **~10%**, male predominant; CTNNβ1 exon 7/8 mutation in **<10% of β-catenin mutated HCAs**): highest malignant-transformation risk — **resect regardless of size** *(key concept [KC] 11)*. Risk factors — anabolic steroid use, androgen therapy, male sex with adenoma, glycogen storage disease. Complications — hemorrhage low, malignancy **high, up to 46% (exon 3)**; exon 7/8 mutation carries no significant increased malignancy risk
+  4. **Sonic hedgehog** (**<5%**): INHβE/GLI1 fusion; exogenous hormonal stimuli and obesity. Complications — hemorrhage **high**, malignancy low
+  5. **Unclassified** (5%–10%): liver fatty acid–binding protein positive; the guideline gives no risk-factor or complication data for this subtype
 - **MRI subtyping is only partly reliable** — useful for inflammatory and HNF-1α subtypes, **not specific** for β-catenin, sonic hedgehog, or unclassified adenomas *(KC 9)*
 - Management:
   - **Women, HCA <5 cm:** discontinue exogenous hormones + advise weight loss if overweight/obese *(Rec 5)*; surveillance with contrast-enhanced imaging **every 6 months for 2 years, then annually thereafter** *(Rec 6)*
@@ -68,7 +69,9 @@ HCA carries the highest management stakes: it has four molecular subtypes with d
   - Growth during surveillance ≥20% (extrapolated from Response Evaluation Criteria in Solid Tumors [RECIST]) → consider resection or definitive treatment
   - Unable to undergo resection → **embolization or ablation** as alternatives *(Rec 7)*
   - Any size with imaging concerning for malignant transformation → treat as HCC *(KC 16)*
-  - **Hepatic adenomatosis** = **≥10 adenomas** *(KC 17)*; liver transplantation for those meeting Organ Procurement and Transplantation Network (OPTN) policy *(KC 18)*
+  - **Hepatic adenomatosis** = **≥10 adenomas** *(KC 17)*; usually steatosis/metabolic risk factors, often HNF-1α subtype, or glycogen storage disease; bleeding risk **up to 46%** in some case series and malignancy **up to 7%**; unilobar → resect (or resect the dominant lesion), bilobar → treat the largest/dominant or suspicious lesion; image **at least annually**. Liver transplantation for those meeting Organ Procurement and Transplantation Network (OPTN) policy *(KC 18)*
+  - **Highest-risk cohort for malignant transformation:** men (**10× greater than women**), β-catenin exon 3 mutated HCA, lesions ≥5 cm; glycogen storage disease also believed higher risk. Overall malignant transformation <5%, hemorrhage up to 15%
+  - **Established risk factors for rupture:** HCA ≥5 cm, growth of the lesion, exophytic location
   - After resection/embolization/ablation → continue surveillance imaging **every 6–12 months** (frequency and duration not well established)
 - **Pregnancy** *(KC 15)* — monitor regularly; **treat if growth to >6.5 cm or high-risk features for hemorrhagic rupture** (e.g. exophytic):
   - Repeat **ultrasound every 6–12 weeks** is a recommended strategy; greatest complication risk is the **third trimester**
@@ -106,9 +109,13 @@ HCA carries the highest management stakes: it has four molecular subtypes with d
 | No follow-up needed once FNH is definitively characterized | Key concept — ungraded | — |
 | Resect only if symptomatic | Key concept — ungraded | — |
 | **HCA** | | |
+| **Rec 2** — We recommend discontinuation of oral contraceptives or intrauterine devices that are hormone-impregnated in patients with hepatic adenomas | Strong | Low |
+| **Rec 3** — We suggest encouraging weight loss in overweight or obese patients with hepatic adenomas | Conditional | Very low |
+| **Rec 4** — We suggest using multiphasic liver imaging (preferably MRI) over standard cross-sectional imaging modalities to accurately distinguish hepatic adenomas from other benign or malignant liver lesions | Conditional | Very low |
 | **Rec 5** — In women with hepatic adenomas <5 cm, we suggest discontinuation of exogenous hormones and advise weight loss, if applicable, for overweight or obese individuals | Conditional | Very low |
 | **Rec 6** — In women with hepatic adenomas <5 cm, we suggest surveillance with contrast-enhanced imaging modalities **every 6 months for 2 years, then annually thereafter** | Conditional | Low |
 | **Rec 7** — In patients with hepatic adenomas requiring treatment who are unable to undergo surgical resection, we suggest embolization or ablation as alternative treatment approaches | Conditional | Low |
+| **Rec 8** — In patients with ruptured hepatic adenomas, we suggest hemodynamic stabilization followed by embolization and/or surgical resection | Conditional | Very low |
 | **Hepatic Cysts** | | |
 | Simple cysts: no follow-up needed | Strong | Moderate |
 | Complex cysts (septa, mural nodularity): MRI characterization to exclude cystic neoplasm | Strong | Moderate |

@@ -3,7 +3,7 @@ title: "AGA 2025 Clinical Practice Update: Screening and Surveillance in Individ
 category: source
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, gastric-premalignant-conditions, h-pylori, esd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-11-01
+updated: 2026-11-16
 sources: []
 ---
 
@@ -74,12 +74,20 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 
 | Finding | Interval |
 |---|---|
-|| IND || EGD in **1 year** (12 months) |
+| IND | EGD in **1 year** (12 months) |
 | LGD | EGD in **6–12 months** |
 | HGD | EGD in **3 months** |
 | Nonvisible GC | Multidisciplinary discussion; **consider surgery** |
 
 - If dysplasia or EGC is endoscopically visualized → **en bloc endoscopic resection** (typically ESD; in select scenarios — lesions <1 cm or confirmed IND histology — endoscopic mucosal resection [EMR] may be considered). Refer to AGA CPU on ESD for post-curative-ESD surveillance intervals.
+
+**ESD vs EMR, and resection yield (text):** lesions with confirmed or suspected HGD, and lesions that are **depressed, ulcerated, and/or ≥20 mm**, should be resected by ESD rather than EMR — more likely to harbor carcinoma. Counsel before resection that surgery may follow if cancer is diagnosed (depends on grade, stage, patient factors). Nearly **25% of lesions read as LGD on biopsy were upstaged after complete endoscopic resection — 17% to HGD, 7% to carcinoma**. ~40% of IND may be reclassified on re-review by an experienced GI pathologist.
+
+**Post-resection detail (BPA 12 text):** suggested intervals depend on lesion histology and whether R0 resection was achieved; endoscopic surveillance should continue **indefinitely** after previously resected HGD or GC unless health status or preference dictates otherwise (metachronous/recurrent neoplasia risk stays elevated years after curative resection). Also applies after partial gastrectomy for gastric neoplasia.
+
+**Normal index EGD — hereditary syndromes (text):** in individuals with an established or suspected hereditary syndrome associated with increased GC risk, endoscopic surveillance should continue at regular intervals determined by the syndrome.
+
+**De-escalation (BPA 14 text):** no strict age or comorbidity threshold — balance life expectancy, perceived benefit of ongoing screening/surveillance, risk of complications, and personal preferences.
 
 **Second-look ("rescue") endoscopy for nonvisible dysplasia (text):** Image-enhanced endoscopy (IEE) second-look (virtual/dye chromoendoscopy) detects focal neoplasia in ~90% of patients. Nonvisible IND/LGD → repeat high-quality EGD with IEE within **6 months** (ideally after H pylori eradicated). Nonvisible HGD → second-look **as soon as possible** (high risk of synchronous cancer). If second-look again confirms nonvisible dysplasia → repeat in **3 months (HGD), 6–12 months (LGD), 12 months (IND)**.
 
@@ -97,6 +105,7 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 - Non-US RCT meta-analysis: eradication → **46% reduction in GC incidence** (RR 0.54; number needed to treat [NNT] 72) and **39% reduction in GC mortality** (RR 0.61; NNT 135)
 - **All adults** diagnosed with H pylori warrant eradication, irrespective of symptoms, barring contraindications/limited life expectancy. Confirm eradication in all people ≥4 weeks after treatment course.
 - **Familial-based testing:** whole-family test-and-treat had 3-fold higher eradication success (odds ratio [OR] 2.93) and ~70% lower recurrence (OR 0.3) vs single-patient treatment
+- Greatest benefit before precancerous change: non-US RCT with ~27 years of endoscopic follow-up — **63% reduction** in GC risk when eradicated in individuals without gastric precancer at baseline vs **43% reduction** overall irrespective of histology
 - Taipei Global Consensus suggests screening H pylori between ages 20 and 40 for primary GC prevention (optimal age for diverse US population not established)
 - H pylori eradication is an adjunct, not stand-alone — individuals with more advanced histologic changes remain at neoplastic risk even after eradication and should still be considered for endoscopic screening/surveillance
 
@@ -113,6 +122,10 @@ US 5-year GC survival is a dismal 32% (<25% diagnosed early); contrast Japan/Sou
 - Type I gastric neuroendocrine tumors (gNETs) account for 70%–80% of all gNETs; typically small (<1 cm), benign, low mitotic/Ki67 indices; arise in corpus atrophy → hypergastrinemia (parietal cell loss–mediated achlorhydria)
 - Serum gastrin (elevated vs normal), surrounding mucosa histology, anatomic location, and focality determine type (I/II/III)
 - <1 cm: may consider resecting. 1–2 cm: endoscopically resect (by endoscopist with resection expertise; endoscopic ultrasound [EUS] for larger). >2 cm or unfavorable histology (World Health Organization [WHO] grade ≥II): risk of metastasis → EUS + cross-sectional imaging + multidisciplinary tumor board; surgical resection if submucosa/lymph node invasion. Type II (Zollinger-Ellison) and type III gNETs out of scope.
+
+**Health equity (BPA 15 text):** GC mortality is **43% higher** in US counties under a persistent-poverty designation (vs a 17.7% differential for CRC and 12.3% for all cancers combined). Modifiable risk factors named: H pylori infection, persistent living in poverty, tobacco use, diets high in salt and processed foods and low in fresh produce, barriers to accessing and paying for high-quality care.
+
+**Figures:** Figure 1 (clinical pathway) and Figure 2 are not embedded in the wiki — the PDF states "Published by Elsevier Inc. on behalf of the AGA Institute" with no Creative Commons licence. Figure 1 is redrawn as a Mermaid flowchart on [[gastric-cancer-screening]].
 
 ## Relevance to Wiki
 
