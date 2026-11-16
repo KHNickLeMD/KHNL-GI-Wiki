@@ -30,7 +30,7 @@ The document also frames PEG outcomes (high underlying-comorbidity mortality —
 - **PEGJ/DPEJ** indicated for severe GERD, gastroparesis, or recurrent tube-feed aspiration.
 - **IV prophylactic antibiotic** before percutaneous feeding-tube placement reduces peristomal wound infection (high-quality evidence).
 - **Early feeding** (≤4 h after placement) equivalent to delayed/next-day feeding (meta-analysis of 6 randomized controlled trials [RCTs]).
-- Absolute contraindications: inability to appose gastric and abdominal walls, pharyngeal/esophageal obstruction precluding endoscope passage, uncorrectable coagulopathy.
+- Absolute contraindications: inability to bring the anterior gastric wall in apposition with the abdominal wall, pharyngeal or esophageal obstruction, significant coagulopathy.
 - PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, 30-day all-cause mortality ~15% (comorbidity-driven). Tumor seeding after PEG in oropharyngeal tumors <1%.
 - **Where methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, screening for MRSA and decolonization before PEG placement may decrease peristomal MRSA infection — separate from, and additional to, the single IV prophylactic dose of recommendation 5.
 - **DPEJ also covers anatomy that precludes PEG** (eg, post-surgical). PEGJ and DPEJ are additionally beneficial in **chronic pancreatitis with persistent nutritional compromise** — an indication beyond the reflux/gastroparesis/aspiration triad of recommendation 4.

@@ -148,6 +148,12 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 
 *Note: recommendations 58–69 (chronic hepatitis B/D, recurrent hepatitis C virus [HCV], and recurrent disease management) are summarized in the sections below.*
 
+**Recurrent MASH — immunosuppression:**
+
+| Recommendation | Strength | Evidence |
+|---|---|---|
+| 74. Because calcineurin inhibitors contribute to de novo diabetes and metabolic syndrome, lowering calcineurin inhibitor exposure may be considered in adult liver recipients transplanted for metabolic dysfunction–associated steatohepatitis (MASH), with or without concurrent mycophenolate mofetil. | Weak | Level 5 |
+
 ## Relevance to Wiki
 
 - Updates [[liver-transplantation]] disease script: adds graft complications section (vascular, biliary), machine perfusion, EAD scoring, updated IS guidance (basiliximab, TAC targets, mTOR), rejection management, recurrent disease

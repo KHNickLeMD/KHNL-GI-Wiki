@@ -3,8 +3,9 @@ title: "Endoscopy Credentialing, Privileging, and Proctoring"
 category: concept
 tags: [credentialing, privileging, proctoring, competency, training, case-volume, quality, endoscopy-unit]
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-16
 sources: [asge-2017-privileging-credentialing]
+quality_reviewed: 2026-11-16
 ---
 
 *What an institution requires before letting someone perform a given endoscopic procedure, how competence is judged, and how proctoring works.*
@@ -23,12 +24,33 @@ sources: [asge-2017-privileging-credentialing]
 ## The Governing Rule
 
 > [!pearl] The numbers are floors, not finish lines
-> **Performance of a specific number of procedures does not guarantee competency.** Competence is determined by **objective criteria and direct observation**, with validated assessment tools where applicable, **once the trainee has reached the threshold**. Minimum numbers exist only as the point **below which competency cannot be assessed** — and an evidence-based threshold **should not be assessed below** ([[asge-2017-privileging-credentialing]], Recommendation 2).
+> **Performance of a specific number of procedures does not guarantee competency.** Competence is determined by **objective criteria and direct observation**, with validated assessment tools where applicable, **once the trainee has reached the threshold**. Minimum numbers exist only as the point **below which competency cannot be assessed** — and an evidence-based threshold **should not be assessed below** ([[asge-2017-privileging-credentialing]], Recommendation 2, high-quality evidence).
 
-- **Privileges are granted independently for each major category of endoscopy.** Performing one procedure well **does not imply competency in others**.
-- **Uniform standards apply to all hospital staff requesting privileges, regardless of medical specialty**, and to every site where endoscopy is performed.
-- Credentialing may begin only **after successful completion of a gastrointestinal endoscopy training program**, and should be **free from political or economic pressure**. The service chief, or equivalent, recommends individuals for privileges.
+- **Training must be adequate for each major category of endoscopy for which privileges are requested** (Recommendation 1, high-quality evidence).
+- **Privileges are granted independently for each major category of endoscopy.** Performing one procedure well **does not imply competency in others**; skills considered integral to a category may be required before privileges for that category are granted.
+- The American Society for Gastrointestinal Endoscopy (ASGE) **suggests** that **uniform standards be developed for all hospital staff requesting privileges, regardless of medical specialty**, and for every site where endoscopy is performed (Recommendation 3, low-quality evidence).
+- Credentialing may begin only **after successful completion of a gastrointestinal endoscopy training program in adult or pediatric gastroenterology or general surgery**, and should be **free from political or economic pressure**. The service chief, or equivalent, recommends individuals for privileges.
 - **Terms:** *credentialing* validates a practitioner's qualifications; *privileges* are the institution's authorization to perform a specific procedure; a **preceptor teaches** a new technique, a **proctor evaluates and monitors** and is independent and unbiased.
+- Principles apply to all endoscopists; modifications for pediatric procedures are set out in a separate ASGE guideline.
+
+```mermaid
+flowchart TD
+    A(["Completed gastrointestinal endoscopy training program"]) --> B["Minimum number for that procedure performed"]
+    B -- "below the threshold" --> X(["Competency cannot be assessed"])
+    B -- "threshold reached" --> C["Competency assessed by objective criteria and direct observation"]
+    C --> D(["Privileges granted, independently for each major category"])
+    D -- "every 2 to 3 years" --> E["Recredentialing on quality benchmark data, outcome and adverse event rates"]
+    E -- "continued competence documented" --> D
+    E -- "minimal competency cannot be assured" --> F["Proctoring, continuing medical education, retraining, or limitation of privileges"]
+    F -- "national and institutional requirements still not met" --> G(["Decredentialing"])
+    class A start
+    class B,C,E test
+    class D,F act
+    class X,G stop
+```
+*Lifecycle of privileges for one endoscopic procedure category*
+*built from the ASGE 2017 statements on credentialing, Table 3, Box 1 and Recredentialing and Renewal (the guideline has no flowchart)*
+*[[asge-2017-privileging-credentialing|ASGE 2017: Guidelines for Privileging, Credentialing, and Proctoring to Perform GI Endoscopy]]*
 
 ## Minimum Procedure Numbers
 
@@ -40,19 +62,19 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 | [[upper-endoscopy\|Upper endoscopy]] | **130** | low |
 | [[colonoscopy]] | **275** | moderate |
 | Flexible sigmoidoscopy | **30** | low |
-| [[ercp\|ERCP]] | **200** | moderate |
-| [[endoscopic-ultrasound\|EUS]] | **225** | moderate |
+| [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] | **200** | moderate |
+| [[endoscopic-ultrasound\|Endoscopic ultrasound (EUS)]] | **225** | moderate |
 | [[capsule-endoscopy\|Capsule endoscopy]] | **20** | very low |
 | [[device-assisted-enteroscopy\|Deep enteroscopy]], lower | **20** | very low |
 | Deep enteroscopy, upper | **10** | very low |
-| [[polypectomy\|EMR]] (upper gastrointestinal) | **20** | low |
+| [[polypectomy\|Endoscopic mucosal resection (EMR)]], upper gastrointestinal | **20** | low |
 | [[endoscopic-submucosal-dissection\|Endoscopic submucosal dissection]], stomach | **30** | very low |
 | Ablation, [[barretts-esophagus\|Barrett's esophagus]] | **30** | low |
 | Enteral stent placement | **10** | very low |
 | [[enteral-access\|Enteral feeding tube placement]] | **20** | very low |
 
 > [!pitfall] Four skills have no number at all
-> **Ablative techniques** (radiofrequency ablation, cryotherapy, argon plasma coagulation) have **no published minimum threshold criteria for competency in any of them** — the esophageal figure of 30 above is for Barrett's ablation specifically. **Enteral stent placement has no standardized minimum**, and there are **no established guidelines for PEG with jejunal extension or direct percutaneous endoscopic jejunostomy** ([[asge-2017-privileging-credentialing]]).
+> **Ablative techniques** (radiofrequency ablation, cryotherapy, argon plasma coagulation) have **no published minimum threshold criteria for competency in any of them** — the esophageal figure of 30 above is for Barrett's ablation specifically. **Enteral stent placement has no standardized minimum**, and there are **no established guidelines for percutaneous endoscopic gastrostomy (PEG) with jejunal extension or direct percutaneous endoscopic jejunostomy** ([[asge-2017-privileging-credentialing]]).
 
 ## Procedure-Specific Competency Detail
 
@@ -60,7 +82,7 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 |---|---|
 | **Upper endoscopy** | The 130 includes **25 for nonvariceal hemorrhage and 20 for variceal hemorrhage**. Target: **esophagus and pylorus intubated in >95%**. Expected skills beyond inspection and biopsy — control of variceal and nonvariceal bleeding, [[esophageal-dilation\|esophageal dilation]], snare polypectomy, PEG placement. **Separate credentialing** for pneumatic balloon dilation, stent placement, radiofrequency ablation, complex polypectomy, cap- or band-assisted EMR, endoscopic submucosal dissection and [[poem\|per-oral endoscopic myotomy]] |
 | **Colonoscopy** | Target: **cecum reached in >90%**, with a **retroflexed rectal view** and an [[colonoscopy-quality-indicators\|adenoma detection rate]] above recommended thresholds. Many endoscopists do not reach technical competency at 275, and **some suggest 500 may be needed for consistent 90% cecal intubation in some trainees**. **Cecal intubation rate alone may be an inadequate marker** — it says nothing about examination quality. Stricture dilation, stent placement and endoscopic submucosal dissection need separate credentialing |
-| **Flexible sigmoidoscopy** | Full left-colon examination, retroflexed rectal view, targeted biopsy. For those **not routinely performing colonoscopy, ≥20 of the 30 under direct supervision**, with **consistent insertion beyond 50 cm**. **Competency in colonoscopy implies competency in flexible sigmoidoscopy** |
+| **Flexible sigmoidoscopy** | Full left-colon examination, retroflexed rectal view, targeted biopsy. For those **not routinely performing colonoscopy, ≥20 of the 30 under direct supervision**, with **consistent insertion beyond 50 cm**. **Competency in colonoscopy implies competency in flexible sigmoidoscopy.** Providers should complete a formal training program, or document the nature and procedure volume of any alternative training. Hemorrhoidal banding and stent placement need further training and separate credentialing |
 | **ERCP** | The 200 are **supervised independent** procedures, plus **≥80 independent sphincterotomies and ≥60 biliary stent placements**. Target: **selective cannulation in ≥90%**, with accurate image interpretation and successful sphincterotomy and stenting when needed. **Consistent cannulation of the native papilla may not be reached before the end of a 3-year fellowship, or even after a year of advanced endoscopy training** |
 | **EUS** | Training guidelines recommend **≥150 supervised procedures**, to include **≥50 EUS-guided fine-needle aspirations, 75 pancreaticobiliary cases, 75 mucosal cancer staging cases, and 40 subepithelial lesion evaluations**. One study found 150 might be inadequate and recommended **≥225 hands-on cases** — the figure in the table above |
 | **Capsule endoscopy** | 20 supervised studies; substantial prior experience recognising and managing endoscopic findings, plus familiarity with hardware and software. Reasonable to expect a **formalized in-service examination, or ≥90% correlation of significant findings with a credentialed provider** |
@@ -79,7 +101,22 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 4. Require the ability to **perform the common associated therapeutic modalities**.
 5. Require **documentation of continued competence** for renewal.
 
-**What is evaluated during a competence assessment:** reviews records and imaging · identifies risk factors · understands indications and contraindications · believes findings will influence management · obtains proper informed consent · uses appropriate sedation · intubates with good technique · correctly identifies landmarks · conducts a thorough examination · detects and identifies all pathology · completes within a reasonable period · obtains tissue properly · performs therapeutic maneuvers effectively · recognizes and manages adverse events · prepares an accurate report · plans correct management and disposition · discusses findings with patient, family and other providers · arranges follow-up, pathology review and case outcome.
+**What is evaluated during a competence assessment** — the assessor, or a proctor during a proctored case, judges every aspect of the applicant's care:
+
+| Before the scope | During the examination | After the examination |
+|---|---|---|
+| Reviews patient records and x-ray films | Intubates the gastrointestinal tract with good technique | Prepares an accurate report |
+| Identifies potential risk factors | Correctly identifies landmarks | Plans correct management and disposition |
+| Understands indications and contraindications | Conducts a thorough examination | Discusses findings with patient, family and other healthcare providers |
+| Believes findings will influence management | Detects and identifies all pathologic conditions | Arranges proper follow-up, review of pathologic findings, and case outcome |
+| Obtains proper informed consent | Completes the examination within a reasonable period | |
+| Uses appropriate sedation | Obtains tissue sample properly | |
+| | Performs therapeutic maneuvers successfully and effectively | |
+| | Recognizes and manages procedure-related adverse events | |
+
+*The 18 components of an endoscopy competence assessment*
+*redrawn from the ASGE 2017 list of components to be evaluated during assessment of endoscopy competence; the column grouping is the wiki's, the items and their wording are the guideline's*
+*[[asge-2017-privileging-credentialing|ASGE 2017: Guidelines for Privileging, Credentialing, and Proctoring to Perform GI Endoscopy]]*
 
 ## New and Emerging Techniques
 
@@ -89,7 +126,8 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 | Examples named | Radiofrequency ablation of Barrett's esophagus; over-the-scope clips | **Per-oral endoscopic myotomy; endoscopic submucosal dissection** |
 | What is required | Education plus practical exposure — short courses, training videos, simulators, interactive programs. **Duration is not fixed; it reflects the time the participant needs to master it** | In the initial phases of dissemination, **confined to teaching centers, and formal training required** |
 
-- **A short course or workshop will not, by itself, produce clinical competency, and must not be the sole mechanism for acquiring a new major skill.** A **preceptorship or other formal instruction is generally mandatory**, and the preceptor supplies **written documentation of successful completion** for credentialing.
+- **A short course or workshop will not, by itself, produce clinical competency, and must not be the sole mechanism for acquiring a new major skill.** A **preceptorship or other formal instruction is generally mandatory**, and the preceptor supplies **written documentation of successful completion** for credentialing. The preceptorship is **complete when the preceptee can perform the skill fully independently**.
+- **The preceptor teaches from a validated curriculum** and is responsible for setting objectives, demonstrating the technique, overseeing instruction and practice, evaluating the preceptee, and documenting competency for future credentialing.
 - **Technologic refinements of common equipment** — endoscopes, biopsy forceps, snares — **do not require formal training**.
 - The **US Food and Drug Administration does not regulate new procedures as it does new drugs and devices.** Significant procedural innovations should be brought under **institutional review board or regulatory oversight early**, so patients are protected under federal research regulations.
 
@@ -97,7 +135,7 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 
 - **A proctor monitors; a preceptor teaches.** The proctor **has no physician or patient relationship with the patient, and does not participate in care** — remaining responsible to the institution and the credentialing process.
 - Must be **credentialed in the procedure observed**, expert enough to judge quality, and **free of actual or perceived conflicts of interest**. **No fee related directly to patient care**, though the institution may compensate for time.
-- Observation runs for a **period or case number set by institution-specific bylaws**; the applicant must demonstrate competency in **both diagnostic and therapeutic maneuvers**.
+- Observation runs for a **period or case number set by institution-specific bylaws**; the applicant must demonstrate competency in **both diagnostic and therapeutic maneuvers**, judged on the competence checklist above.
 
 > [!howto] A proctor's conduct in the room
 > 1. **Do not interfere** with the proctored endoscopist.
@@ -110,13 +148,13 @@ Minimum to be performed **before assessment of competency** ([[asge-2017-privile
 - **Any direct patient intervention by the proctor must be disclosed in the patient's chart** and in a confidential report to the credentials committee. Presence of a proctor **may or may not be discussed during informed consent**, and the proctor may not be present when consent is obtained. **Peer-review immunity varies by state** — consult legal counsel.
 - A **confidential written report** goes to the institution afterwards; the applicant **retains all rights of appeal**.
 - **When proctoring applies:** new staff applicants · incumbents trained in additional or novel procedures · routine recredentialing or remediation · **privileged incumbents with insufficient procedural volume**. It may also follow a potential practice problem flagged by quality improvement or risk management.
-- **Provisions for failure** to meet minimum expected competency should be set out in advance — additional training, restriction of privileges, and avenues for remediation. Proctoring guidelines **belong in institutional bylaws**.
+- **Provisions for failure** to meet minimum expected competency should be set out in advance — additional training, restriction of privileges, and avenues for remediation. Proctoring guidelines **belong in institutional bylaws** (Recommendation 5, moderate-quality evidence); in departmentalized institutions, bylaws may set protocols at department level.
 
 ## Recredentialing and Decredentialing
 
 - Recredentialing generally follows regional or state regulation but is **mandated by national accrediting organizations every 2 to 3 years**.
-- Institutions should **track outcome data and adverse event rates of individual endoscopists**, and require evidence of continuous quality improvement activity and **documented continued cognitive training**.
-- Where minimal competency cannot be assured: **proctoring, continuing medical education, retraining, or limitation of privileges**.
+- Renewal rests on **documented continuing satisfactory performance using quality benchmark data** (Recommendation 4, moderate-quality evidence). Institutions should **track outcome data and adverse event rates of individual endoscopists**, and require evidence of continuous quality improvement activity and **documented continued cognitive training**.
+- Every institution needs a mechanism for when minimal competency cannot be assured: **proctoring, continuing medical education, retraining, or limitation of privileges** (Recommendation 6, moderate-quality evidence).
 - **Decredentialing** may follow failure to meet accepted national and institutional requirements.
 
 > [!pitfall] Twelve months away from endoscopy triggers proctoring

@@ -112,12 +112,12 @@ Radiologic confirmation of tube position is required before EN initiation (Stron
 
 - **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|gastroesophageal reflux disease (GERD)]], [[gastroparesis]], or recurrent tube-feed aspiration.
 - **Periprocedural care:** give an intravenous (IV) **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection) ([[asge-2011-enteral-feeding]]). Antithrombotic handling and feed timing are tabled below.
-- **Absolute contraindications** to PEG: inability to appose gastric and abdominal walls, obstruction precluding endoscope passage, uncorrectable coagulopathy.
+- **Absolute contraindications** to PEG: inability to bring the anterior gastric wall in apposition with the abdominal wall, pharyngeal or esophageal obstruction, significant coagulopathy.
 - **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
 
 ### Periprocedural Management of a Percutaneous Tube
 
-Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, the **feed-timing discrepancy between American Gastroenterological Association (AGA) 2025 and American Society for Gastrointestinal Endoscopy (ASGE) 2025 at the 4-hour mark**, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
+Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, feed timing, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
 
 ---
 

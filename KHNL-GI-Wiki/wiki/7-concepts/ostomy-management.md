@@ -3,8 +3,9 @@ title: "Ostomy Management"
 category: concept
 tags: [ostomy, ileostomy, colostomy, nutrition]
 created: 2026-07-23
-updated: 2026-11-11
+updated: 2026-11-16
 sources: [aga-2023-ostomies, asge-2025-ibd-endoscopy-consensus]
+quality_reviewed: 2026-11-16
 ---
 
 Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond the immediate perioperative period** — the gap the American Gastroenterological Association (AGA) 2023 Clinical Practice Update addresses. Covers stoma types and configurations, expected output, high ostomy output, short- and long-term complications, and perioperative wound ostomy continence (WOC) care.
@@ -40,10 +41,15 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 
 ### Configurations
 
+![[ostomy-2023-configurations-schematic-02.png|750x712]]
+*Enteral stoma configurations in cross-section, with the skin-level appearance of each (inset): (A) loop ostomy, (B) end ostomy with Hartmann's pouch, (C) end ostomy with mucus fistula, (D) continent ileostomy (Kock pouch)*
+*Source: figure 1 of the AGA 2023 Clinical Practice Update on ostomies, open access (CC BY 4.0)*
+*[[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies]]*
+
 - **End ostomy** — intestine divided, proximal end brought out, distal end left within the abdomen (Hartmann's pouch). Easiest stoma to pouch; used most often for permanent stomas and for perforation requiring resection. Reversal needs more invasive surgery (locate the stapled-off distal end).
   - **Mucus fistula** — distal defunctionalized end also brought out through a separate incision. Rare, generally avoided (2 stomas/abdominal wall defects) unless significant leak risk in the stapled-off end (distal obstruction, poor tissue integrity).
-- **Loop ostomy** — continuous loop of intestine through one skin aperture, anterior wall opened → 2 openings side by side; active proximal end made dominant (Brooked), defunctionalized distal end diminutive. For distal obstruction (e.g. obstructing cancer — relieves obstruction and drains mucus/retained stool distally) and for temporary diversion (protect a distal anastomosis, allow a sacral decubitus to heal). No resection or division of intestine; relatively easy to create and reverse.
-- **Continent ileostomy** (Kock pouch / Barnett Continent Intestinal Reservoir) — internal pouch of pleated intestine with a nipple valve in the efferent limb; no stool passes until intubated with a catheter; usually no appliance needed. Uncommon — high complication rate leading to revision surgery and intestinal loss.
+- **Loop ostomy** — one skin aperture, 2 openings side by side; active proximal end made dominant (Brooked), defunctionalized distal end diminutive. For distal obstruction (e.g. obstructing cancer — relieves obstruction and drains mucus/retained stool distally) and for temporary diversion (protect a distal anastomosis, allow a sacral decubitus to heal). No resection or division of intestine; relatively easy to create and reverse.
+- **Continent ileostomy** (Kock pouch / Barnett Continent Intestinal Reservoir) — nipple valve in the efferent limb holds stool until the pouch is intubated with a catheter; usually no appliance needed. Uncommon — high complication rate leading to revision surgery and intestinal loss.
 
 ## High Ostomy Output (HOO)
 
@@ -60,7 +66,10 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 ### Early HOO
 
 - **Most important treatment: hydration to prevent renal failure.** Repletion volumes are large → typically **intravenous (IV)**, requiring hospital admission or long-term IV access for home health care.
-- Persistent early HOO → consider **early stoma reversal**, but reversal **before 6 weeks** from the index surgery carries increased complication risk.
+- Persistent early HOO → consider **early stoma reversal**.
+
+> [!pitfall] Don't reverse inside 6 weeks
+> Reversal of the stoma **before 6 weeks** from the index surgery is associated with an increased risk of complications — hydrate through the window rather than reversing early ([[aga-2023-ostomies]]).
 
 ### Chronic (Late) HOO
 
@@ -82,6 +91,8 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 | Adaptation-promoting agents | [[glp-2-agonists\|glucagon-like peptide-2 (GLP-2) analogues]] (teduglutide, elsiglutide, glepaglutide, apraglutide) |
 | Surgical | Reversal of the ostomy with restoration of intestinal continuity when possible |
 
+The update names the agents but gives no doses for any of them.
+
 ## Short-Term Complications
 
 - **Ostomy leakage** — one of the most common and dreaded stomal complications. Repetitive leakage onto the skin → excoriation from frequent appliance changes → pain, pouching difficulty, added expense and financial hardship.
@@ -98,26 +109,24 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 
 ## Peristomal Skin & Long-Term Complications
 
-**Peristomal dermatoses** — most result from leaking around the appliance (manage per leakage above). Patients may also develop appliance allergy, fungal rash, and/or folliculitis.
+- **Peristomal dermatoses** — most result from leaking around the appliance (manage per leakage above). Patients may also develop appliance allergy, fungal rash, and/or folliculitis.
+  - **Appliance allergy** — itching and redness **in the shape of the offending product** → skin sealant for minor irritation; pouching-system change and temporary steroid spray may be required.
+  - **Fungal infection** — prolonged moisture and heat under the appliance → itchy maculopapular rash with satellite borders. Antifungal powder sprinkled on the skin and sealed with sealant; **no improvement after 2 weeks** → further evaluation by surgeon or enterostomal therapist.
+  - **Peristomal pyoderma gangrenosum** — painful ulcers surrounded by a purple halo, particularly in IBD → interdisciplinary care by gastroenterology (GI), dermatology, and wound-care nursing.
+  - **Peristomal varices** — a small amount of bleeding during appliance changes is normal given the vascular nature of the stoma; persistent or severe bleeding → work-up. Typically characterized by **purplish, concentric discoloration** around the ostomy.
+- **Parastomal hernia** — abdominal wall defect enlarging over time with intra-abdominal pressure; occurs in up to **50% of ostomates within 5 years**.
+  - Risk factors: obesity, smoking, steroid use, transverse colostomy.
+  - Prevention: place the stoma **through the rectus**; avoid the transverse colon when possible (significant risk of both hernia and prolapse).
+  - **Incarcerated hernia** — painful, irreducible → obstruction and eventual bowel ischemia = **surgical emergency**.
+  - Small, reducible → hernia belt. Elective repair reserved for significant pouching issues, pain, or recurrent bowel obstruction.
+  - Most effective repair = **ostomy reversal** when possible; otherwise minimally invasive repair, frequently with mesh. Recurrence after repair is common (**>25% at 2 years**). Moving the stoma at the time of repair has fallen out of favor (significant hernia risk at the new site).
+- **Stomal prolapse** — elongation of the *intestinal* portion of the stoma (vs parastomal hernia = bulge in surrounding skin and soft tissue). Rate **5%–10%**.
+  - Acute prolapse with incarceration/ischemia — pain, obstipation, purple/black discoloration of the stoma = **emergency surgery**.
+  - No ischemia → reduce by laying the patient in a relaxed position and gently squeezing the ostomy back into the abdomen.
+  - Surgery avoidable if prolapse is mild, easily reducible, and doesn't interfere with pouching; otherwise stomal revision or reversal (when feasible) for symptomatic prolapse, incarceration, or ischemia.
 
-- **Appliance allergy** — itching and redness **in the shape of the offending product** → skin sealant for minor irritation; pouching-system change and temporary steroid spray may be required.
-- **Fungal infection** — prolonged moisture and heat under the appliance → itchy maculopapular rash with satellite borders. Antifungal powder sprinkled on the skin and sealed with sealant; **no improvement after 2 weeks** → further evaluation by surgeon or enterostomal therapist.
-- **Peristomal pyoderma gangrenosum** — painful ulcers surrounded by a purple halo, particularly in IBD → interdisciplinary care by gastroenterology (GI), dermatology, and wound-care nursing.
-- **Peristomal varices** — a small amount of bleeding during appliance changes is normal given the vascular nature of the stoma; persistent or severe bleeding → work-up. Typically characterized by **purplish, concentric discoloration** around the ostomy.
-
-**Parastomal hernia** — abdominal wall defect enlarging over time with intra-abdominal pressure; occurs in up to **50% of ostomates within 5 years**.
-
-- Risk factors: obesity, smoking, steroid use, transverse colostomy.
-- Prevention: place the stoma **through the rectus**; avoid the transverse colon when possible (significant risk of both hernia and prolapse).
-- **Incarcerated hernia** — painful, irreducible → obstruction and eventual bowel ischemia = **surgical emergency**.
-- Small, reducible → hernia belt. Elective repair reserved for significant pouching issues, pain, or recurrent bowel obstruction.
-- Most effective repair = **ostomy reversal** when possible; otherwise minimally invasive repair, frequently with mesh. Recurrence after repair is common (**>25% at 2 years**). Moving the stoma at the time of repair has fallen out of favor (significant hernia risk at the new site).
-
-**Stomal prolapse** — elongation of the *intestinal* portion of the stoma (vs parastomal hernia = bulge in surrounding skin and soft tissue). Rate **5%–10%**.
-
-- Acute prolapse with incarceration/ischemia — pain, obstipation, purple/black discoloration of the stoma = **emergency surgery**.
-- No ischemia → reduce by laying the patient in a relaxed position and gently squeezing the ostomy back into the abdomen. Irreducible with pressure alone → **a cup of sugar applied directly to the stoma, left in place 20 minutes**, reduces stomal swelling and facilitates reduction.
-- Surgery avoidable if prolapse is mild, easily reducible, and doesn't interfere with pouching; otherwise stomal revision or reversal (when feasible) for symptomatic prolapse, incarceration, or ischemia.
+> [!pearl] Sugar shrinks a prolapsed stoma
+> Prolapse that won't go back with gentle pressure alone: **a cup of sugar applied directly to the stoma and left in place 20 minutes** reduces stomal swelling and facilitates reduction ([[aga-2023-ostomies]]).
 
 ## Perioperative & WOC Care
 
@@ -126,8 +135,11 @@ Care of the adult with an **enteral stoma** (colostomy or ileostomy) **beyond th
 - WOC marking assesses the abdomen **in multiple positions** for a site **within the rectus muscle**, away from scars, skin folds, bony prominences, and the umbilicus.
 - WOC consultation discusses and manages expectations for life with a stoma: managing ostomy output, maintaining pouching appliances, and the regular passage of mucus from the native rectum.
 - National resources exist for patients, including community-based and online ostomy support groups.
-- **Endoscopy through the stoma before closing a temporary diversion in Crohn's disease** — pass the scope **beyond the level of the fascia**, because the segment between stoma and fascia carries mechanical and ischemic ulcers, strictures and fistulas that are not recurrent disease. Decision and interval: [[crohns-disease#Postoperative CD Prevention]] ([[asge-2025-ibd-endoscopy-consensus]]).
-- **Surveillance of a diverted large bowel** in long-standing [[ulcerative-colitis|UC]] or Crohn's: [[ulcerative-colitis#Colorectal Cancer Surveillance]].
+- **Endoscopy through the stoma before closing a temporary diversion in Crohn's disease** — ileoscopy is recommended, and the scope should pass **beyond the level of the fascia** ([[asge-2025-ibd-endoscopy-consensus]]). Decision and interval: [[crohns-disease#Postoperative CD Prevention|postoperative Crohn's disease prevention]].
+- **Surveillance of a diverted large bowel** in long-standing [[ulcerative-colitis|ulcerative colitis (UC)]] or Crohn's disease: [[ulcerative-colitis#Colorectal Cancer Surveillance|UC colorectal cancer surveillance]].
+
+> [!pitfall] Lesions short of the fascia are not recurrent Crohn's
+> The bowel between the stoma and the fascia carries mechanical and ischemic ulcers, strictures and fistulas that **do not represent recurrent Crohn's disease** — so the ileoscope must be introduced past the fascia before the diversion is closed ([[asge-2025-ibd-endoscopy-consensus]]).
 
 ## See Also
 

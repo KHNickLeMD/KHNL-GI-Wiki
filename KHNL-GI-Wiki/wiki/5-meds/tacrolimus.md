@@ -79,8 +79,7 @@ The 2025 guideline gives **one shared adverse-effect list for the CNI class** �
 
 - **Nephrotoxicity** is a well-established effect of long-term CNI use and **the main indication for discontinuing the CNI** (2025). Post-LT CKD affects 30%–80% of recipients, with a cumulative **end-stage renal disease (ESRD) risk of 5%–8% in the first 10 years**; kidney failure (GFR ≤29 mL/min/1.73 m² or ESRD) reaches 18% at 5 years and 25% at 10 years ([[aasld-2012-liver-transplant-long-term]]).
 - **Diabetes mellitus (DM):** diabetes is explicitly **more frequent with TAC** than with cyclosporine (2025 Table 4; "corticosteroids and tacrolimus promote diabetes", 2012). New-onset DM is seen in **5%–26%** of recipients followed beyond 1 year and tends to remit as steroids are withdrawn and the TAC dose is reduced. Delaying the TAC start with basiliximab induction lowered de novo DM and hypertension in randomized trials of living donor LT (2025 Table 3) — see [[calcineurin-inhibitors]].
-- **Systemic hypertension:** promoted by TAC *and* by cyclosporine — the 2012 metabolic-syndrome table (which scores contributors + to +++) rates both **++**, and rates insulin-resistant DM **++** for TAC against **+** for cyclosporine.
-- **Dyslipidemia:** a minor CNI effect in that table (TAC and cyclosporine **+**) next to sirolimus (**+++**).
+- **Systemic hypertension and dyslipidemia:** both are CNI class effects; which agent contributes more to each is tabulated on [[calcineurin-inhibitors]].
 
 The American Association for the Study of Liver Diseases (AASLD)/American Society of Transplantation (AST) documents go no further than the class list above — they do not itemize specific neurologic manifestations of TAC.
 

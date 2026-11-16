@@ -27,8 +27,9 @@ Prophylaxis IS warranted in specific scenarios to prevent local infection: endos
 ## Key Findings / Claims
 
 ### Bacteremia risk by procedure
-- **High:** esophageal dilation (bougienage 12–22%; higher with malignant strictures and multiple dilators), variceal sclerotherapy (up to 52%, mean ~14.6%), instrumentation of obstructed bile ducts.
-- **Low:** diagnostic esophagogastroduodenoscopy (EGD) ± biopsy, colonoscopy ± biopsy/polypectomy, EUS-FNA of solid lesions (within range of diagnostic EGD), endoscopic variceal ligation (EVL).
+- **High:** esophageal dilation (bougienage 12–22%; higher with malignant strictures and multiple dilators), variceal sclerotherapy (up to 52%, mean 14.6%), instrumentation of obstructed bile ducts (ERCP 18% when obstructed vs 6.4% when not).
+- **Endoscopic variceal ligation (EVL): 1%–25%, mean 8.8%** — the guideline reports it alongside sclerotherapy, not as a low-risk procedure.
+- **Lower:** diagnostic esophagogastroduodenoscopy (EGD) ± biopsy, colonoscopy, EUS-FNA of solid lesions (within range of diagnostic EGD). The guideline gives no bacteremia rate for polypectomy.
 - Routine daily activity (brushing/flossing/chewing) causes transient bacteremia often exceeding endoscopy rates — a key rationale against procedure-based IE prophylaxis.
 
 ### Prophylaxis to prevent local infection (Table 3)
