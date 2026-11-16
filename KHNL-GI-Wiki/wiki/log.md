@@ -6,6 +6,39 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] update | Anki card pass — dedup, new cards for 8 pages, card quality review
+
+**Dedup:** 3 candidate pairs from `anki-dupes.mjs`, all judged **distinct** and marked in the ledger (achalasia POEM treatment-naive vs post-failed-myotomy; familial pancreatic cancer gene panel vs surveillance eligibility by gene; terlipressin in pregnancy vs vasoactive timing before endoscopy). No merges from the script.
+
+**Section anchors:** `anki-at.py --status` = 0 untagged notes; backfill queue empty. Fixed 14 broken `at:` anchors whose headings moved in the page quality sweeps (ESD ×8, argon plasma coagulation ×2, choledocholithiasis, AI in endoscopy, plus 4 retargeted to more specific sections on esophageal cancer and choledocholithiasis).
+
+**Cards written (8 pages, newest tier-1 source first):**
+- `5-meds/mycophenolate-mofetil` — new card file, 4 notes (EASL 2025 AIH induction dosing and its day-1 start with the steroid, first lab check at 4 weeks, antacid/PPI interaction, pre-conception withdrawal and contraception). Tag nodes `GI::Meds::Immunomodulators GI::Organs::Liver`, both pre-existing.
+- `anal-fissure` — 1 note (topical over oral calcium channel blocker, ASCRS 2023 reversing ACG 2021); corrected the superseded oral-CCB claim on `af1006` and added its agent-comparison table; added the ASCRS flap indication to `af100b`.
+- `serrated-polyposis-syndrome` — 2 notes (clearing-phase target lesions; the findings that shorten surveillance to ≤1 year, with the USMSTF 2026 Figure 2 interval table in Back Extra).
+- `igg4-related-cholangitis` — 1 note (ESGE 2026 biliary drainage indications and balloon-dilation-first).
+- `choledocholithiasis` — 1 note on laparoscopic duct exploration vs perioperative ERCP, later merged into the existing `c5d007` in the review step below.
+- `endoscopic-submucosal-dissection` — 2 notes (post-ESD stricture prevention above 75% circumference; ablation schedule for residual Barrett's after curative ESD).
+- `argon-plasma-coagulation` — 1 note (thermal therapy at the rim of a diverticulum, not the base); `0c8d36` broadened to both pre-ablation steps at the ampulla.
+- `autoimmune-hepatitis` — 3 notes (mandatory thyroid and coeliac screening at diagnosis; budesonide demoted and contraindicated in cirrhosis; who is treated vs watch-and-wait) and 6 notes corrected from AASLD 2020 to the governing EASL 2025 content (first-line doses, maintenance regimen, line ordering with tacrolimus to third line, acute severe reassessment at days 3–7, withdrawal criteria). `a11016` retired — merged into `[c0f104]` on the mycophenolate page, since it tested the superseded AASLD contraception intervals the AIH page itself says not to follow.
+
+**No cards written:** `artificial-intelligence-endoscopy` — anchor fixed, but every uncarded fact on the page is an AGA 2025 "no recommendation" stance, a trial result, an NNT or adoption/cost material, all on the high-yield Cut list. Nothing qualified.
+
+**Card quality review (7 files; notes before → after):**
+- `esophageal-cancer` 16 → 13 — cut the pathology-grading definitions and the definitional "what EUS adds"; merged the nodal-metastasis predictors into the endoscopic-candidacy note; added Back Extra tables for T1b substaging and for lymph node metastasis by depth and cell type.
+- `esophageal-stricture` 16 → 14 — cut the paediatric-only barium indication; merged the topical-steroid-continuation note into the dilation-plus-anti-inflammatory note; added the simple-vs-complex table; normalised British spellings to the page's US spelling.
+- `gastric-intestinal-metaplasia` 16 → 13 — cut AGA 2020's superseded against-surveillance stance; merged the first-degree-relative note and ACG 2025's demography-alone criteria into the AGA 2026 note, since the page follows AGA 2026 where demography stands alone.
+- `hepatitis-d` 16 → 15 — merged the peginterferon contraindications into the single peginterferon note.
+- `nutrition-in-liver-disease` 16 → 15 — cut the RFH-NPT step-by-step scoring mechanics; reconciled the two calorie targets (AASLD ≥35 vs ACG 30–35) onto one note and pulled the protein target onto its front; dropped the "no recommendation" cloze on strict sodium restriction.
+- `acute-cholecystitis` 16 → 16 — recut the 72/96-hour note to the 96-hour laparoscopic limit alone (72 hours is owned by the Grade II note); added the Tokyo Grade III organ-dysfunction table in Back Extra.
+- `choledocholithiasis` 16 → 15 — merged this pass's own laparoscopic-exploration note and the stone-extraction-stent note into their owner notes; retargeted four anchors.
+
+**Deliberate skip:** `gastroenteropancreatic-neuroendocrine-tumors` tops the review queue (23 notes, never reviewed) but every note is sourced to NCCN, whose licence bars use with a language model — still awaiting Nick's decision on the existing NCCN-derived content.
+
+**Deck:** 4,675 notes built to `/cards/dist/khnl-gi-wiki.txt`. Remaining build problems are the standing "cards stale" backlog on pages this pass did not reach, plus pre-existing broken anchors on `operational-tolerance` and `confocal-laser-endomicroscopy`.
+
+---
+
 ## [2026-11-16] lint | Quality review release sweep — pages from the review queue
 
 **Scope:** Quality review (release sweep) only, by budget. Queue taken from `review-queue.py --pages 10`, worked from the top; one subagent per page. Decision sufficiency and source fidelity against the page's tier-1 `raw/` sources first, then visuals (accuracy outranks visuals — no figure when any needed value, unit, denominator or branch condition is missing), then concision, callouts, consistent organization, abbreviations.
