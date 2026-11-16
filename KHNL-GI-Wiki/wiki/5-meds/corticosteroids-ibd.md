@@ -3,8 +3,8 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-11-15
-sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd]
+updated: 2026-11-16
+sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -205,6 +205,7 @@ The same two drugs, a different rule set — and the one place where **budesonid
 - **94%–95%** of AIH patients are steroid-responsive; only **~30%** can discontinue all immunosuppression long-term.
 - **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
 - American Association for the Study of Liver Diseases (AASLD) 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
+- ⚠ **The first-line budesonide option is superseded.** [[easl-2025-autoimmune-hepatitis|EASL 2025]] removes budesonide from first-line AIH therapy and **contraindicates it in cirrhosis**; the newer document governs. The contraindication in cirrhosis and acute severe AIH is common to both. Regimens and response definitions: [[autoimmune-hepatitis]]
 
 ---
 

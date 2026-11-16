@@ -6,6 +6,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] update | Card pass — dedup, new cards, card quality review
+
+**Deduplication:** 5 candidate pairs judged, all recorded in the ledger. 1 merged — the "negative reflux study on or off PPI → stop the PPI" note, kept on `[[reflux-testing]]` (`af1006`, now `{also:gerd}`), retired from `[[gerd]]`. 4 distinct: topical calcium channel blocker class vs oral-versus-topical route in `[[anal-fissure]]`; the ACG 2022 Barrett's T1b criteria vs the AGA 2019 ESD T1b criteria; autoimmune hepatitis first-line dosing vs drug-induced autoimmune-like hepatitis; Spigelman in `[[familial-adenomatous-polyposis]]` vs `[[mutyh-associated-polyposis]]`.
+
+**Cards written (12 notes across 11 pages, by ingest priority):**
+- `[[chronic-diarrhea]]` — when to test for bile acid malabsorption (Rome V: not responding, nocturnal/atypical, obesity or prior cholecystectomy). The rest of the Rome V material added on 11-16 is already owned by `[[irritable-bowel-syndrome]]`, `[[microscopic-colitis]]` and `[[celiac-disease]]`.
+- `[[palliative-care-in-cirrhosis]]` — 6 notes off the new AASLD 2022 symptom table and CMS hospice criteria: hospice laboratory requirements (with the 3-row criteria table in Back Extra), acetaminophen ceiling and the NSAID ban, hydromorphone/oxycodone doses and the opioids to avoid, melatonin/hydroxyzine and the zolpidem ban, ondansetron and prochlorperazine-with-jaundice, oxygen and end-of-life hydromorphone for dyspnea. Baclofen for cramps and the pruritus ladder were left to their owner pages.
+- `[[ercp]]` — repeat a failed ERCP after ≥2 days before abandoning it (ESGE 2026).
+- `[[cholangiocarcinoma]]` — the three indications for preoperative biliary drainage in hilar disease, including future liver remnant ≤30%.
+- `[[chronic-pancreatitis]]` — the 6–12 month dwell of the covered metal stent for its biliary stricture.
+- `[[sphincter-of-oddi-dysfunction]]` — the dilated duct on chronic opioids: image to exclude stones or neoplasm, invoke SOD only with typical biliary pain.
+- `[[liver-transplantation]]` — anastomotic stricture stent options and the >2 cm-from-confluence rule for a covered metal stent.
+- `[[primary-sclerosing-cholangitis]]` — dilate the high-grade stricture, do not stent afterwards (ESGE 2026, superseding the AASLD discretionary posture).
+- `[[gastric-intestinal-metaplasia]]` — endoscopic appearance on white light and the light blue crest (IEE performance table in Back Extra), and confirming H. pylori cure 1–2 months before a surveillance endoscopy. Also repointed 7 broken `{at:}` anchors left by the 11-16 restructure.
+- No new cards on `[[biliary-stricture]]`, `[[ercp-quality-indicators]]`, `[[variceal-obliteration]]` or `[[ampullary-adenoma]]` — their 11-16 page changes were wording, reorganization or facts already owned elsewhere; `page_updated:` bumped.
+
+**Card quality review (6 files):**
+- `gastroenteropancreatic-neuroendocrine-tumors` — 23 → 20 notes. Retired: the five-biopsy gastric mapping note (owned by `[[upper-endoscopy]]`), the PPI-washout exception (absorbed into the subtype-test note as a third cloze), and the "no further endoscopic removal after a high-risk rectal NET" note whose answer was given away by its own premise. Rewrote the 5-HIAA note to test the 48-hour food and drug window. Added the WHO 2019 grading table in Back Extra; repointed the appendiceal note's anchor.
+- `chronic-pancreatitis` — 17 → 13 notes. The three Rosemont notes tested one table piecemeal → merged into the one that carries the full table; the fecal elastase cut-offs are owned by `[[exocrine-pancreatic-insufficiency]]`; M-ANNHEIM severity bands retired as not management-changing. Two anchors repointed (duct stones, type 3c diabetes).
+- `colorectal-esd` — 16 → 13 notes. The three colonic post-ESD surveillance notes merged into one, with the schedule table in Back Extra; the discretionary CEA/imaging note retired; recut the deep-SMI note, whose second cloze was answered by the 2.6% figure in front of it.
+- `corticosteroids-ibd` — 16 → 15 notes. The budesonide-in-autoimmune-hepatitis note is owned by `[[autoimmune-hepatitis]]`, where EASL 2025's demotion already lives → retired here. Added the budesonide CIR-vs-MMX formulation table in Back Extra.
+- `nonselective-beta-blockers` — 16 → 15 notes. The two carvedilol-hypotension notes tested one two-step decision from opposite ends → merged into one (down-titrate to 6.25 mg, then switch to propranolol or nadolol). Added the AASLD Table 3 dosing table in Back Extra.
+- `ambulatory-reflux-monitoring` — 16 → 15 notes. The "4% is system-dependent" caveat retired and folded into the borderline-acid-exposure note; added the page's reflux-episode-count and mean nocturnal baseline impedance threshold tables in Back Extra.
+
+**Page fixed from the deck:** `[[corticosteroids-ibd]]` asserted AASLD 2020's budesonide-plus-azathioprine as a co-equal first-line autoimmune hepatitis option with no note that EASL 2025 removed it; the supersession is now stated with the EASL link and the source added to the frontmatter. The owed deck grep from the 11-16 quality review (endoscopy indicator 18's target, mislabeling vs miscommunication) found no card copies.
+
+**Build hygiene:** repointed 6 section anchors orphaned by page restructures — `confocal-laser-endomicroscopy` (2), `endoscopy-quality-indicators` (1), `operational-tolerance` (3) — and trimmed an over-length bullet on `hiv-aids-related-diarrhea`. Every non-staleness build problem is now cleared.
+
+**Deck:** 4,707 notes exported. The 23 remaining build problems are all `cards stale` on pages this pass did not reach — the standing backlog.
+
+---
+
 ## [2026-11-16] lint | Quality review (release sweep)
 
 **Scope:** Quality review step only, worked from `review-queue.py --pages`, never-reviewed pages first. One subagent per page: decision sufficiency + source fidelity against the tier-1 raw PDFs, then visuals, concision, callouts, organization, abbreviations.
