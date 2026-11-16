@@ -3,8 +3,9 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-11-08
+updated: 2026-11-16
 sources: [rome-v-2026-gallbladder-sphincter-of-oddi, acg-asge-2026-ercp-quality-indicators, asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis, rome-v-2026-dgbi]
+quality_reviewed: 2026-11-16
 ---
 
 ## Contents
@@ -22,7 +23,7 @@ sources: [rome-v-2026-gallbladder-sphincter-of-oddi, acg-asge-2026-ercp-quality-
 
 ## Assessment
 
-- **Sphincter of Oddi (SO) disorder** = abnormality of the sphincter complex at the ampulla associated with episodes of biliary pain, elevated liver enzymes, bile duct dilation, or attacks of pancreatitis. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- **Sphincter of Oddi (SO) disorder (SOD)** = abnormality of the SO associated with — and possibly causing — episodes of biliary pain, elevated liver enzymes, bile duct dilation, and attacks of pancreatitis. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - The sphincter complex has three parts: a **biliary sphincter**, a **pancreatic sphincter**, and a **common sphincter** — SOD may present with biliary and/or pancreatic signs and symptoms. ([[asge-2015-ercp-benign-biliary]])
 - Presents as **typical biliary pain**, classically **post-cholecystectomy**, or as **idiopathic [[recurrent-acute-pancreatitis|recurrent acute pancreatitis (RAP)]]**.
 - **Two phenotypes, not mutually exclusive** ([[rome-v-2026-gallbladder-sphincter-of-oddi]]):
@@ -37,45 +38,48 @@ sources: [rome-v-2026-gallbladder-sphincter-of-oddi, acg-asge-2026-ercp-quality-
 
 **Typical biliary pain is the cardinal criterion** for both the gallbladder and the biliary sphincter disorders. Definition, and the criteria sets built on it, live on [[dysfunctional-gallbladder-disorder#Typical Biliary Pain (Rome V definition)|dysfunctional gallbladder disorder]].
 
-**Biliary SOD — [[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V]] criteria. Must include *all* of:**
+**[[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V]] diagnostic criteria** — manometry and scintigraphy appear in neither set:
 
-1. **Typical biliary pain**
-2. **Elevated liver tests and/or biliary dilation**
-3. **Absence of bile duct stones or other structural abnormalities**
+| | **Biliary SOD** (must include *all*) | **Pancreatic SOD** (must include *both*) |
+|---|---|---|
+| **1** | Typical biliary pain | Documented recurrent episodes of acute pancreatitis |
+| **2** | Elevated liver tests and/or biliary dilation | Other etiologies of pancreatitis excluded |
+| **3** | Absence of bile duct stones or other structural abnormalities | — |
 
-**Pancreatic SOD — Rome V criteria. Must include *both* of:**
-
-1. **Documented recurrent episodes of acute pancreatitis** — each episode satisfying **≥2 of 3**: typical pain; pancreatic enzymes **>3× the upper limit of normal**; characteristic imaging of pancreatic inflammation
-2. **Other etiologies excluded** — gallstones, alcohol, hypertriglyceridemia, autoimmune, hypercalcemia, medications, pancreatic mass, ampullary lesion, [[pancreas-divisum|pancreas divisum]], anomalous pancreaticobiliary junction, genetic causes, and acute exacerbation of underlying [[chronic-pancreatitis|chronic pancreatitis (CP)]]
-
+- **Qualifying pancreatitis episode — ≥2 of 3:** typical pain consistent with acute pancreatitis; pancreatic enzymes **>3× the upper limit of normal**; characteristic imaging showing pancreatic inflammation.
+- **Etiologies that must be excluded:** gallstones, alcohol, hypertriglyceridemia, autoimmune, hypercalcemia, medications, pancreatic mass, ampullary lesion, [[pancreas-divisum|pancreas divisum]], anomalous pancreaticobiliary junction, genetic, and acute exacerbation of underlying [[chronic-pancreatitis|chronic pancreatitis (CP)]].
 - **There is no pancreatic SOD without pancreatitis.** Rome V restricts the diagnosis to unexplained RAP; no evidence supports SOD as a cause of pancreatic pain in the absence of acute or chronic pancreatitis. A dilated pancreatic duct with "unexplained epigastric pain" is far more likely CP or main-duct intraductal papillary mucinous neoplasm.
 - **Exclude structural disease first** — stones, sludge, CP, malignancy — with cross-sectional imaging, [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]], and/or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] before invasive testing. ([[asge-2015-benign-pancreatic-disease]])
 - **Do not pursue diagnostic ERCP for biliary-type pain with normal labs and imaging** — the former "type III" scenario, where ERCP has no benefit and real harm. ([[asge-2015-ercp-benign-biliary]], [[rome-v-2026-gallbladder-sphincter-of-oddi]])
 
-**Bile duct diameter — the threshold is unsettled, and the page carries both standards** ([[rome-v-2026-gallbladder-sphincter-of-oddi]]):
+**Bile duct diameter — the upper limit of normal is controversial and has varied significantly across studies; both standards are in use** ([[rome-v-2026-gallbladder-sphincter-of-oddi]]):
 
-| | Conventional upper limit | Population MRI reference (awaiting validation) |
+| | Conventional upper limit | Population magnetic resonance imaging (MRI) reference (awaiting validation) |
 |---|---|---|
 | **Gallbladder in situ, <65 y** | 6 mm | 8 mm |
-| **Gallbladder in situ, ≥65 y** | 6 mm | 11 mm |
+| **Gallbladder in situ, >65 y** | 6 mm | 11 mm |
 | **Post-cholecystectomy, <65 y** | 9 mm | 13 mm |
-| **Post-cholecystectomy, ≥65 y** | 9 mm | 14 mm |
+| **Post-cholecystectomy, >65 y** | 9 mm | 14 mm |
 
-Rome V reports the age-dependent reference range but states it needs replication and prospective validation. The difference is not academic: a 75-year-old with biliary pain, normal liver tests, prior cholecystectomy and an **11 mm** duct **meets no criteria** under the new standard, yet would have been labelled SOD II under the old one. A dilated duct also follows **increasing age, cholecystectomy and chronic opioid use** without obstruction.
+Rome V reports the age-dependent reference range but states it needs replication and prospective validation. The difference is not academic: a 75-year-old with biliary pain, normal liver tests, prior cholecystectomy and an **11 mm** duct **meets no criteria** under the new standard, yet would have been labelled SOD II under the old one. A duct also dilates without obstruction with **increasing age, cholecystectomy and opioid use** ([[acg-asge-2026-ercp-quality-indicators]]).
+
+> [!pitfall] A dilated duct on opioids is not biliary SOD
+> **Chronic opioid use is a common cause of bile duct dilation with no pain and normal liver enzymes.** Evaluate with EUS or MRCP to exclude occult choledocholithiasis or neoplasm, but invoke biliary SOD **only if the patient has typical biliary pain** ([[rome-v-2026-gallbladder-sphincter-of-oddi]]).
 
 ### Classification / Typing
 
 **[[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V]] abandoned the Milwaukee / Rome III type I–III subtyping.** Readers trained on it will still meet it in older documents, so what changed:
 
-| Old subtype (Milwaukee / Rome III) | What it required | Rome V position |
+| Old subtype (modified Milwaukee / Rome III) | What it required | Rome V position |
 |---|---|---|
-| **Type I** | Biliary pain **+** liver tests >2× normal on ≥2 occasions **+** bile duct >8 mm | Folded into **biliary SOD**; this is the group most likely to be **SO stenosis**, where drainage is uncontroversial |
+| **Type I** | Biliary pain **+** liver enzyme elevation **>1.1× the upper limit of normal** **+** biliary dilatation **>9 mm** | Folded into **biliary SOD**; this is the group most likely to be **SO stenosis**, where drainage is uncontroversial |
 | **Type II** | Biliary pain **+ one** of those two abnormalities | Also **biliary SOD** — the type I/II split has **fallen out of favor**, because subtype does not correlate strongly with outcome |
-| **Type III** | Biliary pain **alone**, nothing objective | **Abandoned.** These patients likely have **another [[disorders-of-gut-brain-interaction\|DGBI]]** and are managed as such (EPISOD) |
+| **Type III** | Biliary pain **alone**, nothing objective | **Abandoned.** These patients likely have **another [[disorders-of-gut-brain-interaction\|disorder of gut–brain interaction (DGBI)]]** and are managed as such (Evaluating Predictors and Interventions in Sphincter of Oddi Dysfunction [EPISOD] trial) |
 
+- ⚠ **The two guidelines state the old type I thresholds differently.** [[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V (2026)]] gives liver enzymes **>1.1× the upper limit of normal** and duct **>9 mm** (above); [[asge-2015-ercp-benign-biliary|ASGE 2015]] gives aminotransferases, bilirubin or alkaline phosphatase **>2× normal documented on ≥2 occasions** and a duct **>8 mm on ultrasound**. The row above follows the newer document.
 - **"Biliary SOD" now applies to every patient** with biliary-type pain and at least **transient** evidence of biliary obstruction.
 - ⚠ **Do not map stenosis onto old type I and spasm onto old type II.** Spasm can raise liver tests *and* dilate the duct (looking like type I) or do just one (looking like type II). Most studies of sphincterotomy response stratified by **subtype**, not by **phenotype** — which is why their results do not transfer cleanly.
-- **Pancreatic SOD was never usefully subtyped and now is not at all** — Rome V defines it solely by unexplained RAP (criteria above). The old pancreatic "type 1/2/3" scheme from [[asge-2015-benign-pancreatic-disease]] carried no enzyme multiple and no millimetre duct cutoff, and is superseded.
+- **Pancreatic SOD was never usefully subtyped and now is not at all** — Rome V defines it solely by unexplained RAP (criteria above). The superseded pancreatic scheme ([[asge-2015-benign-pancreatic-disease]]) ran **type 1** = pain + abnormal pancreatic enzymes on 2 occasions + dilated pancreatic duct · **type 2** = pain + either one · **type 3** = "pancreatic type" pain alone; it attaches no enzyme multiple and no millimetre duct cutoff.
 
 ## Differential Diagnosis
 
@@ -86,71 +90,81 @@ Rome V reports the age-dependent reference range but states it needs replication
 - [[chronic-pancreatitis|Chronic pancreatitis]] and pancreatic-duct stones.
 - [[pancreas-divisum|Pancreas divisum]] (a structural cause of recurrent pancreatitis, evaluated separately).
 - [[dysfunctional-gallbladder-disorder|Dysfunctional gallbladder disorder]] (gallbladder still in situ, no stones).
-- Biliary-type pain without SOD — the former "type III" population, now managed as a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]].
-- **Gastric pathology** — the commonest cause of pain in the first 3 years after cholecystectomy.
+- **Another DGBI — the commonest alternative**, and what the former "type III" population is now considered to have.
+- [[peptic-ulcer-disease|Peptic ulcer disease]] and other gastric pathology.
+- [[nafld-masld|Steatotic liver disease]] — can account for the abnormal liver tests on its own.
+- Musculoskeletal syndromes.
 
 ## Diagnostics
 
 - **Noninvasive first:** cross-sectional imaging, [[mri-mrcp|MRCP]], and [[endoscopic-ultrasound|EUS]] to exclude stones, sludge, strictures, [[chronic-pancreatitis|CP]], and malignancy. **EUS is the preferred low-risk test** for interrogating idiopathic disease, especially in older patients where occult malignancy must be excluded. ([[asge-2015-benign-pancreatic-disease]])
+- **Exclusion of alternative etiologies is driven by the clinical presentation** and may include laboratory evaluation, imaging (ultrasound, computed tomography [CT], MRI), endoscopy ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]/EUS), a gastric emptying study, and **reassessment of medications**. Ultrasound or CT first; if inconclusive, MRCP and/or EUS give the complete pancreaticobiliary picture, with a **low threshold for EGD**. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **EUS is the principal test for unexplained RAP** — yield ~**30%–90%**; most often finds occult biliary stone disease, but detects ampullary or pancreaticobiliary malignancy in up to **5% after one episode** and **12%** with RAP. MRCP is a reasonable complementary or alternative test, better for [[pancreas-divisum|pancreas divisum]] and anomalous pancreaticobiliary union. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **Sphincter of Oddi manometry (SOM) has been essentially abandoned** — on performance as well as logistics and safety ([[rome-v-2026-gallbladder-sphincter-of-oddi]]):
   - A brief measurement cannot capture **intermittent** spasm, so sensitivity is inherently limited.
   - Repeat manometry is abnormal in **40%–60%** of persistently symptomatic patients whose first study was normal.
   - In EPISOD it was **neither reproducible nor predictive of any outcome**.
   - ⚠ Supersedes [[asge-2015-ercp-benign-biliary]], which reserved SOM for suspected type II.
-- **Cholescintigraphy and stimulated ultrasound do not play a role** in biliary SOD — they lack the accuracy to drive clinical decisions.
-- **Suspected SOD carries a significantly higher post-ERCP pancreatitis risk**, whether or not manometry is performed — this shapes the risk/benefit of any invasive workup. ([[asge-2015-ercp-benign-biliary]])
+- **Hepatobiliary scintigraphy and stimulated ultrasound do not play a clear role** in biliary SOD — they lack sufficient accuracy to drive clinical decision making. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- **Any invasive workup is weighed against a significantly higher post-ERCP pancreatitis risk** in suspected SOD (prophylaxis below).
 
 ## Therapeutics
 
 ### Biliary SOD
 
-**The decision is graded on how strong the evidence of biliary obstruction is, not on a subtype number** ([[rome-v-2026-gallbladder-sphincter-of-oddi]] Figure 5):
+**The decision is graded on how strong the evidence of biliary obstruction is, not on a subtype number:**
 
 ```mermaid
 flowchart TD
-    A["Typical biliary pain,<br/>suspected biliary SOD"] --> B["Exclude alternative etiologies"]
-    B --> C{"Potential etiology found?"}
-    C -->|Yes| D["Treat and observe response"]
-    D --> E{"Ongoing biliary pain?"}
-    E -->|No| F["Continue management"]
-    E -->|Yes| G["Consider another DGBI"]
-    C -->|No| H{"Abnormal liver tests<br/>or dilated bile duct?"}
-    H -->|No| I{"Gallbladder present?"}
-    I -->|Yes| J["Possible DGBD algorithm"]
-    I -->|No| G
-    H -->|Yes| K["Grade level of evidence<br/>for biliary obstruction"]
-    K -->|High| L["ERCP — biliary SOD, or another<br/>unrecognized obstructive process<br/>(e.g. ampullary neoplasm)"]
-    K -->|Medium to low| M["Shared decision making on<br/>risks and benefits of ERCP<br/>with sphincterotomy"]
+    A(["Typical biliary pain,<br/>suspected biliary SOD"]) --> B["Exclusion of alternative etiologies<br/>based on clinical presentation"]
+    B -- "Potential etiology" --> C["Treat and observe response"]
+    C -- "No ongoing biliary pain" --> D(["Continue management"])
+    C -- "Ongoing biliary pain" --> E(["Consider another DGBI"])
+    B -- "No potential etiology" --> F["Abnormal liver tests<br/>or dilated bile duct?"]
+    F -- "No, gallbladder present" --> G(["Dysfunctional gallbladder<br/>disorder algorithm"])
+    F -- "No, gallbladder absent" --> E
+    F -- "Yes" --> H["Level of evidence<br/>for biliary obstruction"]
+    H -- "High" --> I(["ERCP for biliary SOD or another<br/>unrecognized obstructive process<br/>(e.g. ampullary neoplasm)"])
+    H -- "Medium to low" --> J(["Thoughtful shared decision making<br/>on risks and benefits of ERCP<br/>with sphincterotomy"])
+    class A start
+    class B,C,F,H test
+    class D,G,I,J act
+    class E stop
 ```
 
-*Figure — evaluation of typical biliary pain with suspected biliary sphincter of Oddi disorder. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])*
+*Evaluation of typical biliary pain with suspected biliary sphincter of Oddi disorder*
+*Source: redrawn from Figure 5 of the Rome V 2026 gallbladder and sphincter of Oddi chapter*
+*[[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V (2026): Gallbladder and Sphincter of Oddi Disorders]]*
+*SOD = sphincter of Oddi disorder · DGBI = disorder of gut–brain interaction · ERCP = endoscopic retrograde cholangiopancreatography*
 
 - **What moves a case from "medium to low" toward "high":** degree of liver-test elevation · degree of bile duct dilation · **liver tests and duct size changing in step with the pain episodes** · absence of chronic opioid use · absence of evidence of somatization.
 - **Endoscopic biliary sphincterotomy remains the primary treatment** for suspected SO stenosis and spasm. Manometry-era studies reported pain relief in **>90%** of patients with the old type I phenotype regardless of documented hypertension; **the evidence in patients with less concrete obstruction is not strong** — mostly retrospective, open-label, subjective outcomes. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **Predictors of response**, where reported: better with **intermittent rather than continuous pain**, pain **accompanied by nausea and vomiting**, and a **pain-free interval of ≥1 year after cholecystectomy**; worse with **daily opioid use**, **delayed gastric emptying**, normal pancreatic manometry, and **age <40 y**. ⚠ RESPOnD (213 patients, prospective multicenter) found **no association between SOD subtype and response to ERCP**.
-- **Medical therapy directed at the sphincter has no primary role.** Nifedipine, nitrates, trimebutine and duloxetine all have signals in small or uncontrolled studies — 75% on short-term nifedipine had statistically less pain — but **slow-release nifedipine gave no benefit and more cardiovascular adverse effects**. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- **Medical therapy directed at the sphincter or enteric nervous system has no primary role.** Nifedipine, nitrates, trimebutine and duloxetine have signals only in small or uncontrolled studies, and **slow-release nifedipine gave no benefit and more cardiovascular adverse effects**. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **If biliary sphincterotomy fails, the likeliest explanation is that the pain was never pancreaticobiliary.** Repeat ERCP after a prior biliary sphincterotomy carries a lower post-ERCP pancreatitis risk and is justified where there was a significant prior response, though outcomes have not been rigorously studied.
-- ⚠ **Superseded:** [[asge-2015-ercp-benign-biliary]] graded sphincterotomy by subtype — type I without SOM (Moderate), type II with abnormal manometry, type III **not at all** (High). The type III prohibition stands; the type I/II framing does not.
+- ⚠ **Superseded:** [[asge-2015-ercp-benign-biliary]] graded sphincterotomy by subtype — ERCP with sphincterotomy for **type I**, manometry unnecessary there (Moderate); manometry to select **type II** patients, sphincterotomy for those with abnormal biliary manometry; **against ERCP for the evaluation or treatment of type III** (High). The type III prohibition stands; the type I/II framing does not.
 
-> **EPISOD trial** (randomized controlled trial [RCT], National Institutes of Health [NIH], multicenter; 214 post-cholecystectomy patients with pain but no imaging/lab abnormality, no prior sphincter intervention or pancreatitis, randomized 2:1 to sphincterotomy vs sham). Treatment success (< 6 days pain-related disability over 90 days, no narcotics, no further intervention) was **23% with sphincterotomy vs 37% with sham** (adjusted risk difference 15.6% *favoring sham*, P < .01). Dual vs single sphincterotomy made no difference. Pancreatitis occurred in 11% (sphincterotomy) vs 15% (sham). **Conclusion: manometry and sphincterotomy do not benefit type III SOD and carry significant adverse-event rates.** ([[asge-2015-ercp-benign-biliary]])
+> **EPISOD** — 214 post-cholecystectomy patients with pain but normal liver enzymes and a nondilated duct, randomized (2:1) to sphincterotomy vs sham. Treatment success **23% with sphincterotomy vs 37% with sham** (adjusted risk difference 15.6% *favoring sham*, *P* < .01); pancreatitis 11% vs 15%; dual vs single sphincterotomy made no difference. **Manometry and sphincterotomy do not benefit type III SOD and carry significant adverse-event rates.** ([[asge-2015-ercp-benign-biliary]])
 
-- **The result held at 5 years**, and **manometry was neither reproducible nor predictive of any outcome** in the trial. Type III is now regarded as a **[[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]]**, not a sphincter disease. ([[acg-asge-2026-ercp-quality-indicators]])
-- **The one carve-out that remains:** **papillary stenosis obstructing the bile duct outlet** may be considered an indication for biliary sphincterotomy in a patient with biliary-type pain **and** elevated liver enzymes **or** a dilated bile duct. Evaluate such patients judiciously — the bile duct also dilates without obstructive pathology with **increasing age, cholecystectomy and opioid use**, and liver tests rise for many other reasons. ([[acg-asge-2026-ercp-quality-indicators]])
+- **The result held at 5 years**, and **manometry was neither reproducible nor predictive of any outcome** in the trial. Type III is now regarded as a **DGBI**, not a sphincter disease. ([[acg-asge-2026-ercp-quality-indicators]])
+- **The one carve-out that remains:** **papillary stenosis obstructing the bile duct outlet** may be considered an indication for biliary sphincterotomy in a patient with biliary-type pain **and** elevated liver enzymes **or** a dilated bile duct — an accepted ERCP indication. Evaluate such patients judiciously: liver tests rise for many other reasons, and the duct dilates for the reasons above. ([[acg-asge-2026-ercp-quality-indicators]])
 
 ### Pancreatic SOD
 
 - **Conservative management and watchful waiting are always reasonable** in a patient whose RAP has not yet shown an aggressive clinical course — the evidence supporting ERCP here is weak and the procedure is risky. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
 - **Sphincterotomy prevents further attacks in 60%–80%** in observational series, and a small open-label randomized trial found **pancreatic duct stent placement cut RAP from 53% to 11% (P < .02)**. ⚠ **RESPOnD found recurrent-pancreatitis rates after sphincterotomy similar to historical controls who had no intervention** — the contradiction is unresolved.
 - **Do the biliary sphincterotomy alone first.** Many endoscopists now perform empiric biliary sphincterotomy at the first ERCP and consider pancreatic endotherapy only for inadequate response, because pancreatic sphincterotomy carries higher acute and long-term risk — notably **papillary restenosis, which can be significantly worse than the original problem**. A biliary sphincterotomy also ablates the common sphincter and so lowers pancreatic sphincter pressure. ([[rome-v-2026-gallbladder-sphincter-of-oddi]], [[asge-2015-benign-pancreatic-disease]])
-- In [[recurrent-acute-pancreatitis|idiopathic RAP]], biliary sphincterotomy alone (~51%) performed similarly to combined biliary + pancreatic sphincterotomy (~53%). ([[asge-2015-benign-pancreatic-disease]])
-- **Pancreas divisum is not a sphincter disorder**, and the **SHARP trial** — international, multicenter, randomized, **sham-controlled** — found **no benefit from minor papilla sphincterotomy** for RAP with [[pancreas-divisum|pancreas divisum]]. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
-- **No randomized trial has yet established whether sphincterotomy works for pancreatic SOD at all**, or which approach — biliary, pancreatic or dual — is preferred. Proceed by individualized decision weighing disease burden against iatrogenic risk.
-- **Do NOT use ERCP** for recurrent or chronic abdominal pain in the absence of documented pancreatitis (**High**). ([[asge-2015-benign-pancreatic-disease]], [[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- In [[recurrent-acute-pancreatitis|idiopathic RAP]], a randomized trial found biliary sphincterotomy alone (**51.5%**) prevented recurrent attacks as well as combined biliary **+** pancreatic sphincterotomy (**52.8%**; *P* = 1.0). ([[asge-2015-benign-pancreatic-disease]])
+- **Pancreas divisum is not a sphincter disorder**, and the **SHARP (Sphincterotomy for Acute Recurrent Pancreatitis) trial** — international, multicenter, randomized, **sham-controlled** — found **no benefit from minor papilla sphincterotomy** for RAP with [[pancreas-divisum|pancreas divisum]]. ([[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- **No randomized trial has yet established whether sphincterotomy works for pancreatic SOD at all**, or which approach — biliary, pancreatic or dual — is preferred. Proceed by individualized decision weighing disease burden against iatrogenic risk; offer ERCP **only after the rest of the evaluation is negative** and only after an explicit discussion of the possible lack of benefit and the risk of severe adverse events. ([[rome-v-2026-gallbladder-sphincter-of-oddi]], [[acg-asge-2026-ercp-quality-indicators]])
+- **Do NOT use ERCP** to evaluate recurrent or chronic abdominal pain interpreted as type 3 SOD (**High**). ([[asge-2015-benign-pancreatic-disease]], [[rome-v-2026-gallbladder-sphincter-of-oddi]])
+- ⚠ **Superseded:** [[asge-2015-benign-pancreatic-disease]] also suggested ERCP with manometry for idiopathic RAP (suspected type 2 pancreatic SOD) when EUS and/or MRCP were normal (Low), and sphincterotomy for type 1 or manometry-confirmed type 2 (Moderate). Rome V removes manometry and the subtypes.
 
 ### Post-ERCP Pancreatitis Prophylaxis
-- Suspected SOD is a **high-risk indication** for post-ERCP pancreatitis. Give **rectal indomethacin with or without a pancreatic-duct stent** when ERCP is performed in these patients (Moderate/High). ([[asge-2015-ercp-benign-biliary]], [[asge-2015-benign-pancreatic-disease]])
-- SOD's status as a *suboptimal* ERCP indication post-EPISOD is itself a reason the "high-risk" definition for prophylaxis has evolved. ([[asge-2023-post-ercp-pancreatitis]])
+
+- Suspected SOD carries a **significantly higher post-ERCP pancreatitis risk**, whether or not manometry is performed. Give **rectal indomethacin with or without a pancreatic-duct stent** when ERCP is done in these patients (Moderate); rectal indomethacin and/or pancreatic-duct stenting is recommended for high-risk patients generally (High). ([[asge-2015-ercp-benign-biliary]], [[asge-2015-benign-pancreatic-disease]])
+- Suspected SOD was the predominant indication in several of the larger trials that established rectal nonsteroidal anti-inflammatory drugs (NSAIDs); now that SOD is recognized as a **suboptimal** ERCP indication, the weight of the classic patient risk factors (female sex, age <40 y, normal bilirubin) alongside other pathology is **less clear**. ([[asge-2023-post-ercp-pancreatitis]])
+- Doses, drug choice and the full risk-factor list: [[ercp]].
 
 ---
 

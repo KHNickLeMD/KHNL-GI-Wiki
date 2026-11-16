@@ -3,7 +3,7 @@ title: "ASGE/ACG 2024: Quality Indicators Common to All GI Endoscopic Procedures
 category: source
 tags: [quality, quality-indicators, endoscopy, sedation, antithrombotics, informed-consent, photodocumentation, adverse-events, specimen-handling, team-pause]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-16
 sources: []
 ---
 
@@ -56,10 +56,10 @@ Strength, measure type and target exactly as the document's table gives them. **
 | 15 | Endoscopic findings, pathology results and follow-up recommendations communicated to the patient **and appropriate providers** | 3 | Process | >98% |
 | 16 | Complete procedure report created | 3 | Process | >98% |
 | 17 ★ | Adverse events documented | 3 | Process | >98% |
-| 18 | Adverse events occur | 1C | Outcome | **Varies by procedure** |
+| 18 | Adverse events occur | 1C | Outcome | **N/A** (text: varies according to procedure) |
 | 19 | Patient satisfaction data collected | N/A (text: 3) | Outcome | **N/A** |
 
-> ⚠ **Two internal inconsistencies in the document itself, left as published.** Table 1 grades indicator **1** as **1C+** while its in-text block says **1C**; Table 1 gives indicator **6** a target of **>95%** while its in-text block says **95%**. Neither changes the decision. Indicator 19 is listed as an **outcome** measure in Table 1 and as a **process** measure in its in-text block.
+> ⚠ **Four internal inconsistencies in the document itself, left as published.** Table 1 grades indicator **1** as **1C+** while its in-text block says **1C**; Table 1 gives indicators **6 and 9** a target of **>95%** while their in-text blocks say **95%**; indicator **18**'s target is **N/A** in Table 1 and **varies according to procedure** in its text block; indicator **19** is **N/A** strength and an **outcome** measure in Table 1 but **grade 3** and a **process** measure in its text block. None changes the decision.
 
 ### Strength-of-recommendation scheme (Table 2)
 
@@ -145,7 +145,7 @@ Twenty required elements: date · patient identification · **endoscopist(s), in
 - **Patient instructions (14):** written, and covering dietary restrictions, **resumption or change in medications including antithrombotics and new prescriptions**, return to activities such as driving, contact information for questions or emergencies, **signs and symptoms of delayed adverse events and exactly whom to contact**, how biopsy results will be communicated, and follow-up appointments or the lack of need for them.
 - **Credentialing (8):** ASGE credentialing guidelines recommend **objective criteria and direct observation**, not simply the number of procedures performed, to define competency. Competence measures should be **universal and not vary by provider specialty**; **competency in one procedure does not imply competency in another**; and competency requires the endoscopist to perform the **minimum therapeutic maneuvers specific to that procedure** — standard polypectomy for colonoscopy, stent placement for distal biliary obstruction at ERCP.
 - **Open-access endoscopy** (nongastroenterologists scheduling without prior consultation) has been widely practiced for over two decades and most studies show these procedures are usually done for appropriate indications — but quality-improvement efforts should include **feedback to referring physicians on indication appropriateness** and processes to triage some open-access referrals to clinic.
-- **Specimen verification (12):** specimen mishandling causes missed diagnoses, delayed or improper treatment and increased cost; the most frequent errors are **mislabeling and lack of standardization**. A policy on **reconciliation of specimen requisition** so that physician and staff agree on labeling is the meaningful, feasible measure, and verification **must be performed for every specimen container**.
+- **Specimen verification (12):** specimen mishandling causes missed diagnoses, delayed or improper treatment and increased cost; the most frequent errors are **miscommunication and lack of standardization**. A policy on **reconciliation of specimen requisition** so that physician and staff agree on labeling is the meaningful, feasible measure, and verification **must be performed for every specimen container**.
 
 ## Relevance to Wiki
 
