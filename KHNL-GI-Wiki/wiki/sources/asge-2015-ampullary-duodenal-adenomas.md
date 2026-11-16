@@ -3,7 +3,7 @@ title: "ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas"
 category: source
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-10-20
+updated: 2026-11-16
 sources: []
 ---
 
@@ -24,7 +24,7 @@ sources: []
 
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline on endoscopic evaluation and management of **ampullary** (major duodenal papilla) and **nonampullary duodenal adenomas**. Both can be sporadic or arise in genetic syndromes (familial adenomatous polyposis [FAP], Peutz-Jeghers) and both carry malignant potential. Endoscopic resection has become a viable alternative to surgery (pancreaticoduodenectomy/Whipple or transduodenal ampullectomy) in selected cases, with lower adverse-event rates than local surgical excision.
 
-Pre-treatment evaluation: a **side-viewing duodenoscope** is generally needed to visualize the papilla; biopsy of suspicious lesions is required before resection to confirm adenoma and exclude cancer (sample away from the pancreatic duct orifice to avoid pancreatitis; ≥6 specimens or sampling within 10 days of sphincterotomy reduces false-negatives, which range 16–60% for carcinoma). **Endoscopic ultrasound (EUS) / intraductal ultrasound (US)** is reserved for large ampullary lesions or those with features concerning for malignancy and is superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal US for tumor (T) staging. **Endoscopic retrograde cholangiopancreatography (ERCP)** with biliary and pancreatic duct evaluation is performed at the time of papillectomy to assess intraductal extension; <1 cm of ductal extension does not necessarily preclude endoscopic therapy.
+Pre-treatment evaluation: a **side-viewing duodenoscope** is generally needed to visualize the papilla; biopsy of suspicious lesions is required before resection to confirm adenoma and exclude cancer (sample away from the pancreatic duct orifice to avoid pancreatitis; ≥6 specimens or sampling within 10 days of sphincterotomy reduces false-negatives, which range 16–60% for carcinoma). **Endoscopic ultrasound (EUS)** is recommended for large ampullary lesions or duodenal polyps with features concerning for malignancy before resection, and is superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound (US) for tumor (T) staging; intraductal US is discussed alongside EUS but is not named in any recommendation. **Endoscopic retrograde cholangiopancreatography (ERCP)** with biliary and pancreatic duct evaluation is performed at the time of papillectomy to assess intraductal extension; <1 cm of ductal extension does not necessarily preclude endoscopic therapy.
 
 Endoscopic resection of the papilla is termed **endoscopic papillectomy** (true "ampullectomy" is a surgical term requiring ductal reimplantation). En bloc snare resection with electrocautery is preferred when the lesion can be fully ensnared (shorter time, complete pathology, less residual fibrosis); piecemeal resection is used for lesions >2 cm. Submucosal injection, chromoendoscopy, sphincterotomy, and ablative therapies (argon plasma coagulation [APC] most common, 50–60 W) are adjuncts. **Prophylactic pancreatic duct stenting plus rectal indomethacin** reduce post-procedure pancreatitis. Papillectomy success is 46–92% with recurrence up to 33%; all patients require post-resection surveillance.
 

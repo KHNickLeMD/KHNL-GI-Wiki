@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-11-13
+updated: 2026-11-15
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
@@ -334,8 +334,8 @@ The following features should prompt microbiologic assessment, consideration of 
 | [[entamoeba-histolytica-infection\|*Entamoeba histolytica*]] | **Metronidazole** or **tinidazole** [[acg-2016-acute-diarrhea]] |
 | [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective combination antiretroviral therapy (cART) [[idsa-2017-infectious-diarrhea]] |
 | *Cyclospora cayetanensis* | **TMP-SMX**; nitazoxanide alternative (limited data) [[idsa-2017-infectious-diarrhea]] |
-| *Cystoisospora belli* | **TMP-SMX** or **pyrimethamine**; second-line ciprofloxacin or nitazoxanide [[idsa-2017-infectious-diarrhea]] |
-| *Enterocytozoon bieneusi* | **Albendazole** or **iodoquinol** [[acg-2016-acute-diarrhea]] |
+| *Cystoisospora belli* | **TMP-SMX** (first choice); **pyrimethamine** alternative; potential second-line ciprofloxacin or nitazoxanide [[idsa-2017-infectious-diarrhea]] |
+| *Enterocytozoon bieneusi* | **Fumagillin**, recommended in HIV-infected adults; unavailable for systemic use in the United States [[idsa-2017-infectious-diarrhea]]. ACG 2016 names **albendazole** [[acg-2016-acute-diarrhea]]. Other microsporidia: see [[hiv-aids-related-diarrhea]] |
 | *Dientamoeba fragilis* | **Iodoquinol** [[acg-2016-acute-diarrhea]] |
 
 > Neither guideline states doses or durations for these antiparasitic regimens; take them from the Centers for Disease Control and Prevention (CDC)/IDSA parasitic-disease treatment tables.
@@ -380,7 +380,7 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 - **[[postinfectious-ibs]]:** Recognized sequela of acute infectious gastroenteritis / TD. Up to 10–15% of patients with bacterial TD develop chronic IBS-like symptoms. Diagnosed by Rome IV/V criteria; no specific biomarker. See [[irritable-bowel-syndrome]] and [[disorders-of-gut-brain-interaction]]. [[acg-2016-acute-diarrhea]]
 - **Reactive arthritis:** Especially after *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*.
 - **HUS:** After STEC O157:H7 (and other STEC); triad of microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury. Antibiotic use increases HUS risk.
-- **Guillain-Barré syndrome:** After *Campylobacter jejuni* infection (molecular mimicry).
+- **Guillain-Barré syndrome:** After *Campylobacter* infection — the only organism listed for it in IDSA 2017 Table 4. [[idsa-2017-infectious-diarrhea]]
 - **Colonization by resistant organisms:** Antibiotic self-treatment of TD increases risk of colonization by extended-spectrum β-lactamase-producing Enterobacteriaceae and carbapenemase-producing Enterobacteriaceae.
 
 ---

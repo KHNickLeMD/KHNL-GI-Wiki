@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-11-12
+updated: 2026-11-15
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 
@@ -120,7 +120,10 @@ Gold standard. Use esophageal pressure topography. Reports IRP and body pattern.
 
 ### Timed Barium Esophagram (TBE)
 
-Barium column height measured at 1, 2, and 5 minutes after large barium bolus ingestion. Pre-treatment: retained barium. Post-treatment success: complete emptying at 1 minute. **Best predictor of long-term outcome post-dilation** (superior to symptom scores).
+Barium column height measured at 1, 2, and 5 minutes after large barium bolus ingestion. Pre-treatment: retained barium. Post-treatment success: complete emptying at 1 minute.
+- **Predictive value is contested:** some studies find post-intervention barium esophagram a useful tool to assess outcome and need for further therapy; others argue against this predictive value ([[acg-2020-achalasia]]).
+- ACG Rec 17 — do not use the ES or HRM alone to define treatment failure; TBE is the **first-line test for continued or recurrent symptoms** after definitive therapy (see [[#Post-Therapy Monitoring and Retreatment]]).
+- Improved symptoms but continued retention (**barium column >5 cm at 5 minutes**) → follow closely; consider treatment if retention worsens or dilatation increases.
 
 ### Upper Endoscopy
 
@@ -195,7 +198,7 @@ flowchart TD
 > **Recommendation (ACG 2020 Rec 14):** *"We recommend that PD or LHM are both effective and equivalent short- and long-term procedures for patients with achalasia who are candidates to undergo definitive therapy."* (Strong; **High** evidence)
 >
 > - The European RCT behind it (n=201): PD vs LHM **86% vs 90% at 2 years** (P=0.3) and **84% vs 82% at 5 years** (P=0.9).
-> - Separately, ACG recommends **PD superior to botulinum toxin** for long-term relief, and **LHM over botulinum toxin** in patients fit for surgery (Strong; Moderate).
+> - Separately, ACG states **PD is superior to botulinum toxin** for long-term relief (narrative conclusion, ungraded), and recommends **LHM over botulinum toxin** in patients fit for surgery (Strong; Moderate).
 
 **The numbers behind "superior to botulinum toxin"** — pooled RCT data, and note the gap *widens* with time ([[asge-2020-achalasia]]):
 
@@ -206,7 +209,7 @@ flowchart TD
 
 *(At <4 weeks the two are indistinguishable — the difference is durability, not initial response.)*
 
-> **Newer guidance — [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes the 2020 ACG framing of PD as the preferred non-surgical option; counsel on post-POEM reflux.
+> **Newer guidance — [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes ACG 2020, which suggests **POEM and PD give comparable symptomatic improvement** in types I/II (Rec 15, Conditional; Low); counsel on post-POEM reflux.
 
 ### Laparoscopic Heller Myotomy (LHM)
 
@@ -225,7 +228,7 @@ flowchart TD
 - Endoscopic submucosal tunnel → myotomy via [[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]] knife; minimum 6 cm into esophagus + 2 cm below squamocolumnar junction (SCJ) onto cardia
 - Myotomy length tailored to spastic segment (especially Type III) — key advantage over LHM
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
-- **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)
+- **Type III: 93% success vs 71% for LHM**; ACG recommends **tailored POEM or LHM** for type III as more efficacious than PD (Rec 9, Strong; Moderate)
 - **Higher GERD incidence.** [[acg-2020-achalasia|ACG 2020]], paired 2018 meta-analysis (1,542 POEM vs 2,581 LHM-with-fundoplication): abnormal acid exposure on pH monitoring **39.0% (95% CI 24.5–55.8%) POEM vs 16.8% (10.2–26.4%) LHM**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)**. The newer [[aga-2024-poem-advances|AGA 2024]] clinical practice update (CPU) raises the POEM figures to **abnormal acid exposure 41–56%, esophagitis 41–65%**, with **~¼ asymptomatic** → symptoms alone insufficient. POEM and LHM rates are only comparable within a single analysis, so the 39.0% and 16.8% figures belong together. Full adjudication on [[heller-myotomy#Contradictions]].
 - Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; [[ambulatory-reflux-monitoring|objective reflux testing]] **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis [[reflux-testing|Los Angeles (LA) grade]] ≥B)
 - Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus (BE)]]
@@ -240,7 +243,7 @@ flowchart TD
 
 - **Short-lived — relief falls to 40.6% by 12 months**, and 30% go on to need definitive therapy anyway. That decay is why it is restricted to the unfit.
 - Previous botulinum toxin does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data).
-- Dose, injection technique, the full relief-over-time table, the head-to-head comparison with PD, and the FLIP predictor of response live on [[botulinum-toxin]].
+- Dose, injection technique, the full relief-over-time table, and the FLIP predictor of response live on [[botulinum-toxin]]; the pooled PD-vs-botulinum toxin comparison is under [[#Pneumatic Dilation (PD)]] above.
 
 ### Pharmacotherapy
 

@@ -3,7 +3,7 @@ title: "ACG 2020: Diagnosis and Management of Achalasia"
 category: source
 tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-11-15
 sources: []
 ---
 
@@ -30,7 +30,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 - HRM (esophageal pressure topography) recommended over conventional manometry: 3.4x lower odds of incorrect diagnosis, superior inter-rater agreement (k=0.57 vs 0.32) (Strong; High)
 - Always perform upper endoscopy to exclude pseudoachalasia before HRM
 - [[flip-panometry|functional lumen imaging probe (FLIP)]] can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
-- TBE: best predictor of long-term treatment success post-dilation (superior to symptom scores)
+- TBE: post-intervention predictive value is conflicting — some studies find it a useful tool to assess outcome and need for further therapy, others argue against it
 - Patients with GERD not responding to proton pump inhibitor (PPI) → evaluate for achalasia (Strong; Very low)
 
 ### Chicago Classification Subtypes (prognostic and treatment implications)
@@ -78,15 +78,18 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 | HRM (esophageal pressure topography) recommended over conventional line-tracing manometry for esophageal motility disorders | Strong | High |
 | Always perform upper endoscopy to exclude pseudoachalasia before HRM | Summary Statement | — |
 | Patients with GERD not responding to PPI: evaluate for achalasia | Strong | Very Low |
-| TBE as best predictor of long-term treatment success post-dilation; use to define treatment failure rather than ES or HRM alone | Strong | Very Low |
+| ES or HRM alone should not be used to define treatment failure; TBE is the first-line test for continued or recurrent symptoms after definitive therapy (Rec 17) | Strong | Very Low |
 | **Definitive Treatment** | | |
-| PD (serial 3.0→3.5→4.0 cm), LHM + fundoplication, or POEM are all acceptable for Type I/II achalasia (equivalent outcomes) | Strong | Moderate–High |
-| Type III achalasia: POEM preferred over LHM due to longer myotomy requirements (POEM success 93% vs. LHM 71%) | Strong | Moderate |
-| POEM carries significantly higher GERD risk vs. LHM with fundoplication (abnormal pH monitoring 39% POEM vs. 8–9% post-LHM with fundoplication) | Summary Statement | — |
+| PD, LHM, and POEM are comparable effective therapies for type I or II achalasia; POEM a better option in type III; botulinum toxin reserved for those who cannot undergo definitive therapy | Summary Statement | — |
+| PD or LHM: both effective and equivalent short- and long-term procedures (Rec 14) | Strong | High |
+| POEM or PD: comparable symptomatic improvement in types I or II (Rec 15) | Conditional | Low |
+| POEM and LHM: comparable symptomatic improvement (Rec 16) | Strong | Moderate |
+| Type III: tailored POEM or LHM as more efficacious LES-disruptive therapy than PD (Rec 9; POEM 93% vs LHM 71% in a 2019 meta-analysis) | Strong | Moderate |
+| POEM is associated with a higher incidence of GERD than LHM with fundoplication or PD (Rec 10; abnormal pH monitoring 39.0% POEM vs 16.8% surgical myotomy) | Strong | Moderate |
 | PD after failed LHM: safe and effective (89% success) | Strong | Moderate |
 | POEM after failed PD/LHM: 94–95.7% success | Strong | Low |
 | **Pharmacotherapy / Botulinum Toxin** | | |
-| Botulinum toxin injection reserved for patients unfit for definitive therapy (40.6% efficacy at 12 months) | Summary Statement | — |
+| Botulinum toxin injection first-line only for patients unfit for definitive therapies, compared with other less effective pharmacological therapies (Rec 4; 40.6% relief at 12 months) | Strong | Moderate |
 | **Cancer Surveillance** | | |
 | Routine endoscopic surveillance for SCC is NOT recommended despite 28× elevated risk | Strong | Low |
 

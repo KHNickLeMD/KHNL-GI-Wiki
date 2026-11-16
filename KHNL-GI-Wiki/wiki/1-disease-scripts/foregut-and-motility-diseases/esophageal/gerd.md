@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-11-12
+updated: 2026-11-15
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
 ---
 
@@ -311,12 +311,12 @@ Recommend for all patients with GERD symptoms:
 
 ### Refractory GERD (ACG 2021)
 
-1. Optimize PPI compliance and administration timing (30–60 min before meals)
-2. pH monitoring **off PPI** if GERD diagnosis uncertain
-3. Impedance-pH monitoring **on PPI** if GERD diagnosis established but symptoms persist
-4. **Stop PPI** if on-therapy testing is negative for reflux
+1. Optimize PPI therapy first — compliance and administration timing (30–60 min before meals) (Strong/Moderate)
+2. pH monitoring (Bravo, catheter-based, or combined impedance-pH) **off PPI** if GERD has not been established by a previous pH monitoring study or by endoscopy showing long-segment Barrett's esophagus or LA grade C/D esophagitis (Conditional/Low)
+3. Impedance-pH monitoring **on PPI** for established GERD whose symptoms have not responded adequately to twice-daily PPI (Conditional/Low)
+4. **Stop PPI** if **off-therapy** reflux testing is negative, unless another indication for continuing PPIs is present (Key Concept 1). ACG also lists a normal on-PPI impedance-pH study with negative symptom index (SI) and symptom association probability (SAP) as grounds to stop — see [[reflux-testing]]
 5. HRM before any anti-reflux procedure
-6. No additional medical therapies recommended over established PPI use (Conditional/Moderate)
+6. Against routine addition of medical therapies in PPI nonresponders (Conditional/Moderate)
 
 ### Monitoring
 

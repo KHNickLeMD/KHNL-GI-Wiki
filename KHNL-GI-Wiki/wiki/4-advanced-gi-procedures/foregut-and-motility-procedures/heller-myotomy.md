@@ -3,7 +3,7 @@ title: "Laparoscopic Heller Myotomy (LHM)"
 category: advanced-procedure
 tags: [heller-myotomy, lhm, achalasia, myotomy, fundoplication, motility, foregut]
 created: 2026-06-10
-updated: 2026-09-08
+updated: 2026-11-15
 sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -55,7 +55,7 @@ The numbers behind that recommendation — this is why an antireflux wrap is not
 
 - **LHM + fundoplication: ~89% symptomatic success** (mean across 3,086 patients in laparoscopic-myotomy studies; range **77–100%**) ([[acg-2020-achalasia]]).
 - **[[asge-2020-achalasia|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] meta-analysis (53 studies, 5,834 patients; 5 RCTs + 48 cohorts):** dysphagia improvement **87.7% (95% CI 87–88%)** at a mean 40-month follow-up; modelled **91.0% at 12 months** and **90.0% at 24 months**. Clinical success in this analysis was *dysphagia improvement*, **not** an Eckardt-score threshold, and objective manometric/esophagram endpoints were not included.
-- **Equivalent to PD and POEM for Type I/II achalasia** — *Strong/Moderate–High* ([[acg-2020-achalasia]]); ASGE concurs (*Recommend*, LHM vs PD; *Suggest*, LHM vs POEM — both by shared decision-making).
+- **Equivalent to PD and POEM** ([[acg-2020-achalasia]]): PD or LHM equivalent short- and long-term (Rec 14, *Strong/High*); POEM and LHM comparable symptomatic improvement (Rec 16, *Strong/Moderate*); ASGE concurs (*Recommend*, LHM vs PD; *Suggest*, LHM vs POEM — both by shared decision-making).
 - Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior).
 - POEM vs LHM meta-analysis: comparable [[dysphagia]] relief (POEM 93.5% vs LHM 91.0% at 12 months) but POEM has markedly higher GERD (odds ratio [OR] 9.31 erosive esophagitis; 4.30 on [[ambulatory-reflux-monitoring|pH monitoring]]).
 
@@ -67,7 +67,7 @@ Meta-analysis of 1,575 patients across achalasia treatments ([[acg-2020-achalasi
 |---|---|
 | **Type I** | **81%** |
 | **Type II** | **92%** |
-| **Type III** (spastic) | **71%** — vs **POEM 93%**; POEM preferred, as it allows a tailorable, longer myotomy (*Strong/Moderate*) |
+| **Type III** (spastic) | **71%** — vs **POEM 93%**; ACG recommends **tailored POEM or LHM** over PD for type III (Rec 9, *Strong/Moderate*) |
 
 - Confirmed by a separate 9-study meta-analysis (429 LHM patients): **type II vs type III OR 6.86 (95% CI 2.72–17.28)**; **type I vs type II OR 0.26 (0.12–0.56)**; type I vs type III not significant (OR 1.89, 0.80–4.50) ([[asge-2020-achalasia]]). **Type II best, type III worst** — the same rank order holds for PD.
 - ASGE *suggests* **POEM as the preferred treatment for type III achalasia**.

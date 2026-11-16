@@ -57,7 +57,7 @@ Not calcineurin inhibitors, but the agents CNI-minimization converts to or adds 
 
 - **mTOR class adverse effects:** gastrointestinal (GI) intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
 - **Antimetabolite adverse effects:** cytopenias, GI, infections, and malignancy (azathioprine adds hepatic and hypersensitivity reactions; mycophenolate is **teratogenic**).
-- **Antimetabolite interactions:** [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]] and antacids *decrease* mycophenolate systemic exposure (as do calcium-free phosphate binders and drugs interfering with enterohepatic recirculation); [[mesalamine-5-asa|aminosalicylates]] raise azathioprine levels, and azathioprine may inhibit the anticoagulant effect of warfarin.
+- **Antimetabolite interactions:** mycophenolate's are on [[mycophenolate-mofetil]]; [[mesalamine-5-asa|aminosalicylates]] raise azathioprine levels, and azathioprine may inhibit the anticoagulant effect of warfarin.
 
 ## Cyclosporine in Acute Severe Ulcerative Colitis
 
@@ -123,7 +123,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 
 ## Side Effects — Which CNI Owns Which
 
-[[aasld-ast-2025-liver-transplant-graft-complications]] Table 4 gives one shared adverse-effect list for the class and marks only the agent-specific ones; [[aasld-2012-liver-transplant-long-term]] adds the metabolic attributions. Both are reproduced as stated — the guidelines do **not** grade these severities against each other.
+[[aasld-ast-2025-liver-transplant-graft-complications]] Table 4 gives one shared adverse-effect list for the class and marks only the agent-specific ones; [[aasld-2012-liver-transplant-long-term]] Table 7 scores the metabolic-syndrome contributors from **+** to **+++**. Both are reproduced as stated.
 
 | Side effect | Attribution as stated in the sources |
 |---|---|
@@ -131,19 +131,19 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 | Electrolyte disorders | Class effect |
 | Neurotoxicity | Class effect |
 | Anemia | Class effect |
-| Systemic hypertension | **Both** [[tacrolimus\|TAC]] and cyclosporine promote it (American Association for the Study of Liver Diseases [AASLD] 2012) |
-| Diabetes | **More with TAC** — "corticosteroids and tacrolimus promote diabetes" |
+| Systemic hypertension | **Both** [[tacrolimus\|TAC]] and cyclosporine promote it — **++** each (American Association for the Study of Liver Diseases [AASLD] 2012 Table 7) |
+| Diabetes | **More with TAC** — "corticosteroids and tacrolimus promote diabetes"; insulin-resistant DM **++** TAC vs **+** cyclosporine (AASLD 2012 Table 7) |
 | Gingival hyperplasia | **Cyclosporine only** |
 | Hirsutism | **Cyclosporine only** |
-| Hyperlipidemia | **Not a CNI effect in these sources — attributed to sirolimus** (see mTOR class effects above) |
+| Dyslipidemia | **Both** TAC and cyclosporine **+**, vs sirolimus **+++** (AASLD 2012 Table 7); hypercholesterolemia CNIs **+** vs mTOR inhibitors **+++** (Table 5). CNIs, mTOR inhibitors, and glucocorticoids are "the major influences" on post-LT dyslipidemia |
 
-> The guidelines do not grade the relative severity of CNI adverse effects between tacrolimus and cyclosporine; for relative severities consult a transplant pharmacology reference.
+> Beyond the metabolic scores in AASLD 2012 Table 7, the guidelines do not grade the relative severity of CNI adverse effects between tacrolimus and cyclosporine.
 
 ## Drug Interactions
 
 Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
-**Increase CNI levels** (grapefruit juice, or CYP3A inhibitors): macrolide antibiotics (erythromycin > clarithromycin > azithromycin), azole antifungals (ketoconazole/voriconazole/posaconazole > itraconazole/fluconazole — **voriconazole contraindicated**), calcium channel blockers (diltiazem, verapamil), protease inhibitors, **nirmatrelvir–ritonavir (Paxlovid)**, antimalarial agents, benzodiazepines (diazepam, alprazolam), serotonin reuptake inhibitors, allopurinol, amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]], and fluoroquinolones (ofloxacin > ciprofloxacin).
+**Increase CNI levels** (grapefruit juice, or CYP3A inhibitors): macrolide antibiotics (erythromycin > clarithromycin > azithromycin), azole antifungals (ketoconazole/voriconazole/posaconazole > itraconazole/fluconazole — increased levels; AASLD 2012 Table 4 marks voriconazole **contraindicated** only with mTOR inhibitors, not CNIs), calcium channel blockers (diltiazem, verapamil), protease inhibitors, **nirmatrelvir–ritonavir**, antimalarial agents, benzodiazepines (diazepam, alprazolam), serotonin reuptake inhibitors, allopurinol, amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]], and fluoroquinolones (ofloxacin > ciprofloxacin).
 
 **Decrease CNI levels** (CYP3A inducers): antimycobacterial agents — **rifamycins (rifampin > rifabutin) markedly decrease levels; CNI dose must be raised 2- to 5-fold when rifampin is started** — anticonvulsants, and St. John's wort.
 

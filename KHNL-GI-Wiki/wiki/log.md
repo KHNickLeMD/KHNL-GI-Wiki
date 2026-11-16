@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-15] update | Owed fidelity fixes cleared + "fix every copy" review rule
+
+**Why:** a tally of the 127 quality reviews since 2026-11-11 found ≥1 source-fidelity error on 109 pages (≈46% with a management-changing error). Errors spotted on pages a review did not own had been logged as "later pass" while still live. Tracked as a critical issue in `.claude/CRITICAL-source-fidelity.md`.
+
+**Schema:** CLAUDE.md → *Quality review* and *Card quality review* gain **Fix every copy, this pass**: grep `wiki/`, `sources/`, `index.md` and the cards for any error found and fix every verified copy in the same pass; never log a verifiable error as owed.
+
+**Pages corrected (each verified against the raw PDF):**
+- `hiv-aids-related-diarrhea` — *Cryptosporidium*: nitazoxanide **plus effective cART** first choice, cART alone the alternative (IDSA 2017 Table 6). Microsporidiosis "albendazole or iodoquinol" was a misread of ACG 2016 (iodoquinol is for *Dientamoeba*) → IDSA 2017: fumagillin for *E. bieneusi*/*V. corneae*, albendazole for other species after starting cART.
+- `acute-diarrhea` — same iodoquinol error; unsourced *Campylobacter* molecular-mimicry claim removed; *Cystoisospora* order per IDSA Table 6. `acg-2016-acute-diarrhea` source page: iodoquinol fixed, ACG-vs-IDSA *E. bieneusi* contradiction added.
+- `gerd` — refractory list item 4: stop PPI after negative **off**-therapy testing (ACG 2021 Key Concept 1), with the on-PPI normal impedance-pH + negative SI/SAP case; items 1–3, 6 matched to Recs 1–3, 11.
+- `calcineurin-inhibitors` — voriconazole contraindication belongs to mTOR inhibitors, not CNIs (AASLD 2012 Table 4); dyslipidemia is a CNI effect (+ vs sirolimus +++, Table 7); TAC vs cyclosporine severities graded per Table 7; brand name dropped; MMF interaction → link to owner page.
+- `achalasia` — dilation > botulinum is ungraded narrative (only the Heller statement is Strong; Moderate); circular `[[botulinum-toxin]]` pointer fixed; timed-barium "best predictor" claim → Rec 17 wording; type III → Rec 9 Strong; Moderate; POEM vs dilation → Rec 15 Conditional; Low. `heller-myotomy` carried the same invented grades — fixed. `acg-2020-achalasia` source page: invented grade rows replaced by Recs 4, 9, 10, 14–17.
+- `biliary-stricture`, `cholangiocarcinoma`, `ampullary-adenoma`, `asge-2015-ampullary-duodenal-adenomas` — intraductal ultrasound scoped to what each source says (no stricture-guideline recommendation; ESGE 2021 weak for selected ampullary tumors; more accurate than EUS for hilar staging, 95–100% only combined with cholangioscopy; ASGE 2015 Rec 2 names EUS only).
+
+**Cards fixed on the server (page_updated left unbumped so they requeue):** `0a0006` (microsporidiosis drugs), `f01010` and `af1004` (PPI stop rule), `ca1104` (azoles — voriconazole not contraindicated with CNIs), `ca1105` (dyslipidemia). IDUS and achalasia cards checked — already correct.
+
+**Still open:** see `.claude/CRITICAL-source-fidelity.md` → *Open work* (241 unreviewed pages, source pages needing re-ingest, remaining owed items in this log).
+
+---
+
 ## [2026-11-16] ingest | Jirapinyo 2025 ESG standards of practice — global expert Delphi consensus
 
 **Source:** Nick's drop, `raw/GI Guidelines/Other/Delphi 2025 ESG Standards of Practice (Jirapinyo).pdf` (Gastrointest Endosc 2025;102:285-9; © ASGE, no Creative Commons licence → Figure 1 endoscopic photos linked, not embedded).

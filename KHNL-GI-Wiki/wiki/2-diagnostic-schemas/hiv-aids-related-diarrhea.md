@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised]
 created: 2026-06-08
-updated: 2026-09-05
+updated: 2026-11-15
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -72,10 +72,14 @@ Diarrhea in the HIV/acquired immunodeficiency syndrome (AIDS) host, where the di
 
 ## Therapeutics
 
-*Pathogen-directed treatment as given by [[acg-2016-acute-diarrhea]].*
+*Pathogen-directed treatment per [[idsa-2017-infectious-diarrhea|IDSA 2017]] Table 6.*
 
-- ***Cryptosporidium*** → **[[nitazoxanide]]**.
-- **Microsporidiosis** → **albendazole** or **iodoquinol**.
+- ***Cryptosporidium*** ([[cryptosporidiosis]]) → first choice in HIV-infected hosts is **[[nitazoxanide]] in combination with effective combination antiretroviral therapy (cART)**, not nitazoxanide alone. Alternative: **effective cART** by itself — immune reconstitution may lead to microbiologic and clinical response.
+- **Microsporidiosis:**
+  - Disseminated (not ocular) and intestinal infection attributed to microsporidia **other than** *Enterocytozoon bieneusi* or *Vittaforma corneae* → **albendazole after initiation of cART and resolution of signs and symptoms**.
+  - *E. bieneusi* or *V. corneae* → **fumagillin**, recommended for *E. bieneusi* infection in HIV-infected adults. Fumagillin for systemic use is unavailable in the United States; consultation with an expert is recommended.
+  - Effective cART: immune reconstitution may lead to microbiologic and clinical response.
+  - [[acg-2016-acute-diarrhea|American College of Gastroenterology (ACG) 2016]] names albendazole for *E. bieneusi*; the newer IDSA 2017 recommendation (fumagillin) is the one given here.
 - **Bismuth subsalicylate is contraindicated in HIV** — risk of bismuth encephalopathy from excessive absorption.
 - See [[acute-diarrhea]] for the general acute-diarrhea diagnostic and management framework.
 

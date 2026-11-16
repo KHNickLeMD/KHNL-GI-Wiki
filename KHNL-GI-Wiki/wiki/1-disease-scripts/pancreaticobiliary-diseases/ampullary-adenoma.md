@@ -3,7 +3,7 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-11-12
+updated: 2026-11-16
 sources: [aga-2026-ampullary-neoplasms, acg-2026-adenomatous-polyposis, esge-2021-ampullary-tumors, asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 ---
 
@@ -99,7 +99,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 - **The surgical comparator, for the consent conversation:** pancreaticoduodenectomy carries **postoperative morbidity 34%–59%, mortality 1%–2%**, with 5-year survival after resection from about **40%**. ⚠ **No prospective study compares endoscopic papillectomy with surgery.** ([[esge-2021-ampullary-tumors]])
 
 #### Staging
-- **EUS and abdominal [[mri-mrcp|MRCP]]** are the staging pair (strong). Pooled performance of morphological criteria for **nodal** involvement: **sensitivity 70%, specificity 74%** — enough to inform, not to decide alone. **[[intraductal-ultrasound|IDUS]] is for selected patients**, balanced against training, cost and its pancreatitis risk (weak). Stage with the **latest TNM** classification. ([[esge-2021-ampullary-tumors]])
+- **EUS and abdominal [[mri-mrcp|MRCP]]** are the staging pair (strong). Pooled performance of morphological criteria for **nodal** involvement: **sensitivity 70%, specificity 74%** — enough to inform, not to decide alone. **[[intraductal-ultrasound|Intraductal ultrasound (IDUS)]] is for selected patients**, balanced against training, cost and its pancreatitis risk (weak). Stage with the **latest TNM** classification. ([[esge-2021-ampullary-tumors]])
 - **High-resolution virtual chromoendoscopy** aids endoscopic diagnosis and staging (weak). ([[esge-2021-ampullary-tumors]])
 - ⚠ **Do not send biopsies for molecular work to guide treatment** — immunohistochemistry, K-ras/p53 and microsatellite instability testing are confined to **resected specimens**; biopsy tissue is too heterogeneous for reliable subtyping. ([[esge-2021-ampullary-tumors]])
 
@@ -152,7 +152,8 @@ flowchart TD
 |---|---|---|
 | Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view esophagogastroduodenoscopy (EGD) ([[upper-endoscopy]]) may miss adenomatous change |
 | Forceps biopsy | Confirm adenoma, exclude cancer | Diagnostic (adenoma+carcinoma) rate 45–80%; false-negative for carcinoma 16–60%; ≥6 specimens or sample ≤10 d post-sphincterotomy |
-| [[endoscopic-ultrasound\|EUS]] / [[intraductal-ultrasound\|intraductal ultrasound (IDUS)]] | Large lesions or features concerning for malignancy | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS visualizes the tumor better but can overstage — figures on [[intraductal-ultrasound]] |
+| [[endoscopic-ultrasound\|EUS]] | Large ampullary lesions or duodenal polyps with features concerning for malignancy, before endoscopic or surgical resection (ASGE 2015 Recommendation 2) | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and malignant extension beyond the muscularis propria |
+| [[intraductal-ultrasound\|IDUS]] | Selected patients (ESGE 2021, weak — see *Staging*); not named in any ASGE 2015 recommendation | Also assesses intraductal extension and malignant extension beyond the muscularis propria; visualizes the tumor better than EUS but may overestimate stage — figures on [[intraductal-ultrasound]] |
 | [[mri-mrcp\|MRI]] | Nodal (N) staging | Superior to EUS for nodal staging |
 | CT / positron emission tomography (PET) | Detect distant metastases | May detect small mets missed by EUS/IDUS |
 | [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
