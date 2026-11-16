@@ -3,8 +3,9 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-11-01
+updated: 2026-11-16
 sources: [ascrs-2023-anal-fissures, acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
+quality_reviewed: 2026-11-16
 ---
 
 ## Contents
@@ -114,9 +115,9 @@ flowchart TD
 | **Botulinum toxin A** into internal anal sphincter | **5–100 units**; **no consensus** protocol | **60–80%** (series range **37–92%**) | **up to 42%** | temporary incontinence — flatus **up to 18%**, stool **5%** |
 | Placebo, same head-to-head trial | — | **33%** | **50%** | — |
 
-- Healing, recurrence and adverse-effect figures from [[acg-2021-anorectal-disorders]] (series range from [[asge-2010-anorectal-disorders]]); the recurrence column is one head-to-head trial of nifedipine vs nitroglycerine vs placebo. Cochrane reads both nitroglycerin and botulinum toxin as only **marginally better than placebo**.
+- Figures from [[acg-2021-anorectal-disorders]] (series range from [[asge-2010-anorectal-disorders]]); the recurrence column is one head-to-head trial of nifedipine vs nitroglycerine vs placebo. Cochrane reads both nitroglycerin and botulinum toxin as only **marginally better than placebo**.
 
-**Topical calcium channel blocker — the practical detail:**
+**Topical calcium channel blocker:**
 
 - **Diltiazem 2% is preferred to nitroglycerin** on adverse effects. Head-to-head healing **91.7% vs nitroglycerine 0.2% 60%** *(same study: headache 0% with diltiazem vs 100% with glyceryl trinitrate (GTN) — ACG calls a 0% rate "implausible", so read the healing figure, not the safety figure)*; nifedipine **80%** vs GTN 0.2% **73%** vs placebo **33%**. [[acg-2021-anorectal-disorders]]
 - **Use the topical route.** Systemic side effects **4.3% topical vs 38.0% oral** (*p* < 0.0001), and one randomized trial healed **73.3% topical vs 49.5% oral** (*p* < 0.05) while another found the routes equal ([[ascrs-2023-anal-fissures]]) — oral is a fallback when topical is impractical, not an equal option. ACG 2021 is more permissive (healing **90% topical vs 76% oral**, oral side effects not significantly increased); the newer guideline governs.
