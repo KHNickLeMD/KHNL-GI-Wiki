@@ -160,9 +160,9 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 | **Submucosa (3rd)** | Tunnel or deep-well biopsies · EUS-FNA · EUS-FNB · unroofing or endoscopic submucosal resection (ESMR; BPA 3) |
 | **Muscularis propria (4th)** | **Must be sampled, preferably FNB or FNA** (BPA 4) — the question being answered is GIST vs leiomyoma, which needs structural assessment plus immunostaining to grade malignant potential |
 
-**Size drives FNA/FNB accuracy** — the single most useful number when deciding whether to sample or surveil:
+**Size drives FNA accuracy** — the single most useful number when deciding whether to sample or surveil (AGA 2022 reports these three figures for FNA):
 
-| Target size | FNA/FNB accuracy |
+| Target size | FNA accuracy |
 |---|---|
 | **≤2 cm** | **71%** |
 | **2–4 cm** | **86%** |
