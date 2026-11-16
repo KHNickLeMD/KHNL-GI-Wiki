@@ -47,7 +47,7 @@ quality_reviewed: 2026-11-16
 
 - Prevalence data limited; reported around **0.007%–0.012%**
 - **Oral contraceptive pill (OCP)** users: **3–4 per 100,000** vs **0.13–1.0 per 100,000** in non-users (modern OCPs have markedly lower estrogen and progesterone than 1960s formulations)
-- Key Concept (KC) 5 risk factors: anabolic steroid use, [[obesity|obesity]], polycystic ovarian syndrome (PCOS), glycogen storage disease (GSD), and **possibly** exogenous hormonal therapy in men, women, and transgender individuals
+- Key Concept (KC) 5 risk factors: anabolic steroid use, [[obesity]], polycystic ovarian syndrome (PCOS), glycogen storage disease (GSD), and **possibly** exogenous hormonal therapy in men, women, and transgender individuals
 - Metabolic syndrome and hepatic steatosis also confer risk; in lean patients, weight gain is discouraged (HCA growth tracks with rising body mass index)
 - **GSD types Ia and III** — high lifetime incidence including adenomatosis; male predominance 2:1; presents as early as the second or third decade
 - **No formal recommendation exists for HCA screening** based on metabolic risk factors or duration of OCP exposure
@@ -90,7 +90,7 @@ Three main molecular subtypes (inflammatory, hepatocyte nuclear factor-1α [HNF-
 | **Unclassified** | 5%–10% | — | Liver FABP+ | — | — |
 
 *Hepatic adenoma subtype clinical characteristics*
-*Source: recreated from Table 4 of the ACG 2024 focal liver lesions guideline*
+*Source: recreated from Table 4 of the American College of Gastroenterology (ACG) 2024 focal liver lesions guideline*
 *[[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]*
 *JAK/STAT = Janus kinase/signal transducer and activation transcription · CRP = C-reactive protein · FABP = fatty acid–binding protein · HNF-1α = hepatocyte nuclear factor-1α · MODY3 = maturity-onset diabetes of the young type 3 · OCP = oral contraceptive pill · GSD = glycogen storage disease · INHβE = inhibin βE · GLI1 = glioma-associated oncogene homolog 1*
 
@@ -179,7 +179,7 @@ flowchart TD
     A(["Hepatic adenoma on imaging"]) --> B["Stop oral contraceptives and hormone-impregnated intrauterine devices; weight loss if appropriate"]
     B --> C["Evaluate MRI features to determine subtype; biopsy if concern for beta-catenin mutation"]
     C -- "Man, any size" --> D(["Resect, no biopsy first; definitive alternative treatment if not resectable"])
-    C -- "Woman, >5 cm" --> E["Stop hormonal therapy; observe 6–12 months for regression"]
+    C -- "Woman, ≥5 cm" --> E["Stop hormonal therapy; observe 6–12 months for regression"]
     E -- "Remains ≥5 cm" --> F(["Resect"])
     E -- "Shrinks to <5 cm" --> G(["Contrast-enhanced MRI every 6 months"])
     C -- "Woman, <5 cm" --> H["Biopsy if concern for beta-catenin"]
@@ -193,7 +193,7 @@ flowchart TD
 ```
 
 *Management of hepatocellular adenoma by sex, size, and lesion number*
-*Source: redrawn from Figure 1a of the ACG 2024 focal liver lesions algorithm (hepatic adenoma branch; pregnancy branch below)*
+*Source: redrawn from Figure 1a of the ACG 2024 focal liver lesions algorithm, hepatic adenoma branch, with the size threshold stated as in Key Concept 13 (pregnancy branch below)*
 *[[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]*
 *MRI = magnetic resonance imaging*
 

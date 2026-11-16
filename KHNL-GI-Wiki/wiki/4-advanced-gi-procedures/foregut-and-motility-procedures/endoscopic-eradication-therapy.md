@@ -3,7 +3,8 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-11-01
+updated: 2026-11-16
+quality_reviewed: 2026-11-16
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance, aga-2020-endoscopic-treatment-barretts-dysplasia, aga-2020-post-endoscopy-esophageal-adenocarcinoma, aga-2016-low-grade-dysplasia-barretts, asge-2023-esd]
 ---
 

@@ -3,8 +3,9 @@ title: "Gastric Cancer Screening"
 category: concept
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, h-pylori, screening, egd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-09-05
+updated: 2026-11-16
 sources: [aga-2025-gastric-cancer-screening]
+quality_reviewed: 2026-11-16
 ---
 
 ## Contents
@@ -108,7 +109,6 @@ flowchart TD
 
 - **3-year surveillance branch** — any of: **moderate-to-severe AG** of antrum or corpus (with or without GIM); **multifocal, incomplete- or mixed-type GIM** (vs complete-type only); **corpus-extended GIM** (= corpus involved in addition to antrum and/or incisura). Particularly when other GC risk factors (e.g. family history) are present. Surveillance every 3 years "should be considered" — evidence-based intervals are not well defined.
 - **Shorter than 3 years** may be advisable with multiple risk factors or severe corpus-extended GIM — progression in those cases is often found **within 2 years** of the previous endoscopy.
-- **Mild AG and/or focal, complete-type GIM** follows the same branch as a normal index EGD (q3–5y only if family history of GC or persistent H. pylori).
 - **Established or suspected hereditary syndrome** conferring GC risk: endoscopic surveillance continues at the interval set by that syndrome, whatever the index findings.
 - AG/GIM **severity grading** and **GIM subtyping** must be documented (BPA 7) but are not defined by this CPU — criteria, the Operative Link on Gastritis Assessment (OLGA)/Operative Link on Gastric Intestinal Metaplasia Assessment (OLGIM) stage bands, and Kimura-Takemoto live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]] and [[gastric-intestinal-metaplasia]], which also carry lesion-level management and the American College of Gastroenterology (ACG) 2025 / AGA 2021 / AGA 2026 interval concordance. AG/GIM surveillance beyond the screening decision is **out of scope** for this CPU.
 

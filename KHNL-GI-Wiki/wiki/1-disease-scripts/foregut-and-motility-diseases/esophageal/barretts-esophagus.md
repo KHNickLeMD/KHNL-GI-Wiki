@@ -307,7 +307,7 @@ flowchart TD
 - Confirm LGD/HGD with ≥1 expert GI pathologist before EET — changes the diagnosis in ~55% (ASGE 2018)
 - **T1b:** EET is an alternative to esophagectomy only for **sm1 (<500 µm) with negative deep margin, well/moderate differentiation, and no lymphovascular invasion** — all four; full criteria and nodal risk → [[esophageal-adenocarcinoma]] ([[acg-2022-barretts]])
 - LGD evidence: SURF RCT (n=136) — RFA cut HGD/EAC progression 26.5% → 1.5% (number needed to treat 4); persistence not required before offering EET
-- Goal: complete eradication of dysplasia and CEIM within **18 months** (benchmark ≥80%); most need ~3 sessions
+- Goal: complete eradication of dysplasia and of intestinal metaplasia within **18 months** — performance targets differ: **CE-D ≥80%**, **CE-IM ≥70%** ([[acg-2022-barretts]]); most need ~3 sessions
 
 > [!pitfall] Ablate only flat, healed mucosa
 > Inspect with HD-WLE + chromoendoscopy at every session and resect anything visible first — ablating over an unrecognized invasive cancer is the worst treatment-phase outcome ([[aga-2020-endoscopic-treatment-barretts-dysplasia]]).
