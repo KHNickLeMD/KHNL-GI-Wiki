@@ -3,11 +3,15 @@ title: "Small Bowel Obstruction"
 category: disease-script
 tags: [small-bowel-obstruction, adhesions, adhesiolysis, emergency-surgery, water-soluble-contrast, laparoscopy]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [wses-2017-adhesive-sbo]
 ---
 
-A surgical emergency in which obstruction of the small intestine hinders passage of intestinal contents — abdominal pain, vomiting, distention, constipation. **Adhesions are the single most common cause (60% of cases)**, typically the footprints of previous abdominal surgery ([[wses-2017-adhesive-sbo|World Society of Emergency Surgery (WSES) 2017]]). Mean stay 8 days, in-hospital mortality 3% per episode; **20–30% need an operation**. Failure to diagnose or delayed diagnosis accounts for **70% of malpractice claims** in adhesive small bowel obstruction (ASBO).
+A surgical emergency in which obstruction of the small intestine hinders passage of intestinal contents — abdominal pain, vomiting, distention, constipation. **Adhesions are the single most common cause (60% of cases)**, typically the footprints of previous abdominal surgery ([[wses-2017-adhesive-sbo|World Society of Emergency Surgery (WSES) 2017]]). Adhesive small bowel obstruction (ASBO) is a leading cause of morbidity, deaths and healthcare expenditure in emergency surgery (Level A). Mean stay 8 days, in-hospital mortality 3% per episode; **20–30% need an operation**. Failure to diagnose or delayed diagnosis accounts for **70% of malpractice claims**.
+
+*Scope: acute obstruction. Management of chronic adhesion-related abdominal pain is outside the guideline.*
+
+*Grades on this page are WSES 2017's own combined scheme: a conclusion level **A** (strong evidence) through **D** (expert opinion), paired with a recommendation level **I** (strong) or **II** (weak/suggestion) — so "Level IIC" = weak recommendation resting on a level-C conclusion, "Level IB" = strong recommendation on a level-B conclusion. A letter on its own (Level A, Level C) is a conclusion, not a recommendation.*
 
 ## Contents
 - [[#Assessment]]
@@ -73,6 +77,8 @@ Two published models predict the need for surgery (the guideline describes them;
 | American Fertility Society (AFS) | Extent + severity at right ovary, right tube, left ovary, left tube; sides summed, final score = the **lower** of the two sides | Designed for the small pelvis. A score of 0 does **not** mean no adhesions. Low inter-observer reproducibility; a modified AFS is used in newer studies |
 | Peritoneal adhesion index (PAI) | Tenacity on a 1–3 scale at 10 predefined sites — integrates tenacity and extent in one score | WSES working group score; **the only one validated as prognostic** for convalescence after ASBO surgery and for injury risk during adhesiolysis |
 
+*The ten scored sites are shown in Figure 1 of [[wses-2017-adhesive-sbo]], which reproduces the index from its original publication.*
+
 *Bowel injury during adhesiolysis is classified as **seromuscular injury** (serosa + smooth muscle; lumen and contents not visible), **enterotomy** (full thickness; mucosa or lumen visible, or leakage), or **delayed diagnosed perforation** (unrecognised at closure; patient deteriorates post-operatively).*
 
 ## Differential Diagnosis
@@ -93,7 +99,7 @@ Related obstruction syndromes with their own pathways: [[gastric-outlet-obstruct
 
 ### Laboratory Tests
 
-- **Minimum panel (Level IID, expert opinion): blood count, lactate, electrolytes, CRP, blood urea nitrogen (BUN)/creatinine**, together with assessment of nutritional status.
+- **Minimum panel: blood count, lactate, electrolytes, CRP, blood urea nitrogen (BUN)/creatinine**, together with assessment of nutritional status. The graded statement (Level IID, expert opinion) names blood count, lactate, electrolytes and BUN/creatinine; CRP is added in the guideline's text.
 - Electrolytes are often deranged — **low potassium is frequent and needs correction.**
 - BUN/creatinine: patients are frequently dehydrated, which can cause acute kidney injury.
 
@@ -147,7 +153,7 @@ flowchart TD
 
 ### Non-Operative Management
 
-- **Default strategy (Level IIC): try non-operative management in every patient, unless there are signs of peritonitis, strangulation, or bowel ischemia.** The slightly lower recurrence rate after surgery is **not** a reason to operate primarily — emergency exploration carries high morbidity, considerable bowel-injury risk, and may reduce post-operative quality of life.
+- **Default strategy (Level IIC): try non-operative management in every patient, unless there are signs of peritonitis, strangulation, or bowel ischemia.** The slightly lower recurrence rate after surgery (readmission **8% at 1 y / 16% at 5 y** after operative vs **12% / 20%** after non-operative treatment) is **not** a reason to operate primarily — emergency exploration carries high morbidity, considerable bowel-injury risk, and may reduce post-operative quality of life.
 - Effective in approximately **70–90%** of patients.
 - Components: **nil per os** · decompression with a naso-gastric tube or long intestinal tube · fluid resuscitation · correction of electrolyte disturbances · nutritional support · prevention of aspiration.
 - **Long trilumen naso-intestinal tubes are more efficacious than naso-gastric tubes but require endoscopic placement** (Level IIC). In the supporting randomized trial of 186 patients, failure was 10.4% with the trilumen long tube vs 53.3% with a naso-gastric tube — a naso-gastric failure rate far higher than other literature, so interpret with care; an older trial found no difference.

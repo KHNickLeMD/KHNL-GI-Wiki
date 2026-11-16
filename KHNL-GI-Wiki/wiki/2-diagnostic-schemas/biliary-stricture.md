@@ -237,7 +237,7 @@ The following features increase pre-test probability of malignancy and should pr
 - A **coaxial double-pigtail stent placed through an fcSEMS** cut migration from 40% to 15% and extended patency from 173 to 237 days in an RCT
 - **Drainage target:** reduce serum bilirubin to a level at which chemotherapy can be safely given — typically **~2.5–3.5 mg/dL**. (In perihilar disease, a meaningful response has been defined as bilirubin ≤2 mg/dL or a 50% fall from the pre-ERCP value; QOL gains are lost if bilirubin stays ≥14 mg/dL)
 - uSEMS vs fcSEMS: **insufficient evidence** to prefer one; roughly equivalent patency. Favor uSEMS if cystic duct takeoff cannot be avoided
-- **Confirm malignancy before uSEMS placement** — uSEMS becomes permanently embedded; misplacement in benign disease causes lifelong complications
+- **Do not place a uSEMS for extrahepatic obstruction of unconfirmed etiology** (Conditional, Low — [[esge-2026-biliary-strictures]]) — **5%–10% of patients resected for presumed pancreatic cancer turn out to have benign disease**, and a uSEMS becomes permanently embedded, so misplacement in benign disease causes lifelong complications
 - If patient is a potential pancreaticoduodenectomy candidate and uSEMS is placed: position proximal end **≥1.5 cm below the biliary confluence**
 - **Blocked SEMS:** for distal malignant obstruction, a uSEMS and a covered SEMS placed inside the original SEMS appear **equally effective** for patency (one RCT plus a retrospective series); for proximal obstruction the data conflict between plastic and metal inside the original SEMS, and ESGE 2026 makes no recommendation — ESGE 2017 had advised replacing a plastic stent with a SEMS and inserting a plastic stent or a new SEMS inside a blocked SEMS ([[esge-2026-biliary-strictures]])
 
@@ -298,7 +298,7 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 
 #### Diagnosis — MRCP first (Rec 3)
 
-- The ASGE suggests **[[mri-mrcp|MRCP]] as the diagnostic test** for a suspected post-LT stricture (Conditional, Moderate–High evidence): pooled sensitivity ~94.9%, specificity ~90.3%, accuracy ~92.4% vs ERCP.
+- The ASGE suggests **[[mri-mrcp|MRCP]] as the diagnostic test** for a suspected post-LT stricture (Conditional, Moderate–High evidence). *Pooled sensitivity, specificity, accuracy and predictive values against ERCP: [[mri-mrcp#Test Performance]].*
 - **High pretest probability** of stricture or cholangitis → proceed directly to [[ercp]] without diagnostic MRCP. Individual clinical scenarios dictate utility.
 
 #### ERCP first, PTBD second (Rec 1)

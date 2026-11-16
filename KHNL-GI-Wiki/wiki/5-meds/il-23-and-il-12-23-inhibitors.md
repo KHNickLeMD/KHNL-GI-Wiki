@@ -177,7 +177,7 @@ Both American Gastroenterological Association (AGA) living guidelines rank advan
 
 *All from [[global-consensus-2025-pregnancy-ibd]].*
 
-- **Infant ustekinumab clearance: median 14 weeks (range 9–36)**, correlating with the concentration at delivery — the number that governs live-vaccine timing.
+- **Infant ustekinumab clearance: mean about 4–6 months**, correlating positively with the concentration at delivery; in the cohort used for rotavirus vaccination, median time to an undetectable level was **14 weeks (range 9–36)**. This is the number that governs live-vaccine timing.
 - **Inactive vaccines on schedule**, regardless of in utero exposure (Strong, very low).
 - **Live rotavirus may be provided** after in utero biologic exposure (Conditional, very low) — no serious adverse events among 168 prospectively followed infants exposed to anti-TNF, vedolizumab or ustekinumab. Rotavirus is normally given **between 2 and 6 months** of age.
 - **The 6-month hold on live bacille Calmette-Guérin (BCG) vaccine is written for in utero anti-TNF exposure** (Strong, very low), not for this class; where BCG must be given early after any biologic, measure the infant's serum drug concentration first.

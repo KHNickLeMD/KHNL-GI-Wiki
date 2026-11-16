@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] lint | 06:00 pass — daily fetch, finish partial ingests, backlog ingest
+
+**Mode:** backlog mode **ON** — ingest gets the pass's budget. *Validate the stalest pages*, *Expand stubs* and *Fill coverage gaps* are **paused: ingest backlog**. *Quality review* runs as its own step.
+
+**Inbox sync:** `git status` clean at pass start — no untracked files under `raw/`, nothing to commit.
+
+**Daily source fetch (06:00 step): nothing qualified — 0 downloads.** Every candidate row in `needed-sources.md` is already marked: *Scores and classification instruments* holds 2 rows, both 🔒 (Eckardt 1992, WHO Blue Book 5th ed.); *Guidelines and consensus not in `raw/`* holds 2 rows, both 🌐 (CDC Yellow Book / parasite pages, NIH-CDC-IDSA opportunistic-infection guidelines); *Product labels* is empty. The fetch skips 🔒 and 🌐 rows and never picks a filler, so it downloaded nothing. `.fetch-manual.md` unchanged.
+
+**Log hygiene:** a stray `## [YYYY-MM-DD] TYPE | Title` header block (a second copy of the file's header, left mid-log by an earlier card pass) was removed from between the 2026-11-15 card-pass and 06:00-pass entries — the same corruption fixed once on 2026-11-15, recurred.
+
+**Health check (whole wiki, clean):** 831 pages · unescaped alias pipes in table cells **0** · OS artifacts **0**.
+
+**Partial ingest FINISHED — marker removed (1 of 4):**
+- `[[wses-2017-adhesive-sbo]]` — propagation verified end-to-end against the raw PDF. `[[small-bowel-obstruction]]` gained the **grading-scheme legend** (conclusion A–D × recommendation I/II, bare letter = conclusion) — the page used "Level IIC / IB / IA / IID" throughout without ever saying what the letters mean, its one real decision gap. Also added the guideline's scope limit (acute obstruction; chronic adhesion-related pain out of scope), Statement 1's Level A burden conclusion, the recurrence figures behind "recurrence is slightly lower after surgery" (8%/16% operative vs 12%/20% non-operative), and a pointer to Figure 1 for the peritoneal adhesion index's ten scored sites. Body ~2,280 words, under the ceiling.
+- **Fidelity fix:** the minimum laboratory panel was printed as "(Level IID) blood count, lactate, electrolytes, CRP, BUN/creatinine". The graded Table 5 statement names only blood count, lactate, electrolytes and BUN/creatinine — **CRP appears in the body text only and carries no grade**. Panel now stated from the text with the IID grade attached to what it actually covers. *Fix every copy:* grepped `wiki/` and the whole cards tree — the entity page was the only copy; the source page was already correct.
+- No other page needed an edit: every page mentioning small bowel obstruction already carries an inline `[[small-bowel-obstruction]]` link on first mention. Figure 2 not captured — the page's existing Mermaid redraw was checked node-by-node against the rendered PDF page and is accurate; Figure 1 is third-party and stays uncaptured.
+
+**Partial ingests STILL OPEN — markers deliberately kept (3 of 4):** `easl-2025-autoimmune-hepatitis`, `esge-2026-biliary-strictures`, `global-consensus-2025-pregnancy-ibd`. All three were mid-propagation when the run hit its cost cap and were stopped; their page edits so far are committed, but none is verified finished, so **no marker was removed**. The next pass finishes these three before starting anything new.
+- Pages advanced this pass (committed, not verified complete): `autoimmune-hepatitis`, `portal-hypertension`, `mycophenolate-mofetil` (EASL 2025) · `biliary-stricture`, `cholangiocarcinoma`, `ercp` (ESGE 2026) · `anti-tnf-agents`, `il-23-and-il-12-23-inhibitors`, `jak-inhibitors`, `mesalamine-5-asa`, `vedolizumab` (Global Consensus 2025).
+- **ESGE 2026 verification (done, usable next pass):** all 27 recommendations plus the ancillary figures were re-checked against the raw PDF statement by statement — **no wiki claim was wrong**. Confirmed the document's own internal defect: the ≥50%/ideally ≥70% viable-liver-volume recommendation reads **Bismuth II–IV** in both the Main Recommendations box and §3.2.4 but **Bismuth III–V** in Table 1 (no Bismuth type V exists); the wiki's II–IV is the authoritative wording. Also confirmed: Billroth II (item 19) really is Conditional/**moderate** despite the odd pairing, and **sphincter of Oddi dysfunction appears nowhere in the guideline** — the `ercp` SOD/Milwaukee cleanup must be sourced from Rome V 2026, not ESGE.
+
+**New backlog ingest — started, NOT finished:** `EASL 2018 Hepatitis E Virus Infection CPG`. Licence checked first: **not open access** (no Creative Commons line) → no figure capture, any algorithm recreated natively. The full document was read and `wiki/sources/easl-2018-hepatitis-e.md` was created carrying `ingest: partial`, but the run's cost cap stopped it before the source page was written out, so the `hepatitis-e` entity page does not yet exist and `needed-sources.md` keeps its hepatitis E row. The next pass resumes this file.
+
+**Quality review:** queue at pass start **136/370** pages reviewed. Two never-reviewed pages were dispatched — `endoscopy-credentialing-and-privileging` (2,003 w) and `rectovaginal-fistula` (1,999 w). Both were still working when the cost cap stopped the run; **neither page was modified and neither has `quality_reviewed:` set**, so both requeue intact.
+
+**Nothing qualified / did not run:**
+- *Daily source fetch* — ran, **0 downloads**, nothing qualified (see above).
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps* — **paused: ingest backlog**. No stub exists to expand in any case (0 stub pages wiki-wide).
+- *Slim long pages* — not run (budget went to ingest).
+- *Cards* — not written this pass. One item for the 05:00 card pass: `small-bowel-obstruction`'s card file needs only `page_updated:` bumped to 2026-11-16 (5 notes, all still accurate, `{at:}` anchors resolve, no carded fact changed). Its tag `GI::Organs::SmallBowel` remains an invented node awaiting Nick's sign-off, and `cards_reviewed:` is unset.
+
+**Budget:** the run's cost cap stopped it with three partials unverified, the hepatitis E ingest unfinished and two quality reviews unstarted on disk. Everything incomplete is marked so it resumes: `ingest: partial` kept on all four source pages, `quality_reviewed:` unset on both queued pages.
+
+---
+
 ## [2026-11-16] update | Card pass — dedup, new cards, card quality review
 
 **Deduplication:** 5 candidate pairs judged, all recorded in the ledger. 1 merged — the "negative reflux study on or off PPI → stop the PPI" note, kept on `[[reflux-testing]]` (`af1006`, now `{also:gerd}`), retired from `[[gerd]]`. 4 distinct: topical calcium channel blocker class vs oral-versus-topical route in `[[anal-fissure]]`; the ACG 2022 Barrett's T1b criteria vs the AGA 2019 ESD T1b criteria; autoimmune hepatitis first-line dosing vs drug-induced autoimmune-like hepatitis; Spigelman in `[[familial-adenomatous-polyposis]]` vs `[[mutyh-associated-polyposis]]`.
@@ -329,12 +364,6 @@ Cards only; nothing in `wiki/` changed except this entry. Deck rebuilt clean aft
 **Not carded, on purpose:** `telemedicine-in-gastroenterology`, `bristol-stool-form-scale`, `peginterferon-alfa-2a` (standing skips). `gastroenteropancreatic-neuroendocrine-tumors` tops the review queue but all 23 of its notes are NCCN-sourced — still waiting on Nick's call about the NCCN licence.
 
 **Uncommitted:** this pass was asked not to commit or push.
-
----
-
-## [YYYY-MM-DD] TYPE | Title`
-
-Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 

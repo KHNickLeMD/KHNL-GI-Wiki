@@ -3,9 +3,8 @@ title: "Bologna Guidelines for Diagnosis and Management of Adhesive Small Bowel 
 category: source
 tags: [small-bowel-obstruction, adhesions, wses, emergency-surgery, adhesiolysis, laparoscopy, water-soluble-contrast]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 sources: []
-ingest: partial
 ---
 
 ## Bibliographic Info

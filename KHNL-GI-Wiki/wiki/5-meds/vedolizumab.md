@@ -235,7 +235,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 *All from [[global-consensus-2025-pregnancy-ibd]].*
 
-- **Infant clearance: median 11 weeks (range 5–19)** after in utero exposure — the number that governs live-vaccine timing.
+- **Infant clearance is faster than for anti-TNF** — mean time to clearance **about 3 months, 100% cleared by 6 months**; in the cohort used for rotavirus vaccination, median time to an undetectable level was **11 weeks (range 5–19)**. This is the number that governs live-vaccine timing.
 - **Inactive vaccines on schedule**, regardless of in utero exposure (Strong, very low).
 - **Live rotavirus may be provided** after in utero biologic exposure (Conditional, very low) — prospective data in 168 infants exposed to anti-TNF, vedolizumab or ustekinumab showed **no serious adverse events**. Rotavirus is normally given **between 2 and 6 months** of age.
 - **The 6-month hold on live bacille Calmette-Guérin (BCG) vaccine is written for in utero anti-TNF exposure** (Strong, very low), not for vedolizumab; where BCG must be given early after any biologic, measure the infant's serum drug concentration first.

@@ -231,6 +231,7 @@ A genuine trade-off, and the guideline states both halves:
 
 - **Continue maintenance 5-ASA** in women who are pregnant or attempting conception (**Strong**, low — [[global-consensus-2025-pregnancy-ibd]]); **continue maintenance sulfasalazine** (Conditional, very low). No excess congenital malformations.
 - **Sulfasalazine requires folic acid 2 mg/day for the 3 months before conception** (neural tube defects); **mesalamine carries no such requirement** ([[global-consensus-2025-pregnancy-ibd]] Table 5). [[aga-2024-pregnancy-gi-liver]] gives the same 2 mg/day as **1 mg twice daily, continued from 3 months preconception through pregnancy** — follow the newer consensus for the preconception dose.
+- **Rectal 5-ASA is safe and effective in pregnancy**, and **current formulations no longer contain dibutyl phthalate** — the concern that attached to older preparations ([[global-consensus-2025-pregnancy-ibd]]). Adherence is the bigger problem: almost a quarter of previously adherent women stop their 5-ASA during pregnancy.
 - **Breastfeeding is compatible** with both drugs — **relative infant dose (RID) <1%** for each; rare infant diarrhea. But **the sulfapyridine metabolite of sulfasalazine reaches higher milk levels, so non-sulfonamide mesalamine derivatives are preferred over sulfasalazine during lactation** ([[global-consensus-2025-pregnancy-ibd]]).
 
 **Monitoring:** the response check is the only interval the guidelines give — **reassess response to induction within 8 weeks** ([[acg-2025-uc]] KC 19). See *Gaps* for what is not stated.

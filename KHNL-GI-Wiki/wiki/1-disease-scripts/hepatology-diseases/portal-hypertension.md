@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [easl-2025-autoimmune-hepatitis, asge-2026-esophageal-gastric-varices, baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices, puente-2025-cirroxaban-rivaroxaban-cirrhosis]
 ---
 
@@ -171,6 +171,12 @@ sources: [easl-2025-autoimmune-hepatitis, asge-2026-esophageal-gastric-varices, 
 > [!pitfall] Exactly 150 ×10⁹/L splits the guidelines
 > ASGE scopes at platelets **≤150**; Baveno exempts at **≥150** — at exactly 150, ASGE scopes and Baveno does not ([[asge-2026-esophageal-gastric-varices]]; [[baveno-viii-2026-portal-hypertension]]).
 
+**[[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]]-related cirrhosis — its own, lower-bar rule** ([[easl-2025-autoimmune-hepatitis]], both strong, LoE 3):
+
+- **Screen with upper endoscopy for varices needing treatment (VNT) at LSM ≥20 kPa *or* platelets ≤150 ×10⁹/L** — either one is enough.
+- **Also screen below that LSM** when indirect signs of PH are present: **splenomegaly, increased portal vein diameter, collateral veins**.
+- Why it differs: the Baveno rule-out pair is not validated in AIH (see [[#Noninvasive Staging — cACLD and CSPH]]), so the AIH guideline scopes on a single criterion rather than requiring both.
+
 ```mermaid
 flowchart TD
     A["cACLD / compensated cirrhosis<br/>CSPH present by any Baveno VIII criterion<br/>(LSM ≥25 kPa, or ANTICIPATE/NICER ≥75%,<br/>or SSM >55 kPa, or HVPG ≥10 mmHg)"] --> B{"NSBB candidate?"}
@@ -282,3 +288,4 @@ Acute variceal hemorrhage — resuscitation, vasoactive drugs, antibiotics, endo
 6. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
 7. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
 8. [[puente-2025-cirroxaban-rivaroxaban-cirrhosis|Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study (2025)]]
+9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

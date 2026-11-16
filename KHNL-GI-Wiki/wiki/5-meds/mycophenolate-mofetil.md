@@ -58,7 +58,7 @@ Mycophenolate mofetil (MMF) is an antimetabolite immunosuppressant — a potent,
 ## Monitoring
 
 - **Aspartate aminotransferase (AST), alanine aminotransferase (ALT), prothrombin time, fasting glucose and full blood count at 4 weeks**, to look for non-response — not weekly through the first month as on azathioprine (whose toxicity peaks in the first 6 weeks), because MMF-related toxicity is rare
-- Then laboratory and clinical monitoring **including immunoglobulin G (IgG) every 2–3 months** to determine CBR at 6 and 12 months; **every 3–6 months** once CBR is attained
+- After that the schedule is the disease's, not the drug's — immunoglobulin G (IgG) and aminotransferases to call CBR: [[autoimmune-hepatitis#Monitoring on Treatment]]
 - **No metabolite levels and no trough target** — unlike thiopurines, where 6-thioguanine nucleotide (6-TGN) and 6-methylmercaptopurine (6-MMP) levels guide optimisation ([[thiopurines]], [[easl-2025-autoimmune-hepatitis]]; no trough is monitored in transplant use, [[aasld-ast-2025-liver-transplant-graft-complications]])
 
 ## Adverse Effects and Interactions

@@ -226,7 +226,7 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 - **Preoperative: ERCP over PTBD** (Strong, moderate) — the randomized trial in potentially resectable perihilar CCA was **stopped early for higher mortality with PTBD (41% vs 11%)**, which also carries more implantation metastases.
 - **Palliative: ERCP for Bismuth I–II.** For **Bismuth III–IV**, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD; complementary PTBD may still be required (conditional, very low).
 - **Stent choice: either a plastic stent or an uncovered SEMS** for proven malignant hilar obstruction (conditional, moderate) — **plastic while the optimal drainage strategy has not been defined**, **uncovered SEMS in expert centers** to reduce revisional procedures, judged on expected survival and the likelihood of achieving complete drainage. An uncovered SEMS is a **definitive** intervention: suboptimal initial drainage cannot easily be optimized afterwards.
-- ⚠ **Do not place an uncovered SEMS for extrahepatic obstruction of unconfirmed etiology** (conditional, low) — **5%–10% of patients resected for presumed pancreatic cancer turn out to have benign disease**.
+- ⚠ **Do not place an uncovered SEMS for extrahepatic obstruction of unconfirmed etiology** (conditional, low) — *rationale and the benign-resection rate: [[biliary-stricture]].*
 - ⚠ **Where this changed:** [[acg-2023-biliary-strictures|ACG 2023]] found insufficient evidence to prefer ERCP or PTBD for hilar drainage and set the target at >50% of nonatrophic volume; ESGE 2026 is the newer tier-1 source and governs the page.
 
 ### Surveillance After Resection

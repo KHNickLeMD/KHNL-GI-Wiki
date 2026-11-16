@@ -30,6 +30,7 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-202
   - [[#Decompensated Cirrhosis]]
   - [[#Treatment Withdrawal]]
   - [[#Surveillance in AIH Cirrhosis]]
+  - [[#Concomitant Liver Disease]]
   - [[#Overlap / Variant Syndromes]]
   - [[#AIH in Pregnancy]]
   - [[#Paediatric AIH]]
@@ -272,6 +273,9 @@ Both definitions additionally require **no previously recognized liver disease**
 
 **Who to treat:** immunosuppression is recommended in **all patients with active disease, including advanced fibrosis and compensated [[cirrhosis]]** (*LoE 1, strong*); the goal is complete biochemical, clinical **and histological** remission (*LoE 2, strong*). Treatment may be withheld with close follow-up in **elderly asymptomatic patients with mild activity and no advanced fibrosis** (watch-and-wait, *LoE 4, strong*), in burnt-out cirrhosis without inflammatory activity, and where corticosteroids are contraindicated (uncontrolled diabetes, severe osteoporosis, morbid obesity/metabolic syndrome) — then check aminotransferases and IgG **every 3–6 months** and re-biopsy if they rise or fluctuate. [[easl-2025-autoimmune-hepatitis]]
 
+- **Elderly with at least moderate activity get standard immunosuppression** — age is not a reason to under-treat (*LoE 3, strong*); patients ≥65 years reach CBR at the same rate as younger ones and relapse **less** often
+- **Taper corticosteroids rapidly in the elderly** (*LoE 5, strong*) — the risk is aggravating osteoporosis and/or cardiovascular risk factors
+
 ### First-Line Treatment
 
 **Predniso(lo)ne + either [[thiopurines|azathioprine]] or [[mycophenolate-mofetil|mycophenolate mofetil (MMF)]]** — EASL 2025 promotes MMF to a first-line alternative (*LoE 2, strong recommendation, consensus*). [[easl-2025-autoimmune-hepatitis]]
@@ -280,7 +284,7 @@ Both definitions additionally require **no previously recognized liver disease**
 |---|---|---|---|
 | **Predniso(lo)ne** | **≥0.5 mg/kg/day**; **up to 1 mg/kg/day** in more severe or advanced disease | Taper by response | Higher dose = higher response but more adverse events (meta-analysis, 25 studies, 3,305 patients) |
 | **[[thiopurines\|Azathioprine]] (AZA)** | **50 mg/day** | **1–2 mg/kg/day** (reached ~week 4) | Add **only when bilirubin <6 mg/dl**, ideally **2 weeks after** the steroid — avoids confusing non-response with AZA hepatotoxicity. **Never as monotherapy for induction** (high mortality). Avoid in acute severe AIH and decompensated cirrhosis; caution in TPMT deficiency, pregnancy, cytopenias, malignancy |
-| **MMF** | **1,000 mg/day**, with the steroid | **1,500–2,000 mg/day** (0.75–1.0 g twice daily, reached ~week 2) | **Teratogenic — counsel women *and* men**; negative pregnancy test and two contraceptive methods, continued **≥12 weeks after** stopping |
+| **[[mycophenolate-mofetil\|MMF]]** | Started with the steroid | **1.5–2 g/day** | **Teratogenic — counsel women *and* men.** Titration schedule, contraception rules and drug monitoring: [[mycophenolate-mofetil]] |
 
 - **Tapering is individualised to CBR status** (*LoE 4, strong*). Rapid taper (**5–10 mg every 1–2 weeks**) is desirable but must follow response; the trial-mirrored schedule reaches ~5 mg/day by week 24 in an 80-kg index case
 - Check **ALT and IgG at weeks 4, 12 and 24** as the efficacy parameters
@@ -301,13 +305,12 @@ Both definitions additionally require **no previously recognized liver disease**
 | Phase | What and how often |
 |---|---|
 | First month on AZA | AST, ALT, prothrombin time, fasting glucose, full blood count **weekly** — AZA toxicity peaks in the first 6 weeks |
-| First month on MMF | Same panel **at 4 weeks** (MMF toxicity is rare) |
+| First month on MMF | Lighter — schedule on [[mycophenolate-mofetil#Monitoring\|mycophenolate mofetil]] |
 | To 12 months | Labs **including IgG every 2–3 months**, to call CBR at 6 and 12 months |
 | Maintenance after CBR | **Every 3–6 months**; thyroid function every 6–12 months |
 | Fibrosis | **[[liver-stiffness-measurement\|Transient elastography]] ~every 12 months** (*LoE 3, strong*) — reliable from **6 months** after starting immunosuppression; **≥9 kPa** severe fibrosis, **12.5–16 kPa** cirrhosis |
 
 - **Calcium intake and vitamin D supplementation** on long-term corticosteroids (*LoE 3, strong*); low-carbohydrate, low-salt diet
-- Concurrent metabolic syndrome or [[nafld-masld|MASLD]] → **lowest effective predniso(lo)ne dose with faster tapering**, plus active management of hypertension, dyslipidaemia, diabetes and weight (*LoE 2, strong*); AIH with MASLD more often has cirrhosis at diagnosis and decompensates more
 - Apply **routine general-population cancer screening** — extrahepatic cancer occurs in up to 5% (nonmelanoma skin and haematological most common)
 
 ### Maintenance Therapy
@@ -317,6 +320,12 @@ Both definitions additionally require **no previously recognized liver disease**
 - **Low-dose predniso(lo)ne monotherapy only** in mild disease with CBR and intolerance to **both** AZA and MMF (*LoE 3, weak*)
 - Continuing corticosteroids beyond **3 months after ALT normalises** gave no better outcomes in a 1,267-patient UK audit — taper off and run a steroid-sparing monotherapy
 - AZA continued alone at **2 mg/kg/day** gave 0% relapse at 12 months and 17% at 5 years
+
+**Adherence — investigate it before changing the regimen** ([[easl-2025-autoimmune-hepatitis]], all *LoE 2–3, strong*):
+
+- **Patient-centred consultation** for suspected or confirmed non-adherence — screen for anxiety and depression and assess **capability, opportunity and motivation**
+- **Start maintenance early** so corticosteroids can be reduced and withdrawn; this is itself a recommendation, because steroid burden drives non-adherence and erodes the caregiver–patient relationship
+- **Test [[thiopurines|thiopurine]] metabolites to assess adherence** — undetectable or low 6-TGN *and* 6-MMP mean the drug is not being taken; trigger a medication-management/side-effect and benefit–risk discussion rather than a dose increase
 
 ### Intolerance, Insufficient Response and Rescue
 
@@ -357,7 +366,7 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 
 ⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] treats tacrolimus as a co-equal second-line agent (trough 1–10 ng/mL) alongside MMF.** EASL 2025 moves it to third line behind MMF and AZA optimisation, with a tighter trough. Both agree the second-line agents work far better for *intolerance* than for *treatment failure*.
 
-**MMF is contraindicated in pregnancy** (first-trimester pregnancy loss, birth defects). AASLD 2020 advises a negative pregnancy test **within 1 week** of starting MMF and two forms of contraception from **4 weeks before to 6 weeks after** use; **EASL 2025 requires withdrawal at least 3 months before conception** and contraception to **≥12 weeks** after stopping — follow the longer EASL interval. See [[liver-disease-in-pregnancy]].
+⚠ **MMF is teratogenic — withdraw ≥3 months before conception** (*LoE 2, strong*), longer than [[aasld-2020-autoimmune-hepatitis|AASLD 2020]]'s negative pregnancy test within 1 week of starting plus contraception from 4 weeks before to 6 weeks after; **follow the longer EASL interval**. Counselling, contraception and the transplant figures: [[mycophenolate-mofetil#Teratogenicity and Contraception]].
 
 ### Relapse and Flares
 
@@ -433,6 +442,18 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 > [!pitfall] Baveno VII elastography cut-offs are not validated in AIH
 > Up to **52%** of AIH patients with clear signs of portal hypertension had an LSM **below** the Baveno rule-out cut-off, and thiopurines/MMF lower platelets independently. Judge clinical, laboratory, elastographic and ultrasound signs together rather than relying on the cut-off ([[easl-2025-autoimmune-hepatitis]]).
 
+### Concomitant Liver Disease
+
+AIH coexists with [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease|ALD]] and viral hepatitis — coexistence does not exclude the diagnosis, and each component is treated. All [[easl-2025-autoimmune-hepatitis]].
+
+| Coexisting disease | What to do |
+|---|---|
+| **MASLD** | **Standard AIH treatment** (*LoE 3, strong*), plus a personalised multidisciplinary approach: **lowest effective predniso(lo)ne dose**, lifestyle modification, strict management of every metabolic syndrome component (*LoE 2, strong*). AIH with MASLD more often has cirrhosis at diagnosis and decompensates more |
+| **Chronic viral hepatitis with autoimmune features** | **Antiviral therapy** (*LoE 4, strong*); **add immunosuppression only if liver inflammation persists despite adequate viral control** (*LoE 4, strong*) |
+| **Alcohol-related liver disease** | Treat the alcohol use disorder, **aiming at abstinence**, per its own guidelines (*LoE 2, strong*); immunosuppress the AIH component per the AIH recommendations above (*LoE 5, strong*) |
+
+- Reactivation risk applies in the other direction too: screen HBsAg and anti-HBc before immunosuppression — strata, agents and duration on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]]
+
 ### Overlap / Variant Syndromes
 
 **EASL 2025 framing** [[easl-2025-autoimmune-hepatitis]]: suspect a variant **whenever cholestatic features are present** (*LoE 2, strong*); in adults **test PBC-specific autoantibodies before anything else** (AMA-M2, anti-gp210, anti-sp100) (*LoE 2, strong*), then **magnetic resonance cholangiography if those are negative** (*LoE 3, strong*). **Treat the predominant component** (*LoE 4, strong*).
@@ -489,15 +510,16 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 ### AIH in Pregnancy
 
 - AIH associated with increased risk of fetal prematurity and loss, especially with inadequate disease control [[acg-2016-liver-disease-pregnancy]]
-- **Intrapartum flare risk >20%; postpartum flare risk 30–50%** — close monitoring required throughout pregnancy and postpartum
-- AIH may initially present during pregnancy; differentiate from [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy (AFLP)]], preeclampsia
+- **Flares: 13% during pregnancy, 41% postpartum at a median of 11 weeks after delivery** — both need treatment intensification, so monitor through pregnancy and the postpartum months. Older estimates ran higher (intrapartum >20%, postpartum 30–50%, [[acg-2016-liver-disease-pregnancy]]); **CBR at conception and through pregnancy reduces both flares and prematurity** [[easl-2025-autoimmune-hepatitis]]
+- AIH may initially present during pregnancy; differentiate from [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy (AFLP)]], preeclampsia. **First presentation in pregnancy → standard regimens excluding MMF** (*LoE 2, strong*) [[easl-2025-autoimmune-hepatitis]]
+- **Cirrhosis in pregnancy → close monitoring by a multidisciplinary obstetric–hepatology team** (*LoE 2, strong*) [[easl-2025-autoimmune-hepatitis]]
 - **Continue corticosteroids and/or AZA throughout pregnancy** (American College of Gastroenterology [ACG] 2016 Rec 31 — Strong, Very Low evidence) [[acg-2016-liver-disease-pregnancy]]
   - Corticosteroids: pregnancy category C; population-based data (>51,000 exposures) show no significant increase in orofacial cleft or other congenital abnormalities
   - AZA: pregnancy category D; IBD safety data (3,000 AZA-exposed pregnancies) show no increase in congenital abnormalities; maintaining AIH control outweighs AZA risk
-- **MMF**: teratogenic — contraindicated in pregnancy; switch to AZA before conception [[aasld-2020-autoimmune-hepatitis]]
+- **MMF**: teratogenic — withdraw **≥3 months before conception** and never use it for a first presentation in pregnancy ([[#Intolerance, Insufficient Response and Rescue]])
 - Budesonide: not recommended in cirrhosis; limited pregnancy data; prednisone preferred
 - Treatment discontinuation carries significant risk of hepatic decompensation/ALF
-- See [[liver-disease-in-pregnancy]] for full pregnancy management context
+- Maternal–fetal risk estimates and the full pregnancy pathway: [[liver-disease-in-pregnancy]]
 
 ### Paediatric AIH
 
@@ -507,7 +529,7 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 |---|---|---|---|
 | First | Predniso(lo)ne | **1–2 mg/kg/day, max 60 mg daily** | Taper to maintenance **2.5–5 mg/day**; paediatric budesonide experience is limited |
 | First | [[thiopurines\|Azathioprine]] | **1 mg/kg/day**, titrate up to max **2–2.5 mg/kg/day** | Start **after 2 weeks**, or second-line for insufficient response to predniso(lo)ne. Caution if jaundiced (hepatotoxic); check TPMT first; monitor the 6-MMP/6-TGN ratio |
-| Second | MMF | **5–10 mg/kg twice daily**, increase to **20 mg/kg twice daily (max 1,000 mg twice daily)** | Replaces azathioprine in refractory AIH; adverse events ≈48%; metabolites not routinely measured; **teratogenic** |
+| Second | [[mycophenolate-mofetil\|MMF]] | Weight-based twice daily — [[mycophenolate-mofetil#Children\|doses on the drug page]] | Replaces azathioprine in refractory AIH; adverse events ≈48%; **teratogenic** |
 | Third | [[tacrolimus\|Tacrolimus]] | **0.05 mg/kg/day** in 2 divided doses; trough ≈**5 ng/ml** | Rarely used second-line; adverse events ≈42%; nephrotoxicity and diabetes risk |
 | Third | Cyclosporine ([[calcineurin-inhibitors\|calcineurin inhibitor]]) | **4 mg/kg/day** in 2 divided doses; trough **200–250 ng/ml**, decreasing after remission | Occasional induction use; adverse events ≈78%; cosmetic side effects, nephrotoxicity |
 

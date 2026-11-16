@@ -195,6 +195,7 @@ Everything restricting this class comes from one trial in **RA, not IBD** — RA
 - **Pregnancy / childbearing plans.** Data sparse; **animal data suggest adverse pregnancy effects at doses far above clinical doses** → **generally avoid in women contemplating pregnancy in the near future** ([[aga-2024-uc-pharm]], [[aga-2025-crohns-pharm]]).
   - **Stop tofacitinib, upadacitinib or filgotinib at least 4 weeks before conception** unless no effective alternative therapy maintains maternal health ([[global-consensus-2025-pregnancy-ibd]] consensus statements 20–22; the body text notes the filgotinib label says 1 week). Relatively contraindicated in all trimesters — small molecules cross the placenta passively, including during organogenesis.
   - **Do not breastfeed on a JAK inhibitor.** Tofacitinib relative infant dose up to 3.4%; the label requires withholding nursing **18 h** (immediate release) or **36 h** (sustained release) after each dose. Upadacitinib and filgotinib milk excretion unknown.
+  - **The human signal is small but the data are thin:** 2 serious congenital malformations in 55 live births exposed to tofacitinib, 1 in 21 with filgotinib, 0 in 30 with upadacitinib; the teratogenicity concern itself comes from animal studies ([[global-consensus-2025-pregnancy-ibd]]).
   - Women with **no near-term conception plans should not be denied** these drugs. Infants exposed in utero may receive **live vaccines after 1 month of age**. Full reproductive management: [[ibd-in-pregnancy]].
 - Also avoid or use cautiously, per the sections above: **high MACE risk** (apply the four EMA criteria and the CV risk-factor list), **higher infection risk**, **ileal-predominant CD**, and **high doses with corticosteroids or immediately after infliximab in ASUC**.
 - No **absolute contraindication** is stated, no **washout interval** when switching to or from a JAK inhibitor, and no data on **combining** a small molecule with a biologic ([[aga-2024-ibd-malignancy]]). The class is not addressed in [[pouchitis]], postoperative CD prophylaxis or paediatric IBD.
@@ -212,7 +213,7 @@ Everything restricting this class comes from one trial in **RA, not IBD** — RA
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[toxic-megacolon]], [[pouchitis]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[therapeutic-drug-monitoring-ibd]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-preventive-care]], [[ibd-in-pregnancy]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[toxic-megacolon]], [[pouchitis]], [[perianal-fistulizing-crohns-disease]], [[uc-vs-crohns-comparison]], [[therapeutic-drug-monitoring-ibd]]
 
 ---
 
