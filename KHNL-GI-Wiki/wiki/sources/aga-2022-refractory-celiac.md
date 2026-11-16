@@ -5,6 +5,7 @@ tags: [celiac, refractory-celiac, small-bowel, malabsorption, eatl, lymphoma, ag
 created: 2026-09-05
 updated: 2026-09-23
 sources: [acg-2022-celiac]
+raw: "GI Guidelines/AGA/AGA 2022 CPU Refractory Celiac Disease.pdf"
 ---
 
 ## Bibliographic Info

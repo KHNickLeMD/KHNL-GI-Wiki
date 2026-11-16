@@ -5,6 +5,7 @@ tags: [cholecystitis, gallbladder, tokyo-guidelines, diagnostic-criteria, severi
 created: 2026-10-18
 updated: 2026-10-18
 sources: []
+raw: "GI Guidelines/Other/Tokyo Guidelines 2018 Cholecystitis Diagnostic Criteria and Severity (Yokoe).pdf"
 ---
 
 # Tokyo Guidelines 2018: Diagnostic Criteria and Severity Grading of Acute Cholecystitis

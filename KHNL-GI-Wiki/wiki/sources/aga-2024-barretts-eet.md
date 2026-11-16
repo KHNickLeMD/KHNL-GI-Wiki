@@ -5,6 +5,7 @@ tags: [barretts-esophagus, eet, dysplasia, rfa, emr, esophageal-adenocarcinoma, 
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 Barrett's EET.pdf"
 ---
 
 # AGA Guideline: Endoscopic Eradication Therapy (EET) of Barrett's Esophagus (2024)

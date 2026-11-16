@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid 
 category: source
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cvs, cannabis, dgbi, amitriptyline, capsaicin]
 created: 2026-07-18
-updated: 2026-10-31
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Cannabinoid Hyperemesis Syndrome.pdf"
 ---
 
 ## Bibliographic Info
@@ -123,6 +124,7 @@ Rumination syndrome · gastroparesis · CVS · pregnancy · migraine · function
 - A **critical appraisal of the literature has questioned the etiologic role of cannabis** in CHS, even though cessation is considered necessary for treatment.
 - Overall CHS prevalence remains unknown and underdiagnosis is a challenge; recidivism is high.
 - **Superseded in part by [[rome-v-2026-dgbi]] (2026):** this CPU treats CHS as a subtype of CVS, whereas Rome V makes CHS a separate adult entity (B2c). The newer consensus governs placement; see [[cannabinoid-hyperemesis-syndrome]].
+- **Preventive tricyclic therapy — contradicted by the newer consensus:** this CPU makes cannabis cessation plus a tricyclic antidepressant (amitriptyline 75–100 mg at bedtime, efficacious in ~70% in observational experience) the long-term mainstay, whereas [[rome-v-2026-gastroduodenal-disorders|Rome V 2026]] states that CHS **responds poorly to preventive TCA therapy** (one small series supports olanzapine prophylaxis). Rome V is newer and governs [[cannabinoid-hyperemesis-syndrome]].
 - Where this CPU and [[aga-2024-cvs]] (same year, CVS-specific) overlap, the CVS-specific CPU carries the more detailed dosing and severity framework.
 
 ## See Also

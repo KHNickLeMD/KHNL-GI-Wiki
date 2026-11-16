@@ -5,6 +5,7 @@ tags: [gerd, reflux, esophageal, asge]
 created: 2026-05-15
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 ---
 
 ## Bibliographic Info

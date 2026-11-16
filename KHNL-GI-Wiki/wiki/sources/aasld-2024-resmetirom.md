@@ -5,6 +5,7 @@ tags: [resmetirom, rezdiffra, masld, mash, nash, thr-beta, fibrosis, nilda, vcte
 created: 2026-05-31
 updated: 2026-10-05
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2024 Resmetirom MASLD Update.pdf"
 ---
 
 ## Bibliographic Info
@@ -18,7 +19,7 @@ sources: []
 
 ## Summary
 
-[[resmetirom|Resmetirom]] (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonist** — received FDA **accelerated approval in March 2024**, the first drug approved for **[[nafld-masld|metabolic dysfunction–associated steatohepatitis (MASH)]] with moderate-to-advanced fibrosis (F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial (52-week dual primary endpoints) plus MAESTRO-NAFLD-1 safety data. Because the FDA label does not give implementable whom-to-treat / how-to-monitor guidance, the American Association for the Study of Liver Diseases (AASLD) writing group assimilated the noninvasive liver disease assessment (NILDA) fibrosis/steatosis guidelines, trial data, expert opinion, and FDA documents into actionable recommendations.
+[[resmetirom|Resmetirom]] (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonist** — received FDA **accelerated approval in March 2024** for **[[nafld-masld|metabolic dysfunction–associated steatohepatitis (MASH)]] with moderate-to-advanced fibrosis (F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial (52-week dual primary endpoints) plus MAESTRO-NAFLD-1 safety data. Because the FDA label does not give implementable whom-to-treat / how-to-monitor guidance, the American Association for the Study of Liver Diseases (AASLD) writing group assimilated the noninvasive liver disease assessment (NILDA) fibrosis/steatosis guidelines, trial data, expert opinion, and FDA documents into actionable recommendations.
 
 **Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26%–30% (vs 10% placebo); ≥1-stage fibrosis improvement without worsening MASH 24%–26% (vs 14% placebo). >70% of participants did not reach a primary endpoint at week 52. Accelerated approval is contingent on verification of long-term clinical benefit.
 

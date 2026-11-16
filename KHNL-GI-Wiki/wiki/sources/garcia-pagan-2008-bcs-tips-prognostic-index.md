@@ -5,6 +5,7 @@ tags: [budd-chiari, TIPS, prognosis, score, portal-hypertension, liver-transplan
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Garcia-Pagan 2008 TIPS for Budd-Chiari BCS-TIPS PI.pdf"
 ---
 
 ## Bibliographic Info

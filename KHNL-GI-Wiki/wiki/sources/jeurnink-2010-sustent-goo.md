@@ -5,6 +5,7 @@ tags: [gastric-outlet-obstruction, palliation, enteral-stent, gastrojejunostomy,
 created: 2026-09-02
 updated: 2026-09-02
 sources: []
+raw: "GI RCTs/2010 SUSTENT Study.pdf"
 ---
 
 ## Bibliographic Info

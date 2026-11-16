@@ -5,6 +5,7 @@ tags: [ulcerative-colitis, ibd, advanced-therapy, biologics, jak-inhibitor, guid
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 Mod-Severe UC Pharm Mgmt.pdf"
 ---
 
 # AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulcerative Colitis (2024)

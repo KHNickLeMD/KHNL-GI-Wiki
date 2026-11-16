@@ -5,6 +5,7 @@ tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-t
 created: 2026-05-24
 updated: 2026-08-26
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2017 Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome.pdf"
 ---
 
 ## Bibliographic Info

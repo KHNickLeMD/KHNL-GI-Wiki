@@ -5,6 +5,7 @@ tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, ferritin, transfe
 created: 2026-06-10
 updated: 2026-10-08
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2011 Hemochromatosis Dx Management.pdf"
 ---
 
 > ⚠ **Superseded for current practice.** The wiki's primary source for [[hereditary-hemochromatosis|hereditary hemochromatosis (HH)]] is the newer [[acg-2019-hereditary-hemochromatosis|American College of Gastroenterology (ACG) 2019: Hereditary Hemochromatosis]]. Where the two differ, follow ACG 2019; this American Association for the Study of Liver Diseases (AASLD) 2011 edition is additive. It remains the more detailed source on the phlebotomy regimen and on chelation for secondary iron overload.

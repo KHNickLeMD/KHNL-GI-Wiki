@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
@@ -75,8 +75,8 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 #### Bacterial
 
-- [[enterotoxigenic-e-coli|ETEC]] — most common cause of traveler's diarrhea worldwide; watery diarrhea; heat-labile/heat-stable toxins
-- [[campylobacter-infection]] — most common bacterial cause of diarrhea in developed countries; febrile, may be bloody; fluoroquinolone resistance high in Southeast Asia/India
+- [[enterotoxigenic-e-coli|ETEC]] — a diarrheagenic *E. coli* pathotype; diarrheagenic *E. coli* are the most common causes of traveler's diarrhea [[acg-2016-acute-diarrhea]]; watery diarrhea
+- [[campylobacter-infection]] — febrile, may be bloody; fluoroquinolone resistance high in Southeast Asia/India
 - [[salmonella-infection]] — non-typhoidal; febrile, may be bloody; prolonged carriage; antibiotic use may extend carriage
 - [[shigellosis]] — dysenteric; azithromycin first-line (ampicillin/trimethoprim-sulfamethoxazole [TMP-SMX] resistance common; *S. sonnei* azithromycin resistance emerging)
 - Enterohemorrhagic *E. coli* / STEC (O157:H7 and others) — bloody diarrhea; **do NOT treat with antibiotics** (risk of hemolytic uremic syndrome [HUS])
@@ -87,8 +87,8 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 #### Parasitic
 
-- [[giardiasis]] — most common intestinal parasite in the US; watery/malabsorptive; often persistent; lakes, streams, travel
-- [[cryptosporidiosis]] — watery diarrhea; immunosuppressed at highest risk; oocysts resist chlorine
+- [[giardiasis]] — the most common parasitic cause of traveler's diarrhea [[idsa-2017-infectious-diarrhea]]; persistent or chronic diarrhea; swimming in or drinking untreated fresh water, travel
+- [[cryptosporidiosis]] — watery diarrhea; immunosuppressed at highest risk; extremely chlorine-tolerant [[idsa-2017-infectious-diarrhea]]
 - [[entamoeba-histolytica-infection]] — amebic dysentery; bloody diarrhea; distinguish from non-pathogenic *E. dispar*
 - *Cyclospora cayetanensis* — persistent watery diarrhea; food-associated outbreaks (berries, fresh produce)
 - *Cystoisospora belli* — immunosuppressed hosts
@@ -330,7 +330,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 | Pathogen | Agent(s) |
 |---|---|
-| [[giardiasis\|*Giardia*]] | **Tinidazole** or **[[nitazoxanide]]** (first choice); **metronidazole** alternative [[idsa-2017-infectious-diarrhea]] |
+| [[giardiasis\|*Giardia*]] | **Tinidazole** or **[[nitazoxanide]]** (first choice); **metronidazole** alternative (not FDA-approved for giardiasis) [[idsa-2017-infectious-diarrhea]] |
 | [[entamoeba-histolytica-infection\|*Entamoeba histolytica*]] | **Metronidazole** or **tinidazole** [[acg-2016-acute-diarrhea]] |
 | [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective combination antiretroviral therapy (cART) [[idsa-2017-infectious-diarrhea]] |
 | *Cyclospora cayetanensis* | **TMP-SMX**; nitazoxanide alternative (limited data) [[idsa-2017-infectious-diarrhea]] |

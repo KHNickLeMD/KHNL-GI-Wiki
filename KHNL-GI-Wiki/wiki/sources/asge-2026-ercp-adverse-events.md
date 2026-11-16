@@ -5,6 +5,7 @@ tags: [ercp, adverse-events, post-ercp-pancreatitis, perforation, cholangitis, c
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 Adverse Events Associated with ERCP (Forbes).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [poem, achalasia, heller-myotomy, pneumatic-dilation, gerd, myotomy, motil
 created: 2026-06-10
 updated: 2026-10-08
 sources: []
+raw: "GI Guidelines/SAGES/SAGES 2021 POEM for Achalasia.pdf"
 ---
 
 > ⚠ **Superseded — read as a record of the 2021 document, not as current practice.** This is the original Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) peroral endoscopic myotomy (POEM) guideline. It is updated by [[sages-2024-poem|SAGES Guideline Update: POEM for Achalasia (2024)]]; where the two differ, the 2024 update governs. The 2021 document remains the only one of the pair that addresses pediatric patients and achalasia subtype III explicitly.

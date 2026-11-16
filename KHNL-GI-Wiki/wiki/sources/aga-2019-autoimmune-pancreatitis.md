@@ -5,6 +5,7 @@ tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas,
 created: 2026-09-04
 updated: 2026-11-02
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 Management of Autoimmune Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

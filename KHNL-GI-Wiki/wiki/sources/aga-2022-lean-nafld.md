@@ -5,6 +5,7 @@ tags: [nafld, masld, lean-nafld, nash, steatosis, fibrosis, fib-4, elf, vcte, mr
 created: 2026-09-15
 updated: 2026-09-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU NAFLD in Lean Individuals.pdf"
 ---
 
 ## Bibliographic Info

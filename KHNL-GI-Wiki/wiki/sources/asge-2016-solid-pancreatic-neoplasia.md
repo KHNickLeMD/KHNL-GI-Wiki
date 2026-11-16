@@ -5,6 +5,7 @@ tags: [pancreatic-cancer, pancreatic-neuroendocrine-tumor, eus, eus-fna, ercp, b
 created: 2026-06-30
 updated: 2026-10-22
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2016 Solid Pancreatic Neoplasia.pdf"
 ---
 
 ## Bibliographic Info

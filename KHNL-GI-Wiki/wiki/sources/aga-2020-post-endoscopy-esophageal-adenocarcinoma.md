@@ -5,6 +5,7 @@ tags: [barretts-esophagus, esophageal-adenocarcinoma, peec, quality-indicators, 
 created: 2026-09-20
 updated: 2026-09-20
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Post-Endoscopy Esophageal Adenocarcinoma.pdf"
 ---
 
 # AGA Clinical Practice Update on Reducing Rates of Post-Endoscopy Esophageal Adenocarcinoma: Commentary (2020)

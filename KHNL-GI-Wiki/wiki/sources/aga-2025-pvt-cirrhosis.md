@@ -5,6 +5,7 @@ tags: [cirrhosis, portal-vein-thrombosis, pvt, portal-hypertension, anticoagulat
 created: 2026-07-24
 updated: 2026-07-24
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Portal Vein Thrombosis in Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

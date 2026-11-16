@@ -5,6 +5,7 @@ tags: [brca1, brca2, colorectal-cancer, pancreatic-cancer, screening, hereditary
 created: 2026-09-27
 updated: 2026-09-27
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU BRCA1-2 CRC and Pancreatic Screening.pdf"
 ---
 
 ## Bibliographic Info

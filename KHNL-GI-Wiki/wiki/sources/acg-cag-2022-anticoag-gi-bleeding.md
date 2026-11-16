@@ -5,6 +5,7 @@ tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfar
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG CAG 2022 Management of Anticoagulants and Antiplatelets During Acute Gastrointestinal Bleeding and the Periendoscopic Period.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, treat-to-target, stride, ioibd, endoscop
 created: 2026-09-09
 updated: 2026-09-09
 sources: []
+raw: "GI Other Studies/STRIDE II Goals of IBD Therapy.pdf"
 ---
 
 ## Bibliographic Info

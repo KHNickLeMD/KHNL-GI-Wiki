@@ -5,6 +5,7 @@ tags: [ercp, duodenoscope, endoscope-reprocessing, infection-control, high-level
 created: 2026-10-01
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2016 CPU Infection via ERCP Endoscopes.pdf"
 ---
 
 ## Bibliographic Info

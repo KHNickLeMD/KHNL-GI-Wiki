@@ -5,6 +5,7 @@ tags: [colonic-stricture, colonic-stent, sems, lams, balloon-dilation, stricturo
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 Benign and Malignant Colonic Strictures (Machicado).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbi
 created: 2026-05-19
 updated: 2026-10-03
 sources: []
+raw: "GI Guidelines/ACG/ACG 2020 Small Intestinal Bacterial Overgrowth.pdf"
 ---
 
 ## Bibliographic Info

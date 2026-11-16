@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, endoscopic-scoring, mayo-endoscopic-scor
 created: 2026-07-23
 updated: 2026-07-23
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU IBD Endoscopic Scoring.pdf"
 ---
 
 # AGA 2024 Clinical Practice Update on Endoscopic Scoring Systems in Inflammatory Bowel Disease

@@ -5,6 +5,7 @@ tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, argon-plasma
 created: 2026-06-22
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2019 Endoscopy for Chronic Radiation Proctopathy.pdf"
 ---
 
 ## Bibliographic Info

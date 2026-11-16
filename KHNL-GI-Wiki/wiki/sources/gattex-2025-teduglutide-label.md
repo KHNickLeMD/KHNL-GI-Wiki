@@ -5,6 +5,7 @@ tags: [teduglutide, glp-2, short-bowel-syndrome, intestinal-failure, parenteral-
 created: 2026-10-25
 updated: 2026-10-25
 sources: []
+raw: "Drug Labels/Gattex Teduglutide Label.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, bilia
 created: 2026-08-25
 updated: 2026-08-25
 sources: []
+raw: "GI Guidelines/Other/Tokyo Guidelines 2018 Acute Cholangitis.pdf"
 ---
 
 # Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis

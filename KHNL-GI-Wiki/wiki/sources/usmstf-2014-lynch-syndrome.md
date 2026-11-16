@@ -5,6 +5,7 @@ tags: [lynch-syndrome, mmr, msi, hnpcc, hereditary-crc, endometrial-cancer, colo
 created: 2026-05-21
 updated: 2026-09-26
 sources: []
+raw: "GI Guidelines/ACG/ACG 2014 Genetic Evaluation & Management of Lynch Syndrome.pdf"
 ---
 
 ## Bibliographic Info

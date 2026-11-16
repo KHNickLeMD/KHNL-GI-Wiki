@@ -5,6 +5,7 @@ tags: [barretts-esophagus, colorectal-cancer-screening, colonoscopy-surveillance
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Surveillance in Older Adults Esophagus and Colorectum (Calderwood).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, elderly, older-adults, frailty, immunose
 created: 2026-09-27
 updated: 2026-09-27
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU IBD in Elderly.pdf"
 ---
 
 # AGA Clinical Practice Update on Management of Inflammatory Bowel Disease in Elderly Patients: Expert Review

@@ -5,6 +5,7 @@ tags: [anticoagulation, antiplatelets, periendoscopic, warfarin, noac, doac, bri
 created: 2026-07-01
 updated: 2026-10-23
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2016 Management of Antithrombotic Agents.pdf"
 ---
 
 ## Bibliographic Info

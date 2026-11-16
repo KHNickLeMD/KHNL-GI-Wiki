@@ -5,6 +5,7 @@ tags: [obesity, bariatric-surgery, metabolic-surgery, bmi, asmbs, ifso, indicati
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/ASMBS-IFSO 2022 Indications for Metabolic and Bariatric Surgery (Eisenberg).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [crohns-disease, ibd, ses-cd, mm-ses-cd, endoscopic-scoring, prognosis]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Narula 2022 MM-SES-CD Endoscopic Severity Crohns.pdf"
 ---
 
 ## Bibliographic Info

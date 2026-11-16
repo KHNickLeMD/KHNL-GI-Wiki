@@ -5,6 +5,7 @@ tags: [short-bowel-syndrome, intestinal-failure, parenteral-nutrition, tedugluti
 created: 2026-09-04
 updated: 2026-09-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Short Bowel Syndrome.pdf"
 ---
 
 # AGA 2022 Clinical Practice Update on Management of Short Bowel Syndrome: Expert Review

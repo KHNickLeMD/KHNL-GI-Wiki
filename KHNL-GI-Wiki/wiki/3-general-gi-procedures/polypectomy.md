@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-11-12
+updated: 2026-11-16
 sources: [weo-2024-large-colorectal-lst-consensus, asge-acg-2024-colonoscopy-quality-indicators, usmstf-2026-serrated-polyposis-syndrome, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery, aga-2021-colonoscopy-quality]
 ---
 
@@ -217,6 +217,7 @@ flowchart TD
 - **Prophylactic mechanical ligation** (detachable loop or clips) for:
   - Head ≥20mm OR stalk ≥5mm
   - Reduces immediate and delayed [[endoscopic-hemostasis|post-polypectomy bleeding]]
+  - ⚠ Sources differ on epinephrine: [[usmstf-2020-endoscopic-removal|USMSTF 2020]] / [[asge-2020-endoscopic-removal|ASGE 2020]] (strong, moderate) specify **mechanical ligation**, which may reduce bleeding compared with epinephrine injection alone; the newer [[aga-2024-tailored-polypectomy|AGA 2024]] also accepts **epinephrine injection into the stalk** as prophylaxis for the same lesions (detail: [[epinephrine]])
 - Retrieve large specimens en bloc (don't divide head for retrieval)
 
 ### Difficult Locations

@@ -5,6 +5,7 @@ tags: [portal-hypertension, varices, cirrhosis, NSBB, carvedilol, variceal-bleed
 created: 2026-05-28
 updated: 2026-08-27
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2023 Portal Hypertension Varices Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

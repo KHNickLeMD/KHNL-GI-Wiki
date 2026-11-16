@@ -5,6 +5,7 @@ tags: [pancreatitis, pancreatic-necrosis, walled-off-necrosis, necrosectomy, lam
 created: 2026-08-25
 updated: 2026-08-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Pancreatic Necrosis.pdf"
 ---
 
 # AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)

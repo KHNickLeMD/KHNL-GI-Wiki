@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on the Diagnosis and Management of Extraeso
 category: source
 tags: [gerd, extraesophageal-reflux, lpr, chronic-cough, asthma, laryngitis, ppi, reflux-testing, ph-impedance]
 created: 2026-07-23
-updated: 2026-11-04
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Extraesophageal GERD.pdf"
 ---
 
 ## Bibliographic Info
@@ -65,6 +66,7 @@ Key management shifts: consider objective reflux testing **before** starting emp
 - **Empiric PPI trial performs poorly as a diagnostic test:** meta-analysis gives sensitivity **71%–78%** and specificity **41%–54%** in patients with *classic* reflux symptoms; performance in EER is expected to be substantially lower.
 - **Lifestyle measures** supported for EER: avoidance of refluxogenic foods, food avoidance for at least **2–3 hours before recumbency**, head-of-bed elevation, left lateral decubitus sleep position, and weight loss.
 - **External upper esophageal sphincter (UES) compression device** applies **20–30 mmHg of cricoid pressure**; symptom improvement rose from 31% (4-week PPI alone) to 55% when the device was added. Not currently widely available.
+- **Gamma-aminobutyric acid type B agonists:** gabapentin or [[baclofen]] reduced capsaicin cough sensitivity and reflux symptoms in suspected reflux-related chronic cough (one RCT), and lesogaberan possibly reduced cough hypersensitivity without reducing total coughs; because of its challenging side-effect profile, **baclofen is not routinely recommended as primary or adjunctive therapy for EER symptoms**.
 - Antireflux surgery for EER: existing data are of generally low quality with **no randomized controlled trials** versus medical therapy. In patients unresponsive to acid suppression, heartburn plus a **high acid-reflux burden (acid exposure time >12%)** may predict response to surgery.
 - Excluding GERD lowers the probability that symptoms are reflux-caused; objectively supporting GERD keeps reflux as a possible causal factor but does not prove causation.
 

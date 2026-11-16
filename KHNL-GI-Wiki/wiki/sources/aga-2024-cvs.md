@@ -5,6 +5,7 @@ tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, neuromodulators]
 created: 2026-07-21
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Cyclic Vomiting Syndrome.pdf"
 ---
 
 ## Bibliographic Info

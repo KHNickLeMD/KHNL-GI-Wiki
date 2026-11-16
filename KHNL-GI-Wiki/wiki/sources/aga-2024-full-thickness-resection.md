@@ -5,6 +5,7 @@ tags: [subepithelial-lesion, eftr, ster, poet, ftrd, gist, neuroendocrine-tumor,
 created: 2026-07-23
 updated: 2026-07-23
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Full-Thickness Resection of Subepithelial Lesions.pdf"
 ---
 
 # AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions

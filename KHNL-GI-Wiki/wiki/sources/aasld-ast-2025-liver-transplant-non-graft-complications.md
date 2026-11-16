@@ -5,6 +5,7 @@ tags: [liver-transplant, post-transplant, bone-health, vaccination, cmv, ptld, c
 created: 2026-05-25
 updated: 2026-09-27
 sources: []
+raw: "GI Guidelines/AASLD/AASLD AST 2025 Liver Transplant Non-Graft Complications.pdf"
 ---
 
 ## Bibliographic Info

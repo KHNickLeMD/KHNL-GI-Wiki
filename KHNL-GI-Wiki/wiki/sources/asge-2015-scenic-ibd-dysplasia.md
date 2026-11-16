@@ -5,6 +5,7 @@ tags: [ibd, ulcerative-colitis, crohns, dysplasia, colorectal-cancer, surveillan
 created: 2026-06-22
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 SCENIC Dysplasia Surveillance in IBD.pdf"
 ---
 
 ## Bibliographic Info

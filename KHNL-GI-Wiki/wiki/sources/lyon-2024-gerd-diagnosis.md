@@ -5,6 +5,7 @@ tags: [gerd, reflux, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/Other/Lyon Consensus 2024 2.0 Diagnosis of GERD.pdf"
 ---
 
 ## Bibliographic Info

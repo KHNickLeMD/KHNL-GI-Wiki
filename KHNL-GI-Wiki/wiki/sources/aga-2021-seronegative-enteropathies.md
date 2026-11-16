@@ -5,6 +5,7 @@ tags: [celiac, seronegative-enteropathy, villous-atrophy, small-bowel, malabsorp
 created: 2026-09-11
 updated: 2026-09-11
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Seronegative Enteropathies.pdf"
 ---
 
 ## Bibliographic Info

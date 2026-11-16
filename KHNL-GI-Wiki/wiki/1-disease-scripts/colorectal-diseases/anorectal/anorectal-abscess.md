@@ -3,9 +3,10 @@ title: "Anorectal Abscess"
 category: disease-script
 tags: [anorectal, abscess, cryptoglandular, incision-and-drainage, fistula, perianal]
 created: 2026-11-13
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [ascrs-2022-anorectal-abscess-fistula]
 quality_reviewed: 2026-11-14
+verified: 2026-11-16
 ---
 
 Acute pyogenic collection in one of the anorectal spaces. The generally accepted cause is **obstruction of an anal gland** — the cryptoglandular theory; the same process, once the drainage tract becomes chronically infected and epithelialized, produces [[anal-fistula|fistula-in-ano]] ([[ascrs-2022-anorectal-abscess-fistula|American Society of Colon and Rectal Surgeons (ASCRS) 2022]]). **Treatment is prompt incision and drainage; antibiotics are an adjunct reserved for selected patients.**
@@ -34,14 +35,14 @@ Acute pyogenic collection in one of the anorectal spaces. The generally accepted
 ### Establishing the Diagnosis
 
 - **Diagnosis is clinical** — history and physical examination, evaluating symptoms, relevant history, abscess and fistula location, and the presence of secondary cellulitis (ASCRS rec 1, *strong recommendation, low-quality evidence, 1C*).
-- **Superficial abscess:** anorectal pain and swelling are common.
-- **Deeper abscess** (supralevator, high ischiorectal): spontaneous drainage and fever occur **less often**; pain may be **referred to the perineum, lower back, or buttocks**. Examination may be **relatively unrevealing** — particularly with intersphincteric or deeper abscesses.
+- **Superficial abscess:** anorectal pain and swelling are common; spontaneous drainage and fever occur **less often**.
+- **Deeper abscess** (supralevator, high ischiorectal): pain may be **referred to the perineum, lower back, or buttocks**. Examination may be **relatively unrevealing** — particularly with intersphincteric or deeper abscesses.
 - History should include baseline anal sphincter function, prior anorectal operations, family history of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], obstetric history, and associated gastrointestinal, genitourinary or gynecologic pathology.
 - Inspection of the perineum notes abscess findings, surgical scars, anorectal deformities, signs of possible anorectal [[crohns-disease|Crohn's disease]], and any external fistula opening.
 - **More common in males;** peak incidence **20–40 years**.
 
 > [!pitfall] A normal-looking perineum does not exclude an abscess
-> When pain is out of proportion to the external findings, go on to digital rectal examination and anoscopy/proctoscopy, and — if the diagnosis is still unresolved — imaging for an occult abscess or examination under anesthesia (EUA) ([[ascrs-2022-anorectal-abscess-fistula]] recs 1–2).
+> The examination may be relatively unrevealing, particularly with intersphincteric or deeper abscesses: digital rectal examination and anoscopy/proctoscopy are occasionally needed to clarify the diagnosis, and imaging may be considered for an occult abscess ([[ascrs-2022-anorectal-abscess-fistula]] recs 1–2).
 
 ### Classification by Anatomic Space
 
@@ -81,7 +82,7 @@ Location **generally** determines whether drainage should be internal or externa
 | Endoanal ultrasound (EAUS) | Concordance with operative findings **73–100%** | May be performed in 2 or 3 dimensions, with or without peroxide enhancement |
 | Transperineal ultrasound (TPUS) | Diagnostic accuracy nearly identical to EAUS and MRI in 23 patients with Crohn's disease | First-line candidate on availability, low cost, noninvasiveness — but **operator-dependent**, and has not gained widespread popularity |
 
-- **EUA** both diagnoses and treats: in a 2001 blinded study of 34 patients with anorectal Crohn's disease, EUA was accurate in 91% of patients (EAUS 91%, MRI 87%), and combining **any 2** techniques gave **100%** accuracy.
+- **Examination under anesthesia (EUA):** in a 2001 blinded study of 34 patients with anorectal Crohn's disease, EUA was accurate in 91% of patients (EAUS 91%, MRI 87%), and combining **any 2** techniques gave **100%** accuracy.
 - **Routine culture of abscesses is not clinically useful** and does not affect management or outcomes. Culture **should be considered** in cases of **recurrent infection or nonhealing wounds**, and in patients with underlying human immunodeficiency virus (HIV) infection, in whom concomitant or atypical infections including tuberculosis may benefit from wound culture and targeted antibiotic treatment.
 
 ---
@@ -106,7 +107,7 @@ Location **generally** determines whether drainage should be internal or externa
 
 | Abscess | Drainage route | Rationale |
 |---|---|---|
-| **Intersphincteric** | **Internal** — through the intersphincteric groove or into the anal canal via an internal sphincterotomy | Avoids creating an external tract |
+| **Intersphincteric** | **Internal** — through the intersphincteric groove or into the anal canal via an internal sphincterotomy | May help prevent complex fistula formation |
 | **Supralevator arising from cephalad extension of an intersphincteric abscess** | **Internal** — incise the rectal wall | Prevents fistula formation |
 | **Supralevator arising from cephalad extension of an ischiorectal abscess** | **External** — through the perianal skin | Prevents fistula formation |
 | **Horseshoe (crossing the midline)** | Deep postanal space drainage with **counter incisions** to the ischiorectal spaces (Hanley procedure); or **modified Hanley** using a posterior midline partial sphincterotomy to unroof the postanal space **plus seton placement** | These most often involve the deep postanal space and extend laterally into the ischiorectal spaces |

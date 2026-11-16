@@ -5,6 +5,7 @@ tags: [eosinophilic-esophagitis, severity-index, i-see, esophagus, endoscopy, hi
 created: 2026-10-19
 updated: 2026-10-19
 sources: []
+raw: "GI Guidelines/Other/I-SEE 2022 EoE Clinical Severity Index Consensus (Dellon).pdf"
 ---
 
 ## Bibliographic Info

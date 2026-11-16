@@ -5,6 +5,7 @@ tags: [hepatic-encephalopathy, cirrhosis, nutrition, malnutrition, protein, bcaa
 created: 2026-11-12
 updated: 2026-11-12
 sources: []
+raw: "GI Guidelines/Other/ISHEN 2013 Nutritional Management of Hepatic Encephalopathy in Cirrhosis (Amodio).pdf"
 ---
 
 ## Bibliographic Info

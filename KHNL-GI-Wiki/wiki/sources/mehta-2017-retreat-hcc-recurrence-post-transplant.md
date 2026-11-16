@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, liver-transplantation, retreat, recurrence
 created: 2026-10-21
 updated: 2026-10-21
 sources: []
+raw: "GI Other Studies/Mehta 2017 RETREAT Score HCC Recurrence After Liver Transplant.pdf"
 ---
 
 ## Bibliographic Info

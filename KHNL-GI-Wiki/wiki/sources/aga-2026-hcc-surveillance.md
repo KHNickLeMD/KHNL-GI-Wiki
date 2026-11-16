@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, surveillance, biomarker, cirrhosis, hepati
 created: 2026-06-27
 updated: 2026-10-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU HCC Risk Stratification and Surveillance.pdf"
 ---
 
 ## Bibliographic Info

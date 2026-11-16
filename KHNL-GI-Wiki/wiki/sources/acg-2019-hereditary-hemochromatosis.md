@@ -5,6 +5,7 @@ tags: [hemochromatosis, iron-overload, hfe, phlebotomy, liver, hpb, genetics, fe
 created: 2026-05-19
 updated: 2026-09-30
 sources: []
+raw: "GI Guidelines/ACG/ACG 2019 Hereditary Hemochromatosis.pdf"
 ---
 
 ## Bibliographic Info

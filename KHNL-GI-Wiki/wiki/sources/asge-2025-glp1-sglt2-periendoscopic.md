@@ -5,6 +5,7 @@ tags: [glp-1, sglt2, endoscopy, sedation, aspiration, gastric-emptying, euglycem
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2025 Periendoscopic Management of GLP-1 RA and SGLT2i (Sharaiha).pdf"
 ---
 
 ## Bibliographic Info

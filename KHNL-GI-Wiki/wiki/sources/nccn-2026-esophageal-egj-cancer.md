@@ -5,6 +5,7 @@ tags: [esophageal-cancer, esophageal-adenocarcinoma, squamous-cell-carcinoma, eg
 created: 2026-06-18
 updated: 2026-10-11
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 Esophageal and EGJ Cancer.pdf"
 ---
 
 ## Contents

@@ -5,6 +5,7 @@ tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, surveillanc
 created: 2026-05-16
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 Management of Gastric Intestinal Metaplasia.pdf"
 ---
 
 ## Contents

@@ -60,7 +60,7 @@ Small intestinal bacterial overgrowth (SIBO) is a clinical syndrome of gastroint
 | Systemic sclerosis/scleroderma (see [[esophageal-dysfunction-systemic-disease\|GI involvement in systemic disease]]) | Surgically-induced alterations in anatomy (Billroth II gastrectomy, [[bariatric-surgery\|bariatric surgery]], end-to-side anastomosis) | Long-term acid suppression ([[proton-pump-inhibitors\|proton pump inhibitors (PPIs)]]) | Acquired immune deficiency (eg, acquired immunodeficiency syndrome [AIDS], severe malnutrition) | [[celiac-disease\|Celiac disease]] | Interstitial cystitis |
 | Amyloidosis | Strictures ([[crohns-disease\|Crohn's disease]], radiation, surgery) | | | Diabetes mellitus | Restless legs syndrome |
 | Hypothyroidism | Blind loops | | | Tropical sprue | Parkinson's disease |
-| Idiopathic intestinal pseudo-obstruction (see [[acute-colonic-pseudo-obstruction]]) | Gastrocolic or jejunocolic fistula | | | Crohn's disease | [[gerd\|Erosive esophagitis]] |
+| Idiopathic intestinal pseudo-obstruction | Gastrocolic or jejunocolic fistula | | | Crohn's disease | [[gerd\|Erosive esophagitis]] |
 | Acromegaly | Ileocecal valve resection | | | Cystic fibrosis | Severe [[obesity\|obesity]] |
 | [[gastroparesis\|Gastroparesis]] | | | | Intestinal failure (see [[short-bowel-syndrome]]) | [[irritable-bowel-syndrome\|Irritable bowel syndrome]] |
 | Myotonic muscular dystrophy | | | | Radiation enteropathy | |

@@ -5,6 +5,7 @@ tags: [biliary-stricture, ercp, eus, eus-bd, biliary-stent, fcsems, usems, plast
 created: 2026-11-15
 updated: 2026-11-15
 sources: []
+raw: "GI Guidelines/Other/ESGE 2026 Biliary Stricture Management (Lemmers).pdf"
 ---
 
 ## Bibliographic Info

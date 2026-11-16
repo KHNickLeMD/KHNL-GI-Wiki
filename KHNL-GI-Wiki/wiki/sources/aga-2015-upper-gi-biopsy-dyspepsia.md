@@ -5,6 +5,7 @@ tags: [dyspepsia, egd, biopsy, helicobacter-pylori, celiac-disease, gvhd, sydney
 created: 2026-09-27
 updated: 2026-09-27
 sources: []
+raw: "GI Guidelines/AGA/AGA 2015 Upper GI Biopsy in Dyspepsia.pdf"
 ---
 
 ## Bibliographic Info

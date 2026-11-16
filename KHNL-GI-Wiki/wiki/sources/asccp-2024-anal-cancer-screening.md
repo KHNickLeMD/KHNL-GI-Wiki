@@ -5,6 +5,7 @@ tags: [anal-cancer, anal-hsil, hpv, screening, hra, dare, anoscopy, hiv, anorect
 created: 2026-09-03
 updated: 2026-09-03
 sources: []
+raw: "GI Guidelines/Other/ASCCP 2024 Practice Advisory Anal Cancer Screening.pdf"
 ---
 
 ## Bibliographic Info

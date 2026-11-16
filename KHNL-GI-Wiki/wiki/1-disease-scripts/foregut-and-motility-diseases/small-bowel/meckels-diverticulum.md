@@ -3,9 +3,10 @@ title: "Meckel's Diverticulum"
 category: disease-script
 tags: [meckels-diverticulum, small-bowel, gi-bleeding, ectopic-gastric-mucosa, pediatric]
 created: 2026-05-19
-updated: 2026-11-12
+updated: 2026-11-16
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2026-lgib]
 quality_reviewed: 2026-11-12
+verified: 2026-11-16
 ---
 
 A small-bowel diverticulum that bleeds from **diverticulum-associated ulceration** ([[asge-2017-small-bowel-bleeding|American Society for Gastrointestinal Endoscopy (ASGE) 2017]]). **Ectopic (heterotopic) gastric mucosa** — present in **10–60%** of Meckel's diverticula — is the tissue the diagnostic scan detects ([[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]]). A **rare** cause of [[small-bowel-bleeding]] overall, but disproportionately represented in patients **under 40 years**.
@@ -56,7 +57,7 @@ Age skews the list: patients **under 40 years** are more likely to have [[inflam
 | ACG 2015, Rec 22 | Younger patient **and** ongoing overt bleeding **and** normal [[capsule-endoscopy\|video capsule endoscopy (VCE)]] **and** normal enterography — all four together | Conditional recommendation, very low quality of evidence |
 | ASGE 2017 | Younger patient in whom bleeding **recurs** after negative upper and lower endoscopy, VCE and [[device-assisted-enteroscopy\|device-assisted enteroscopy]]; named a useful test in pediatric patients and young adults with overt bleeding | Ungraded body text (not one of its numbered recommendations) |
 
-Neither document defines "younger"; the age band both use for the etiology split is **under 40 years**.
+Neither document defines "younger"; ACG 2015 splits the etiologies at **40 years**, and ASGE 2017 gives no age cut-off.
 
 **Diagnostic performance:**
 

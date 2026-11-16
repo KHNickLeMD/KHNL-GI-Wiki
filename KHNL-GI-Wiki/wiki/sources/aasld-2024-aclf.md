@@ -5,6 +5,7 @@ tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, ICU, critical-illness, o
 created: 2026-05-28
 updated: 2026-09-20
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2024 Acute-on-Chronic Liver Failure.pdf"
 ---
 
 ## Bibliographic Info

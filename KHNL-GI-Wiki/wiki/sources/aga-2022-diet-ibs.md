@@ -5,6 +5,7 @@ tags: [ibs, diet, fodmap, low-fodmap, fiber, gluten-free, dietitian, eating-diso
 created: 2026-09-09
 updated: 2026-09-09
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Role of Diet in IBS.pdf"
 ---
 
 ## Bibliographic Info

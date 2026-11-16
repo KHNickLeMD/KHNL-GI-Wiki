@@ -5,6 +5,7 @@ tags: [gastric-polyps, gastric-intestinal-metaplasia, atrophic-gastritis, pernic
 created: 2026-06-30
 updated: 2026-10-22
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Premalignant and Malignant Conditions of the Stomach.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [manometry, hrm, esophageal-motility, chicago-classification, achalasia, d
 created: 2026-05-16
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Esophageal Motility Disorders.pdf"
 ---
 
 ## Bibliographic Info

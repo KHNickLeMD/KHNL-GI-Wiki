@@ -5,6 +5,7 @@ tags: [anal-fissure, anorectal, sphincterotomy, lis, botulinum-toxin, diltiazem,
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/ASCRS 2023 Management of Anal Fissures (Davids).pdf"
 ---
 
 ## Bibliographic Info

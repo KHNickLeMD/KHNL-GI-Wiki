@@ -5,6 +5,7 @@ tags: [remimazolam, sedation, endoscopy-sedation, benzodiazepine, propofol, mida
 created: 2026-11-04
 updated: 2026-11-04
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 CPU Remimazolam in GI Endoscopy (Ramai).pdf"
 ---
 
 ## Bibliographic Info

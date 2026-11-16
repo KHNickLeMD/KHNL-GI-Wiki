@@ -5,6 +5,7 @@ tags: [colonoscopy, bowel-prep, split-dose, peg, simethicone, preparation-qualit
 created: 2026-05-07
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Bowel Prep Quality.pdf"
 ---
 
 ## Contents

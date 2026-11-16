@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-achalasia]
 quality_reviewed: 2026-11-14
 ---
@@ -40,7 +40,7 @@ Peroral endoscopic myotomy (POEM): endoscopic myotomy of the lower esophageal sp
 | Indication | Role of POEM |
 |---|---|
 | Achalasia type I & II, adults | POEM with appropriate [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]] use **or** LHM with fundoplication, by surgeon–patient shared decision making ([[sages-2024-poem\|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024]] — conditional, low certainty). AGA 2024 BPA 2: POEM, LHM and PD are all effective; choose by shared decision making, patient/disease characteristics, preferences, local expertise |
-| Achalasia type III (spastic) | **Preferred treatment** — POEM allows tailored, unlimited proximal myotomy to cover the spastic segment (AGA 2024 BPA 2; SAGES 2024 favors POEM over LHM as **expert opinion** — no evidence-based recommendation was possible) |
+| Achalasia type III (spastic) | **Preferred treatment** — POEM allows tailored, unlimited proximal myotomy to cover the spastic segment (AGA 2024 BPA 2; SAGES 2024 suggests POEM over LHM as **expert opinion**, based on expert consensus) |
 | Achalasia — POEM vs PD | POEM over PD (SAGES 2024 — conditional, moderate certainty). PD may still be the better choice after **repeated treatment failure**, and in **elderly or frail** patients or those unable to tolerate a prolonged procedure and general anesthesia |
 | Achalasia in **children** | No new pediatric comparative data since 2021, so the 2021 statements stand — types I/II: **either POEM or LHM** (conditional, very low certainty); type III: **POEM favored** over LHM (expert opinion) ([[sages-2021-poem\|SAGES 2021]]) |
 | [[esophagogastric-junction-outflow-obstruction\|EGJ outflow obstruction (EGJOO)]] alone | Case-by-case only, after less invasive options exhausted (AGA 2024 BPA 3) |
@@ -49,7 +49,7 @@ Peroral endoscopic myotomy (POEM): endoscopic myotomy of the lower esophageal sp
 - POEM is **superior to PD and noninferior to LHM** in separate multicenter randomized controlled trials (RCTs) (AGA 2024).
 - **What changed in 2024:** SAGES 2021 graded POEM over PD a **strong** recommendation; the 2024 update **downgraded it to conditional** at the same moderate certainty, and reframed the surgical question as *POEM + appropriate PPI use* vs *LHM + fundoplication* rather than POEM vs LHM alone. SAGES 2021 also allowed either POEM or PD, by joint decision making, for the subgroup **particularly concerned about continued postoperative PPI use** (conditional, very low certainty).
 - EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], [[hiatal-hernia|hiatal hernia]], [[gerd|gastroesophageal reflux disease (GERD)]], external compression, [[subepithelial-lesion|submucosal mass]], opiates, artifact) and confirm symptomatic delayed emptying before intervention.
-- POEM and LHM are complex procedures — SAGES 2024 advises performing them at **high-volume centers**, with preprocedure HRM and barium studies available; without them patients receive the wrong intervention (fundoplication for presumed GERD, repeated dilation or botulinum toxin).
+- POEM and LHM are complex procedures — SAGES 2024 advises performing them at **high-volume centers**, with preprocedure HRM and upper gastrointestinal series available; without them patients may receive the wrong intervention (Nissen fundoplication for suspected GERD, or multiple dilations and botulinum toxin, especially if manometry is not done).
 
 ## Care Pathway
 

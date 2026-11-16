@@ -5,6 +5,7 @@ tags: [crohns-disease, ulcerative-colitis, ibd, anti-tnf, adalimumab, biologic, 
 created: 2026-11-02
 updated: 2026-11-02
 sources: []
+raw: "Drug Labels/Humira Adalimumab Label.pdf"
 ---
 
 ## Bibliographic Info

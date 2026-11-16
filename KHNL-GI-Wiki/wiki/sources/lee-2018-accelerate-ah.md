@@ -5,6 +5,7 @@ tags: [alcohol-associated-hepatitis, liver-transplantation, alcohol-use-disorder
 created: 2026-08-26
 updated: 2026-08-26
 sources: []
+raw: "GI Other Studies/ACCELERATE-AH Study.pdf"
 ---
 
 ## Bibliographic Info

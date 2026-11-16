@@ -5,6 +5,7 @@ tags: [diarrhea, chronic-diarrhea, acute-diarrhea, endoscopy, colonoscopy, sigmo
 created: 2026-06-23
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Diarrhea.pdf"
 ---
 
 ## Bibliographic Info

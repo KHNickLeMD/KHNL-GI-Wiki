@@ -5,6 +5,7 @@ tags: [psychogastroenterology, brain-gut-psychotherapy, cognitive-behavior-thera
 created: 2026-09-29
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Psychogastroenterology.pdf"
 ---
 
 # Best Practice Update: Incorporating Psychogastroenterology Into Management of Digestive Disorders

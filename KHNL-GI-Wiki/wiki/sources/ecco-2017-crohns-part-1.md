@@ -5,6 +5,7 @@ tags: [crohns, ibd, corticosteroids, anti-tnf, thiopurines, vedolizumab, montrea
 created: 2026-11-13
 updated: 2026-11-13
 sources: []
+raw: "GI Guidelines/Other/ECCO 2017 3rd Crohn's Disease Consensus Part 1 Diagnosis and Medical Management incl Steroid Definitions (Gomollon).pdf"
 ---
 
 ## Bibliographic Info

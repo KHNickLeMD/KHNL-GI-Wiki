@@ -5,6 +5,7 @@ tags: [ppi, deprescribing, gerd, gastroprotection, rebound-acid-hypersecretion, 
 created: 2026-09-04
 updated: 2026-09-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU De-Prescribing PPIs.pdf"
 ---
 
 ## Bibliographic Info

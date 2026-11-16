@@ -5,6 +5,7 @@ tags: [ulcerative-colitis, biomarkers, fecal-calprotectin, fecal-lactoferrin, cr
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 Biomarkers in UC.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Biomarkers for Management of Ulcerative Colitis (2023)

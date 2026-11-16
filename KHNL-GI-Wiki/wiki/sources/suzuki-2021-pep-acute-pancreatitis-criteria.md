@@ -5,6 +5,7 @@ tags: [ercp, post-ercp-pancreatitis, pep, cotton-criteria, diagnostic-criteria, 
 created: 2026-09-18
 updated: 2026-09-23
 sources: [asge-2023-post-ercp-pancreatitis, azuma-2026-cryoprevention-pep]
+raw: "GI Guidelines/Other/Cotton Consensus.pdf"
 ---
 
 # Post-ERCP Pancreatitis Assessed Using Criteria for Acute Pancreatitis (Suzuki 2021)

@@ -5,6 +5,7 @@ tags: [egjoo, esophageal-motility, hrm, chicago-classification, dysphagia, foreg
 created: 2026-11-13
 updated: 2026-11-13
 sources: []
+raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Technical Review EGJ Outflow Obstruction (Bredenoord).pdf"
 ---
 
 ## Bibliographic Info

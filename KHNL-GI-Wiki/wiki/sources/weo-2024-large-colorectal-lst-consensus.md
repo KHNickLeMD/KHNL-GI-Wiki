@@ -5,6 +5,7 @@ tags: [colorectal, polypectomy, emr, esd, lst, jnet, kudo, paris, en-bloc, piece
 created: 2026-11-11
 updated: 2026-11-11
 sources: []
+raw: "GI Guidelines/Other/WEO 2024 Large Colorectal LST Consensus (Djinbachian).pdf"
 ---
 
 ## Bibliographic Info

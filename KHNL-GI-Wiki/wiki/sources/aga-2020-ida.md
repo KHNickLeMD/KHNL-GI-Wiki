@@ -5,6 +5,7 @@ tags: [iron-deficiency-anemia, ferritin, bidirectional-endoscopy, gi-bleeding, h
 created: 2026-06-04
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 GI Evaluation of IDA.pdf"
 ---
 
 # AGA Clinical Practice Guideline: GI Evaluation of Iron-Deficiency Anemia (2020)

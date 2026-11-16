@@ -5,6 +5,7 @@ tags: [masld, nafld, mash, nash, metald, sld, nomenclature, cmrf, steatosis, hpb
 created: 2026-05-31
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2023 MASLD Nomenclature Impact.pdf"
 ---
 
 ## Bibliographic Info

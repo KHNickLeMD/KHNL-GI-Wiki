@@ -5,6 +5,7 @@ tags: [acute-pancreatitis, atlanta-classification, severity, organ-failure, modi
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/Banks 2013 Revised Atlanta Classification Acute Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

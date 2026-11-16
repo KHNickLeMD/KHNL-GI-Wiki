@@ -5,6 +5,7 @@ tags: [intragastric-balloon, obesity, endoscopic-bariatric-therapy, bariatric-en
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/Brazilian Intragastric Balloon Consensus 2018 (Neto).pdf"
 ---
 
 ## Bibliographic Info

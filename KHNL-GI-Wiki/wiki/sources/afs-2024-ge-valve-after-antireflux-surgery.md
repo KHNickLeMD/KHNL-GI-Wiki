@@ -5,6 +5,7 @@ tags: [gerd, antireflux-surgery, fundoplication, ctif, magnetic-sphincter-augmen
 created: 2026-09-05
 updated: 2026-10-31
 sources: []
+raw: "GI Guidelines/AFS/AFS 2024 Endoscopic Assessment of the GE Valve After Anti-Reflux Surgery.pdf"
 ---
 
 ## Bibliographic Info

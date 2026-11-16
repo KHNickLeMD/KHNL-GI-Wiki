@@ -5,6 +5,7 @@ tags: [portal-vein-thrombosis, budd-chiari, vascular-liver, anticoagulation, sos
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2021 Vascular Disorders Portal Vein Thrombosis.pdf"
 ---
 
 # AASLD Practice Guidance: Vascular Liver Disorders & Portal Vein Thrombosis (2021)

@@ -5,6 +5,7 @@ tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnogr
 created: 2026-06-27
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2018 Anesthesia and Sedation in Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

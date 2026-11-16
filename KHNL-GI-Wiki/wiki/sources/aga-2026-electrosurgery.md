@@ -5,6 +5,7 @@ tags: [electrosurgery, electrocautery, esu, therapeutic-endoscopy, polypectomy, 
 created: 2026-09-03
 updated: 2026-09-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Electrosurgery in Therapeutic Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

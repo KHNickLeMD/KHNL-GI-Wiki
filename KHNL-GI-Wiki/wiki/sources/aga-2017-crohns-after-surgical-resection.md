@@ -5,6 +5,7 @@ tags: [crohns, ibd, postoperative, recurrence, surgery, prophylaxis, anti-tnf, t
 created: 2026-09-25
 updated: 2026-09-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 Crohn's After Surgical Resection.pdf"
 ---
 
 ## Bibliographic Info

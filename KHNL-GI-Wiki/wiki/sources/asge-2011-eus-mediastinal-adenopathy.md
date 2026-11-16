@@ -5,6 +5,7 @@ tags: [eus, ebus, mediastinal-adenopathy, lung-cancer, staging, lymphoma, fna, a
 created: 2026-07-01
 updated: 2026-10-23
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2011 EUS for Mediastinal Adenopathy.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, stricture, endoscopic-balloon-dilation, 
 created: 2026-06-27
 updated: 2026-10-18
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Therapeutic Endoscopy in IBD.pdf"
 ---
 
 ## Bibliographic Info

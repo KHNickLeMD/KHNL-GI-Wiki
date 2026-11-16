@@ -5,6 +5,7 @@ tags: [colonoscopy, artificial-intelligence, cade, cadx, adenoma-detection, colo
 created: 2026-07-30
 updated: 2026-07-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU AI in Colon Polyp Diagnosis & Management.pdf"
 ---
 
 # AGA CPU on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management (2023)

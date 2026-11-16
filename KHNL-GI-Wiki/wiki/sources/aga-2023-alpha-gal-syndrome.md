@@ -5,6 +5,7 @@ tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite,
 created: 2026-07-20
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Alpha-Gal Syndrome.pdf"
 ---
 
 ## Bibliographic Info

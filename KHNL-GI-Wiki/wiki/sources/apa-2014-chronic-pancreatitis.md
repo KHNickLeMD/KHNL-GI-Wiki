@@ -5,6 +5,7 @@ tags: [chronic-pancreatitis, diagnosis, eus, rosemont, cambridge, pancreatic-fun
 created: 2026-07-26
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/APA/APA 2014 Chronic Pancreatitis.pdf"
 ---
 
 # APA Practice Guidelines in Chronic Pancreatitis: Evidence-Based Report on Diagnostic Guidelines (2014)

@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, nafld, masld, nash, surveillance, screenin
 created: 2026-09-14
 updated: 2026-09-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU HCC Screening in NAFLD.pdf"
 ---
 
 ## Bibliographic Info

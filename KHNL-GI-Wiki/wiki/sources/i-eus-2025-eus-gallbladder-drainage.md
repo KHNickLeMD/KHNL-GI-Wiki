@@ -5,6 +5,7 @@ tags: [eus-gbd, gallbladder-drainage, acute-cholecystitis, lams, interventional-
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/Other/i-EUS 2025 EUS-Guided Gallbladder Drainage Consensus (Facciorusso).pdf"
 ---
 
 ## Bibliographic Info

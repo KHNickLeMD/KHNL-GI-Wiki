@@ -3,7 +3,7 @@ title: "Pneumatic Dilation"
 category: advanced-procedure
 tags: [achalasia, pneumatic-dilation, rigiflex, esophageal-motility, les, perforation, foregut]
 created: 2026-08-30
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem, aga-2024-poem-advances, acg-cag-2022-anticoag-gi-bleeding]
 quality_reviewed: 2026-11-14
 ---
@@ -34,8 +34,11 @@ Which of the definitive achalasia therapies a given patient should get — PD, [
 |---|---|---|
 | Any candidate for definitive therapy | PD and LHM are "both effective and equivalent short- and long-term procedures" ([[acg-2020-achalasia]]) | Strong; High |
 | Types I and II | POEM and PD give comparable symptomatic improvement ([[acg-2020-achalasia]]) | Conditional; Low |
-| Types I and II | LHM and PD are comparable options; choose by shared decision-making ([[asge-2020-achalasia]]) | "We recommend" (strong) |
+| Any achalasia | LHM, PD and POEM are effective; choose by achalasia type, local expertise and patient preference ([[asge-2020-achalasia]] Rec 1) | Statement; High quality |
+| Types I and II | LHM and PD are comparable options; choose by shared decision-making ([[asge-2020-achalasia]] Rec 7) | "We recommend"; Moderate quality |
 | Type III | Tailored POEM or LHM **over PD** — more efficacious disruptive therapy at the LES ([[acg-2020-achalasia]]) | Strong; Moderate |
+| Type III | POEM as the preferred treatment ([[asge-2020-achalasia]] Rec 3) | "We suggest"; Very low quality |
+| Versus botulinum toxin | PD over botulinum toxin injection ([[asge-2020-achalasia]] Rec 6) | "We recommend"; High quality |
 | Adults, any subtype | **POEM over PD** — the newest guidance ([[sages-2024-poem]]) | Conditional; moderate certainty |
 
 - **Subtype is assigned only on [[high-resolution-manometry|high-resolution manometry (HRM)]] by the [[chicago-classification-v4|Chicago Classification v4.0]]** — the integrated relaxation pressure (IRP) thresholds and type I/II/III criteria live on that page.
@@ -75,7 +78,7 @@ Which of the definitive achalasia therapies a given patient should get — PD, [
 
 ### Reassessment Between Dilations
 
-- **Objective test: [[achalasia#Timed Barium Esophagram (TBE)|timed barium esophagram (TBE)]]**, at 4–6 weeks alongside symptom assessment, before advancing to the next balloon size.
+- **Symptomatic and objective assessment at 4–6 weeks** before advancing to the next balloon size (ACG 2020 does not name the objective test for this step; its Figure 8 algorithm says repeat in 2–4 weeks if no response). For the objective test, see [[achalasia#Timed Barium Esophagram (TBE)|timed barium esophagram (TBE)]].
 - **Success = complete esophageal emptying at 1 minute** after the barium bolus ([[acg-2020-achalasia]]).
 - **Do not use the Eckardt score or [[high-resolution-manometry|HRM]] alone to define treatment failure**; TBE is the first-line test for continued or recurrent symptoms after definitive therapy ([[acg-2020-achalasia]], Strong/Very Low).
 - **Symptoms improved but barium column still >5 cm at 5 minutes** → follow closely, and treat if retention worsens or esophageal dilatation increases.
@@ -91,10 +94,10 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 | 4.0 cm | **90%** |
 
 - Across all series, good-to-excellent relief after PD ranges **50%–93%**.
-- Pooled clinical success (**Eckardt score ≤3** — the score's four components and bands live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
+- Pooled clinical success (**Eckardt score ≤3** — the score's four components and bands live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.47 → 20.80 mm Hg** ([[asge-2020-achalasia]]).
 
 > [!pearl] Judge PD on the completed graded course, not one dilation
-> Trials that scored progression to a larger balloon as a failure understate PD; the [[asge-2020-achalasia|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] guideline calls the response to **graded** dilation the only outcome relevant to practice. In the POEM-versus-PD RCT, PD was capped at 1–2 dilations with 30- or 35-mm balloons and scored **54% at 2 years**, rising to **76%** in the post hoc analysis that included the 14 patients taken to 40 mm — against **85%–90% at 2–5 years** in series that dilated sequentially up to 40 mm ([[acg-2020-achalasia]]).
+> Trials that scored progression to a larger balloon as a failure understate PD; the [[asge-2020-achalasia|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] guideline calls the response to **graded** dilation the most relevant outcome for clinical practice. In the POEM-versus-PD RCT, PD was capped at 1–2 dilations with 30- or 35-mm balloons and scored **54% at 2 years**, rising to **76%** in the post hoc analysis that included the 14 patients taken to 40 mm — against **85%–90% at 2–5 years** in series that dilated sequentially up to 40 mm ([[acg-2020-achalasia]]).
 
 ## Post-Procedure Care
 

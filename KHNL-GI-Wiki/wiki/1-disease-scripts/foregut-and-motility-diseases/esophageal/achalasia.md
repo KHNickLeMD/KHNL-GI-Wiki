@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 
@@ -77,7 +77,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 
 ### Classification / Typing (Chicago Classification — clinically essential)
 
-> **Recommendation:** Classify achalasia subtypes to inform prognosis and treatment choice. (Conditional; Low evidence)
+> **Recommendation (ACG Rec 3):** Classifying achalasia subtypes by the Chicago Classification may help inform prognosis and treatment choice. (Conditional; Low evidence)
 
 All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body pattern:
 
@@ -87,7 +87,7 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 | **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** (Chicago Classification v4.0 [CCv4.0]: in **≥20% of swallows**) | LHM 92% — best of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
 | **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of peristalsis — no normal or ineffective swallows) ± panesophageal pressurization | Worst with lower esophageal sphincter (LES)-only therapy — LHM **71%** vs POEM **93%** (odds ratio [OR] 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
 
-- Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
+- Subtype success rates for types I/II/III (81% / 92% / 71%) are **LHM** success rates from **one meta-analysis of 1,575 patients who underwent various achalasia treatments** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
 - The only **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
 
 *See Figure 2 in [[acg-2020-achalasia|ACG 2020 Achalasia Guideline]] for example images: high-resolution manometry tracings of type I (absent pressurization), type II (panesophageal pressurization) and type III (spastic contractions) achalasia.*
@@ -209,12 +209,16 @@ flowchart TD
 
 *(At <4 weeks the two are indistinguishable — the difference is durability, not initial response.)*
 
-> **Newer guidance — [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes ACG 2020, which suggests **POEM and PD give comparable symptomatic improvement** in types I/II (Rec 15, Conditional; Low); counsel on post-POEM reflux.
+> **Newer guidance — [[sages-2024-poem|Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) 2024 update]]:**
+> - **POEM over PD** in adults (Conditional; moderate certainty).
+> - **Types I and II:** either **POEM with appropriate PPI use** or **LHM with fundoplication**, by surgeon–patient shared decision-making (Conditional; low certainty). "Appropriate PPI use" = treating objectively confirmed abnormal distal esophageal acid exposure.
+> - **Type III:** POEM over LHM (expert opinion).
+> - Where the two differ, the 2024 update supersedes ACG 2020, which suggests **POEM and PD give comparable symptomatic improvement** in types I/II (Rec 15, Conditional; Low).
 
 ### Laparoscopic Heller Myotomy (LHM)
 
 - Divides circular muscle fibers of LES; preferred laparoscopic approach
-- **Always add an [[antireflux-surgery|antireflux procedure]].** Post-myotomy GERD frequency is similar across surgical approaches **without** fundoplication — thoracotomy 29%, laparotomy 28%, thoracoscopy 28%, **laparoscopy 31%** — and adding fundoplication drops it to **thoracotomy 14%, laparotomy 8%, laparoscopy 9%** (no fundoplication data after thoracoscopic myotomy).
+- **Add an [[antireflux-surgery|antireflux procedure]]** — ACG Rec 7: myotomy with fundoplication is superior to myotomy without fundoplication for controlling distal esophageal acid exposure (Strong; Moderate). Post-myotomy GERD frequency is similar across surgical approaches **without** fundoplication — thoracotomy 29%, laparotomy 28%, thoracoscopy 28%, **laparoscopy 31%** — and adding fundoplication drops it to **thoracotomy 14%, laparotomy 8%, laparoscopy 9%** (no fundoplication data after thoracoscopic myotomy).
   - Confirmed in a double-blind RCT: abnormal acid exposure on pH monitoring in **47% without** an antireflux procedure vs **9% with** a posterior Dor fundoplication (**risk ratio [RR] 0.11**, 95% CI 0.02–0.59).
 - **Dor or Toupet fundoplication** — both acceptable (Conditional; Moderate evidence); Toupet may offer slightly better quality of life (QoL)
 - Efficacy: 89% symptom improvement (range 77–100%)
@@ -235,14 +239,16 @@ flowchart TD
 - Advise patients lifelong PPI may be needed
 - See [[poem]] for full pre/postprocedure management, myotomy tailoring, and same-day-discharge criteria
 
-> **Recommendation:** POEM is associated with higher GERD incidence compared to LHM + fundoplication or PD. Consider lifelong acid suppression and surveillance for erosive esophagitis/BE. (Strong; Moderate evidence)
+> **Recommendation (ACG Rec 10):** POEM is associated with a higher incidence of GERD than LHM with fundoplication or PD. (Strong; Moderate evidence)
+>
+> - Ungraded ACG text: it may be prudent to screen post-POEM patients for erosive esophagitis or Barrett's esophagus, and to advise patients considering POEM that lifelong PPI may be needed.
 
 ### Botulinum Toxin Injection
 
-> **Recommendation:** Botulinum toxin is first-line therapy only for patients **unfit for definitive therapy**. (Strong; Moderate evidence)
+> **Recommendation (ACG Rec 4):** Botulinum toxin injection as first-line therapy for patients **unfit for definitive therapies**, compared with other less effective pharmacological therapies. (Strong; Moderate evidence)
 
 - **Short-lived — relief falls to 40.6% by 12 months**, and 30% go on to need definitive therapy anyway. That decay is why it is restricted to the unfit.
-- Previous botulinum toxin does not significantly affect POEM outcomes but may increase fibrosis risk with LHM (conflicting data).
+- ACG Rec 5: previous botulinum toxin injection does not significantly affect performance and outcomes of myotomy (Conditional; Low). Supporting data are small observational studies and conflicting — one series found a fibrotic LES and less robust relief at surgery in prior botulinum toxin responders; prior botulinum toxin did not seem to increase POEM complications.
 - Dose, injection technique, the full relief-over-time table, and the FLIP predictor of response live on [[botulinum-toxin]]; the pooled PD-vs-botulinum toxin comparison is under [[#Pneumatic Dilation (PD)]] above.
 
 ### Pharmacotherapy
@@ -271,7 +277,7 @@ flowchart TD
 - Do NOT use ES or HRM alone to define failure
 - Use **TBE as first-line test** for continued/recurrent symptoms (Strong; Very low evidence)
 
-**Failed LHM or POEM → PD:** Safe and effective (89% success post-LHM, comparable post-POEM). (Strong; Moderate evidence)
+**Failed LHM or POEM → PD:** ACG Rec 18 — PD is an appropriate and safe option for retreatment after initial surgical myotomy or POEM (Strong; Moderate evidence). 89% success after failed LHM (systematic review, 87 patients); data after failed POEM are scarce, but PD seems safe.
 
 **Failed PD or LHM → POEM:** ACG's graded statement covers **safety** only (*Strong; Low*); its 94% (51-patient prospective registry) and 95.7% (46-patient case series) are **uncontrolled single-arm** rates. The **only randomized comparison** — reported by the newer [[aga-2024-poem-advances|AGA 2024]] CPU — is **POEM 62% vs PD 27%** after failed LHM, with no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. **Counsel from the RCT figure**; see [[poem#Management After Failed Myotomy]].
 
@@ -282,7 +288,7 @@ flowchart TD
 - Achalasia → **28x hazard ratio (HR) for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; [[esophageal-adenocarcinoma|adenocarcinoma]] risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
 - Despite elevated risk, >400 endoscopies needed to detect one cancer; poor survival once detected
 - **Do NOT recommend routine endoscopic surveillance** for esophageal carcinoma (Strong; Low evidence)
-- Some experts favor surveillance every 3 years after 10–15 years of disease; individualize decision
+- Many experts favor some endoscopic or radiographic surveillance every 3 years if disease has been present >10–15 years (not a graded recommendation)
 
 ---
 

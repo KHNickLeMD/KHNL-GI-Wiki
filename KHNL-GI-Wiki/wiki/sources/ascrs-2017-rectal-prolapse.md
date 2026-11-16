@@ -5,6 +5,7 @@ tags: [rectal-prolapse, anorectal, pelvic-floor, rectopexy, ventral-mesh-rectope
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/ASCRS 2017 Treatment of Rectal Prolapse (Bordeianou).pdf"
 ---
 
 ## Bibliographic Info

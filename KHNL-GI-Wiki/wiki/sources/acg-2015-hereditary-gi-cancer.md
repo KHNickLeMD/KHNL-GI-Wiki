@@ -5,6 +5,7 @@ tags: [hereditary-cancer, lynch-syndrome, fap, peutz-jeghers, juvenile-polyposis
 created: 2026-05-19
 updated: 2026-09-22
 sources: []
+raw: "GI Guidelines/ACG/ACG 2015 Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes.pdf"
 ---
 
 ## Bibliographic Info

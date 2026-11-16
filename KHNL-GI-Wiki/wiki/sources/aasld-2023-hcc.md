@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, bclc, surveillance, li-rads, tace, tare, s
 created: 2026-05-28
 updated: 2026-09-23
 sources: [aasld-2025-hcc-critical-update]
+raw: "GI Guidelines/AASLD/AASLD 2023 HCC Prevention Diagnosis Treatment.pdf"
 ---
 
 ## Bibliographic Info

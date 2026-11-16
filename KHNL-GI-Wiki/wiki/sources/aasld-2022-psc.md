@@ -5,6 +5,7 @@ tags: [psc, cholangiocarcinoma, biliary, ibd, liver-transplant, dominant-strictu
 created: 2026-05-28
 updated: 2026-09-15
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2022 Primary Sclerosing Cholangitis.pdf"
 ---
 
 ## Bibliographic Info

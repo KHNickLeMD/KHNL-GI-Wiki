@@ -5,6 +5,7 @@ tags: [chronic-pancreatitis, ercp, eswl, pancreatic-duct-stent, celiac-plexus-bl
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2024 Endoscopy in Chronic Pancreatitis.pdf"
 ---
 
 # ASGE Guideline: Endoscopy in Management of Chronic Pancreatitis (2024)

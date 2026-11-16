@@ -5,6 +5,7 @@ tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizin
 created: 2026-05-07
 updated: 2026-09-26
 sources: [acg-2024-acute-pancreatitis]
+raw: "GI Guidelines/ACG/ACG 2024 Management of Acute Pancreatitis.pdf"
 ---
 
 ## Contents

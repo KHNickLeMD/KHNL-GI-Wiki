@@ -3,9 +3,10 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-11-13
+updated: 2026-11-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults, aga-2017-opioids-in-gastroenterology, aga-2017-surgical-device-fecal-incontinence, aga-2022-short-bowel-syndrome, rome-v-2026-bowel-disorders]
 quality_reviewed: 2026-11-13
+verified: 2026-11-16
 ---
 
 ## Contents
@@ -30,7 +31,7 @@ quality_reviewed: 2026-11-13
 |---|---|---|---|
 | Traveler's diarrhea — **adjunct to antibiotics** | Administer: shortens diarrhea, increases chance of cure | Strong / moderate (Rec 8) | [[acg-2016-acute-diarrhea\|ACG 2016]] |
 | Acute watery diarrhea, immunocompetent **adults** | May be given | Weak / moderate (Rec 47) | [[idsa-2017-infectious-diarrhea\|Infectious Diseases Society of America (IDSA) 2017]] |
-| [[fecal-incontinence\|Fecal incontinence (FI)]] — **only when FI is accompanied by diarrhea** (⚠ **off-label**: approved for diarrhea, not for FI) | Antidiarrheals recommended — loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine. The diarrhea qualifier *is* the indication; FI without diarrhea is not this recommendation | Strong / low (Rec 1) | [[acg-2021-anorectal-disorders\|ACG 2021]] |
+| [[fecal-incontinence\|Fecal incontinence (FI)]] — **only when FI is accompanied by diarrhea** | Antidiarrheals recommended — loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine. The diarrhea qualifier *is* the indication; FI without diarrhea is not this recommendation | Strong / low (Rec 1) | [[acg-2021-anorectal-disorders\|ACG 2021]] |
 | [[irritable-bowel-syndrome\|Diarrhea-predominant irritable bowel syndrome (IBS-D)]] | Suggested for diarrhea control — improves abdominal pain and stool consistency, but **no benefit on global symptoms or urgency** | Conditional / **very low** (Rec 4) | [[aga-2022-ibs-d\|American Gastroenterological Association (AGA) 2022]] |
 | [[functional-diarrhea\|Functional diarrhea]] | Step 2, after medication review and before an empiric bile-acid sequestrant | Narrative review; the chapter grades no recommendations | [[rome-v-2026-bowel-disorders\|Rome V 2026]] |
 | [[short-bowel-syndrome\|SBS]] / high-output stoma | Antidiarrheal of choice; guide use by **objective measurement of stool output**. Loperamide + codeine may be synergistic | Expert review (BPA 6) | [[aga-2022-short-bowel-syndrome\|AGA 2022]] |

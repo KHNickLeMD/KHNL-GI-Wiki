@@ -5,6 +5,7 @@ tags: [lynch-syndrome, hnpcc, mmr, msi, ihc, braf, mlh1, hereditary-crc, colorec
 created: 2026-09-26
 updated: 2026-09-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2015 Lynch Syndrome Diagnosis & Management.pdf"
 ---
 
 ## Bibliographic Info

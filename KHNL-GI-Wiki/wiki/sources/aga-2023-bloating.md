@@ -5,6 +5,7 @@ tags: [bloating, distention, belching, dgbi, functional-gi, sibo, aga, cpu]
 created: 2026-07-19
 updated: 2026-10-31
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Belching, Bloating & Distention.pdf"
 ---
 
 ## Bibliographic Info

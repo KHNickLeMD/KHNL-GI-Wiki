@@ -5,6 +5,7 @@ tags: [esd, emr, esophageal-cancer, gastric-adenocarcinoma, endoscopic-resection
 created: 2026-06-04
 updated: 2026-09-06
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2023 ESD for Early Esophageal & Gastric Cancer.pdf"
 ---
 
 # ASGE Guideline: Endoscopic Submucosal Dissection (ESD) for Early Esophageal & Gastric Cancer (2023)

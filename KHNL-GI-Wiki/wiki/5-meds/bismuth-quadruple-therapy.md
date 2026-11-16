@@ -3,8 +3,8 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
+updated: 2026-11-16
+sources: [acg-2024-hp-treatment]
 ---
 
 ## Components ("Optimized" BQT — ACG 2024)
@@ -33,7 +33,7 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 ## Indications
 
 - **Preferred empiric first-line** for treatment-naive [[helicobacter-pylori-infection|H. pylori]] when antibiotic susceptibility is unknown — **Rec 1: strong recommendation, moderate quality evidence**; the only *strong* recommendation in the guideline (all other first-line and salvage options are conditional). [[acg-2024-hp-treatment]]
-- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe randomized controlled trial [RCT]) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin. The **>15% resistance threshold** for abandoning empiric clarithromycin triple therapy comes from [[acg-2017-hp-guidelines]].
+- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe randomized controlled trial [RCT]) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin.
 - **Concomitant therapy is *not* suggested over BQT** in treatment-naive patients (Rec 5, conditional / low quality).
 - Penicillin allergy — BQT contains no amoxicillin, and is the **only** first-line or salvage regimen suitable for true penicillin allergy. If BQT is not an appropriate option, ACG suggests allergist referral to confirm the allergy and consider penicillin desensitization (<1% of the population has true type-1 IgE-mediated penicillin allergy).
 
@@ -52,17 +52,15 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 
 ## Efficacy
 
-- Eradication rates ~80–90% (intention-to-treat) ([[acg-2017-hp-guidelines]]).
 - **US observational data (ACG 2024, treatment-naive):** 14-day BQT eradicated **87%** (n = 585). Effectiveness fell to **77%** when shortened to 10 days (n = 135), and to **70%** (14 days) / **67%** (10 days) when doxycycline replaced tetracycline — hence both modifications are explicitly not recommended.
 - Recommended **over PPI–clarithromycin triple therapy**, whose eradication rates have fallen with rising clarithromycin resistance.
-- Less affected by metronidazole resistance than metronidazole-containing dual-drug regimens — the "optimized" high total daily dose (1,500–2,000 mg) and 14-day duration partially overcome nitroimidazole resistance.
+- In vitro metronidazole resistance was not associated with eradication failure in patients receiving optimized BQT ([[acg-2024-hp-treatment]]).
 
 ---
 
 ## Why BQT Resists Resistance
 
 - **No clarithromycin, so no clarithromycin problem** — BQT needs **no pretreatment antimicrobial sensitivity testing**, which ACG 2024 names as its notable advantage over PPI–clarithromycin triple therapy.
-- **Nitroimidazole resistance is partly dose-surmountable.** Metronidazole resistance >40% limits metronidazole-containing regimens but is **partially overcome by higher total daily dose and 14-day duration** ([[acg-2017-hp-guidelines]]) — which is exactly what "optimized" encodes.
 
 > Neither ACG guideline states bismuth's molecular mechanism or asserts that bismuth has no resistance mechanism.
 
@@ -104,4 +102,3 @@ Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropria
 ## Sources
 
 1. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
-2. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]

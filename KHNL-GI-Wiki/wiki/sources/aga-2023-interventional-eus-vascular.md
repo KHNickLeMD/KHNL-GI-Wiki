@@ -5,6 +5,7 @@ tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-p
 created: 2026-07-23
 updated: 2026-11-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Interventional EUS for Vascular Investigation & Therapy.pdf"
 ---
 
 # AGA 2023 Clinical Practice Update on Interventional EUS for Vascular Investigation and Therapy

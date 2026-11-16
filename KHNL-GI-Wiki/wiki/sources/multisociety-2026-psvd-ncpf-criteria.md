@@ -5,6 +5,7 @@ tags: [psvd, ncpf, porto-sinusoidal-vascular-disorder, non-cirrhotic-portal-fibr
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/Other/Multisociety 2026 PSVD Definition and Diagnostic Criteria (Hernandez-Gea).pdf"
 ---
 
 ## Bibliographic Info

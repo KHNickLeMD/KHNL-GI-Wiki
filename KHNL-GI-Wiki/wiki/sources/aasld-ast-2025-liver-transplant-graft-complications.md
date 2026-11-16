@@ -3,8 +3,9 @@ title: "AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Di
 category: source
 tags: [liver-transplant, liver-transplantation, graft-complications, immunosuppression, rejection, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, tacrolimus, mtor-inhibitor, aasld, ast, guidelines, 2025]
 created: 2026-05-25
-updated: 2026-09-29
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AASLD/AASLD AST 2025 Liver Transplant Graft Complications.pdf"
 ---
 
 ## Bibliographic Info
@@ -174,7 +175,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
   - 2012 guideline: steroid withdrawal is a common goal; 2025 guideline states steroid-free IS cannot be routinely recommended (higher BPAR, steroid-resistant rejection, decreased GFR) — this directly conflicts with longstanding minimization practice; 2025 guidance should be used
   - 2012 guideline: anti-thymocyte globulin used historically for rejection; 2025 now explicitly states ATG should NOT be used as induction immunosuppression (Strong, Level 2)
   - 2012 guideline discusses DCD as higher risk; 2025 shows comparable outcomes at experienced programs with machine perfusion — represents significant evolution in the field
-  - 2012 CNI trough targets: TAC 5–10 ng/mL (early), 4–7 ng/mL (long-term); 2025 Table 4 specifies: TAC 7–10 ng/mL (month 1), 4–8 ng/mL (months 2–12), 4 ng/mL (12 months onward) — more granular and should supersede 2012 targets in entity pages
+  - 2012 CNI trough targets: a single target after 3 months — TAC 5–10 ng/mL, cyclosporine 100–150 ng/mL (sirolimus 5 ng/mL); 2025 Table 4 specifies: TAC 7–10 ng/mL (month 1), 4–8 ng/mL (months 2–12), 4 ng/mL (12 months onward) — more granular and should supersede 2012 targets in entity pages
 - **Open questions:**
   - AMR in liver transplantation: diagnosis and management criteria remain evolving and largely consensus-based; C4d deposition alone has low specificity in liver allografts
   - Optimal NRP vs. HMP vs. NMP selection criteria for specific donor types: rapidly evolving; 2025 guidance may be superseded as further randomized controlled trial (RCT) data emerge

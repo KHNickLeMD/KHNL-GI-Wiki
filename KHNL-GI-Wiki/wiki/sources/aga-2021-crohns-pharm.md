@@ -5,6 +5,7 @@ tags: [crohns, ibd, biologic, anti-tnf, immunomodulator, perianal-fistula, corti
 created: 2026-06-04
 updated: 2026-10-05
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 Mod-Severe Luminal & Fistulizing CD.pdf"
 ---
 
 # AGA 2021 — Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease

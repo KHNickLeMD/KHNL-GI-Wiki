@@ -5,6 +5,7 @@ tags: [eosinophilic-esophagitis, esophagus, eosinophilia, ppi-ree, dysphagia]
 created: 2026-06-09
 updated: 2026-10-07
 sources: []
+raw: "GI Guidelines/ACG/ACG 2013 Esophageal Eosinophilia and Eosinophilic Esophagitis.pdf"
 ---
 
 > ⚠ **Superseded guideline.** Superseded by [[acg-2025-eoe|American College of Gastroenterology (ACG) Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis (2025)]]. Everything below is the 2013 position; where the two differ, the 2025 document governs current practice (see [[#Contradictions / Open Questions]]).

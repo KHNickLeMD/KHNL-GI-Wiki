@@ -5,6 +5,7 @@ tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, hepatocellular-carcinoma
 created: 2026-09-15
 updated: 2026-09-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 CPU Oral DAAs and HCC.pdf"
 ---
 
 ## Bibliographic Info

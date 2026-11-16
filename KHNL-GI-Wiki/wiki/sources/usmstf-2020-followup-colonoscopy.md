@@ -5,6 +5,7 @@ tags: [colonoscopy, polypectomy, surveillance, adenoma, serrated-polyp, crc-scre
 created: 2026-05-07
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2020 Update Follow-Up After Colonoscopy and Polypectomy.pdf"
 ---
 
 ## Contents

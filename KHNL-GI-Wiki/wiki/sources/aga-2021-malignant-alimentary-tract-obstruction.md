@@ -5,6 +5,7 @@ tags: [malignant-obstruction, sems, stent, gastric-outlet-obstruction, esophagea
 created: 2026-09-07
 updated: 2026-09-07
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Malignant Alimentary Tract Obstruction.pdf"
 ---
 
 ## Bibliographic Info

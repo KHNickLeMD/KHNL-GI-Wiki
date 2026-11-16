@@ -5,6 +5,9 @@ tags: [portal-hypertension, cirrhosis, cACLD, CSPH, HVPG, liver-stiffness, splee
 created: 2026-08-01
 updated: 2026-08-01
 sources: []
+raw:
+  - "GI Guidelines/EASL/EASL 2021 Baveno VII.pdf"
+  - "GI Guidelines/EASL/EASL 2021 Baveno VII - Supplementary Table S1.pdf"
 ---
 
 ## Bibliographic Info

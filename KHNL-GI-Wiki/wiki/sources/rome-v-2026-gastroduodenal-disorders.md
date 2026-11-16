@@ -3,8 +3,9 @@ title: "Gastroduodenal Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, functional-dyspepsia, nausea, vomiting, belching, rumination, cyclic-vomiting, cannabinoid-hyperemesis]
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Gastroduodenal Disorders (Tornblom).pdf"
 ---
 
 ## Bibliographic Info
@@ -234,4 +235,5 @@ This subdivision requires further research; provisional criteria were developed 
 - **Celiac serology in dyspepsia:** Rome V does not recommend routine testing, citing low yield.
 - **CNVS frequency threshold** changed from Rome IV; pages quoting the older threshold are stale.
 - **Inability to belch is numbered twice within Rome V.** The classification list in [[rome-v-2026-dgbi|Rome V's overview]] gives it as **B3c** (a belching-disorder subtype); this chapter's own criteria box gives it as **B4** (a standalone gastroduodenal disorder). Both labels refer to the same criteria. [[abdominal-bloating-and-distention]] states both and codes neither into its heading.
+- **Preventive tricyclic therapy in CHS:** this chapter states CHS **responds poorly to preventive TCA therapy**, whereas [[aga-2024-chs|AGA 2024]] makes cannabis cessation plus amitriptyline (75–100 mg at bedtime; ~70% efficacious in observational experience) the long-term mainstay. Rome V is newer and governs.
 - **CHS as a distinct entity is debated** — whether it is a subtype of CVS or distinct; up to 80% of CVS patients use cannabis to relieve symptoms and likely do not have CHS.

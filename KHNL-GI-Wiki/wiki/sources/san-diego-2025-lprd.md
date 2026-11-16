@@ -5,6 +5,7 @@ tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, esopha
 created: 2026-05-15
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/Other/San Diego Consensus 2025 Laryngopharyngeal Reflux.pdf"
 ---
 
 ## Bibliographic Info

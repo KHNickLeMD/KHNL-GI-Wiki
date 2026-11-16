@@ -5,6 +5,7 @@ tags: [lower-gi-bleeding, lgib, hematochezia, occult-gi-bleeding, colonoscopy, d
 created: 2026-06-22
 updated: 2026-10-13
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2014 Endoscopy in Lower GI Bleeding.pdf"
 ---
 
 ## Bibliographic Info

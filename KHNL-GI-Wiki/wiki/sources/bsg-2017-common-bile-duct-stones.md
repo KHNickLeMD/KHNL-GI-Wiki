@@ -5,6 +5,7 @@ tags: [choledocholithiasis, cbd-stones, ercp, sphincterotomy, epbd, cholangiosco
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/BSG 2017 Common Bile Duct Stones (Williams).pdf"
 ---
 
 ## Bibliographic Info

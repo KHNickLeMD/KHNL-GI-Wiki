@@ -5,6 +5,7 @@ tags: [ibs-c, irritable-bowel-syndrome, secretagogues, linaclotide, tenapanor, g
 created: 2026-06-04
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 IBS-C Pharm Mgmt.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Pharmacologic Management of IBS-C (2022)

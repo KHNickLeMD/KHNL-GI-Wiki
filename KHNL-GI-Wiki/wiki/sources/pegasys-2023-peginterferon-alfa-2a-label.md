@@ -5,6 +5,7 @@ tags: [hepatitis-b, hepatitis-d, hepatitis-c, interferon, dosing, drug-label, fd
 created: 2026-10-31
 updated: 2026-10-31
 sources: []
+raw: "Drug Labels/Pegasys Label.pdf"
 ---
 
 ## Bibliographic Info

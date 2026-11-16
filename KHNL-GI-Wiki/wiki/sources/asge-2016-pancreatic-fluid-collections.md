@@ -5,6 +5,7 @@ tags: [pancreatitis, pancreatic-fluid-collection, pseudocyst, walled-off-necrosi
 created: 2026-06-28
 updated: 2026-10-22
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2016 Endoscopy in Inflammatory Pancreatic Fluid Collections.pdf"
 ---
 
 ## Bibliographic Info

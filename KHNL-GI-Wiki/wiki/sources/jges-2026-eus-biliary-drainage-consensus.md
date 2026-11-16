@@ -5,6 +5,7 @@ tags: [eus-bd, eus, biliary-drainage, hepaticogastrostomy, choledochoduodenostom
 created: 2026-11-06
 updated: 2026-11-06
 sources: []
+raw: "GI Guidelines/Other/Intl Consensus 2026 EUS-Guided Biliary Drainage (Iwashita).pdf"
 ---
 
 ## Bibliographic Info

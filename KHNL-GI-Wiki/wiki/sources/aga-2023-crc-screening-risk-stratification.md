@@ -5,6 +5,7 @@ tags: [colorectal-cancer, crc-screening, post-polypectomy-surveillance, family-h
 created: 2026-07-25
 updated: 2026-07-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU CRC Screening & Post-Polypectomy Risk Stratification.pdf"
 ---
 
 ## Bibliographic Info

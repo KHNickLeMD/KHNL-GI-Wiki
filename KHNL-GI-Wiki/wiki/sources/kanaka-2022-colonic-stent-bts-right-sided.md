@@ -5,6 +5,7 @@ tags: [colorectal-cancer, malignant-large-bowel-obstruction, colonic-stent, sems
 created: 2026-09-02
 updated: 2026-09-02
 sources: []
+raw: "GI Other Studies/Colonic stent as a bridge to surgery versus emergency resection for right‑sided malignant large bowel obstruction- a meta‑analysis.pdf"
 ---
 
 ## Bibliographic Info

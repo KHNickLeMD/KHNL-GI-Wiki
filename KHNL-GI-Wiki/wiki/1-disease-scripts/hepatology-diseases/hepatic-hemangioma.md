@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma, kasabach-merritt, sclerosed-hemangioma]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-11-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -78,7 +78,7 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — intense homogeneous arterial phase hyperenhancement (APHE), gadoxetate uptake on hepatobiliary phase, central scar; no T2 light-bulb pattern
 - **[[hepatocellular-adenoma|Hepatocellular adenoma]]** — hepatocellular origin; no gadoxetate uptake; hormonal risk factors
 - **Hepatic metastases** — ring enhancement; T2 variable; clinical context of known malignancy
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — APHE **+ washout**; in a [[cirrhosis|cirrhotic]] background; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] ≥4. Early in malignant development a lesion can **mimic** a hemangioma — the reason cirrhosis/hepatitis B virus (HBV) changes follow-up
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — APHE **+ washout**; in a [[cirrhosis|cirrhotic]] background. Early in malignant development a lesion can **mimic** a hemangioma — the reason cirrhosis/hepatitis B virus (HBV) changes follow-up
 - **[[cholangiocarcinoma|Intrahepatic cholangiocarcinoma]] / hypovascular metastasis** — share the rim-enhancement + capsular-retraction pattern of a **sclerosed hemangioma**; comparison with prior imaging, or occasionally biopsy, resolves it
 - **Hepatic angiosarcoma** — rare; rapidly growing; heterogeneous; necrosis; aggressive course
 - **Hepatic endothelial hemangioendothelioma** — rare vascular tumour; stage with whole-body contrast-enhanced CT or MRI; resect whenever possible, and if unresectable, [[liver-transplantation|liver transplantation]] offers the best survival even with extrahepatic disease (KC 33–35)

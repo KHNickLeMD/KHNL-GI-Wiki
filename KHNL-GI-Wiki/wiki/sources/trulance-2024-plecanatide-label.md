@@ -5,6 +5,7 @@ tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, pediatric, dosing, d
 created: 2026-10-30
 updated: 2026-10-30
 sources: []
+raw: "Drug Labels/Trulance Label.pdf"
 ---
 
 ## Bibliographic Info

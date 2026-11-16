@@ -5,6 +5,7 @@ tags: [polypectomy, colonoscopy, cold-snare, emr, colorectal-neoplasia, serrated
 created: 2026-07-28
 updated: 2026-07-28
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Tailored Polypectomy.pdf"
 ---
 
 ## Bibliographic Info

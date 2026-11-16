@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, screening, fit, gfobt, multitarget-stool-dna, col
 created: 2026-09-23
 updated: 2026-09-23
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Noninvasive CRC Screening Options.pdf"
 ---
 
 ## Bibliographic Info

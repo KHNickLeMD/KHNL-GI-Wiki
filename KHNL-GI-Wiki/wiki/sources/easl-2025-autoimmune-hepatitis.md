@@ -5,6 +5,7 @@ tags: [autoimmune-hepatitis, aih, easl, predniso-lone, azathioprine, mycophenola
 created: 2026-11-15
 updated: 2026-11-17
 sources: []
+raw: "GI Guidelines/EASL/EASL 2025 Autoimmune Hepatitis.pdf"
 ingest: partial
 ---
 

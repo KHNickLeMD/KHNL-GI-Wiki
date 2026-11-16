@@ -5,6 +5,7 @@ tags: [cirrhosis, malnutrition, nutrition, rfh-npt, nrs, prognosis, hepatology]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Borhofen 2016 RFH-NPT Nutritional Prioritizing Tool Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [linaclotide, gc-c-agonist, secretagogue, ibs-c, chronic-idiopathic-consti
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "Drug Labels/Linzess Linaclotide Label.pdf"
 ---
 
 ## Bibliographic Info

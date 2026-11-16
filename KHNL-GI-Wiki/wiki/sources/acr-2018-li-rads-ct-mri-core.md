@@ -5,6 +5,7 @@ tags: [li-rads, hcc, hepatocellular-carcinoma, liver-imaging, ct, mri, acr, surv
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/ACR LI-RADS CT-MRI v2018 Core.pdf"
 ---
 
 ## Bibliographic Info

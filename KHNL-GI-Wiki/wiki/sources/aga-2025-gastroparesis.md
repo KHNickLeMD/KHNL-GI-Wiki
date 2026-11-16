@@ -5,6 +5,7 @@ tags: [gastroparesis, prokinetics, metoclopramide, erythromycin, gastric-emptyin
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 Management of Gastroparesis.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Management of Gastroparesis (2025)

@@ -5,6 +5,7 @@ tags: [crohns-disease, ibd, anti-tnf, certolizumab, biologic, dosing, drug-label
 created: 2026-11-01
 updated: 2026-11-01
 sources: []
+raw: "Drug Labels/Cimzia Certolizumab Pegol Label.pdf"
 ---
 
 ## Bibliographic Info

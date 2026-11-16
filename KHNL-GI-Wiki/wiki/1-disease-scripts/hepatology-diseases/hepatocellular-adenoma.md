@@ -107,7 +107,7 @@ Three main molecular subtypes (inflammatory, hepatocyte nuclear factor-1α [HNF-
 
 *Workup and cross-lesion imaging comparison: see [[focal-liver-lesions]].*
 
-- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar with delayed enhancement; **takes up gadoxetate** on the hepatobiliary phase (HCA usually does not); no malignant potential; no follow-up once confirmed
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar with delayed enhancement; **takes up gadoxetate** on the hepatobiliary phase (HCA usually does not); extremely slim chance of malignancy; no follow-up once confirmed
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; peripheral nodular enhancement with centripetal fill-in
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma]]** — arterial phase hyperenhancement (APHE), washout, and capsule; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] applies in at-risk livers. Imaging cannot reliably separate well-differentiated HCC from β-catenin mutated HCA; absent chronic liver disease risk factors, adenoma is the more likely diagnosis
 - **Metastasis** — known primary malignancy; often multiple lesions

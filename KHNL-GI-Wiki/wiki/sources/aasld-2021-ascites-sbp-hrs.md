@@ -5,6 +5,7 @@ tags: [ascites, sbp, hrs, cirrhosis, liver, paracentesis, hyponatremia, hepatic-
 created: 2026-05-15
 updated: 2026-08-27
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2021 Dx Tx Ascites SBP HRS.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [barretts-esophagus, low-grade-dysplasia, dysplasia, esophageal-adenocarci
 created: 2026-09-20
 updated: 2026-09-21
 sources: []
+raw: "GI Guidelines/AGA/AGA 2016 CPU Low-Grade Dysplasia in Barrett's.pdf"
 ---
 
 # AGA 2016 Clinical Practice Update: Diagnosis and Management of Low-Grade Dysplasia in Barrett's Esophagus (Expert Review)

@@ -5,6 +5,7 @@ tags: [choledocholithiasis, cbd-stones, ercp, eus, mrcp, gallstone-pancreatitis,
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2019 Choledocholithiasis.pdf"
 ---
 
 # ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)

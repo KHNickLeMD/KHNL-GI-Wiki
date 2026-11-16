@@ -5,6 +5,7 @@ tags: [subepithelial-lesion, gist, eus, endoscopic-resection, leiomyoma, lipoma,
 created: 2026-09-22
 updated: 2026-09-22
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Subepithelial Lesions in Routine Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

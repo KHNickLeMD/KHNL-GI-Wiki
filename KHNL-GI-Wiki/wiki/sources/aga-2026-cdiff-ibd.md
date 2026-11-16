@@ -5,6 +5,7 @@ tags: [cdiff, clostridioides-difficile, ibd, crohns, ulcerative-colitis, microbi
 created: 2026-06-27
 updated: 2026-10-17
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU C diff in IBD.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [acpo, ogilvie, colonic-volvulus, sigmoid-volvulus, cecal-volvulus, neosti
 created: 2026-06-22
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2020 Acute Colonic Pseudo-Obstruction & Colonic Volvulus.pdf"
 ---
 
 ## Bibliographic Info

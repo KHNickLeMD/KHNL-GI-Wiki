@@ -5,6 +5,7 @@ tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancrea
 created: 2026-05-19
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/ACG/ACG 2018 Diagnosis & Management of Pancreatic Cysts.pdf"
 ---
 
 ## Bibliographic Info

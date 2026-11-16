@@ -3,7 +3,7 @@ title: "Opioid-Induced Constipation"
 category: disease-script
 tags: [constipation, oic, opioids, pamora, naldemedine, naloxegol, methylnaltrexone, laxatives, colorectal, functional]
 created: 2026-09-26
-updated: 2026-11-05
+updated: 2026-11-16
 sources: [aga-2019-opioid-induced-constipation, aga-acg-2023-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2017-opioids-in-gastroenterology]
 ---
 
@@ -176,8 +176,8 @@ Laxatives are very safe, widely available over the counter, and inexpensive — 
 
 | Agent | Regimen |
 |---|---|
-| **Naldemedine** | **0.2 mg** daily — 2 twelve-week phase 3 RCTs in noncancer pain: endpoint met in 47.6% and 52.5% vs ~34% placebo |
-| **Naloxegol** | **12.5 mg or 25 mg** daily; **25 mg** met the primary endpoint in both 12-week phase 3 RCTs (44.4% and 39.7% vs 29.3%). An open-label crossover trial (n = 246) found **no difference between PEG and naloxegol** over 2 weeks and no patient preference |
+| **Naldemedine** | **0.2 mg** (frequency not stated) — 2 twelve-week phase 3 RCTs in noncancer pain: endpoint met in 47.6% and 52.5% vs ~34% placebo |
+| **Naloxegol** | **12.5 mg or 25 mg** (frequency not stated); **25 mg** met the primary endpoint in both 12-week phase 3 RCTs (44.4% and 39.7% vs 29.3%). An open-label crossover trial (n = 246) found **no difference between PEG and naloxegol** over 2 weeks and no patient preference |
 | **Methylnaltrexone** | **Subcutaneous 8 mg or 12 mg** daily or every other day; **oral 150 mg tablet**, with the recommended oral dose **450 mg daily** |
 
 - PAMORA adverse events as a class in these trials: diarrhea and abdominal pain.

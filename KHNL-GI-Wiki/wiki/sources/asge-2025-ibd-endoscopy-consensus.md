@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, endoscopy, surveillance, dysplasia, pouc
 created: 2026-11-11
 updated: 2026-11-11
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2025 Endoscopic Diagnosis and Management of Adult IBD Consensus (Shen).pdf"
 ---
 
 ## Bibliographic Info

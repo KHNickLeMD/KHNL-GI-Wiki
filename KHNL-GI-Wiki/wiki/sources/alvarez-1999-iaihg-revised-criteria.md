@@ -5,6 +5,7 @@ tags: [autoimmune-hepatitis, aih, iaihg, diagnostic-score, overlap-syndrome, hep
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Alvarez 1999 IAIHG Revised Criteria Autoimmune Hepatitis.pdf"
 ---
 
 ## Bibliographic Info

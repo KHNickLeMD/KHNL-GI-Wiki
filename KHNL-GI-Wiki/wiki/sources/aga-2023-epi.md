@@ -5,6 +5,7 @@ tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, chronic-pan
 created: 2026-07-18
 updated: 2026-11-02
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Exocrine Pancreatic Insufficiency.pdf"
 ---
 
 ## Bibliographic Info

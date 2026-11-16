@@ -3,8 +3,9 @@ title: "ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infect
 category: source
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, antibiotic, loperamide, bismuth, prevention, public-health]
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ACG/ACG 2016 Diagnosis, Treatment, & Prevention of Acute Diarrheal Infections in Adults.pdf"
 ---
 
 ## Bibliographic Info
@@ -212,6 +213,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Postinfectious IBS is referenced using Rome III criteria; the disorders of gut-brain interaction (DGBI) pages here use Rome IV/V (see [[disorders-of-gut-brain-interaction]]).
 - Fluoroquinolone resistance in *Campylobacter* has continued to grow since 2016; azithromycin preference for empiric TD therapy in Southeast Asia/India remains valid but the resistance landscape should be monitored.
 - *Enterocytozoon bieneusi*: this guideline names albendazole; the newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] Table 6 recommends fumagillin for *E. bieneusi* in HIV-infected adults and reserves albendazole (after starting combination antiretroviral therapy) for other microsporidia. The newer IDSA recommendation takes precedence — see [[hiv-aids-related-diarrhea]].
+- **Adjunctive loperamide:** Recommendation 8 (strong, moderate) gives loperamide with antibiotics for traveler's diarrhea; the newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] Rec 47 bars antimotility drugs under 18 years (strong, moderate) and at any age in inflammatory diarrhea, diarrhea with fever, or where toxic megacolon may result (strong, low). For febrile or inflammatory traveler's diarrhea the two diverge; IDSA is newer.
 - The guideline does not address *Clostridioides difficile*-associated infections, which are covered by a separate ACG guideline ([[acg-2021-cdiff]]).
 
 ## See Also

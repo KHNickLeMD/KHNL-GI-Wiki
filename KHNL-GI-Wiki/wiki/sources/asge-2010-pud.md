@@ -5,6 +5,7 @@ tags: [pud, peptic-ulcer, gastric-ulcer, duodenal-ulcer, upper-gi-bleeding, gast
 created: 2026-06-28
 updated: 2026-10-22
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Peptic Ulcer Disease.pdf"
 ---
 
 ## Bibliographic Info

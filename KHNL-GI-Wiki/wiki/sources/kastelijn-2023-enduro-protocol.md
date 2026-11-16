@@ -5,6 +5,7 @@ tags: [gastric-outlet-obstruction, eus, lams, gastrojejunostomy, palliation, pro
 created: 2026-09-02
 updated: 2026-09-02
 sources: []
+raw: "GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ.pdf"
 ---
 
 > **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. ENDURO cannot be cited for the efficacy or safety of endoscopic ultrasound (EUS)-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.

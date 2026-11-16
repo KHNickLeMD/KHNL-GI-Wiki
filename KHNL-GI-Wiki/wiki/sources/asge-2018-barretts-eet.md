@@ -5,6 +5,7 @@ tags: [barretts-esophagus, eet, dysplasia, intramucosal-cancer, rfa, emr, esopha
 created: 2026-06-04
 updated: 2026-10-05
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2018 Barrett's EET (Dysplasia & IMC).pdf"
 ---
 
 # ASGE 2018 — Endoscopic Eradication Therapy for BE-Associated Dysplasia and Intramucosal Cancer

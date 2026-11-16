@@ -5,6 +5,7 @@ tags: [hiatal-hernia, paraesophageal-hernia, fundoplication, mesh, roux-en-y-gas
 created: 2026-10-25
 updated: 2026-10-25
 sources: []
+raw: "GI Guidelines/SAGES/SAGES 2024 Surgical Treatment of Hiatal Hernias (Daly).pdf"
 ---
 
 ## Bibliographic Info

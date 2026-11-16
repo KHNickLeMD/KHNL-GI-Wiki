@@ -5,6 +5,7 @@ tags: [diverticulitis, diverticular-disease, colon, antibiotics, colonoscopy, co
 created: 2026-09-29
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Colonic Diverticulitis.pdf"
 ---
 
 ## Bibliographic Info

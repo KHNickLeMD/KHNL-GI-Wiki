@@ -5,6 +5,7 @@ tags: [gerd, hiatal-hernia, egj, flap-valve, hill-grade, afs, upper-endoscopy, c
 created: 2026-10-28
 updated: 2026-10-31
 sources: []
+raw: "GI Guidelines/AFS/AFS 2022 Endoscopic Classification of EGJ Integrity (Nguyen).pdf"
 ---
 
 ## Bibliographic Info

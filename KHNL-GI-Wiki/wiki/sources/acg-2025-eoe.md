@@ -5,6 +5,7 @@ tags: [eoe, eosinophilic-esophagitis, esophageal, dysphagia, food-impaction, bio
 created: 2026-05-07
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Diagnosis & Management of Eosinophilic Esophagitis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [hepatitis-e, hev, viral-hepatitis, hepatology, transplant, ribavirin, eas
 created: 2026-11-16
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/EASL/EASL 2018 Hepatitis E Virus Infection CPG.pdf"
 ingest: partial
 ---
 

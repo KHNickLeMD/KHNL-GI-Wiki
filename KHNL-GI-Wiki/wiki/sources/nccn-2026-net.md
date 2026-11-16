@@ -5,6 +5,7 @@ tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insuli
 created: 2026-06-18
 updated: 2026-10-13
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 Neuroendocrine Tumors.pdf"
 ---
 
 ## Bibliographic Info

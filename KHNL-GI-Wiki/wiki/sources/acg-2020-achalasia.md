@@ -3,8 +3,10 @@ title: "ACG 2020: Diagnosis and Management of Achalasia"
 category: source
 tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-11-15
+updated: 2026-11-16
+verified: 2026-11-16
 sources: []
+raw: "GI Guidelines/ACG/ACG 2020 Diagnosis and Management of Achalasia.pdf"
 ---
 
 ## Bibliographic Info
@@ -14,97 +16,166 @@ sources: []
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:1393–1411
 - **DOI:** [10.14309/ajg.0000000000000731](https://doi.org/10.14309/ajg.0000000000000731)
-- **Type:** Clinical guideline (American College of Gastroenterology [ACG]) — updates 2013 ACG achalasia guidelines
-- **GRADE Methodologists:** Yadlapati RH (formally trained)
+- **Type:** Clinical guideline (American College of Gastroenterology [ACG]); its reference 1 is the 2013 ACG achalasia guideline
+- **GRADE methodologist:** Yadlapati RH; two formally trained GRADE methodologists ran the process (GRADEpro)
 
 ## Summary
 
-Comprehensive ACG guideline on the diagnosis and management of achalasia using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) process. Achalasia is a rare esophageal motility disorder (20,000–40,000 affected in the US) caused by loss of inhibitory neurons in the myenteric plexus, producing failed lower esophageal sphincter (LES) relaxation and absent peristalsis. The diagnosis requires [[high-resolution-manometry|high-resolution manometry (HRM)]] (gold standard), supplemented by [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia and timed barium esophagram (TBE) for pre/post-therapy assessment.
+ACG guideline on the diagnosis and management of adult achalasia, graded with the Grading of Recommendations Assessment, Development and Evaluation (GRADE) process: 21 numbered recommendations plus one unnumbered graded statement (Table 2), and ungraded key concepts (Table 3). Achalasia is a rare esophageal motility disorder (20,000–40,000 affected patients in the US) attributed to selective loss of inhibitory neurons in the myenteric plexus of the distal esophagus and lower esophageal sphincter (LES). Diagnosis is confirmed with [[high-resolution-manometry|high-resolution manometry (HRM)]], the current gold standard; [[upper-endoscopy|upper endoscopy]] rules out pseudoachalasia, and timed barium esophagram (TBE) supports diagnosis and post-therapy assessment.
 
-Treatment is entirely palliative. Three definitive therapies — pneumatic dilation (PD), laparoscopic Heller myotomy (LHM), and [[poem|per-oral endoscopic myotomy]] (POEM) — produce equivalent outcomes for Type I/II achalasia. Type III achalasia favors POEM or tailored LHM due to longer myotomy requirements. POEM carries higher [[gerd|gastroesophageal reflux disease (GERD)]] risk than LHM with fundoplication. Botulinum toxin is reserved for patients unfit for definitive therapy. Esophagectomy is a last resort for megaesophagus. Routine cancer surveillance is not recommended despite a 28x elevated risk for squamous cell carcinoma (SCC).
+All treatments are palliative. In candidates for definitive therapy, pneumatic dilation (PD), laparoscopic Heller myotomy (LHM) and [[poem|peroral endoscopic myotomy]] (POEM) are comparably effective for type I or II achalasia; POEM is the better option in type III, and tailored POEM or LHM is recommended over PD for type III. POEM carries a higher incidence of [[gerd|gastroesophageal reflux disease (GERD)]] than LHM with fundoplication or PD. Botulinum toxin is reserved for patients who cannot undergo definitive therapy. Esophagectomy is for surgically fit patients with megaesophagus who have failed other interventions. Routine endoscopic cancer surveillance is not recommended despite a hazard ratio of 28 for squamous cell carcinoma (SCC).
 
 ## Key Findings / Claims
 
+Grades for each statement are in [[#Recommendations]]; this section holds the supporting data.
+
 ### Diagnosis
 
-- HRM (esophageal pressure topography) recommended over conventional manometry: 3.4x lower odds of incorrect diagnosis, superior inter-rater agreement (k=0.57 vs 0.32) (Strong; High)
-- Always perform upper endoscopy to exclude pseudoachalasia before HRM
-- [[flip-panometry|functional lumen imaging probe (FLIP)]] can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
-- TBE: post-intervention predictive value is conflicting — some studies find it a useful tool to assess outcome and need for further therapy, others argue against it
-- Patients with GERD not responding to proton pump inhibitor (PPI) → evaluate for achalasia (Strong; Very low)
+- Heartburn present in 27%–42% of achalasia patients → frequently misdiagnosed as GERD and treated with proton pump inhibitors (PPI)
+- Esophageal pressure topography vs conventional manometry (blinded multicenter study): inter-rater agreement κ 0.57 vs 0.32; odds of an incorrect diagnosis 3.4 times higher with conventional manometry
+- Randomized trial in unexplained dysphagia: achalasia diagnosed in 26% vs 12% with pressure topography vs conventional manometry; diagnostic confirmation on follow-up 89% vs 81%
+- Significant short-term weight loss in an elderly patient with suspected achalasia → think pseudoachalasia; cross-sectional imaging and/or endoscopic ultrasound (EUS) may establish the diagnosis
+- [[flip-panometry|Functional lumen imaging probe (FLIP)]]: role evolving; high concordance with manometry; may help in equivocal cases and in patients who cannot tolerate or complete manometry (done during sedated endoscopy). In 145 patients, all 70 with manometric achalasia had reduced EGJ distensibility on FLIP
+- TBE: barium column height at 1, 2 and 5 minutes after a large barium bolus; after successful therapy, complete emptying expected at 1 minute
+  - Post-intervention predictive value is conflicting — some studies find TBE useful to assess outcome and need for further therapy, others argue against it
 
-### Chicago Classification Subtypes (prognostic and treatment implications)
+### Chicago Classification Subtypes
 
-- **Type I** (20–40%): aperistalsis, no panesophageal pressurization; good outcomes with PD/LHM/POEM
-- **Type II** (50–70%): aperistalsis + panesophageal pressurization >30 mmHg; best outcomes of all subtypes
-- **Type III** (5%): spastic contractions; LHM success 71%, POEM success 93% — POEM preferred
+All three have impaired esophagogastric junction (EGJ) relaxation (the guideline cites Chicago Classification v3.0).
 
-### Treatment Efficacy Summary
+- **Type I** (second most common; 20%–40%): 100% failed peristalsis, no panesophageal pressurization to >30 mm Hg
+- **Type II** (most common; 50%–70%): 100% failed peristalsis with panesophageal pressurization to >30 mm Hg; very good outcomes regardless of therapy
+- **Type III** (least common; 5%): spastic, lumen-obliterating contractions, with or without periods of panesophageal pressurization; needs a more extensive myotomy
 
-| Therapy | Efficacy | Key Data |
+### Treatment Data
+
+| Therapy | Efficacy | Key data |
 |---------|----------|----------|
-| Serial PD | 74–90% (by balloon size) | 3.0→3.5→4.0 cm; perforation 1.9%; equivalent to LHM at 5 years |
-| LHM + fundoplication | 89% | Dor or Toupet acceptable; GERD 8–9% post-fundoplication |
-| POEM | 92% (Ponds randomized controlled trial [RCT] 2y); 83% (Werner RCT) | GERD 39% abnormal pH; higher esophagitis risk; excellent for Type III |
-| Botulinum toxin | 40.6% at 12 months | Reserve for unfit patients only |
-| Pharmacotherapy | 0–87% (short-term) | Last resort; not first-line |
+| Oral pharmacotherapy | LES pressure ↓ in 13%–65%; symptom improvement 0%–87% (short term) | Nifedipine 10–30 mg sublingual before meals; isosorbide dinitrate 5 mg sublingual before meals; sildenafil 50 mg has shown some efficacy. Action 30–120 min → headache, hypotension, pedal edema |
+| Botulinum toxin | Relief 78.7% at ≤30 days → 70% at 3 mo, 53.3% at 6 mo, 40.6% at 12 mo (9 studies, 315 patients) | 100 U above the squamocolumnar junction via sclerotherapy needle in 0.5–1 mL aliquots; doses above 100 U not superior; repeat injections needed in 46.6% |
+| Serial PD | Good–excellent relief 74%, 86%, 90% cumulatively with 3.0-, 3.5-, 4.0-cm balloons (mean follow-up 1.6 years) | Perforation median 1.9% (range 0%–16%) in experienced hands (>100 patients treated); GERD after PD 15%–35% |
+| LHM | Mean 89% symptom improvement (39 studies, 3,086 patients) | With an antireflux procedure: 90.3% relief, 6.3% complications (subset of a systematic review of 105 studies, 7,855 patients across all treatments; subset size not given). By subtype: type I 81%, type II 92%, type III 71% |
+| POEM | >90% success in prospective cohorts | Myotomy at least 6 cm into the esophagus and 2 cm below the squamocolumnar junction onto the cardia |
 
-### POEM-specific
+### Pneumatic Dilation
 
-- Ponds 2019 RCT (first to evaluate POEM as first-line): POEM 92% vs PD 54% at 2 years (Eckardt score [ES] ≤3)
-- Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior)
-- POEM vs LHM meta-analysis (n=1,542 POEM; 2,581 LHM): POEM had higher dysphagia improvement (93.5% vs 91.0% at 12 months) but significantly higher GERD (odds ratio [OR] 9.31 for erosive esophagitis; 4.30 on pH monitoring)
-- Type III: POEM 93% vs LHM 71%; one study showed 98% vs 80.8% with shorter operative time and fewer adverse events for POEM
+- Every PD candidate must also be a surgical candidate (perforation repair)
+- Rigiflex balloons 3.0, 3.5, 4.0 cm used in graded fashion; 10–15 psi of air held 15–60 seconds
+- Start with 3.0 cm in most patients; reassess symptoms and objectively at 4–6 weeks; next size if still symptomatic (Figure 8 algorithm: repeat in 2–4 weeks if no response)
+- Favorable response predictors: age >45 years, female sex, narrow (nondilated) esophagus, post-PD LES pressure <10 mm Hg
+- Men <45 years: starting at 3.0 cm may not be effective → PD starting at 3.5 cm, LHM or POEM as initial approaches
+- Suspected perforation → gastrografin/barium esophagram and/or CT; small perforation: antibiotics, parenteral nutrition, stent may suffice; large perforation with extensive mediastinal contamination: surgical repair via thoracotomy
+- PPI therapy indicated for GERD after PD
 
-### Post-therapy
+### Fundoplication
 
-- Do not use ES or HRM alone to define treatment failure — use TBE first-line (Strong; Very low)
-- PD after failed LHM: 89% success; safe (Strong; Moderate)
-- POEM after failed PD/LHM: 94–95.7% success (Strong; Low)
-- No routine post-dilation gastrograffin esophagram (Strong; Low)
+- GERD after myotomy without fundoplication: 29% thoracotomy, 28% laparotomy, 28% thoracoscopy, 31% laparoscopy; with fundoplication 14%, 8%, 9% (thoracotomy, laparotomy, laparoscopy)
+- Double-blind RCT: abnormal acid exposure 47% without vs 9% with Dor fundoplication (relative risk 0.11)
+- Dor vs Toupet RCT: abnormal pH 41% vs 21% (nonsignificant), similar dysphagia and regurgitation relief
+
+### Comparative Trials
+
+- **PD vs botulinum toxin** — 12-month remission 55/75 vs 27/72 (relative risk 1.88); 70% vs 32% success at 12 months in a 42-patient RCT
+- **LHM vs botulinum toxin** — RCT of 80 patients: symptom improvement at 6 months 82% vs 66%; symptom-free at 2 years 87.5% vs 34%
+- **PD vs LHM** — European RCT (201 patients): 86% vs 90% at 2 years, 84% vs 82% at 5 years
+- **POEM vs PD** — Ponds 2019 RCT (133 treatment-naïve adults, first RCT of POEM as first-line): success (Eckardt score [ES] ≤3, no serious adverse event) at 2 years 92% vs 54%; PD limited to 1–2 dilations with 30- or 35-mm balloons (post hoc 76% including 14 patients dilated to 40 mm)
+  - Esophagitis at 2 years: 41% POEM vs 7% PD
+- **POEM vs LHM** — Werner 2019 RCT (112 POEM vs 109 LHM + Dor): clinical success at 2 years 83% vs 82% (noninferior)
+  - 2018 meta-analysis (1,958 POEM vs 5,834 surgical myotomy): dysphagia improvement 93.5% vs 91.0% at 12 months, 92.7% vs 90.0% at 24 months; POEM had more reflux (odds ratio [OR] 9.31 erosive esophagitis, 1.69 symptomatic GERD, 4.30 GERD on pH monitoring)
+  - Separate 2018 meta-analysis (1,542 POEM vs 2,581 LHM with fundoplication): abnormal acid exposure 39.0% vs 16.8%; esophagitis 29.4% vs 7.6%
+- **Type III** — 2019 meta-analysis: success LHM 71% vs POEM 93% (OR 3.50 favoring POEM); retrospective study: POEM 98.0% vs LHM 80.8% response, adverse events 6% vs 27%; European trial subgroup: LHM 86% vs PD 40% (nonsignificant, 18 patients)
+
+### Post-therapy and Failed Therapy
+
+- ES: 4 equally weighted components (dysphagia, regurgitation, chest pain, weight loss) scored 0–3, range 0–12; >3 = suboptimal outcome; only marginal reliability and validity
+- Improved symptoms but barium column >5 cm at 5 minutes → follow closely; consider treatment if retention worsens or dilatation increases
+- Failure after Heller myotomy or POEM: 5%–30% over 1–3 years
+- PD after failed LHM (systematic review, 87 patients): mean 2.5 dilations, 89% success
+- POEM after LHM: 94% success at 12 months (13-center registry, 51 patients); 95.7% at median 28 months (46 patients); lower response than in myotomy-naïve patients in one cohort (81% vs 94%)
+- End-stage achalasia: severe dilatation (width >6 cm) and sink-trap distortion; esophagectomy may be needed for a dilated esophagus >8 cm with poor response to an initial myotomy (algorithm text)
+- Esophagectomy (meta-analysis): pneumonia 10%, mortality 2% at highly specialized centers. No recommendation can be made on the esophageal substitute; a separate review concluded gastric interposition is the first choice in most patients
 
 ### Cancer Risk
 
-- SCC risk: hazard ratio (HR) 28x; ~1 cancer/300 patient-years; 312 cases/100,000 patient-years (meta-analysis)
-- Adenocarcinoma also increased (21.23 cases/100,000 patient-years) but lower
-- >400 endoscopies needed to detect one cancer; poor survival once detected
-- Do NOT recommend routine surveillance (Strong; Low)
+- SCC: ~1 cancer per 300 patient-years (hazard ratio 28); 2017 meta-analysis 312.4 per 100,000 patient-years for SCC and 21.23 for adenocarcinoma
+- UK population study (7,487 patients): 1.3% developed esophageal cancer (205 per 100,000 patient-years)
+- >400 endoscopies to detect one cancer; survival poor once diagnosed
+- Many experts favor some endoscopic or radiographic surveillance every 3 years if disease present >10–15 years (not a graded recommendation)
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Diagnosis** | | |
-| HRM (esophageal pressure topography) recommended over conventional line-tracing manometry for esophageal motility disorders | Strong | High |
-| Always perform upper endoscopy to exclude pseudoachalasia before HRM | Summary Statement | — |
-| Patients with GERD not responding to PPI: evaluate for achalasia | Strong | Very Low |
-| ES or HRM alone should not be used to define treatment failure; TBE is the first-line test for continued or recurrent symptoms after definitive therapy (Rec 17) | Strong | Very Low |
-| **Definitive Treatment** | | |
-| PD, LHM, and POEM are comparable effective therapies for type I or II achalasia; POEM a better option in type III; botulinum toxin reserved for those who cannot undergo definitive therapy | Summary Statement | — |
-| PD or LHM: both effective and equivalent short- and long-term procedures (Rec 14) | Strong | High |
-| POEM or PD: comparable symptomatic improvement in types I or II (Rec 15) | Conditional | Low |
-| POEM and LHM: comparable symptomatic improvement (Rec 16) | Strong | Moderate |
-| Type III: tailored POEM or LHM as more efficacious LES-disruptive therapy than PD (Rec 9; POEM 93% vs LHM 71% in a 2019 meta-analysis) | Strong | Moderate |
-| POEM is associated with a higher incidence of GERD than LHM with fundoplication or PD (Rec 10; abnormal pH monitoring 39.0% POEM vs 16.8% surgical myotomy) | Strong | Moderate |
-| PD after failed LHM: safe and effective (89% success) | Strong | Moderate |
-| POEM after failed PD/LHM: 94–95.7% success | Strong | Low |
-| **Pharmacotherapy / Botulinum Toxin** | | |
-| Botulinum toxin injection first-line only for patients unfit for definitive therapies, compared with other less effective pharmacological therapies (Rec 4; 40.6% relief at 12 months) | Strong | Moderate |
-| **Cancer Surveillance** | | |
-| Routine endoscopic surveillance for SCC is NOT recommended despite 28× elevated risk | Strong | Low |
+Strength and GRADE quality as printed in Table 2, listed in Table 2's order; Rec numbers are those of the in-text recommendation boxes. Table 2 and the in-text boxes word several statements differently ("recommend" vs "suggest" for Recs 5, 15, 17, 19, 20 and 21; Rec 6 "we do not suggest" vs "recommend against"; Rec 10 "we support the evidence" vs "suggest") — the strength column is Table 2's.
+
+| # | Recommendation | Strength | GRADE quality |
+|---|---|---|---|
+| | **Diagnosis and assessment** | | |
+| Rec 1 | Patients initially suspected of GERD who do not respond to acid-suppressive therapy → evaluate for achalasia | Strong | Very low |
+| Rec 2 | Esophageal pressure topography (HRM) over conventional line tracing for diagnosing achalasia | Strong | High |
+| Rec 3 | Classifying achalasia subtype by the Chicago Classification may help inform prognosis and treatment choice (type II: very good outcomes with any therapy; type III: needs a more extensive myotomy) | Conditional | Low |
+| | **Initial treatment** | | |
+| Table 2 (ungraded) | In candidates for definitive therapy: PD, LHM and POEM are comparably effective for type I or II; POEM a better option for type III; botulinum toxin reserved for those who cannot undergo these definitive therapies | Ungraded | — |
+| Rec 15 | POEM or PD → comparable symptomatic improvement in types I or II (choice depends on institutional strength and patient preference) | Conditional | Low |
+| Rec 16 | POEM and LHM → comparable symptomatic improvement | Strong | Moderate |
+| Rec 9 | Type III: tailored POEM or LHM as a more efficacious LES-disruptive therapy than PD | Strong | Moderate |
+| Rec 13 | PD superior to medical therapy for symptoms and esophageal emptying (medical therapy only for those who are not candidates for PD, LHM or POEM) | Strong | Very low |
+| Rec 14 | PD and LHM: effective and equivalent short- and long-term procedures in candidates for definitive therapy | Strong | High |
+| Unnumbered (Table 2) | LHM over botulinum toxin injection in patients fit for surgery | Strong | Moderate |
+| Rec 4 | Botulinum toxin injection as first-line therapy for patients unfit for definitive therapies, compared with other less effective pharmacological therapies | Strong | Moderate |
+| Rec 5 | Previous botulinum toxin injection does not significantly affect performance and outcomes of myotomy | Conditional | Low |
+| Rec 7 | Myotomy with fundoplication superior to myotomy without fundoplication for controlling distal esophageal acid exposure | Strong | Moderate |
+| Rec 8 | Either Dor or Toupet fundoplication to control acid exposure in patients undergoing surgical myotomy | Conditional | Moderate |
+| Rec 12 | Against stent placement for long-term dysphagia in achalasia | Strong | Low |
+| | **Post-therapy assessment** | | |
+| Rec 6 | Against routine gastrografin esophagram after dilation; reserve it for clinical suspicion of perforation | Strong | Low |
+| Rec 17 | ES or HRM alone should not be used to define treatment failure when evaluating continued or recurrent symptoms after definitive therapy | Strong | Very low |
+| Rec 17 | TBE as the first-line test for continued or recurrent symptoms after definitive therapy | Strong | Very low |
+| Rec 10 | POEM is associated with a higher incidence of GERD than LHM with fundoplication or PD | Strong | Moderate |
+| | **Post-failed initial therapies** | | |
+| Rec 18 | PD is an appropriate and safe option for patients needing retreatment after initial surgical myotomy or POEM | Strong | Moderate |
+| Rec 20 | POEM is a safe option after previous PD or LHM | Strong | Low |
+| Rec 19 | Consider Heller myotomy before esophagectomy after failed PD and POEM, if anatomy is conducive and there is evidence of incomplete myotomy | Strong | Very low |
+| Rec 11 | Esophagectomy in surgically fit patients with megaesophagus who have failed other interventions | Strong | Low |
+| | **Cancer surveillance** | | |
+| Rec 21 | Against routine endoscopic surveillance for esophageal carcinoma in achalasia | Strong | Low |
+
+**Not in Table 2 (text only, ungraded):** PD is superior to botulinum toxin injection for long-term relief of symptoms and physiologic parameters. No recommendation on surgical approach or esophageal substitute for esophagectomy.
+
+### Key Concepts (Table 3, ungraded)
+
+- TBE showing retained barium and bird beaking, in the appropriate clinical presentation, may be diagnostic of achalasia
+- Endoscopic dilated esophagus with retained saliva and food and a puckered, tight gastroesophageal junction should raise suspicion for achalasia
+- FLIP can be complementary in evaluating achalasia before and after treatment
+- Pharmacologic therapy reserved for those who cannot undergo definitive therapy and have failed botulinum toxin injection
+- Serial PD is the most effective non-surgical treatment
+- Young men: PD with larger balloons (3.5 cm then 4 cm), myotomy or POEM may be more effective than initial PD with the 3-cm balloon
+- Suspected achalasia on clinical grounds → always upper endoscopy to rule out pseudoachalasia from an obstructing mass
+
+### Treatment Algorithm (Figure 8)
+
+- Dysphagia ± chest pain and bland regurgitation, or GERD symptoms not responsive to PPI → upper endoscopy
+  - Mechanical obstruction/esophagitis → treat appropriately
+  - Normal, or esophageal dilatation / EGJ resistance / retained food / diverticulum → HRM + TBE (FLIP may help if HRM not tolerated)
+- Type I or II → definitive therapy:
+  - PD 30/35/40 mm — may start with 35 mm in young males; routine gastrografin not needed; repeat in 2–4 weeks if no response
+  - LHM — Dor or Toupet fundoplication recommended
+  - POEM — standard myotomy length; all patients discharged with PPI therapy
+- Type III → tailored myotomy via POEM or tailored Heller myotomy
+- Unfit for definitive therapy → botulinum toxin, smooth muscle relaxants
+- Algorithm text: all definitive therapies in centers of excellence with adequate volume and expertise; unresponsive to PD → surgical myotomy; recurrence → repeat PD, Heller myotomy or POEM; acid suppression for GERD-induced symptoms
 
 ## Relevance to Wiki
 
 - **Creates:** the [[achalasia]] disease script
 - Anchors the **Foregut and Motility** section
 - Cross-links needed to: [[eosinophilic-esophagitis]] (differential diagnosis [DDx]), future [[gerd]] page, [[high-resolution-manometry]], [[poem]]
-- **[[pneumatic-dilation]]** — primary source for that page: the graded 3.0→3.5→4.0 cm protocol, inflation parameters (10–15 psi, 15–60 s), the surgical-candidacy prerequisite, favorable-response predictors, cumulative efficacy by balloon size, perforation rate and its size-dependent management, the recommendation against routine post-dilation esophagram, and PD-after-failed-LHM salvage
+- **[[pneumatic-dilation]]** — primary source for that page: the graded 3.0→3.5→4.0 cm protocol, inflation parameters (10–15 psi, 15–60 s), the surgical-candidacy prerequisite, favorable-response predictors, cumulative efficacy by balloon size, perforation rate and its size-dependent management, the recommendation against routine post-dilation esophagram, and PD salvage after failed myotomy or POEM
 
 ## Contradictions / Open Questions
 
-- POEM vs LHM long-term GERD data still evolving — this guideline predates widespread POEM use and 5+ year follow-up RCTs
-- Surveillance every 3 years after 10–15 years of disease discussed as expert opinion but not formally recommended; will likely be revisited in future guidelines
-- Chicago Classification v4.0 (2021) supersedes v3.0 referenced in this guideline — Type III achalasia criteria and esophagogastric junction (EGJ) outflow obstruction classification were updated; see [[chicago-classification-v4]]
+- The randomized POEM trials cited (POEM vs PD, POEM vs LHM) report 2-year outcomes; the guideline calls for long-term randomized comparisons of POEM and surgical myotomy
+- Expert-favored surveillance every 3 years after 10–15 years of disease is discussed but not recommended (Rec 21 recommends against routine surveillance)
+- PD reassessment interval: text says 4–6 weeks; Figure 8 says repeat in 2–4 weeks if no response
+- The guideline cites Chicago Classification v3.0; current subtype criteria are on [[chicago-classification-v4]]
 
 ## See Also
 

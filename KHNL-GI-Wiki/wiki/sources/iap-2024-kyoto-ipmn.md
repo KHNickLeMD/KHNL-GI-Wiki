@@ -5,6 +5,7 @@ tags: [ipmn, pancreatic-cysts, pancreatic-cancer, surveillance, high-risk-stigma
 created: 2026-11-12
 updated: 2026-11-12
 sources: []
+raw: "GI Guidelines/Other/IAP 2024 Kyoto Guidelines IPMN (Ohtsuka).pdf"
 ---
 
 ## Bibliographic Info

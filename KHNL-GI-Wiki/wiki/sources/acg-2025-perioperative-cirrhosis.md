@@ -5,6 +5,7 @@ tags: [cirrhosis, perioperative, surgical-risk, vocal-penn, meld, portal-hyperte
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Perioperative Risk in Cirrhosis.pdf"
 ---
 
 # ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)

@@ -5,6 +5,7 @@ tags: [cirrhosis, portal-hypertension, variceal-bleeding, ascites, sbp, hepatore
 created: 2026-07-23
 updated: 2026-11-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Vasoactive Drugs & IV Albumin in Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

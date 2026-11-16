@@ -5,6 +5,7 @@ tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, brto, r
 created: 2026-06-04
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2024 TIPS Variceal Embolization RTO.pdf"
 ---
 
 # AASLD Practice Guidance: TIPS, Variceal Embolization, and RTO (2024)

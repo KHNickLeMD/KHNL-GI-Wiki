@@ -5,6 +5,7 @@ tags: [cirrhosis, palliative-care, hospice, advance-care-planning, goals-of-care
 created: 2026-09-19
 updated: 2026-09-19
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Palliative Care in Cirrhosis.pdf"
 ---
 
 # AGA Clinical Practice Update on Palliative Care Management in Cirrhosis (2021)

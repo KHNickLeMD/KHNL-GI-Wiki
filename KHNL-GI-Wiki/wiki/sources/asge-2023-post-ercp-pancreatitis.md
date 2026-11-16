@@ -5,6 +5,7 @@ tags: [ercp, post-ercp-pancreatitis, pep, rectal-nsaid, pancreatic-stent, wire-g
 created: 2026-06-04
 updated: 2026-10-30
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2023 Post-ERCP Pancreatitis Prevention.pdf"
 ---
 
 ## Bibliographic Info

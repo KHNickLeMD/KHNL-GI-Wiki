@@ -5,6 +5,7 @@ tags: [hiatal-hernia, paraesophageal-hernia, gastric-volvulus, antireflux-surger
 created: 2026-10-25
 updated: 2026-10-25
 sources: []
+raw: "GI Guidelines/SAGES/SAGES 2013 Management of Hiatal Hernia (Kohn).pdf"
 ---
 
 ## Bibliographic Info

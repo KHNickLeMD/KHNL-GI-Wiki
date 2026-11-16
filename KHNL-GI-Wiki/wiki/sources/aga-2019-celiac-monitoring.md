@@ -5,6 +5,7 @@ tags: [celiac, serology, ttg, marsh, histology, monitoring, mucosal-healing, glu
 created: 2026-09-10
 updated: 2026-09-23
 sources: [acg-2022-celiac, aga-2022-refractory-celiac]
+raw: "GI Guidelines/AGA/AGA 2019 CPU Celiac Serology and Histology Monitoring.pdf"
 ---
 
 ## Bibliographic Info

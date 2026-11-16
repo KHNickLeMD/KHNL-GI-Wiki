@@ -5,6 +5,7 @@ tags: [foreign-body, food-impaction, esophagus, button-battery, magnets, body-pa
 created: 2026-08-28
 updated: 2026-08-28
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2011 Foreign Body Ingestion.pdf"
 ---
 
 ## Bibliographic Info

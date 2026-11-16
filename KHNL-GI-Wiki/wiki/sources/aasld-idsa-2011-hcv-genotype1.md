@@ -5,6 +5,7 @@ tags: [hepatitis-c, HCV, boceprevir, telaprevir, peginterferon, ribavirin, prote
 created: 2026-06-10
 updated: 2026-10-08
 sources: []
+raw: "GI Guidelines/AASLD/AASLD IDSA 2011 Hepatitis C Update.pdf"
 ---
 
 > ⚠ **Superseded — historical record.** The regimens, doses, durations and stopping rules below belong to the **first-generation protease-inhibitor era** (boceprevir or telaprevir added to peginterferon alfa + ribavirin). They were replaced by interferon-free [[direct-acting-antivirals|direct-acting antiviral (DAA)]] therapy — for current care see [[aasld-idsa-2023-hcv|American Association for the Study of Liver Diseases (AASLD)–Infectious Diseases Society of America (IDSA) 2023 Hepatitis C Guidance]]. Nothing on this page should be used to treat a patient today.

@@ -5,6 +5,7 @@ tags: [ibd, extraintestinal-manifestations, vte, anemia, psc, spondyloarthritis,
 created: 2026-11-13
 updated: 2026-11-13
 sources: []
+raw: "GI Guidelines/Other/ECCO 2024 Extraintestinal Manifestations in IBD (Gordon).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [acute-pancreatitis, idiopathic-pancreatitis, chronic-pancreatitis, sphinc
 created: 2026-06-29
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Endoscopy in Benign Pancreatic Disease.pdf"
 ---
 
 ## Bibliographic Info

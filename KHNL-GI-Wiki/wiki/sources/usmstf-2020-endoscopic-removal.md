@@ -5,6 +5,7 @@ tags: [colonoscopy, polypectomy, emr, esd, colorectal, crc-prevention, advanced-
 created: 2026-05-07
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2020 Endoscopic Removal of Colorectal Lesions.pdf"
 ---
 
 ## Bibliographic Info

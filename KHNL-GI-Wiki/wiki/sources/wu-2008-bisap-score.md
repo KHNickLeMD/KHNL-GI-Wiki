@@ -5,6 +5,7 @@ tags: [acute-pancreatitis, bisap, severity, prognosis, score-derivation, mortali
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Other Studies/Wu 2008 BISAP Early Prediction of Mortality Acute Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

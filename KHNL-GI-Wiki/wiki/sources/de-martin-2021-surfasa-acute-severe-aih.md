@@ -5,6 +5,7 @@ tags: [autoimmune-hepatitis, acute-liver-failure, liver-transplantation, cortico
 created: 2026-10-21
 updated: 2026-10-21
 sources: []
+raw: "GI Other Studies/De Martin 2021 SURFASA Score Acute Severe Autoimmune Hepatitis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colorectal]
 created: 2026-05-16
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Colorectal Cancer Screening.pdf"
 ---
 
 ## Bibliographic Info

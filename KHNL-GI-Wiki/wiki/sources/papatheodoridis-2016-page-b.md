@@ -5,6 +5,7 @@ tags: [hepatitis-b, hcc, surveillance, score, page-b, entecavir, tenofovir]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Papatheodoridis 2016 PAGE-B HCC Risk Chronic Hepatitis B.pdf"
 ---
 
 ## Bibliographic Info

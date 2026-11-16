@@ -5,6 +5,7 @@ tags: [eus-gbd, acute-cholecystitis, gallbladder-drainage, lams, percutaneous-ch
 created: 2026-07-23
 updated: 2026-11-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU EUS-Guided Gallbladder Drainage in Acute Cholecystitis.pdf"
 ---
 
 # AGA 2023 Clinical Practice Update on Role of EUS-Guided Gallbladder Drainage in Acute Cholecystitis

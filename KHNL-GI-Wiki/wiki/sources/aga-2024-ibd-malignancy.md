@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologi
 created: 2026-07-26
 updated: 2026-07-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU IBD in Malignancy.pdf"
 ---
 
 ## Bibliographic Info

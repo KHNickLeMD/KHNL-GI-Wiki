@@ -5,6 +5,7 @@ tags: [gastric-outlet-obstruction, stent, sems, gastrojejunostomy, eus-ge, lams,
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2021 Benign and Malignant Gastroduodenal Obstruction (Jue).pdf"
 ---
 
 ## Bibliographic Info

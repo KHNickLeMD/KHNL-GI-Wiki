@@ -5,6 +5,7 @@ tags: [hht, curacao-criteria, telangiectasia, avm, diagnosis, consensus, score-d
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/Shovlin 2000 Curacao Criteria HHT.pdf"
 ---
 
 ## Bibliographic Info

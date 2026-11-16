@@ -5,6 +5,7 @@ tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing
 created: 2026-10-28
 updated: 2026-11-03
 sources: []
+raw: "GI Other Studies/Barr Fritcher 2015 Optimized FISH Probes Pancreatobiliary Cancer.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [pancreatic-cancer, screening, surveillance, genetics, eus, mri, peutz-jeg
 created: 2026-09-03
 updated: 2026-09-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Pancreas Cancer Screening High-Risk.pdf"
 ---
 
 ## Bibliographic Info

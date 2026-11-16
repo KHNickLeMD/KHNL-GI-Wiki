@@ -5,6 +5,7 @@ tags: [acute-pancreatitis, fluid-resuscitation, lactated-ringers, rct]
 created: 2026-07-01
 updated: 2026-10-30
 sources: [demadaria-2022-waterfall]
+raw: "GI RCTs/Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis WATERFALL Trial.pdf"
 ---
 
 ## Bibliographic Info

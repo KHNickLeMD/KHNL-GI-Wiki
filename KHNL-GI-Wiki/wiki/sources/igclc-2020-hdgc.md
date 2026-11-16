@@ -5,6 +5,7 @@ tags: [hdgc, cdh1, ctnna1, diffuse-gastric-cancer, lobular-breast-cancer, prophy
 created: 2026-11-06
 updated: 2026-11-06
 sources: []
+raw: "GI Guidelines/Other/IGCLC 2020 Hereditary Diffuse Gastric Cancer (Blair).pdf"
 ---
 
 ## Bibliographic Info

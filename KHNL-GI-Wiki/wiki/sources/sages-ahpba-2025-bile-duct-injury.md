@@ -5,6 +5,7 @@ tags: [bile-duct-injury, cholecystectomy, biliary, hepaticojejunostomy, ercp, gu
 created: 2026-11-11
 updated: 2026-11-11
 sources: []
+raw: "GI Guidelines/SAGES/SAGES-AHPBA 2025 Bile Duct Injury (Calabrese).pdf"
 ---
 
 ## Bibliographic Info

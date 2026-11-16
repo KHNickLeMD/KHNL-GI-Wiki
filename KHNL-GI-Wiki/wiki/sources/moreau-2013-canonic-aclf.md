@@ -5,6 +5,7 @@ tags: [ACLF, cirrhosis, organ-failure, CLIF-SOFA, EASL-CLIF, prognosis, score]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Moreau 2013 CANONIC Acute-on-Chronic Liver Failure CLIF-SOFA.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [nafld, nash, masld, steatosis, fibrosis, liver-biopsy, vitamin-e, pioglit
 created: 2026-10-02
 updated: 2026-10-02
 sources: []
+raw: "GI Guidelines/AGA/AGA 2012 NAFLD Diagnosis & Management (AGA-AASLD-ACG).pdf"
 ---
 
 ## Bibliographic Info

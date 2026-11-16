@@ -5,6 +5,7 @@ tags: [flip, panometry, esophageal-motility, egj, achalasia, egjoo, eoe, gerd, p
 created: 2026-06-27
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU FLIP in Esophageal Practice.pdf"
 ---
 
 ## Bibliographic Info

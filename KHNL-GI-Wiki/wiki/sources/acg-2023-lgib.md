@@ -5,6 +5,7 @@ tags: [lower-gi-bleeding, lgib, colonoscopy, hemorrhage, diverticular]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2023 Update Management of Patients With Acute Lower Gastrointestinal Bleeding.pdf"
 ---
 
 ## Bibliographic Info

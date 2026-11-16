@@ -5,6 +5,7 @@ tags: [g-poem, gastroparesis, pyloromyotomy, third-space-endoscopy, gcsi, gastri
 created: 2026-07-23
 updated: 2026-07-23
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU G-POEM for Gastroparesis.pdf"
 ---
 
 # AGA 2023 CPU: Gastric Peroral Endoscopic Myotomy for Gastroparesis (Commentary)

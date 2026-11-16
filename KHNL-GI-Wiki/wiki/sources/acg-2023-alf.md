@@ -5,6 +5,7 @@ tags: [acute-liver-failure, alf, liver, hepatology]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2023 Acute Liver Failure.pdf"
 ---
 
 ## Bibliographic Info

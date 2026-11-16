@@ -5,6 +5,7 @@ tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, colonoscopy, ct-im
 created: 2026-05-21
 updated: 2026-08-26
 sources: []
+raw: "GI Guidelines/ACG/ACG 2015 Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, & Management of Colon Ischemia.pdf"
 ---
 
 ## Bibliographic Info

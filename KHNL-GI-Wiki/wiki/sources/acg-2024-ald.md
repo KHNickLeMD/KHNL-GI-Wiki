@@ -5,6 +5,7 @@ tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, li
 created: 2026-05-07
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/ACG/ACG 2024 Alcohol Associated Liver Disease.pdf"
 ---
 
 ## Bibliographic Info

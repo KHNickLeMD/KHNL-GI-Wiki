@@ -5,6 +5,7 @@ tags: [elastography, vcte, fibroscan, mre, liver-stiffness, fibrosis, cirrhosis,
 created: 2026-09-26
 updated: 2026-09-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 Elastography for Liver Fibrosis.pdf"
 ---
 
 ## Bibliographic Info

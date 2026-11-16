@@ -5,6 +5,7 @@ tags: [semaglutide, glp-1, alcohol-use-disorder, aud, alcohol, craving, rct]
 created: 2026-07-01
 updated: 2026-10-30
 sources: [hendershot-2025-semaglutide-aud]
+raw: "GI RCTs/Semaglutide for AUD RCT.pdf"
 ---
 
 ## Bibliographic Info

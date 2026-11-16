@@ -3,8 +3,9 @@ title: "AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonosco
 category: source
 tags: [colonoscopy, cade, artificial-intelligence, adenoma-detection, colorectal-cancer-screening, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CADe-Assisted Colonoscopy.pdf"
 ---
 
 # AGA Living Guideline: CADe-Assisted Colonoscopy (2025)
@@ -30,7 +31,7 @@ This American Gastroenterological Association (AGA) living guideline evaluates *
 
 - **No recommendation for or against** CADe-assisted [[colonoscopy]] (very low certainty).
 - Modeling suggested a small benefit of roughly **11 fewer colorectal cancers per 10,000** screened and a trivial/no effect on colorectal cancer (CRC)-related mortality (~2 fewer deaths per 10,000 over 10 years).
-- CADe **increases adenoma detection rate (ADR)** but with **no clear increase in sessile serrated lesion detection** and at the cost of detecting more diminutive/non-neoplastic lesions, adding **downstream polypectomy and [[colonoscopy-surveillance|surveillance]] burden**.
+- CADe **increases adenoma detection rate (ADR)** by an absolute 8% (95% CI, 6%–10%) and **may increase sessile serrated lesion detection** — 6.0 → 7.0 per 100, RR 1.21 (95% CI, 1.04–1.42), an absolute increase of 1% (low certainty; the lower confidence bound allows no important increase) — at the cost of detecting more diminutive/non-neoplastic lesions, adding **downstream polypectomy and [[colonoscopy-surveillance|surveillance]] burden**.
 - The desirable–undesirable tradeoff is **close**, and patient values, costs, and resource implications vary — favoring shared decision-making over a blanket mandate.
 
 ---

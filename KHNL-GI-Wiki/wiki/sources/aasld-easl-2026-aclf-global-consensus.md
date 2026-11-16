@@ -5,6 +5,7 @@ tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, cons
 created: 2026-11-13
 updated: 2026-11-13
 sources: []
+raw: "GI Guidelines/AASLD/AASLD-EASL-APASL-ALEH-SOLDA 2026 ACLF Global Consensus on Definitions.pdf"
 ---
 
 ## Bibliographic Info

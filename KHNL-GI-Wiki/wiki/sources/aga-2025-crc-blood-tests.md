@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, screening, blood-test, liquid-biopsy, cfdna, guar
 created: 2026-06-27
 updated: 2026-10-17
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Blood Tests for CRC Screening.pdf"
 ---
 
 ## Bibliographic Info

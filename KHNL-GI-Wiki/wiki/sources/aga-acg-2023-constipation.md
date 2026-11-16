@@ -5,6 +5,7 @@ tags: [constipation, cic, laxatives, secretagogues, prokinetics, colorectal]
 created: 2026-05-16
 updated: 2026-09-10
 sources: []
+raw: "GI Guidelines/ACG/AGA ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation.pdf"
 ---
 
 ## Bibliographic Info

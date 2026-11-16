@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, liver-cancer, screening, bclc, child-pugh,
 created: 2026-06-18
 updated: 2026-10-10
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 HCC.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [hepatopulmonary-syndrome, portopulmonary-hypertension, liver-transplant, 
 created: 2026-11-04
 updated: 2026-11-04
 sources: []
+raw: "GI Guidelines/Other/ILTS 2016 Hepatopulmonary Syndrome and Portopulmonary Hypertension (Krowka).pdf"
 ---
 
 ## Bibliographic Info

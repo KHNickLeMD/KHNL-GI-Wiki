@@ -5,6 +5,7 @@ tags: [cirrhosis, palliative-care, symptom-management, advance-care-planning, qu
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2022 Palliative Care Decompensated Cirrhosis.pdf"
 ---
 
 # AASLD Practice Guidance: Palliative Care in Decompensated Cirrhosis (2022)

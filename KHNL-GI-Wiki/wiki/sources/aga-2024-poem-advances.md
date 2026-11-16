@@ -5,6 +5,7 @@ tags: [poem, achalasia, egjoo, esophageal-motility, spastic-esophageal-disorders
 created: 2026-07-29
 updated: 2026-07-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Advances in POEM.pdf"
 ---
 
 ## Bibliographic Info

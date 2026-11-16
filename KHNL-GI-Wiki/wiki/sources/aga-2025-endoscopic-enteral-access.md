@@ -5,6 +5,7 @@ tags: [enteral-access, peg, pegj, dpej, nasoenteric, gastrostomy, jejunostomy, e
 created: 2026-07-23
 updated: 2026-07-23
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Endoscopic Enteral Access.pdf"
 ---
 
 # AGA 2025 Clinical Practice Update on Endoscopic Enteral Access: Commentary

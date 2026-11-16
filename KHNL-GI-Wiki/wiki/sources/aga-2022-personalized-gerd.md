@@ -5,6 +5,7 @@ tags: [gerd, reflux, phenotyping, acid-exposure-time, ambulatory-reflux-monitori
 created: 2026-09-09
 updated: 2026-09-09
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Personalized Approach to GERD.pdf"
 ---
 
 ## Bibliographic Info

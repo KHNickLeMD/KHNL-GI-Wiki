@@ -5,6 +5,7 @@ tags: [pregnancy, liver-disease, ibd, endoscopy, ercp, hyperemesis-gravidarum, n
 created: 2026-07-26
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Pregnancy-Related GI & Liver Disease.pdf"
 ---
 
 ## Bibliographic Info

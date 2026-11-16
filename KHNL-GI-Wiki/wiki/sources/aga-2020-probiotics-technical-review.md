@@ -5,6 +5,7 @@ tags: [probiotics, microbiome, c-difficile, pouchitis, ibd, ibs, necrotizing-ent
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 Technical Review Probiotics (Preidis).pdf"
 ---
 
 ## Bibliographic Info

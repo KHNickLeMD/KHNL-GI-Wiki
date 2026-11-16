@@ -5,6 +5,7 @@ tags: [colonoscopy, quality, adr, sdr, withdrawal-time, cecal-intubation, bowel-
 created: 2026-09-23
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Quality of Screening and Surveillance Colonoscopy.pdf"
 ---
 
 ## Bibliographic Info

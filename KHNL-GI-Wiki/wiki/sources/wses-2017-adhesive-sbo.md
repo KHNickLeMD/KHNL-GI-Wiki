@@ -5,6 +5,7 @@ tags: [small-bowel-obstruction, adhesions, wses, emergency-surgery, adhesiolysis
 created: 2026-11-15
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/WSES 2017 Bologna Guidelines Adhesive Small Bowel Obstruction (Ten Broek).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [small-bowel-bleeding, obscure-gi-bleeding, capsule-endoscopy, vce, device
 created: 2026-06-22
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2017 Endoscopy in Suspected Small-Bowel Bleeding.pdf"
 ---
 
 ## Bibliographic Info

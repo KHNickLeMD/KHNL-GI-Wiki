@@ -5,6 +5,7 @@ tags: [gerd, tif, ctif, esophyx, fundoplication, antireflux-surgery, hiatal-hern
 created: 2026-08-27
 updated: 2026-08-27
 sources: []
+raw: "GI Guidelines/AFS/AFS 2023 Transoral Incision Fundoplication.pdf"
 ---
 
 ## Bibliographic Info

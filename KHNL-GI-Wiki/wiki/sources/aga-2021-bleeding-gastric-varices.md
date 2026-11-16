@@ -5,6 +5,7 @@ tags: [gastric-varices, portal-hypertension, variceal-bleeding, cyanoacrylate, b
 created: 2026-09-06
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Bleeding Gastric Varices.pdf"
 ---
 
 ## Bibliographic Info

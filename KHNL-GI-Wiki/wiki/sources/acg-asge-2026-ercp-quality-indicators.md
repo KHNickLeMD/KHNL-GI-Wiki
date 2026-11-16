@@ -5,6 +5,7 @@ tags: [ercp, quality, quality-indicators, cannulation, post-ercp-pancreatitis, r
 created: 2026-10-25
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ASGE/ACG-ASGE 2026 Quality Indicators for ERCP (Anderson).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [crohns, ibd, biologics, anti-tnf, vedolizumab, ustekinumab, risankizumab,
 created: 2026-05-07
 updated: 2026-09-26
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Management of Crohn's.pdf"
 ---
 
 ## Bibliographic Info

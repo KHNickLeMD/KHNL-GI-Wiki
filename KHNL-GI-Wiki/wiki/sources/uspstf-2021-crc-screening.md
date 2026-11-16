@@ -5,6 +5,7 @@ tags: [colorectal-cancer, screening, fit, sdna-fit, colonoscopy, ct-colonography
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/Other/USPSTF 2021 Screening for Colorectal Cancer Recommendation Statement (Davidson).pdf"
 ---
 
 ## Bibliographic Info

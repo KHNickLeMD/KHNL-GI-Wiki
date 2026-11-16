@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-11-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -58,7 +58,6 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 | Type | Key features | Malignant potential |
 |---|---|---|
 | **Simple hepatic cyst** | Thin-walled; anechoic with through transmission; smooth margins; no septa/nodules/solid components | None |
-| **Hemorrhagic cyst** | Prior bleed into a simple cyst; internal echoes; blood products on MRI | None (distinguish from neoplasm) |
 | **Polycystic liver disease** | **>10–20** hepatic cysts with simple-cyst characteristics; few or no kidney cysts; a ciliopathy; isolated (autosomal dominant polycystic liver disease [ADPLD]) or with **autosomal dominant polycystic kidney disease (ADPKD)** | None (but major morbidity) |
 | **Hydatid cyst** | *Echinococcus granulosus*; daughter cysts, floating membranes ("water-lily"), calcification; endemic exposure | None (infectious) |
 | **Mucinous cystic neoplasm of the liver** | 2019 World Health Organization (WHO) reclassification of **biliary cystadenoma / cystadenocarcinoma**; septa ± mural nodularity; ovarian-type subepithelial stroma; **no biliary communication** | **Up to ~10%** malignant transformation (historically 20%–30%) |
@@ -76,7 +75,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 
 - **Pyogenic liver abscess** — fever, elevated white blood cell count (WBC), right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; [[entamoeba-histolytica-infection|amoebic abscess]] (tropical exposure, elevated serology)
 - **Infected simple cyst**
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]] with necrosis** — in a [[cirrhosis|cirrhotic]] background; [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] features; solid areas
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]] with necrosis** — in a [[cirrhosis|cirrhotic]] background; solid areas
 - **MCN-L** — middle-aged women; cystic + solid components; **does not communicate with bile ducts**; ovarian-type stroma
 - **IPNB** — **communicates** with the bile duct; ductal dilation on [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]
 - **Hydatid cyst** — daughter cysts, detached membranes
@@ -199,7 +198,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 | **V (Caroli disease)** | **Intrahepatic bile ducts only** — **least common**. Distinguish from **Caroli *syndrome***, which adds congenital hepatic fibrosis and kidney cysts | Hepatic resection or, in selected cases, [[liver-transplantation\|liver transplantation]] |
 
 - Arise from **reflux of pancreatic enzymes** into the biliary tree through an **APBJ**; ~4:1 female predominance; more common in Asian populations; 80% present in the first decade, though adult incidence is rising.
-- Diagnosis: **[[mri-mrcp|MRI/MRCP]]**, [[ercp|ERCP]], or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]].
+- Diagnosis: **[[mri-mrcp|MRI/MRCP]]**, [[ercp|ERCP]], or percutaneous transhepatic cholangiography; MRCP can detect an APBJ without instrumenting the biliary tree.
 
 - **Types I and IV require ongoing surveillance imaging even after resection** because malignancy risk persists (KC 49b; interval cannot be specified)
 - **Types IV and V with unresectable disease → consider liver transplantation** (KC 50)

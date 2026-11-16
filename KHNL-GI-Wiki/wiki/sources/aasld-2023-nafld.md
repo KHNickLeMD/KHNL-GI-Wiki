@@ -5,6 +5,7 @@ tags: [nafld, masld, nash, mash, steatosis, fibrosis, fib-4, elf, vcte, mre, nit
 created: 2026-05-31
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2023 NAFLD Clinical Assessment Management.pdf"
 ---
 
 ## Bibliographic Info

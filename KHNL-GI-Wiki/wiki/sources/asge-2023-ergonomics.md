@@ -5,6 +5,7 @@ tags: [ergonomics, endoscopy-related-injury, eri, occupational-health, musculosk
 created: 2026-06-04
 updated: 2026-10-07
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2023 Ergonomics in Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [bowel-prep, colonoscopy, split-dose, peg, bowel-cleansing, crc-screening,
 created: 2026-07-16
 updated: 2026-10-30
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Bowel Preparation Before Colonoscopy.pdf"
 ---
 
 > ⚠ **Historical / superseded source.** This American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice Committee guideline is **superseded by [[usmstf-2025-bowel-prep|US Multi-Society Task Force (USMSTF) 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]** (published simultaneously in *Gastrointest Endosc*, ASGE's own journal; also cited as "ACG 2025 Bowel Prep"). Several of its core recommendations are **directly contradicted** by the 2025 statement (4 L as criterion standard, the 3–8 h second-dose window, multi-day low-residue diet, simethicone, non-simethicone adjuncts) — see [[#Contradictions / Open Questions]]. Per source priority, entity pages assert the 2025 claims. Captured here for landmark reference and for the **non-conflicting detail it still uniquely supplies**: the product-level preparation table, the bowel-preparation scoring scales, and agent-specific safety cautions.

@@ -5,6 +5,7 @@ tags: [preprocedure, laboratory-testing, sedation, coagulation, pregnancy-testin
 created: 2026-07-01
 updated: 2026-10-23
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2014 Laboratory Testing Before Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

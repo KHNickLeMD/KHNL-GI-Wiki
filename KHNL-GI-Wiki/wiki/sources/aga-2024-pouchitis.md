@@ -5,6 +5,7 @@ tags: [pouchitis, ipaa, ulcerative-colitis, ibd, antibiotics, probiotics, guidel
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Pouchitis and Inflammatory Pouch Disorders (2024)

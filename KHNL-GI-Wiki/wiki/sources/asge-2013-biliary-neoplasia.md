@@ -5,6 +5,7 @@ tags: [biliary-neoplasia, cholangiocarcinoma, ampullary-adenocarcinoma, gallblad
 created: 2026-06-29
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2013 Biliary Neoplasia.pdf"
 ---
 
 ## Bibliographic Info

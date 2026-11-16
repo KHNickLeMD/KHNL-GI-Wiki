@@ -5,6 +5,7 @@ tags: [travel-medicine, fever, tropical-infections, enteric-fever, no-full-text,
 created: 2026-05-15
 updated: 2026-10-18
 sources: []
+raw: "GI Lectures+Chalk Talks/Fever_in_a_Returning_Traveler.md"
 ---
 
 > ⚠️ **No such 2023 article could be confirmed, and no full text is on file.** The slug's "2023" date appears to be wrong: the New England Journal of Medicine article on this topic is **Thwaites GE, Day NPJ. Approach to Fever in the Returning Traveler. *N Engl J Med* 2017;376:548–60** — a **narrative review**, not a 2023 publication.

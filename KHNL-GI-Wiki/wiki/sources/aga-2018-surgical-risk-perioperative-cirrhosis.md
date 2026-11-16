@@ -5,6 +5,7 @@ tags: [cirrhosis, perioperative, surgical-risk, meld, child-pugh, ctp, asa-class
 created: 2026-09-19
 updated: 2026-09-19
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Surgical Risk & Perioperative Management in Cirrhosis.pdf"
 ---
 
 ## Contents

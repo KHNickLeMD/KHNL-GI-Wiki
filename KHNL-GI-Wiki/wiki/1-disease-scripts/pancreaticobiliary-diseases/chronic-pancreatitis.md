@@ -125,7 +125,7 @@ Apply only when history/exam is suspicious for CP — pain, prior [[acute-pancre
 
 - **Toxic-metabolic:** alcohol (3–4/d; ≥5/d), smoking (pack-years), hypercalcemia (ionized calcium [iCa] **>12 mg/dL**), hypertriglyceridemia (fasting **>300** / nonfasting **>500**), medications
 - **Idiopathic:** early-onset (**<35 yr**) vs late-onset (**>35 yr**)
-- **Genetic:** PRSS1 (autosomal dominant [AD], [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (autosomal recessive [AR], severe), CFTR (cystic fibrosis or CFTR-related disorder [CFTR-RD]), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (maturity-onset diabetes of the young type 8 [MODY-8])
+- **Genetic:** PRSS1 ([[hereditary-pancreatitis|hereditary pancreatitis]]; autosomal dominant [AD] in the TIGAR-O checklist, "complex, low penetrance" in ACG Table 7), SPINK1 (autosomal recessive [AR]; homozygotes more severe), CFTR (cystic fibrosis or CFTR-related disorder [CFTR-RD]), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (maturity-onset diabetes of the young type 8 [MODY-8])
 - **Autoimmune:** AIP type 1 (IgG4-related) / type 2 (IBD-associated)
 - **Recurrent (RAP) and severe (SAP) acute pancreatitis:** biliary, post-ERCP, traumatic, undetermined
 - **Obstructive:** [[pancreas-divisum|pancreas divisum]], ampullary stenosis, main-duct stones, calcifications, strictures, mass

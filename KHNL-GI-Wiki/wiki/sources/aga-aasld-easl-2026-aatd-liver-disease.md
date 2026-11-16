@@ -5,6 +5,7 @@ tags: [alpha-1-antitrypsin, aatd, serpina1, pizz, liver-fibrosis, noninvasive-te
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/AGA/AGA AASLD EASL 2026 Alpha-1 Antitrypsin Deficiency Liver Disease (Loomba).pdf"
 ---
 
 ## Bibliographic Info

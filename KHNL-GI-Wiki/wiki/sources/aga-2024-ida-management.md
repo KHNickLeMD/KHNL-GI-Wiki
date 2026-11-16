@@ -5,6 +5,7 @@ tags: [iron-deficiency-anemia, ida, oral-iron, intravenous-iron, ferrous-sulfate
 created: 2026-07-24
 updated: 2026-07-24
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Iron Deficiency Anemia.pdf"
 ---
 
 ## Bibliographic Info

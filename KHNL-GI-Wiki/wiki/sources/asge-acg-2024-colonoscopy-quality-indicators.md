@@ -5,6 +5,7 @@ tags: [colonoscopy, quality, quality-indicators, adr, ssldr, apc, withdrawal-tim
 created: 2026-10-24
 updated: 2026-10-24
 sources: []
+raw: "GI Guidelines/ASGE/ASGE-ACG 2024 Quality Indicators for Colonoscopy (Rex).pdf"
 ---
 
 ## Bibliographic Info

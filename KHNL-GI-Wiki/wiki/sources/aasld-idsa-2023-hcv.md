@@ -5,6 +5,7 @@ tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, glecaprevir, pibrentasvi
 created: 2026-05-28
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AASLD/AASLD IDSA 2023 Hepatitis C.pdf"
 ---
 
 ## Bibliographic Info

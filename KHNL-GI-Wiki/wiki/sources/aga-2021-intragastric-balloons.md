@@ -5,6 +5,7 @@ tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-manag
 created: 2026-06-04
 updated: 2026-10-06
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 Intragastric Balloons for Obesity.pdf"
 ---
 
 # AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)

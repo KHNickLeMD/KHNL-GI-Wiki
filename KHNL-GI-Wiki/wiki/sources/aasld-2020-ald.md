@@ -5,6 +5,7 @@ tags: [ald, alcoholic-hepatitis, corticosteroids, prednisolone, lille-score, mdf
 created: 2026-05-28
 updated: 2026-09-15
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2020 Alcohol-Associated Liver Disease.pdf"
 ---
 
 ## Bibliographic Info

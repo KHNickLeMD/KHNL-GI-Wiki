@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, ibs, functional-gi, dgbi, fecal-calprote
 created: 2026-09-28
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Functional GI Symptoms in IBD.pdf"
 ---
 
 # AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptoms in Patients With Inflammatory Bowel Disease

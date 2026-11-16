@@ -5,6 +5,7 @@ tags: [opioids, narcotic-bowel-syndrome, opioid-induced-constipation, pamora, mo
 created: 2026-09-29
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 CPU Opioids in Gastroenterology.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [capsule-endoscopy, lewis-score, crohns-disease, small-bowel, nsaid-entero
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Gralnek 2008 Lewis Score Capsule Endoscopy Small Bowel Inflammation.pdf"
 ---
 
 ## Bibliographic Info

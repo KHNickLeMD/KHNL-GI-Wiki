@@ -5,6 +5,7 @@ tags: [ulcerative-colitis, ibd, 5-asa, anti-tnf, asuc, surveillance, grade]
 created: 2026-06-09
 updated: 2026-10-08
 sources: []
+raw: "GI Guidelines/ACG/ACG 2019 Ulcerative Colitis in Adults.pdf"
 ---
 
 > ⚠ **Historical / superseded edition.** Superseded by [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis in Adults (2025)]]; moderate-to-severe drug positioning is further updated by [[aga-2024-uc-pharm|AGA Clinical Practice Guideline on the Pharmacological Management of Moderate-to-Severe Ulcerative Colitis (2024)]]. Records the positions the 2019 edition took — see [[#Contradictions / Open Questions]] for what changed.

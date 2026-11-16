@@ -5,6 +5,7 @@ tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, colonoscop
 created: 2026-07-23
 updated: 2026-11-03
 sources: []
+raw: "GI Guidelines/ACG/ACG 2026 Diverticulitis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [gastric-cancer, gastric-adenocarcinoma, her2, pd-l1, msi-h, dmmr, claudin
 created: 2026-06-18
 updated: 2026-10-12
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 Gastric Cancer.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [gastric, gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, h-pylo
 created: 2026-05-07
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Diagnosis & Management of Gastric Premalignant Lesions.pdf"
 ---
 
 ## Bibliographic Info

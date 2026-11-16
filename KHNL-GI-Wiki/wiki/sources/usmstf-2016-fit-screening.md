@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, screening, fit, fecal-immunochemical-test, fobt, 
 created: 2026-05-24
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2016 Fecal Immunochemical Testing to Screen for Colorectal Neoplasia.pdf"
 ---
 
 ## Bibliographic Info

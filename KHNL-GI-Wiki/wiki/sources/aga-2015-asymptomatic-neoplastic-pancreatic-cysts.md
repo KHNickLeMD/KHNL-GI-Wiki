@@ -5,6 +5,7 @@ tags: [pancreatic-cysts, ipmn, mcn, surveillance, eus-fna, mri, pancreatic-cance
 created: 2026-09-25
 updated: 2026-09-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [constipation, refractory-constipation, slow-transit, defecatory-disorder,
 created: 2026-06-27
 updated: 2026-10-18
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Refractory Constipation.pdf"
 ---
 
 ## Bibliographic Info
@@ -184,7 +185,7 @@ flowchart TD
 - A subset of RC patients also have upper GI symptoms and/or gastroduodenal dysmotility. **A meta-analysis found recurrent constipation and poor quality of life after colectomy were more common in patients with upper GI dysmotility before surgery.**
 - **Obtain gastric emptying** to identify **moderate-to-severe delayed gastric emptying** ([[gastroparesis]]) or more diffuse upper GI dysmotility **in constipated patients with clinically significant upper GI symptoms**. Note: constipation itself can contribute to upper GI symptoms, which may improve after colectomy.
 - **Do not use barium x-ray or lactulose breath tests to assess small intestinal transit** — inadequately validated and limited.
-- **Small bowel imaging** (small bowel follow-through, computed tomography (CT) or MR enterography) helps **exclude small intestinal dilatation** when suspicion for small intestinal dysmotility or [[acute-colonic-pseudo-obstruction|chronic intestinal pseudo-obstruction]] is high.
+- **Small bowel imaging** (small bowel follow-through, computed tomography (CT) or MR enterography) helps **exclude small intestinal dilatation** when suspicion for small intestinal dysmotility or chronic intestinal pseudo-obstruction is high.
 - **Whole-gut scintigraphy** (well validated, available in only a few centres) or **newly approved wireless motility capsules** give regional gut transit times in this population.
 - **Before colectomy, consider intraluminal colonic motility assessment with manometry and/or a barostat where available — especially when colonic transit is equivocal.** Fasting and/or postprandial colonic tone and/or compliance were reduced in **40% of patients with normal transit and 47% with slow-transit constipation**, so some patients with slow transit have normal motility and vice versa.
 

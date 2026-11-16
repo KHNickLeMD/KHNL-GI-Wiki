@@ -5,6 +5,7 @@ tags: [varices, esophageal-varices, gastric-varices, cirrhosis, portal-hypertens
 created: 2026-10-16
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 Esophageal Gastric Varices.pdf"
 ---
 
 ## Bibliographic Info

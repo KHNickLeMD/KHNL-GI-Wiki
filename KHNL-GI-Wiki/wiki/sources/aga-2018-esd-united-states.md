@@ -5,6 +5,7 @@ tags: [esd, endoscopic-resection, emr, early-gastric-cancer, barretts-esophagus,
 created: 2026-09-21
 updated: 2026-09-22
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU ESD in the United States.pdf"
 ---
 
 ## Bibliographic Info

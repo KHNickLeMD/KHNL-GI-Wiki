@@ -5,6 +5,7 @@ tags: [eus, biliary-drainage, eus-bd, eus-gbd, ercp, biliary-obstruction, guidel
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2024 Therapeutic EUS in Biliary Tract Disorders.pdf"
 ---
 
 # ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)

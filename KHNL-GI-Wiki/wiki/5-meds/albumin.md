@@ -3,9 +3,10 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-11-13
-sources: [aga-2024-vasoactive-albumin-cirrhosis, aga-2025-ascites-cirrhosis, aasld-2021-ascites-sbp-hrs, acg-2026-preventive-care-cirrhosis, aasld-easl-2026-aclf-global-consensus]
+updated: 2026-11-16
+sources: [aga-2024-vasoactive-albumin-cirrhosis, aga-2025-ascites-cirrhosis, aasld-2021-ascites-sbp-hrs, acg-2026-preventive-care-cirrhosis, aasld-easl-2026-aclf-global-consensus, aasld-2024-aclf]
 quality_reviewed: 2026-11-13
+verified: 2026-11-16
 ---
 
 ## Contents
@@ -32,11 +33,11 @@ quality_reviewed: 2026-11-13
 | Indication | Advice | Albumin regimen |
 |---|---|---|
 | **Paracentesis >5 L (LVP)** | Give IV albumin (AGA 2024 BPA 4, AGA 2025 BPA 6, AASLD 2021, ACG 2026 key concept 1) | **6–8 g per litre of ascites removed**, as 20%–25% albumin (expert opinion; AGA 2025 calls both the 5-L cutoff and the 6–8 g/L dose "somewhat arbitrary"). **Lower doses (4 g/L) may be sufficient** |
-| **Paracentesis ≤5 L** | Not routine — incremental benefit is less certain, and smaller taps cause no significant hemodynamic change | Consider the same 6–8 g/L where the risk of circulatory compromise is highest: **systolic blood pressure <90 mm Hg, serum sodium <130 mmol/L, and/or AKI** (AASLD 2021). AGA 2025 and ACG 2026 frame the same triggers as hypotension, renal insufficiency/dysfunction, or electrolyte abnormalities |
+| **Paracentesis ≤5 L** | Not routine — incremental benefit is less certain, and smaller taps cause no significant hemodynamic change | Consider the same 6–8 g/L where the risk of circulatory compromise is highest: **systolic blood pressure <90 mm Hg, serum sodium <130 mmol/L, and/or AKI** (AASLD 2021). AGA 2025 names hypotension, renal insufficiency, or electrolyte abnormalities; ACG 2026 names hyponatremia or renal dysfunction |
 | **LVP in [[acute-on-chronic-liver-failure\|acute-on-chronic liver failure (ACLF)]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
 | **SBP** | AGA 2024: albumin *may be considered* (BPA 5). AASLD 2021: treat with IV albumin **in addition to** antibiotics | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** — the dose was chosen arbitrarily in the pivotal trial and has remained the standard. Highest-benefit subgroup: table below |
 | **AKI in cirrhosis with ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | **1 g/kg body weight daily × 2 consecutive days, capped at 100 g/day**, in patients with evidence of intravascular volume depletion. No response after 2 days of diuretic withdrawal plus this albumin challenge is itself a diagnostic criterion for hepatorenal syndrome–AKI (HRS-AKI; full algorithm on [[aki-in-cirrhosis]]) |
-| **HRS-AKI** | Concurrent albumin with the vasoconstrictor, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | With terlipressin: **1 g/kg on day 1, then 40–50 g/day for the duration of therapy** (AASLD 2021). With norepinephrine: albumin titrated to a central venous pressure of **4–10 mm Hg** |
+| **HRS-AKI** | Terlipressin is the vasoactive drug of choice; concurrent albumin **can be considered**, accounting for volume status (BPA 10) | With terlipressin: **1 g/kg on day 1, then 40–50 g/day for the duration of therapy** (AASLD 2021); the newer [[aasld-2024-aclf|AASLD 2024]] gives **20–40 g/day** with vasoconstrictors (Guidance Statement 24) — dosing schedule on [[terlipressin]]. With norepinephrine: albumin titrated to a central venous pressure of **4–10 mm Hg** |
 | **Hyponatremia in cirrhosis** | Hypovolemic: part of fluid resuscitation. Hypervolemic and either severe (serum sodium <120 mEq/L) or symptomatic: albumin alongside sodium/water restriction and holding diuretics and laxatives | Hypovolemic: **5% albumin** or crystalloid. Hypervolemic: hyperoncotic albumin, dosed on volume assessment — **no dose is specified**. Full treatment ladder on [[ascites]] |
 
 - Vasoactive-drug dosing for HRS-AKI lives on [[aki-in-cirrhosis]] and is not reproduced here.
@@ -52,7 +53,7 @@ quality_reviewed: 2026-11-13
 | Looser phrasing each ends on | Society guidelines specify that patients with AKI and/or [[jaundice]] are more likely to benefit | Patients with AKI and/or jaundice at the time of SBP diagnosis are more likely to benefit |
 
 - **Neither source restricts albumin to this subgroup** — the criteria mark who gains most, not who qualifies.
-- ⚠ **The two guidelines disagree on the bilirubin cut-off.** Use **>4 mg/dL** per AGA 2024, the newer source; the discrepancy changes management only between 4 and 5 mg/dL, where AGA would treat and AASLD would not.
+- ⚠ **The two guidelines print different bilirubin values** (>4 vs >5 mg/dL), but neither is a treatment cut-off: AASLD 2021 gives IV albumin with antibiotics to **all** patients with SBP, so the difference does not change who is treated.
 
 > [!pitfall] Fixed-dose albumin can overshoot
 > In AKI and HRS-AKI a routine fixed dose may be insufficient or may precipitate volume overload and pulmonary edema. Tailor it to volume status — while accepting that the best way to assess volume is unknown ([[aga-2024-vasoactive-albumin-cirrhosis]]).
@@ -109,3 +110,4 @@ quality_reviewed: 2026-11-13
 3. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 4. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 5. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+6. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]

@@ -5,6 +5,7 @@ tags: [intra-abdominal-infection, antibiotics, sepsis, source-control, appendici
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/Other/SIS 2024 Management of Intra-Abdominal Infection (Huston).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [pancreatitis, recurrent-acute-pancreatitis, chronic-pancreatitis, pancrea
 created: 2026-07-29
 updated: 2026-07-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU Endoscopy for Recurrent Acute and Chronic Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

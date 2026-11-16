@@ -3,8 +3,9 @@ title: "ACG 2020: Chronic Pancreatitis"
 category: source
 tags: [chronic-pancreatitis, pancreas, guideline, acg, hpb]
 created: 2026-05-19
-updated: 2026-09-22
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ACG/ACG 2020 Chronic Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info
@@ -81,7 +82,7 @@ The guideline issues **11 numbered GRADE recommendations** (Table 2) and **10 nu
 - TIGAR-O v2.0 checklist: Toxic-metabolic / Idiopathic / Genetic / Autoimmune / Recurrent acute and severe pancreatitis / Obstructive.
 - "Younger patients" in Rec 4 is anchored in the text at **<35 years of age**; idiopathic CP should at minimum be evaluated for *PRSS1*, *SPINK1*, *CFTR*, and *CTRC* mutations.
 - M-ANNHEIM: multi-axis classification (Multiple risk factors – Alcohol, Nicotine, Nutrition, Hereditary, Efferent duct, Immunologic, Miscellaneous).
-- Key pathogenic genes: PRSS1 (autosomal dominant [AD], hereditary pancreatitis), SPINK1 (autosomal recessive [AR], severe), CFTR (AR, cystic fibrosis [CF] or CFTR-related disorder [CFTR-RD]), CTRC (AD), CASR, CLDN2 (alcohol-CP accelerator), CPA1, CEL.
+- Key pathogenic genes (Table 7): PRSS1 (complex, low penetrance — while TIGAR-O Table 5 places *PRSS1* mutations/hereditary pancreatitis in its autosomal-dominant arm), CPA1 (complex, low penetrance), CEL (autosomal dominant [AD] complex), SPINK1 (autosomal recessive [AR]; homozygotes with more severe disease), CTRC (AD as an acinar-cell gene; complex as a disease modifier), CFTR (AR; cystic fibrosis [CF] or CFTR-related disorder [CFTR-RD]), CASR (AR), CLDN2 (inheritance unknown; accelerates RAP → CP with alcohol).
 
 ### Natural history
 
@@ -142,7 +143,7 @@ Total → severity level: **A** Minor 0–5 · **B** Increased 6–10 · **C** A
 
 - Mechanistic definition (2016/2018) vs. traditional clinicopathologic definition — guideline endorses transition; future guidelines likely will rely on mechanistic framework.
 - Pain management evidence base is weak across the board (most recs Conditional/Very Low) — wide practice variation expected.
-- Routine pancreatic malignancy screening in CP: guideline says insufficient evidence; differs from some international groups recommending surveillance in hereditary pancreatitis.
+- Routine pancreatic malignancy screening in CP: Key Concept 5 — a lack of evidence that screening patients with CP for pancreatic malignancy is beneficial.
 
 ## See Also
 

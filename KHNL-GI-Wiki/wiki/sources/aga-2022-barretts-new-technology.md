@@ -5,6 +5,7 @@ tags: [barretts-esophagus, esophageal-adenocarcinoma, screening, surveillance, c
 created: 2026-09-21
 updated: 2026-09-21
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 CPU New Technology for Barrett's Screening & Surveillance.pdf"
 ---
 
 # AGA Clinical Practice Update on New Technology and Innovation for Surveillance and Screening in Barrett's Esophagus: Expert Review (2022)

@@ -5,6 +5,7 @@ tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, udca, oca, obeticholi
 created: 2026-05-28
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2018 Primary Biliary Cholangitis.pdf"
 ---
 
 > **Partially superseded.** The **American Association for the Study of Liver Diseases (AASLD) 2021 primary biliary cholangitis (PBC) Practice Guidance Update** ([[aasld-2021-pbc]]) is the newer tier-1 source and revises the second-line-therapy statements below (Guidance Statements 9 and 10). Where the two disagree, the 2021 update governs. Everything else on this page remains the current AASLD guidance.

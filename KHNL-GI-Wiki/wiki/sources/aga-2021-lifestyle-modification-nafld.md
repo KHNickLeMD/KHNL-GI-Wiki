@@ -5,6 +5,7 @@ tags: [nafld, masld, nash, mash, lifestyle, diet, exercise, weight-loss, mediter
 created: 2026-09-14
 updated: 2026-09-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Lifestyle Modification in NAFLD.pdf"
 ---
 
 ## Bibliographic Info

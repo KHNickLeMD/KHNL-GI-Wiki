@@ -5,6 +5,7 @@ tags: [esophagus, dysphagia, infectious-esophagitis, candida, hsv, cmv, lymphocy
 created: 2026-07-28
 updated: 2026-07-28
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Esophageal Dysfunction from Immunity & Infection.pdf"
 ---
 
 ## Bibliographic Info

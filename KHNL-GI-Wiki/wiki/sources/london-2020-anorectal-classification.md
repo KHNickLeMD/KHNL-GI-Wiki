@@ -5,6 +5,7 @@ tags: [anorectal-manometry, balloon-expulsion-test, rectal-sensory-test, london-
 created: 2026-10-20
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/Other/London Classification 2020 IAPWG Anorectal Function (Carrington).pdf"
 ---
 
 ## Bibliographic Info

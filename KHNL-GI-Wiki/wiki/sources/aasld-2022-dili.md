@@ -5,6 +5,7 @@ tags: [dili, drug-induced-liver-injury, herbal-supplement, hepatotoxicity, rucam
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2022 Drug Herbal Supplement Liver Injury.pdf"
 ---
 
 # AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Liver Injury (2022)

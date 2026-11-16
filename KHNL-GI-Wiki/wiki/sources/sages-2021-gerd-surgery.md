@@ -5,6 +5,7 @@ tags: [gerd, antireflux-surgery, fundoplication, laparoscopic, robotic, foregut,
 created: 2026-05-16
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/SAGES/SAGES 2021 Surgical Treatment of Gastroesophageal Reflux GERD.pdf"
 ---
 
 ## Bibliographic Info

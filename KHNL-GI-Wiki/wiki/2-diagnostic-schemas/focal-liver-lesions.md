@@ -3,7 +3,7 @@ title: "Focal Liver Lesions"
 category: diagnostic-schema
 tags: [focal-liver-lesion, liver, hpb, mri, gadoxetate, ceus, fnh, hca, hemangioma, hcc]
 created: 2026-06-20
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [acg-2024-focal-liver-lesions]
 quality_reviewed: 2026-11-14
 ---
@@ -123,8 +123,8 @@ Once characterized, the management axis differs by entity; thresholds live on th
 
 ### Contrast-Enhanced Ultrasound
 
-- Contrast-enhanced ultrasound (CEUS) is a valid alternative for characterizing benign FLLs: **sensitivity 97.8%, specificity 83.9%, positive predictive value 82.2%**.
-- No ionizing radiation; real-time. Not specific enough to subtype an adenoma.
+- Diagnostic imaging can be performed with contrast-enhanced ultrasound (CEUS), multiphasic CT or multiphasic MRI; CEUS for benign FLL characterization: **sensitivity 97.8%, specificity 83.9%, positive predictive value 82.2%**.
+- Can aid the diagnosis of an adenoma but is not specific enough to subtype it.
 
 ### Imaging Features by Lesion
 
@@ -132,7 +132,7 @@ Once characterized, the management axis differs by entity; thresholds live on th
 
 | Lesion | T2 signal | Arterial phase | Portal / delayed | HBP (gadoxetate) | Central scar | Malignant potential |
 |---|---|---|---|---|---|---|
-| **FNH** | Iso (scar hyperintense) | Marked homogeneous arterial phase hyperenhancement (APHE) | Iso / mildly hyper | **Uptake (iso/hyper)** — key | **Yes** (T2-bright) | None |
+| **FNH** | Iso (scar hyperintense) | Marked homogeneous arterial phase hyperenhancement (APHE) | Iso / mildly hyper | **Uptake (iso/hyper)** — key | **Yes** (T2-bright) | Extremely slim |
 | **HCA** | Variable (fat in HNF-1α) | Hyperenhancement | Iso/hypo; mild washout | **No uptake** (iso/hypo) | No | Subtype-dependent (β-catenin highest) |
 | **Hemangioma** | **Markedly hyper** ("light-bulb") | Peripheral nodular discontinuous | **Centripetal fill-in** | No uptake (hypo) | No | None |
 | **HCC** | Mild hyper | APHE | **Washout** | No uptake (hypo) | No (scar in fibrolamellar variant) | Malignant (cirrhosis; [[li-rads\|LI-RADS]]) |

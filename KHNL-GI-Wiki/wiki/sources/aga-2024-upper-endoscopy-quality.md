@@ -5,6 +5,7 @@ tags: [egd, quality, upper-endoscopy, aga, biopsy-protocols, photodocumentation,
 created: 2026-05-15
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 Quality Upper Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

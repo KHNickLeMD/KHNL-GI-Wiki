@@ -3,9 +3,10 @@ title: "Hereditary Mixed Polyposis Syndrome (HMPS)"
 category: disease-script
 tags: [hmps, grem1, mixed-polyposis, hereditary-crc, colorectal-cancer, polyposis, genetic-testing]
 created: 2026-08-27
-updated: 2026-11-11
+updated: 2026-11-16
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2026-adenomatous-polyposis]
 quality_reviewed: 2026-11-11
+verified: 2026-11-16
 ---
 
 ## Contents
@@ -56,7 +57,7 @@ quality_reviewed: 2026-11-11
 - **SPS** — defined by serrated polyp count and distribution (World Health Organization [WHO] criteria); no proven genetic etiology
 - **[[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] / attenuated FAP (AFAP)** — purely adenomatous; *APC*
 - **[[mutyh-associated-polyposis|MUTYH-associated polyposis]]** — autosomal **recessive**; adenomas ± serrated polyps; biallelic *MUTYH*
-- **Lynch syndrome** — few polyps, mismatch repair (MMR) deficiency; relevant because the *GREM1* duplication is found in a small fraction of Ashkenazi kindreds **meeting Lynch clinical criteria** with no MMR variant
+- **Lynch syndrome** — few polyps, mismatch repair (MMR) deficiency; relevant because the *GREM1* duplication is found in a small fraction of Ashkenazi kindreds **meeting Lynch clinical criteria**
 
 ---
 

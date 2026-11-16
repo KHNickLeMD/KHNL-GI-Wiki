@@ -3,9 +3,10 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 quality_reviewed: 2026-11-15
+verified: 2026-11-16
 ---
 
 ## Contents
@@ -61,7 +62,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 | Transplanted for [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] **within Milan criteria** | **May** add or convert to mTOR inhibitor–based immunosuppression (IS) to improve recurrence-free survival up to 3 years | 2025 Rec 32 — Weak, Level 3 |
 
 - Mycophenolate mofetil (MMF) is the usual partner when TAC must be reduced: **MMF + reduced-dose TAC improves renal function without increasing graft rejection** versus standard-dose TAC.
-- Steroid-free IS is **not** routinely recommended, so TAC monotherapy is not a steroid-sparing strategy by itself (2025 Rec 28, Strong, Level 2 — see [[calcineurin-inhibitors]]).
+- Steroid-free IS is **not** routinely recommended (2025 Rec 28, Strong, Level 2 — see [[calcineurin-inhibitors]]).
 
 > [!pitfall] Monotherapy spares pills, not kidneys
 > Korean registry (n=991 per arm, first 12 months): BPAR 2.6% with TAC alone vs 3.5% with TAC/MMF (*p*=0.381) and similar graft failure, but estimated glomerular filtration rate (GFR) decline was **greater by 3.1 mL/min/1.73 m² at 6 months** in the monotherapy arm (95% CI 0.8–5.3, *p*<0.01) ([[aasld-ast-2025-liver-transplant-graft-complications]]).
@@ -78,14 +79,14 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 The 2025 guideline gives **one shared adverse-effect list for the CNI class** — nephrotoxicity, electrolyte disorders, neurotoxicity, diabetes, hypertension, anemia (Table 4); which CNI owns which effect is tabulated on [[calcineurin-inhibitors]]. TAC-specific points:
 
 - **Nephrotoxicity** is a well-established effect of long-term CNI use and **the main indication for discontinuing the CNI** (2025). Post-LT CKD affects 30%–80% of recipients, with a cumulative **end-stage renal disease (ESRD) risk of 5%–8% in the first 10 years**; kidney failure (GFR ≤29 mL/min/1.73 m² or ESRD) reaches 18% at 5 years and 25% at 10 years ([[aasld-2012-liver-transplant-long-term]]).
-- **Diabetes mellitus (DM):** diabetes is explicitly **more frequent with TAC** than with cyclosporine (2025 Table 4; "corticosteroids and tacrolimus promote diabetes", 2012). New-onset DM is seen in **5%–26%** of recipients followed beyond 1 year and tends to remit as steroids are withdrawn and the TAC dose is reduced. Delaying the TAC start with basiliximab induction lowered de novo DM and hypertension in randomized trials of living donor LT (2025 Table 3) — see [[calcineurin-inhibitors]].
+- **Diabetes mellitus (DM):** diabetes is explicitly **more frequent with TAC** than with cyclosporine (2025 Table 4; "corticosteroids and tacrolimus promote diabetes", 2012). New-onset DM is seen in **5%–26%** of recipients followed beyond 1 year and tends to remit as steroids are withdrawn and the TAC dose is reduced. Basiliximab induction lowered de novo DM and hypertension in randomized trials of living donor LT by allowing steroid avoidance or reduction (2025 Table 3) — see [[calcineurin-inhibitors]].
 - **Systemic hypertension and dyslipidemia:** both are CNI class effects; which agent contributes more to each is tabulated on [[calcineurin-inhibitors]].
 
 The American Association for the Study of Liver Diseases (AASLD)/American Society of Transplantation (AST) documents go no further than the class list above — they do not itemize specific neurologic manifestations of TAC.
 
 ## Drug Interactions
 
-TAC is metabolized by cytochrome P450 3A (CYP3A): CYP3A inhibitors raise levels, CYP3A inducers lower them. Both ingested guidelines give the interaction list for the **CNI class**, not for TAC alone, so the full list — with the agents, the direction of each effect, and the 2- to 5-fold dose increase required when rifampin is started — lives on **[[calcineurin-inhibitors]]**.
+Cytochrome P450 3A (CYP3A) inhibitors raise TAC levels and CYP3A inducers lower them (2025 Table 4). Both ingested guidelines give the interaction list for the **CNI class**, not for TAC alone, so the full list — with the agents, the direction of each effect, and the 2- to 5-fold dose increase required when rifampin is started — lives on **[[calcineurin-inhibitors]]**.
 
 - Any new antimicrobial warrants attention to CNI interactions (2012 Rec 52, grade 1, level A); human immunodeficiency virus (HIV)-infected recipients on antiretroviral therapy need **frequent CNI level monitoring** (2012 Rec 67, grade 1, level A).
 - Direct-acting antiviral therapy for [[hepatitis-c|hepatitis C]] interacts with immunosuppressants: assess for interactions and expect that dose adjustments may be needed (2025 guideline, Table 4).

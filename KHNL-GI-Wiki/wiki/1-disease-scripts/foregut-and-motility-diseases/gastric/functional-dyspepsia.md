@@ -3,8 +3,8 @@ title: "Functional Dyspepsia"
 category: disease-script
 tags: [functional-dyspepsia, dyspepsia, dgbi, stomach, foregut, rome-v, neuromodulators]
 created: 2026-10-18
-updated: 2026-11-12
-sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis]
+updated: 2026-11-16
+sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis, acg-2024-hp-treatment]
 ---
 
 ## Contents
@@ -150,7 +150,7 @@ flowchart TD
 
 | Step | Effect size | Dosing and stopping rule |
 |---|---|---|
-| **[[helicobacter-pylori-infection\|*H. pylori*]] eradication** (22 RCTs, 4,896 patients) | Relative risk (RR) of dyspepsia remaining **0.91 (95% CI 0.88–0.94)**, **number needed to treat (NNT) 12.5 (10–20)** | Strong despite the modest effect — cost-effective, mild adverse events, and may reduce future gastric cancer and ulcer risk |
+| **[[helicobacter-pylori-infection\|*H. pylori*]] eradication** (22 RCTs, 4,896 patients) | Relative risk (RR) of dyspepsia remaining **0.91 (95% CI 0.88–0.94)**, **number needed to treat (NNT) 12.5 (10–20)**. The newer meta-analysis cited by [[acg-2024-hp-treatment|ACG 2024]] (29 RCTs, 6,781 *H. pylori*-positive patients; eradication vs PPI, prokinetic or placebo) gives RR of symptoms not cured **0.91 (0.88–0.94)**, **NNT 14 (11–21)** — "only modest benefit" | Strong despite the modest effect — cost-effective, mild adverse events, and may reduce future gastric cancer and ulcer risk |
 | **[[proton-pump-inhibitors\|PPI]]** (15 RCTs, 5,853 patients) | RR **0.87 (0.82–0.94)**, **NNT 10 (7–20)** | **Standard dose once daily; stop at 8 weeks if there is no response.** Doubling the dose adds nothing. Low- and standard-dose arms did not differ |
 | **TCA** (3 trials, 339 patients) | RR **0.74 (0.61–0.91)**, **NNT 6 (6–18)** | Conditional because of effect-size uncertainty, anticholinergic adverse events (constipation, dry mouth, urinary retention, somnolence) and reluctance to take an antidepressant |
 | **Prokinetic** (26 trials, 8,788 patients) | RR **0.92 (0.88–0.97)**, **NNT 12.5 (8–25)** | Quality very low for **publication bias** (small positive trials driving the result, Egger *P* = 0.004) plus unexplained heterogeneity |
@@ -199,3 +199,4 @@ flowchart TD
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 4. [[aga-2021-chronic-gi-pain-dgbi|AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction (2021)]]
 5. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
+6. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

@@ -5,6 +5,7 @@ tags: [crc, colonoscopy, surveillance, colorectal-cancer, post-resection, metach
 created: 2026-05-19
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2015 Colonoscopy Surveillance after Colorectal Cancer Resection.pdf"
 ---
 
 ## Bibliographic Info

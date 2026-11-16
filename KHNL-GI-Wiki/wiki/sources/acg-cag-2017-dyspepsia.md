@@ -5,6 +5,7 @@ tags: [dyspepsia, functional-dyspepsia, h-pylori, ppi, foregut, guideline, acg, 
 created: 2026-05-19
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/ACG/ACG CAG 2017 Management of Dyspepsia.pdf"
 ---
 
 ## Bibliographic Info

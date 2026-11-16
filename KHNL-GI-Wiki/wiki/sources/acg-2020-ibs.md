@@ -5,6 +5,9 @@ tags: [ibs, dgbi, fodmap, rifaximin, linaclotide, plecanatide, lubiprostone, alo
 created: 2026-05-19
 updated: 2026-11-12
 sources: []
+raw:
+  - "GI Guidelines/ACG/ACG 2018 Management of Irritable Bowel Syndrome.pdf"
+  - "GI Guidelines/ACG/ACG 2018 Management of Irritable Bowel Syndrome - Supplementary Digital Content 1.pdf"
 ---
 
 ## Bibliographic Info

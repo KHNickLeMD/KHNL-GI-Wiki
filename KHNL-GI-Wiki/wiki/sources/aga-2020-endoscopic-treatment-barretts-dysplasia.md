@@ -5,6 +5,7 @@ tags: [barretts-esophagus, dysplasia, esophageal-adenocarcinoma, eet, rfa, emr, 
 created: 2026-09-20
 updated: 2026-09-21
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Endoscopic Treatment of Barrett's Dysplasia-Early Cancer.pdf"
 ---
 
 # AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esophagus With Dysplasia and/or Early Cancer: Expert Review (2020)

@@ -5,6 +5,7 @@ tags: [pancreas, acute-pancreatitis, fluid-resuscitation, nutrition, ercp, chole
 created: 2026-09-24
 updated: 2026-09-24
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 Initial Management of Acute Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [egd, upper-endoscopy, quality-indicators, barrett-esophagus, ugib, peptic
 created: 2026-05-07
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Quality Indicators of EGD.pdf"
 ---
 
 ## Bibliographic Info

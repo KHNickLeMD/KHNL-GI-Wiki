@@ -5,6 +5,7 @@ tags: [liver-transplant, biliary-stricture, ercp, ptbd, csems, mrcp, antibiotics
 created: 2026-06-04
 updated: 2026-10-07
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2023 Post-Transplant Biliary Strictures.pdf"
 ---
 
 ## Bibliographic Info

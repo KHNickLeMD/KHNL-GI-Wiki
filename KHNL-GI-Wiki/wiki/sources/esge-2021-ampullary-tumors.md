@@ -5,6 +5,7 @@ tags: [ampullary-adenoma, endoscopic-papillectomy, ampullary-cancer, ercp, eus, 
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/ESGE 2021 Endoscopic Management of Ampullary Tumors (Vanbiervliet).pdf"
 ---
 
 ## Bibliographic Info

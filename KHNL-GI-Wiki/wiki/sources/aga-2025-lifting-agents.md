@@ -5,6 +5,7 @@ tags: [lifting-agents, submucosal-injection, emr, esd, polypectomy, indigo-carmi
 created: 2026-06-27
 updated: 2026-10-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Endoscopic Lifting Agents.pdf"
 ---
 
 ## Bibliographic Info

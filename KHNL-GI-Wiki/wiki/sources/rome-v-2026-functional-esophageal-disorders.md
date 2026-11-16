@@ -5,6 +5,7 @@ tags: [rome-v, dgbi, esophagus, functional-heartburn, reflux-hypersensitivity, g
 created: 2026-11-05
 updated: 2026-11-05
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Functional Esophageal Disorders (Gyawali).pdf"
 ---
 
 ## Bibliographic Info

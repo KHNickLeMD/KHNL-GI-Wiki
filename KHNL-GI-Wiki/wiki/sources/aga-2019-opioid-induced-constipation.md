@@ -5,6 +5,7 @@ tags: [constipation, oic, opioids, pamora, laxatives, secretagogues, prokinetics
 created: 2026-09-26
 updated: 2026-09-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 Opioid-Induced Constipation.pdf"
 ---
 
 ## Bibliographic Info

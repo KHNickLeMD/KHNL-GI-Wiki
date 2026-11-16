@@ -5,6 +5,7 @@ tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, correa-cas
 created: 2026-05-15
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 Diagnosis and Management of Atrophic Gastritis.pdf"
 ---
 
 ## Bibliographic Info

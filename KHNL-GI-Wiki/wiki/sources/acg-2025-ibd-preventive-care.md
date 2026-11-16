@@ -5,6 +5,7 @@ tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, c
 created: 2026-05-15
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Preventive Care in IBD.pdf"
 ---
 
 ## Bibliographic Info

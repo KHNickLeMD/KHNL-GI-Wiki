@@ -5,6 +5,7 @@ tags: [cholangiocarcinoma, intrahepatic-cholangiocarcinoma, extrahepatic-cholang
 created: 2026-06-18
 updated: 2026-10-10
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 Biliary Tract Cancers.pdf"
 ---
 
 ## Bibliographic Info

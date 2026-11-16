@@ -5,6 +5,7 @@ tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant]
 created: 2026-05-19
 updated: 2026-09-28
 sources: []
+raw: "GI Guidelines/ACG/ACG 2015 Primary Sclerosing Cholangitis.pdf"
 ---
 
 ## Bibliographic Info

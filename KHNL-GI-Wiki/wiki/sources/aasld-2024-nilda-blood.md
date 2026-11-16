@@ -5,6 +5,7 @@ tags: [nilda, fibrosis, fib-4, elf, masld, nafld, noninvasive, blood-based, biom
 created: 2026-05-31
 updated: 2026-10-05
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2024 Noninvasive Assessment Blood-Based.pdf"
 ---
 
 ## Bibliographic Info

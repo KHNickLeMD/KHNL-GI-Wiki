@@ -5,6 +5,7 @@ tags: [probiotics, microbiome, cdiff, ibd, crohns, ulcerative-colitis, pouchitis
 created: 2026-06-04
 updated: 2026-10-06
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 Probiotics in GI Disorders.pdf"
 ---
 
 ## Bibliographic Info

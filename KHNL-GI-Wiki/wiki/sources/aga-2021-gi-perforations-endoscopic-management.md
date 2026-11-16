@@ -5,6 +5,7 @@ tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, endoscopic-
 created: 2026-09-06
 updated: 2026-09-06
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Endoscopic Management of GI Perforations.pdf"
 ---
 
 ## Bibliographic Info

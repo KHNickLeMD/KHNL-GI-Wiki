@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, preventive-care, vaccination, health-mai
 created: 2026-06-14
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2017 Preventive Care in Inflammatory Bowel Disease.pdf"
 ---
 
 > ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]. Use the 2025 update for current vaccine schedules (e.g., recombinant zoster vaccine, updated pneumococcal and human papillomavirus (HPV) guidance) and screening recommendations; this 2017 page is retained additively and should not override newer content.

@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, biosimilar, biologic, infliximab, adalim
 created: 2026-09-28
 updated: 2026-09-28
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Switching Between Biologics & Biosimilars in IBD.pdf"
 ---
 
 ## Bibliographic Info

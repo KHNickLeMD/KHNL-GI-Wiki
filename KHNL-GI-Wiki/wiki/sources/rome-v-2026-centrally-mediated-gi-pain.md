@@ -5,6 +5,7 @@ tags: [rome-v, dgbi, abdominal-pain, caps, abdominal-migraine, narcotic-bowel-sy
 created: 2026-11-14
 updated: 2026-11-14
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Centrally Mediated Disorders of GI Pain (Fukudo).pdf"
 ---
 
 ## Bibliographic Info

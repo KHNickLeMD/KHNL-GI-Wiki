@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, covid-19, immunosuppression, biologic, e
 created: 2026-10-02
 updated: 2026-10-02
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU IBD During COVID-19.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [cdiff, clostridioides-difficile, microbiome, ser-109, firmicutes-spores, 
 created: 2026-07-01
 updated: 2026-10-30
 sources: [feuerstadt-2022-ser109-cdiff]
+raw: "GI RCTs/Oral Microbiome Therapy for C Diff RCT.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford]
 created: 2026-05-15
 updated: 2026-09-09
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Upper Gastrointestinal and Ulcer Bleeding.pdf"
 ---
 
 ## Bibliographic Info

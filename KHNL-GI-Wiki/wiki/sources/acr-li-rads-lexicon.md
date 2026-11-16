@@ -5,6 +5,7 @@ tags: [li-rads, hcc, imaging, terminology, lexicon, mri, ct, ceus]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Guidelines/Other/ACR LI-RADS Lexicon.pdf"
 ---
 
 ## Bibliographic Info

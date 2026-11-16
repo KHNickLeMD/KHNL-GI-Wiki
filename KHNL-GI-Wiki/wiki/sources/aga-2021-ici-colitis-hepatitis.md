@@ -5,6 +5,7 @@ tags: [immune-checkpoint-inhibitor, irae, ici-colitis, ici-hepatitis, enterocoli
 created: 2026-09-04
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Immune Checkpoint Inhibitor Colitis and Hepatitis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [dysphagia, esophageal-dilation, esophageal-stricture, schatzki-ring, eosi
 created: 2026-10-25
 updated: 2026-10-25
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2014 Role of Endoscopy in Dysphagia (Pasha).pdf"
 ---
 
 ## Bibliographic Info

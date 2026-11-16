@@ -5,6 +5,7 @@ tags: [eus, eus-ppg, portal-hypertension, hvpg, consensus, endo-hepatology, inte
 created: 2026-08-05
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/Other/Delphi Consensus 2026 EUS-guided Portosystemic Pressure Gradient.pdf"
 ---
 
 ## Bibliographic Info

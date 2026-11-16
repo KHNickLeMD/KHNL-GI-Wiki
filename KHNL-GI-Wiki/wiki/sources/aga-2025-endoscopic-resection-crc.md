@@ -5,6 +5,7 @@ tags: [crc, t1-crc, early-colorectal-cancer, endoscopic-resection, esd, emr, eft
 created: 2026-06-27
 updated: 2026-10-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Endoscopic Resection for Early CRC.pdf"
 ---
 
 # AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)

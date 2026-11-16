@@ -5,6 +5,7 @@ tags: [h-pylori, refractory, antibiotic-resistance, eradication, cyp2c19, adhere
 created: 2026-09-05
 updated: 2026-09-05
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Refractory Helicobacter pylori.pdf"
 ---
 
 ## Bibliographic Info

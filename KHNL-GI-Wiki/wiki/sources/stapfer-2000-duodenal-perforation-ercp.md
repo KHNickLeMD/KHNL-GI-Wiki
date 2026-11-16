@@ -5,6 +5,7 @@ tags: [ercp, perforation, duodenal-perforation, stapfer-classification, adverse-
 created: 2026-10-20
 updated: 2026-11-03
 sources: []
+raw: "GI Other Studies/Stapfer 2000 Duodenal Perforation After ERCP Sphincterotomy.pdf"
 ---
 
 ## Bibliographic Info

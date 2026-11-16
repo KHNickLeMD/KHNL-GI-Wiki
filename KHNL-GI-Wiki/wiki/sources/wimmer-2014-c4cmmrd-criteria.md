@@ -5,6 +5,7 @@ tags: [cmmrd, bmmrd, mismatch-repair, hereditary-crc, pediatric-cancer, genetic-
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/Wimmer 2014 C4CMMRD Diagnostic Criteria CMMRD.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [fmt, fecal-microbiota, c-difficile, ulcerative-colitis, crohns, ibs, guid
 created: 2026-06-04
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 Fecal Microbiota-Based Therapies.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies (2024)

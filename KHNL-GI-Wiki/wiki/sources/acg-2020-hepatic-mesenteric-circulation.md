@@ -5,6 +5,7 @@ tags: [portal-vein-thrombosis, pvt, mvt, budd-chiari, mesenteric-ischemia, hht, 
 created: 2026-05-21
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/ACG 2020 Disorders of the Hepatic and Mesenteric Circulation.pdf"
 ---
 
 ## Bibliographic Info

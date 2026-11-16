@@ -3,7 +3,7 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v-2026-dgbi, rome-v-2026-anorectal-disorders]
 quality_reviewed: 2026-11-14
 ---
@@ -110,7 +110,7 @@ Suggested treatment protocol for anorectal biofeedback — American College of G
 - **Symptoms that suggest a defecation disorder:** excessive straining, sense of anorectal blockage, manual maneuvers to facilitate evacuation, sense of incomplete evacuation.
 - **Baseline ARM + BET predict the outcome** and guide how the course is aimed.
 - **Do not subtype before referring.** [[acg-2021-anorectal-disorders]] and [[aga-2026-refractory-constipation]] recommend biofeedback for dyssynergic defecation without subtyping it, and [[rome-v-2026-anorectal-disorders]] abolished the historical types I–IV because the patterns have limited utility on their own. What to use instead for selecting and aiming the course is on [[anorectal-manometry]] (rectoanal gradient, anal relaxation on push, rectal sensation, BET).
-- Distinguish from slow-transit constipation: colonic transit study if BET is normal **or** biofeedback fails. Up to **50%** of defecation-disorder patients have delayed colonic transit (usually secondary).
+- Distinguish from slow-transit constipation: colonic transit study if BET is normal **or** biofeedback fails. Up to **two-thirds** of defecation-disorder patients also have slow colonic transit, so slow transit does not remove the need for anorectal testing ([[rome-v-2026-anorectal-disorders]]; the older [[acg-2021-anorectal-disorders]] gives up to 50%, treated with biofeedback first because slow transit often normalizes after successful biofeedback).
 - **Predictors of a favorable outcome** in dyssynergic defecation ([[rome-v-2026-anorectal-disorders]]): **anal digitation**, **hard stools**, **greater patient motivation**, **undergoing ≥5 sessions**, and a **prolonged balloon expulsion time**. **Psychological distress adversely affects outcomes.**
 
 > [!pitfall] How many abnormal tests it takes is version-dependent

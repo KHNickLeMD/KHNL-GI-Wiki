@@ -5,6 +5,7 @@ tags: [small-bowel, gi-bleeding, capsule-endoscopy, deep-enteroscopy, obscure-gi
 created: 2026-05-19
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2015 Diagnosis & Management of Small Bowel Bleeding.pdf"
 ---
 
 ## Bibliographic Info

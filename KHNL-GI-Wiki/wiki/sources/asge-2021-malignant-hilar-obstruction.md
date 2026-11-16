@@ -5,6 +5,7 @@ tags: [malignant-hilar-obstruction, cholangiocarcinoma, biliary-drainage, ercp, 
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2021 Malignant Hilar Obstruction.pdf"
 ---
 
 # ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (2021)

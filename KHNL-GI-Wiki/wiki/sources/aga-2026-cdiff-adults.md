@@ -5,6 +5,7 @@ tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, metron
 created: 2026-09-03
 updated: 2026-09-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU C diff in Adults.pdf"
 ---
 
 ## Bibliographic Info

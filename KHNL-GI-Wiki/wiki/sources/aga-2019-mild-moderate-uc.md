@@ -5,6 +5,7 @@ tags: [ibd, ulcerative-colitis, 5-asa, mesalamine, sulfasalazine, budesonide, ag
 created: 2026-09-24
 updated: 2026-09-24
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 Mild-Moderate UC.pdf"
 ---
 
 ## Bibliographic Info

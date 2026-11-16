@@ -5,6 +5,7 @@ tags: [fap, afap, map, mutyh, polyposis, duodenal-adenoma, spigelman, ampullary-
 created: 2026-06-29
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2020 Endoscopy in Familial Adenomatous Polyposis.pdf"
 ---
 
 ## Bibliographic Info

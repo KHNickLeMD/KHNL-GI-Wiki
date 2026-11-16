@@ -5,6 +5,7 @@ tags: [eoe, esophageal, endoscopy, pediatric, monitoring, dilation, consensus, a
 created: 2026-11-11
 updated: 2026-11-11
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 EoE Endoscopic Management Consensus Part 2 (Dellon).pdf"
 ---
 
 ## Bibliographic Info

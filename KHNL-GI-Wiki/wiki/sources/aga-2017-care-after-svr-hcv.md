@@ -5,6 +5,7 @@ tags: [hepatitis-c, hcv, svr, daa, hcc-surveillance, varices, fibrosis, elastogr
 created: 2026-09-16
 updated: 2026-09-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 CPU Care After SVR in HCV.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, chemoprevention, aspirin, nsaids, metformin, calc
 created: 2026-09-06
 updated: 2026-09-06
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Chemoprevention for Colorectal Neoplasia.pdf"
 ---
 
 ## Bibliographic Info

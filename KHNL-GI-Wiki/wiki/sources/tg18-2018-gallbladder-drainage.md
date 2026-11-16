@@ -5,6 +5,7 @@ tags: [acute-cholecystitis, gallbladder-drainage, ptgbd, percutaneous-cholecysto
 created: 2026-10-20
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/Other/Tokyo Guidelines 2018 Gallbladder Drainage (Mori).pdf"
 ---
 
 ## Bibliographic Info

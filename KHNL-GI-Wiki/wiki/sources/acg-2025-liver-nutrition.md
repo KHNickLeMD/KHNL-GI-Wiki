@@ -5,6 +5,7 @@ tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa,
 created: 2026-05-07
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Nutrition in Liver Disease.pdf"
 ---
 
 ## Bibliographic Info

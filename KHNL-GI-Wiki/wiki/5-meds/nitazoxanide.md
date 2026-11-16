@@ -3,9 +3,10 @@ title: "Nitazoxanide"
 category: med
 tags: [nitazoxanide, antiparasitic, antiprotozoal, cryptosporidium, giardia, cyclospora, cystoisospora]
 created: 2026-07-07
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 quality_reviewed: 2026-11-14
+verified: 2026-11-16
 ---
 
 ## Contents
@@ -44,7 +45,7 @@ Role assignments are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommended Anti
 ### Persistent or Nonresponding Diarrhea
 
 - Nitazoxanide **has reduced clinical symptoms in nonresponders and in people with persistent symptoms** ([[idsa-2017-infectious-diarrhea]]).
-- **Low-quality evidence** — narrative text in IDSA's persistent-symptom discussion, not a graded recommendation, resting on two small studies (*Blastocystis hominis*-associated persistent diarrhea/enteritis, and a pediatric persistent-diarrhea series).
+- **Ungraded** — narrative text in IDSA's persistent-symptom discussion, not a graded recommendation, resting on two cited studies (*Blastocystis hominis*-associated persistent diarrhea/enteritis, and a pediatric persistent-diarrhea series).
 - The same passage puts other steps first: reassess for noninfectious disease — [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], [[celiac-disease|celiac disease]], [[postinfectious-ibs|post-infectious irritable bowel syndrome (IBS)]] (see [[chronic-diarrhea]]) — check that therapeutic antimicrobial levels were or are being achieved, and treat with nutritional rehabilitation plus fluid and electrolytes as the **mainstays**.
 
 ## Dosing

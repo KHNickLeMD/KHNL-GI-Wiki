@@ -5,6 +5,9 @@ tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh]
 created: 2026-05-15
 updated: 2026-11-12
 sources: []
+raw:
+  - "GI Guidelines/ACG/ACG 2022 Update Diagnosis and Management of Celiac Disease.pdf"
+  - "GI Guidelines/ACG/ACG 2022 Update Diagnosis and Management of Celiac Disease - Supplementary Digital Content 1.docx"
 ---
 
 ## Bibliographic Info

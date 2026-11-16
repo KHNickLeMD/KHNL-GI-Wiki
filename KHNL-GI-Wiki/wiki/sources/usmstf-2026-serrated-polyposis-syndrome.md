@@ -5,6 +5,7 @@ tags: [serrated-polyposis, sps, sessile-serrated, hyperplastic-polyp, colorectal
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2026 Serrated Polyposis Syndrome (Rex).pdf"
 ---
 
 ## Bibliographic Info

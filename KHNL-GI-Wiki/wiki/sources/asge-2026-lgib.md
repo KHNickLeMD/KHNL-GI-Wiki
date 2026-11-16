@@ -5,6 +5,7 @@ tags: [lower-gi-bleeding, hematochezia, diverticular-bleeding, colonoscopy, ct-a
 created: 2026-11-09
 updated: 2026-11-09
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2026 Role of Endoscopy in Acute Lower GI Bleeding (Forbes).pdf"
 ---
 
 ## Bibliographic Info

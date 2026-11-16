@@ -5,6 +5,7 @@ tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, eus, endoscopy]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2023 Diagnosis & Management of Gastrointestinal Subepithelial Lesions.pdf"
 ---
 
 ## Bibliographic Info

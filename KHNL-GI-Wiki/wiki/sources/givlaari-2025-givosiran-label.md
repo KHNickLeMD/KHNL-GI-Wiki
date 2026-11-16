@@ -5,6 +5,7 @@ tags: [acute-hepatic-porphyria, porphyria, givosiran, sirna, dosing, drug-label,
 created: 2026-11-01
 updated: 2026-11-01
 sources: []
+raw: "Drug Labels/Givlaari Givosiran Label.pdf"
 ---
 
 ## Bibliographic Info

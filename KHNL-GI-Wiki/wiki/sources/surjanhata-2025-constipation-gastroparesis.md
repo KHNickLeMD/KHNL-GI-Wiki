@@ -5,6 +5,7 @@ tags: [gastroparesis, constipation, slow-colonic-transit, wireless-motility-caps
 created: 2026-07-01
 updated: 2026-10-30
 sources: []
+raw: "GI RCTs/Impact of Constipation Therapies on Severity of Gastroparesis.pdf"
 ---
 
 ## Bibliographic Info

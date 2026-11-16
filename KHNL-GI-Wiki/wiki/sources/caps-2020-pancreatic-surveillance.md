@@ -5,6 +5,7 @@ tags: [pancreatic-cancer, surveillance, screening, genetics, brca, cdkn2a, peutz
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/CAPS 2020 Familial Pancreatic Cancer Surveillance (Goggins).pdf"
 ---
 
 ## Bibliographic Info

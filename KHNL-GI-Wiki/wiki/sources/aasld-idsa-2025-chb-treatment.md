@@ -5,6 +5,7 @@ tags: [hepatitis-b, HBV, antiviral, pregnancy, HCC-surveillance, nucleoside-anal
 created: 2026-05-15
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AASLD/AASLD IDSA 2025 Hepatitis B Update.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [chronic-diarrhea, ibs, ibs-d, functional-diarrhea, calprotectin, lactofer
 created: 2026-09-25
 updated: 2026-09-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 Lab Evaluation of Functional Diarrhea & IBS-D.pdf"
 ---
 
 ## Bibliographic Info

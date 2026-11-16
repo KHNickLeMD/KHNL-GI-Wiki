@@ -5,6 +5,7 @@ tags: [psc, cholangiocarcinoma, gallbladder-cancer, gallbladder-polyp, hepatocel
 created: 2026-09-12
 updated: 2026-09-12
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 CPU Hepatobiliary Cancer Surveillance in PSC.pdf"
 ---
 
 ## Bibliographic Info

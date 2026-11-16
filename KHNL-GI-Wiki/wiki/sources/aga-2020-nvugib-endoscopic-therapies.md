@@ -5,6 +5,7 @@ tags: [ugib, nvugib, gi-bleeding, endoscopic-hemostasis, hemostatic-powder, over
 created: 2026-09-06
 updated: 2026-09-06
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Endoscopic Therapies for NVUGIB.pdf"
 ---
 
 ## Bibliographic Info

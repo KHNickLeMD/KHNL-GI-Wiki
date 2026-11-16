@@ -5,6 +5,7 @@ tags: [hepatic-encephalopathy, HE, cirrhosis, lactulose, rifaximin, MHE, covert-
 created: 2026-05-28
 updated: 2026-09-20
 sources: []
+raw: "GI Guidelines/AASLD/AASLD EASL 2014 Hepatic Encephalopathy.pdf"
 ---
 
 ## Bibliographic Info

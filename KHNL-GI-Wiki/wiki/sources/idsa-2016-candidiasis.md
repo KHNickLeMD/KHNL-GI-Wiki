@@ -5,6 +5,7 @@ tags: [candida, candidiasis, infectious-esophagitis, antifungals, fluconazole, e
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/IDSA 2016 Management of Candidiasis (Pappas).pdf"
 ---
 
 ## Bibliographic Info

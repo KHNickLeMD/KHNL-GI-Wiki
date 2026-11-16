@@ -5,6 +5,7 @@ tags: [autoimmune-pancreatitis, aip, idcp, igg4, icdc, pancreas, diagnostic-crit
 created: 2026-10-27
 updated: 2026-11-02
 sources: []
+raw: "GI Guidelines/Other/Shimosegawa 2011 ICDC International Consensus Diagnostic Criteria Autoimmune Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

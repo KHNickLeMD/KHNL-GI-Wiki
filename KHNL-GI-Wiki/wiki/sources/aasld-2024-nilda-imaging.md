@@ -5,6 +5,7 @@ tags: [nilda, elastography, vcte, fibroscan, mre, cap, fibrosis, steatosis, guid
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2024 Noninvasive Assessment Imaging-Based.pdf"
 ---
 
 # AASLD Practice Guideline: Imaging-Based Noninvasive Liver Disease Assessment (2024)

@@ -5,6 +5,7 @@ tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, col
 created: 2026-07-21
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Nonampullary Duodenal Lesions.pdf"
 ---
 
 # AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions

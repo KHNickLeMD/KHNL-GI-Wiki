@@ -5,6 +5,7 @@ tags: [eus, pancreatic-mass, fnb, fna, tissue-acquisition, biliary-drainage, gui
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2024 Solid Pancreatic Masses.pdf"
 ---
 
 # ASGE Guideline: Endoscopy in Diagnosis and Management of Solid Pancreatic Masses (2024)

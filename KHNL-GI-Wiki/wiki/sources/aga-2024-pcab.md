@@ -5,6 +5,7 @@ tags: [pcab, vonoprazan, ppi, acid-suppression, gerd, h-pylori, peptic-ulcer-dis
 created: 2026-07-21
 updated: 2026-11-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Potassium-Competitive Acid Blockers.pdf"
 ---
 
 ## Bibliographic Info

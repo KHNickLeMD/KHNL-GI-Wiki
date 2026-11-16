@@ -5,6 +5,7 @@ tags: [barretts-esophagus, esophageal-adenocarcinoma, screening, cytosponge, tra
 created: 2026-09-21
 updated: 2026-09-21
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU New Screening Techniques in Barrett's.pdf"
 ---
 
 # AGA Clinical Practice Update: New Screening Techniques in Barrett's Esophagus — Great Ideas or Great Practice? (2018)

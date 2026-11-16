@@ -5,6 +5,7 @@ tags: [ampullary-adenoma, ampullary-neoplasm, papillectomy, ampullectomy, ercp, 
 created: 2026-11-04
 updated: 2026-11-04
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Management of Ampullary Neoplasms (Barakat).pdf"
 ---
 
 ## Bibliographic Info

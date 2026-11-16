@@ -5,6 +5,7 @@ tags: [FLIP, panometry, esophageal-motility, EGJ, achalasia, EGJOO, functional-l
 created: 2026-05-15
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/Other/Dallas Consensus 2025 EndoFLIP.pdf"
 ---
 
 ## Bibliographic Info

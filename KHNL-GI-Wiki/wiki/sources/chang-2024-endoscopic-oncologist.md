@@ -5,6 +5,7 @@ tags: [endoscopic-oncology, advanced-endoscopy, gi-oncology, editorial, no-full-
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Lectures+Chalk Talks/The_Vital_Role_of_the_Endoscopic_Oncologist.md"
 ---
 
 > ⚠️ **Citation only.** No abstract is available for this editorial and its full text is not summarized here — **no clinical claim on this site rests on it.**

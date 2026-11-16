@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised]
 created: 2026-06-08
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -21,7 +21,7 @@ Diarrhea in the HIV/acquired immunodeficiency syndrome (AIDS) host, where the di
 
 | Organism | Note |
 |---|---|
-| ***Cryptosporidium*** ([[cryptosporidiosis]]) | Immunocompromised hosts (HIV/AIDS, transplant) are at highest risk for severe and chronic disease ([[acg-2016-acute-diarrhea]]) |
+| ***Cryptosporidium*** ([[cryptosporidiosis]]) | Among the pathogens to consider with AIDS or immunosuppressive therapy ([[idsa-2017-infectious-diarrhea]]) |
 | ***Cyclospora*** | IDSA 2017 Rec 12 |
 | ***Cystoisospora*** | IDSA 2017 Rec 12; also a duodenal-aspirate target (Rec 24) |
 | **Microsporidia** (*Enterocytozoon bieneusi*) | Also named by [[acg-2016-acute-diarrhea]] |

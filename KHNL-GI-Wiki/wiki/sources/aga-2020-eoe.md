@@ -5,6 +5,7 @@ tags: [eosinophilic-esophagitis, ppi, topical-steroid, diet-elimination, dilatio
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 Management of EoE.pdf"
 ---
 
 # AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)

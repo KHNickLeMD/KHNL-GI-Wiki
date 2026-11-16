@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, bra
 created: 2026-07-23
 updated: 2026-11-03
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU IBD Pain Management.pdf"
 ---
 
 # AGA 2024 Clinical Practice Update on Pain Management in Inflammatory Bowel Disease

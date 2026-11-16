@@ -5,6 +5,7 @@ tags: [endoscope-reprocessing, high-level-disinfection, duodenoscope, infection-
 created: 2026-11-06
 updated: 2026-11-06
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2017 Multisociety Reprocessing Flexible GI Endoscopes 2016 Update (Petersen).pdf"
 ---
 
 ## Bibliographic Info

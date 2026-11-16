@@ -3,7 +3,7 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-10-26
+updated: 2026-11-16
 sources: [asge-2022-pancreatic-cancer-screening, caps-2020-pancreatic-surveillance, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
 ---
 
@@ -61,7 +61,7 @@ Screening is suggested for individuals at increased risk **because of genetic su
 ### Genetic Testing
 
 - Testing for suspected [[familial-pancreatic-cancer|familial pancreatic cancer]] should analyze **BRCA1/2, CDKN2A, PALB2, and ATM**. Add [[peutz-jeghers-syndrome|PJS]]-, [[lynch-syndrome|Lynch]]-, and [[hereditary-pancreatitis|hereditary pancreatitis]]-associated genes when the personal/family history meets that syndrome's criteria ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
-- Known genetic mutations explain only ~20% of familial clustering, so a negative panel does not remove a kindred from FPC-based eligibility.
+- Known susceptibility-gene variants explain only ~10%–20% of familial clustering ([[caps-2020-pancreatic-surveillance|CAPS 2020]]; [[acg-2015-hereditary-gi-cancer|ACG 2015]]: ~20%), so a negative panel does not remove a kindred from FPC-based eligibility.
 
 ### Where the Two Guidelines Differ
 

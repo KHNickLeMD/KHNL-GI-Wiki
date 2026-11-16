@@ -5,6 +5,7 @@ tags: [endoscopic-sleeve-gastroplasty, endoscopic-bariatric-therapy, obesity, en
 created: 2026-11-16
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/Delphi 2025 ESG Standards of Practice (Jirapinyo).pdf"
 ---
 
 ## Bibliographic Info

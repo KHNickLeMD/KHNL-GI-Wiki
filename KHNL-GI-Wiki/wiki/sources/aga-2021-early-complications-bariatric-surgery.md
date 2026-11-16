@@ -5,6 +5,7 @@ tags: [bariatric, obesity, staple-line-leak, stenosis, stent, endoscopic-vacuum-
 created: 2026-09-30
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Early Complications After Bariatric Surgery.pdf"
 ---
 
 ## Bibliographic Info

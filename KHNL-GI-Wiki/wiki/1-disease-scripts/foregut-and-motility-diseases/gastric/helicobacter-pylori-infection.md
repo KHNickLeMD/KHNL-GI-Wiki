@@ -3,8 +3,8 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021-refractory-h-pylori]
+updated: 2026-11-16
+sources: [acg-2024-hp-treatment, aga-2024-pcab, aga-2021-refractory-h-pylori]
 ---
 
 ## Contents
@@ -31,7 +31,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021
 
 ### Establishing the Diagnosis
 
-**Who to test and treat — [[acg-2024-hp-treatment|American College of Gastroenterology (ACG) 2024]] Table 4** (supersedes the narrower [[acg-2017-hp-guidelines|ACG 2017]] list; note the age cutoff for uninvestigated dyspepsia moved from **<55 y (2017) to <60 y (2024)**):
+**Who to test and treat — [[acg-2024-hp-treatment|American College of Gastroenterology (ACG) 2024]] Table 4** (uninvestigated dyspepsia: age **<60 y**):
 
 | Category | Indication |
 |---|---|
@@ -131,8 +131,8 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 |---|---|
 | Rapid urease test (RUT) | Biopsy urease test; usable for test of cure when endoscopy is needed anyway — sensitivity reduced by recent PPI (possibly potassium-competitive acid blocker [PCAB]), bismuth, or antibiotics |
 | Histology | Hematoxylin & eosin staining of gastric biopsies; also shows gastritis pattern, atrophy, metaplasia. Usable for test of cure, with the same drug-hold caveat |
-| Culture | Phenotypic susceptibility testing; **technically demanding** and requires endoscopic biopsy |
-| Molecular (polymerase chain reaction [PCR] / next-generation sequencing) | Detects **clarithromycin resistance (23S rRNA mutations)** and **levofloxacin resistance (gyrA mutations)**; increasingly available in the US |
+| Culture | Phenotypic susceptibility testing on gastric biopsies; available in the US but **not widely used** — workflow complexity, low culture success rates, uncertain incremental value; no universally accepted gold standard |
+| Molecular (polymerase chain reaction [PCR] / next-generation sequencing [NGS]) | Best suited to **clarithromycin and levofloxacin**, where a few specific mutations explain almost all resistance; PCR on gastric biopsies **or stool**; stool NGS 92% concordant with biopsy NGS; increasingly available in the US |
 
 ---
 
@@ -192,16 +192,16 @@ flowchart TD
 **Vonoprazan (P-CAB) rationale:**
 
 - Potassium-competitive acid blocker; faster onset, deeper, more sustained acid suppression than PPIs (pH >6 for longer duration)
-- Superior to PPIs as partner for clarithromycin-based regimens (PHALCON-HP trial)
-- Vonoprazan dual therapy avoids clarithromycin entirely; FDA-approved 2022 (Voquezna)
-- PCAB preferred when available, especially for clarithromycin-containing regimens
+- With unknown clarithromycin susceptibility, **PCAB-clarithromycin triple is suggested over PPI-clarithromycin triple** (Rec 4). In the 14-day US/European RCT, vonoprazan triple was noninferior to lansoprazole triple in clarithromycin-sensitive strains and superior in resistant strains (66% vs 32%) and overall (81% vs 69%, modified intention-to-treat)
+- Vonoprazan dual therapy avoids clarithromycin entirely; FDA-approved 2022 (Voquezna). Same RCT: noninferior in clarithromycin-sensitive strains (79% vs 79%), superior in resistant strains (70% vs 32%) and overall (77% vs 69%) [[acg-2024-hp-treatment]]
 - **American Gastroenterological Association (AGA) 2024 P-CAB clinical practice update (CPU)** ([[aga-2024-pcab]]) — best practice advice (BPA) 7: **use P-CABs in place of PPIs in eradication regimens for most patients**; pooled first-line eradication 92% vs 80% (P-CAB vs PPI), largest benefit in **clarithromycin-resistant** strains; short *H. pylori* course blunts P-CAB cost/safety concerns. Concordant with 2022 Maastricht VI (100% agreement)
 
 **Susceptibility testing — when, per ACG 2024 Key Concepts 3 and 6:**
 
 - **Clarithromycin- and levofloxacin-containing regimens should be avoided in the absence of demonstrated macrolide and quinolone susceptibility, respectively** (Key Concept 3). This is the hard rule; it is what removes empiric PPI-clarithromycin triple from first-line use.
 - **The incremental benefit of "tailored" over empiric therapy remains inadequately defined and studied**, for treatment-naive and treatment-experienced patients alike. ACG's expert-consensus advice is therefore narrower than "test everyone": **use susceptibility testing whenever the choice of therapy remains unclear** after accounting for previous H. pylori treatments, broader past antibiotic exposure, and any documented penicillin allergy (Key Concept 6).
-- Phenotypic (culture-based) and molecular methods (PCR, next-generation sequencing) are both becoming increasingly available in the US. Molecular testing detects clarithromycin resistance (23S rRNA mutations) and levofloxacin resistance (gyrA mutations); culture is technically demanding and requires endoscopic biopsy.
+- Phenotypic (culture-based) and molecular methods (PCR, next-generation sequencing) are both becoming increasingly available in the US (methods under [[#Invasive Tests (Endoscopy-Based)]]).
+- **Before first-line therapy:** tailored therapy showed no advantage when the empiric regimen was BQT — with BQT first line and a local eradication rate **>85%**, susceptibility testing is not needed before treatment. Testing is advised **before any clarithromycin- or levofloxacin-containing regimen** (largely expert opinion).
 - In treatment-experienced patients with **confirmed clarithromycin-sensitive** persistent infection, PPI- or PCAB-clarithromycin triple therapy is suggested (Key Concept 5).
 
 ### Refractory Infection — Definition and Causes of Failure
@@ -289,7 +289,7 @@ Lists of treatments present appropriate options, **not** a treatment hierarchy. 
 | **Had PPI-clarithromycin triple** | Optimized BQT | Low |
 | **Has NOT had optimized BQT** | Optimized BQT **over** any quinolone-based therapy | Low |
 | **Has had BQT** | Rifabutin triple | Low |
-| **Levofloxacin-sensitive strain AND** optimized BQT / rifabutin triple already used or unavailable | Levofloxacin triple | Low |
+| **Levofloxacin-sensitive strain AND** optimized BQT **or** rifabutin triple already used or unavailable | Levofloxacin triple | Low |
 
 **Salvage regimens are also all 14 days. There are no FDA-approved regimens for persistent infection.** Doses (ACG 2024 Table 6):
 
@@ -299,7 +299,7 @@ Lists of treatments present appropriate options, **not** a treatment hierarchy. 
 | Rifabutin triple | PPI (standard **to double** dose) b.i.d. + amoxicillin 1,000 mg b.i.d. **or** t.i.d. + rifabutin **50–300 mg q.d. or b.i.d.** | see note | No |
 | Levofloxacin triple | PPI (standard dose) b.i.d. + levofloxacin 500 mg q.d. + amoxicillin 1,000 mg b.i.d. | — | **Yes** |
 
-- **Rifabutin dosing differs between first-line and salvage.** The optimal salvage strategy is unclear and 50 mg tablets are not commercially available; Talicia's 50 mg t.i.d. has **not** been evaluated as salvage. When prescribing the components separately, ACG suggests **rifabutin 150 mg b.i.d. or 300 mg q.d.**
+- **Rifabutin dosing differs between first-line and salvage.** The optimal salvage strategy is unclear and 50 mg tablets are not commercially available; Talicia's 50 mg t.i.d. has **not** been evaluated as salvage. When prescribing the components separately, the Table 6 footnote suggests **rifabutin 150 mg b.i.d. or 300 mg q.d.**; the Rec 8 text instead suggests **50 mg t.i.d., or 150 mg b.i.d. if Talicia is unavailable** (150 mg once daily performed worse; higher doses carry dose-dependent myelosuppression risk).
 - **Levofloxacin carries a black-box warning** (tendonitis, tendon rupture) and is suggested **only** with confirmed levofloxacin sensitivity. In **true penicillin allergy**, substitute **metronidazole 500 mg b.i.d. for amoxicillin**.
 - **No recommendation either way (evidence gap):** PCAB-clarithromycin triple (Voquezna TriplePak) and **high-dose dual therapy** (high-dose PPI or vonoprazan + high-dose amoxicillin) as salvage — neither has been evaluated in treatment-experienced patients, and North American evidence is insufficient. If PCAB triple is used it must not be given after previous macrolide exposure or without a demonstrated clarithromycin-sensitive strain.
 - **Clarithromycin- and levofloxacin-containing regimens should be avoided absent demonstrated macrolide/quinolone susceptibility** — their empiric salvage success rates are unacceptably low.
@@ -307,7 +307,7 @@ Lists of treatments present appropriate options, **not** a treatment hierarchy. 
 
 ### Post-Treatment Confirmation
 
-**Confirm eradication in ALL patients** [[acg-2024-hp-treatment]] [[acg-2017-hp-guidelines]]:
+**Confirm eradication in ALL patients** (Key Concept 4) [[acg-2024-hp-treatment]]:
 
 - Use UBT, fecal antigen test, or a biopsy-based test — perform **at least 4 weeks after completion of therapy**
 - **Stop PPIs 2 weeks** before UBT or fecal antigen testing (they cause false negatives). The same probably applies to PCABs such as vonoprazan, though **this has not been adequately studied**
@@ -333,7 +333,6 @@ Lists of treatments present appropriate options, **not** a treatment hierarchy. 
 
 ## Sources
 
-1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
-2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
-3. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
-4. [[aga-2021-refractory-h-pylori|AGA Clinical Practice Update on the Management of Refractory Helicobacter pylori Infection: Expert Review (2021)]]
+1. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+2. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
+3. [[aga-2021-refractory-h-pylori|AGA Clinical Practice Update on the Management of Refractory Helicobacter pylori Infection: Expert Review (2021)]]

@@ -5,6 +5,7 @@ tags: [eus-fna, pancreatic-cysts, antibiotic-prophylaxis, ciprofloxacin, infecti
 created: 2026-07-30
 updated: 2026-07-30
 sources: []
+raw: "GI RCTs/Abx PPX for EUS FNA Panc Cysts RCT.pdf"
 ---
 
 # Colán-Hernández 2020 — Antibiotic Prophylaxis for EUS-FNA of Pancreatic Cysts (RCT)

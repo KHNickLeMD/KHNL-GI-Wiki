@@ -5,6 +5,7 @@ tags: [acute-liver-failure, hepatology, transplant, cerebral-edema, acetaminophe
 created: 2026-06-09
 updated: 2026-10-07
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2011 Acute Liver Failure Management.pdf"
 ---
 
 > ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2023-alf|American College of Gastroenterology (ACG) Clinical Guideline: Acute Liver Failure (2023)]]. Do not use for current drug positioning or diagnostic criteria — see the superseding guideline(s).

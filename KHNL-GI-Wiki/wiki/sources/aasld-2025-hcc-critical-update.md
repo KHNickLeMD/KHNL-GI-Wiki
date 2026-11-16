@@ -5,6 +5,7 @@ tags: [hcc, hepatocellular-carcinoma, adjuvant, neoadjuvant, immunotherapy, atez
 created: 2026-05-25
 updated: 2026-09-17
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2025 HCC Critical Update.pdf"
 ---
 
 ## Bibliographic Info

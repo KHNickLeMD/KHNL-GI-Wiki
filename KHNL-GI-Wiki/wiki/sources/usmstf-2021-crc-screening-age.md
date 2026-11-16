@@ -5,6 +5,7 @@ tags: [crc-screening, colorectal-cancer, colonoscopy, fit, early-onset-crc, scre
 created: 2026-05-07
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2021 Update Age to Start and Stop Colorectal Cancer Screening.pdf"
 ---
 
 ## Bibliographic Info

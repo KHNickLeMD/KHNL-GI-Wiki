@@ -5,6 +5,7 @@ tags: [fmt, live-biotherapeutic, cdiff, recurrent-cdi, dosing, administration, d
 created: 2026-10-30
 updated: 2026-10-30
 sources: []
+raw: "Drug Labels/Rebyota Label.pdf"
 ---
 
 ## Bibliographic Info

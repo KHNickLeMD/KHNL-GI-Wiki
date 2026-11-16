@@ -5,6 +5,7 @@ tags: [barretts-esophagus, surveillance, dysplasia, ppi, biopsy-protocol, esopha
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 Barrett's Surveillance.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [chronic-pancreatitis, eus, rosemont, classification, pancreaticobiliary]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Catalano 2009 Rosemont Classification EUS Chronic Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

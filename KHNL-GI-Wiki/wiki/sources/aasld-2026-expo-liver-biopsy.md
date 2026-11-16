@@ -5,6 +5,7 @@ tags: [liver-biopsy, hepatology, percutaneous, transjugular, eus-guided, specime
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2026 EXPO Liver Biopsy (Verna).pdf"
 ---
 
 ## Bibliographic Info

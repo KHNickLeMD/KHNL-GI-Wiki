@@ -5,6 +5,7 @@ tags: [liver-transplant, liver-transplantation, candidate-evaluation, meld, hcc,
 created: 2026-05-25
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD AST 2025 Liver Transplant Candidate Evaluation.pdf"
 ---
 
 ## Bibliographic Info

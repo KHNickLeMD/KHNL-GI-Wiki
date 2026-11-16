@@ -5,6 +5,7 @@ tags: [fmt, live-biotherapeutic, cdiff, recurrent-cdi, dosing, administration, d
 created: 2026-10-31
 updated: 2026-10-31
 sources: []
+raw: "Drug Labels/Vowst Label.pdf"
 ---
 
 ## Bibliographic Info

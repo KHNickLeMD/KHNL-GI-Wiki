@@ -5,6 +5,7 @@ tags: [functional-heartburn, gerd, nerd, reflux-hypersensitivity, dgbi, acid-exp
 created: 2026-09-10
 updated: 2026-09-10
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Functional Heartburn.pdf"
 ---
 
 ## Bibliographic Info

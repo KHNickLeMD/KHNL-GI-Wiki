@@ -5,6 +5,7 @@ tags: [glp-1, semaglutide, endoscopy, sedation, aspiration, gastroparesis, perip
 created: 2026-07-22
 updated: 2026-11-02
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU GLP-1 Agonists Prior to Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

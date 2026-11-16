@@ -3,8 +3,9 @@ title: "Disorders of Gut–Brain Interaction and the Rome V Process"
 category: source
 tags: [DGBI, IBS, functional-gi, rome-criteria, biopsychosocial, brain-gut-axis, motility]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/Rome Foundation 2026 Rome V Criteria.pdf"
 ---
 
 ## Bibliographic Info
@@ -178,7 +179,7 @@ The article numbers no recommendations and assigns no grades or voting results (
 
 ## Contradictions / Open Questions
 
-- **Criteria not printed:** this article gives only the Rome IV → V *changes*; full symptom items and thresholds for functional dyspepsia, chronic constipation, cyclic vomiting syndrome, cannabinoid hyperemesis syndrome, rumination, F4, and others are in the Rome V chapters. Wiki pages carrying older Rome III/IV item lists ([[asge-2014-constipation]], [[aga-2019-opioid-induced-constipation]], [[aga-2024-cvs]], [[aga-2024-chs]]) remain the operative criteria text until the chapters are ingested.
+- **Criteria not printed:** this article gives only the Rome IV → V *changes*; full symptom items and thresholds for functional dyspepsia, chronic constipation, cyclic vomiting syndrome, cannabinoid hyperemesis syndrome, rumination, F4, and others are in the Rome V chapters. Those chapters print the full criteria — [[rome-v-2026-gastroduodenal-disorders]] (functional dyspepsia, cyclic vomiting syndrome, cannabinoid hyperemesis syndrome B2c, rumination), [[rome-v-2026-bowel-disorders]] (chronic constipation, opioid-induced constipation) and [[rome-v-2026-anorectal-disorders]] (F4) — and, being newer, supersede the older Rome III/IV item lists carried by [[asge-2014-constipation]], [[aga-2019-opioid-induced-constipation]], [[aga-2024-cvs]] and [[aga-2024-chs]].
 - **Dyssynergic defecation test count:** Rome V needs 1 of 3 abnormal tests plus symptoms; [[acg-2021-anorectal-disorders|American College of Gastroenterology (ACG) 2021]] requires both anorectal manometry and balloon expulsion. Both tier 1; Rome V newer → wiki follows 1-of-3 and notes the ACG rule.
 - **IBS criteria:** [[acg-2020-ibs|ACG 2020]] uses Rome IV (pain ≥1 day/week, onset ≥6 months); Rome V lowers frequency to ≥3 days/month, re-adds discomfort, requires non-continuous pain. Rome V newer → governs.
 - **Cannabinoid hyperemesis syndrome:** [[aga-2024-cvs]]/[[aga-2024-chs]] frame it as a cyclic vomiting syndrome subtype; Rome V lists it as a separate adult entity (B2c), still nested under cyclic vomiting syndrome in pediatrics (G3b.i).

@@ -3,9 +3,10 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones, asge-2026-ercp-adverse-events, acg-asge-2026-ercp-quality-indicators, aga-2019-psc-cancer-surveillance]
 quality_reviewed: 2026-11-15
+verified: 2026-11-16
 ---
 
 **Cholangioscopy** is direct endoscopic visualization of the biliary (or pancreatic) ductal lumen, most commonly performed as single-operator peroral cholangioscopy through the working channel of a duodenoscope during [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]. It permits targeted, image-directed mini-forceps biopsy of biliary lesions, visual characterization of strictures, and intraductal lithotripsy of stones that resist conventional extraction.
@@ -30,7 +31,7 @@ quality_reviewed: 2026-11-15
 - **[[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] (Rec 2 — conditional, very low quality):** cholangioscopic-guided biopsy sampling is suggested for [[biliary-stricture|biliary strictures]] of undetermined etiology that are
   - **(a) nondistal with a high probability of adequate drainage of the critical liver segment, *or* (b) a previous nondiagnostic ERCP done without cholangioscopy** — **and (c) at centers with clinical expertise and easy access to the equipment.** Otherwise the American Society for Gastrointestinal Endoscopy (ASGE) suggests ERCP with *or* without cholangioscopy.
 - **Yield:** ERCP **with** cholangioscopy is **0.72** sensitive for malignancy (95% confidence interval [CI] 0.66–0.77) vs **0.61** (0.57–0.66) without (*P* = .001); incremental yield **27%** across 4 observational studies and **41%** in the single randomized controlled trial (RCT).
-- Cholangioscopy-directed biopsy is **60–75%** sensitive — superior to [[brush-cytology|brush cytology]] or fluoroscopy-directed forceps biopsy alone, which is why ≥2 sampling modalities are used at the index ERCP ([[acg-2023-biliary-strictures]]).
+- Cholangioscopy-directed biopsy is **60–75%** sensitive in patients with negative prior sampling — superior to [[brush-cytology|brush cytology]] or fluoroscopy-directed forceps biopsy alone, which is why ≥2 sampling modalities are used at the index ERCP ([[acg-2023-biliary-strictures]]).
 - ⚠ **Why "nondistal":** in the very distal common bile duct (CBD) the cholangioscope is unstable and the mini-forceps hard to pass. In one study fluoroscopy-directed intraductal biopsy beat cholangioscopic biopsy for distal strictures (**76% vs 50%**), with no difference for proximal strictures — distal strictures are an [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] sampling indication instead.
 - **Cost and time:** adds **~14 min** (95% CI 10–20) and **~$2637** when done during an ERCP with stent placement. Still cost-effective — modeling in [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] gave a gain of 0.22 quality-adjusted life-years (QALYs) for an extra $8562.44, base-case incremental cost-effectiveness ratio (ICER) **$39,277.25 per QALY**, below the $50,000/QALY willingness-to-pay threshold.
 - **Adjunctive [[confocal-laser-endomicroscopy|probe-based confocal laser endomicroscopy (pCLE)]]** — the Miami and Paris criteria and the pooled performance figures live on that page. ASGE panel position: pCLE is **difficult to master and expensive**, so widespread adoption is unlikely in the near future.
@@ -39,14 +40,14 @@ quality_reviewed: 2026-11-15
 
 - **[[asge-2015-ercp-benign-biliary|ASGE 2015]] (Rec 6 — *low quality*):** cholangioscopy is an **adjunctive technique for difficult bile duct stones not amenable to removal after sphincterotomy with or without balloon dilation or mechanical lithotripsy.**
 - **[[bsg-2017-common-bile-duct-stones|BSG 2017]] (Rec 15 — *low quality, strong*):** cholangioscopy-guided **electrohydraulic lithotripsy (EHL) or laser lithotripsy (LL)** when other endoscopic options fail to clear the duct.
-- **Position in the escalation ladder** for [[choledocholithiasis|choledocholithiasis]] (the ladder's home is [[ercp]]): sphincterotomy → endoscopic papillary large-balloon (**≥12 mm**) dilation added to sphincterotomy → mechanical lithotripsy → cholangioscopy-guided lithotripsy ([[asge-2019-choledocholithiasis]], [[asge-2015-ercp-benign-biliary]]).
+- **Position among the options** for large and difficult [[choledocholithiasis|choledocholithiasis]] (stone-clearance sequence: [[ercp]]): [[asge-2019-choledocholithiasis|ASGE 2019]] Rec 4 suggests **intraductal therapy *or* conventional therapy with papillary dilation** — alternatives chosen by local expertise, cost and preference, not a fixed order (Conditional, Very low). Large-balloon dilation = **≥12 mm** ([[asge-2015-ercp-benign-biliary]]).
 - **What actually makes extraction difficult:** in most cases **size, shape and number** of stones; **altered anatomy from previous surgery** independently lowers the chance of success ([[bsg-2017-common-bile-duct-stones]]).
 - ⚠ **"Difficult" means two different things in two tier-1 guidelines, and the difference is which rung of the ladder you are on.** Neither definition rests on size, impaction, intrahepatic location or duct taper — both are **functional**, and they sit one rung apart:
 
 | Source | A stone is "difficult" when… | What follows |
 |---|---|---|
 | [[asge-2015-ercp-benign-biliary\|ASGE 2015]] (Rec 6) | it is **not removable after sphincterotomy ± balloon dilation or mechanical lithotripsy** — i.e. *before* cholangioscopy | **Cholangioscopy-guided lithotripsy** |
-| [[bsg-2017-common-bile-duct-stones\|BSG 2017]] | standard extraction **plus mechanical lithotripsy, plus endoscopic papillary balloon dilation (EPBD) after sphincterotomy, plus cholangioscopy** (or extracorporeal shock wave lithotripsy where available) **have all failed** — "difficult **stone disease**" | **Percutaneous radiological extraction or open duct exploration** (major complications **3.6%–6.8%**) |
+| [[bsg-2017-common-bile-duct-stones\|BSG 2017]] | standard extraction **plus mechanical lithotripsy, plus endoscopic papillary balloon dilation (EPBD) after sphincterotomy, plus cholangioscopy** (or extracorporeal shock wave lithotripsy where available) **have all failed** — "difficult **stone disease**" | **Percutaneous radiological extraction** (major complications **3.6%–6.8%**) **or open duct exploration** |
 
 - **Duct clearance with cholangioscopy-guided lithotripsy** — each row is its own population, so read across rows with care:
 

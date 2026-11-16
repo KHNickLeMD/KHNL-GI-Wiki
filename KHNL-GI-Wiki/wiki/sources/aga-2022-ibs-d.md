@@ -5,6 +5,7 @@ tags: [ibs-d, irritable-bowel-syndrome, rifaximin, eluxadoline, alosetron, guide
 created: 2026-06-04
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 IBS-D Pharm Mgmt.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Pharmacologic Management of IBS-D (2022)

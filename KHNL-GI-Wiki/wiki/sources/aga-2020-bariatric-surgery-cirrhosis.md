@@ -5,6 +5,7 @@ tags: [bariatric-surgery, cirrhosis, obesity, sleeve-gastrectomy, csph, portal-h
 created: 2026-09-19
 updated: 2026-09-19
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Bariatric Surgery in Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, eus, staging, sems, malignant-polyp, asge]
 created: 2026-06-22
 updated: 2026-10-13
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2013 Endoscopy in CRC Staging & Management.pdf"
 ---
 
 ## Bibliographic Info

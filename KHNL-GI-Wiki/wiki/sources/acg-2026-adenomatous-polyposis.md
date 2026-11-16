@@ -5,6 +5,7 @@ tags: [polyposis, fap, mutyh, apc, germline-testing, spigelman, duodenal-adenoma
 created: 2026-11-06
 updated: 2026-11-06
 sources: []
+raw: "GI Guidelines/ACG/ACG 2026 Adenomatous Colorectal Polyposis Syndromes (Mankaney).pdf"
 ---
 
 ## Bibliographic Info

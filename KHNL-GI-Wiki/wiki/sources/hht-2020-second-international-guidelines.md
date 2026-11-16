@@ -5,6 +5,7 @@ tags: [hht, osler-weber-rendu, telangiectasia, avm, vascular-malformation, gi-bl
 created: 2026-10-19
 updated: 2026-10-19
 sources: []
+raw: "GI Guidelines/Other/HHT 2020 Second International Guidelines (Faughnan).pdf"
 ---
 
 ## Bibliographic Info

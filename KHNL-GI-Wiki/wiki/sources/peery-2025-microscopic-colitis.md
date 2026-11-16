@@ -5,6 +5,7 @@ tags: [microscopic-colitis, collagenous-colitis, lymphocytic-colitis, chronic-di
 created: 2026-10-03
 updated: 2026-10-03
 sources: []
+raw: "GI Other Studies/CGH 2025 Review on Microscopic Colitis.pdf"
 ---
 
 ## Bibliographic Info

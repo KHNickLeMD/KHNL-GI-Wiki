@@ -5,6 +5,7 @@ tags: [wilson-disease, WD, ATP7B, copper, ceruloplasmin, chelation, D-penicillam
 created: 2026-05-28
 updated: 2026-08-27
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2022 Wilson Disease Dx Management.pdf"
 ---
 
 ## Bibliographic Info

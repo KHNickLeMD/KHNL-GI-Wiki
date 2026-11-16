@@ -5,6 +5,7 @@ tags: [entecavir, hepatitis-b, nucleoside-analog, antiviral, dosing, renal-dosin
 created: 2026-10-20
 updated: 2026-10-20
 sources: []
+raw: "Drug Labels/Baraclude Entecavir Label.pdf"
 ---
 
 ## Bibliographic Info

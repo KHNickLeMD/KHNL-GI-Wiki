@@ -5,6 +5,7 @@ tags: [autoimmune-hepatitis, aih, iaihg, diagnostic-score, hepatology]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Hennes 2008 Simplified Criteria Autoimmune Hepatitis.pdf"
 ---
 
 ## Bibliographic Info

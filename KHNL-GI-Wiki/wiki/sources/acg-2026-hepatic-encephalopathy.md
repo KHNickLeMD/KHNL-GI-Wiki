@@ -5,6 +5,7 @@ tags: [hepatic-encephalopathy, cirrhosis, lactulose, rifaximin, liver-transplant
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2026 Hepatic Encephalopathy.pdf"
 ---
 
 # ACG Clinical Guideline: Hepatic Encephalopathy (2026)

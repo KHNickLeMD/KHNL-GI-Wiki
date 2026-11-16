@@ -5,6 +5,7 @@ tags: [tenofovir, taf, hepatitis-b, nucleotide-analog, antiviral, dosing, renal-
 created: 2026-10-24
 updated: 2026-10-24
 sources: []
+raw: "Drug Labels/Vemlidy Tenofovir Alafenamide Label.pdf"
 ---
 
 ## Bibliographic Info

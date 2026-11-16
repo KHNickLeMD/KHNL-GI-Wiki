@@ -5,6 +5,7 @@ tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections.pdf"
 ---
 
 ## Bibliographic Info

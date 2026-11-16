@@ -5,6 +5,7 @@ tags: [hepatitis-delta, hdv, hepatitis-b, bulevirtide, peg-interferon, cirrhosis
 created: 2026-11-07
 updated: 2026-11-07
 sources: []
+raw: "GI Guidelines/EASL/EASL 2023 Hepatitis Delta Virus CPG.pdf"
 ---
 
 ## Bibliographic Info

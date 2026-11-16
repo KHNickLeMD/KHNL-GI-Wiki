@@ -5,6 +5,7 @@ tags: [eus-gastroenterostomy, eus-ge, lams, gastric-outlet-obstruction, interven
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/Other/Intl Consensus 2026 EUS-Gastroenterostomy (Vanella).pdf"
 ---
 
 ## Bibliographic Info

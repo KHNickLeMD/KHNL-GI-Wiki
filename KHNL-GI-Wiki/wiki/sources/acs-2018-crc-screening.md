@@ -5,6 +5,7 @@ tags: [crc, colorectal-cancer, screening, colonoscopy, fit, multitarget-stool-dn
 created: 2026-11-10
 updated: 2026-11-10
 sources: []
+raw: "GI Guidelines/Other/ACS 2018 Colorectal Cancer Screening for Average-Risk Adults (Wolf).pdf"
 ---
 
 ## Bibliographic Info

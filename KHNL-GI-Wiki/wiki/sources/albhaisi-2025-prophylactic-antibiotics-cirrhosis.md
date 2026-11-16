@@ -5,6 +5,7 @@ tags: [cirrhosis, upper-gi-bleeding, variceal-bleeding, antibiotic-prophylaxis, 
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI RCTs/Prosty 2025 Prophylactic Antibiotics UGIB Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

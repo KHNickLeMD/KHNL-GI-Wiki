@@ -5,6 +5,7 @@ tags: [ostomy, stoma, colostomy, ileostomy, high-ostomy-output, parastomal-herni
 created: 2026-07-23
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Ostomies.pdf"
 ---
 
 # AGA 2023 Clinical Practice Update on Management of Ostomies: Commentary

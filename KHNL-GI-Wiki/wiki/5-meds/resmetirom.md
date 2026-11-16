@@ -3,12 +3,13 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-11-12
+updated: 2026-11-16
 sources: [aasld-2024-resmetirom, aasld-2023-nafld, aasld-2025-semaglutide-mash]
 quality_reviewed: 2026-11-12
+verified: 2026-11-16
 ---
 
-**Resmetirom (Rezdiffra)** is an oral, liver-directed **thyroid hormone receptor-β (THR-β) agonist** — the first US Food and Drug Administration (FDA)-approved pharmacotherapy for **metabolic dysfunction-associated steatohepatitis (MASH)** (accelerated approval, March 2024), for MASH with **moderate-to-advanced fibrosis (stages F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial plus MAESTRO-NAFLD-1 safety data. See [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]] for disease context; the American Association for the Study of Liver Diseases (AASLD) guidance below is the source for everything on this page unless stated otherwise ([[aasld-2024-resmetirom]]).
+**Resmetirom (Rezdiffra)** is an oral, liver-directed **thyroid hormone receptor-β (THR-β) agonist** — approved by the US Food and Drug Administration (FDA) for **metabolic dysfunction-associated steatohepatitis (MASH)** (accelerated approval, March 2024) with **moderate-to-advanced fibrosis (stages F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial plus MAESTRO-NAFLD-1 safety data. See [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]] for disease context; the American Association for the Study of Liver Diseases (AASLD) guidance below is the source for everything on this page unless stated otherwise ([[aasld-2024-resmetirom]]).
 
 ## Contents
 - [[#Indication & candidacy]]

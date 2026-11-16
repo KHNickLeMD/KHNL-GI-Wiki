@@ -3,8 +3,9 @@ title: "Anorectal Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, fecal-incontinence, dyssynergic-defecation, proctalgia, levator-ani, anorectal, rectal-sensation, biofeedback]
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Anorectal Disorders (Rao).pdf"
 ---
 
 ## Bibliographic Info
@@ -262,4 +263,5 @@ The chapter's **only** graded statements. Grades: **A1** = excellent evidence in
 - **Internal tension in the FI criteria.** The justification text says the duration "was increased from **3 to 6 months**," while the definition sentence reads "for at least **3 months**" and the criteria footnote reads "last **3 months** with symptom onset at least **6 months** before diagnosis." The footnote is the operative rule; the wiki states it as printed.
 - **Dyssynergia subtyping.** Rome V declines to subclassify DD, but the chapter still prints the type I–IV definitions and Figure 2 retains them, and [[london-2020-anorectal-classification]] continues to classify disordered rectoanal coordination. The wiki keeps the type definitions as **historical/descriptive**, not diagnostic.
 - **Sacral nerve stimulation evidence.** The chapter is markedly more sceptical than [[aga-2017-surgical-device-fecal-incontinence]] — no sham-controlled RCT, uncertain mechanism, meaningful sham response. Surfaced on [[sacral-nerve-stimulation]].
+- **Treating proctalgia fugax.** [[acg-2021-anorectal-disorders|ACG 2021]] (Key Concept 9) holds that, given the brevity of episodes, there is no evidence to support treatment intervention or to prevent attacks — explanation and reassurance only; this chapter says reassurance is often sufficient but **frequent or severe attacks may require therapy** (inhaled salbutamol shortened severe, prolonged attacks in an RCT). Rome V is newer and governs [[proctalgia-syndromes]].
 - **Botulinum toxin for levator ani syndrome.** Retrospective studies positive, 1 RCT negative — the chapter does not resolve it.

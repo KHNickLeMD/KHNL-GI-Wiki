@@ -5,6 +5,7 @@ tags: [barretts-esophagus, screening, surveillance, chromoendoscopy, wats, eus, 
 created: 2026-06-04
 updated: 2026-10-05
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2019 Barrett's Screening & Surveillance.pdf"
 ---
 
 # ASGE 2019 — Screening and Surveillance of Barrett's Esophagus

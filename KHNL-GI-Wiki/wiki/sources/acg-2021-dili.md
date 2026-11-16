@@ -5,6 +5,7 @@ tags: [dili, drug-induced-liver-injury, hds, hepatotoxicity, liver, hpb, ici, im
 created: 2026-05-16
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Diagnosis & Management of Idiosyncratic Drug-Induced Liver Injury.pdf"
 ---
 
 ## Contents

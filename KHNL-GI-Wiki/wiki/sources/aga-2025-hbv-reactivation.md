@@ -5,6 +5,7 @@ tags: [hepatitis-b, hbv-reactivation, antiviral-prophylaxis, immunosuppression, 
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 HBV Reactivation.pdf"
 ---
 
 # AGA Clinical Practice Guideline: HBV Reactivation in At-Risk Individuals (2025)

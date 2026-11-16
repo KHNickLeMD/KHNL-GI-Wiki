@@ -5,6 +5,7 @@ tags: [budd-chiari-syndrome, rotterdam-score, prognostic-score, hepatic-vein-thr
 created: 2026-10-22
 updated: 2026-10-22
 sources: []
+raw: "GI Other Studies/Darwish Murad 2004 Budd-Chiari Determinants of Survival Rotterdam Score.pdf"
 ---
 
 ## Bibliographic Info

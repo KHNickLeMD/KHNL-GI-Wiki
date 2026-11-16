@@ -5,6 +5,7 @@ tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrh
 created: 2026-06-27
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Antibiotic Prophylaxis for Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

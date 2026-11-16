@@ -5,6 +5,7 @@ tags: [pregnancy, liver-disease, contraception, cirrhosis-pregnancy, intrahepati
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2021 Reproductive Health Liver Disease.pdf"
 ---
 
 # AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)

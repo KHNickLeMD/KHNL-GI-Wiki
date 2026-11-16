@@ -5,6 +5,7 @@ tags: [cirrhosis, malnutrition, frailty, sarcopenia, nutrition, liver-frailty-in
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2021 Malnutrition Frailty Sarcopenia Cirrhosis.pdf"
 ---
 
 # AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)

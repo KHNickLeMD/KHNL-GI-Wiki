@@ -5,6 +5,7 @@ tags: [dgbi, chronic-pain, abdominal-pain, ibs, functional-dyspepsia, neuromodul
 created: 2026-09-28
 updated: 2026-09-28
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Chronic GI Pain in Disorders of Gut-Brain Interaction.pdf"
 ---
 
 # AGA Clinical Practice Update on Management of Chronic Gastrointestinal Pain in Disorders of Gut–Brain Interaction: Expert Review

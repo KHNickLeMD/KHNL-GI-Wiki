@@ -5,6 +5,9 @@ tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ,
 created: 2026-05-15
 updated: 2026-11-17
 sources: []
+raw:
+  - "GI Guidelines/Other/Padova Consensus 2025 HRM for Antireflux Surgery.pdf"
+  - "GI Guidelines/Other/Padova Consensus 2025 HRM for Antireflux Surgery - Supplemental Digital Content 1.docx"
 ---
 
 ## Bibliographic Info

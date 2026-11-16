@@ -5,6 +5,7 @@ tags: [pregnancy, liver-disease, ihcp, aflp, hellp, hyperemesis-gravidarum, hepa
 created: 2026-05-19
 updated: 2026-09-28
 sources: []
+raw: "GI Guidelines/ACG/ACG 2016 Liver Disease and Pregnancy.pdf"
 ---
 
 ## Bibliographic Info

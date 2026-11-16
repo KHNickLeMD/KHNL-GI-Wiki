@@ -5,6 +5,7 @@ tags: [acute-liver-failure, alf, hepatology, wilson-disease, hsv, vzv, hepatitis
 created: 2026-09-25
 updated: 2026-09-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 Acute Liver Failure.pdf"
 ---
 
 ## Bibliographic Info

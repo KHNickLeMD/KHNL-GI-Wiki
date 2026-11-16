@@ -5,6 +5,7 @@ tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestina
 created: 2026-07-21
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Gastric Cancer Screening & Surveillance.pdf"
 ---
 
 ## Bibliographic Info

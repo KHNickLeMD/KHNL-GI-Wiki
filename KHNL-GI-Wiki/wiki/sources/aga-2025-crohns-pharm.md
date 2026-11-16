@@ -5,6 +5,7 @@ tags: [crohns-disease, ibd, advanced-therapy, biologics, jak-inhibitor, inflixim
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 Mod-Severe CD Pharm Mgmt.pdf"
 ---
 
 # AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)

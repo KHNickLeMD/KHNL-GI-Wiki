@@ -5,6 +5,7 @@ tags: [cholangitis, cholecystitis, antibiotics, biliary-infection, tokyo-guideli
 created: 2026-10-19
 updated: 2026-10-19
 sources: []
+raw: "GI Guidelines/Other/Tokyo Guidelines 2018 Antimicrobial Therapy (Gomi).pdf"
 ---
 
 ## Bibliographic Info

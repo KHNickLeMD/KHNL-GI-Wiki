@@ -5,6 +5,7 @@ tags: [anorectal, abscess, fistula-in-ano, rectovaginal-fistula, crohns, seton, 
 created: 2026-11-13
 updated: 2026-11-13
 sources: []
+raw: "GI Guidelines/Other/ASCRS 2022 Management of Anorectal Abscess Fistula-in-Ano and Rectovaginal Fistula (Gaertner).pdf"
 ---
 
 ## Bibliographic Info

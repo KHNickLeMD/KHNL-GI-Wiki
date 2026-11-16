@@ -3,9 +3,10 @@ title: "Endoscopic Management of GI Perforation"
 category: general-procedure
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
-updated: 2026-11-15
+updated: 2026-11-16
 sources: [aga-2021-gi-perforations-endoscopic-management, asge-2026-ercp-adverse-events, stapfer-2000-duodenal-perforation-ercp]
 quality_reviewed: 2026-11-15
+verified: 2026-11-16
 ---
 
 *What to do at the moment an endoscopist makes a hole — prevention, recognition, and closure, organ by organ. Single home for the size-keyed closure rule.*
@@ -44,7 +45,7 @@ flowchart TD
     C -- "No" --> D["Determine cause and morphology of the defect"]
     D -- "Tools and expertise available" --> E(["Endoscopic closure by organ and defect size (BPA 8-14)"])
     D -- "Not available" --> T(["Manage at an experienced high-volume center"])
-    E --> F(["Urgent surgical consultation in every perforation,<br/>even after technically successful closure (BPA 5)"])
+    E --> F(["Urgent surgical consultation highly considered in every perforation,<br/>even after technically successful closure (BPA 5)"])
     class A start
     class B,C,D test
     class E,F act
@@ -74,7 +75,7 @@ flowchart TD
 |---|---|---|---|
 | **Esophagus** (BPA 8) | Through-the-scope clips (TTSC) or over-the-scope clips (OTSC) | Endoscopic suturing | Fully covered self-expanding metal stent (SEMS) **only when primary closure is not possible**; endoscopic vacuum therapy for large or persistent defects and fistulas |
 | **Stomach** (BPA 9) | TTSC or OTSC — TTSC optimal **<1 cm**, OTSC preferable **1–3 cm** | Endoscopic suturing, **or** TTSC + endoloop (body text: **>3 cm**) | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
-| **Duodenum** (BPA 10, 11) | TTSC, OTSC, band ligation or endoloop — clips close **88%–100%** of defects **<13 mm** | Suturing devices; **type 1 tear >3 cm → urgent surgical consultation** while feasibility of closure is assessed | Fully covered SEMS into the bile duct across the ampulla for **type 2**; enteral SEMS is the last endoscopic resort |
+| **Duodenum** (BPA 10, 11) — AGA gives no 2 cm cut-off here | **Small defects:** TTSC, OTSC, band ligation or endoloop — clips close **88%–100%** of defects **<13 mm** | **Large defects:** suturing devices; **type 1 tear >3 cm → urgent surgical consultation** while feasibility of closure is assessed | Fully covered SEMS into the bile duct across the ampulla for **type 2**; enteral SEMS is the last endoscopic resort |
 | **Colon** (BPA 13, 14) | TTSC or OTSC — **only if the bowel preparation is good and the patient is stable** | Suturing (needs an upper endoscope — not colonoscope-compatible) | **Right colon and cecum: TTSC only** |
 
 AGA 2021 gives no defect-size bands for the colon beyond BPA 13 and 14.
@@ -124,7 +125,7 @@ Know them before the case, so the consent conversation and team preparation happ
 - **Non-iatrogenic causes:** caustic ingestion, sharp penetrating foreign bodies (e.g. fishbone), Boerhaave syndrome. **Iatrogenic:** dilation, EMR, ESD.
 - **Risk factors in [[eosinophilic-esophagitis|eosinophilic esophagitis]]:** **history of food impaction** (odds ratio [OR] 14.9, 95% confidence interval [CI] 1.7–129.2) and **a focal stricture** (OR 4.6, 95% CI 1.1–19.7); most perforations in this group are **non-iatrogenic**.
 - **Primary closure is the goal** — a fully covered SEMS only diverts flow and lets the defect heal by secondary intention, a longer and more drawn-out course. **OTSC** clinical success **85.3% (399/468)**; failure driven by **defects >2 cm** and **closure attempted >72 hours** after perforation.
-- **POEM.** Small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. Rare large flap injuries with devitalized edges → TTSC, suturing, fibrin glue injection and/or stenting; emergency esophagectomy has been reported for severe perforation. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis. **Stenting after POEM is discouraged** — erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction. *Tunnel technique and orientation: [[poem]] — AGA 2021 preferred posterior (more mucosal injuries with anterior in 3 of 4 randomized controlled trials), but the newer AGA 2024 update finds the two equivalent and governs.*
+- **POEM.** Small intraprocedural mucosal-flap perforations are common and usually inconsequential → TTSC. Rare large flap injuries with devitalized edges → TTSC, suturing, fibrin glue injection and/or stenting; emergency esophagectomy has been reported for severe perforation. The dangerous complication is **delayed barrier failure** → leak, mediastinitis, peritonitis. **Stenting after POEM is discouraged** — erosion through the myotomy, high migration rate, inadequate seal at the patulous post-POEM esophagogastric junction. *Tunnel technique and orientation: [[poem]].*
 - **Esophagectomy leaks** (within days of operation): attempt primary closure with TTSC, OTSC or endosuturing, **plus** a fully covered stent. **Esophageal fistula:** clips or endosuturing alone are usually ineffective → fully covered stent with a snug fit.
 
 ## Stomach
@@ -174,7 +175,7 @@ Know them before the case, so the consent conversation and team preparation happ
 
 ### Type 1 — Lateral Duodenal Wall Tear
 
-- Most often on scope advancement, where the shaft presses on the duodenal wall or a periampullary diverticulum, or on forceful retraction during difficult stone extraction. Often **>3 cm**.
+- Most often on scope advancement, where the shaft presses on the duodenal wall or a periampullary diverticulum, or on forceful retraction during difficult stone extraction.
 - **Presentation:** sudden bleeding, lumen deflation, difficulty maintaining insufflation.
 - **Usually requires surgery** unless early endoscopic closure succeeds; **>3 cm → urgent surgical consultation** while feasibility is assessed (BPA 10). Where closure succeeds, **>90%** recover without surgery.
 - Enteral SEMS is the last resort — ⚠ **covered duodenal stents were not available in the US** as of 2021; fully covered through-the-scope esophageal stents have been used, sutured proximally.
@@ -219,7 +220,7 @@ Know them before the case, so the consent conversation and team preparation happ
 ## Aftercare and Documentation
 
 - **All upper GI perforations** (BPA 6) — consider admission for observation, plus **IV fluids**, **nothing by mouth**, **broad-spectrum antibiotics** (Gram-negative and anaerobic coverage), **nasogastric tube** (with some exceptions), and **surgical consultation**.
-- **Before clear liquids**, consider a **water-soluble upper GI series** to confirm there is no continuing leak at the perforation site (BPA 7).
+- **Before clear liquids** (upper GI perforations), consider a **water-soluble upper GI series** to confirm there is no continuing leak at the perforation site (BPA 7).
 - **Documentation (BPA 16)** — **accurate documentation**, **prompt discussion with the patient and family**, and **swift reporting to the institution's quality officer (or equivalent) and risk management team** (in major adverse events).
 
 ---

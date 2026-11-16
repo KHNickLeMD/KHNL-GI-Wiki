@@ -5,6 +5,7 @@ tags: [peg, gastrostomy, enteral-nutrition, antithrombotics, endoscopy, guidelin
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2025 Gastrostomy Feeding Tubes.pdf"
 ---
 
 # ASGE Guideline: Gastrostomy Feeding Tubes (2025)

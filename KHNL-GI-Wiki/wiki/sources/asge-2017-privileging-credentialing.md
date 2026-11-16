@@ -5,6 +5,7 @@ tags: [credentialing, privileging, proctoring, competency, training, case-volume
 created: 2026-11-06
 updated: 2026-11-06
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2017 Privileging, Credentialing, and Proctoring (Faulx).pdf"
 ---
 
 ## Bibliographic Info

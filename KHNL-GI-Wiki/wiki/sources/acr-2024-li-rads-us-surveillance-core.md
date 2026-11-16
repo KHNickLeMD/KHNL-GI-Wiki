@@ -5,6 +5,7 @@ tags: [li-rads, hcc, surveillance, ultrasound, visualization-score, afp, cirrhos
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Guidelines/Other/ACR LI-RADS US Surveillance v2024 Core.pdf"
 ---
 
 ## Bibliographic Info

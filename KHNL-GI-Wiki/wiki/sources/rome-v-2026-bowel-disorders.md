@@ -5,6 +5,7 @@ tags: [rome-v, dgbi, ibs, chronic-constipation, functional-diarrhea, bloating, o
 created: 2026-11-05
 updated: 2026-11-05
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Bowel Disorders (Corsetti).pdf"
 ---
 
 ## Bibliographic Info

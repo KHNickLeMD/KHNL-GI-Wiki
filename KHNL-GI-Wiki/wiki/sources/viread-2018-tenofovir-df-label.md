@@ -5,6 +5,7 @@ tags: [tenofovir, tdf, hepatitis-b, nucleotide-analog, antiviral, dosing, renal-
 created: 2026-10-24
 updated: 2026-10-24
 sources: []
+raw: "Drug Labels/Viread Tenofovir Disoproxil Fumarate Label.pdf"
 ---
 
 ## Bibliographic Info

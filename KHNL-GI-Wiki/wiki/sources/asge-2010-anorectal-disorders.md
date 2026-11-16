@@ -5,6 +5,7 @@ tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, radiation-proct
 created: 2026-06-22
 updated: 2026-10-13
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Anorectal Disorders.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [esophageal, hrm, manometry, reflux-testing, ambulatory-monitoring, flip, 
 created: 2026-05-19
 updated: 2026-09-30
 sources: []
+raw: "GI Guidelines/ACG/ACG 2020 Clinical Use of Esophageal Physiologic Testing.pdf"
 ---
 
 ## Contents

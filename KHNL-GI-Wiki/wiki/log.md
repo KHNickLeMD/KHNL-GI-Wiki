@@ -257,6 +257,53 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - **Open for Nick:** `asge-2023-post-ercp-pancreatitis` is listed in `ercp-quality-indicators` frontmatter and `## Sources` but no claim on the page traces to it; left in place rather than dropping a source unilaterally.
 
 **Cards:** `variceal-obliteration` notes testing the post-RTO 33% / 60% / 10% rates need re-anchoring from `{at:physiological-effects}` to `{at:complications}` on the next card pass.
+## [2026-11-16] update | Source-fidelity fix — reviewer accuracy measured, verified ingest, independent check
+
+**Why:** 109 of 127 reviewed pages had carried source-fidelity errors, nothing had measured the reviewer, and nothing stopped new errors at ingest (`.claude/CRITICAL-source-fidelity.md`).
+
+**Reviewer accuracy (12 random pages with `quality_reviewed:`, each re-checked blind against its raw PDFs by a fresh agent):**
+- 852 claims checked; **25 leftover errors on 11 of 12 pages** (about 2 per page, 2.9 per 100 claims). **3 pages still had a management-changing error** (`albumin`, `botulinum-toxin`, `cholangioscopy`).
+- 18 were missed by the review; **7 were introduced by the review itself** (all minor: `albumin` ×2, `botulinum-toxin`, `meckels-diverticulum`, `nitazoxanide`, `tacrolimus` ×2).
+- Calibration: 3 known-false claims were planted in a scratch copy of each page; the blind check caught **36 of 36**. Of its 27 non-planted findings, 25 were confirmed against the PDF (one was a legitimate cross-page pointer, one was caused by a planted edit).
+- Conclusion: the review is not enough by itself; a second, independent check is. Adopted below.
+
+**Pages corrected from the audit (each confirmed against the PDF text; all 12 now `verified: 2026-11-16`):**
+- `albumin` — no bilirubin treatment cut-off in SBP (AASLD 2021 gives albumin to all; >4 vs >5 mg/dL only mark who benefits most); paracentesis ≤5 L triggers split by source (AGA 2025 vs ACG 2026); AGA 2024 BPA 10 "can be considered" restored; HRS-AKI maintenance dose now shows AASLD 2021 40–50 g/day beside AASLD 2024 Guidance Statement 24 20–40 g/day.
+- `botulinum-toxin` — AGA 2025 makes **no recommendation** on surgical pyloromyotomy/pyloroplasty; "firmest grading" claim removed; reflux dropped from the ASGE serious-event list.
+- `cholangioscopy` — ASGE 2019 Rec 4 offers intraductal therapy **or** conventional therapy with papillary dilation (no fixed ladder); 60–75% sensitivity is in patients with negative prior sampling; BSG 3.6%–6.8% complications are percutaneous extraction only.
+- `endoscopic-management-of-perforation` — BPA 5 "highly considered"; duodenum has no 2 cm cut-off; "often >3 cm" removed; BPA 7 scoped to upper GI; POEM orientation reduced to a pointer.
+- `anorectal-abscess` (4), `tacrolimus` (3), `hereditary-mixed-polyposis-syndrome`, `loperamide`, `meckels-diverticulum`, `nitazoxanide`, `resmetirom` (also `sources/aasld-2024-resmetirom` and two `index.md` rows: "first FDA-approved" is in no ingested source). `fammm-syndrome` had no error.
+
+**Known-bad source pages rebuilt from their PDFs, then independently checked (all five `verified: 2026-11-16`):**
+- `acg-2020-achalasia` — 14 rows → all 21 numbered recommendations with Table 2 grades, key concepts, Figure 8; meta-analysis numbers re-attributed (93.5% vs 91.0% belongs to the 1,958 vs 5,834 analysis); Rec 18 covers retreatment after POEM too. Check: 166/168, two minor fixed.
+- `asge-2020-achalasia` — 4 ungraded bullets → all 8 recommendations with quality; **invented "surgical risk" criterion and mandated surveillance removed**. Check: 96/96.
+- `sages-2024-poem` — types I/II only: POEM with appropriate PPI use or Heller with fundoplication (Conditional, Low); **type III is expert opinion**; dropped endoscopy statement restored. Check: 71/72 (citation not printed in the file).
+- `acg-2024-focal-liver-lesions` — only 4 of 18 rows had been real recommendations; now all 18 recommendations and 51 key concepts. **Removed an invented cirrhosis ultrasound ± AFP row and LI-RADS criteria**; Recs 12/13 are Strong/Low; high-risk cyst → CT or MRI; no surgery for hemangioma discomfort. Check: 262/262.
+- `acg-2024-hp-treatment` — **invented salvage table replaced** with Table 6 / Figures 3–4; test-and-treat age **<60** (45–50 if high gastric-cancer risk), not <55; rifabutin triple is a first-line option; susceptibility-testing claim corrected to Key Concept 6; authors corrected. Check: 259/262 — one management-level slip from the rebuild (levofloxacin after bismuth quadruple **or** rifabutin, not both) caught and fixed.
+- Copies fixed on `achalasia`, `heller-myotomy`, `pneumatic-dilation`, `poem`, `hepatocellular-adenoma`, `hepatic-hemangioma`, `hepatic-cysts`, `focal-liver-lesions`, `li-rads`, `helicobacter-pylori-infection`, `index.md`.
+- `acg-2017-hp-guidelines` has no file in `raw/`: banner replaced by one reader line, clinical claims removed, and the claims resting on it taken off `helicobacter-pylori-infection`, `test-and-treat` and `bismuth-quadruple-therapy` (metronidazole-resistance point re-sourced to ACG 2024).
+
+**Owed fixes from this log since 2026-11-10 (36 items checked against the PDFs: 30 fixed, 5 already correct, 1 not checked):**
+- Fixed, among others: `aga-2025-cade-colonoscopy` (sessile serrated lesion detection RR 1.21, not "no increase"); `acg-2020-chronic-pancreatitis` and `chronic-pancreatitis` (PRSS1 labelling per Tables 5 and 7; invented surveillance contradiction removed); `opioid-induced-constipation` (dose frequencies Rome V does not give); `acute-diarrhea` (unsourced "most common" claims, giardiasis approval note); `acg-2022-barretts`; `aasld-2025-semaglutide-mash`; `biofeedback-therapy`; `pancreatic-cancer-screening`; `extraesophageal-reflux`; `polypectomy`; `functional-dyspepsia`; `hiv-aids-related-diarrhea` (Cryptosporidium line re-sourced to IDSA 2017); contradictions added to six source pages.
+- Not checked: the `givlaari-2025-givosiran-label` renal/hepatic wording (file only in the server's `raw/`); it is in the source verification queue.
+
+**System changes (CLAUDE.md, scripts):**
+- **`raw:` frontmatter on 456 of 457 source pages** — the file each page was built from (supplements included). Lookup had been fuzzy filename matching.
+- **`website_files/scripts/fidelity-check.py`** — finds numbers and grades that are not in the cited file, or are in a different source than the one cited; prints the PDF page for every line with a comparison sign. Catches about a third of planted errors; cannot judge meaning. `--rank` / `--sources` list pages by flag count.
+- **Verified ingest** (INGEST): extract with a fresh subagent → gate → independent check → propagate only from the verified source page → gate and check the topic-page edits → cards.
+- **Verification** (LINT): the blind-check brief used in this audit; the only thing that sets the new `verified:` line. The Quality review now ends with it, and verifies a page's source pages first.
+- **Source fidelity** rules added: no file, no claim; write with the passage in view; read signs and table cells off the rendered page (the text layer prints `>` as `.`, `≥` as `$`, `<` as `,`).
+- **`review-queue.py`**: `--pages` puts reviewed-but-unverified pages after never-reviewed ones; new `--sources` queue (unverified source pages, most-cited first); `--cards` puts card files first when their page has been verified since the cards were last reviewed; `--status` reports verified counts.
+- **Cards:** new cards only from pages with `verified:`.
+
+**Cards fixed on the server (notes edited in place, ids kept, `page_updated:` unbumped; 24 edited, 3 retired, 19 card files):**
+- `loperamide` 1c4024 and `fecal-incontinence` Rec 1 note (unsourced off-label wording); `anorectal-abscess` aa1004 (recut to what ASCRS says).
+- `helicobacter-pylori-infection` b92002 (2017 age cut-off line dropped), b92008 (levofloxacin triple conditions); `achalasia` d5a008 (SAGES types I/II wording; type III is expert opinion); `focal-liver-lesions` b6f009 (cirrhosis → AASLD guidance, no LI-RADS from ACG 2024); `hepatic-cysts` e4c01d (percutaneous transhepatic cholangiography, not EUS); `spontaneous-bacterial-peritonitis` a50005 (no bilirubin treatment cut-off); `biofeedback-therapy` 91da6e (slow transit up to two-thirds); `giardiasis` 91a001; `resmetirom` Back Extra ("first FDA-approved" removed); `hereditary-pancreatitis` 6e1003 (PRSS1 dual labelling).
+- Card items owed in this log: `linaclotide` 1a2001 (145 µg recommended, 72 µg an option), 1a2003 (contraindication wording, source slug); `noninvasive-liver-disease-assessment` c7f103 (AUROC 0.725), 2e70d5 (anchor), f61c08 (source slug); `hepatic-venous-pressure-gradient` c10007 (presinusoidal only), c10008 (MASH is an open question), c10016 (normal 1–5 mm Hg); `juvenile-polyposis-syndrome` 9b1008 and `narcotic-bowel-syndrome` b5c001, b5c004 (source slugs).
+- Retired: `giardiasis` 91a004 (fact no longer on the page); `linaclotide` 1a2002 (its only source is the FDA label — guideline-sourced cards only); `gastroparesis` 9a0018 (tested a no-recommendation commentary as advice).
+- No deck copies were found for the other facts corrected above; the card re-check queue covers each page as it is verified.
+
+**Progress:** topic pages 128/370 quality-reviewed, 12/370 verified; source pages 5/457 verified.
 
 ---
 

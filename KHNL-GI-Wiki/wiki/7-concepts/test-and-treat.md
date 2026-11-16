@@ -3,8 +3,8 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-11-11
-sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia, acg-2024-hp-treatment]
+updated: 2026-11-16
+sources: [acg-cag-2017-dyspepsia, acg-2024-hp-treatment]
 quality_reviewed: 2026-11-11
 ---
 
@@ -36,7 +36,7 @@ A management strategy for **uninvestigated [[dyspepsia]]**: test non-invasively 
 - **High gastric-cancer-risk groups** named by ACG 2024 (Table 4): certain non-White racial/ethnic groups, immigrants from high-incidence regions/countries, a first-degree relative with gastric cancer, hereditary cancer syndromes carrying increased gastric cancer risk. Screening of those groups: [[gastric-cancer-screening]].
 - **Fails any criterion → endoscopy instead.** For dyspepsia with alarm features, or risk factors for [[peptic-ulcer-disease|peptic ulcer]] (aspirin or nonsteroidal anti-inflammatory drug [NSAID] use) or gastric cancer (family history, immigration from a high-incidence region), ACG 2024 notes that "most, but not all, guidelines recommend prompt endoscopy."
 - **Scope at a lower age** with childhood spent in a high-risk gastric cancer region (South East Asia, some South American countries) or a family history of upper GI malignancy; in borderline cases sex may be weighed — age-adjusted upper GI cancer risk is about **twice as high in men** ([[acg-cag-2017-dyspepsia|ACG / Canadian Association of Gastroenterology (CAG) 2017]]). A minority over 60 may still be treated empirically where upper GI cancer risk is judged low. Alarm-feature operating characteristics and the full red-flag list: [[dyspepsia]].
-- **Age cut-off history:** [[acg-2017-hp-guidelines|ACG 2017]] used **<55 y**; both [[acg-cag-2017-dyspepsia|ACG/CAG 2017]] and ACG 2024 use **<60 y**.
+- **Age cut-off:** both [[acg-cag-2017-dyspepsia|ACG/CAG 2017]] and ACG 2024 use **<60 y**.
 
 > [!pitfall] The two ACG guidelines disagree on alarm features
 > [[acg-cag-2017-dyspepsia]] Statement 2 (*Conditional recommendation, moderate quality evidence*) says **not** to scope patients under 60 to investigate alarm features — individually they perform poorly and absolute upper GI cancer risk stays **<1%** even when one is present. ACG 2024 instead makes "without alarm features" a precondition of test-and-treat. **ACG 2024 governs** (newer, same tier).
@@ -87,6 +87,5 @@ A management strategy for **uninvestigated [[dyspepsia]]**: test non-invasively 
 
 ## Sources
 
-1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
-2. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
-3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+1. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
+2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

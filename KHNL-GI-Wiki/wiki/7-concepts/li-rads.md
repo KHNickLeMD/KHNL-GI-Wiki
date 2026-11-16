@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-11-12
+updated: 2026-11-16
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core, acr-li-rads-lexicon]
 ---
 
@@ -177,7 +177,7 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 
 ## Pitfalls
 
-- LI-RADS **does not apply to a non-cirrhotic, non-HBV liver** — an incidental lesion there is worked up as a [[focal-liver-lesions|focal liver lesion]], not categorized LR-x ([[acg-2024-focal-liver-lesions]]).
+- An incidental lesion in a patient **without known liver disease** is worked up as a [[focal-liver-lesions|focal liver lesion]]; a lesion in a cirrhotic liver is referred to AASLD HCC guidance ([[acg-2024-focal-liver-lesions]]).
 - **LR-M ≠ benign** — it means "malignant but not HCC-specific," and it mandates biopsy.
 - **Dysplastic nodules** typically land at LR-3/LR-4 — the indeterminate zone is where most diagnostic error lives.
 - [[hepatic-hemangioma|Hemangioma]], [[focal-nodular-hyperplasia|focal nodular hyperplasia (FNH)]], [[hepatocellular-adenoma|hepatocellular adenoma]], and metastases are characterized **outside** LI-RADS.

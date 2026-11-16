@@ -5,6 +5,7 @@ tags: [ald, alcoholic-hepatitis, alcohol-associated-hepatitis, corticosteroids, 
 created: 2026-09-12
 updated: 2026-09-12
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 CPU Severe Acute Alcoholic Hepatitis.pdf"
 ---
 
 ## Bibliographic Info

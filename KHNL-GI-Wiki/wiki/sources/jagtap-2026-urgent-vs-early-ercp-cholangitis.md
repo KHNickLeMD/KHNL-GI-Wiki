@@ -5,6 +5,7 @@ tags: [cholangitis, ercp, biliary-drainage, timing, rct, post-ercp-bleeding, cho
 created: 2026-08-10
 updated: 2026-08-10
 sources: []
+raw: "GI RCTs/Urgent versus early ERCP in mild-to-moderate acute cholangitis.pdf"
 ---
 
 # Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)

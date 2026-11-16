@@ -5,6 +5,7 @@ tags: [cirrhosis, coagulopathy, hemostasis, vte-prophylaxis, periprocedural, ffp
 created: 2026-06-04
 updated: 2026-11-17
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 Coagulation Disorders in Cirrhosis.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)

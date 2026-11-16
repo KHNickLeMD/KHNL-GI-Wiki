@@ -5,6 +5,7 @@ tags: [malignant-polyp, submucosal-invasion, colorectal-cancer, polypectomy, emr
 created: 2026-05-19
 updated: 2026-10-04
 sources: []
+raw: "GI Guidelines/ACG/USMSTF 2020 Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps.pdf"
 ---
 
 ## Bibliographic Info

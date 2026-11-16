@@ -3,8 +3,9 @@ title: "IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management 
 category: source
 tags: [diarrhea, infectious-diarrhea, gastroenteritis, dysentery, stec, hus, enteric-fever, typhoid, salmonella, shigella, campylobacter, cryptosporidium, giardia, travelers-diarrhea, ors, loperamide, probiotics, zinc, vaccine, public-health, idsa]
 created: 2026-06-11
-updated: 2026-10-10
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/IDSA 2017 Infectious Diarrhea.pdf"
 ---
 
 ## Contents
@@ -390,6 +391,7 @@ The guideline adds management points absent from the ACG acute-diarrhea guidelin
 - This is a 2017 guideline; multiplex GI polymerase chain reaction (PCR) panels (eg, BioFire FilmArray, 22 targets) have since become widespread and largely standard, amplifying Recommendation 14's caveat about interpreting positive nucleic-acid results (colonization vs infection, multiple detections).
 - **CDI therapy in Table 6 is superseded.** IDSA 2017 lists oral vancomycin first-line with fidaxomicin as the alternative, and calls metronidazole acceptable for nonsevere CDI in children and second-line in adults. Newer guidelines win: [[acg-2021-cdiff|ACG 2021]] and, more recently, [[aga-2026-cdiff-adults|AGA 2026]]. Use those for CDI management; IDSA 2017 itself defers to the separate IDSA/SHEA *C. difficile* document, which was "in development" at publication.
 - **Fidaxomicin age limit:** IDSA 2017 states fidaxomicin is "not currently recommended" for people <18 years — a 2017 labeling position, not a durable safety claim; check the newer CDI guidelines before applying it.
+- **Loperamide in traveler's diarrhea:** Rec 47 avoids antimotility drugs under 18 years and at any age in inflammatory diarrhea, diarrhea with fever, or where toxic megacolon may result, whereas [[acg-2016-acute-diarrhea|ACG 2016]] Recommendation 8 (strong, moderate) gives adjunctive loperamide to patients receiving antibiotics for traveler's diarrhea without that carve-out. Surfaced on [[enterotoxigenic-e-coli]].
 - Probiotic guidance (Rec 49, weak) predates later, more cautious analyses (eg, [[aga-2020-probiotics|American Gastroenterological Association (AGA) 2020 probiotics guidance]] generally recommends against routine probiotics for most GI indications) — note the divergence.
 
 ---

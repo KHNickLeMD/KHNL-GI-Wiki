@@ -5,6 +5,7 @@ tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, 
 created: 2026-06-27
 updated: 2026-10-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Sclerosing Mesenteritis.pdf"
 ---
 
 ## Bibliographic Info

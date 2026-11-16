@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, endoscopy, colonoscopy, ileoscopy, capsu
 created: 2026-06-23
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Endoscopy in IBD.pdf"
 ---
 
 ## Bibliographic Info

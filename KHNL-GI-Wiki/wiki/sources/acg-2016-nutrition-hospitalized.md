@@ -5,6 +5,7 @@ tags: [nutrition, enteral-nutrition, parenteral-nutrition, icu, hospitalized-pat
 created: 2026-05-21
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2016 Nutrition Therapy in the Adult Hospitalized Patient.pdf"
 ---
 
 ## Bibliographic Info

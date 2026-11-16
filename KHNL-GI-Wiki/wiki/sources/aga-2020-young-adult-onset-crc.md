@@ -5,6 +5,7 @@ tags: [colorectal-cancer, young-onset-crc, early-onset-crc, lynch-syndrome, fap,
 created: 2026-09-07
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/AGA/AGA 2020 CPU Young Adult-Onset CRC.pdf"
 ---
 
 ## Bibliographic Info

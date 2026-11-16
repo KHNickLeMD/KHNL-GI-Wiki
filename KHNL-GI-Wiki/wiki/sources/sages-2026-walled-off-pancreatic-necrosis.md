@@ -5,6 +5,7 @@ tags: [walled-off-necrosis, pancreatic-necrosis, necrosectomy, step-up, pancreat
 created: 2026-11-12
 updated: 2026-11-12
 sources: []
+raw: "GI Guidelines/SAGES/SAGES 2026 Walled-Off Pancreatic Necrosis (Calabrese).pdf"
 ---
 
 ## Bibliographic Info

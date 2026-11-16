@@ -5,6 +5,7 @@ tags: [esd, surveillance, barretts, esophageal-cancer, gastric-cancer, colorecta
 created: 2026-09-22
 updated: 2026-09-22
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Post-ESD Surveillance for Early GI Neoplasia.pdf"
 ---
 
 ## Bibliographic Info

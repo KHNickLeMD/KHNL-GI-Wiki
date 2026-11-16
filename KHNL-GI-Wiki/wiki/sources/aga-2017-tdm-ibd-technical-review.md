@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, anti-tnf, infliximab, adalimumab, certol
 created: 2026-11-07
 updated: 2026-11-07
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 Technical Review Therapeutic Drug Monitoring IBD (Vande Casteele).pdf"
 ---
 
 ## Bibliographic Info

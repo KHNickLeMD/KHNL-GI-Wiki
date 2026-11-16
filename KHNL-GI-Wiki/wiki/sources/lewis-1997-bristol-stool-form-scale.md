@@ -5,6 +5,7 @@ tags: [bristol-stool-form-scale, stool-form, intestinal-transit, constipation, d
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "GI Other Studies/Lewis 1997 Bristol Stool Form Scale.pdf"
 ---
 
 ## Bibliographic Info

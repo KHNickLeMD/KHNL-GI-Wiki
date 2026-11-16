@@ -5,6 +5,7 @@ tags: [endoscope-reprocessing, duodenoscope, infection-control, high-level-disin
 created: 2026-10-01
 updated: 2026-10-01
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 CPU 2016 MSTF Endoscope Reprocessing Commentary.pdf"
 ---
 
 ## Bibliographic Info

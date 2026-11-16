@@ -5,6 +5,7 @@ tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, vedolizumab, infliximab, u
 created: 2026-05-07
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/ACG/ACG 2025 Ulcerative Colitis update.pdf"
 ---
 
 ## Bibliographic Info

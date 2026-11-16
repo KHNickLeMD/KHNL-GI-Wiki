@@ -5,6 +5,7 @@ tags: [peutz-jeghers, juvenile-polyposis, pten-cowden, hamartomatous-polyposis, 
 created: 2026-06-04
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 GI Hamartomatous Polyposis Syndromes (MSTF).pdf"
 ---
 
 # US Multi-Society Task Force: GI Hamartomatous Polyposis Syndromes (2022)

@@ -5,6 +5,7 @@ tags: [gerd, extraesophageal-reflux, lpr, chronic-cough, asthma, laryngitis, den
 created: 2026-09-10
 updated: 2026-09-10
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Extraesophageal Symptoms Attributed to GERD.pdf"
 ---
 
 ## Bibliographic Info

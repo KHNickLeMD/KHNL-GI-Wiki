@@ -5,6 +5,7 @@ tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papille
 created: 2026-06-27
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Endoscopy in Ampullary and Duodenal Adenomas.pdf"
 ---
 
 # ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas

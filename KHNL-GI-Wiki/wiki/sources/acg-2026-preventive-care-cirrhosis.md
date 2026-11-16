@@ -5,6 +5,7 @@ tags: [cirrhosis, preventive-care, vaccination, hepatic-encephalopathy, varices,
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/ACG/ACG 2026 Preventive Care for Patients With Cirrhosis (Tapper).pdf"
 ---
 
 ## Bibliographic Info

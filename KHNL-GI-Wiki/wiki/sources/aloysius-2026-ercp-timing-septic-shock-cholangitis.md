@@ -5,6 +5,9 @@ tags: [cholangitis, ercp, biliary-drainage, timing, septic-shock, tokyo-guidelin
 created: 2026-08-11
 updated: 2026-08-11
 sources: []
+raw:
+  - "GI Other Studies/Aloysius 2026 DDW - Vasopressor-indexed timing of ERCP in TG III cholangitis (abstract).png"
+  - "GI Other Studies/Aloysius 2026 DDW - Vasopressor-indexed timing of ERCP in TG III cholangitis (baseline table).png"
 ---
 
 # Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)

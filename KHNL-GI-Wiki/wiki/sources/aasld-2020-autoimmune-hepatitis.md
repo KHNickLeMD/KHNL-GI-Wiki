@@ -5,6 +5,7 @@ tags: [aih, autoimmune-hepatitis, immunosuppression, azathioprine, budesonide, m
 created: 2026-05-25
 updated: 2026-09-14
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2020 Autoimmune Hepatitis Dx Management.pdf"
 ---
 
 ## Bibliographic Info

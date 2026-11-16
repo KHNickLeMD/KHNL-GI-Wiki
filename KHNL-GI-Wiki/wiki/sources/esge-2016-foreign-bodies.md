@@ -5,6 +5,7 @@ tags: [foreign-body, food-bolus-impaction, button-battery, magnets, sharp-pointe
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/Other/ESGE 2016 Removal of Foreign Bodies in the Upper GI Tract (Birk).pdf"
 ---
 
 ## Bibliographic Info

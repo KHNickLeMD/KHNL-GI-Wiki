@@ -5,6 +5,7 @@ tags: [enteral-nutrition, peg, pegj, dpej, nasoenteric, gastrostomy, feeding-tub
 created: 2026-07-01
 updated: 2026-10-22
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2011 Endoscopy in Enteral Feeding.pdf"
 ---
 
 ## Bibliographic Info

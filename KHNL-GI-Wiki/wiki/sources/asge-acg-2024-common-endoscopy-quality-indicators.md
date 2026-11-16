@@ -5,6 +5,7 @@ tags: [quality, quality-indicators, endoscopy, sedation, antithrombotics, inform
 created: 2026-10-25
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ASGE/ASGE-ACG 2024 Quality Indicators Common to All GI Endoscopic Procedures (Elmunzer).pdf"
 ---
 
 ## Bibliographic Info

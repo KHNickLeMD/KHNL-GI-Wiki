@@ -5,6 +5,7 @@ tags: [pbc, aih, variant-syndrome, overlap, cholestatic, liver-biopsy, interface
 created: 2026-11-12
 updated: 2026-11-12
 sources: []
+raw: "GI Guidelines/Other/Intl Delphi 2026 PBC-AIH Variant (Gerussi).pdf"
 ---
 
 ## Bibliographic Info

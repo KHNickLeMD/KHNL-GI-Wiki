@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-11-04
+updated: 2026-11-16
 sources: [aga-2023-extraesophageal-gerd, aga-2018-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -129,6 +129,7 @@ The GERD guidelines use the **Los Angeles grade A–D mucosal-break criteria** w
 
 - **Acid suppression** — PPI (single dose → twice daily) is the mainstay when GERD is documented or typical symptoms coexist; do not equate PPI response with a GERD diagnosis (BPA 5).
 - **Alternatives to acid suppression** (BPA 9): lifestyle modification, alginate-containing antacids, external upper-esophageal-sphincter compression device, cognitive-behavioral therapy, and neuromodulators (esp. for cough via vagal hypersensitivity).
+- **[[baclofen|Baclofen]]** — not routinely recommended as primary or adjunctive therapy for EER symptoms because of its side-effect profile ([[aga-2023-extraesophageal-gerd]], narrative).
 - **Anti-reflux surgery** (BPA 10): only with **clear, objectively-defined GERD** and shared decision-making; a **lack of PPI response predicts lack of surgical response** and must factor into the decision. See [[antireflux-surgery]].
 
 ---

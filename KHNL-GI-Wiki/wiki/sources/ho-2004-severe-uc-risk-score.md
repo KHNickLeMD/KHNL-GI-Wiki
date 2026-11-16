@@ -5,6 +5,7 @@ tags: [ulcerative-colitis, acute-severe-uc, score, colectomy, prognosis, IBD]
 created: 2026-10-28
 updated: 2026-10-28
 sources: []
+raw: "GI Other Studies/Ho 2004 Severe Ulcerative Colitis Risk Score (Ho Index).pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin
 created: 2026-05-19
 updated: 2026-09-30
 sources: []
+raw: "GI Guidelines/ACG/ACG 2017 Evaluation of Abnormal Liver Chemistries.pdf"
 ---
 
 ## Bibliographic Info

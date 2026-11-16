@@ -5,6 +5,7 @@ tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying]
 created: 2026-05-15
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2022 Gastroparesis.pdf"
 ---
 
 ## Bibliographic Info

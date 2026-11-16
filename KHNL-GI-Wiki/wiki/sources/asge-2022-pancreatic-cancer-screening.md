@@ -5,6 +5,7 @@ tags: [pancreatic-cancer, screening, genetics, brca, eus, mri, asge, guideline, 
 created: 2026-06-04
 updated: 2026-10-06
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2022 Pancreatic Cancer Screening (Genetic Risk).pdf"
 ---
 
 ## Bibliographic Info

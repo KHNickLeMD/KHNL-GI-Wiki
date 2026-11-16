@@ -5,6 +5,7 @@ tags: [colon-cancer, colorectal-cancer, adenocarcinoma, mmr, msi, ras, kras, nra
 created: 2026-06-18
 updated: 2026-10-21
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 Colon Cancer.pdf"
 ---
 
 ## Contents

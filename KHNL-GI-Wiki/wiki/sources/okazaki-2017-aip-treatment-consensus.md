@@ -5,6 +5,7 @@ tags: [autoimmune-pancreatitis, aip, igg4, corticosteroids, rituximab, immunomod
 created: 2026-10-27
 updated: 2026-11-02
 sources: []
+raw: "GI Guidelines/Other/Okazaki 2017 International Consensus Treatment Autoimmune Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info

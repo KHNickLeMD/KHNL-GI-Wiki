@@ -5,6 +5,7 @@ tags: [crohns-disease, biomarkers, fecal-calprotectin, crp, treat-to-target, ibd
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 Biomarkers in CD.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Biomarkers for Management of Crohn's Disease (2023)

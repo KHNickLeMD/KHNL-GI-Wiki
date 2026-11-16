@@ -5,6 +5,7 @@ tags: [constipation, colonoscopy, cecostomy, stricture-dilation, asge]
 created: 2026-06-22
 updated: 2026-10-13
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2014 Endoscopy in Constipation.pdf"
 ---
 
 ## Bibliographic Info

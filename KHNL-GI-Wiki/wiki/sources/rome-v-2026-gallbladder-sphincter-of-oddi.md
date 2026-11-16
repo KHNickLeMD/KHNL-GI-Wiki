@@ -3,8 +3,9 @@ title: "Rome V (2026): Gallbladder and Sphincter of Oddi Disorders"
 category: source
 tags: [rome-v, gallbladder, sphincter-of-oddi, biliary-pain, dgbd, sod, recurrent-acute-pancreatitis, ercp]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/Other/Rome V 2026 Gallbladder and Sphincter of Oddi Disorders (Elmunzer).pdf"
 ---
 
 ## Bibliographic Info
@@ -133,7 +134,7 @@ An episode qualifies as acute pancreatitis on **at least 2 of 3**: typical pain 
 - **Both historical gatekeeping tests are out of the criteria**: GBEF for DGBD, and SO manometry for both biliary and pancreatic SOD.
 - **SOD type III is gone**, and the type I/II split is deprecated — the phenotype that matters is **stenosis vs spasm**, not the subtype number.
 - Up to **40%** of patients have persistent or recurrent pain after cholecystectomy; SOD accounts for only **2%–31%** of post-cholecystectomy pain, while **gastric pathology is the most common etiology in the first 3 years** and bile duct stones the most common after 3 years.
-- Cholecystectomy for suspected DGBD rose from **43 to 89 per 1,000,000 population** in the US between 1991 and 2011 — far above international cohorts (typically <25 per 1,000,000) — against a true DGBD prevalence the Rome Global Epidemiology Study put at **<1%** overall. Biliary dyskinesia is the primary reason for cholecystectomy in up to ~**40% of adults and ~60% of children**.
+- Cholecystectomy for suspected DGBD rose from **43 to 89 per 1,000,000 population** in the US between 1991 and 2011 — far above international cohorts (typically <25 per 1,000,000) — against a prevalence of Rome IV-defined **functional biliary pain** of **<1%** overall in the Rome Global Epidemiology Study, with only a fraction of this representing DGBD (the prevalence of DGBD itself is unknown). Biliary dyskinesia is the primary reason for cholecystectomy in up to ~**40% of adults and ~60% of children**.
 - **Up to one-half of cholecystectomy candidates with low GBEF normalize their emptying on a second study.**
 - Among patients with idiopathic RAP, sphincter hypertension has been observed in **25%–75%** of referral-center case series.
 

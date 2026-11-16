@@ -5,6 +5,7 @@ tags: [pbc, primary-biliary-cholangitis, oca, obeticholic-acid, fibrates, aasld,
 created: 2026-05-28
 updated: 2026-09-08
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2021 Primary Biliary Cholangitis Update.pdf"
 ---
 
 ## Bibliographic Info

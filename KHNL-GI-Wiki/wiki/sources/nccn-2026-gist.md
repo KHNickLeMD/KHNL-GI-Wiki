@@ -5,6 +5,7 @@ tags: [gist, gastrointestinal-stromal-tumor, kit, pdgfra, cd117, dog1, sdh-defic
 created: 2026-06-18
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/NCCN/NCCN 2026 GIST.pdf"
 ---
 
 ## Contents

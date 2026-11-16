@@ -5,6 +5,7 @@ tags: [nafld, masld, nash, fibrosis, noninvasive-testing, fib-4, vcte, elastogra
 created: 2026-07-25
 updated: 2026-07-25
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Noninvasive Biomarkers in NAFLD.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, defecation-diso
 created: 2026-05-16
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Management of Benign Anorectal Disorders.pdf"
 ---
 
 ## Bibliographic Info

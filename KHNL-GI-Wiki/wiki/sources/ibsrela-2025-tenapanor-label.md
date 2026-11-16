@@ -5,6 +5,7 @@ tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, pediatric, dosing, drug-i
 created: 2026-10-27
 updated: 2026-10-27
 sources: []
+raw: "Drug Labels/Ibsrela Label.pdf"
 ---
 
 ## Bibliographic Info

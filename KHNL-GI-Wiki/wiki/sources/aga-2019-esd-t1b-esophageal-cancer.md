@@ -5,6 +5,7 @@ tags: [esophageal-cancer, esophageal-adenocarcinoma, squamous-cell-carcinoma, t1
 created: 2026-10-21
 updated: 2026-10-21
 sources: []
+raw: "GI Guidelines/AGA/AGA 2019 CPU ESD in T1b Esophageal Cancer.pdf"
 ---
 
 ## Bibliographic Info

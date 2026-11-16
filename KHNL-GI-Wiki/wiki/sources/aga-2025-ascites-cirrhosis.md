@@ -5,6 +5,7 @@ tags: [ascites, cirrhosis, hepatic-hydrothorax, hyponatremia, volume-overload, d
 created: 2026-06-27
 updated: 2026-10-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Ascites Volume Overload Hyponatremia in Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

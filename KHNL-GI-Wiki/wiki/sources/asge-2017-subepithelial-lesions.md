@@ -5,6 +5,7 @@ tags: [subepithelial-lesion, gist, leiomyoma, lipoma, net, carcinoid, granular-c
 created: 2026-06-27
 updated: 2026-10-20
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2017 Subepithelial Lesions of the GI Tract.pdf"
 ---
 
 ## Bibliographic Info

@@ -5,6 +5,7 @@ tags: [endoscopic-bariatric-therapy, ebmt, obesity, intragastric-balloon, endosc
 created: 2026-11-16
 updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ASGE/ASGE-ESGE 2024 Primary Endoscopic Bariatric and Metabolic Therapies (Jirapinyo).pdf"
 ---
 
 ## Bibliographic Info

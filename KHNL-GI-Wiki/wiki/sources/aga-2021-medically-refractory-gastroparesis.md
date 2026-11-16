@@ -5,6 +5,7 @@ tags: [gastroparesis, refractory-gastroparesis, gastric-emptying, prokinetics, a
 created: 2026-09-08
 updated: 2026-09-29
 sources: []
+raw: "GI Guidelines/AGA/AGA 2021 CPU Medically Refractory Gastroparesis.pdf"
 ---
 
 ## Bibliographic Info

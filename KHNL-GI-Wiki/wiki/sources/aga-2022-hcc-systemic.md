@@ -5,6 +5,7 @@ tags: [hepatocellular-carcinoma, systemic-therapy, atezolizumab, bevacizumab, im
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 Systemic Therapy for HCC.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022)

@@ -5,6 +5,7 @@ tags: [metald, masld, ald, sld, steatotic-liver-disease, alcohol, aud, fibrosis,
 created: 2026-11-08
 updated: 2026-11-08
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU MetALD Evaluation and Management (Arab).pdf"
 ---
 
 ## Bibliographic Info

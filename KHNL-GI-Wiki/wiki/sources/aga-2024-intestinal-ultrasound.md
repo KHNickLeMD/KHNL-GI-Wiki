@@ -5,6 +5,7 @@ tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat
 created: 2026-07-19
 updated: 2026-10-31
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Intestinal Ultrasound in IBD.pdf"
 ---
 
 ## Bibliographic Info

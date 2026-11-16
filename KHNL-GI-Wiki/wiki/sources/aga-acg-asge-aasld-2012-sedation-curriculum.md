@@ -5,6 +5,7 @@ tags: [sedation, anesthesia, propofol, midazolam, fentanyl, asa-classification, 
 created: 2026-10-08
 updated: 2026-10-08
 sources: []
+raw: "GI Guidelines/Other/AGA ACG ASGE AASLD 2012 Sedation for Endoscopy.pdf"
 ---
 
 ## Bibliographic Info

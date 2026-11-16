@@ -5,6 +5,7 @@ tags: [cirrhosis, portal-hypertension, anticoagulation, rivaroxaban, doac, decom
 created: 2026-09-17
 updated: 2026-09-17
 sources: []
+raw: "GI RCTs/CIRROXABAN study.pdf"
 ---
 
 ## Bibliographic Info

@@ -3,9 +3,10 @@ title: "Botulinum Toxin (GI Indications)"
 category: med
 tags: [botulinum-toxin, botox, achalasia, anal-fissure, gastroparesis, sphincter, injection, les, pylorus]
 created: 2026-10-19
-updated: 2026-11-14
+updated: 2026-11-16
 sources: [ascrs-2023-anal-fissures, acg-2020-achalasia, aga-2024-poem-advances, asge-2020-achalasia, acg-2021-anorectal-disorders, acg-2022-gastroparesis, aga-2025-gastroparesis, dallas-2025-flip-panometry, aga-2024-esophageal-immunity-infection, rome-v-2026-dgbi, rome-v-2026-gastroduodenal-disorders]
 quality_reviewed: 2026-11-14
+verified: 2026-11-16
 ---
 
 Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to relax it. One drug, one technique, and a **sharply different recommendation at every site** — strongly recommended against at the pylorus, reserved for the unfit at the lower esophageal sphincter (LES), a graded second-line option at the anal sphincter.
@@ -35,8 +36,8 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 | **Pylorus — [[gastroparesis\|gastroparesis]]** | **NOT recommended**, on the basis of randomized controlled trials (RCTs) | **Strong · Moderate** (Rec 19) | [[acg-2022-gastroparesis]] |
 | **Pylorus — medically refractory gastroparesis** | Suggests **against routine use** | Conditional · Very low (Rec 9) | [[aga-2025-gastroparesis]] |
 | **Internal anal sphincter — chronic [[anal-fissure\|anal fissure]]** | May be attempted **after topical calcium channel blocker (CCB) fails**, or as an alternative to CCB | Conditional · Low (Table 9, Rec 2) | [[acg-2021-anorectal-disorders]] |
-| **Internal anal sphincter — chronic anal fissure** | **Similar results to topical therapy as first-line**; modest healing gain as second-line after topical failure | Strong · Moderate, 1B (Statement 4) | [[ascrs-2023-anal-fissures]] |
-| **Internal anal sphincter — fissure recurrent after sphincterotomy** | Good short-term healing, low risk of fecal incontinence (FI), but data limited | Weak · Low, 2C (Statement 9) | [[ascrs-2023-anal-fissures]] |
+| **Internal anal sphincter — chronic anal fissure** | **Similar results to topical therapy as first-line**; modest healing gain as second-line after topical failure | Strong · Moderate, 1B (Rec 4) | [[ascrs-2023-anal-fissures]] |
+| **Internal anal sphincter — fissure recurrent after sphincterotomy** | Good short-term healing, low risk of fecal incontinence (FI), but data limited | Weak · Low, 2C (Rec 9) | [[ascrs-2023-anal-fissures]] |
 | **Nonachalasia spastic disorders** — [[distal-esophageal-spasm\|distal esophageal spasm]], [[hypercontractile-esophagus\|hypercontractile esophagus]], [[esophagogastric-junction-outflow-obstruction\|esophagogastric junction outflow obstruction (EGJOO)]] | One of the **less invasive options to exhaust before myotomy**, alongside medical therapy and endoscopic dilation | Best practice advice 3 (ungraded) | [[aga-2024-poem-advances]] |
 | **Upper esophageal sphincter (UES) — inability to belch syndrome (B3c)** | Successful treatment **has been demonstrated** | Narrative, no grade | [[rome-v-2026-dgbi]] |
 | **Cricopharyngeus — myositis-related [[dysphagia\|dysphagia]]** | One of the cricopharyngeus-directed options alongside dilation and myotomy | Narrative, no grade | [[aga-2024-esophageal-immunity-infection]] |
@@ -78,7 +79,7 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 - Pooled ASGE meta-analysis of 22 uncontrolled studies (730 patients): clinical success (Eckardt score ≤3) **77% (95% confidence interval [CI] 72%–81%)** over 1–6 months of follow-up. ([[asge-2020-achalasia]])
 - **Pneumatic dilation beats it at both 6 and 12 months, and the gap widens with time** — the pooled head-to-head numbers are on [[achalasia]]. ([[asge-2020-achalasia]])
 
-**Harms:** generally very safe; serious events (mediastinitis, allergic reaction, reflux) are rare. Chest pain in **11% (95% CI 7%–15%)** of the pooled cohort, and transient chest pain after **4.4% of 661 injections** in a multicenter review of 386 patients with esophageal motor disorders. ([[asge-2020-achalasia]])
+**Harms:** generally very safe; serious events (mediastinitis, allergic reaction) are exceedingly rare. Chest pain in **11% (95% CI 7%–15%)** of the pooled cohort, and transient chest pain after **4.4% of 661 injections** in a multicenter review of 386 patients with esophageal motor disorders. ([[asge-2020-achalasia]])
 
 **Sequencing in the unfit patient:** botulinum toxin comes **before** pharmacotherapy — CCBs and nitrates are reserved for patients who can undergo neither pneumatic dilation, LHM nor POEM **and** have already failed botulinum toxin. ([[acg-2020-achalasia]])
 
@@ -90,7 +91,7 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 
 ## Pylorus — Gastroparesis
 
-**Stance: do not use it routinely.** [[acg-2022-gastroparesis|ACG 2022]] recommends **against** intrapyloric injection on the basis of negative RCTs, at **Strong strength, Moderate evidence** — the firmest grading botulinum toxin carries anywhere in the ingested guidelines. [[aga-2025-gastroparesis|AGA 2025]] suggests against routine use (Conditional, Very low), grouping it with [[g-poem|gastric peroral endoscopic myotomy (G-POEM)]], gastric electrical stimulation and routine initial surgical pyloromyotomy/pyloroplasty. ACG adds that pyloric interventions are reasonable to consider **in a clinical trial**.
+**Stance: do not use it routinely.** [[acg-2022-gastroparesis|ACG 2022]] recommends **against** intrapyloric injection on the basis of negative RCTs, at **Strong strength, Moderate evidence**. [[aga-2025-gastroparesis|AGA 2025]] suggests against routine use (Conditional, Very low), as it does for [[g-poem|gastric peroral endoscopic myotomy (G-POEM)]] and gastric electrical stimulation; on surgical pyloromyotomy/pyloroplasty it makes **no recommendation** (knowledge gap). ACG adds that pyloric interventions are reasonable to consider **in a clinical trial**.
 
 - **Shared decision making (AGA 2025):** patients and clinicians who place a higher value on endoscopic treatment and a lower value on chronic medical therapy may reasonably attempt it.
 - **Efficacy:** against saline injection, no clinically important change in symptom severity at 1 month (pooled mean difference 0.17, 95% CI −0.34 to 0.67; 2 trials, 44 patients). In a 40-patient trial of medically refractory gastroparesis it was **comparable to G-POEM** in nausea/vomiting, early satiety/postprandial fullness and symptom severity at 3 and 12 months. ([[aga-2025-gastroparesis]])

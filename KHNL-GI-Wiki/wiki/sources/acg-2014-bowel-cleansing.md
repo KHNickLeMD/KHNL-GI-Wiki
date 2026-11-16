@@ -5,6 +5,7 @@ tags: [bowel-prep, colonoscopy, split-dose, peg, bowel-cleansing, crc-screening,
 created: 2026-06-10
 updated: 2026-10-09
 sources: []
+raw: "GI Guidelines/ACG/ACG 2014 Optimizing Adequacy of Bowel Cleansing for Colonoscopy.pdf"
 ---
 
 > ⚠ **Historical / superseded source.** This 2014 US Multi-Society Task Force on Colorectal Cancer (USMSTF) bowel-prep guidance is superseded by [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]] (published simultaneously in three journals, so also cited as "ACG 2025 Bowel Prep" and "ASGE 2025 Bowel Preparation Quality" — same document). Split dosing, the 4–6 h / ≥2 h timing rule and intraprocedural grading of preparation quality carried forward unchanged; the adequacy benchmark, purgative volume, adjunct stance and repeat-colonoscopy timing did not. Where the two differ, the 2025 document governs — differences listed under [[#Contradictions / Open Questions]].

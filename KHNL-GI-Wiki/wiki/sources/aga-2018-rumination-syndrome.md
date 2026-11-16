@@ -5,6 +5,7 @@ tags: [rumination-syndrome, regurgitation, diaphragmatic-breathing, biofeedback,
 created: 2026-10-26
 updated: 2026-10-26
 sources: []
+raw: "GI Guidelines/AGA/AGA 2018 CPU Rumination Syndrome (Halland).pdf"
 ---
 
 ## Bibliographic Info

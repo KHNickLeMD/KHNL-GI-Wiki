@@ -5,6 +5,7 @@ tags: [fecal-incontinence, defecatory-disorders, sacral-nerve-stimulation, sphin
 created: 2026-09-30
 updated: 2026-09-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2017 CPU Surgical & Device-Aided Therapy for Fecal Incontinence.pdf"
 ---
 
 # Surgical Interventions and the Use of Device-Aided Therapy for the Treatment of Fecal Incontinence and Defecatory Disorders

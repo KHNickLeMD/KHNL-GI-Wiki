@@ -5,6 +5,7 @@ tags: [crohns-disease, ibd, anti-tnf, immunomodulator, biologics, fistula, natal
 created: 2026-06-09
 updated: 2026-10-21
 sources: []
+raw: "GI Guidelines/ACG/ACG 2018 Management of Crohn’s Disease in Adults.pdf"
 ---
 
 > ⚠ **Historical / superseded source.** Captured for landmark and historical reference. Superseded by [[acg-2025-crohns|ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)]] and [[aga-2025-crohns-pharm|AGA Pharmacologic Management of Moderate–Severe Crohn's Disease (2025)]]. Where the two editions differ, the newer guideline governs.

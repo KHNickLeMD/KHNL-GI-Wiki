@@ -5,6 +5,7 @@ tags: [pancreas, acute-pancreatitis, necrotizing-pancreatitis, disconnected-panc
 created: 2026-08-27
 updated: 2026-08-27
 sources: []
+raw: "GI Guidelines/USPG/USPG 2025 Disconnected Panc Duct in Panc Necrosis.pdf"
 ---
 
 ## Bibliographic Info

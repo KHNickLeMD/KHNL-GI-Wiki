@@ -3,8 +3,9 @@ title: "ACG 2022: Diagnosis and Management of Barrett's Esophagus"
 category: source
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance]
 created: 2026-05-15
-updated: 2026-09-29
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/ACG/ACG 2022 Update Diagnosis & Management of Barrett’s Esophagus.pdf"
 ---
 
 ## Bibliographic Info
@@ -61,7 +62,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 
 - EET recommended over esophagectomy for HGD or intramucosal cancer (IMC) (strong, moderate quality). Comparable 5-year survival; EET has markedly lower adverse event rate (relative risk [RR] 0.38 vs esophagectomy).
 - EET suggested for confirmed LGD (conditional, moderate quality). SURF trial (randomized controlled trial [RCT]): radiofrequency ablation (RFA) reduced HGD/EAC progression from 26.5% to 1.5% (P<0.001) vs surveillance over median follow-up.
-- Endoscopic resection (ER) of any visible lesion before ablation (conditional, very low quality). Endoscopic mucosal resection (EMR) upstages/downstages histology in 30–40% of patients; changes management in ~30%. [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] not routinely indicated for HGD/LGD staging.
+- Endoscopic resection (ER) of any visible lesion before ablation (conditional, very low quality). ER upstages/downstages the histologic grade of dysplasia and changes management in 30%–40% of patients with BE undergoing endoscopic evaluation; in one retrospective series of 150 ERs for focal lesions, ER histology changed the diagnosis in 49% and the treatment approach in 30%. [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] not routinely indicated for HGD/LGD staging.
 - EMR techniques: cap-assisted EMR or multiband EMR (preferred in most cases); endoscopic submucosal dissection (ESD) for larger lesions or post-ablation scarring.
 - RFA is the primary ablative modality (widest evidence base). Cryotherapy (spray or balloon) is an acceptable alternative, especially for RFA-refractory cases. Complete eradication of dysplasia (CED)/CEIM rates for cryotherapy: 81–88%/57–61% (spray); 76%/72% (cryoballoon).
 - EET at high-volume centers (conditional, very low quality). Volume-outcome effect documented; European Society of Gastrointestinal Endoscopy (ESGE) threshold: ≥10 new HGD/early EAC patients/yr per endoscopist.
@@ -123,7 +124,7 @@ This is the primary authoritative guideline for Barrett's esophagus diagnosis an
 - ASA + PPI chemoprevention remains unresolved: AspECT trial showed benefit driven by all-cause mortality, not cancer-specific outcomes, and was not double-blinded.
 - Optimal age to cease surveillance is not defined; modeling suggests 69–81 yr range depending on sex and comorbidities.
 - Subsquamous buried BE after RFA: yield of random biopsies from normal neosquamous epithelium is low (~1% any recurrence); significance of nondysplastic IM recurrence at GEJ after CEIM remains unclear.
-- T1b sm1 EAC: expanding role for EET in select patients (negative deep margin, well-moderate differentiation, no lymphovascular invasion [LVI], invasion <500 µm into submucosa); not yet standard of care.
+- T1b sm1 EAC: expanding role for EET in select patients (negative deep margin, well-moderate differentiation, no lymphovascular invasion [LVI], invasion <500 µm into submucosa) — observational data suggest EET may be a viable alternative to esophagectomy; high-risk histology → esophagectomy unless a poor surgical candidate (multidisciplinary discussion, e.g., adjuvant chemoradiation).
 
 ## See Also
 

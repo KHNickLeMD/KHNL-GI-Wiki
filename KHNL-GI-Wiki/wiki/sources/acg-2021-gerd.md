@@ -5,6 +5,7 @@ tags: [gerd, reflux, esophageal, ppi, barrett, antireflux-surgery, tif, msa, ext
 created: 2026-05-16
 updated: 2026-09-24
 sources: []
+raw: "GI Guidelines/ACG/ACG 2021 Diagnosis and Management of Gastroesophageal Reflux Disease.pdf"
 ---
 
 ## Bibliographic Info

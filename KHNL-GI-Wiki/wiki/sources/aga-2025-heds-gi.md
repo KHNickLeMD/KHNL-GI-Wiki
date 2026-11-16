@@ -5,6 +5,7 @@ tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, gas
 created: 2026-06-27
 updated: 2026-11-17
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU GI Manifestations in Hypermobile Ehlers-Danlos Syndrome.pdf"
 ---
 
 ## Bibliographic Info

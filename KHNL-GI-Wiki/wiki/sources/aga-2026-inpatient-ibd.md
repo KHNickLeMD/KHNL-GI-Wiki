@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, asuc, hospital, vte, rescue-therapy, col
 created: 2026-06-27
 updated: 2026-10-18
 sources: []
+raw: "GI Guidelines/AGA/AGA 2026 CPU Inpatient Management of IBD.pdf"
 ---
 
 ## Bibliographic Info

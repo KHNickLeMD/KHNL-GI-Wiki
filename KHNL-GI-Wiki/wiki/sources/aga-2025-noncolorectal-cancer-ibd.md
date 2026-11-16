@@ -5,6 +5,7 @@ tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, c
 created: 2026-06-27
 updated: 2026-10-15
 sources: []
+raw: "GI Guidelines/AGA/AGA 2025 CPU Noncolorectal Cancer Screening and Vaccinations in IBD.pdf"
 ---
 
 ## Bibliographic Info

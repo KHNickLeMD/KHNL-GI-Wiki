@@ -5,6 +5,7 @@ tags: [porphyria, acute-hepatic-porphyria, aip, hepatology, metabolic, givosiran
 created: 2026-07-20
 updated: 2026-10-31
 sources: []
+raw: "GI Guidelines/AGA/AGA 2023 CPU Acute Hepatic Porphyrias.pdf"
 ---
 
 ## Bibliographic Info

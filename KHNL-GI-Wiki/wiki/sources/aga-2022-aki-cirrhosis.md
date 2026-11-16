@@ -5,6 +5,7 @@ tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin]
 created: 2026-05-15
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 Diagnosis and Management of AKI in Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info

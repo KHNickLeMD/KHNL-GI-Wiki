@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Diet and Nutritional Therapies in Patien
 category: source
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, malnutrition, mediterranean-diet, cpu]
 created: 2026-07-22
-updated: 2026-11-02
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AGA/AGA 2024 CPU Diet & Nutritional Therapies in IBD.pdf"
 ---
 
 ## Bibliographic Info
@@ -47,7 +48,7 @@ A **Mediterranean diet** (rich in fresh fruit/vegetables, monounsaturated fats, 
 - **Low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP):** improves irritable bowel syndrome (IBS)-like symptoms in IBD but reduces butyrate-producing microbiota → short-term use during flares only, not long-term.
 - **No evidence** to avoid gluten in IBD absent celiac disease/gluten sensitivity.
 - **PN indications/thresholds:** intestinal failure; high-output intestinal fistula (>500 mL/24 h); high ostomy output (>2000 mL/24 h); inability to maintain >60% of energy/protein goals orally/EN for 7–10 d; nothing by mouth (NPO) ≥7 d before surgery. EN preferred over PN when gut usable.
-- **Malnutrition criteria:** ≥2 of clinically significant weight loss, reduced energy intake, loss of lean/subcutaneous fat mass, fluid accumulation, diminished grip strength; Global Leadership Initiative on Malnutrition (GLIM) and European Society for Clinical Nutrition and Metabolism (ESPEN) (body mass index [BMI] <18.5) criteria; validated **abridged Patient-Generated Subjective Global Assessment (PG-SGA)** IBD tool.
+- **Malnutrition criteria:** ≥2 of clinically significant weight loss, reduced energy intake, loss of lean/subcutaneous fat mass, fluid accumulation, diminished grip strength; Global Leadership Initiative on Malnutrition (GLIM) and European Society for Parenteral and Enteral Nutrition (ESPEN) (body mass index [BMI] <18.5) criteria; validated **abridged Patient-Generated Subjective Global Assessment (PG-SGA)** IBD tool.
 - **Micronutrients:** monitor vitamin D, iron (complete blood count [CBC] + ferritin + transferrin saturation + C-reactive protein [CRP]; q6–12 mo remission, q3 mo active); intravenous (IV) iron faster/better tolerated than oral. B12 risk with terminal ileal resection >30 cm or ileoanal pouch; replete 1000 µg intramuscular (IM)/subcutaneous (SC) q1–4 wk for life.
 - **SBS:** intestinal adaptation over 1–2 yr; ~50% of adults, 73% of children wean off PN; "dry meals," oral rehydration solutions, GLP-2 agonists aid weaning.
 

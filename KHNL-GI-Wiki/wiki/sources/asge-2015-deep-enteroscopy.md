@@ -5,6 +5,7 @@ tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, small-bowel, gi-bleeding,
 created: 2026-06-22
 updated: 2026-10-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2015 Deep Enteroscopy for Small-Bowel Disorders.pdf"
 ---
 
 ## Bibliographic Info

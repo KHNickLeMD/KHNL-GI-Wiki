@@ -5,6 +5,7 @@ tags: [cholangitis, ercp, biliary-drainage, choledocholithiasis, ptbd, guideline
 created: 2026-06-04
 updated: 2026-08-14
 sources: []
+raw: "GI Guidelines/ASGE/ASGE 2021 Management of Cholangitis.pdf"
 ---
 
 # ASGE Guideline: Management of Acute Cholangitis (2021)

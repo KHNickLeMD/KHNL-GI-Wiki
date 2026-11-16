@@ -5,6 +5,7 @@ tags: [ibd, crohns, ulcerative-colitis, pregnancy, lactation, fertility, biologi
 created: 2026-11-15
 updated: 2026-11-15
 sources: []
+raw: "GI Guidelines/Other/Global Consensus 2025 Pregnancy in IBD (Mahadevan).pdf"
 ---
 
 ## Bibliographic Info

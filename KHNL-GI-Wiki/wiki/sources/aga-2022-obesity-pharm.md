@@ -5,6 +5,7 @@ tags: [obesity, weight-management, semaglutide, glp1, pharmacotherapy, guideline
 created: 2026-06-04
 updated: 2026-08-30
 sources: []
+raw: "GI Guidelines/AGA/AGA 2022 Obesity Pharm Mgmt.pdf"
 ---
 
 # AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)

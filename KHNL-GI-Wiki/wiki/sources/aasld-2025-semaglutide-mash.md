@@ -3,8 +3,9 @@ title: "Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatit
 category: source
 tags: [mash, masld, nafld, nash, semaglutide, wegovy, glp-1, glp1-ra, fibrosis, non-invasive-tests, nit, essence-trial, aasld, practice-guidance, fatty-liver, hpb]
 created: 2026-05-25
-updated: 2026-08-26
+updated: 2026-11-16
 sources: []
+raw: "GI Guidelines/AASLD/AASLD 2025 Semaglutide MASH Update.pdf"
 ---
 
 ## Bibliographic Info
@@ -48,7 +49,7 @@ Treatment response is assessed by the same NITs used for candidacy selection at 
 - **Key gastrointestinal (GI) adverse events:** Nausea 36.2% vs. 13.2%; diarrhea 26.9% vs. 12.2%; constipation 22.2% vs. 8.4%; vomiting 18.6% vs. 5.6%; decreased appetite 14.0% vs. 2.8%
 - **Gallbladder disease:** Meta-analysis of 103,371 patients shows 37% increased risk with GLP-1 receptor agonists (GLP-1 RAs); cholelithiasis 1.6% vs. 0.7% in ESSENCE
 - **Lean mass loss (two distinct denominators — do not conflate):** in a dual-energy X-ray absorptiometry (DEXA) subgroup of 140 subjects, semaglutide recipients lost **6.92 kg of lean mass vs 1.48 kg** on placebo, an **~13% reduction in lean mass relative to baseline**; separately, lean mass loss constitutes **~39% of total weight reduction**. Appendicular skeletal muscle volume declines **9–10% over 2 years**, most pronounced in older adults and those with baseline sarcopenia. Mitigate with protein intake 1.2–1.5 g/kg/day and resistance training; sarcopenia carries prognostic weight in chronic liver disease
-- **[[resmetirom|Resmetirom]] combination:** Combined use at semaglutide 2.4 mg/week has not been studied; combination was not excluded from MAESTRO-NASH; no notable safety signals in subgroup data
+- **[[resmetirom|Resmetirom]] combination:** minimal information on combined use, and none at semaglutide 2.4 mg/week; MAESTRO-NASH excluded patients who **initiated or dose-modified** a GLP-1 RA within 6 months of randomization, while 14% were on a stable GLP-1 RA (maximum 1 mg/week) for >6 months at baseline biopsy and showed similar MASH resolution and fibrosis improvement, with no notable differences in safety or tolerability
 - **Lifestyle modification** remains cornerstone of MASLD/MASH management alongside semaglutide
 - **CV benefit:** SELECT trial (n>17,000) showed 1.5% absolute risk reduction in composite CV outcomes over 40 months in non-diabetic individuals with obesity/overweight and established CV disease
 - **CKD benefit:** FLOW trial (n=3533) — semaglutide 1.0 mg weekly showed 24% relative risk reduction in kidney failure, CV death, and other renal events vs. placebo in T2DM+CKD; trial stopped early for efficacy

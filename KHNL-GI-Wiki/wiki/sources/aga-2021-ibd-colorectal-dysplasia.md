@@ -5,6 +5,7 @@ tags: [ibd, ulcerative-colitis, crohns, dysplasia, colorectal-cancer, chromoendo
 created: 2026-09-05
 updated: 2026-09-23
 sources: [asge-2015-scenic-ibd-dysplasia]
+raw: "GI Guidelines/AGA/AGA 2021 CPU Colorectal Dysplasia Surveillance in IBD.pdf"
 ---
 
 ## Bibliographic Info
