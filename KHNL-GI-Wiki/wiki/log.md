@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] ingest | Jirapinyo 2025 ESG standards of practice — global expert Delphi consensus
+
+**Source:** Nick's drop, `raw/GI Guidelines/Other/Delphi 2025 ESG Standards of Practice (Jirapinyo).pdf` (Gastrointest Endosc 2025;102:285-9; © ASGE, no Creative Commons licence → Figure 1 endoscopic photos linked, not embedded).
+
+**Sources created:**
+
+- [[jirapinyo-2025-esg-delphi-standards]] — all 27 statements (6 cognitive, 21 technical) with round-by-round votes.
+
+**Pages updated:**
+
+- [[endoscopic-bariatric-therapies]] — Technique section split into parallel `###` per device; new **ESG standard-step table** (T1–T21: presuturing, each stitch, closing, suture pattern, finishing) with a thick-fold pearl and a MERIT suture-pattern pitfall; Figure 1 linked (not CC). Overview: 2022 FDA de novo authorization of OverStitch. Patient Selection: example ESG contraindications (active smoking, clinically significant portal hypertension). Suturing description: ~70% volume reduction + the AGA 2017 vs 2025 suture-extent difference. Training: the 6 cognitive skills. Body now ~2,550 words, just over the ceiling — slim candidate.
+
+**Contradiction surfaced:** AGA 2017 describes ESG sutures from the prepyloric antrum to the GEJ; the 2025 consensus starts at the incisura and spares the fundus. Newer consensus wins the page (same tier, newer); both noted inline and on the source page.
+
+**Cards:** `endoscopic-bariatric-therapies` card file +5 drafts (eb7005–eb7009: suture-1 start + no fundus, suture counts, optional steps, thick-fold sign, example contraindications); eb7003 `{at:}` moved to `aspiration-therapy-tube` after the heading split. `build-anki.mjs` ACRONYMS += `esg`.
+
+**Not ingested yet:** the ASGE–ESGE 2024 primary EBMT guideline (Jirapinyo) in `raw/GI Guidelines/ASGE/` has no source page — graded ESG efficacy/indication guideline; next pass should take it.
+
+---
+
 ## [2026-11-16] update | Anki card pass — dedup, new cards for 8 pages, card quality review
 
 **Dedup:** 3 candidate pairs from `anki-dupes.mjs`, all judged **distinct** and marked in the ledger (achalasia POEM treatment-naive vs post-failed-myotomy; familial pancreatic cancer gene panel vs surveillance eligibility by gene; terlipressin in pregnancy vs vasoactive timing before endoscopy). No merges from the script.

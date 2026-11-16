@@ -3,8 +3,8 @@ title: "Endoscopic Bariatric Therapies (EBTs)"
 category: advanced-procedure
 tags: [obesity, endoscopic-bariatric-therapy, bariatric, weight-management, endoscopic-sleeve-gastroplasty, aspiration-therapy, duodenojejunal-bypass-sleeve]
 created: 2026-10-01
-updated: 2026-11-12
-sources: [aga-2017-endoscopic-bariatric-therapies, aga-2021-early-complications-bariatric-surgery, aga-2021-intragastric-balloons]
+updated: 2026-11-16
+sources: [aga-2017-endoscopic-bariatric-therapies, aga-2021-early-complications-bariatric-surgery, aga-2021-intragastric-balloons, jirapinyo-2025-esg-delphi-standards]
 quality_reviewed: 2026-11-12
 ---
 
@@ -21,6 +21,12 @@ quality_reviewed: 2026-11-12
 - [[#Small-Bowel Devices]]
 - [[#Outcomes and Adverse Events]]
 - [[#Technique]]
+  - [[#Endoscopic Sleeve Gastroplasty]]
+  - [[#Primary Obesity Surgery Endoluminal]]
+  - [[#Aspiration Therapy Tube]]
+  - [[#EndoBarrier]]
+  - [[#TransPyloric Shuttle]]
+  - [[#Full Sense]]
 - [[#Training and Credentialing]]
 - [[#Open Questions]]
 - [[#See Also]]
@@ -35,6 +41,7 @@ quality_reviewed: 2026-11-12
 - Rationale per [[aga-2017-endoscopic-bariatric-therapies|American Gastroenterological Association (AGA) 2017]]: surgery induces **20%–40% total body weight loss (TBWL)** and reduces obesity-related morbidity and mortality, but at the cost of increased morbidity and rare mortality. EBTs are less invasive, lower cost, and applicable to a larger segment of the population with moderate obesity.
 - Obesity affects **35% of US adults** (body mass index [BMI] ≥30 kg/m²); obesity with its comorbidities accounts for **~21% of US health expenditure**.
 - **Four EBTs were US Food and Drug Administration (FDA)-approved** as of the 2017 review.
+- **2022:** FDA de novo authorization of the OverStitch endoscopic suturing device for treating obesity; the number of endoscopists performing endoscopic sleeve gastroplasty has risen since ([[jirapinyo-2025-esg-delphi-standards]]).
 
 > [!pearl] Plan for weight regain before the device goes in
 > The AGA 2017 message is **programmatic, not device-specific**: weight loss after an EBT is variable and can be temporary — especially with removable, anatomy-preserving devices — so weight recidivism should be anticipated and managed. Obesity is a chronic disease and **no single intervention, device, or operation cures it** ([[aga-2017-endoscopic-bariatric-therapies]]).
@@ -61,6 +68,8 @@ quality_reviewed: 2026-11-12
 
 **AGA 2017 gives no BMI cut-points, no contraindication list, and no age criteria for EBTs** — eligibility is framed only by failure of lifestyle intervention and by the bridge indication, and "severe obesity" in BPA 2 is not defined by a BMI. (The BMI 30–40 kg/m² range of the US balloon trials is on [[intragastric-balloon]]; surgical BMI thresholds are on [[bariatric-surgery]].)
 
+- **ESG contraindications:** the 2025 global expert consensus gives examples only, with no full list: **active smoking** and **clinically significant [[portal-hypertension|portal hypertension]]** ([[jirapinyo-2025-esg-delphi-standards]]).
+
 ## Gastric Devices
 
 Balloon-by-balloon fill volumes, dwell times, efficacy, and adverse-event rates live on **[[intragastric-balloon]]**, which also carries the AGA 2021 graded recommendations ([[proton-pump-inhibitors|proton pump inhibitor (PPI)]] prophylaxis, antiemesis, supplementation, post-removal strategy).
@@ -72,7 +81,8 @@ Balloon-by-balloon fill volumes, dwell times, efficacy, and adverse-event rates 
 
 ### Endoscopic Suturing and Plication
 
-- **Endoscopic sleeve gastroplasty (ESG)** — series of endoluminal **full-thickness** sutures through the gastric wall from the prepyloric antrum to the gastroesophageal junction, reducing capacity of the whole stomach along the greater curvature (a "sleeve").
+- **Endoscopic sleeve gastroplasty (ESG)** — series of endoluminal **full-thickness** sutures through the gastric wall from the prepyloric antrum to the gastroesophageal junction, reducing capacity of the whole stomach along the greater curvature (a "sleeve") ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]]). Gastric volume falls by **~70%**.
+  - The newer **2025 consensus** starts suture 1 at the **incisura** and **never sutures the fundus**, so it differs from the AGA 2017 antrum-to-gastroesophageal-junction description. See [[#Endoscopic Sleeve Gastroplasty|Technique]] ([[jirapinyo-2025-esg-delphi-standards]]).
 - **Primary obesity surgery endoluminal (POSE)** — transmural tissue-anchor plications restricting accommodation of the gastric fundus, plus **3 additional plications in the distal gastric body** to delay emptying.
 
 > [!pitfall] POSE's sham-controlled result is far below its uncontrolled data
@@ -115,16 +125,64 @@ Best available evidence per non-balloon device ([[aga-2017-endoscopic-bariatric-
 
 Balloon placement and removal technique is on [[intragastric-balloon]].
 
-- **ESG** — double-channel therapeutic gastroscope with a commercially available endoscopic suturing device. A **tissue helix** captures the target site on the gastric wall and retracts it into the suturing arm, enabling full-thickness suture placement; sutures run from the prepyloric antrum to the gastroesophageal junction.
-- **POSE** — a large overtube-style peroral incisionless operating platform with **4 working channels**: a slim endoscope plus three instruments — a jawed grasper that creates and approximates full-thickness **serosa-to-serosa** tissue folds, a helical-tipped tissue grasper that helps capture target tissue for the miniplication, and a needle-tipped suture-anchor delivery catheter that installs a pair of tissue anchors joined by suture, holding the plication **until serosal fusion**.
-- **Aspiration therapy** — A-Tube inserted like a standard [[enteral-access|percutaneous endoscopic gastrostomy (PEG)]] tube. **2 weeks later** the external portion is shortened and a valved skin port is attached flush with the skin. The AspireAssist device connects to the port; an attached water reservoir flushes boluses of tap water into the stomach to facilitate aspiration cycles. Aspiration is by **siphon, ideally 20 min after the meal**, removes **about a third of the meal**, and takes **~10–15 min**.
-- **EndoBarrier DJBS** — sleeve and anchoring crown restrained in a delivery capsule, advanced to the duodenal bulb **over a stiff wire under endoscopic and fluoroscopic guidance**; sleeve then advanced to the proximal jejunum and the anchoring crown deployed in the bulb. Removal at 12 mo: grasp the polypropylene drawstring with a custom device that collapses the crown into a **foreign-body retrieval hood**, avoiding gastric or esophageal trauma on withdrawal.
-- **TransPyloric Shuttle** — delivery system advanced through an **overtube** into the stomach, where the device is deployed and self-assembles.
-- **Full Sense** — deployed and removed endoscopically.
+### Endoscopic Sleeve Gastroplasty
+
+- **Equipment:** a double-channel therapeutic gastroscope with an endoscopic suturing device. A **tissue helix** captures the gastric wall and retracts it into the suturing arm so the suture can be placed full thickness ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]]).
+- **Standard steps** below come from the [[jirapinyo-2025-esg-delphi-standards|2025 global expert Delphi consensus]]: 6 experts with ≥300 ESGs each; ungraded expert opinion; numbers are the consensus's own technical statements (T1–T21).
+
+| Phase | Step |
+|---|---|
+| **Before suturing** | Diagnostic endoscopy: identify the antrum, incisura, anterior wall, greater curvature, posterior wall, fundus and gastroesophageal junction (T1) · check for contraindications (T2) · measure the gastric length (T3) |
+| | *Optional:* argon plasma coagulation (APC) of the anterior and posterior walls of the gastric body to mark the gastric boundaries (T4) |
+| | Pass the scope with the suturing device mounted, **with or without an overtube** (T5) |
+| **Each stitch** | Advance the helix and give **3–4 clockwise turns**, with initial forward pressure and **early retraction as needed so it does not capture tissue outside the stomach** (T6) |
+| | Pull the helix and wall in, maneuver the scope, and place a **full-thickness** stitch (T7) |
+| | Create suture slack and work from a distance from the wall · load the needle driver without crossing the suture (T8–T9) |
+| **Closing each suture** | Drop the tissue anchor at the end of the pattern (T10) · cinch firmly enough to compress the stomach **without overtensioning**; **no suture visible** after cinching (T11) |
+| **Suture pattern** | **Suture 1:** start at the **incisura**, first stitch on the **anterior wall**; **6–12 full-thickness bites**; **continuous** pattern, either single-row running or U-pattern (T16–T18) |
+| | *Optional* **suture 2:** an interrupted reinforcement suture right next to the running or U-suture (T19) |
+| | **6–10 sutures in total** (T20) · **identify the fundus and do not suture it** (T21) |
+| **Finishing** | Troubleshoot as needed; recognize and manage intraprocedural adverse events such as bleeding (T12–T13) · remove the device **with the handle closed** (T14) |
+| | Check the sleeve: the scope **passes the whole sleeve into the antrum**; identify the fundus, body and antrum; **no active bleeding or esophageal tear** (T15) |
+
+> [!pearl] A thick fold means extragastric tissue
+> A thick gastric fold on the helix suggests it has caught tissue next to the stomach. A thin fold suggests adequate capture without external structures. *See Figure 1 in [[jirapinyo-2025-esg-delphi-standards]] for endoscopic images: thick vs thin folds, partial- vs full-thickness stitches, the running and reinforcement sutures, and the fundus.*
+
+> [!pitfall] The suture pattern changes weight loss
+> The Multicenter Endoscopic Sleeve Gastroplasty Randomized Interventional Trial (MERIT) used a suture pattern that gave only **13.6% total weight loss**, which most experts consider inadequate ([[jirapinyo-2025-esg-delphi-standards]]).
+
+- **Why:** the fundus is thin and vascular (risk, no benefit). Overtube and APC are optional because experienced operators pass the device safely and know the anatomy without marking.
+
+### Primary Obesity Surgery Endoluminal
+
+- A large overtube-style peroral incisionless operating platform with **4 working channels**: a slim endoscope plus three instruments — a jawed grasper that creates and approximates full-thickness **serosa-to-serosa** tissue folds, a helical-tipped tissue grasper that helps capture target tissue for the miniplication, and a needle-tipped suture-anchor delivery catheter that installs a pair of tissue anchors joined by suture, holding the plication **until serosal fusion**.
+
+### Aspiration Therapy Tube
+
+- A-Tube inserted like a standard [[enteral-access|percutaneous endoscopic gastrostomy (PEG)]] tube. **2 weeks later** the external portion is shortened and a valved skin port is attached flush with the skin. The AspireAssist device connects to the port; an attached water reservoir flushes boluses of tap water into the stomach to facilitate aspiration cycles. Aspiration is by **siphon, ideally 20 min after the meal**, removes **about a third of the meal**, and takes **~10–15 min**.
+
+### EndoBarrier
+
+- Sleeve and anchoring crown restrained in a delivery capsule, advanced to the duodenal bulb **over a stiff wire under endoscopic and fluoroscopic guidance**; sleeve then advanced to the proximal jejunum and the anchoring crown deployed in the bulb. Removal at 12 mo: grasp the polypropylene drawstring with a custom device that collapses the crown into a **foreign-body retrieval hood**, avoiding gastric or esophageal trauma on withdrawal.
+
+### TransPyloric Shuttle
+
+- Delivery system advanced through an **overtube** into the stomach, where the device is deployed and self-assembles.
+
+### Full Sense
+
+- Deployed and removed endoscopically.
 
 ## Training and Credentialing
 
 - **Knowledge base (BPA 6):** clinicians should have comprehensive knowledge of the **indications, contraindications, risks, benefits, and outcomes of individual EBTs**, plus practical knowledge of the risks and benefits of alternative obesity therapies.
+- **ESG cognitive skills** — required before performing ESG; the 2025 consensus agreed on all 6 unanimously ([[jirapinyo-2025-esg-delphi-standards]]):
+  - Describe primary endoscopic bariatric and metabolic therapies and the other treatment options for obesity.
+  - Know ESG indications, contraindications and patient-selection criteria.
+  - Consent patients for possible risks and adverse events, from pain, nausea and vomiting to leak and bleeding.
+  - Know pre- and postprocedural care: antiemetics, pain control, antibiotics, diet plan.
+  - Diagnose and manage adverse events.
+  - Communicate well with the team.
 - **Privileging (BPA 7):** institutions should establish **specific guidelines applied consistently across disciplines** for granting EBT privileges, reflecting the knowledge and technical skill required before privileges are granted.
 - Clinicians also managing the complications of bariatric/metabolic surgery endoscopically carry a separate, more demanding skill set — fluoroscopy, stent deployment and retrieval, stenosis management, percutaneous drain management; see [[bariatric-surgery-leak]].
 
@@ -147,3 +205,4 @@ Balloon placement and removal technique is on [[intragastric-balloon]].
 1. [[aga-2017-endoscopic-bariatric-therapies|AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Therapies (2017)]]
 2. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
 3. [[aga-2021-early-complications-bariatric-surgery|AGA Clinical Practice Update on Evaluation and Management of Early Complications After Bariatric/Metabolic Surgery: Expert Review (2021)]]
+4. [[jirapinyo-2025-esg-delphi-standards|Establishing Standards of Practice for Endoscopic Sleeve Gastroplasty: A Global Expert Consensus Using a Modified Delphi Method (2025)]]
