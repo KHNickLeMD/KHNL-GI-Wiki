@@ -6,6 +6,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] update | Cron throttled until the weekly usage reset
+
+Weekly plan usage was at 88% on 2026-11-16 with the reset on 2026-11-19. `lint-cron.sh` on the server now carries a temporary throttle that lifts itself at 2026-11-20 00:00 (backup `lint-cron.sh.bak-2026-11-16d`):
+
+- 00:00 and 12:00 (cards-mode) runs exit at once and write one line to `cron.log`.
+- 06:00 and 18:00 runs do the lint step only, at $12 instead of $25. The page review and the card step are skipped. Anki sync, the card backup and the Nextcloud rescan still run.
+- Nominal spend falls from about $330 to about $24 a day until the reset.
+
+After the reset the review step runs at $40 a run, down from $60 (about $250 a day nominal). Lint stays at $25 and cards at $10.
+
 ## [2026-11-16] update | Source-fidelity follow-up — cron live, three file-less source pages rebuilt, raw drift fixed
 
 **Live.** The source-fidelity commit is pushed (rebased over 15 scheduled commits; seven conflicts merged by hand — the scheduled review's version of `hepatocellular-adenoma` kept, FNH line corrected to the guideline's "extremely slim chance of malignancy"). `lint-cron.sh` now carries the verified-ingest and independent-check prompts.
