@@ -70,7 +70,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 #### Viral (most common overall; ~60–80% of community-acquired cases)
 
 - [[norovirus]] — most common cause of epidemic gastroenteritis in the US; low inoculum; foodborne and person-to-person
-- [[rotavirus]] — most common cause of severe infantile diarrhea globally; adults may get mild illness
+- [[rotavirus]] — before vaccine introduction, the leading cause of acute gastroenteritis prompting medical visits and hospitalization in US children <5 y
 - Adenovirus (enteric serotypes 40/41)
 
 #### Bacterial

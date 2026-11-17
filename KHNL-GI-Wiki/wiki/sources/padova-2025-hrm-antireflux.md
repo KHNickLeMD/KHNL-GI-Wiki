@@ -3,7 +3,7 @@ title: "Padova Consensus: High-Resolution Manometry Before and After Antireflux 
 category: source
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, foregut, Padova-classification]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-17
 sources: []
 ---
 
@@ -68,6 +68,19 @@ sources: []
   - **IRP after ARS:** minimal data in asymptomatic patients; varies with wrap type and manometry system. **Any IRP <15 mmHg on Medtronic systems is consistent with normal, but a higher value may still be within normal limits** — no post-ARS upper limit is set.
   - IRP alone may be insufficient to judge outflow obstruction → combine with IBP.
   - One cohort found no significant IRP difference between complete and partial wraps.
+- **Normative post-operative HRM metrics (Supplemental Table 1)** — median (5th–95th percentile) for Medtronic, median (95th percentile) for Diversatek; LN = laparoscopic Nissen, LT = laparoscopic Toupet:
+
+| Metric | LN Medtronic (n=46) | LN Diversatek (n=33) | LT Medtronic (n=51) | LT Diversatek (n=17) |
+|---|---|---|---|---|
+| LES resting pressure (mmHg) | 25.8 (8–47.8) | 20 (39.2) | 18.9 (9.8–37.6) | 18 (46.18) |
+| LES total length (mm) | 32 (17–49) | 40 (44) | 29 (18–45.9) | 37 (44) |
+| LES abdominal length (mm) | 17 (8–35) | — | 17 (3–30.6) | — |
+| IRP (mmHg) | 11.2 (2.5–19) | 15 (29.4) | 8.4 (1.9–17.3) | 12 (23.2) |
+| % peristaltic swallows | 90 (30–100) | 90 (100) | 90 (35–100) | 70 (100) |
+| % premature swallows | 0 (0–20) | — | 0 (0–26.5) | — |
+| % failed swallows | 0 (0–50) | — | 0 (0–40) | — |
+| % ineffective swallows | 0 (0–20) | — | 0 (0–66.5) | — |
+| Distal contractile integral (mmHg·cm·s) | 1014.1 (252.6–2552.1) | 817 (3698.2) | 718.6 (189.7–3462.8) | 348 (2353) |
 - **Post-ARS failure burden:** reflux symptoms and/or pathologic acid reflux recur in ~5–15% short and long term; persistent dysphagia in up to 12–25%.
 - **Barium and FLIP after ARS:** neither tested specifically in failed fundoplication; suggested as adjuncts by analogy to their role in confirming EGJOO under CCv4.0. **Post-surgery normative FLIP values for distensibility index and EGJ diameter have not been established.**
 
@@ -82,8 +95,8 @@ sources: []
 | HPZ ≥1 cm **above** CD (whole neo-LES–fundoplication complex migrated into chest) | Low (hypotensive) | **Disrupted fundoplication with herniation** |
 | HPZ ≥1 cm **above** CD | Normal | **Intrathoracic (herniated) wrap**, not disrupted |
 
-- Separation threshold: **≥1 cm** in the classification text; **>1 cm** in Figure 1 and the discussion.
-- Table follows the text (classification section and discussion agree). **Figure 1 labels the two separation branches the other way round** — "HPZ below CD" leads to the basal-pressure split, "HPZ above CD" to slipped.
+- Separation threshold: **≥1 cm** in the classification text; **>1 cm** in Figure 1, Supplemental Table 2, and the discussion.
+- Table follows the text (classification section and discussion agree). **Figure 1 and Supplemental Table 2 label the two separation branches the other way round** — "HPZ below CD" leads to the basal-pressure split, "HPZ above CD" to slipped.
 - Example tracings: slipped wrap (Figure 5A) — native LES (proximal HPZ) sits above the wrap (distal HPZ, at gastric-body level); distal HPZ neither relaxes nor varies with respiration; proximal HPZ relaxes; pressure inversion point (PIP) above distal HPZ. Intrathoracic wrap (Figure 5B) — distal HPZ = crus (no swallow relaxation, respiratory variation evident); proximal HPZ = wrap around native LES, relaxes; PIP at distal HPZ.
 
 **Step 2 — physiology (no separation)**
@@ -99,13 +112,22 @@ sources: []
 
 - Intrabolus pressurization increases confidence in PFOO.
 - Initial evaluation of symptoms after ARS = endoscopy + barium esophagram; HRM interpreted alongside them.
-- The source gives **no numeric cutoffs** for low/normal/high neo-LES basal pressure or for elevated IBP after ARS.
+- **Numeric cutoffs (Supplemental Table 2; Medtronic system, device-dependent):** low neo-LES basal pressure **<8 mmHg**; PFOO = elevated basal pressure **>48 mmHg** *or* elevated median IRP **>19 mmHg**. The main text gives **no numeric cutoff for elevated IBP** after ARS.
 
 ### Statements Not Reaching Agreement (Supplemental Table 3)
 
-- EGJ obstruction shown only on provocative maneuvers prompting further pre-ARS evaluation.
-- Contraction vigor (ineffective swallows, peristaltic breaks, multiple rapid swallow [MRS] response) to tailor total vs partial fundoplication or predict post-ARS dysphagia.
-- Postprandial HRM as an adjunct in proton pump inhibitor (PPI) non-responders; impedance metrics with HRM.
+| Statement | Median | Range | Ranked appropriate |
+|---|---|---|---|
+| Obstruction on the rapid drink challenge should prompt further evaluation (timed barium esophagram or EndoFLIP) before ARS | 8 | 4–9 | 66% |
+| Ineffective esophageal motility (IEM) and absent contractility, judged by contraction vigor (distal contractile integral) and peristaltic breaks, help choose a partial vs complete fundoplication to reduce post-operative dysphagia | 7 | 1–9 | 48% |
+| In IEM, absent contraction augmentation after multiple rapid swallows (MRS) increases the likelihood of late post-operative dysphagia after ARS | 7 | 3–9 | 59% |
+| Postprandial HRM with impedance is a useful adjunct in proton pump inhibitor (PPI) non-responders when a primary behavioral disorder (rumination, supragastric belching) is suspected | 8 | 4–9 | 59% |
+| Impedance with standard HRM, used qualitatively, mainly identifies abnormal bolus retention needing further evaluation before ARS | 7 | 2–9 | 55% |
+| In distal esophageal spasm by CCv4.0 criteria, even with objective GERD, ARS without treatment directed at the spastic esophageal body should be avoided | 6 | 1–9 | 41% |
+| Straight-leg raise is useful for assessing EGJ barrier function before ARS | 5 | 1–8 | 19% |
+| HRM for symptoms after fundoplication should follow the CCv4.0 standard protocol | 7 | 2–9 | 69% |
+| Provocative maneuvers (MRS, solid test meal) should be added to the post-ARS protocol, particularly with dysphagia | 8 | 3–9 | 69% |
+
 - Context: absent contraction reserve on MRS is associated (retrospective data) with more dysphagia after standard ARS, higher reflux burden, and persistent ineffective motility; straight-leg-raise pressurization associated with abnormal reflux burden, but its pre-ARS value is unproven.
 
 ### Candidacy for ARS (narrative section, no voted statements)
@@ -133,7 +155,8 @@ sources: []
 
 - **Figure vs text:** Figure 1 assigns "slipped" to the HPZ-above-CD branch and the basal-pressure split to HPZ-below-CD; the classification text and discussion state the reverse. Separation written ≥1 cm (text) vs >1 cm (figure, discussion).
 - **Post-ARS IRP:** <15 mmHg (Medtronic) is consistent with normal, but higher values may also be normal — the source sets no post-ARS upper limit, and Chicago Classification v4.0 thresholds were built for surgery-naive patients ([[chicago-v4-2021-esophageal-dysmotility]]).
-- **No numeric post-ARS cutoffs** for neo-LES basal pressure (low/normal/high) or IBP; no post-ARS FLIP normative values.
+- **Main text vs supplement:** the article body states no numeric post-ARS pressure cutoffs, while Supplemental Table 2 gives Medtronic cutoffs (<8 mmHg low basal, >48 mmHg elevated basal, >19 mmHg elevated median IRP). No numeric cutoff for IBP in either; no post-ARS FLIP normative values.
+- Supplemental Table 3 lists the section header "HRM Following Anti-Reflux Procedure" with a score row (median 6, range 1–8, 37%) but no statement text; that row is omitted above.
 - **EGJOO before ARS** — consistent with [[chicago-v4-2021-esophageal-dysmotility]] (EGJOO conclusive only with obstructive symptoms + supportive barium or FLIP).
 - **Contraction vigor and wrap tailoring:** no agreement that ineffective swallows, peristaltic breaks, or MRS response should choose total vs partial fundoplication.
 - **Limitations (authors):** literature-based agreement inherits study flaws; mostly observational, small, single-center data; no outcomes data confirming the recommendations.

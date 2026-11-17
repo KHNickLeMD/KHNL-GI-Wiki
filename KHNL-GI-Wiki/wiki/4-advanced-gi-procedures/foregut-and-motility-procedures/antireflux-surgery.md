@@ -167,7 +167,7 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 ## Postoperative Evaluation
 
 - New dysphagia + normal endoscopy after ARS → **timed barium swallow (with tablet) and [[flip-panometry|FLIP]] may help clarify the cause, particularly if manometry is equivocal** (93% agreement); HRM interpreted with the **Padova Classification** ([[hrm-antireflux-surgery]]).
-- **Post-ARS integrated relaxation pressure (IRP) runs higher than surgery-naive** — any IRP <15 mmHg (Medtronic) is consistent with normal, but a higher value may still be normal; no post-ARS upper limit is set ([[padova-2025-hrm-antireflux]]).
+- **Post-ARS integrated relaxation pressure (IRP) runs higher than surgery-naive** — any IRP <15 mmHg (Medtronic) is consistent with normal, but a higher value may still be normal; the main text sets no post-ARS upper limit, while the supplement treats median IRP **>19 mmHg** (Medtronic) as elevated ([[padova-2025-hrm-antireflux]]). Cutoffs and post-op normative values: [[hrm-antireflux-surgery]].
 - **No manometric finding is an absolute indication for reoperation**; HRM aids the decision alongside endoscopy, pH monitoring, and barium studies (96% agreement).
 
 ### Endoscopic Assessment of the Post-Surgical GE Valve

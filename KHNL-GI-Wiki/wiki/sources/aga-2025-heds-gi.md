@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update on GI Manifestations and Autonomic or Immun
 category: source
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, gastroparesis, motility, celiac-disease, pelvic-floor]
 created: 2026-06-27
-updated: 2026-10-17
+updated: 2026-11-17
 sources: []
 ---
 
@@ -71,14 +71,14 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 - Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
 - Once POTS is confirmed: autonomic function testing (tilt table or sudomotor) plus expanded laboratory testing with autoantibodies.
 
-**MCAS — criteria and thresholds** (BPA 5–7 turn on these). Table 1 gives the consensus criteria (A + B + C) and the primary/secondary/idiopathic classification; both are recreated on [[hypermobile-ehlers-danlos-syndrome|the hEDS page]].
+**MCAS — criteria and thresholds** (BPA 5–7 turn on these). Table 1 gives the consensus criteria (A + B + C) and the primary/secondary/idiopathic classification; both are recreated on [[mast-cell-activation-syndrome|the MCAS page]]. In Table 1, primary (clonal) MCAS = most mast cells display CD25 **and** the *KIT* D816V mutation is detected.
 - **Mast-cell activation threshold:** serum tryptase rise from the individual's own baseline to **baseline + 20% + 2 ng/mL**, with samples drawn at baseline and **1–4 h after a symptom flare**.
 - Other mediator markers have been proposed but are less specific: histamine and histamine metabolites, prostaglandin D2, leukotriene C4 metabolites.
 - Counting mast cells per high-power field on intestinal biopsies has been proposed, but the threshold separating normal from abnormal is debated; CD-117 immunohistochemical staining in the second portion of the duodenum or ileum is thought to be more sensitive. Consensus on these criteria is controversial even among allergists.
 
 **Treatment detail (Table 2 — options by symptom: POTS, diarrhea, constipation, nausea/vomiting, abdominal pain, autoimmunity, MCAS; recreated on [[hypermobile-ehlers-danlos-syndrome|the hEDS page]]):**
 - POTS conservative measures: fluid **2 L/d**, salt **10 g/d**, exercise training, compression garments; more severely affected patients may need fludrocortisone, midodrine, or beta-blockers with integrated cardiology/neurology care.
-- MCAS: nonsedating H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or leukotriene receptor antagonists second-line. Estimated antimediator response rates 75% in patients with MCAS and 82% for symptoms such as diarrhea and abdominal pain — no well-designed randomized trials; recommendations rest on expert opinion. The role of immunotherapy is under active study.
+- MCAS: nonsedating H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or leukotriene receptor antagonists second-line. Estimated antimediator response rates in MCAS of 75% and 82% for symptoms such as diarrhea and abdominal pain, respectively — no well-designed randomized trials; recommendations rest on expert opinion. The role of immunotherapy is under active study.
 - **Opioids:** avoid in chronic pain; opiates should not be used specifically to treat abdominal pain. Already-prescribed patients need a careful multidisciplinary approach with facilitation of cessation where possible.
 - Early brain-gut behavioral therapy / hypnotherapy where symptoms worsen with stress or coping is maladaptive.
 - Pelvic floor symptoms are common — treat per general anorectal disorder principles.
@@ -95,7 +95,9 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 - **Endoscopy safety:** rates of endoscopy-related complications such as perforation do not appear to be increased among adults with hEDS/HSDs, **with the exception of vascular EDS**. Age- and indication-appropriate endoscopic evaluation should be performed.
 
 ## Relevance to Wiki
-- Sole source for [[hypermobile-ehlers-danlos-syndrome]], which holds this update's three visuals: the Beighton maneuvers (Figure 1), the MCAS classification and consensus criteria (Table 1), and the symptom-by-symptom treatment options (Table 2).
+- Sole source for [[hypermobile-ehlers-danlos-syndrome]], which holds the Beighton maneuvers (Figure 1) and the symptom-by-symptom treatment options (Table 2).
+- Sole source for [[mast-cell-activation-syndrome]], which holds the MCAS classification and consensus diagnostic criteria (Table 1), the tryptase protocol and the MCAS treatment ladder (BPA 5–7, 14).
+- [[postural-orthostatic-tachycardia-syndrome]] — POTS criteria, phenotypes and treatment (BPA 4, 13).
 - [[disorders-of-gut-brain-interaction]] — DGBI overlap; evaluation and management follow the general-population DGBI framework (BPA 8, 16).
 - [[gastroparesis]] — timely gastric emptying/accommodation testing when POTS coexists (BPA 11); gastroparesis/small-particle diet (BPA 15).
 - [[celiac-disease]] — consider serology earlier and not only with diarrhea (BPA 9).

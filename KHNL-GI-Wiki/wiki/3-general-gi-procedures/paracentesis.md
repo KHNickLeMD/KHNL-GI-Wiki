@@ -32,7 +32,7 @@ quality_reviewed: 2026-11-14
 ## Scope
 
 - Percutaneous aspiration of peritoneal fluid — **diagnostic** (sampling) or **therapeutic / large-volume** (symptom relief).
-- Counts as a **low-bleeding-risk** procedure in [[cirrhosis]] — defined as **<1.5% bleed risk** and not into a vulnerable area ([[aga-2021-cirrhosis-coagulation]]).
+- Counts as a **low-bleeding-risk** procedure in [[cirrhosis]] — defined as **<1.5% bleed risk** (high risk = ≥1.5%, or bleeding risk into a vulnerable area) ([[aga-2021-cirrhosis-coagulation]]).
 - This page owns the procedure. **Fluid interpretation lives elsewhere** — serum-ascites albumin gradient (SAAG) and the ascites grading scale on [[ascites]]; the polymorphonuclear leukocyte (PMN) >250/mm³ diagnosis and its treatment on [[spontaneous-bacterial-peritonitis]].
 
 ## Diagnostic Paracentesis

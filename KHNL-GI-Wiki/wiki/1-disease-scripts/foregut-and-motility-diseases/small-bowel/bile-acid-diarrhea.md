@@ -3,11 +3,10 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-11-05
-sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies, aga-2018-functional-gi-symptoms-ibd]
+updated: 2026-11-17
+quality_reviewed: 2026-11-17
+sources: [acg-2020-ibs, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies, aga-2018-functional-gi-symptoms-ibd, rome-v-2026-bowel-disorders]
 ---
-
-> **This page draws on the bile acid malabsorption (BAM) sections of general gastrointestinal (GI) guidelines** — principally [[acg-2020-ibs]] — rather than a dedicated bile acid diarrhea guideline. Numeric test cutoffs (23-seleno-25-homotaurocholic acid [SeHCAT] % retention, serum 7α-hydroxy-4-cholesten-3-one [C4], fibroblast growth factor 19 [FGF-19]) are not given in those guidelines (see [[#Diagnostics]]).
 
 ## Contents
 - [[#Assessment]]
@@ -24,17 +23,15 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 
 ### Establishing the Diagnosis
 
-- **Definition (BAM):** inability to reabsorb sufficient bile acids in the **terminal ileum**. Excess bile acids reaching the colon are exposed to colonic flora → **secondary bile acids** → increased colonic fluid secretion → diarrhea. [[acg-2020-ibs]]
+- **Definition:** bile acid malabsorption (BAM) = inability to reabsorb sufficient bile acids in the **terminal ileum**. Excess bile acids reaching the colon are exposed to colonic flora → **secondary bile acids** → increased colonic fluid secretion → diarrhea. [[acg-2020-ibs]]
 - Presents as **watery (secretory) [[chronic-diarrhea|chronic diarrhea]]**; overlaps heavily with [[irritable-bowel-syndrome|diarrhea-predominant irritable bowel syndrome (IBS-D)]] — bile acid diarrhea is thought to contribute to symptoms in a **subset** of IBS-D patients. [[acg-2020-ibs]]
-- **How common in IBS-D:** pooled data from **6 SeHCAT studies — 28.1% (95% confidence interval [CI] 22.6–34%)** of IBS-D patients met the studies' predefined SeHCAT threshold for BAM (random-effects model; substantial heterogeneity, I² 72.1%). [[acg-2020-ibs]]
-- **Diagnosis is often made by treatment, not by testing:** the American College of Gastroenterology (ACG) states testing for BAM in the United States "remains limited and incompletely validated," no study has compared testing against empiric therapy, and an **empiric bile acid sequestrant trial is a reasonable course of action if BAM is suspected** (see [[#Therapeutics]]). [[acg-2020-ibs]]
-- **Settings that should raise the question:** post-ileal-resection, post-cholecystectomy, and idiopathic (see [[#Classification / Typing]]); also consider it in an ostomate with **chronic (late) high ostomy output**, where bile acid diarrhea is one of the listed etiologies alongside infection, stomal stricture/obstruction/fistula, recurrent [[crohns-disease|Crohn's disease]], and [[microscopic-colitis|microscopic colitis]]. [[aga-2023-ostomies]]
-  - **High ostomy output (HOO) is defined by volume, not just symptoms:** ostomy output **greater than fluid intake — typically >1.5 L/d** — resulting in dehydration. [[aga-2023-ostomies]]
-  - **Early vs chronic HOO is a 3-week rule:** *early* = HOO within **3 weeks** of stoma formation (evaluate for infection, ileus, medication effects). *Chronic/late* = **persistent HOO >3 weeks after surgery, or new-onset HOO occurring >3 weeks after ostomy creation** — this is the group in which bile acid diarrhea is on the differential. More likely with a jejunostomy, with **[[short-bowel-syndrome|short bowel]] (<200 cm of small intestine remaining)**, or when the small bowel fails to adapt. [[aga-2023-ostomies]]
+- **No pathognomonic finding; the diagnosis is made by testing or by response to treatment** (see [[#Diagnostics]], [[#Therapeutics]]). Testing for BAM in the United States "remains limited and incompletely validated," no study has compared testing against empiric therapy, and an **empiric bile acid sequestrant trial is a reasonable course of action if BAM is suspected** (American College of Gastroenterology [ACG]). [[acg-2020-ibs]]
+- **How common in IBS-D:** pooled data from **6 studies using 23-seleno-25-homotaurocholic acid (SeHCAT) testing — 28.1% (confidence interval [CI] 22.6%–34%)** of IBS-D patients met the studies' predefined SeHCAT threshold for BAM (random-effects model; significant heterogeneity, I² 72.1%). [[acg-2020-ibs]]
+- **Settings that should raise the question:** post-ileal-resection, post-cholecystectomy, and idiopathic (see [[#Classification / Typing]]); also an ostomate with **chronic (late) high ostomy output**, where bile acid diarrhea sits on the etiology list beside infection, stomal stricture/obstruction/fistula, recurrent [[crohns-disease|Crohn's disease]] and [[microscopic-colitis|microscopic colitis]] — definitions and output thresholds on [[ostomy-management]]. [[aga-2023-ostomies]]
 
 ### Severity Assessment
 
-- **The guidelines give no severity score, stratum, or grading system for bile acid diarrhea** — severity is judged clinically (stool frequency/consistency, volume depletion, and, in ostomates, output volume).
+- **No severity score, stratum or grading system for bile acid diarrhea is defined in the sources below.**
 
 ### Classification / Typing
 
@@ -43,12 +40,12 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 | Mechanism | Setting / detail |
 |---|---|
 | **Loss of absorptive surface** | Iatrogenic loss of the **distal small bowel**, reducing capacity to reabsorb bile excreted by the biliary system during digestion |
-| **Altered timing of bile delivery** | **Cholecystectomy** changes the timing of bile delivery to the small intestine — a potentially important cause of worsening irritable bowel syndrome (IBS) symptoms, since IBS carries an increased risk of cholecystectomy (**odds ratio [OR] 2.09, 95% CI 1.89–2.31**) |
+| **Altered timing of bile delivery** | **Cholecystectomy** changes the timing of bile delivery to the small intestine — a potentially important cause of worsening irritable bowel syndrome (IBS) symptoms, since IBS carries an increased risk of cholecystectomy (**odds ratio [OR] 2.09, CI 1.89–2.31**) |
 | **Idiopathic** | Differential potential for bile acid reabsorption between individuals |
 
-- **In [[inflammatory-bowel-disease|IBD]]:** bile acid diarrhea arises as a consequence of altered small-bowel structure or function — relevant above all in [[crohns-disease|Crohn's disease]] with **ileal disease or ileal resection** — and is a named cause of diarrhea persisting despite controlled inflammation. It is also a common cause of [[functional-diarrhea|functional diarrhea]] and [[irritable-bowel-syndrome|diarrhea-predominant IBS (IBS-D)]] outside IBD. Treatment is a **bile salt sequestrant**. [[aga-2018-functional-gi-symptoms-ibd]]
+- **In [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]:** bile acid diarrhea arises from altered small-bowel structure or function — above all in Crohn's disease with **ileal disease or ileal resection** — and is a named cause of diarrhea persisting despite controlled inflammation. Outside IBD it is a common cause of [[functional-diarrhea|functional diarrhea]] and IBS-D. Treatment is a **bile salt sequestrant**. [[aga-2018-functional-gi-symptoms-ibd]]
 
-> The commonly used **Type 1 / Type 2 / Type 3** nomenclature for these mechanisms is not defined in [[acg-2020-ibs]]; see a dedicated bile acid diarrhea review for it.
+*ACG 2020 describes these three mechanisms but does not use the Type 1 / Type 2 / Type 3 nomenclature often applied to them.*
 
 ## Differential Diagnosis
 
@@ -61,28 +58,47 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 
 ## Diagnostics
 
-| Test | Finding that suggests BAM | Availability / caveat |
-|---|---|---|
-| **SeHCAT retention** | Retention below the study-defined threshold | **Most common test**; available in some **European** countries, not in routine US practice. ACG cites a "predefined threshold" but **does not state the % retention cutoff** |
-| **Serum C4** | **High** C4 | Available at some institutions; C4 is higher in IBS-D than constipation-predominant IBS (IBS-C) and healthy subjects and correlates with stool bile acids. **No cutoff given** |
-| **Serum FGF-19** | **Low** FGF-19 | Serum marker; **no cutoff given** |
-| **Fecal bile acids** | Increased stool bile acids | Newer stool studies; higher stool bile acids predicted **higher stool wet weight** when healthy subjects were compared with IBS-D and IBS-C |
-| **Empiric bile acid sequestrant trial** | Symptom response | Explicitly endorsed by ACG as reasonable when BAM is suspected, given that testing is limited and incompletely validated |
+**American Gastroenterological Association (AGA) Recommendation 6 (verbatim):** *"In patients presenting with chronic diarrhea, the AGA suggests testing for bile acid diarrhea."* **Conditional recommendation; low-quality evidence.** *Comment:* *"In settings with limited availability of commercial assays, an empiric trial of a bile acid binder could be considered."* [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]]
 
-All rows from [[acg-2020-ibs]].
+- **Population the recommendation was written for:** the immunocompetent adult with **watery diarrhea of at least 4 weeks' duration** — not bloody diarrhea, signs of fat malabsorption, alarm features (weight loss, anemia, hypoalbuminemia), a family history of IBD/colon cancer/celiac disease, or travel to a region with recognised diarrhea-related pathogens. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]]
 
-> The operative **numeric cutoffs** — SeHCAT % retention at 7 days, serum C4 (ng/mL), FGF-19 (pg/mL), 48-hour fecal bile acid excretion — are not given in [[acg-2020-ibs]]; take them from the local laboratory's reference ranges or a dedicated bile acid diarrhea source.
+```mermaid
+flowchart TD
+    A(["Chronic diarrhea — bile acid diarrhea considered"]) --> B["Test for bile acid diarrhea<br/>(Recommendation 6)"]
+    B -- "Commercial assay available" --> C(["48-hour total fecal bile acids<br/>or serum FGF-19"])
+    B -- "Limited availability of commercial assays" --> D(["Empiric trial of a bile acid binder"])
+    D -- "Clinical response" --> E(["Supports excess bile acids as the cause of the diarrhea"])
+    class A start
+    class B test
+    class C,D act
+    class E stop
+```
 
-**Which test to reach for first** ([[aga-2018-functional-gi-symptoms-ibd]]):
+*Testing route in suspected bile acid diarrhea*
+*Source: built from AGA 2019 Recommendation 6, its Comment and the accompanying text (the guideline has no flowchart)*
+*[[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019 Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and IBS-D]]*
+*FGF-19 = fibroblast growth factor 19*
 
-- **48-hour fecal bile acid excretion** has reasonable diagnostic yield and is the practical choice where **SeHCAT retention is unavailable** — which is most countries, including routine US practice.
-- **Serum C4 and FGF-19** may be practical alternatives but **require further clinical validation** before they can stand alone.
+| Test | Result that suggests bile acid diarrhea | Availability | Notes |
+|---|---|---|---|
+| **SeHCAT retention** | Retention below the study-defined threshold | Used in **Europe**; **not available in North America** | Nuclear-medicine test, **moderate diagnostic efficiency**; the most common test where it exists. ACG cites a "predefined threshold" but states no % retention cut-off |
+| **48-hour total fecal bile acids** | Increased fecal bile acids | Available in the **United States** | **Reasonable diagnostic yield** compared with SeHCAT retention — the practical first test where SeHCAT is unavailable. Higher stool bile acids also predicted higher stool wet weight (healthy subjects vs IBS-D vs IBS-C) |
+| **Serum FGF-19** | **Low** FGF-19 | Available in the **United States** | Measures defective feedback of bile acid synthesis; **further clinical validation required** before it stands alone |
+| **Serum 7α-hydroxy-4-cholesten-3-one (C4)** | **High** C4 | **Now available at some institutions** (ACG 2020); AGA 2019 called it "a test that is not yet available" | Marker of bile acid synthesis; higher in IBS-D than constipation-predominant IBS (IBS-C) and healthy subjects, and correlates with stool bile acids. **Further clinical validation required** |
+| **Empiric bile acid binder trial** | Symptom response | — | Reasonable because no assay is widely available or Food and Drug Administration approved; response supports excess bile acids as the cause (see [[#Therapeutics]]) |
+
+*Rows from [[acg-2020-ibs]], [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]] and [[aga-2018-functional-gi-symptoms-ibd]].*
+
+- **No numeric cut-off is printed for any of these assays** — not SeHCAT % retention, serum C4, FGF-19 or 48-hour fecal bile acid excretion. Interpret each against the performing laboratory's reference range.
 
 ## Therapeutics
 
 **ACG recommendation (verbatim):** *"We do not suggest the use of bile acid sequestrants to treat global IBS-D symptoms."* **Conditional recommendation; very low level of evidence.** [[acg-2020-ibs]]
 
-- **Read the recommendation precisely:** it addresses **global IBS-D symptoms**, not patients with documented BAM. ACG's own commentary is that, absent widely accessible and reliable testing and controlled trials, **use of these agents "should be at the discretion of the clinician,"** and empiric sequestrant therapy is reasonable when BAM is suspected.
+> [!pitfall] "Against sequestrants" applies to global IBS-D symptoms
+> The recommendation is about treating **global IBS-D symptoms** — not the patient in whom BAM is suspected or documented, for whom an empiric sequestrant trial is reasonable. Absent widely accessible, reliable testing and controlled trials, use of these agents **"should be at the discretion of the clinician"** ([[acg-2020-ibs]]).
+
+- **Empiric trial, when testing is unavailable:** a bile acid sequestrant — **cholestyramine, colesevelam or colestipol** — for a **minimum of 4 weeks**. [[rome-v-2026-bowel-disorders]]
 
 | Agent | Dose in the cited study | Result |
 |---|---|---|
@@ -90,10 +106,9 @@ All rows from [[acg-2020-ibs]].
 | **Colesevelam** | **1,875 mg daily**, open-label, n = 12 | Increased bile acid retrieval from stool; **modest reduction in Bristol Stool Score (P = 0.043)** |
 | **Cholestyramine** | Dose not stated in the guidelines | Named (with colesevelam) as a **bile salt–binding agent** among the drugs used to manage diarrhea in [[fecal-incontinence\|fecal incontinence with diarrhea]] [[acg-2021-anorectal-disorders]] |
 
-- **In ostomates:** bile acid diarrhea is treated as one of the reversible causes of chronic high ostomy output — evaluate for it before escalating antimotility/antisecretory therapy (see [[ostomy-management]]). [[aga-2023-ostomies]]
+- **In ostomates:** bile acid diarrhea is one of the causes of chronic high ostomy output to identify before escalating antimotility/antisecretory therapy. [[aga-2023-ostomies]]
 - **Evidence quality caveat:** the sequestrant data above are **open-label, single-centre, and small**; ACG explicitly calls for methodologically rigorous, adequately powered trials.
-
-> Sequestrant **dosing and titration for bile acid diarrhea itself**, duration of therapy, monitoring (fat-soluble vitamins), and drug-interaction spacing are not covered by these guidelines.
+- **No sequestrant dose, titration schedule or monitoring plan for bile acid diarrhea itself** — and no drug-interaction spacing interval — is given in the sources below; the only printed doses are the trial doses in the table.
 
 ## See Also
 
@@ -103,8 +118,10 @@ All rows from [[acg-2020-ibs]].
 
 ## Sources
 
-1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
-2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
-3. [[aga-2023-epi|AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review]]
-4. [[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies]]
-5. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]
+1. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome]]
+2. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
+3. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+4. [[aga-2023-epi|AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review]]
+5. [[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies]]
+6. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]
+7. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
