@@ -7,7 +7,6 @@ updated: 2026-11-17
 verified: 2026-11-17
 sources: []
 raw: "GI Guidelines/EASL/EASL 2018 Hepatitis E Virus Infection CPG.pdf"
-ingest: partial
 ---
 
 ## Bibliographic Info

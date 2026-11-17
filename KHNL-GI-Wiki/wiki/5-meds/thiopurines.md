@@ -3,7 +3,7 @@ title: "Thiopurines (Azathioprine, 6-Mercaptopurine)"
 category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
-updated: 2026-11-15
+updated: 2026-11-17
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2017-tdm-ibd, aga-2017-tdm-ibd-technical-review, easl-2025-autoimmune-hepatitis, global-consensus-2025-pregnancy-ibd, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -99,7 +99,7 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 | 6-MMP disproportionately raised | — | **do not escalate** → allopurinol manoeuvre below |
 | 6-TGN above cut-off **with** high 6-MMP | — | find another cause before reducing the thiopurine — Epstein-Barr virus, cytomegalovirus, corticosteroid-related steatohepatitis, supplement-related [[drug-induced-liver-injury\|drug-induced liver injury]] |
 
-- The AIH window's lower bound (225) and the IBD monotherapy target (230) differ only trivially. [[aasld-2020-autoimmune-hepatitis]] gave a **lower** AIH target of **100–300 pmol/8×10⁸ RBCs**; EASL 2025 is newer and supersedes it.
+- The AIH window's lower bound (225) and the IBD monotherapy target (230) differ only trivially. [[aasld-2020-autoimmune-hepatitis]] gave **100–300 pmol/8×10⁸ RBCs** for **children** with AIH only, and called routine 6-TGN measurement in unselected patients of limited value; EASL 2025 is newer and sets the adult window.
 
 > [!howto] Allopurinol manoeuvre for a shunter
 > 1. Confirm adherence, and a disproportionately raised 6-MMP on the metabolite panel.

@@ -196,7 +196,7 @@ Both definitions additionally require **no previously recognized liver disease**
 | **Intolerance** | Any adverse event attributable to the regimen that leads to drug cessation |
 
 - Before calling insufficient response, confirm the patient actually had **predniso(lo)ne ≥0.5 mg/kg/day starting dose with maintenance up to 10 mg/day plus an adequately dosed immunomodulator**, and confirm adherence
-- CBR within 6 months is an independent predictor of favourable outcome, but **17% who miss it at 6 months reach it at 12 months with the same prognostic benefit** — hence the 6–12-month window
+- CBR within 6 months is an independent predictor of favourable outcome, but **17% who miss it at 6 months reach it at 12 months, and this also had prognostic significance** — hence the 6–12-month window
 - EASL flags the 4-week non-response cut-off as probably too early (a **≥80% fall at 8 weeks** predicted normalisation at 6 and 12 months better)
 
 ### Classification / Typing
@@ -350,7 +350,7 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 | **>223** | low | No change |
 
 - Therapeutic window **6-TGN 225–450 pmol/8×10⁸ erythrocytes**; "appropriately low" 6-MMP is **<5,700 pmol/0.2 ml**
-- ⚠ **This supersedes the AASLD 6-TGN target of 100–300 pmol/8×10⁸ RBCs** — same analyte, different band
+- ⚠ **AASLD 2020 gave 100–300 pmol/8×10⁸ RBCs for children only** (routine 6-TGN in unselected patients: limited value) — EASL 2025's window is newer and governs
 - Insufficient response occurs in **22–68% on first-line AZA, 3–28% on first-line MMF**
 - **Try MMF before third-line therapy** after AZA optimisation fails (*LoE 2, weak*) — it rescues **32–68%**. Conversely, insufficient response to first-line MMF → **switch to a thiopurine** before escalating
 - Repeated relapses on adequate, adhered-to maintenance also count as insufficient response
@@ -364,7 +364,7 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 | Infliximab ([[anti-tnf-agents\|anti-TNF]]) | 5 mg/kg at weeks 0, 2, 6, 10 → 5 mg/kg every 4–8 weeks |
 | Belimumab | 10 mg/kg on days 0, 14, 28, then every 1–2 months |
 
-⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] treats tacrolimus as a co-equal second-line agent (trough 1–10 ng/mL) alongside MMF.** EASL 2025 moves it to third line behind MMF and AZA optimisation, with a tighter trough. Both agree the second-line agents work far better for *intolerance* than for *treatment failure*.
+⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] lists tacrolimus as a second-line option but suggests MMF over tacrolimus as the initial second-line agent (Rec 4, conditional, very low certainty).** EASL 2025 moves it to third line behind MMF and AZA optimisation (Table 11 trough 6 ng/ml; AASLD set no trough target — published regimens used 1–10 ng/mL). Both agree the second-line agents work far better for *intolerance* than for *treatment failure*.
 
 ⚠ **MMF is teratogenic — withdraw ≥3 months before conception** (*LoE 2, strong*), longer than [[aasld-2020-autoimmune-hepatitis|AASLD 2020]]'s negative pregnancy test within 1 week of starting plus contraception from 4 weeks before to 6 weeks after; **follow the longer EASL interval**. Counselling, contraception and the transplant figures: [[mycophenolate-mofetil#Teratogenicity and Contraception]].
 

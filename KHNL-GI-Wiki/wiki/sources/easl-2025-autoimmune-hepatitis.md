@@ -4,6 +4,7 @@ category: source
 tags: [autoimmune-hepatitis, aih, easl, predniso-lone, azathioprine, mycophenolate-mofetil, budesonide, tacrolimus, paediatric, pregnancy, acute-severe-aih, di-alh, variant-syndromes, cirrhosis, liver-transplantation]
 created: 2026-11-15
 updated: 2026-11-17
+verified: 2026-11-17
 sources: []
 raw: "GI Guidelines/EASL/EASL 2025 Autoimmune Hepatitis.pdf"
 ingest: partial
@@ -65,7 +66,7 @@ The European Association for the Study of the Liver (EASL) update of its 2015 au
 
 Three practice-changing positions distinguish it from earlier guidance. **Mycophenolate mofetil (MMF) is promoted to a first-line alternative to azathioprine** on the strength of the CAMARO randomised-controlled trial (RCT) (complete biochemical response [CBR] at 6 months 72.2% vs 32.3%; p = 0.004) and real-world cohorts. **Budesonide is removed from first-line therapy** and is contraindicated in cirrhosis, retained only as a switch option for predniso(lo)ne-dependent non-cirrhotic patients. **Response is defined by the International Autoimmune Hepatitis Group (IAIHG) endpoint set** — CBR = normalisation of aminotransferases *and* immunoglobulin class G (IgG) no later than 6–12 months; insufficient response, non-response, histological remission and intolerance each get an explicit definition.
 
-The document also drops autoantibody subtyping of adult AIH as clinically unhelpful, makes liver biopsy a requirement for diagnosis (reported by the 2022 International AIH Pathology Group [IAHPG] categories *likely / possible / unlikely*), and offers a pragmatic compromise on biopsy before treatment withdrawal — generally desirable, mandatory in nobody, but recommended at least in patients with cirrhosis, and not justified when the patient has already decided to stop regardless of the result.
+The document also drops autoantibody subtyping of adult AIH as clinically unhelpful, makes liver biopsy a requirement for diagnosis (reported by the 2022 International AIH Pathology Group [IAHPG] categories *likely / possible / unlikely*), and offers a pragmatic compromise on biopsy before treatment withdrawal — generally desirable (no clear positive or negative recommendation can be given), with biopsy before a trial of withdrawal "a wise compromise" at least in patients with cirrhosis, and not justified when the patient has already decided to stop regardless of the result.
 
 Beyond the core pathway it gives operative detail on thiopurine metabolite-guided dose optimisation, third-line rescue dosing (tacrolimus, infliximab, rituximab, belimumab), pregnancy, acute severe AIH, drug-induced autoimmune-like hepatitis (DI-ALH), decompensated cirrhosis, paediatric dosing, and post-LT recurrence and plasma cell-rich rejection hepatitis.
 
@@ -267,7 +268,7 @@ Levels 1–2 ≈ "further research is unlikely to change our confidence in the e
 - **Direct evaluation (discussion with an LT centre) for LT** in acute severe AIH **with ALF or ACLF**, where corticosteroid data are very limited and outcomes poor (*LoE 3, strong recommendation, strong consensus*).
 - If corticosteroids are given with ALF/ACLF, **strict surveillance for infection and close monitoring of efficacy** (*LoE 2, strong recommendation, strong consensus*).
 
-**Supporting detail:** acute severe AIH = icteric, **INR ≥1.5 but <2**, no hepatic encephalopathy, no chronic lesions on biopsy. Corticosteroid response in ALF/ACLF is only **8–41%**; transplant-free survival in acute severe AIH without ALF is **52–95.2%**. Most published patients received **1 mg/kg/day IV**, but **0.5 mg/kg/day is the pragmatic starting dose**, balancing response against infection risk at 1 mg/kg/day. Predictors of corticosteroid non-response include age, ascites, hepatic encephalopathy, INR, model for end-stage liver disease (MELD), organ failure, and the day 0–3 and day 0–7 deltas; the **SURFASA score** [6.80 + 1.92×(D0-INR) + 1.94×(Δ%3-INR) + 1.64×(Δ%3-bilirubin)] identifies a **>1.75** group with an 85–100% risk of death or transplantation.
+**Supporting detail:** acute severe AIH = icteric, **INR ≥1.5 but <2**, no hepatic encephalopathy, no chronic lesions on biopsy. Corticosteroid response in ALF/ACLF is only **8–41%**; transplant-free survival in acute severe AIH without ALF is **52–95.2%**. Most published patients received **1 mg/kg/day IV**, but **0.5 mg/kg/day is the pragmatic starting dose**, balancing response against infection risk at 1 mg/kg/day. Predictors of corticosteroid non-response include age, ascites, hepatic encephalopathy, INR, model for end-stage liver disease (MELD), organ failure, and the day 0–3 and day 0–7 deltas; the **SURFASA score** (as EASL prints it; the derivation paper [[de-martin-2021-surfasa-acute-severe-aih|de Martin 2021]] prints the constant as **−6.80**) [6.80 + 1.92×(D0-INR) + 1.94×(Δ%3-INR) + 1.64×(Δ%3-bilirubin)] identifies a **>1.75** group with an 85–100% risk of death or transplantation.
 
 ### DI-ALH Treatment
 
@@ -346,7 +347,7 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 
 ### Complications of Cirrhosis
 
-- **Upper gastrointestinal (GI) endoscopy to screen for varices needing treatment (VNT)** in AIH-related cirrhosis with **LSM ≥20 kPa or platelet count ≤150 × 10⁹/L** (*LoE 3, strong recommendation, strong consensus*).
+- **Upper gastrointestinal (GI) endoscopy to screen for varices needing treatment (VNT)** in AIH-related cirrhosis with **LSM ≥20 kPa or platelet count ≤150 × 10⁹/L** (*LoE 3, strong recommendation, strong consensus*). The guideline prints the platelet unit as ×10⁹/µl here and in the Baveno VII cut-offs below; ×10⁹/L is meant.
 - Patients with **lower LSM but indirect signs of portal hypertension** (splenomegaly, increased portal diameter, collateral veins) should also undergo screening endoscopy (*LoE 3, strong recommendation, strong consensus*).
 - Although HCC prevalence is lower than in other aetiologies, **AIH-related cirrhosis should be screened for HCC with liver ultrasound ± alpha-fetoprotein every 6 months** (*LoE 3, strong recommendation, strong consensus*).
 - HCC management in AIH should follow **specific HCC guidelines** (*LoE 2, strong recommendation, strong consensus*).
@@ -401,7 +402,7 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 ## Key Findings / Claims
 
 - **MMF enters first line.** CAMARO (multicentre, prospective, open-label superiority RCT, NCT02900443) in treatment-naive AIH: CBR at 6 months **72.2% MMF vs 32.3% azathioprine (p = 0.004)**, severe adverse events 0% vs 12.9% (p = 0.03), withdrawal 5.1% vs 25.8%.
-- **CBR = normalisation of aminotransferases and IgG no later than 6–12 months.** The IAIHG 6-month definition is retained but the window is extended, because 17% of patients not in CBR at 6 months reached it at 12 months with the same prognostic benefit.
+- **CBR = normalisation of aminotransferases and IgG no later than 6–12 months.** The IAIHG 6-month definition is retained but the window is extended, because 17% of patients not in CBR at 6 months reached it at 12 months, and this also had prognostic significance.
 - **Non-response = <50% fall in aminotransferases from baseline at 4 weeks**; the guideline flags that this cut-off may be too early, since a ≥80% fall at 8 weeks predicted normalisation at 6 and 12 months.
 - **Histological remission = mHAI <4/18**; intolerance = any adverse event leading to drug cessation.
 - **Autoantibody subtyping of adult AIH is abandoned** — type 1 / type 2 / type 3 do not predict severity, response or prognosis; the largest paediatric cohort showed anti-LKM1-positive children behave like AIH-1.
@@ -410,7 +411,7 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 - Autoantibodies are detected in **>95%** when testing adheres to guideline methods; ANA/SMA account for 60–70%, anti-SLA/LP 10–20%, anti-LKM1/anti-LC1 40–50% of paediatric cohorts.
 - IgG is elevated in **85–95%** of patients overall but only **25–39%** of acute presentations; patients with normal IgG at diagnosis are **more** likely to stay in remission after withdrawal.
 - **HCC in AIH is uncommon** — 1.44 cases/1,000 patient-years, prevalence 1.7% across 1,428 IAIHG registry patients, but cumulative incidence after cirrhosis reaches 6.6% at 20 years.
-- About **one third** of adults and 20–33% of adults and children have advanced liver disease at diagnosis.
+- About **one third** of patients have cirrhosis at diagnosis; 20–33% of adults and children have advanced liver disease.
 - Untreated AIH mortality ≈55% over 30–72 months; AIH presenting as ALF has a 21-day transplant-free survival of only 14.5–20%.
 
 ---
@@ -436,14 +437,13 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 |---|---|---|
 | Budesonide | Equivalent **first-line** alternative with azathioprine in non-cirrhotic patients (meta-analysis OR 2.19 for biochemical remission) | **Not recommended first line**; contraindicated in cirrhosis; only a switch option for predniso(lo)ne-dependent non-cirrhotic patients |
 | MMF | **Second-line** only, for treatment failure/intolerance | **First-line alternative to azathioprine** (1.5–2 g/day), on CAMARO |
-| Induction steroid dose | Prednisone 40–60 mg/day alone, or **20–40 mg/day with azathioprine** | **≥0.5 mg/kg/day, up to 1 mg/kg/day** in severe/advanced disease, always combined |
+| Induction steroid dose | Prednisone 40–60 mg/day alone, or **20–40 mg/day with azathioprine** | **≥0.5 mg/kg/day, up to 1 mg/kg/day** in severe/advanced disease; first-line induction is predniso(lo)ne alone or with azathioprine |
 | Remission definition | Normalisation of AST, ALT **and** IgG; no fixed deadline, speed emphasised | **CBR** = the same normalisation **no later than 6–12 months**, with explicit insufficient-response, non-response and histological-remission definitions |
-| Biopsy for diagnosis | Supports diagnosis, central to scoring | **Required** to establish the diagnosis |
 | Biopsy before withdrawal | Preferred, not mandatory in adults; strongly advised in children | No general recommendation either way; **advised at least in cirrhosis**, and **not justified** if the patient will stop regardless; children — ESPGHAN reaffirms biopsy |
 | Withdrawal prerequisite | Normal AST/ALT/IgG for **≥2 years** on immunosuppression | Stable CBR for **≥2 years on low-dose monotherapy**, with total treatment ≥4 years |
 | Autoantibody subtyping | Type 1 / type 2 framework used throughout | **Not recommended in adults** — does not change management |
-| Tacrolimus | Co-equal second-line with MMF (trough 1–10 ng/mL) | **Third-line rescue** in expert centres (trough 6 ng/ml), after MMF and azathioprine optimisation |
-| 6-TGN target | 100–300 pmol/8×10⁸ RBC | Therapeutic window **225–450 pmol/8×10⁸**, action cut-off **223** |
+| Tacrolimus | Second-line option, but **MMF suggested over tacrolimus** as the initial second-line agent (Rec 4, conditional, very low certainty) | **Third-line rescue** in expert centres (trough 6 ng/ml), after MMF and azathioprine optimisation |
+| 6-TGN target | **Children:** titrated to 100–300 pmol/8×10⁸ RBC; in unselected patients routine 6-TGN measurement has had limited value | Therapeutic window **225–450 pmol/8×10⁸**, action cut-off **223** |
 | Acute severe AIH steroid dose | Prednis(ol)one **0.5–1 mg/kg/day** monotherapy, reassess at 1–2 weeks | Same dose range but **0.5 mg/kg/day pragmatically preferred**, and **reassess at 3–7 days** before LT referral |
 | Emperipolesis/rosettes | Part of "typical" histology in the simplified score | **No longer typical features**; report only as severity surrogates |
 | AIH recurrence after LT | **8–12% within the first year; 36–68% after 5 years** | **17–42% overall**; IAIHG multicentre cohort **20% at 5 years, 31% at 10 years** |
@@ -453,7 +453,7 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 **Open questions raised by the guideline itself:**
 
 - Whether **IgG normalisation belongs in the CBR definition** at all — unpublished data suggest prognosis stays excellent with normal aminotransferases and elevated IgG, but the panel keeps IgG for now.
-- Whether the **4-week non-response cut-off** is too early (in a retrospective study — 370-patient discovery and 370-patient validation cohorts — an aminotransferase reduction of >80% from baseline after 8 weeks was associated with AST/ALT normalisation at 6 and 12 months and better outcomes).
+- Whether the **4-week non-response cut-off** is too early (in a retrospective study — 370-patient discovery and 370-patient validation cohorts — an aminotransferase reduction of ≥80% from baseline after 8 weeks was associated with AST/ALT normalisation at 6 and 12 months and better outcomes).
 - Whether **Baveno VII LSM and platelet cut-offs** can be extrapolated to AIH — up to 52% of AIH patients with clear portal hypertension fell below them.
 - Whether **6-monthly HCC surveillance is cost-effective** in AIH cirrhosis, where annual risk sits below the 0.5%/year threshold.
 - Whether liver **biopsy before withdrawal** is more reliable than AST/ALT and IgG — strong prospective evidence is absent.
