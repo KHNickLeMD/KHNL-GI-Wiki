@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-17] update | Card pass — dedup, 13 pages carded, 5-file quality review
+
+**Dedup:** `anki-dupes.mjs` offered 3 candidate pairs; all 3 judged **distinct** and marked (ustekinumab vs vedolizumab in-utero clearance — different drugs and intervals; gastric-polyp dysplasia surveillance vs nonvisible gastric dysplasia after second-look; ACG 2025 dysplastic-GPMC repeat endoscopy vs AGA 2025 post-second-look intervals — different guidelines, different numbers, different decision points). No merges. Queue now empty at ≥0.4.
+
+**Cards written / pages closed (13):**
+
+- `[[antibiotic-prophylaxis-cirrhosis]]`, `[[eus-guided-biliary-drainage]]`, `[[cholangiocarcinoma]]`, `[[liver-transplantation]]`, `[[liver-disease-in-pregnancy]]`, `[[mast-cell-activation-syndrome]]`, `[[gastrointestinal-stromal-tumor]]` — nothing new owned here; the page changes were already carded on the owner page or were editorial. `page_updated` bumped, no new notes.
+- `[[ercp]]` — ESGE 2026 returns **Billroth II** to conventional ERCP with a front- or side-viewing endoscope (EUS-assisted techniques on failure; conditional, moderate): new note. The ASGE 2024 note making enteroscopy-assisted ERCP the initial approach for *all* non-bypass anatomy is superseded by the etiology-split rule — retired into `[[eus-guided-biliary-drainage]]`, which gained `{also:ercp}`.
+- `[[biliary-stricture]]` — the post-transplant anastomotic stent note taught ASGE 2023's fixed 3–6-month covered-stent dwell, which ESGE 2026 supersedes; rewritten to *either plastic or temporary covered metal, metal only >2 cm distal to the hepatic confluence*. New note on the nonanastomotic (ischemic) stricture program and the two patterns that go to retransplantation.
+- `[[autoimmune-hepatitis]]` — two EASL 2025 post-transplant notes: maintenance low-dose predniso(lo)ne + calcineurin inhibitor to hold recurrence down, and **plasma cell-rich rejection hepatitis** (raised IgG and autoantibodies not required).
+- `[[ibd-in-pregnancy]]` — S1P modulator washouts before conception (ozanimod ≥3 months, etrasimod ≥1–2 weeks) and the no-breastfeeding rule.
+- `[[cirrhosis-hemostasis]]` — 7 notes had dead `at:` anchors after the page was restructured; all repointed. New note on who may reasonably forgo anticoagulation for atrial fibrillation.
+- `[[bile-acid-diarrhea]]` — AGA 2019 recommendation 6 (test for it in chronic diarrhea) carded; test-availability table added as Back Extra.
+- `[[drug-induced-liver-injury]]`, `[[portal-hypertensive-gastropathy]]` — existing notes corrected against the re-reviewed pages (6-month relapse-free window for DI-ALH; the Baveno III score floor of 3).
+
+**Card quality review (5 files):**
+
+- `nutrition-in-hospitalized-patients` — 15 → 14 notes; refeeding risk features merged into the refeeding ramp note; caloric/protein anchor repointed; 2 Back Extra tables (risk-score bands, formula selection).
+- `rectal-prolapse` — 14 → 13; the soft outcome-predictor list cut; the associations note recut so it tests what to ask about, with the frequency table in Back Extra; 3 tables added; one anchor repointed.
+- `helicobacter-pylori-infection` — 14 notes all verified against the page; first-line regimen table added as Back Extra (the frequency column is the decision — three of the four regimens are not b.i.d. throughout).
+- `colonoscopy` — **6 orphaned notes** found: their facts are not on the colonoscopy page at all. Post-resection CRC surveillance, obstructing-CRC clearing and rectal-cancer local surveillance moved to `[[colorectal-cancer]]`; indigo carmine concentrations moved to `[[ulcerative-colitis]]` (its page is the stated home); the EMR muscularis-propria habits moved to `[[endoscopic-management-of-perforation]]`; a duplicate dye-spray note merged. 14 → 8 notes here, 5 added elsewhere.
+- `upper-endoscopy` — 14 → 12; the Sydney-System distances note deleted the table the keeper already prints in Back Extra (merged), and the two dyspepsia-biopsy notes merged into one table-backed note covering both immune states.
+
+**Build:** 4,748 notes. Problems 33 → 9, all of them the known `cards stale` backlog on pages this pass did not reach (rectovaginal-fistula, giardiasis, rotavirus, cowden-syndrome, small-bowel-obstruction, acute-diarrhea, hiv-aids-related-diarrhea, confocal-laser-endomicroscopy, endoscopy-credentialing-and-privileging). Nothing committed or pushed.
+
+---
+
 ## [2026-11-17] lint | Quality review sweep — release pass
 
 **Scope:** *Quality review — release sweep* only (its own cron step, not paused by backlog mode). Queue from `review-queue.py --pages 10`, worked from the top, one subagent per page. Per page: decision sufficiency and source fidelity against the tier-1 raw sources first, then visuals where the source supports them (accuracy outranks visuals — no figure where a needed value, unit, denominator or branch condition is missing), then concision, callouts, consistent organization, abbreviations. No ingest, no new pages.
