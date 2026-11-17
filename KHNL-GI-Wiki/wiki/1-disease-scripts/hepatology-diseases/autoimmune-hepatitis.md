@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-16
+updated: 2026-11-17
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-2025-autoimmune-hepatitis, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
 ---
 
@@ -214,7 +214,7 @@ Both definitions additionally require **no previously recognized liver disease**
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- [[drug-induced-liver-injury]] — drug-induced liver injury (DILI)/drug-induced AIH (DIAIH) can mimic AIH; DIAIH may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], alpha-methyldopa, halothane, dihydralazine
+- [[drug-induced-liver-injury]] — drug-induced liver injury (DILI) with an autoimmune phenotype is **DI-ALH, not AIH**; it is separated from AIH by treatment response and course, not by serology or biopsy. Diagnostic criteria, the drug-withdrawal-then-steroid pathway and the differential-diagnosis algorithm: [[drug-induced-liver-injury#Drug-Induced Autoimmune-Like Hepatitis (DI-ALH)|DI-ALH]]. Culprits include nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], hydralazine, methyldopa, interferon, imatinib, statins and dietary supplements
 - [[alcohol-associated-liver-disease]] — AST:ALT ratio ≥2:1; gamma-glutamyltransferase (GGT) elevated; history of significant alcohol use
 - [[wilson-disease]] — young patient (<40 years); Kayser-Fleischer rings; low ceruloplasmin; elevated 24h urine copper; may cause acute hepatitis mimicking AIH
 - Viral hepatitis ([[chronic-hepatitis-b|hepatitis B virus (HBV)]], hepatitis C virus (HCV), hepatitis E virus [HEV]) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
@@ -284,7 +284,7 @@ Both definitions additionally require **no previously recognized liver disease**
 |---|---|---|---|
 | **Predniso(lo)ne** | **≥0.5 mg/kg/day**; **up to 1 mg/kg/day** in more severe or advanced disease | Taper by response | Higher dose = higher response but more adverse events (meta-analysis, 25 studies, 3,305 patients) |
 | **[[thiopurines\|Azathioprine]] (AZA)** | **50 mg/day** | **1–2 mg/kg/day** (reached ~week 4) | Add **only when bilirubin <6 mg/dl**, ideally **2 weeks after** the steroid — avoids confusing non-response with AZA hepatotoxicity. **Never as monotherapy for induction** (high mortality). Avoid in acute severe AIH and decompensated cirrhosis; caution in TPMT deficiency, pregnancy, cytopenias, malignancy |
-| **[[mycophenolate-mofetil\|MMF]]** | Started with the steroid | **1.5–2 g/day** | **Teratogenic — counsel women *and* men.** Titration schedule, contraception rules and drug monitoring: [[mycophenolate-mofetil]] |
+| **[[mycophenolate-mofetil\|MMF]]** | **1,000 mg/day**, started with the steroid on day 1 | **1.5–2 g/day** (0.75–1 g twice daily), reached at **week 2** | **Teratogenic — counsel women *and* men.** Contraception rules and drug monitoring: [[mycophenolate-mofetil]] |
 
 - **Tapering is individualised to CBR status** (*LoE 4, strong*). Rapid taper (**5–10 mg every 1–2 weeks**) is desirable but must follow response; the trial-mirrored schedule reaches ~5 mg/day by week 24 in an 80-kg index case
 - Check **ALT and IgG at weeks 4, 12 and 24** as the efficacy parameters
@@ -410,7 +410,7 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 
 **EASL 2025 criteria** [[easl-2025-autoimmune-hepatitis]]: most patients need **long-term, often lifelong** immunosuppression (*LoE 2, strong*). Attempt withdrawal only if **low-dose monotherapy has held stable CBR for ≥2 years** (*LoE 2, strong*), with total treatment ≥4 years. Reduce **stepwise** — flares during reduction are frequent (*LoE 3, strong*). **Patient priorities belong in the decision** (*LoE 5, strong*).
 
-- **Favourable predictors:** aminotransferases in the *lower* range of normal (**ALT below half the ULN**), **IgG <12 g/L (<1,200 mg/dl)**, CBR ≥24 months, treatment ≥4 years, no prior relapse, **anti-SLA/LP negative**
+- **Favourable predictors:** aminotransferases in the *lower* range of normal (**ALT below half the ULN**), **IgG <12 g/L (<1,200 mg/dl)**, CBR ≥24 months, **CBR attained quickly (e.g. <6 months)**, treatment ≥4 years, no prior relapse, **anti-SLA/LP negative**, **no cirrhosis and no extrahepatic autoimmunity**, and a DI-ALH or virus-associated aetiology
 - **Monotherapy first** — patients withdrawn from dual therapy relapsed **twice as often** in the first year
 - **Biopsy before withdrawal: no general recommendation either way.** EASL advises it **at least in cirrhosis** (AST and IgG can be normal while histology shows interface activity); if the patient will stop regardless of the result, **biopsy is not justified** — use serial elastography instead
 - **Real-world taper:** corticosteroids off over **6–8 weeks to 3–4 months**; the immunomodulator is stopped gradually or in one step
@@ -576,21 +576,29 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 
 ### Post-Liver Transplant AIH
 
-**Recurrent AIH:** [[aasld-2020-autoimmune-hepatitis]]
+**Outcomes after LT for AIH** ([[easl-2025-autoimmune-hepatitis]]): recipient survival **79% / 71% / 60%** and graft survival **73% / 63% / 60%** at 5 / 10 / 15 years; fatal infection and rejection are more frequent than after LT for other indications, and recurrence is a major cause of graft failure. AIH recipients also have more acute and chronic rejection (late acute rejection 9%; chronic rejection 14–17% vs 2% in alcohol-associated cirrhosis) [[aasld-2020-autoimmune-hepatitis]]
 
-- Incidence: **8–12% within the first year after LT; 36–68% after 5 years**
-- Diagnosis: rising AST/ALT/IgG + same autoantibodies as pre-LT AIH (ANA/SMA common, anti-LKM1 rare); histology is lobular hepatitis/focal necrosis/pseudorosettes early → interface hepatitis + lymphoplasmacytic infiltration late. May be detectable **only** on biopsy
-- Treatment: predniso(lo)ne **30 mg daily** + AZA 1–2 mg/kg daily, reducing predniso(lo)ne to 5–10 mg daily over 4–8 weeks, then predniso(lo)ne + AZA maintenance; continue the [[calcineurin-inhibitors|calcineurin inhibitor]]. Empiric rescue: swap AZA→MMF, switch calcineurin inhibitor, or rapamycin
-- Outcomes: 5-y patient survival 86–100%; graft failure 8–50%; retransplantation 33–60%; AIH recurs in the retransplanted liver in 33–100%
-- AIH recipients have more acute and chronic rejection than other indications (late acute rejection 9%; chronic rejection 14–17% vs 2% in alcohol-associated cirrhosis)
-- Gradual glucocorticoid withdrawal per center-specific protocol post-LT (Conditional, Very Low certainty)
+**Preventing recurrence:** **low-dose predniso(lo)ne plus a [[calcineurin-inhibitors|calcineurin inhibitor]] (mainly [[tacrolimus|tacrolimus]]) can be used as maintenance immunosuppression** (*LoE 4, weak*) — low immunosuppression levels and stopping corticosteroids after LT both raise recurrence, so weigh the recurrence benefit against long-term corticosteroid harm. Low-dose MMF on a tacrolimus backbone is a proposed alternative but is not validated. Gradual glucocorticoid withdrawal per centre protocol is the AASLD position (*Conditional, Very Low*). [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
 
-**De novo AIH post-LT:** [[aasld-2020-autoimmune-hepatitis]]
+**Recurrent AIH:** [[easl-2025-autoimmune-hepatitis]]
 
-- Definition: AIH arising in a patient transplanted for something **other than** AIH
-- Incidence: **1–7% of pediatric recipients**; **1–3% of adults** (≈4 cases per 1,000 patient-years)
-- The Banff group proposes **"plasma cell–rich rejection"** replace "plasma cell hepatitis" / "de novo AIH" for graft dysfunction >6 months post-LT with severe lymphocytic cholangitis, plasma cell–rich central perivenulitis, and portal microvascular C4d — described mainly in adult interferon-treated [[hepatitis-c|HCV]] recipients, which is what distinguishes adults from children here
-- Children: predniso(lo)ne 1–2 mg/kg (<60 mg daily) + AZA 1–2 mg/kg daily; otherwise managed as recurrent AIH. Biochemical remission 86%, retransplantation 8%, patient survival 95%
+- **Rate 17–42%**, varying with study size and whether biopsies were per-protocol or clinically indicated; the IAIHG multicentre cohort gives **20% at 5 years and 31% at 10 years**
+  - ⚠ **[[aasld-2020-autoimmune-hepatitis|AASLD 2020]] quotes 8–12% within the first year and 36–68% after 5 years** — this page carries the newer EASL figures
+- **Risk factors:** age at LT **≤42 years**, **[[mycophenolate-mofetil|MMF]] during the first year after LT** (longer use is not a risk factor), donor/recipient mismatch, donor/recipient cytomegalovirus status mismatch, high pre-LT IgG
+- **Diagnostic criteria are the same as in non-transplanted patients, but serology is unreliable after LT — base the diagnosis mainly on histology:** interface hepatitis with lymphocytic infiltrate ± plasma cells, and lobular hepatitis ± central vein endotheliitis, after excluding other causes of graft dysfunction
+- **Treat with predniso(lo)ne at the doses recommended for non-transplant AIH** (*LoE 4, strong*) — start it or increase the existing dose. AASLD's empiric schedule: predniso(lo)ne **30 mg daily** + AZA 1–2 mg/kg daily, reducing predniso(lo)ne to 5–10 mg daily over 4–8 weeks, then predniso(lo)ne + AZA maintenance; continue the calcineurin inhibitor [[aasld-2020-autoimmune-hepatitis]]
+- Outcomes: 5-y patient survival 86–100%; graft failure 8–50%; retransplantation 33–60%; AIH recurs in the retransplanted liver in 33–100% [[aasld-2020-autoimmune-hepatitis]]
+
+**Plasma cell-rich rejection hepatitis** — the Banff Working Group's 2016 name for what was called **"de novo AIH"**: AIH-like graft dysfunction in a patient transplanted for a liver disease **other than** AIH. [[easl-2025-autoimmune-hepatitis]]
+
+- **Consider it in late graft dysfunction** with liver enzyme abnormalities and AIH-like histology, **with or without IgG elevation and/or autoantibodies** (*LoE 3, strong*) — those serological features are not required for the diagnosis, which is what distinguishes it from the original paediatric "de novo AIH" descriptions
+- Occurs in **5–10% of children and 1–2% of adults** transplanted for other aetiologies, usually **>6 months after LT**
+  - ⚠ **AASLD 2020 gives 1–7% of paediatric and 1–3% of adult recipients** (≈4 cases per 1,000 patient-years); EASL's figures are used here
+- **Banff histological criteria — at least one of:**
+  1. Portal and/or perivenular **plasma cell-rich (>30%) infiltrates** with interface hepatitis and/or perivenular necroinflammatory activity involving the **majority** of portal tracts and/or terminal hepatic veins
+  2. **Lymphocytic cholangitis**
+- Risk factors: **female graft**, **older donors**, donor/recipient **glutathione-S-transferase T1 mismatch**
+- **Treat with predniso(lo)ne at classic AIH doses** plus adjustment of baseline immunosuppression, which may include adding [[thiopurines|azathioprine]] (*LoE 4, strong*). In children: predniso(lo)ne 1–2 mg/kg (<60 mg daily) + AZA 1–2 mg/kg daily — biochemical remission 86%, retransplantation 8%, patient survival 95% [[aasld-2020-autoimmune-hepatitis]]
 
 See [[liver-transplantation]] for broader post-LT context.
 

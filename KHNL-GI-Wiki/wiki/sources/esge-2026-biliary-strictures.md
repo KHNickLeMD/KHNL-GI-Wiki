@@ -5,7 +5,6 @@ tags: [biliary-stricture, ercp, eus, eus-bd, biliary-stent, fcsems, usems, plast
 created: 2026-11-15
 updated: 2026-11-15
 sources: []
-ingest: partial
 ---
 
 ## Bibliographic Info

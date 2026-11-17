@@ -3,7 +3,7 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-11-16
+updated: 2026-11-17
 sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction, esge-2026-biliary-strictures, acg-2023-biliary-strictures]
 ---
 
@@ -227,7 +227,7 @@ Drainage decisions (self-expanding metal stents [SEMS] vs plastic stents, sector
 - **Palliative: ERCP for Bismuth I–II.** For **Bismuth III–IV**, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD; complementary PTBD may still be required (conditional, very low).
 - **Stent choice: either a plastic stent or an uncovered SEMS** for proven malignant hilar obstruction (conditional, moderate) — **plastic while the optimal drainage strategy has not been defined**, **uncovered SEMS in expert centers** to reduce revisional procedures, judged on expected survival and the likelihood of achieving complete drainage. An uncovered SEMS is a **definitive** intervention: suboptimal initial drainage cannot easily be optimized afterwards.
 - ⚠ **Do not place an uncovered SEMS for extrahepatic obstruction of unconfirmed etiology** (conditional, low) — *rationale and the benign-resection rate: [[biliary-stricture]].*
-- ⚠ **Where this changed:** [[acg-2023-biliary-strictures|ACG 2023]] found insufficient evidence to prefer ERCP or PTBD for hilar drainage and set the target at >50% of nonatrophic volume; ESGE 2026 is the newer tier-1 source and governs the page.
+- ⚠ **Where this changed:** [[acg-2023-biliary-strictures|ACG 2023]] found insufficient evidence to prefer ERCP or PTBD for hilar drainage and set the target at >50% of nonatrophic volume. [[asge-2021-malignant-hilar-obstruction|ASGE 2021]] framed the same decision as **bilateral over unilateral stents when there is no lobar atrophy**, also at ≥50% of viable liver. ESGE 2026 is the newer tier-1 source and governs the page: the target is **volumetric and sectorial** — >50%, ideally ≥70% — **not simply unilateral vs bilateral**.
 
 ### Surveillance After Resection
 

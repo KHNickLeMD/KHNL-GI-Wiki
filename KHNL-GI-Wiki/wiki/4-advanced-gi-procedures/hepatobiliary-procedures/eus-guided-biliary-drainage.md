@@ -3,7 +3,7 @@ title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
 tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge, esge]
 created: 2026-10-06
-updated: 2026-11-15
+updated: 2026-11-17
 sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction, esge-2026-biliary-strictures]
 ---
 
@@ -177,8 +177,8 @@ PTBD is preferred over EUS-BD when ([[asge-2024-therapeutic-eus-biliary]]):
 
 - Patient is **hemodynamically unstable**.
 - Patient **cannot tolerate general anesthesia**.
-- **Malignancy is the suspected cause** of the obstruction.
 - **EUS-BD expertise or training is not available** — where interventional EUS personnel are unavailable, radiologically guided percutaneous intervention remains the appropriate option.
+- **EUS-BD has failed or is not feasible** ([[esge-2026-biliary-strictures]]).
 
 ASGE 2024 does not compare EUS-BD with **surgical biliary bypass** and makes no recommendation about it; it advises discussing drainage options with the surgical team before attempting EUS-BD in anyone who may require surgical intervention later.
 

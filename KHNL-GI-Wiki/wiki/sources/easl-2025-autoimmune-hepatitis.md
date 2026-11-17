@@ -3,7 +3,7 @@ title: "EASL Clinical Practice Guidelines on the management of autoimmune hepati
 category: source
 tags: [autoimmune-hepatitis, aih, easl, predniso-lone, azathioprine, mycophenolate-mofetil, budesonide, tacrolimus, paediatric, pregnancy, acute-severe-aih, di-alh, variant-syndromes, cirrhosis, liver-transplantation]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 sources: []
 ingest: partial
 ---
@@ -144,6 +144,8 @@ Levels 1–2 ≈ "further research is unlikely to change our confidence in the e
 - Differential diagnosis should include causes of liver disease appropriate to the presentation (acute hepatitis, chronic hepatitis, cirrhosis) **as well as extrahepatic entities such as coeliac disease and systemic lupus erythematosus (SLE)** (*LoE 1, strong recommendation, strong consensus*).
 - Drug-induced liver injury (DILI) with an **autoimmune phenotype** — autoantibodies, high IgG and/or histological evidence of autoimmunity — should be considered **possible DI-ALH** (*LoE 2, strong recommendation, strong consensus*).
 - Distinguish DI-ALH from AIH **by treatment response and disease course**: resolution after withdrawal of the implicated agent, with or without a short corticosteroid course, and **no relapse in the long term**, points to DI-ALH (*LoE 3, strong recommendation, strong consensus*).
+
+**Supporting detail:** clinical, biochemical, serological and histological features are otherwise indistinguishable; the only histological exception is advanced fibrosis/cirrhosis, less common in DI-ALH. No single serological biomarker exists. The guideline reports **Björnsson's five proposed criteria** (externally unvalidated): (1) a substance triggering liver injury with indicators of autoimmunity (elevation of any of ANA, SMA or IgG) and a biopsy compatible with AIH by the simplified criteria; (2) incomplete/no recovery or worsening of aminotransferases after drug cessation; (3) need for corticosteroids or spontaneous recovery; (4) no relapse for at least 6 months after corticosteroid withdrawal; (5) a drug potentially inducing DI-ALH with a chronic course. **The first four define probable DI-ALH; three suggest possible disease.** Fig. 2 gives the differential-diagnosis algorithm (redrawn on [[drug-induced-liver-injury]]).
 
 ### Indication to Treat
 
@@ -443,6 +445,8 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 | 6-TGN target | 100–300 pmol/8×10⁸ RBC | Therapeutic window **225–450 pmol/8×10⁸**, action cut-off **223** |
 | Acute severe AIH steroid dose | Prednis(ol)one **0.5–1 mg/kg/day** monotherapy, reassess at 1–2 weeks | Same dose range but **0.5 mg/kg/day pragmatically preferred**, and **reassess at 3–7 days** before LT referral |
 | Emperipolesis/rosettes | Part of "typical" histology in the simplified score | **No longer typical features**; report only as severity surrogates |
+| AIH recurrence after LT | **8–12% within the first year; 36–68% after 5 years** | **17–42% overall**; IAIHG multicentre cohort **20% at 5 years, 31% at 10 years** |
+| "De novo AIH" after LT | Term retained alongside the Banff proposal; **1–7% of paediatric and 1–3% of adult recipients** | Renamed **plasma cell-rich rejection hepatitis**; **5–10% of children and 1–2% of adults**, and IgG elevation/autoantibodies are **not required** for the diagnosis |
 | AIH–PBC variant criteria | Paris criteria table | Paris criteria described as "quite strict"; a newer unvalidated US score is noted; **a biopsy showing moderate/severe hepatitis is mandatory whichever score is used** — consistent with [[gerussi-2026-pbc-aih-delphi]], which also declines to endorse Paris |
 
 **Open questions raised by the guideline itself:**

@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-17
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -347,6 +347,10 @@ See also: [[autoimmune-hepatitis]]
 - Autoimmune hepatitis (AIH) associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
 - **Maintain corticosteroids and/or [[thiopurines|azathioprine (AZA)]] during pregnancy** (Rec 31 — strong, very low evidence); [[easl-2025-autoimmune-hepatitis|EASL 2025]] likewise continues thiopurine maintenance ± corticosteroids throughout pregnancy (strong)
 - AZA: pregnancy category D; however, [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] safety data (>3,000 pregnancies) show no increase in congenital abnormalities
+- **Flares: 13% during pregnancy, 41% postpartum at a median of 11 weeks after delivery** — postpartum flares require intensification of immunosuppression, so keep monitoring well past delivery. **Complete biochemical response (CBR) at conception and through pregnancy reduces both flares and prematurity** ([[easl-2025-autoimmune-hepatitis]])
+- **Obstetric risk in AIH** (meta-analysis, 14 studies, >1,400 patients; [[easl-2025-autoimmune-hepatitis]]): gestational diabetes odds ratio (OR) **2.84** (95% CI 1.78–4.54) · hypertensive complications (preeclampsia, eclampsia, HELLP) OR **2.22** (1.76–2.79) · premature birth OR **2.20** (1.66–2.91) · small for gestational age OR **2.48** (1.37–4.51) · low birth weight OR **3.04** (1.85–5.01). **Neonatal mortality, stillbirth and congenital malformations were not significantly increased**, independent of immunosuppression
+- **[[mycophenolate-mofetil|Mycophenolate mofetil (MMF)]] is teratogenic — withdraw it at least 3 months before conception** (strong), and **never use it for a first presentation of AIH in pregnancy** — use standard regimens **excluding MMF** (strong) ([[easl-2025-autoimmune-hepatitis]])
+- **AIH with [[cirrhosis]] in pregnancy → close monitoring by a multidisciplinary obstetric–hepatology team** (strong) ([[easl-2025-autoimmune-hepatitis]])
 - AIH may initially present during pregnancy; differential includes preeclampsia and AFLP
 - Corticosteroid monotherapy used for flare management (AZA historically limited in pregnancy, though evidence supports continuation)
 

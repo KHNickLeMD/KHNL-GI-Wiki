@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-11-15
+updated: 2026-11-17
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili, aasld-easl-2026-aclf-global-consensus, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -66,6 +66,15 @@ Neither [[acg-2021-dili]] nor [[aasld-2022-dili]] prints the Drug-Induced Liver 
 - Onset usually **within 3 months** of exposure; hypersensitivity features (eosinophilia, rash, fever) usually absent.
 - Apply the AIH diagnostic scores **with caution** in DI-ALH (strong) — likewise in acute AIH, variant syndromes and concurrent liver disease.
 - "Highly probable" culprits: minocycline, nitrofurantoin, hydralazine, methyldopa, interferon, imatinib, adalimumab, infliximab, statins, dietary supplements.
+- **Clinical, biochemical, serological and histological features are otherwise indistinguishable from AIH** — the one exception is advanced fibrosis/cirrhosis, which is *less* common in DI-ALH. No single serological biomarker establishes the diagnosis.
+
+**Björnsson criteria — five items; four or five = probable DI-ALH, three = possible** (not yet externally validated; [[easl-2025-autoimmune-hepatitis]]):
+
+1. A substance triggered the liver injury, with indicators of autoimmunity (elevation of **any** of antinuclear antibody [ANA], smooth muscle antibody [SMA] or IgG) **and** a liver biopsy compatible with AIH by the simplified criteria
+2. **Incomplete or no recovery, or worsening, of aminotransferases after the drug is stopped**
+3. **Need for corticosteroids, or spontaneous recovery**
+4. **No relapse for at least 6 months after corticosteroid withdrawal**
+5. The drug is one potentially inducing DI-ALH with a chronic course
 
 ---
 
@@ -173,6 +182,29 @@ All thresholds below are judged **despite having stopped the suspected offending
 3. **Predniso(lo)ne 0.5 mg/kg/day initially, then rapid taper to complete withdrawal within 1–2 months**
 
 - Corticosteroid benefit was clearest in severe cases meeting **nR-based Hy's law — ALT >3× ULN and total bilirubin >2× ULN** — without biochemical resolution within 30 days. Note these are different parameters from the ACG prognostic "nr Hy's law" under [[#Severity Assessment]].
+- **When the diagnosis is still open, biopsy is what settles it** — confirming AIH-like lesions histologically and excluding other entities. How soon to biopsy is a judgement call, driven by the severity of the ALT elevation.
+
+```mermaid
+flowchart TD
+    A(["Hepatitis with elevated IgG and/or serum autoantibodies"]) --> B["History of drugs, vaccines, supplements, herbals"]
+    B -- "No" --> C(["Autoimmune hepatitis — biopsy, and treat per guideline if histology is likely or possible AIH"])
+    B -- "Yes" --> D["Possible DI-ALH — stop the implicated substance and reassess"]
+    D -- "No improvement" --> E["Liver biopsy"]
+    E -- "Unlikely AIH (possible DILI)" --> F(["Continue drug cessation and monitor"])
+    E -- "Other disease" --> G(["Specific treatment"])
+    E -- "Likely or possible AIH" --> H["Start corticosteroids; once CBR, taper rapidly aiming to stop within 1-2 months"]
+    H -- "Relapse" --> I(["Definite AIH — restart treatment per guideline"])
+    H -- "Long-term remission" --> J(["DI-ALH — permanent avoidance of the agent"])
+    class A start
+    class B,D,E,H test
+    class C,F,I,J act
+    class G stop
+```
+
+*Separating drug-induced autoimmune-like hepatitis from autoimmune hepatitis*
+*Source: redrawn from the EASL 2025 differential-diagnosis algorithm for DI-ALH vs AIH*
+*[[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]*
+*IgG = immunoglobulin G · AIH = autoimmune hepatitis · DI-ALH = drug-induced autoimmune-like hepatitis · DILI = drug-induced liver injury · CBR = complete biochemical response*
 
 ### Rechallenge
 

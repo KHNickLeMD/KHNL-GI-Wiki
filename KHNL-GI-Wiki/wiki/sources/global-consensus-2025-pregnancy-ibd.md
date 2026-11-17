@@ -5,7 +5,6 @@ tags: [ibd, crohns, ulcerative-colitis, pregnancy, lactation, fertility, biologi
 created: 2026-11-15
 updated: 2026-11-15
 sources: []
-ingest: partial
 ---
 
 ## Bibliographic Info

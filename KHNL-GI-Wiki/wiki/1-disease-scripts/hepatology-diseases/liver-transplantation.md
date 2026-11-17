@@ -3,7 +3,7 @@ title: "Liver Transplantation — Candidacy and Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-11-16
+updated: 2026-11-17
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures, aasld-easl-2026-aclf-global-consensus, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -169,6 +169,7 @@ Stent choice, dwell times, MRCP accuracy, and periprocedural antibiotics: [[bili
 *Recreated from the non-anastomotic stricture section of the ESGE 2026 guideline*
 *[[esge-2026-biliary-strictures|ESGE 2026: Biliary Stricture Management]]*
 *MPS = multiple plastic stent*
+
 - **After Roux-en-Y hepaticojejunostomy:** **endoscopic drainage over percutaneous**, for its better safety profile — benign stricture → enteroscopy-assisted ERCP or [[eus-guided-biliary-drainage|endoscopic ultrasound (EUS)-guided biliary drainage]] (antegrade drainage or EUS-guided hepaticogastrostomy); malignant → EUS-guided biliary drainage with antegrade drainage or hepaticogastrostomy first-line; PTBD second-line for both ([[esge-2026-biliary-strictures]], conditional, low quality of evidence).
 - DCD recipients with persistent cholestasis (bilirubin **>2 mg/dL**), recurrent cholangitis, or refractory non-anastomotic strictures get increased waitlist priority.
 - Fluoroquinolones given around ERCP inhibit CYP3A4 → ↑ [[tacrolimus]] levels.

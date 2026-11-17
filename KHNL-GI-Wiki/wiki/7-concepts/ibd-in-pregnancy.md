@@ -3,7 +3,7 @@ title: "IBD in Pregnancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, pregnancy, preconception, fertility, lactation, breastfeeding, biologics, vaccines, delivery]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -127,19 +127,12 @@ sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 
 ### Drug-by-Drug
 
-- **Placental transfer.** Monoclonal antibodies **cannot passively cross during organogenesis (weeks 3–8)** but actively cross via Fc receptors **after week 14**, with **80% of transfer in the third trimester** — so infants are born with measurable drug but were unexposed during organogenesis. **Certolizumab is a Fab' fragment with no Fc portion → does not actively cross.** Small molecules diffuse across throughout, including during organogenesis — the reason JAKis and S1P modulators are the restricted classes.
-- **Dose stability.** Infliximab concentrations *rise* in later pregnancy on unchanged dosing → **keep pre-pregnancy dosing regardless of pregnancy weight gain**.
-- **Aminosalicylates.** Continue (Strong, low); no excess congenital malformations. Rectal 5-ASA is safe and effective; **current formulations no longer contain dibutyl phthalate**. **Sulfasalazine needs folic acid 2 mg/d**; mesalamine does not.
-- **Thiopurines.** Continue (Conditional, very low) — no excess malformations or infant infections. In late pregnancy metabolism shunts (6-methylmercaptopurine : 6-thioguanine nucleotide ratio rises) → **check metabolites and liver enzymes in trimesters 2–3**, and **trial split dosing** if shunting occurs. Linked to **[[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]]** (background 1.1%). **Allopurinol data are insufficient** to continue routinely.
-- **Corticosteroids.** Use when clinically necessary with monitoring (Conditional, low), but minimize — associated with gestational diabetes, preterm birth, low birth weight (LBW), small for gestational age (SGA) and neonatal intensive care unit (NICU) admission, and **late (2nd/3rd trimester) use with serious infant infections at 9 and 12 months**. Budesonide multimatrix **9 mg once daily** is an option in mild-moderate UC not responding to oral + topical 5-ASA (only 4 reported pregnancy cases).
-- **Methotrexate.** Stop **1–3 months before conception** (Strong per Table 1; the body text prints Conditional). **Exposure does not mandate termination** — counsel and continue folic acid, which lowers the relative risk of cardiac defects.
-- **Anti-TNF.** Continue throughout (Strong, low). Discontinuation raises postpartum disease activity (odds ratio 1.77) and relapse after 24 weeks' gestation (45.8% vs 30.6%), and may raise preterm birth. **No excess congenital malformations or infant infections** — preterm birth, not drug exposure, is the independent risk factor for infant infection; cord drug concentration does not correlate with infection.
-- **Combination anti-TNF + thiopurine.** Continue (Conditional, very low). One large database found **higher serious infection in the first year (adjusted hazard ratio 1.36)**; registry data did not. In established remission with adequate biologic troughs and no high-risk phenotype, **stepping down to anti-TNF monotherapy is a reasonable individualized option**.
-- **Vedolizumab.** Continue (Conditional, low). Transplacental transport is **less efficient** and clearance faster — **mean time to infant clearance ~3 months, 100% by 6 months**.
-- **Ustekinumab and the IL-23s.** Continue (ustekinumab Conditional/low; mirikizumab, risankizumab, guselkumab by consensus statement). Maternal ustekinumab concentrations stay stable; **infant clearance ~4–6 months**, correlating with delivery concentration.
-- **Biosimilars.** Continue — effectiveness, safety and pharmacokinetics are expected to mirror the originator.
-- **JAKis.** Relatively contraindicated. Stop **tofacitinib, upadacitinib and filgotinib ≥4 weeks before conception** unless no effective alternative maintains maternal health. Human signal is small (2 serious malformations in 55 tofacitinib-exposed live births; 1 in 21 filgotinib; 0 in 30 upadacitinib). **Women with no near-term conception plans should not be denied them.**
-- **S1P modulators.** Relatively contraindicated; animal teratogenicity. Stop **ozanimod ≥3 months** and **etrasimod ≥1–2 weeks** before conception unless no effective alternative exists.
+*Agent-level detail — grade of each recommendation, monitoring, infant clearance, lactation — on the drug page linked in the grid above.*
+
+- **Placental transfer.** Monoclonal antibodies **cannot passively cross during organogenesis (weeks 3–8)** but actively cross via Fc receptors **after week 14**, with **80% of transfer in the third trimester** — so infants are born with measurable drug but were unexposed during organogenesis. **Certolizumab is a Fab' fragment with no Fc portion → does not actively cross**; natalizumab and mirikizumab have an immunoglobulin G4 backbone and transfer less efficiently than the other (immunoglobulin G1) agents. Small molecules diffuse across throughout, including during organogenesis — the reason JAKis and S1P modulators are the restricted classes.
+- **Dose stability.** Infliximab concentrations *rise* in later pregnancy on unchanged dosing; vedolizumab concentrations fall as weight rises; ustekinumab stays stable → **keep pre-pregnancy dosing regardless of pregnancy weight gain**.
+- **Biosimilars.** Continue like the originator, in pregnancy and in lactation — effectiveness, safety and pharmacokinetics are expected to mirror it.
+- **S1P modulators (ozanimod, etrasimod).** Relatively contraindicated; the teratogenicity signal is animal data. Stop **ozanimod ≥3 months** and **etrasimod ≥1–2 weeks** before conception unless no effective alternative maintains maternal health. **Do not breastfeed** on either (no human lactation data). As with the JAKis, a woman with no near-term conception plans should not be denied them.
 
 ## Delivery
 
@@ -198,11 +191,11 @@ sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 
 *Counseling points, all Conditional recommendations on very low to low evidence.*
 
-- **Offspring IBD risk is higher with a first-degree relative** — and higher for a parent with CD (~9%) than UC (~6%) in early Danish data. Risk rises with more affected first-degree relatives, younger age at diagnosis, and CD; sibling risk exceeds parent-to-offspring risk.
-- **Women with IBD have more LBW and preterm delivery** than women without IBD.
+- **Offspring IBD risk is higher with a first-degree relative with IBD**, and higher from a parent with CD than from a parent with UC. Danish population data, adjusted incidence rate ratio for the offspring: **CD 7.5 (father) / 6.4 (mother); UC 4.3 / 3.7**. Maternal smoking in pregnancy and prenatal antibiotic exposure are also associated with IBD in the offspring (odds ratio ~1.5 and ~1.75) — but antibiotics are still given for appropriate indications, group B streptococcus prophylaxis included.
+- **Women with IBD have more low birth weight (LBW) and preterm delivery** than women without IBD.
 - **Moderate-to-severe disease activity increases spontaneous abortion** vs no IBD or mild IBD.
 - **VTE risk is increased both during pregnancy and postpartum** (relative risk ~1.72 and ~2.10).
-- **Children born to women with IBD have more NICU admissions and first-year hospitalizations**; **active** disease adds SGA and LBW.
+- **Children born to women with IBD have more neonatal intensive care unit (NICU) admissions and first-year hospitalizations**; **active** disease adds small for gestational age (SGA) and LBW.
 - **No increased early childhood malignancy or developmental delay** after in utero anti-TNF, ustekinumab, vedolizumab or thiopurine exposure.
 - **Controlling disease activity is the lever** — inadequate GWG, gestational diabetes, preeclampsia and preterm birth all track with activity.
 

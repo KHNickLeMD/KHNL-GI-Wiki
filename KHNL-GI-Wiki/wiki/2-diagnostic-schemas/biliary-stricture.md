@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-11-16
+updated: 2026-11-17
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures, esge-2026-biliary-strictures]
 ---
 
@@ -305,15 +305,17 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 
 - The ASGE suggests **[[ercp|ERCP]] over PTBD as initial therapy** (Conditional, Very Low evidence). PTBD carried 8.47× higher adjusted odds of allograft failure, longer hospitalization, more nursing-home disposition, and higher cost; ERCP needed fewer procedures (2.5 vs 6.1). No difference in technical success, composite adverse events (AEs), or mortality.
 - **Prefer ERCP** when percutaneous drains are hard for caregivers to manage, drains risk dislodgement, multiple intrahepatic strictures span different lobes, or there is insufficient biliary dilation for percutaneous access.
-- **Prefer PTBD** when endoscopic access is difficult (altered anatomy) or anesthesia carries increased risk. PTBD is also first-line for Roux-en-Y anatomy depending on center expertise; reserve for failed endoscopy otherwise.
+- **Prefer PTBD** when anesthesia carries increased risk, or endoscopy has failed.
+  - ⚠ ASGE 2023 also allowed PTBD first-line in Roux-en-Y anatomy by center expertise. [[esge-2026-biliary-strictures|ESGE 2026]] is newer and reverses that: **after Roux-en-Y hepaticojejunostomy, endoscopic drainage over percutaneous** for its better safety profile, with **PTBD second-line** for benign and malignant strictures alike (conditional, low). *Which endoscopic route, by reconstruction and etiology: [[eus-guided-biliary-drainage]].*
 
-#### Stent strategy — cSEMS over multiple plastic stents (Rec 2)
+#### Stent strategy for an anastomotic stricture
 
-- For **extrahepatic (anastomotic, duct-to-duct)** strictures, the ASGE suggests **cSEMS instead of MPS** (Conditional, Low–Moderate evidence).
-- Across 4 RCTs (205 patients): **equivalent stricture resolution and recurrence**, but cSEMS needed **fewer ERCPs** (mean ~1.86 fewer), fewer days to resolution (~105 fewer), fewer stents per patient (~10.6 fewer), and **lower cost** ($8288 vs $19,580). Most common AE was stent migration (no difference between groups).
-- **Technique:** ERCP with balloon **dilation** of the stricture, then stent placement. MPS are exchanged serially through the point of resolution; **cSEMS are removed after a fixed 3–6 month dwell** regardless of interval cholangiogram. Indirect evidence links cSEMS to post-ERCP pancreatitis.
-- **cSEMS contraindicated / less suitable** when cholangiography shows intrahepatic strictures or an anastomotic stricture just below the bifurcation — favor plastic stents there. ESGE 2026 puts a number on it: **fcSEMS only when the stricture is >2 cm distal to the main hepatic confluence**. Non-anastomotic ischemic cholangiopathy is generally not a cSEMS target.
-- **ESGE 2026 does not prefer cSEMS — it allows either** (Conditional, Low), because the 1–2-year equivalence reverses at 5 years: **36% anastomotic-stricture recurrence with transpapillary fcSEMS vs 7% with MPS** in the one RCT with that follow-up (51% in a single-arm series; an intraductal antimigration fcSEMS narrowed it to 33.3% vs 28.6%). fcSEMS is usually **10 mm** (8 mm per anatomy) for **6 months**; MPS are exchanged every 3–4 months for 1 year ([[esge-2026-biliary-strictures]]).
+- **Either MPS or a temporary fcSEMS** for an extrahepatic (anastomotic, duct-to-duct) stricture — the **fcSEMS only when the stricture is >2 cm distal to the main hepatic confluence** (Conditional, Low — [[esge-2026-biliary-strictures]]). fcSEMS is usually **10 mm** (8 mm where the anatomy demands) for **6 months**; MPS are exchanged every 3–4 months for 1 year.
+  - ⚠ **This supersedes ASGE 2023**, which suggested **cSEMS instead of MPS** (Conditional, Low–Moderate) and pulled it at a fixed **3–6-month** dwell. ESGE 2026 is the newer tier-1 source and governs.
+- **Why ESGE will not pick a winner:** the 1–2-year equivalence reverses at 5 years — **36% anastomotic-stricture recurrence with a transpapillary fcSEMS vs 7% with MPS** in the one RCT with that follow-up (51% in a single-arm series; an intraductal antimigration fcSEMS narrowed it to 33.3% vs 28.6%) ([[esge-2026-biliary-strictures]]).
+- **The short-term case for cSEMS** (4 RCTs, 205 patients — [[asge-2023-post-transplant-biliary-strictures]]): **equivalent resolution and recurrence**, but **fewer ERCPs** (mean ~1.86 fewer), fewer days to resolution (~105 fewer), fewer stents per patient (~10.6 fewer), and **lower cost** ($8288 vs $19,580). Most common AE was stent migration (no difference between groups). Indirect evidence links cSEMS to post-ERCP pancreatitis.
+- **Technique:** ERCP with balloon **dilation** of the stricture, then stent placement. MPS are exchanged serially through the point of resolution.
+- **Favor plastic** when cholangiography shows intrahepatic strictures or an anastomotic stricture just below the bifurcation. Non-anastomotic ischemic cholangiopathy is generally not a cSEMS target.
 - **Sequential stent addition** is a valid MPS variant — add plastic stents at each ERCP without removing the previous ones. Equal resolution, recurrence and AEs (no excess cholangitis), with shorter procedure and fluoroscopy time and lower cost.
 - Refractory anastomotic strictures after endoscopy → PTBD, then surgical revision.
 
@@ -332,10 +334,11 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 ### Failed ERCP
 
 - **Malignant stricture after failed or unfeasible ERCP → EUS-BD over PTBD** (**Strong**, Moderate evidence — [[esge-2026-biliary-strictures]]; ACG 2023 graded the same direction Conditional, Very Low). **PTBD only when EUS-BD fails or is not feasible.**
-  - **Duodenal stricture present → EUS-HGS.** No duodenal stricture → **either EUS-HGS or EUS-CDS**. EUS-CDS obstructs from food impaction above a duodenal stricture (5.04-fold relative risk of recurrent biliary obstruction)
+  - **Duodenal stricture present → EUS-HGS.** No duodenal stricture → **either EUS-HGS or EUS-CDS** — above a duodenal stricture an EUS-CDS obstructs from food impaction
+- **Malignant stricture, accessible papilla, no duodenal stricture → EUS-guided transmural drainage over PTBD** (Conditional, Low — [[esge-2026-biliary-strictures]])
 - **Benign stricture after failed ERCP → rendezvous over transmural drainage** (Conditional, Low) — it preserves the anatomy. Percutaneous rendezvous is a comparable alternative; the evidence does not favor the EUS route over it
 - Requires substantial endoscopist experience — adverse events including fatalities reported, particularly earlier in the learning curve
-- **Repeat ERCP after waiting at least 2 days** (optimizing sedation, team, accessories, and referral to a more expert endoscopist or center) succeeds in up to 82% and is the reasonable first alternative in non-urgent settings. ERCP fails in 10%–20% of patients overall; the ESGE expert-center ceiling is 5%
+- **Before any of this, repeat the ERCP** — waiting at least 2 days and optimizing the attempt is the reasonable first alternative in a non-urgent setting; the success rate and the failure-rate benchmarks are on [[ercp]]
 - *Route selection, outcomes, adverse events and the altered-anatomy pathways: see [[eus-guided-biliary-drainage]].*
 
 ---
