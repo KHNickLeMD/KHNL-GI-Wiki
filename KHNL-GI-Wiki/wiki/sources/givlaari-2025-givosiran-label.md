@@ -3,7 +3,7 @@ title: "GIVLAARI (Givosiran) Injection — FDA Prescribing Information"
 category: source
 tags: [acute-hepatic-porphyria, porphyria, givosiran, sirna, dosing, drug-label, fda]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 sources: []
 raw: "Drug Labels/Givlaari Givosiran Label.pdf"
 ---
@@ -101,4 +101,5 @@ The only contraindication is **severe hypersensitivity to givosiran**; anaphylax
 - **No contradiction with [[aga-2023-acute-hepatic-porphyria]].** The label fills gaps the AGA update left open rather than disputing it; the monthly subcutaneous route and the interrupt-for-transaminase-elevation rule agree.
 - **Scope of approval differs by region, and the label is the narrower one.** The label indicates givosiran for **adults**; the European Medicines Agency approval is **≥12 years**. The wiki already carried both facts from the AGA update — the label confirms the US side and adds that pediatric safety and effectiveness are *not established*, which is a stronger statement than "adults only".
 - **The label carries no attack-frequency threshold.** AGA 2023 Best Practice Advice 7 restricts prophylactic givosiran to **≥4 attacks per year**; the labelled indication is simply "adults with AHP". The guideline is the higher-priority source and governs patient selection on the wiki; the label governs the dose. Worth knowing that prescribing below the AGA threshold is not off-label.
-- **Open:** the label gives no dose adjustment for renal or hepatic impairment at baseline, and no guidance on how long to continue therapy. Neither is answerable from any ingested source.
+- **Renal and hepatic impairment (12.3):** no clinically meaningful difference in givosiran pharmacokinetics or pharmacodynamics (percent reduction in urinary ALA and PBG) with mild, moderate or severe renal impairment (eGFR ≥15 to <89 mL/min/1.73 m², MDRD formula) or mild hepatic impairment (bilirubin ≤1× ULN with AST >1× ULN, or bilirubin >1× to 1.5× ULN); the effect of end-stage renal disease (eGFR <15 mL/min/1.73 m²) and of moderate to severe hepatic impairment is unknown. The label prints no dose adjustment for either.
+- **Open:** the label gives no guidance on how long to continue therapy.

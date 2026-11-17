@@ -60,6 +60,6 @@ Endoscopy used for the diagnosis, staging, curative resection, and palliation of
 ## Sources
 
 1. [[asge-2017-privileging-credentialing|ASGE 2017: Guidelines for Privileging, Credentialing, and Proctoring to Perform GI Endoscopy]]
-2. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]] *(citation of record only)*
+2. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]]
 3. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
 4. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]

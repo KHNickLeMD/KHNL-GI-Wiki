@@ -57,15 +57,17 @@ Source: the release quality sweep (`Quality review` step in `lint-cron.sh`, CLAU
   - `review-queue.py`: verify-only rows, `--sources` queue, card re-check queue, verified counts in `--status`.
   - Patched cron script staged on the server as `lint-cron.sh.staged-2026-11-16` (prompts + allowed tool; budgets unchanged). **Not active until the repo commit is pushed and the file is moved into place.**
 
+- 2026-11-16 (evening): **pushed and activated.** Commit rebased over 15 cron commits (7 conflicts merged; the cron's own review of `hepatocellular-adenoma` kept) and pushed. `lint-cron.sh` swapped in atomically on top of the 22:02 model change (`claude-opus-5-5`); backup `lint-cron.sh.bak-2026-11-16b`.
+- 2026-11-16: **budget shift (Nick agreed):** review $45 → $60, cards $25 → $10 per run; lint/ingest $25 unchanged; total per run unchanged.
+- 2026-11-16: **raw drift fixed.** 44 old-named files in the server's `/repo` raw were byte-identical copies of renamed files (none referenced by a `raw:` line) and were removed. `ACG 2017 Treatment of Helicobacter pylori Infection.pdf` downloaded to `raw/GI Guidelines/ACG/`.
+
 ## Open work
 
-1. **Push + activate.** `git push` the local commit, then on the server: `cp lint-cron.sh lint-cron.sh.bak-2026-11-16 && mv lint-cron.sh.staged-2026-11-16 lint-cron.sh` in `/mnt/LeStorage/Applications/giwiki/`. Do it in that order: the new prompts need the new CLAUDE.md and script in `/repo`.
-2. **Coverage.** Topic pages: 136/370 reviewed, 12/370 verified. Source pages: 5/457 verified. The cron works both queues inside the existing budgets, so pages per run drop (each page now also gets its source pages checked and a blind check). Watch `review-queue.py --status`; if the pace is too slow, the lever is budget, which is Nick's call.
-3. **Cards.** New cards are gated on `verified:`; card files requeue for re-check when their page is verified. A one-off pass on 2026-11-16 corrected the notes carrying the facts fixed that day (see `wiki/log.md`). The rest of the deck is only as good as the pages it was built from until the queue reaches it.
-4. **Source pages with no real file:** `acg-2017-hp-guidelines` (claims removed), `chang-2024-endoscopic-oncologist`, `nejm-2023-fever-returning-traveler` (citation-only pages mapped to a Notion note). Decide: delete, or add the full text to `raw/`.
-5. **Raw folder drift.** The server's `/repo` raw holds 56 files the laptop's Nextcloud copy lacks (13 drug labels, old-named duplicates of renamed AGA files). Duplicates confuse the "uningested file" audit; labels never reached Nextcloud.
-6. **`fidelity-check.py` limits.** Values inside image-only tables and `.docx` supplements show as ABSENT; they need the rendered page. Flags are a worklist, not a verdict.
-7. **Not yet done:** a wrapper-level check in `lint-cron.sh` that runs `fidelity-check.py` on the pages each pass changed and emails when a pass leaves ABSENT/OTHER flags; risk-ordering the review queue by flag count.
+1. **Coverage.** Topic pages: 156/371 reviewed, 12 verified. Source pages: 5/458 verified. The cron works both queues; watch `review-queue.py --status`. First run under the new prompts: 00:00 PT 2026-11-17 (cards mode still runs the review step). Check that run's log for the `fidelity-check.py` calls and for `verified:` stamps.
+2. **Cards.** New cards are gated on `verified:`; card files requeue for re-check when their page is verified. The rest of the deck is only as good as the pages it was built from until the queue reaches it.
+3. **Two source pages still have no real file:** `chang-2024-endoscopic-oncologist` (Elsevier editorial; CAPTCHA wall) and `nejm-2023-fever-returning-traveler` (NEJM 2017 review; subscriber wall). Both carry no claims and nothing cites them. Nick to fetch over USC VPN, or delete the pages.
+4. **`fidelity-check.py` limits.** Values inside image-only tables and `.docx` supplements show as ABSENT; they need the rendered page. Flags are a worklist, not a verdict.
+5. **Not yet done:** a wrapper-level check in `lint-cron.sh` that runs `fidelity-check.py` on the pages each pass changed and emails when a pass leaves ABSENT/OTHER flags; risk-ordering the review queue by flag count.
 
 ## Constraints
 

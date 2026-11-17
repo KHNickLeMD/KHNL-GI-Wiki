@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-16] update | Source-fidelity follow-up — cron live, three file-less source pages rebuilt, raw drift fixed
+
+**Live.** The source-fidelity commit is pushed (rebased over 15 scheduled commits; seven conflicts merged by hand — the scheduled review's version of `hepatocellular-adenoma` kept, FNH line corrected to the guideline's "extremely slim chance of malignancy"). `lint-cron.sh` now carries the verified-ingest and independent-check prompts.
+
+**Budget (Nick agreed):** review $45 → $60, cards $25 → $10 per run; lint/ingest $25 unchanged. New cards are gated on `verified:`, so the card step needs less and verification needs more. Total per run unchanged.
+
+**Three source pages that had no file (Verified ingest: extract by one agent → `fidelity-check.py` → blind check by a second agent → fixes → `verified:`):**
+- `acg-2017-hp-guidelines` — PDF added to `raw/GI Guidelines/ACG/`. Rebuilt: all 31 Table 1 statements with strength and evidence as printed, Tables 2 and 4, Figures 1 and 3 redrawn. Check: ~200 claims, 3 minor wording items fixed (hybrid therapy as salvage is "no recommendation", not "not recommended"). Marked superseded by [[acg-2024-hp-treatment]]; nothing propagated to topic pages.
+- `chang-2024-endoscopic-oncologist` — PDF added to `raw/GI Other Studies/`. Rebuilt from the 4-page preface as the authors' perspective (no graded recommendations). Check: ~92 claims, 2 minor fixed. "Citation of record only" note removed from [[endoscopic-oncology]].
+- `nejm-2023-fever-returning-traveler` → **renamed `nejm-2017-fever-returning-traveler`** (Thwaites & Day, N Engl J Med 2017;376:548–60; the 2023 date was wrong). PDF added to `raw/GI Other Studies/`. Rebuilt: Figure 1 redrawn, Tables 1–3 cell by cell; a narrative review, so no graded recommendations and no doses. Check: ~420 claims, 3 minor fixed.
+
+**Raw folder drift.**
+- 44 old-named files in the server's repo `raw/` (lowercase AGA shorthand names, old "Other" names, one RCT) were byte-identical copies of properly named files and referenced by no `raw:` line; removed after a per-file compare. The "standing false-alarm list" of uningested-looking filenames no longer applies.
+- 13 drug labels fetched 10-24 to 11-02 never reached the laptop: the cron's Nextcloud rescan failed on each of those passes with its output discarded. Rescanned by hand (all 14 labels now sync). `lint-cron.sh` now logs the rescan error and keeps the retry flag until a rescan succeeds.
+- `easl-2018-hepatitis-e` given its `raw:` line.
+
+**Owed item closed:** `givlaari-2025-givosiran-label` said the label gives no renal or hepatic guidance; replaced with the §12.3 wording. [[givosiran]] already matched the label.
+
+**Progress:** topic pages 156/371 quality-reviewed, 12 verified; source pages 8/458 verified, all 458 with a `raw:` file.
+
+---
+
 ## [2026-11-17] update | Card pass — dedup, 13 pages carded, 5-file quality review
 
 **Dedup:** `anki-dupes.mjs` offered 3 candidate pairs; all 3 judged **distinct** and marked (ustekinumab vs vedolizumab in-utero clearance — different drugs and intervals; gastric-polyp dysplasia surveillance vs nonvisible gastric dysplasia after second-look; ACG 2025 dysplastic-GPMC repeat endoscopy vs AGA 2025 post-second-look intervals — different guidelines, different numbers, different decision points). No merges. Queue now empty at ≥0.4.
@@ -283,9 +305,9 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Copies fixed on `achalasia`, `heller-myotomy`, `pneumatic-dilation`, `poem`, `hepatocellular-adenoma`, `hepatic-hemangioma`, `hepatic-cysts`, `focal-liver-lesions`, `li-rads`, `helicobacter-pylori-infection`, `index.md`.
 - `acg-2017-hp-guidelines` has no file in `raw/`: banner replaced by one reader line, clinical claims removed, and the claims resting on it taken off `helicobacter-pylori-infection`, `test-and-treat` and `bismuth-quadruple-therapy` (metronidazole-resistance point re-sourced to ACG 2024).
 
-**Owed fixes from this log since 2026-11-10 (36 items checked against the PDFs: 30 fixed, 5 already correct, 1 not checked):**
+**Owed fixes from this log since 2026-11-10 (36 items checked against the PDFs: 31 fixed, 5 already correct):**
 - Fixed, among others: `aga-2025-cade-colonoscopy` (sessile serrated lesion detection RR 1.21, not "no increase"); `acg-2020-chronic-pancreatitis` and `chronic-pancreatitis` (PRSS1 labelling per Tables 5 and 7; invented surveillance contradiction removed); `opioid-induced-constipation` (dose frequencies Rome V does not give); `acute-diarrhea` (unsourced "most common" claims, giardiasis approval note); `acg-2022-barretts`; `aasld-2025-semaglutide-mash`; `biofeedback-therapy`; `pancreatic-cancer-screening`; `extraesophageal-reflux`; `polypectomy`; `functional-dyspepsia`; `hiv-aids-related-diarrhea` (Cryptosporidium line re-sourced to IDSA 2017); contradictions added to six source pages.
-- Not checked: the `givlaari-2025-givosiran-label` renal/hepatic wording (file only in the server's `raw/`); it is in the source verification queue.
+- `givlaari-2025-givosiran-label`: the "no renal or hepatic guidance" line replaced with the label's §12.3 wording (checked once the label synced to the laptop); [[givosiran]] already matched the label.
 
 **System changes (CLAUDE.md, scripts):**
 - **`raw:` frontmatter on 456 of 457 source pages** — the file each page was built from (supplements included). Lookup had been fuzzy filename matching.
