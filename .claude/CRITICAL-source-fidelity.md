@@ -60,14 +60,14 @@ Source: the release quality sweep (`Quality review` step in `lint-cron.sh`, CLAU
 - 2026-11-16 (evening): **pushed and activated.** Commit rebased over 15 cron commits (7 conflicts merged; the cron's own review of `hepatocellular-adenoma` kept) and pushed. `lint-cron.sh` swapped in atomically on top of the 22:02 model change (`claude-opus-5-5`); backup `lint-cron.sh.bak-2026-11-16b`.
 - 2026-11-16: **budget shift (Nick agreed):** review $45 → $60, cards $25 → $10 per run; lint/ingest $25 unchanged; total per run unchanged.
 - 2026-11-16: **raw drift fixed.** 44 old-named files in the server's `/repo` raw were byte-identical copies of renamed files (none referenced by a `raw:` line) and were removed. `ACG 2017 Treatment of Helicobacter pylori Infection.pdf` downloaded to `raw/GI Guidelines/ACG/`.
+- 2026-11-16: **the three file-less source pages now have files and are verified** (`acg-2017-hp-guidelines`; `chang-2024-endoscopic-oncologist`; `nejm-2023-…` renamed `nejm-2017-fever-returning-traveler`). The NEJM review and the Elsevier preface came through Nick's USC library proxy session (`libproxy1.usc.edu`; NEJM direct, Elsevier via ClinicalKey). The cron's Nextcloud rescan had failed silently 10-24..11-02; now logged and retried.
 
 ## Open work
 
-1. **Coverage.** Topic pages: 156/371 reviewed, 12 verified. Source pages: 5/458 verified. The cron works both queues; watch `review-queue.py --status`. First run under the new prompts: 00:00 PT 2026-11-17 (cards mode still runs the review step). Check that run's log for the `fidelity-check.py` calls and for `verified:` stamps.
+1. **Coverage.** Topic pages: 156/371 reviewed, 12 verified. Source pages: 8/458 verified, all with a `raw:` file. The cron works both queues; watch `review-queue.py --status`. First run under the new prompts: 00:00 PT 2026-11-17 (cards mode still runs the review step). Check that run's log for the `fidelity-check.py` calls and for `verified:` stamps.
 2. **Cards.** New cards are gated on `verified:`; card files requeue for re-check when their page is verified. The rest of the deck is only as good as the pages it was built from until the queue reaches it.
-3. **Two source pages still have no real file:** `chang-2024-endoscopic-oncologist` (Elsevier editorial; CAPTCHA wall) and `nejm-2023-fever-returning-traveler` (NEJM 2017 review; subscriber wall). Both carry no claims and nothing cites them. Nick to fetch over USC VPN, or delete the pages.
-4. **`fidelity-check.py` limits.** Values inside image-only tables and `.docx` supplements show as ABSENT; they need the rendered page. Flags are a worklist, not a verdict.
-5. **Not yet done:** a wrapper-level check in `lint-cron.sh` that runs `fidelity-check.py` on the pages each pass changed and emails when a pass leaves ABSENT/OTHER flags; risk-ordering the review queue by flag count.
+3. **`fidelity-check.py` limits.** Values inside image-only tables and `.docx` supplements show as ABSENT; they need the rendered page. Flags are a worklist, not a verdict.
+4. **Not yet done:** a wrapper-level check in `lint-cron.sh` that runs `fidelity-check.py` on the pages each pass changed and emails when a pass leaves ABSENT/OTHER flags; risk-ordering the review queue by flag count.
 
 ## Constraints
 
