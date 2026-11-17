@@ -72,7 +72,7 @@ Two different severity questions, and they use different instruments:
 
 - **[[nafld-masld|Metabolic dysfunction-associated steatotic liver disease/steatohepatitis (MASLD/MASH)]]** — metabolic steatohepatitis; identical histology; excluded by absence of significant alcohol use (however, overlap exists)
 - **[[drug-induced-liver-injury|Drug-induced liver injury]]** — medication history essential; can mimic AH clinically
-- **Viral hepatitis** — [[chronic-hepatitis-b|hepatitis B virus (HBV)]], HCV, hepatitis E virus (HEV); serology required; HBV reactivation can occur in heavy drinkers
+- **Viral hepatitis** — [[chronic-hepatitis-b|hepatitis B virus (HBV)]], HCV, [[hepatitis-e|hepatitis E virus (HEV)]]; serology required; HBV reactivation can occur in heavy drinkers
 - **[[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]]** — elevated IgG, autoantibodies; may require biopsy to distinguish from AH
 - **Ischemic hepatitis** — rapid rise in aminotransferases (AST >1000), cardiac/hypotensive history; "shock liver"
 - **Acute biliary obstruction** — [[choledocholithiasis|common bile duct (CBD) stone]]; jaundice + cholestatic liver function tests (LFTs); ultrasound excludes

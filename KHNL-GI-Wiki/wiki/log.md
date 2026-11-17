@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-17] lint | 06:00 pass — daily fetch, verify the two partial ingests
+
+**Scope:** backlog mode, $12 throttled budget. Finish the two source pages still marked `ingest: partial` before anything new. Under the 2026-11-16 *Verified ingest* rule both lacked `verified:`, so the unfinished step for each was the gate + independent check, not more propagation.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Daily source fetch:** nothing downloaded. Every `needed-sources.md` download row is 🔒 (Eckardt 1992, WHO 5th ed.) or 🌐 (CDC Yellow Book, NIH OI guidelines); no label rows open.
+
+**`[[easl-2018-hepatitis-e]]` — verified, marker removed.**
+- *Gate* (`fidelity-check.py --evidence`): 2 ABSENT, both real. "Considered the probable cause in **7.5% (6 of 80)**" — the PDF prints no such figure, only "HEV RNA was found in 10% … and HEV considered as the probable cause"; and "11/343 **(3.2%)**" in a "prospective cohort" — the percentage was computed by the writer and the design is not stated. Both removed; "immunocompetent" qualifier on the ALF-is-rare line also unsupported (source: "patients with HEV gt 3 infection") — removed. *Fix every copy:* the 7.5% was also on `[[hepatitis-e]]` — fixed there.
+- *Independent check* (fresh agent, PDF pages read as rendered images, ~190 claims): all 26 recommendations' wording, force and grades correct; all 8 sign-bearing lines correct. 7 minor findings, all confirmed and fixed: Table 5 footnotes (the PDF has three — `*` onset irrespective of ALT, `**` onset if ALT abnormal, `***` ALT abnormal more than once — the page had two and the wrong `**` meaning; "decompensated chronic liver disease" was missing its `*`); "three-quarters" → **three** of whom had neuralgic amyotrophy; "Dutch" → **Anglo/Dutch** cohort; genotype geography ("gt 3 dominant in USA/Japan", "gt 4 mainly China/Japan", "European cattle milk") not in the source → rewritten to what p.3 says (gt 4 in cattle and milk in **China**, not yet confirmed in Europe); the middle-aged-men shift is about **China**; the Summary's "high mortality" in pre-existing liver disease is a gt 1 finding, not gt 3. *Fix every copy:* the geography row and "three-quarters" were also on `[[hepatitis-e]]` — fixed there (its "middle-aged/older men" → the source's "older males").
+- Added the template's missing `## Relevance to Wiki` and `## Contradictions / Open Questions` sections.
+- *Propagation (from the verified page):* **`[[acute-liver-failure]]` contradiction fixed** — it asserted "There is no treatment for HEV" ([[aga-2017-acute-liver-failure]]); EASL 2018 (tier 1, newer) says ribavirin **may be considered in severe acute hepatitis E or acute-on-chronic liver failure (C2)**, on very few case reports. Now stated with the AGA claim surfaced; source added to the page. The nine owed first-mention `[[hepatitis-e]]` links applied (`acute-fatty-liver-of-pregnancy`, `acute-liver-failure`, `alcohol-associated-liver-disease`, `alcohol-associated-hepatitis` (caption — the Mermaid label can't hold a link), `acute-on-chronic-liver-failure`, `cirrhosis`, `immune-checkpoint-inhibitor-hepatitis`, `fever-returning-traveler` (escaped table pipe), `abnormal-liver-chemistries`).
+
+**`[[easl-2025-autoimmune-hepatitis]]` — in progress.**
+- *Gate:* 6 ABSENT. Four were `8×10⁸` superscripts lost in the text layer (values present); OR 2.19 and 6-TGN 100–300 sit in the AASLD 2020 column and are in the AASLD PDF. One real: "a **740-patient** discovery/validation study" with a "≥80% fall" — the PDF prints two 370-patient retrospective cohorts and a reduction **>80%** from baseline after 8 weeks; corrected.
+
+---
+
 ## [2026-11-16] update | Cron throttled until the weekly usage reset
 
 Weekly plan usage was at 88% on 2026-11-16 with the reset on 2026-11-19. `lint-cron.sh` on the server now carries a temporary throttle that lifts itself at 2026-11-20 00:00 (backup `lint-cron.sh.bak-2026-11-16d`):

@@ -71,7 +71,7 @@ quality_reviewed: 2026-11-13
 - Hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome — shares abdominal pain, vomiting, and thrombocytopenia. HELLP carries hemolysis, platelets <100×10⁹/L, elevated uric acid, and ↑lactate dehydrogenase (LDH); **hypoglycemia, prolonged PT/DIC, elevated ammonia, and rising creatinine point to AFLP** ([[aga-2024-pregnancy-gi-liver]] Table 3)
 - Pre-eclampsia with hepatic involvement — coexists with AFLP rather than excluding it
 - [[intrahepatic-cholestasis-of-pregnancy|Intrahepatic cholestasis of pregnancy]] — pruritus, ↑bile acids, normal imaging, no coagulopathy or hypoglycemia
-- Viral hepatitis — [[chronic-hepatitis-b|hepatitis B]], [[hepatitis-c-in-pregnancy|hepatitis C]], hepatitis A, hepatitis E, herpes simplex virus (HSV) hepatitis; HSV in particular mimics the AFLP/HELLP picture with high transaminases, leukopenia, thrombocytopenia, and acute renal failure ([[aasld-2021-reproductive-liver]])
+- Viral hepatitis — [[chronic-hepatitis-b|hepatitis B]], [[hepatitis-c-in-pregnancy|hepatitis C]], hepatitis A, [[hepatitis-e|hepatitis E]], herpes simplex virus (HSV) hepatitis; HSV in particular mimics the AFLP/HELLP picture with high transaminases, leukopenia, thrombocytopenia, and acute renal failure ([[aasld-2021-reproductive-liver]])
 - [[drug-induced-liver-injury|Drug-induced liver injury]]
 
 ## Diagnostics

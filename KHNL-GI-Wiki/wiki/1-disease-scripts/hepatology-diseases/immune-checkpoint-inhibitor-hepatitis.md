@@ -93,7 +93,7 @@ Immune checkpoint inhibitor (ICI) hepatotoxicity — **immune-mediated hepatitis
 *Every* patient who develops elevated liver chemistries on an ICI is evaluated for alternative etiologies (BPA 14). [[aga-2021-ici-colitis-hepatitis]]
 
 - **History + full medication review** to exclude other [[drug-induced-liver-injury|DILI]].
-- **Hepatotropic viruses:** hepatitis A virus (HAV), [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], hepatitis E virus (HEV). **Non-hepatotropic viruses:** Epstein-Barr virus (EBV), cytomegalovirus (CMV), herpes simplex virus (HSV).
+- **Hepatotropic viruses:** hepatitis A virus (HAV), [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], [[hepatitis-e|hepatitis E virus (HEV)]]. **Non-hepatotropic viruses:** Epstein-Barr virus (EBV), cytomegalovirus (CMV), herpes simplex virus (HSV).
 - **Abdominal ultrasound** — hepatobiliary tree and hepatic vasculature.
 - **ANA and SMA** — screen for baseline AIH.
 - **Contrast-enhanced computed tomography (CT) or magnetic resonance (MR) imaging** — valuable in any patient at risk for, or with known, hepatic metastases, and essential before attributing elevations to the ICI. [[aasld-2022-dili]]

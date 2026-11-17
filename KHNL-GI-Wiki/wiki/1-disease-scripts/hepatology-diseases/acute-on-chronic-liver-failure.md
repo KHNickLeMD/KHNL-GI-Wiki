@@ -100,7 +100,7 @@ Acute-on-chronic liver failure (ACLF): acute deterioration in chronic liver dise
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] names the same precipitants from the [[portal-hypertension|portal-hypertension]] side, and adds surgery:**
 
-- **Superimposed acute liver injury** — alcohol-related hepatitis, acute hepatitis E virus (HEV)/hepatitis A virus (HAV)/hepatitis B virus (HBV), HBV flares, **[[autoimmune-hepatitis|autoimmune hepatitis]]**, or **[[drug-induced-liver-injury|drug-induced liver injury (DILI)]]** — can precipitate decompensation **and/or ACLF** in compensated cirrhosis/compensated ACLD (cACLD) (3.7)
+- **Superimposed acute liver injury** — alcohol-related hepatitis, acute [[hepatitis-e|hepatitis E virus (HEV)]]/hepatitis A virus (HAV)/hepatitis B virus (HBV), HBV flares, **[[autoimmune-hepatitis|autoimmune hepatitis]]**, or **[[drug-induced-liver-injury|drug-induced liver injury (DILI)]]** — can precipitate decompensation **and/or ACLF** in compensated cirrhosis/compensated ACLD (cACLD) (3.7)
 - **Bacterial infections** do the same in compensated patients **with clinically significant portal hypertension (CSPH)** (3.10); their prognostic impact **without** CSPH is unclear (3.11)
 - **Surgery, especially major surgery, can precipitate ACLF** in patients with CSPH, **with risk rising as portal hypertension becomes more severe** (3.13, new). **Pre-operative [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] may be considered before major surgery** to reduce that risk (3.20b)
 

@@ -260,7 +260,7 @@ Related pages: [[acute-liver-failure|acute liver failure (ALF)]], [[liver-transp
 - **AMA** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
 - **Serum alpha-1 antitrypsin (AAT) level**, then genotype → [[alpha-1-antitrypsin-deficiency-liver-disease|alpha-1 antitrypsin deficiency–associated liver disease]]. **<11 μM (<57 mg/dL)** = at risk for severe deficiency, likely ZZ; **11–20 μM (57–90 mg/dL)** mild/intermediate; **>20 μM (>90 mg/dL)** minimal risk. Confirm with **genotyping (preferred)** or phenotyping by isoelectric focusing — PiZZ severe, PiMZ intermediate risk. AAT is an **acute-phase reactant**, so draw it when CRP is normal; a PiMZ patient may have a normal level ([[aga-aasld-easl-2026-aatd-liver-disease]])
-- **Hepatitis A virus (HAV) IgM, hepatitis E virus (HEV) IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
+- **Hepatitis A virus (HAV) IgM, [[hepatitis-e|hepatitis E virus (HEV)]] IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
 - **Hepatitis B core antibody (HBcAb) IgM** → acute hepatitis B
 - **Ceruloplasmin, 24-hour urine copper, slit-lamp exam** → Wilson's disease (confirmatory)
 - **HFE gene mutation (C282Y, H63D)** → hereditary hemochromatosis

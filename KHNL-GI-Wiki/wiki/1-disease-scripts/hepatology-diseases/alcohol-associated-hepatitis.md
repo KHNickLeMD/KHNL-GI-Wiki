@@ -118,7 +118,7 @@ flowchart TD
 *Diagnosis of alcohol-associated hepatitis*
 *Source: redrawn from the ACG 2024 ALD algorithm for alcohol-associated hepatitis (diagnosis half)*
 *[[acg-2024-ald|ACG 2024 Alcohol-Associated Liver Disease Guideline]]*
-*AH = alcohol-associated hepatitis · HE = hepatic encephalopathy · AST = aspartate aminotransferase · ALT = alanine aminotransferase · ULN = upper limit of normal · HCC = hepatocellular carcinoma · US = ultrasound · PVT = portal vein thrombosis · BCS = Budd-Chiari syndrome · DILI = drug-induced liver injury · IgM = immunoglobulin M · HAV = hepatitis A virus · HBc = hepatitis B core · HEV = hepatitis E virus · HBsAg = hepatitis B surface antigen · HCV = hepatitis C virus · Ab = antibody · RNA = ribonucleic acid · ANA = antinuclear antibody · ASMA = anti-smooth muscle antibody · IgG = immunoglobulin G · AMA = antimitochondrial antibody*
+*AH = alcohol-associated hepatitis · HE = hepatic encephalopathy · AST = aspartate aminotransferase · ALT = alanine aminotransferase · ULN = upper limit of normal · HCC = hepatocellular carcinoma · US = ultrasound · PVT = portal vein thrombosis · BCS = Budd-Chiari syndrome · DILI = drug-induced liver injury · IgM = immunoglobulin M · HAV = hepatitis A virus · HBc = hepatitis B core · HEV = [[hepatitis-e|hepatitis E virus]] · HBsAg = hepatitis B surface antigen · HCV = hepatitis C virus · Ab = antibody · RNA = ribonucleic acid · ANA = antinuclear antibody · ASMA = anti-smooth muscle antibody · IgG = immunoglobulin G · AMA = antimitochondrial antibody*
 
 ## Differential Diagnosis
 

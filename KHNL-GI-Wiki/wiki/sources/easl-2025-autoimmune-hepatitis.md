@@ -453,7 +453,7 @@ High-risk immunosuppression here = **B cell-depleting agents or infliximab**; pr
 **Open questions raised by the guideline itself:**
 
 - Whether **IgG normalisation belongs in the CBR definition** at all — unpublished data suggest prognosis stays excellent with normal aminotransferases and elevated IgG, but the panel keeps IgG for now.
-- Whether the **4-week non-response cut-off** is too early (an 8-week, ≥80% fall threshold performed better in a 740-patient discovery/validation study).
+- Whether the **4-week non-response cut-off** is too early (in a retrospective study — 370-patient discovery and 370-patient validation cohorts — an aminotransferase reduction of >80% from baseline after 8 weeks was associated with AST/ALT normalisation at 6 and 12 months and better outcomes).
 - Whether **Baveno VII LSM and platelet cut-offs** can be extrapolated to AIH — up to 52% of AIH patients with clear portal hypertension fell below them.
 - Whether **6-monthly HCC surveillance is cost-effective** in AIH cirrhosis, where annual risk sits below the 0.5%/year threshold.
 - Whether liver **biopsy before withdrawal** is more reliable than AST/ALT and IgG — strong prospective evidence is absent.

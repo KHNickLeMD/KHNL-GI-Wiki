@@ -3,7 +3,8 @@ title: "EASL Clinical Practice Guidelines on Hepatitis E Virus Infection"
 category: source
 tags: [hepatitis-e, hev, viral-hepatitis, hepatology, transplant, ribavirin, easl, guideline]
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-17
+verified: 2026-11-17
 sources: []
 raw: "GI Guidelines/EASL/EASL 2018 Hepatitis E Virus Infection CPG.pdf"
 ingest: partial
@@ -21,7 +22,7 @@ ingest: partial
 
 European Association for the Study of the Liver (EASL) clinical practice guideline on hepatitis E virus (HEV) infection. Its premise is a paradigm shift: HEV was once thought to be an imported infection of travellers returning from Asia or Africa, but is now known to be **endemic in most high-income countries and largely zoonotic**, and locally acquired HEV is the commonest cause of acute viral hepatitis in many European countries. The guideline is therefore deliberately focused on **HEV genotype (gt) 3 (and 4)**; management of gt 1/2 outbreaks in resource-limited settings is deferred to the World Health Organization (WHO) guidelines.
 
-The document separates the two clinical pictures. **Acute HEV** (gt 3) is clinically silent in the vast majority; probably fewer than 5% develop symptomatic hepatitis, disproportionately older males, and progression to acute liver failure is rare in previously healthy people but real in those with pre-existing chronic liver disease, where acute-on-chronic liver failure and high mortality are described. **Chronic HEV** occurs only in the immunosuppressed (solid organ transplant [SOT] recipients, haematological disease, human immunodeficiency virus [HIV] with low CD4 count, heavy immunosuppression for rheumatic disease), is defined by persistent HEV RNA, and can progress rapidly to cirrhosis, decompensation and death.
+The document separates the two clinical pictures. **Acute HEV** (gt 3) is clinically silent in the vast majority; probably fewer than 5% develop symptomatic hepatitis, disproportionately older males, and progression to acute liver failure is rare; acute hepatitis E is a concern in pre-existing chronic liver disease, where some cases of acute-on-chronic liver failure are caused by HEV. **Chronic HEV** occurs only in the immunosuppressed (solid organ transplant [SOT] recipients, haematological disease, human immunodeficiency virus [HIV] with low CD4 count, heavy immunosuppression for rheumatic disease), is defined by persistent HEV RNA, and can progress rapidly to cirrhosis, decompensation and death.
 
 Diagnosis is reframed around two rules: **test everyone with hepatitis, irrespective of travel history**, as part of first-line virological investigation; and **in the immunosuppressed, serology is unreliable — use nucleic acid amplification testing (NAT)**, because anti-HEV immunoglobulin (Ig) M and IgG are often undetectable in chronically infected patients. Serology plus NAT in combination is the recommended approach in the immunocompetent. Extrahepatic disease — above all **neurological injury** (neuralgic amyotrophy, Guillain-Barré syndrome, encephalitis/myelitis) and **renal injury** (membranoproliferative and membranous glomerulonephritis, with or without cryoglobulinaemia) — generates its own testing recommendations, including testing irrespective of liver test results.
 
@@ -94,20 +95,20 @@ Treatment is pragmatic. Acute HEV usually needs no antiviral therapy; ribavirin 
 ### Virology, genotypes and epidemiology
 - HEV: 7.2-kb positive-strand RNA virus, family *Hepeviridae*, genus *Orthohepevirus*, species A; **eight genotypes**, four of which infect humans.
 - **gt 1 and 2** — obligate human pathogens, **faecal-oral via contaminated water**; gt 1 Asia/Africa, gt 2 Africa and Mexico; sporadic cases punctuated by outbreaks of thousands to tens of thousands.
-- **gt 3 and 4** — **zoonotic**, endemic in pigs, wild boar and deer; human infection from undercooked pork products (e.g. figatellu sausage), direct animal contact, contaminated shellfish, irrigated produce; gt 3 dominant in Europe/USA/Japan/South America, gt 4 mainly China/Japan (also found in European pigs and cattle milk).
+- **gt 3 and 4** — **zoonotic**, endemic in pigs, wild boar and deer; human infection from undercooked pork products (e.g. figatellu sausage), direct animal contact, contaminated shellfish, irrigated produce; infectious HEV found in the food chain in Europe, Japan and the USA. gt 3 is the dominant circulating genotype in Europe and almost universally the cause in South America; gt 4 found in a small number of European pigs, and in cattle and their milk in China (surviving pasteurisation) — not yet confirmed in Europe.
 - gt 5 and 6 so far only in wild boar; **gt 7 and 8 in camels** (one chronic human infection in a transplant recipient who consumed camel meat and milk).
 - Pigs are the primary host; R₀ of HEV in pigs is up to 8 — once one animal in a herd is infected, nearly all become infected.
 - At least **2 million locally acquired HEV infections in Europe each year** (seroprevalence and blood-donor data); the 2005 global estimate of 20 million infections / 3 million symptomatic cases / 70,000 deaths is based on gt 1 and 2 only and on insensitive assays, and requires urgent updating.
-- Epidemiology is shifting: in eastern China gt 1 has become uncommon and **gt 4 is now the commonest human genotype**; zoonotic HEV in high-income countries is most common in **middle-aged men**.
+- Epidemiology is shifting: in eastern China gt 1 has become uncommon and **gt 4 is now the commonest human genotype**; as in high-income countries with zoonotic HEV, hepatitis E in China is now most common in **middle-aged men**.
 - 'Hot-spots' of HEV in Europe (south-west and south-east France; parts of the Netherlands, Germany, Scotland, Czech Republic, Italy, Poland); Scottish blood-donor viraemia rose from 1:14,500 to 1:2,481 with a 100% increase in seroprevalence in Edinburgh, mainly in individuals under 35 years.
 
 ### Acute infection (gt 3)
 - Clinically silent in the vast majority; **probably <5% develop symptoms** (elevated liver enzymes, jaundice, fatigue, itching, nausea).
 - Male predominance — M:F 3:1 in an English series, **median age 63 years**; likely host factors (subclinical hepatic steatosis/fibrosis, alcohol, diabetes) rather than differential exposure.
-- Progression to **acute liver failure (ALF) is rare** in immunocompetent gt 3 infection; in a German single-centre series of 80 ALF patients, **HEV RNA was found in 10%** and considered the probable cause in 7.5% (6 of 80).
+- Progression to **acute liver failure (ALF) is rare** in gt 3 infection; in a German single-centre study of 80 patients with ALF, **HEV RNA was found in 10%** and HEV was considered the probable cause.
 - Monitoring of liver enzymes is sufficient in patients without chronic disease: **alanine aminotransferase (ALT), aspartate aminotransferase (AST), bilirubin and international normalised ratio (INR)**.
 - Immunity after clearance is **not sterilising** — re-infection is possible, though symptomatic hepatitis is less likely.
-- Acute hepatitis E on chronic liver disease can cause **acute-on-chronic liver failure**; in elderly patients the course may be more severe. In a French/UK prospective cohort only **11/343 (3.2%)** patients with decompensated chronic liver disease had acute hepatitis E and three of those died, and HEV did not drive mortality in that study.
+- Acute hepatitis E on chronic liver disease can cause **acute-on-chronic liver failure**; in elderly patients the course may be more severe. Only **11/343** patients with decompensated chronic liver disease followed in France or the UK had acute hepatitis E and three of those died, and HEV did not drive mortality in that study.
 
 ### gt 1 and 2 — pregnancy and chronic liver disease
 - gt 1/2 cause brief, self-limiting hepatitis in young adults; **clinical attack rate on exposure approximately 1 in 5**.
@@ -131,8 +132,8 @@ Treatment is pragmatic. Acute HEV usually needs no antiviral therapy; ribavirin 
 ### Extrahepatic manifestations (Table 2)
 - **Neurological** (strongest evidence of causality, and the most important): neuralgic amyotrophy (NA), Guillain-Barré syndrome (GBS), meningoencephalitis/encephalitis-myelitis, mononeuritis multiplex, myositis, Bell's palsy, vestibular neuritis, peripheral neuropathy. Best documented: **NA, GBS and encephalitis/myelitis**.
   - Approximately **150 cases** of neurological injury with gt 3 described, mainly European; **>90% in the immunocompetent**; neurological injury also occurs with chronic gt 3 infection.
-  - NA: **5/47 (10.6%)** of a Dutch cohort had evidence of HEV infection at illness onset; HEV-associated NA has a distinct phenotype — **bilateral brachial plexus involvement, more extensive damage, neurological damage outside the brachial plexus, particularly phrenic nerve involvement**. In one centre's experience, the **triad of bilateral shoulder pain in a middle-aged male with abnormal liver tests is highly predictive of HEV infection**.
-  - In 450 consecutive patients with acute non-traumatic neurological injury, **2.4% had evidence of HEV infection**, three-quarters of whom had NA with bilateral involvement.
+  - NA: **5/47 (10.6%)** of an Anglo/Dutch cohort had evidence of HEV infection at illness onset; HEV-associated NA has a distinct phenotype — **bilateral brachial plexus involvement, more extensive damage, neurological damage outside the brachial plexus, particularly phrenic nerve involvement**. In one centre's experience, the **triad of bilateral shoulder pain in a middle-aged male with abnormal liver tests is highly predictive of HEV infection**.
+  - In 450 consecutive patients with acute non-traumatic neurological injury, **2.4% had evidence of HEV infection**, three of whom had NA with bilateral involvement.
   - GBS: HEV infection at onset of neurological illness in **5–11%** across case-control studies (Netherlands, Bangladesh, Japan); a Belgian cohort found **6/73 (8%)**.
   - Patients with HEV-associated neurological injury generally have only **modest abnormalities of liver function and are mostly anicteric**; some have normal liver tests.
 - **Renal** (good evidence for causality): **membranoproliferative and membranous glomerulonephritis** (with and without cryoglobulinaemia) and **IgA nephropathy**; reported in both immunocompetent and immunosuppressed. **Renal function improves and proteinuria decreases after HEV clearance**, spontaneous or treatment-induced.
@@ -170,10 +171,10 @@ Treatment is pragmatic. Acute HEV usually needs no antiviral therapy; ribavirin 
 
 | Immunological status | Patients who should be tested for HEV |
 |---|---|
-| Immunocompetent | Any patient with biochemical evidence of hepatitis · suspected drug-induced liver injury · decompensated chronic liver disease · neuralgic amyotrophy\* · Guillain-Barré syndrome\* · encephalitis\* · patients with unexplained acute neurology and a raised ALT |
-| Immunocompromised (developed countries) | As above · persistently abnormal ALT\*\* |
+| Immunocompetent | Any patient with biochemical evidence of hepatitis · suspected drug-induced liver injury · decompensated chronic liver disease\* · neuralgic amyotrophy\* · Guillain-Barré syndrome\* · encephalitis\* · patients with unexplained acute neurology and a raised ALT\*\* |
+| Immunocompromised (developed countries) | As above · persistently abnormal ALT\*\*\* |
 
-\*Test at disease onset irrespective of ALT results. \*\*If ALT is above the limit of normal on more than one occasion.
+\*Test at disease onset, irrespective of ALT results. \*\*Test at disease onset, if ALT is abnormal. \*\*\*If ALT is above the limit of normal on more than one occasion.
 
 ### Blood supply
 - HEV is transmitted by infected blood and blood products (documented in Europe for gt 3, Japan gt 3 and 4). Most transfusion-transmitted infection is asymptomatic; the risk that matters is **chronic infection in an immunosuppressed recipient**, easily overlooked because recipients are asymptomatic with only minor persistent liver test abnormalities.
@@ -202,3 +203,10 @@ Treatment is pragmatic. Acute HEV usually needs no antiviral therapy; ribavirin 
 - Case-control studies identify **consumption of undercooked pig meat, wild boar and deer** as risk factors in Europe. Recommending that the general population avoid undercooked pork is **not currently justified** — immunocompetent individuals are likely to tolerate exposure without significant health threat. Safety of strawberries, spinach, shellfish and camel milk requires further investigation.
 - Patient-to-patient transmission is poorly defined; sexual transmission described in men who have sex with men in one study but not found in another cohort. **Stool contains high amounts of infectious HEV and is more infectious than plasma-derived HEV** — strict hygienic recommendations should be observed to prevent spread by contaminated stool, e.g. in hospitals or nursing homes. HEV RNA is detectable in urine; whether HEV is transmitted by saliva, sweat, semen or breast milk is unclear.
 - **Vaccine:** licensed in China in 2011. **Efficacy 97% for preventing episodes of symptomatic acute hepatitis**, long-term efficacy confirmed on further follow-up. Based on a protein containing **239 amino acids of HEV ORF2 (aa 368–606), derived from gt 1**; dimerises to HEV 239. It prevented symptomatic gt 4 infections (suggesting cross-genotype efficacy), but **immunity is not sterilising and subclinical infections still occur**. Appears safe in pregnant women; long-term efficacy and safety in chronic liver disease and the immunosuppressed remain to be determined. **Not licensed outside China**; WHO 'prequalification' for emergency settings is being sought.
+
+## Relevance to Wiki
+- [[hepatitis-e]] — the disease page built from this guideline: who to test, diagnostic tests by immune status, chronic infection, extrahepatic manifestations, treatment ladder, prevention.
+- [[acute-liver-failure]] — ribavirin may be considered in severe acute hepatitis E or acute-on-chronic liver failure (C2); surfaced against AGA 2017 there.
+
+## Contradictions / Open Questions
+- **[[aga-2017-acute-liver-failure|AGA 2017 acute liver failure]] states "there is no treatment for HEV."** This guideline (2018, tier 1, newer) says ribavirin **may be considered** in severe acute hepatitis E or acute-on-chronic liver failure (C2), while noting that only very few case reports support it. EASL 2018 governs the wiki pages.
