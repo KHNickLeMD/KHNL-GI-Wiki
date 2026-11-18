@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, gallbladder-polyp, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-09-06
+updated: 2026-11-18
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -34,7 +34,7 @@ Most common biliary tract malignancy; typically adenocarcinoma of the gallbladde
 - Imaging: multiphasic abdomen/pelvis computed tomography (CT) **or** magnetic resonance imaging (MRI) with intravenous (IV) contrast, plus chest CT ± contrast, to define local extent, nodal status, and metastases ([[nccn-2026-biliary-tract-cancers]]).
 - Biopsy **not necessary in most cases** when disease is clearly resectable; diagnostic laparoscopy is recommended before definitive resection. When tissue is needed for nonoperative management, **core biopsy is preferred over fine-needle aspiration (FNA)** (more material for molecular profiling).
 - CA 19-9 and carcinoembryonic antigen (CEA): baseline assessment only — **not diagnostic** (elevated in other cancers and in jaundice from any cause).
-- Risk factors: gallstones/chronic cholecystitis, porcelain gallbladder, gallbladder polyps, chronic biliary inflammation, [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]].
+- Risk factors: gallstones/chronic cholecystitis, porcelain gallbladder, [[gallbladder-polyps|gallbladder polyps]], chronic biliary inflammation, [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]].
 - Jaundice is a **relative contraindication to surgery** — outcomes are poor; operate only if complete resection is feasible. Consider preoperative biliary drainage, decided by an experienced multidisciplinary team.
 
 ### Severity Assessment
@@ -77,11 +77,11 @@ Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
 
 *Workup: see [[biliary-stricture]].*
 
-[[cholangiocarcinoma|Cholangiocarcinoma]] (especially perihilar), benign gallbladder polyps and adenomyomatosis, xanthogranulomatous cholecystitis, [[hepatocellular-carcinoma|hepatocellular carcinoma]] invading the gallbladder fossa, and metastatic disease or lymphoma involving the gallbladder.
+[[cholangiocarcinoma|Cholangiocarcinoma]] (especially perihilar), benign [[gallbladder-polyps|gallbladder polyps]] and adenomyomatosis, xanthogranulomatous cholecystitis, [[hepatocellular-carcinoma|hepatocellular carcinoma]] invading the gallbladder fossa, and metastatic disease or lymphoma involving the gallbladder.
 
 ## Diagnostics
 
-- **Transabdominal US (TUS)** — first imaging test. Findings favoring adenocarcinoma over benign gallbladder disease: solitary or displaced gallstone, gallbladder (GB)-replacing or invasive mass, discontinuity of the mucosal echo, mural thickening or calcification, a mass/polyp ≥10 mm, a fixed mass, loss of the GB–liver interface, porcelain GB, or direct liver invasion ([[asge-2013-biliary-neoplasia]]).
+- **Transabdominal ultrasound (TUS)** — first imaging test. Findings favoring adenocarcinoma over benign gallbladder disease: solitary or displaced gallstone, gallbladder (GB)-replacing or invasive mass, discontinuity of the mucosal echo, mural thickening or calcification, a mass/polyp ≥10 mm, a fixed mass, loss of the GB–liver interface, porcelain GB, or direct liver invasion ([[asge-2013-biliary-neoplasia]]).
 - **CT** — typically an infiltrating or polypoid mass, or GB wall thickening. T-staging accuracy 71%–86%; **poor** for nodal involvement.
 - **[[mri-mrcp|MRI]]** — sensitivity 56%–92% for nodal invasion, 67%–100% for local involvement.
 - **[[endoscopic-ultrasound|Endoscopic ultrasound (EUS)]]** — close visualization of the wall layers; EUS-FNA of the GB wall reported sensitivity 80%, specificity 100%. Ability to predict nodal status is not well studied.
@@ -90,22 +90,7 @@ Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
 
 ### Gallbladder Polyps (precursor risk stratification)
 
-- Detected in **4%–7%** of healthy subjects; most are non-neoplastic. GB adenoma is the commonest neoplastic type and can progress to adenocarcinoma.
-- **Size is the key predictor** of gallbladder carcinoma. On CT/MRI, size ≥10 mm and **sessile** shape favor a neoplastic polyp; TUS detects polyps well (sensitivity 90%, specificity 94%) but is **inaccurate for typing** them.
-- **[[endoscopic-ultrasound|EUS]] types the polyp better than TUS** (97% vs 71% correct type assignment) — and typing is what separates the polyp that needs surgery from the one that does not:
-  - **Echogenic spots** — pathognomonic for a **cholesterol polyp**; **comet-tail artifact** — pathognomonic for **adenomyomatosis**. A polyp with *neither* feature predicts adenoma or adenocarcinoma.
-  - Three EUS variables predict a **neoplastic** polyp: (1) continuous maximum diameter **≥11 mm**, (2) **heterogeneous** internal echo pattern, (3) **absence** of hyperechoic spots.
-  - ⚠ Data are conflicting — one series found TUS *more* sensitive than EUS for GB cancer (90% vs 86%) and superior to both CT and EUS for staging.
-- **"Other risk factors" for GB cancer** in a polyp patient, as defined by the source: **age ≥60 y, coexisting gallstones, sessile morphology**. The American Society for Gastrointestinal Endoscopy (ASGE) notes these patients with polyps ≥6 mm *may* benefit from cholecystectomy, but calls the evidence insufficient to advocate it.
-
-Management ([[asge-2013-biliary-neoplasia]]; grade in parentheses):
-
-| Scenario | Recommendation |
-|---|---|
-| Symptomatic gallbladder polyp | Cholecystectomy (Moderate) |
-| Asymptomatic polyp **>10 mm** | Cholecystectomy (Low) |
-| Asymptomatic polyp **6–10 mm, no other risk factors** | TUS surveillance every 12 months (Low) |
-| Any polyp, **any size**, in [[primary-sclerosing-cholangitis\|PSC]] | Cholecystectomy (Moderate) |
+- Polyp definitions, risk categories, size-based surveillance vs surgical consult, and the Society of Radiologists in Ultrasound (SRU) 2022 vs American Society for Gastrointestinal Endoscopy (ASGE) 2013 thresholds: see [[gallbladder-polyps]].
 
 ## Therapeutics
 
@@ -149,7 +134,7 @@ The trigger is **T stage plus margin and cystic duct node status**:
 
 ## See Also
 
-[[cholangiocarcinoma]], [[biliary-stricture]], [[acute-cholecystitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[jaundice]]
+[[cholangiocarcinoma]], [[biliary-stricture]], [[acute-cholecystitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[gallbladder-polyps]], [[brca-pathogenic-variants]], [[jaundice]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "ASGE Guideline: The Role of Endoscopy in the Evaluation and Treatment of
 category: source
 tags: [biliary-neoplasia, cholangiocarcinoma, ampullary-adenocarcinoma, gallbladder-cancer, gallbladder-polyp, eus, ercp, idus, indeterminate-biliary-stricture, asge]
 created: 2026-06-29
-updated: 2026-10-20
+updated: 2026-11-18
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2013 Biliary Neoplasia.pdf"
 ---
@@ -20,18 +20,18 @@ raw: "GI Guidelines/ASGE/ASGE 2013 Biliary Neoplasia.pdf"
 
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on the endoscopic approach to biliary neoplasia — ampullary adenocarcinoma, [[cholangiocarcinoma]], and [[gallbladder-cancer|gallbladder neoplasia (polyps and adenocarcinoma)]]. It is a 2013 update of a 2005 ASGE document. The central tools are endoscopic ultrasound (EUS, with fine-needle aspiration [FNA]), magnetic resonance cholangiography (MRC), endoscopic retrograde cholangiopancreatography (ERCP) (tissue acquisition + palliation), and intraductal ultrasound (IDUS).
 
-Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LFTs) with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is reserved for tissue acquisition and palliation of [[biliary-stricture|indeterminate strictures]]. For gallbladder polyps, size and symptoms drive the decision between cholecystectomy and surveillance.
+Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LFTs) with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is reserved for tissue acquisition and palliation of [[biliary-stricture|indeterminate strictures]]. For [[gallbladder-polyps|gallbladder polyps]], size and symptoms drive the decision between cholecystectomy and surveillance.
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; the document marks it with filled and open circles — ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low):**
+**Recommendations (verbatim; the document does not number them — numbers 1–7 are the wiki's; with GRADE quality of evidence; the document marks it with filled and open circles — ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low):**
 
 1. We recommend that EUS be performed in patients with suspected ampullary adenocarcinoma or cholangiocarcinoma if the EUS findings or positive FNA results would change management. (Moderate)
 2. We recommend MRC to assess for resectability if a CT [computed tomography] scan suggests cholangiocarcinoma, particularly of the bifurcation. If the lesion is unresectable, endoscopic palliation of jaundice should be performed by using MRC as a guide for unilateral drainage to minimize the risk of cholangitis. (High)
 3. We recommend ERCP to obtain tissue or facilitate further evaluation of indeterminate strictures. (Moderate)
 4. We recommend that symptomatic patients with a gallbladder polyp (GBP) undergo cholecystectomy. (Moderate)
 5. We suggest that asymptomatic patients with a GBP larger than 10 mm undergo cholecystectomy. (Low)
-6. We suggest that asymptomatic patients with a GBP 6 mm to 10 mm in size and without other risk factors for gallbladder cancer undergo surveillance (e.g., transabdominal ultrasound every 12 months). (Low)
+6. We suggest that asymptomatic patients with a GBP 6 mm to 10 mm in size and without other risk factors for GB [gallbladder] cancer be followed by TUS [transabdominal ultrasound] every 12 months. (Low)
 7. We recommend that the presence of any GBP should prompt cholecystectomy in patients with PSC [primary sclerosing cholangitis]. (Moderate)
 
 **Other points:**

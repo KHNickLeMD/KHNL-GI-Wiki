@@ -4,7 +4,7 @@ category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
 updated: 2026-11-18
-sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
+sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis, sru-2022-gallbladder-polyps]
 ---
 
 ## Assessment
@@ -231,8 +231,9 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 
 **[[gallbladder-cancer|Gallbladder cancer]] surveillance (GS 20):**
 
-- Gallbladder polyps ≤8 mm → may be monitored with US every 6 months
+- [[gallbladder-polyps|Gallbladder polyps]] ≤8 mm → may be monitored with US every 6 months
 - Gallbladder polyps >8 mm → cholecystectomy should be considered (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
+- Society of Radiologists in Ultrasound (SRU) 2022 incidental-polyp algorithm **should not be applied to patients with PSC** — refer to specialty guidelines ([[sru-2022-gallbladder-polyps]])
 
 **[[hcc-surveillance|HCC surveillance]] (GS 21):**
 
@@ -328,7 +329,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[ursodeoxycholic-acid]], [[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]], [[extraintestinal-manifestations-ibd]]
+[[ursodeoxycholic-acid]], [[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[gallbladder-polyps]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]], [[extraintestinal-manifestations-ibd]]
 
 ---
 
@@ -344,3 +345,4 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 8. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
 9. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
 10. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
+11. [[sru-2022-gallbladder-polyps|Management of Incidentally Detected Gallbladder Polyps: Society of Radiologists in Ultrasound Consensus Conference Recommendations (2022)]]

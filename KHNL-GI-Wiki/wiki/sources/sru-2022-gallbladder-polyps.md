@@ -7,7 +7,6 @@ updated: 2026-11-18
 verified: 2026-11-18
 sources: []
 raw: "GI Guidelines/Other/SRU 2022 Incidentally Detected Gallbladder Polyps Consensus (Kamaya).pdf"
-ingest: partial
 ---
 
 ## Bibliographic Info
@@ -24,7 +23,7 @@ ingest: partial
 
 ## Summary
 
-Gallbladder polyps are common on ultrasound (US) and almost all those <10 mm are benign cholesterol (pseudo)polyps or inflammatory polyps. Recent cohort data show the risk of gallbladder cancer (GBC) is not increased in patients with small polyps, so the SRU panel set out to cut frequent, prolonged follow-up and unnecessary cholecystectomy for incidental polyps.
+[[gallbladder-polyps|Gallbladder polyps]] are common on ultrasound (US) and almost all those <10 mm are benign cholesterol (pseudo)polyps or inflammatory polyps. Recent cohort data show the risk of gallbladder cancer (GBC) is not increased in patients with small polyps, so the SRU panel set out to cut frequent, prolonged follow-up and unnecessary cholecystectomy for incidental polyps.
 
 Applicability is checked first (Figure 1): technically inadequate studies get a short-interval repeat US; possible tumefactive sludge or adenomyomatosis >10 mm gets repeat US or contrast-enhanced US (CEUS)/magnetic resonance (MR); high suspicion of invasive cancer → oncologic referral; **primary sclerosing cholangitis (PSC) is excluded** and goes to gastroenterology specialty guidelines.
 

@@ -6,6 +6,24 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] lint | 06:00 pass — daily fetch, finish the SRU gallbladder-polyp partial
+
+**Scope:** backlog mode, $12 budget. Finish `[[sru-2022-gallbladder-polyps]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Daily source fetch:** nothing downloaded — nothing qualified. Every download row in `needed-sources.md` is 🔒 (Eckardt 1992, WHO 5th ed.) or 🌐 (CDC Yellow Book, NIH OI guidelines); no label rows.
+
+**`[[sru-2022-gallbladder-polyps]]` — finished, `ingest: partial` removed.**
+- *Propagation (from the verified source page):* new disease script [[gallbladder-polyps]] (pancreaticobiliary) owns the SRU definitions table, Figure 1 applicability flowchart, Figure 2 risk × size table, follow-up rules and the PSC exclusion. The ASGE 2013 polyp section moved there from [[gallbladder-cancer]] (now one line + link), with the SRU 2022 vs ASGE 2013 contradiction surfaced (surgery >10 mm vs ≥15 mm / ≥7 mm indeterminate; yearly TUS vs no follow-up / 12 months / stop by 3 years; age and gallstones as risk factors vs not; EUS for typing vs not routine). [[primary-sclerosing-cholangitis]]: one line that SRU excludes PSC. Inline links added on both source pages.
+- *Gate:* `fidelity-check.py` on the three topic pages — 0 ABSENT/OTHER/NOMATCH on written lines; 19 SIGN lines read off rendered SRU pp. 2, 3, 6, 9.
+- *Independent check* (fresh agent, whole new page + changed lines, rendered Figures 1–2): ~72 claims, all supported. `verified: 2026-11-18` set on [[gallbladder-polyps]].
+- *Fix every copy:* [[asge-2013-biliary-neoplasia]] rec 6 read "surveillance (e.g., transabdominal ultrasound every 12 months)"; the PDF says "be followed by TUS every 12 months" — fixed; added that the 1–7 numbering is the wiki's (ASGE numbers nothing). No other copy found.
+- *Index:* new [[gallbladder-polyps]] row; [[gallbladder-cancer]] row now points to it. **Repaired a spliced index row** — the tail of the [[stapfer-2000-duodenal-perforation-ercp]] description had been pasted onto the end of the SRU row; moved back. `needed-sources.md` SRU row removed.
+- *Cards:* new `gallbladder-polyps.md` card file (9 notes: risk categories, management by size per category, follow-up rules, age/gallstones non-factors, >10 mm sludge question, symptomatic polyp, EUS features). From `gallbladder-cancer.md`: 9b1001 and 9b1003 moved to the new file; 9b1002 (ASGE "other risk factors") retired as superseded by SRU; 9b1004 (EUS neoplasia predictors) retired, SRU says EUS is not part of the typical evaluation. `node` blocked in this sandbox → the 05:00 pass builds; `{at:}` ids checked against `anki-at.py` heading ids.
+
+---
+
 ## [2026-11-18] lint | Manual pass — finish the AIH partial, ingest by budget
 
 **Scope:** backlog mode, $12 budget. Finish `[[easl-2025-autoimmune-hepatitis]]` (still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
