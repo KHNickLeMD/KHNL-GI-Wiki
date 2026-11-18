@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-11-16
+updated: 2026-11-18
 sources: [acg-2026-preventive-care-cirrhosis, acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, aga-2019-psc-cancer-surveillance, baveno-viii-2026-portal-hypertension, asge-2025-ibd-endoscopy-consensus, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -139,9 +139,10 @@ Primary sclerosing cholangitis (PSC) is a chronic, cholestatic liver disease lik
 
 **Overlap syndromes:**
 
-- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14). ⚠ **The budesonide option is superseded** — [[easl-2025-autoimmune-hepatitis|EASL 2025]] removes budesonide from first-line AIH therapy and **contraindicates it in cirrhosis**
-- **AIH/PSC variant — EASL 2025 regimen** (weak recommendation; management targets the predominant component): **immunosuppression ± [[ursodeoxycholic-acid|UDCA]]** in adults and children. Combine when the **simplified AIH score is >5 and the modified hepatic activity index (mHAI) is >3** — predniso(lo)ne **0.5 mg/kg/day tapered to 10–15 mg/day** plus **UDCA 13–15 mg/kg/day**, which improved survival and reduced liver transplantation versus classic PSC. A biopsy showing **moderate and/or severe hepatitis is mandatory** whichever diagnostic score is used. Doses, response definitions and the paediatric score: [[autoimmune-hepatitis]] ([[easl-2025-autoimmune-hepatitis]])
-- **Every child with AIH gets magnetic resonance cholangiography at diagnosis**, independent of cholestatic enzymes, repeated if activity or cholestatic features persist; consider underlying sclerosing cholangitis in **every** case of childhood AIH (strong). Not needed under age 6 if gamma-glutamyltransferase (GGT) is normal. Failure to reach complete biochemical response is itself a reason to look for sclerosing cholangitis ([[easl-2025-autoimmune-hepatitis]])
+- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14). ⚠ **The budesonide option is superseded** — [[easl-2025-autoimmune-hepatitis|European Association for the Study of the Liver (EASL) 2025]] removes budesonide from first-line AIH therapy and **contraindicates it in cirrhosis**
+- **AIH/PSC variant — EASL 2025 regimen:** direct management at the **predominant component** (strong recommendation); **immunosuppression ± [[ursodeoxycholic-acid|UDCA]]** is suggested in adults and children (weak recommendation). Immunosuppression plus UDCA can be used when the **simplified AIH score is >5 and the modified hepatic activity index (mHAI) is >3** — predniso(lo)ne **0.5 mg/kg/day tapered to 10–15 mg/day** plus **UDCA 13–15 mg/kg/day**, which improved survival and reduced liver transplantation versus classic PSC. A biopsy showing **moderate and/or severe hepatitis is mandatory** whichever diagnostic score is used. Doses, response definitions and the paediatric score: [[autoimmune-hepatitis]] ([[easl-2025-autoimmune-hepatitis]])
+- **Every child with AIH gets magnetic resonance cholangiography at diagnosis**, independent of cholestatic enzymes, repeated if activity or cholestatic features persist; consider underlying sclerosing cholangitis in **every** case of childhood AIH (strong). Not needed under age 6 if gamma-glutamyltransferase (GGT) is normal. In **young adults** with AIH, cholestasis or failure to reach complete biochemical response also warrants magnetic resonance cholangiography ([[easl-2025-autoimmune-hepatitis]])
+- **Adults with AIH and cholestatic features** (at diagnosis or on follow-up): consider an AIH/PSC or AIH/[[primary-biliary-cholangitis|PBC]] variant; test **PBC-specific autoantibodies first**, then magnetic resonance cholangiography **if they are negative** (strong recommendations) ([[easl-2025-autoimmune-hepatitis]])
 - IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC) — regimen on [[igg4-related-cholangitis]]
 
 **[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
@@ -230,8 +231,8 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 
 **[[gallbladder-cancer|Gallbladder cancer]] surveillance (GS 20):**
 
-- Gallbladder polyps ≤8 mm → US every 6 months
-- Gallbladder polyps >8 mm → cholecystectomy (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
+- Gallbladder polyps ≤8 mm → may be monitored with US every 6 months
+- Gallbladder polyps >8 mm → cholecystectomy should be considered (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
 
 **[[hcc-surveillance|HCC surveillance]] (GS 21):**
 

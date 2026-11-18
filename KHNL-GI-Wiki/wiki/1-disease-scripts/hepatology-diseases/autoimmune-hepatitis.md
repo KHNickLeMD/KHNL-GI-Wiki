@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-17
+updated: 2026-11-18
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-2025-autoimmune-hepatitis, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
 ---
 
@@ -388,7 +388,8 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 - Do NOT use budesonide (or AZA) here
 - **Abandon ineffective treatment quickly — within 1–2 weeks.** Failure of *any* inflammation/function test to improve (especially bilirubin), or any clinical deterioration or new HE, mandates immediate LT consideration
 - Balance the benefit against the two harms the guidance names: infection and **delay of LT**
-- **The call can be made at day 3, not week 2.** The **SURFASA score** — baseline INR plus the *change* in INR and bilirubin over the first three days of steroids — predicted non-response with AUROC 0.93; below its −0.9 cut-off LT-free survival was 92%, at or above it 23%. Formula, bands and caveats: [[acute-liver-failure#Etiology-Specific Treatments|acute liver failure]]. [[de-martin-2021-surfasa-acute-severe-aih]]
+- **The call can be made at day 3, not week 2.** Day-3 and day-7 models, including the **SURFASA score** (baseline INR plus the *change* in INR and bilirubin over the first three days of steroids), predict death or LT with high accuracy; a SURFASA score **>1.75** carries an **85–100%** risk of death or transplantation [[easl-2025-autoimmune-hepatitis]]
+  - ⚠ **The printed formulas differ:** EASL 2025 prints the constant as **6.80**, the derivation paper as **−6.80**. The paper also sets a lower cut-off of **−0.9** (LT-free survival 92% below it, 23% at or above it) and calls scores **between −0.9 and 1.75 not discriminant**; it gives the upper band as >1.5 in its Results and >1.75 in its Discussion [[de-martin-2021-surfasa-acute-severe-aih]]. Formula, bands and caveats: [[acute-liver-failure#Etiology-Specific Treatments|acute liver failure]]
 - **Do not judge response by transaminases in the acute severe setting** — response did not correlate with transaminase improvement, unlike in chronic AIH, where normal AST/ALT define remission. [[de-martin-2021-surfasa-acute-severe-aih]]
 - **Autoantibodies are often unimpressive in AS-AIH** — ANA ≥1:80 in 61% and ASMA ≥1:80 in 50% of a 128-patient cohort, which is why **histology is the anchor** here. [[de-martin-2021-surfasa-acute-severe-aih]]
 
@@ -528,7 +529,7 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 | Line | Drug | Dose | Notes |
 |---|---|---|---|
 | First | Predniso(lo)ne | **1–2 mg/kg/day, max 60 mg daily** | Taper to maintenance **2.5–5 mg/day**; paediatric budesonide experience is limited |
-| First | [[thiopurines\|Azathioprine]] | **1 mg/kg/day**, titrate up to max **2–2.5 mg/kg/day** | Start **after 2 weeks**, or second-line for insufficient response to predniso(lo)ne. Caution if jaundiced (hepatotoxic); check TPMT first; monitor the 6-MMP/6-TGN ratio |
+| First | [[thiopurines\|Azathioprine]] | **1 mg/kg/day**, titrate up to max **2–2.5 mg/kg/day** | Start **after 2 weeks**, or second-line for insufficient response to predniso(lo)ne. Caution if jaundiced (hepatotoxic); TPMT levels can be checked before starting; monitor the 6-MMP/6-TGN ratio |
 | Second | [[mycophenolate-mofetil\|MMF]] | Weight-based twice daily — [[mycophenolate-mofetil#Children\|doses on the drug page]] | Replaces azathioprine in refractory AIH; adverse events ≈48%; **teratogenic** |
 | Third | [[tacrolimus\|Tacrolimus]] | **0.05 mg/kg/day** in 2 divided doses; trough ≈**5 ng/ml** | Rarely used second-line; adverse events ≈42%; nephrotoxicity and diabetes risk |
 | Third | Cyclosporine ([[calcineurin-inhibitors\|calcineurin inhibitor]]) | **4 mg/kg/day** in 2 divided doses; trough **200–250 ng/ml**, decreasing after remission | Occasional induction use; adverse events ≈78%; cosmetic side effects, nephrotoxicity |

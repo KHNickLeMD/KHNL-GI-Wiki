@@ -3,7 +3,7 @@ title: "Liver Transplantation — Candidacy and Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-11-17
+updated: 2026-11-18
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures, aasld-easl-2026-aclf-global-consensus, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -53,6 +53,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
 | [[cholangiocarcinoma\|Cholangiocarcinoma]] | Unresectable perihilar <3 cm radial diameter, neoadjuvant protocol; mixed HCC-cholangiocarcinoma or intrahepatic <3 cm without extrahepatic disease — may consider (weak) |
 
 - Under-referred groups: [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]], African American race, lower socioeconomic status.
+- **[[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]]:** indications match other liver diseases — **decompensated cirrhosis, acute severe AIH, or AIH-related acute liver failure (including ACLF) → manage and evaluate for LT in a reference centre** (strong). In acute severe AIH without acute liver failure or ACLF, **no improvement after 3–7 days of corticosteroids** triggers referral to an LT centre (strong) ([[easl-2025-autoimmune-hepatitis]]).
 
 > [!pitfall] MELD alone never blocks referral
 > Refer at **any MELD** when portal hypertensive complications are uncontrolled — many low-MELD patients are "underrepresented by MELD" ([[aasld-ast-2025-liver-transplant-candidate-evaluation]]).
@@ -111,7 +112,7 @@ Definition, grading, futility and the ACLF candidacy factors: [[acute-on-chronic
 
 - **Allograft dysfunction:** pattern (hepatocellular vs cholestatic), histology (Banff rejection grade, fibrosis stage), synthetic function (international normalized ratio [INR], albumin, bilirubin).
 - **Early allograft dysfunction (EAD)** predicts graft/patient survival and re-transplant. Olthoff: peak AST/ALT **>2000 U/L** in first 7 days, or bilirubin **≥10 mg/dL** or INR **≥1.6** on postoperative day (POD) 7. Preferred: **L-GrAFT** (POD 7 or 10 bilirubin, INR, platelets) or **Early Allograft Failure Simplified Estimation** (MELD, transfusion, early vessel thrombosis, center volume) — better predict 3-month graft failure.
-- **Rejection patterns:** T-cell–mediated rejection (TCMR) in 10–30%, usually first 3 months — late TCMR (>6 months) carries lower graft survival and ductopenic risk; plasma cell–rich rejection in 3–5% of non-[[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] recipients (AIH-like histology, lymphocytic cholangitis, IgG4-positive plasma cells); [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]] = C4d + donor-specific antibodies + histology + graft dysfunction; chronic ductopenic rejection = interlobular bile duct loss, **>50% of portal tracts = vanishing bile duct syndrome** (may need re-transplant).
+- **Rejection patterns:** T-cell–mediated rejection (TCMR) in 10–30%, usually first 3 months — late TCMR (>6 months) carries lower graft survival and ductopenic risk; plasma cell–rich rejection in 3–5% of non-AIH recipients (AIH-like histology, lymphocytic cholangitis, IgG4-positive plasma cells); [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]] = C4d + donor-specific antibodies + histology + graft dysfunction; chronic ductopenic rejection = interlobular bile duct loss, **>50% of portal tracts = vanishing bile duct syndrome** (may need re-transplant).
 
 ## Differential Diagnosis
 
@@ -120,7 +121,7 @@ Definition, grading, futility and the ACLF candidacy factors: [[acute-on-chronic
 | Timing | Causes of abnormal liver tests |
 |---|---|
 | Early (<3 months) | Primary non-function, hepatic artery thrombosis, acute cellular rejection, bile leak, drug toxicity, ischemia-reperfusion injury |
-| Late (>1 year) | Recurrent disease (HCV, HBV, MASLD, [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], AIH), late acute or chronic rejection, [[biliary-stricture\|biliary stricture]] (anastomotic or non-anastomotic), de novo AIH, chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
+| Late (>1 year) | Recurrent disease (HCV, HBV, MASLD, [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], AIH), late acute or chronic rejection, [[biliary-stricture\|biliary stricture]] (anastomotic or non-anastomotic), plasma cell–rich rejection hepatitis (formerly "de novo AIH"), chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
 
 - CNI toxicity is mainly renal, rarely hepatocellular.
 
@@ -190,7 +191,7 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 | Mild TCMR (Banff RAI <4) | Augment IS; cyclosporine → tacrolimus |
 | Moderate/severe TCMR | Methylprednisolone **500–1000 mg IV daily × 1–3 days** + augment IS (cyclosporine → tacrolimus; add antimetabolite or mTOR inhibitor); anti-infective prophylaxis during the pulse; 60–90% respond. Prednisone taper from 40–80 mg/day in 10–20 mg steps (center-variable) |
 | Refractory TCMR | Second steroid course or lymphocyte-depleting therapy; repeat biopsy for suboptimal response |
-| Plasma cell–rich rejection hepatitis | Predniso(lo)ne **at the doses used for non-transplant AIH** ([[autoimmune-hepatitis]]) + augment IS; add antimetabolite (may be azathioprine) and/or maintenance prednisone **5–10 mg/day** |
+| Plasma cell–rich rejection hepatitis | Predniso(lo)ne **at the doses used for non-transplant AIH** (strong; [[easl-2025-autoimmune-hepatitis]]) + augment IS; add antimetabolite (may be azathioprine) and/or maintenance prednisone **5–10 mg/day** |
 | AMR | Acute and chronic ladders on [[antibody-mediated-rejection-liver-transplant]] |
 | Ductopenic rejection | Augment IS **before duct loss exceeds 50% of portal tracts** — beyond that it is vanishing bile duct syndrome and far less reversible |
 
@@ -207,7 +208,7 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 - **[[hepatitis-c|HCV]]:** treat recurrence with direct-acting antivirals — regimens on [[hepatitis-c#Posttransplant HCV]]; the 2012 interferon recommendations are obsolete.
 - **PBC:** [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] **10–15 mg/kg/day** for histologically proven recurrence; the 2012 guideline advised against prophylactic UDCA, while newer post-LT data favor continuing it — recurrence rates and that evidence: [[primary-biliary-cholangitis]]. Monitor alkaline phosphatase, antimitochondrial antibody, thyroid function, bone density.
 - **PSC:** diagnose recurrence from non-anastomotic strictures on cholangiography + biopsy after excluding ischemic/anastomotic causes; UDCA not recommended; dominant stricture → dilation ± stent. Rates, risk factors, re-transplant: [[primary-sclerosing-cholangitis]].
-- **AIH:** recurrence **17–42% overall — 20% at 5 years, 31% at 10 years**; risk factors are **age at LT ≤42 years, mycophenolate use in the first year after LT, donor/recipient mismatch, cytomegalovirus status mismatch, and high pre-LT IgG** ([[easl-2025-autoimmune-hepatitis]]). Diagnosis rests mainly on **histology** — post-LT serology is unreliable. Abrupt steroid withdrawal and inadequate IS drive recurrence → ↑ steroids + [[thiopurines|azathioprine]], long-term low-dose steroids with a calcineurin inhibitor (mainly tacrolimus) as recurrence prophylaxis (weak); treat at non-transplant AIH doses. Regimens: [[autoimmune-hepatitis]].
+- **AIH:** recurrence **17–42% overall — 20% at 5 years, 31% at 10 years**; risk factors are **age at LT ≤42 years, mycophenolate use in the first year after LT, donor/recipient mismatch, cytomegalovirus status mismatch, and high pre-LT IgG** ([[easl-2025-autoimmune-hepatitis]]). Diagnosis rests mainly on **histology** — post-LT serology is unreliable. **Prevention:** low-dose predniso(lo)ne plus a calcineurin inhibitor (mainly tacrolimus) can be used as maintenance IS (weak). **Treatment:** predniso(lo)ne at the **same doses as non-transplant AIH** (strong), plus adjustment of baseline IS, which may include adding [[thiopurines|azathioprine]] ([[easl-2025-autoimmune-hepatitis]]). Regimens: [[autoimmune-hepatitis]].
 - **ALD:** abstinence, validated relapse screening, addiction treatment, smoking cessation — plan on [[alcohol-associated-liver-disease]].
 - **MASLD:** **biopsy** to confirm and stage recurrent or de novo disease; no specific therapy beyond weight, blood pressure, and diabetes control ([[#Cardiometabolic Management]], [[nafld-masld]]).
 
@@ -256,7 +257,7 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 ### Reproductive Health
 
 - Discuss contraception with all of childbearing age; delay pregnancy **≥1 year** post-LT; maternal-fetal medicine co-management.
-- **Mycophenolate is teratogenic** — stop **≥6 weeks** before conception (women), **≥90 days** (men); two contraceptive methods while on it. Tacrolimus/cyclosporine (frequent levels, expect dose changes), azathioprine, and corticosteroids are acceptable in pregnancy.
+- **Mycophenolate is teratogenic** — stop **≥6 weeks** before conception (women), **≥90 days** (men); two contraceptive methods while on it. ⚠ For patients with AIH, [[easl-2025-autoimmune-hepatitis|European Association for the Study of the Liver (EASL) 2025]] asks for withdrawal **at least 3 months before conception** (strong), without separating women and men. Tacrolimus/cyclosporine (frequent levels, expect dose changes), azathioprine, and corticosteroids are acceptable in pregnancy.
 
 ### Oncologic Surveillance
 
@@ -331,3 +332,4 @@ Highest stage 4–5 CKD risk of any solid-organ group; early [[aki-in-cirrhosis|
 5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
 6. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
 7. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+8. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

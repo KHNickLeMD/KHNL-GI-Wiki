@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-11-16
+updated: 2026-11-18
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -192,20 +192,32 @@ The "against maintenance" recommendations are among the strongest in both guidel
 
 ## Corticosteroids in Autoimmune Hepatitis
 
-The same two drugs, a different rule set — and the one place where **budesonide is explicitly contraindicated by liver physiology**. [[aasld-2020-autoimmune-hepatitis]]
+The same two drugs, a different rule set — and the one place where **budesonide is explicitly contraindicated by liver physiology**. [[easl-2025-autoimmune-hepatitis|European Association for the Study of the Liver (EASL) 2025]] is the newer guideline and governs; full regimens and response definitions on [[autoimmune-hepatitis]].
+
+| Setting in [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] | EASL 2025 | Strength, level of evidence (LoE) |
+|---|---|---|
+| **Induction** | Predniso(lo)ne **≥0.5 mg/kg/day**, up to **1 mg/kg/day** in more severe and advanced disease, with **[[thiopurines\|AZA]]** or **mycophenolate mofetil 1.5–2 g/day** | Strong, LoE 2 |
+| **Taper** | Individualised by complete biochemical response; rapid tapering (e.g. 5–10 mg every 1–2 weeks) is desirable but must follow response | Strong, LoE 4 |
+| **Maintenance** | AZA or mycophenolate mofetil alone or with **predniso(lo)ne ≤5 mg/day**. Low-dose predniso(lo)ne **monotherapy** only in mild disease with complete biochemical response and intolerance of **both** AZA and mycophenolate mofetil | Strong, LoE 2 / weak, LoE 3 |
+| **Budesonide** | **Not first line; contraindicated in [[cirrhosis\|cirrhosis]]** (also because of the high risk of portal vein thrombosis). A switch **may be suggested** for corticosteroid side effects in **non-cirrhotic, predniso(lo)ne-dependent** patients | Strong, LoE 2 / weak, LoE 3 |
+| **Acute severe AIH** (icteric, international normalized ratio [INR] ≥1.5 but <2, no [[hepatic-encephalopathy\|hepatic encephalopathy (HE)]], no chronic lesions on liver biopsy) without acute liver failure or acute-on-chronic liver failure | Predniso(lo)ne **0.5–1 mg/kg/day** or IV methylprednisolone at an equivalent dose; **0.5 mg/kg/day** is the pragmatic start. **No improvement after 3–7 days → refer to a liver transplant centre** | Strong, LoE 3 |
+| **Decompensated cirrhosis** with activity (raised aminotransferases and/or modified hepatic activity index ≥4) | Consider corticosteroids (median predniso(lo)ne 20–30 mg/day in reported series) | Strong, LoE 4 |
+| **Bone and eyes** | DEXA in all adults at treatment start; calcium and vitamin D on long-term corticosteroids; intraocular pressure at baseline and periodically | Strong, LoE 3 (DEXA; calcium/vitamin D) |
+
+**[[aasld-2020-autoimmune-hepatitis|American Association for the Study of Liver Diseases (AASLD) 2020]]** (older; differences flagged):
 
 | Recommendation | Strength | Certainty |
 |---|---|---|
-| **Rec 1** — In children and adults with [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] **without [[cirrhosis\|cirrhosis]] or acute severe AIH**: **budesonide 3 mg TID + [[thiopurines\|AZA]]** (adults 50–150 mg/day; children 1–2 mg/kg/day) **OR prednisone/prednisolone + AZA** are **equally acceptable** first-line therapies | Conditional | Low |
-| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (international normalized ratio [INR] 1.5–<2.0 without [[hepatic-encephalopathy\|hepatic encephalopathy (HE)]]): do **NOT** use budesonide | Conditional | Very low |
+| **Rec 1** — In children and adults with AIH **without cirrhosis or acute severe AIH**: **budesonide 3 mg TID + AZA** (adults 50–150 mg/day; children 1–2 mg/kg/day) **OR prednisone/prednisolone + AZA** are **equally acceptable** first-line therapies — ⚠ superseded by EASL 2025 (budesonide not first line) | Conditional | Low |
+| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (INR 1.5–<2.0 without HE): do **NOT** use budesonide | Conditional | Very low |
 
 - **Why budesonide fails in cirrhosis:** portal-systemic shunting **bypasses the first-pass effect**, eliminating the systemic side-effect advantage that is its entire rationale.
-- **Acute severe AIH** (jaundice + INR 1.5–<2, no HE): initiate a **prednisone trial** and reassess at **1–2 weeks**; no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]].
+- **Acute severe AIH** (jaundice + INR 1.5–<2, no HE): initiate a **prednisone trial** and reassess at **1–2 weeks**; no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]]. ⚠ EASL 2025 makes the call earlier — **3–7 days** (table above).
 - **AIH-related [[acute-liver-failure|acute liver failure]]** (INR ≥2 + HE): evaluate directly for transplantation — do not delay listing while awaiting a steroid response. Budesonide is contraindicated here as well.
 - **94%–95%** of AIH patients are steroid-responsive; only **~30%** can discontinue all immunosuppression long-term.
 - **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
-- American Association for the Study of Liver Diseases (AASLD) 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
-- ⚠ **The first-line budesonide option is superseded.** [[easl-2025-autoimmune-hepatitis|EASL 2025]] removes budesonide from first-line AIH therapy and **contraindicates it in cirrhosis**; the newer document governs. The contraindication in cirrhosis and acute severe AIH is common to both. Regimens and response definitions: [[autoimmune-hepatitis]]
+- AASLD 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
+- Both guidelines contraindicate budesonide in cirrhosis; only AASLD 2020 keeps it first line.
 
 ---
 
@@ -226,3 +238,4 @@ The same two drugs, a different rule set — and the one place where **budesonid
 7. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review]]
 8. [[ecco-2017-crohns-part-1|ECCO 3rd European Evidence-based Consensus on the Diagnosis and Management of Crohn's Disease 2016: Part 1 — Diagnosis and Medical Management]]
 9. [[global-consensus-2025-pregnancy-ibd|Global Consensus Statement on the Management of Pregnancy in Inflammatory Bowel Disease (2025)]]
+10. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

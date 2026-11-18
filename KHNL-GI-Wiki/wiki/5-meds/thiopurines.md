@@ -3,7 +3,7 @@ title: "Thiopurines (Azathioprine, 6-Mercaptopurine)"
 category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
-updated: 2026-11-17
+updated: 2026-11-18
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2017-tdm-ibd, aga-2017-tdm-ibd-technical-review, easl-2025-autoimmune-hepatitis, global-consensus-2025-pregnancy-ibd, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -55,6 +55,8 @@ Purine-antimetabolite **immunomodulators**: **azathioprine (AZA)** and **6-merca
 
 - Both dose ranges are from [[acg-2025-crohns]] Rec 8 and 9. **The 6-MP lower bound is stated inconsistently within that guideline** (0.75 in the recommendation, 1.0 in the text) — noted rather than silently resolved.
 - Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; the equivalent early-azathioprine strategy in adults did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
+- **AIH induction (azathioprine):** only when **bilirubin <6 mg/dl**, ideally started **2 weeks after** the corticosteroid; **50 mg/day** initially, up to a final **1–2 mg/kg/day**. Avoid in acute severe AIH and decompensated cirrhosis; caution in TPMT deficiency, pregnancy, cytopenias and malignancy. Maintenance dose is adapted to keep a stable complete biochemical response ([[easl-2025-autoimmune-hepatitis]]).
+- **AIH in children:** azathioprine **1 mg/kg/day**, titrated to a maximum of **2–2.5 mg/kg/day**, started after 2 weeks; TPMT levels can be checked before starting; caution if jaundiced ([[easl-2025-autoimmune-hepatitis]] Table 12).
 
 ### Alternatives in azathioprine intolerance
 
@@ -104,7 +106,7 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 > [!howto] Allopurinol manoeuvre for a shunter
 > 1. Confirm adherence, and a disproportionately raised 6-MMP on the metabolite panel.
 > 2. **Reduce azathioprine to 25% of its dose**, a few days ahead of step 3.
-> 3. **Add allopurinol 100 mg/day**, then recheck metabolites and liver tests.
+> 3. **Add allopurinol 100 mg/day**; if the response is still insufficient, recheck metabolites and treat accordingly.
 >
 > **Contraindicated in pregnancy.** Weak recommendation in AIH ([[easl-2025-autoimmune-hepatitis]]).
 
@@ -138,6 +140,7 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 
 - ⚠ **TPMT testing does not replace this.** A significant share of thiopurine-related hematologic events occur **despite normal TPMT status**, and monitoring is obligatory for all thiopurine-treated patients regardless of the result. Real-world adherence is poor — a median of **3** counts in the first 8 weeks and **1** between weeks 9 and 26.
 - **Most leukopenia appears within 8 weeks** of starting, but it can emerge many months into therapy — monitoring does not stop being useful.
+- **In AIH:** aspartate and alanine aminotransferase, prothrombin time, fasting glucose and full blood count **weekly for the first month** on azathioprine — toxicity peaks in the first 6 weeks ([[easl-2025-autoimmune-hepatitis]]).
 - *The IBD guidelines themselves give no interval: [[acg-2025-crohns]] specifies routine white-cell and liver-chemistry monitoring only **for methotrexate**, and [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important."* The optimal frequency in IBD remains formally uncertain.
 
 ---
@@ -155,6 +158,7 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 - **Breastfeeding is compatible** — relative infant dose <1%, with no difference in growth, development or infection between breastfed and non-breastfed infants.
 - In-utero thiopurine exposure carries **no increased risk of early-childhood developmental delay** (conditional, very low).
 - Thiopurine + anti-TNF was the **only** exposure linked to more serious infection in the first 5 years (adjusted hazard ratio 1.36).
+- **In AIH:** continue thiopurine maintenance (± corticosteroids) through pregnancy (strong recommendation, level of evidence 3) ([[easl-2025-autoimmune-hepatitis]]).
 
 ---
 

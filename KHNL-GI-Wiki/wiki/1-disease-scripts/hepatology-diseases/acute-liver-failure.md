@@ -3,8 +3,8 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-11-17
-sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf, de-martin-2021-surfasa-acute-severe-aih, easl-2018-hepatitis-e]
+updated: 2026-11-18
+sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf, de-martin-2021-surfasa-acute-severe-aih, easl-2018-hepatitis-e, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Assessment
@@ -121,7 +121,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 **Viral hepatitis panel:**
 
 - HAV IgM, hepatitis B surface antigen (HBsAg), hepatitis B core IgM antibody (HBcIgM), HBV polymerase chain reaction (PCR), [[hepatitis-c|hepatitis C virus (HCV)]] PCR
-- [[hepatitis-e|HEV]] PCR (if endemic — [[acg-2023-alf]]); [[easl-2018-hepatitis-e|EASL 2018]] tests **all patients with hepatitis for HEV, irrespective of travel history** (A1) — **also test any pregnant woman with ALF** ([[aga-2017-acute-liver-failure]] Rec 4, conditional/very low). HEV is particularly common in pregnancy and mortality from HEV-associated ALF in pregnant women is **56% (range 33%–71%)** across five Indian studies. AGA 2017 states there is no treatment for HEV; the newer [[easl-2018-hepatitis-e|EASL 2018]] guideline says **ribavirin may be considered in severe acute hepatitis E or acute-on-chronic liver failure** (C2), with very few case reports behind it.
+- [[hepatitis-e|HEV]] PCR (if endemic — [[acg-2023-alf]]); [[easl-2018-hepatitis-e|European Association for the Study of the Liver (EASL) 2018]] tests **all patients with hepatitis for HEV, irrespective of travel history** (A1) — **also test any pregnant woman with ALF** ([[aga-2017-acute-liver-failure]] Rec 4, conditional/very low). HEV is particularly common in pregnancy and mortality from HEV-associated ALF in pregnant women is **56% (range 33%–71%)** across five Indian studies. AGA 2017 states there is no treatment for HEV; the newer [[easl-2018-hepatitis-e|EASL 2018]] guideline says **ribavirin may be considered in severe acute hepatitis E or acute-on-chronic liver failure** (C2), with very few case reports behind it.
 - Epstein-Barr virus (EBV) PCR, cytomegalovirus (CMV) PCR, herpes simplex virus (HSV) PCR, varicella-zoster virus (VZV) PCR
   - **HSV:** test and treat ([[aga-2017-acute-liver-failure]] Rec 2). Rare — 1% of 513 adults with ALF had positive HSV serologies — and **HSV DNA outperforms IgM** (in biopsy-confirmed HSV ALF, 2 of 4 had positive IgM but **4 of 4** had positive DNA).
   - **VZV:** [[aga-2017-acute-liver-failure]] Rec 3 suggests **against** routinely testing every *immunocompetent* patient (only 10 case reports of VZV-attributed ALF exist, 2 in non-immunocompromised hosts). [[acg-2023-alf]] is newer and includes VZV PCR in the initial panel — that is what this page follows; reserve the AGA position for resource-constrained settings.
@@ -320,7 +320,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - At the **−0.9** cut-off: sensitivity **84%**, specificity **88%**, PPV **75%**, NPV **93%**; AUROC **0.93** (95% CI 0.88–0.98) in the 83-patient derivation set, **0.95** on internal validation in 42 patients.
 - **Transaminases do not measure response here** — response was not correlated with transaminase improvement, unlike in chronic AIH. Both cirrhosis (METAVIR F4) and absence of chronic hepatitis (F0–F1) correlated with non-response.
 - Corticosteroid dose (**1 mg/kg/d vs 0.5 mg/kg/d**) made **no difference** to transplant or death in this cohort.
-- ⚠ Retrospective, 23 European centres, bilirubin in µmol/L, validated only internally; the paper's own Results section gives the upper band as >1.5 and its Discussion as >1.75. ACG 2023 describes the derivation cohort as acute severe AIH **without** ALF; the paper reports that **19 of its 128 patients (15%) presented with ALF and hepatic encephalopathy**, though only 37% of that subgroup received corticosteroids.
+- ⚠ **Guideline version:** [[easl-2025-autoimmune-hepatitis|EASL 2025]] cites SURFASA with the **>1.75** band only (85–100% risk of death or LT) and no −0.9 cut-off, and prints the constant as **6.80** rather than the paper's **−6.80**.
+- ⚠ Retrospective, 23 European centres, bilirubin in µmol/L, validated only internally; the paper's own Results section gives the upper band as >1.5 and its Discussion as >1.75, and prints the 23% LT-free-survival class as "≥0.9" beside the "<−0.9" class. ACG 2023 describes the derivation cohort as acute severe AIH **without** ALF; the paper reports that **19 of its 128 patients (15%) presented with ALF and hepatic encephalopathy**, though only 37% of that subgroup received corticosteroids.
 - AIH that has progressed to frank ALF: **early LT evaluation** (up to 48% ultimately require LT even with corticosteroids)
 - Vigilant infection surveillance with steroid use
 
@@ -396,3 +397,4 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 5. [[aasld-2011-alf|AASLD Position Paper: The Management of Acute Liver Failure — Update 2011]] (historical)
 6. [[de-martin-2021-surfasa-acute-severe-aih|Early Liver Transplantation for Corticosteroid Non-Responders with Acute Severe Autoimmune Hepatitis: The SURFASA Score]]
 7. [[easl-2018-hepatitis-e|EASL Clinical Practice Guidelines on Hepatitis E Virus Infection (2018)]]
+8. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]

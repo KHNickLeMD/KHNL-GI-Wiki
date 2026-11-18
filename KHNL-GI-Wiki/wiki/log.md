@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] lint | Manual pass — finish the AIH partial, ingest by budget
+
+**Scope:** backlog mode, $12 budget. Finish `[[easl-2025-autoimmune-hepatitis]]` (still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**`[[easl-2025-autoimmune-hepatitis]]` — finished, `ingest: partial` removed.**
+- *Propagation (from the verified source page):* [[thiopurines]] — AIH azathioprine induction gate (bilirubin <6 mg/dl, 50 mg/day → 1–2 mg/kg/day), Table 12 children's dosing, weekly labs in month 1, continue in pregnancy; allopurinol step 3 corrected to Fig. 4 ("liver tests" not in it). [[corticosteroids-ibd]] — new EASL 2025 AIH table (induction, taper, maintenance ≤5 mg/day, budesonide rules, acute severe AIH, decompensated cirrhosis); AASLD 2020 table kept as older. [[primary-sclerosing-cholangitis]] — AIH/PSC variant strong vs weak split corrected; "failure to reach CBR → look for sclerosing cholangitis" limited to young adults; cholestatic-features → PBC antibodies then MR cholangiography. [[liver-transplantation]] — AIH referral rule (strong; 3–7 days no improvement → LT centre); "de novo AIH" → plasma cell–rich rejection hepatitis; recurrence line that no source supported replaced with EASL prevention/treatment recs; MMF-before-conception contradiction surfaced (AASLD/AST ≥6 weeks women / ≥90 days men vs EASL ≥3 months).
+- *SURFASA reconciliation:* [[autoimmune-hepatitis]] now leads with EASL 2025 (day-3/day-7 models; >1.75 → 85–100% death or LT). The discrepancies are shown on the page: EASL prints the constant as 6.80 and the paper as −6.80; the paper adds a −0.9 cut-off and calls −0.9 to 1.75 non-discriminant; its upper band is >1.5 in Results and >1.75 in Discussion. [[acute-liver-failure]] got the same EASL caveat.
+- *Gate:* `fidelity-check.py` on all six pages. The flags on changed lines were NOMATCH paraphrases, all cleared by the check below. The `8 uln` ABSENTs are the known lost 8×10⁸ superscript. All other flags sit on lines this pass did not touch.
+- *Changed-line check* (fresh agent, 41 claims, rendered pages for every sign): 2 minor findings, both confirmed and fixed. Acute severe AIH definition missing "no chronic lesions on liver biopsy" ([[corticosteroids-ibd]]). Table 12 says TPMT "can be checked", not "check" ([[thiopurines]]). *Fix every copy:* the same TPMT overstatement was on [[autoimmune-hepatitis]] Table 12 row — fixed.
+- No touched page carried `verified:`. No cards: new cards need verified topic pages.
+- **Open, not fixed (unverified):** the propagating agent reports EASL Fig. 4 labels the 6-TGN cut-off in pmol/0.2 ml while the text uses pmol/8×10⁸ RBC. Check on the rendered p. 473 next pass before noting it anywhere.
+
+**`[[sru-2022-gallbladder-polyps]]` — new source, verified, `ingest: partial` KEPT (propagation owed).**
+- *Extract* (fresh agent, all 13 PDF pages read as images): 20 ungraded consensus statements (S-numbers are the wiki's), Definitions table, Figure 1 as a Mermaid flowchart, Figure 2 risk-category × size table with footnotes a–e. © RSNA, not CC → no screenshots.
+- *Gate:* 7 ABSENT, all numbers the PDF prints with thin-space separators (35 856, 586 357, 137 633, 100 000) — present. 2 OTHER: SRU values on a line comparing against ASGE, correctly labelled. NOMATCH paraphrases and 32 SIGN lines were left to the independent check.
+- *Independent check* (fresh agent, ~150 claims, Figures 1–2 and pp. 2, 3, 5, 6 read off rendered pages): all 20 statements present and correct. 3 minor findings, all fixed: ASGE's 12-monthly US applies only to polyps **without other GBC risk factors**; AASLD 2022 GS 20 says >8 mm cholecystectomy "should be considered" and ≤8 mm "may be monitored", not stronger wording; the "2-mm trigger too low" judgement belongs to a 434-patient study SRU cites, not to SRU. *Fix every copy:* the AASLD force overstatement was also on [[primary-sclerosing-cholangitis]] (GS 20 bullets) — fixed.
+- `verified: 2026-11-18` set; `index.md` row added.
+- **Still owed next pass:** create the `gallbladder-polyps` disease script (pancreaticobiliary) to own Figures 1–2 and the definitions; slim [[gallbladder-cancer]]'s polyp section to a line + link with the ASGE 2013 vs SRU 2022 contradiction surfaced; one line on [[primary-sclerosing-cholangitis]] that SRU excludes PSC; gate + changed-line check; remove the `needed-sources.md` row (line 31) when done.
+
+**Nothing qualified / did not run:**
+- No third file started: budget left after verifying SRU was too small to finish another, and SRU propagation would not finish either. Stopped at a clean resume point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**.
+- Daily fetch: not a 06:00 pass. *Quality review* and *Cards*: not run in this budget.
+
+**Backlog status:** backlog mode stays **ON**. Next: finish SRU propagation, then *ESGE 2020 GI Motility Part 2* (Zenker's).
+
+---
+
 ## [2026-11-17] lint | 06:00 pass — daily fetch, verify the two partial ingests
 
 **Scope:** backlog mode, $12 throttled budget. Finish the two source pages still marked `ingest: partial` before anything new. Under the 2026-11-16 *Verified ingest* rule both lacked `verified:`, so the unfinished step for each was the gate + independent check, not more propagation.
