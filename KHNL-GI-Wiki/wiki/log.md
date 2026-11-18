@@ -22,6 +22,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Index:* new [[gallbladder-polyps]] row; [[gallbladder-cancer]] row now points to it. **Repaired a spliced index row** — the tail of the [[stapfer-2000-duodenal-perforation-ercp]] description had been pasted onto the end of the SRU row; moved back. `needed-sources.md` SRU row removed.
 - *Cards:* new `gallbladder-polyps.md` card file (9 notes: risk categories, management by size per category, follow-up rules, age/gallstones non-factors, >10 mm sludge question, symptomatic polyp, EUS features). From `gallbladder-cancer.md`: 9b1001 and 9b1003 moved to the new file; 9b1002 (ASGE "other risk factors") retired as superseded by SRU; 9b1004 (EUS neoplasia predictors) retired, SRU says EUS is not part of the typical evaluation. `node` blocked in this sandbox → the 05:00 pass builds; `{at:}` ids checked against `anki-at.py` heading ids.
 
+**`[[esge-2020-gi-motility-part-2]]` — new source, verified, `ingest: partial` KEPT (propagation owed).**
+- *Extract* (fresh agent, whole PDF, rendered pages for every box and sign): all **27** recommendation boxes (the guideline numbers none; R1–R27 are the wiki's) with strength, evidence quality and agreement as printed — Zenker's R1–R11, GERD R12–R15, cecostomy R16–R20, Ogilvie's R21–R27; cecal-diameter risk table recreated. No tables/algorithms in the source; not CC → no figures.
+- *Gate:* 2 ABSENT (`2 month`, `7 month` — number and unit split across lines in the text layer; both present, confirmed); 2 NOMATCH paraphrases cleared by the check; 23 SIGN lines read off rendered pp. 4–6, 9–11.
+- *Independent check* (fresh agent, ~190 claims, all 27 boxes present, every grade and agreement % correct): 3 findings, all confirmed against the PDFs and fixed, all in the Contradictions section. **Management:** the Ogilvie's line said ASGE 2020 uses cecum 12 cm "only to define uncomplicated ACPO" — ASGE refers **cecal diameter >12 cm for surgery** (and ties risk to >10–12 cm and >6 days), a direct conflict with ESGE's prompt endoscopic decompression at >12 cm and >4–6 days; now shown as such. Minor: ASGE GERD makes **no recommendation for or against** ARMS/novel therapies (the page called it concordant with ESGE's "against"); ASGE GERD year is 2025, not 2024; cTIF qualifier "Hill grade III or IV" restored.
+- `verified: 2026-11-18` set; `index.md` row added.
+- **Still owed next pass:** create the Zenker's diverticulum disease script (esophageal; no page exists) from the verified source page; propagate GERD R12–R15 to [[gerd]], [[transoral-incisionless-fundoplication]], [[antireflux-surgery]]; Ogilvie's R21–R27 to [[acute-colonic-pseudo-obstruction]] with the >12 cm contradiction; cecostomy to the constipation pages; gate + changed-line check; remove the `needed-sources.md` row; cards for verified pages only. The extractor flagged that ESGE prints a Zenker's relapse predictor as post-treatment size ≥10 mm in §3.2.2 and >10 cm in §3.3.6 — both recorded as printed.
+
+**Nothing qualified / did not run:**
+- No third file: budget left after verifying ESGE Part 2 would not cover its propagation. Stopped at a clean resume point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*: not run (throttled lint-only run).
+
+**Backlog status:** backlog mode stays **ON**. Next: finish ESGE Part 2 propagation.
+
 ---
 
 ## [2026-11-18] lint | Manual pass — finish the AIH partial, ingest by budget
