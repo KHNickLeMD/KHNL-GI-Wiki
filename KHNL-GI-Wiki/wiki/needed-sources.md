@@ -3,7 +3,7 @@ title: "Needed Sources — Download List"
 category: overview
 tags: [maintenance, sources]
 created: 2026-09-08
-updated: 2026-11-14
+updated: 2026-11-19
 sources: []
 ---
 
@@ -27,7 +27,6 @@ These documents are **already in `raw/`** at the path shown (each checked with `
 | *GI Guidelines/Other/ASPEN-SCCM 2016 Nutrition Support Therapy in the Adult Critically Ill Patient (McClave).pdf* | new source page — [McClave 2016](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
 | *GI Guidelines/ASGE/ASGE 2020 Endoscopic Removal of Colorectal Lesions - Appendix 4a DOPyS.pdf* and *…Appendix 4b CSPAT.pdf* | add to [[usmstf-2020-endoscopic-removal]] | DOPyS and CSPAT item lists | [[polypectomy]] |
 | *GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ - Additional File 3.pdf* | add to [[kastelijn-2023-enduro-protocol]] | primary/secondary endpoint definitions, incl. the GOOSS table | [[kastelijn-2023-enduro-protocol]], [[eus-gastroenterostomy]] |
-| *GI Guidelines/AGA/AGA 2015 Pancreatic Cysts Clinical Decision Support Tool.pdf* | add to [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] | AGA's own cyst decision tree (*Gastroenterology* 2015;148:823) | [[pancreatic-cysts]], [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] |
 | *GI Other Studies/Halphen 2013 Harefield Cleansing Scale Validation.pdf* and *Gerard 2013 Chicago Bowel Preparation Scale Validation.pdf* | new source page each | scoring criteria for both scales — named in ingested bowel-prep guidance, with no criteria in the wiki | [[bowel-preparation]], [[colonoscopy]], [[colonoscopy-quality-indicators]] |
 | *GI Guidelines/Other/Chicago Classification 2021 v4.0 Technical Review Standard HRM Protocol (Fox).pdf*, *…HRM Metrics for EGJ Barrier Function (Kahrilas).pdf* | new source page each, or fold into [[chicago-v4-2021-esophageal-dysmotility]] | the evidence and derivation behind the CCv4.0 acquisition protocol and the EGJ-barrier metrics. *(The EGJ Outflow Obstruction technical review is ingested — [[bredenoord-2021-egjoo-technical-review]].)* | [[chicago-classification-v4]], [[high-resolution-manometry]] |
 

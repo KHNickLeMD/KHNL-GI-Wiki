@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-11-12
+updated: 2026-11-19
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, iap-2024-kyoto-ipmn]
 ---
 
@@ -343,6 +343,36 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 | Surgery threshold | Multidisciplinary referral on any Rec 11 feature | Solid component **and** dilated MPD, and/or concerning EUS-FNA (Rec 7, Cond/VLow) |
 | High-volume centre for surgery | Yes — mortality ~1–5% vs ~11–15% | Yes — the **only Strong** recommendation in the AGA document (Rec 8) |
 
+**AGA 2015 clinical decision support tool** (published with the guideline, *Gastroenterology* 2015;148:823):
+
+```mermaid
+flowchart TD
+    A(["Cyst seen on imaging"]) --> B["Two or more +ve<br/>features on MRI"]
+    B -- "No" --> C["Repeat MRI in 1 year<br/>and then biennially to year five"]
+    B -- "Yes" --> E["EUS + FNA"]
+    C --> D["+ve features on MRI at any point<br/>during 5 year surveillance"]
+    D -- "Yes" --> E
+    D -- "No" --> J(["Stop surveillance"])
+    E --> F["Concerning cytology<br/>and/or two features +ve"]
+    F -- "Yes" --> I(["Consider surgery"])
+    F -- "No" --> G["Repeat MRI in 1 year<br/>and then biennially to year five"]
+    G --> H["Interval change of +ve features<br/>at any point during 5 year surveillance"]
+    H -- "No" --> J
+    H -- "Yes" --> K(["Repeat EUS + FNA"])
+    class A start
+    class B,C,D,E,F,G,H test
+    class I,K act
+    class J stop
+```
+*Management of asymptomatic neoplastic pancreatic cysts — AGA 2015 (not the pathway this page follows)*
+*Source: redrawn from the AGA 2015 pancreatic cyst clinical decision support tool*
+*[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts Guideline]]*
+*+ve = positive · MRI = magnetic resonance imaging · EUS = endoscopic ultrasonography · FNA = fine-needle aspiration*
+
+- **+ve feature** (tool legend) = dilated main pancreatic duct, ≥3 cm cyst or solid component. Neither tool nor guideline defines "dilated" by diameter.
+- **Tool vs AGA's own text:** the tool's surgery box is any **two** +ve features and/or concerning cytology → "consider surgery"; Rec 7 requires **both a solid component and a dilated pancreatic duct** and/or concerning EUS-FNA → "should undergo surgery". The tool stops surveillance at year five after an unconcerning EUS-FNA; Rec 4 states no end point.
+- Not on the tool: Rec 6's other stop criterion (no longer a surgical candidate), expert-centre referral (Rec 8), post-resection care (Recs 9–10).
+
 **Effect sizes behind the three AGA high-risk features**, from its technical review of *unselected* cysts:
 
 - Size **≥3 cm** — ~**3×** malignancy risk
@@ -351,7 +381,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 **Read every AGA 2015 number as soft.** All ten recommendations rest on **very low quality** evidence, the panel states the 1-then-2-year interval "is not based on any evidence," and it concedes "it is unclear that the benefits of surveillance outweigh the risks for most patients." AGA also puts a number on the trade-off this page's surveillance program is buying: malignant transformation ~**0.24%/year**, against **2%** postoperative mortality and **30%** major morbidity (**6.6%** postoperative mortality in SEER, i.e. across all US centres), and ~**28%** 5-year survival once invasive cancer is present.
 
-⚠ **AGA 2015 cannot be cited for parts of this page.** Its scope is *asymptomatic* cysts only, and it explicitly excludes **main-duct IPMN without side-branch involvement**, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], SPN, and cystic degeneration of adenocarcinoma — for those it defers to resection in a fit candidate. It also gives **no cyst-fluid CEA or amylase cutoffs and no cyst-typing criteria**; those come from ACG 2018 alone.
+⚠ **AGA 2015 cannot be cited for parts of this page.** Its scope is *asymptomatic* cysts only, and it explicitly excludes **main-duct IPMN without side-branch involvement**, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], solid papillary neoplasms (its term), and cystic degeneration of adenocarcinoma — for those it defers to resection in a fit candidate. It also gives **no cyst-fluid CEA or amylase cutoffs and no cyst-typing criteria**; those come from ACG 2018 alone.
 
 ### Post-Surgical Surveillance (Recs 17–20)
 

@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-11-15
-sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
+updated: 2026-11-19
+sources: [aasld-aga-2026-pbc, acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -21,6 +21,7 @@ sources: [acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, ac
 - [[#Therapeutics]]
   - [[#Treatment Pathway]]
   - [[#Ursodeoxycholic Acid (First-Line)]]
+  - [[#PPAR Agonists (Second-Line)]]
   - [[#Obeticholic Acid (Second-Line)]]
   - [[#Fibrates (Second-Line, Off-Label)]]
   - [[#Other Agents]]
@@ -60,6 +61,7 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 - **Albumin + platelet count** — early indicators of [[cirrhosis]]/[[portal-hypertension|portal hypertension]].
 - **ALP <2× ULN on treatment** is a reliable predictor of treatment response.
 - **[[liver-stiffness-measurement|Transient elastography]]** — liver stiffness >9.6 kPa → 5× more likely to progress to decompensation, death, or transplant; serial measurements risk-stratify. ≥17 kPa triggers [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] and variceal screening even without confirmed cirrhosis.
+  - **2026: measure liver stiffness for prognostication** (Rec 3, Conditional, Moderate certainty; [[aasld-aga-2026-pbc]]). **Liver stiffness measurement (LSM) ≥10 kPa by vibration-controlled transient elastography (VCTE)** = increased risk of adverse outcomes → closer monitoring and/or possible therapy escalation (panel consensus threshold; published cutoffs 9.3–11.0 kPa). **Annual VCTE** at ≥10 kPa and after any change in therapy; <10 kPa → meaningful change less likely. The most recent LSM predicts outcome better than the change between measurements. Cholestasis (ALP ≥1.5× ULN or raised bilirubin) may make LSM less reliable for portal hypertension.
 
 | Prognostic model | Variables | Action threshold |
 |---|---|---|
@@ -70,6 +72,12 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 *AASLD gives the variables and the action thresholds but not the coefficients or point values. Compute GLOBE at <https://www.globalpbc.com/globe>; the Mayo and UK-PBC formulas are in their derivation papers.*
 
 **Biochemical response to UDCA — assess at 12 months** (Guidance Statement 7). Several validated binary criteria exist (Rochester I/II, Barcelona, Paris I/II, Rotterdam, Toronto, Global); any one may be used and **the cut-points are on [[ursodeoxycholic-acid]]** ([[aasld-2018-pbc]], Table 1). Table 1's "Global" row is a binary ALP criterion, not the continuous GLOBE score above. Up to 40% of patients respond inadequately and should be assessed for second-line therapy.
+
+**2026 response rules** ([[aasld-aga-2026-pbc]], ungraded implementation considerations; newer, they govern):
+- Assess response **after ≥6 months and no later than 12 months** of UDCA; at **6 months** if high-risk features are present, including but not limited to **LSM ≥10 kPa and age <62 years** (Figure 1 note 2; the Rec 4 text says ≤62).
+- **Inadequate response** (used in most studies) = failure to reach **ALP <1.5–1.67× ULN with normal total bilirubin at 12 months**.
+- **ALP normalization is the ideal goal** where attainable — particularly with LSM ≥10 kPa.
+- ALP 1.0–1.5× ULN or bilirubin 0.6–1× ULN: limited evidence to start a second-line agent; the panel favors **risk-based** (LSM, age) over threshold-based decisions here.
 
 **Histologic staging (Ludwig):** I — portal inflammation ± florid duct lesion, confined to portal triads · II — interface hepatitis, periportal extension, ductular proliferation · III — bridging fibrosis, numerous fibrous septa · IV — cirrhosis with regenerative nodules. Adequate biopsy needs 10–15 portal tracts and multiple sections.
 
@@ -143,6 +151,7 @@ The **Paris criteria table lives on [[autoimmune-hepatitis]]** — [[aasld-2018-
 
 - **AMA** — positive in **95%**; targets the PDC-E2 antigen. Presence, not titre, is what matters. Indirect immunofluorescence has the lowest sensitivity (>15% false-negative); enzyme-linked immunosorbent assay, immunoblotting, Luminex and enzyme-inhibition assays are more sensitive.
 - **Anti-sp100, anti-gp210** — present in >30% of AMA-negative patients; **support the diagnosis without biopsy** (Guidance Statement 2). Anti-gp210 may also carry prognostic information.
+  - **AMA-negative suspected PBC → test sp100 and gp210 antibodies** (2026 Rec 1, Conditional, Very Low certainty; [[aasld-aga-2026-pbc]]) — **before liver biopsy**; a positive result may obviate biopsy. Rule-in, not rule-out: pooled sensitivity 22.7% (sp100) / 19.7% (gp210), specificity 96.5% / 99.0%. **Both negative + strong suspicion → liver biopsy.** For suspected cholestatic liver disease, not population screening.
 - **Anti-kelch-like 12, anti-hexokinase 1** — 35% and 22% of AMA-negative PBC; not widely available.
 - **ANA, SMA** — present in nearly 50% of patients with PBC; do not by themselves establish AIH features (see [[#PBC-AIH Variant]]).
 
@@ -166,23 +175,26 @@ The **Paris criteria table lives on [[autoimmune-hepatitis]]** — [[aasld-2018-
 
 ```mermaid
 flowchart TD
-    A(["PBC with abnormal liver enzymes, any histologic stage"]) --> B(["UDCA 13–15 mg/kg/day orally"])
-    B -- "Reassess biochemical response at 12 months" --> C["Adequate response by a validated criterion?"]
-    C -- "Yes" --> D(["Continue UDCA indefinitely"])
-    C -- "No, or UDCA-intolerant" --> E["Advanced cirrhosis — prior/current decompensation or portal hypertension?"]
-    E -- "No, FDA-approved option" --> F(["Add obeticholic acid (OCA) 5 mg/day; to 10 mg/day after 3 months if liver chemistries remain abnormal and tolerated"])
-    E -- "No, off-label alternative" --> G(["Fibrate: bezafibrate 400 mg/day or fenofibrate 160 mg/day"])
-    E -- "Yes" --> H(["OCA contraindicated; fibrates discouraged in decompensated disease"])
-    class A start
-    class C,E test
-    class B,D,F,G act
-    class H stop
+    C(["Confirmed PBC"]) --> U(["Initiate UDCA 13–15 mg/kg/day as first-line therapy for all patients (Rec 2, strong)"])
+    U -- "+" --> L(["Measure liver stiffness to improve prognostication and guide monitoring<br/>(Rec 3, conditional; ≥10 kPa by VCTE = high risk for unfavorable outcomes)"])
+    L -.-> S(["Ongoing risk stratification q1–3 years"])
+    S -.-> L
+    L -- "6–12 months²" --> R["Inadequate response⁴ or UDCA intolerance"]
+    R --> P(["Add a PPAR agonist (elafibranor 80 mg/day or seladelpar 10 mg/day) to UDCA, or use as monotherapy if UDCA-intolerant<br/>(Rec 4, conditional)"])
+    P --> M["Monitor liver enzymes every 3 months for the first year"]
+    M -- "Adequate response" --> K(["Continue management"])
+    M -- "Inadequate response⁴ or intolerance" --> T(["Consider clinical trials or alternative PPAR agonist"])
+    class C start
+    class R,M test
+    class U,L,P,K,S act
+    class T stop
 ```
+*Treatment pathway after confirmed PBC (² assess at 6 months if high-risk features, e.g. LSM ≥10 kPa and age <62 y · ⁴ failure to reach ALP <1.5–1.67× ULN and normal total bilirubin at 12 months)*
+*Source: redrawn from Figure 1 (clinical decision support tool) of the AASLD AGA 2026 PBC guideline*
+*[[aasld-aga-2026-pbc|AASLD AGA 2026 PBC Guideline]]*
+*PBC = primary biliary cholangitis · UDCA = ursodeoxycholic acid · VCTE = vibration-controlled transient elastography · PPAR = peroxisome proliferator–activated receptor · LSM = liver stiffness measurement · ALP = alkaline phosphatase · ULN = upper limit of normal · Rec = recommendation*
 
-*Drug therapy for primary biliary cholangitis after diagnosis*
-*Built from [[aasld-2018-pbc]] Guidance Statements 5, 7, 8 and 9 and [[aasld-2021-pbc]] Revised Guidance Statements 9 and 10 (the guidance has no flowchart)*
-*[[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]*
-*PBC = primary biliary cholangitis · UDCA = ursodeoxycholic acid · OCA = obeticholic acid · FDA = US Food and Drug Administration*
+- **This replaces the 2018/2021 pathway** (OCA first second-line choice, fibrates off-label): the 2026 guideline puts PPAR agonists second-line and **does not address obeticholic acid (OCA)** as a therapy — see [[#Obeticholic Acid (Second-Line)]].
 
 ### Ursodeoxycholic Acid (First-Line)
 
@@ -192,8 +204,28 @@ flowchart TD
 - Liver tests improve within weeks; 90% of the improvement by 6–9 months; 20% normalize biochemistries by 2 years.
 - Improves transplant-free survival, delays histologic progression, reduces the risk of developing varices (16% vs 58% at 4 years). Does **not** improve fatigue, pruritus, bone disease or autoimmune comorbidities.
 - **Bile acid sequestrants:** give UDCA ≥1 hour before or 4 hours after the sequestrant (Guidance Statement 6).
+- **2026 Rec 2 (Strong, Moderate certainty; [[aasld-aga-2026-pbc]]):** UDCA for treatment-naïve PBC vs no treatment — offer to **everyone at diagnosis**. **Do not increase above 15 mg/kg/day** for symptoms or persistent ALP elevation. **Continue UDCA even when ALP stays high** — inadequate response is not futility; add second-line therapy on top. No subgroup exempted (advanced fibrosis, decompensated cirrhosis, awaiting LT) unless intolerant.
+
+### PPAR Agonists (Second-Line)
+
+**2026 Rec 4 (Conditional, Low certainty; [[aasld-aga-2026-pbc]]):** inadequate response to or intolerance of UDCA → **PPAR agonist** (elafibranor, seladelpar) — **add-on to UDCA** for inadequate response, **monotherapy** if UDCA-intolerant.
+
+| Agent | Dose / status | Certainty |
+|---|---|---|
+| Elafibranor | **80 mg/day**; accelerated FDA approval | Low |
+| Seladelpar | **10 mg/day**; accelerated FDA approval | Low |
+| Bezafibrate | **Off-label**; not available in the US | Very low |
+| Fenofibrate | **Off-label** | Very low |
+
+- **Monitor** response and tolerability: **liver tests quarterly in year 1** (expert opinion), less often once benefit and tolerability are established.
+- **Do not use in pregnancy, breastfeeding or decompensated cirrhosis** (no efficacy/safety data).
+- No added serious adverse events, discontinuation or muscle toxicity vs placebo for elafibranor or seladelpar. Similar biochemical responses across agents suggest a possible class effect. No head-to-head trials.
+- No adequate response after 12 months on a PPAR agonist → **consider clinical trials or an alternative PPAR agonist** (no data on switching or combinations).
 
 ### Obeticholic Acid (Second-Line)
+
+> [!pitfall] OCA is no longer the guideline's second-line agent
+> The 2026 AASLD–AGA guideline suggests PPAR agonists after UDCA and does not address OCA as a therapy; the 2018/2021 OCA guidance below is the older position ([[aasld-aga-2026-pbc]]).
 
 **OCA 5 mg/day**, increased to 10 mg/day after 3 months if liver chemistries remain abnormal and the drug is tolerated (Guidance Statement 8).
 
@@ -204,7 +236,7 @@ flowchart TD
 
 ### Fibrates (Second-Line, Off-Label)
 
-PPAR agonists, approved only as lipid-lowering agents, with anticholestatic activity in PBC. **Revised Guidance Statement 9 (2021):** fibrates can be considered as off-label alternatives for inadequate response to UDCA, although they are discouraged in decompensated liver disease.
+PPAR agonists, approved only as lipid-lowering agents, with anticholestatic activity in PBC. **Revised Guidance Statement 9 (2021):** fibrates can be considered as off-label alternatives for inadequate response to UDCA, although they are discouraged in decompensated liver disease. **2026** ([[aasld-aga-2026-pbc]]): fibrates are less studied than elafibranor/seladelpar and sometimes used off-label second-line (Very low certainty); no dose given.
 
 - **Bezafibrate 400 mg/day** (not available in the US) — added to UDCA: 67% normalized ALP, 30% normalized all liver tests, vs 0% on placebo; pruritus and fibrosis markers also improved.
 - **Fenofibrate 160 mg/day** — ALP fell ~50% in incomplete UDCA responders.
@@ -215,6 +247,12 @@ PPAR agonists, approved only as lipid-lowering agents, with anticholestatic acti
 Chlorambucil, penicillamine, [[calcineurin-inhibitors|cyclosporine]], corticosteroids, [[thiopurines|azathioprine]], mycophenolate mofetil, thalidomide, methotrexate, malotilate, colchicine and silymarin — none of benefit as monotherapy or added to UDCA. Budesonide may help but is controversial. Avoid uncooked seafood and unpasteurized milk; aim for ideal body weight where steatohepatitis may be superimposed.
 
 ### Pruritus
+
+**2026 Rec 5 (Conditional, Low certainty; [[aasld-aga-2026-pbc]]): linerixibat** (ileal bile acid transporter inhibitor) is an option for **moderate to severe** cholestatic pruritus — **40 mg twice daily**, a **2- to 12-week trial** to judge efficacy and tolerability; continue if it helps. Patients who weigh gastrointestinal side effects (diarrhea, abdominal pain) or cost above variable benefit may reasonably decline.
+- Itch severity is set by the patient (shared decision-making); insufficient evidence in **mild** itch; decompensated cirrhosis was excluded from the trials.
+- **Inadequate UDCA response + itch → start with a PPAR agonist** (may reduce pruritus); linerixibat if itch persists (Figure 1).
+- Diarrhea (peaks ~week 3): temporarily reduce the dose, or add [[loperamide]] and/or dicyclomine.
+- The 2026 guideline does not grade resins, rifampicin, opioid antagonists or sertraline (refers to the 2018 guidance) and gives no order between them and linerixibat; the 2018 steps below are the older position.
 
 UDCA and OCA do not relieve it. Circadian rhythm (worse in the evening); worsens with pregnancy or estrogens; paradoxically may wane in very advanced disease. **Intractable pruritus is a valid indication for [[liver-transplantation|liver transplantation]].**
 
@@ -287,8 +325,8 @@ HCC risk is modestly raised (3.9 cases per 1,000 person-years) — lower than vi
 **Refer** for decompensated cirrhosis, [[cirrhosis|Model for End-Stage Liver Disease (MELD)]] score **>14** (Guidance Statement 21; the text also gives MELD ≥15), total bilirubin **>6 mg/dL**, or Mayo risk score **>7.8**. Severe intractable pruritus is an exceptional indication; chronic fatigue is not.
 
 - **Outcomes** are among the best of any transplant indication.
-- **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years; median 3–6 years; rarely affects patient or graft survival. Risk factors include [[tacrolimus]] therapy, advanced donor age, higher MELD at listing.
-- **UDCA post-transplant** — lower recurrence (21% vs 62%); continue indefinitely. Cyclosporine-based immunosuppression may reduce recurrence (unproven).
+- **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years; median 3–6 years. Risk factors include [[tacrolimus]] therapy, advanced donor age, higher MELD at listing. ⚠ The 2018 guidance said recurrence rarely affects patient or graft survival; the newer 2026 guideline associates it with **graft loss (hazard ratio 2.01) and lower patient survival (hazard ratio 1.72)** ([[aasld-aga-2026-pbc]]).
+- **UDCA post-transplant** — **2026 Rec 6 (Conditional, Very Low certainty):** UDCA prophylaxis after LT for PBC to prevent recurrence and graft failure — **13–15 mg/kg/day, started as soon as possible after LT** ([[aasld-aga-2026-pbc]]; graft failure relative risk 0.35 in one 2020 multicenter retrospective cohort). 2018: lower recurrence (21% vs 62%). Cyclosporine-based immunosuppression may reduce recurrence (unproven).
 - **After transplant:** pruritus improves; moderate-severe fatigue persists in nearly half at 2 years; sicca syndrome unchanged; bone disease worsens for ~6 months then recovers past baseline; AMA may persist or reappear without signalling recurrence.
 
 ### Pregnancy
@@ -338,3 +376,4 @@ Risk is increased among first-degree relatives (FDRs), especially female: sister
 7. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
 9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
+10. [[aasld-aga-2026-pbc|AASLD AGA Clinical Practice Guideline on Management of Primary Biliary Cholangitis (2026)]]

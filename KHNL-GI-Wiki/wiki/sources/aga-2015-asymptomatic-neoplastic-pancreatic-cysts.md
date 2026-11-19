@@ -9,7 +9,6 @@ sources: []
 raw:
   - "GI Guidelines/AGA/AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts.pdf"
   - "GI Guidelines/AGA/AGA 2015 Pancreatic Cysts Clinical Decision Support Tool.pdf"
-ingest: partial
 ---
 
 ## Bibliographic Info

@@ -6,6 +6,43 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-19] lint | 06:00 pass — daily fetch, finish the AGA 2015 cyst partial, ingest by budget
+
+**Scope:** backlog mode, $12 budget. Finish `[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Daily source fetch:** nothing downloaded — nothing qualified. *Scores* rows are 🔒 (Eckardt 1992, WHO 5th ed.), guideline rows 🌐 (CDC Yellow Book, NIH OI); no label rows.
+
+**`[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]]` — finished, `ingest: partial` removed.**
+- *Propagation (from the verified source page):* AGA 2015 clinical decision support tool redrawn on [[pancreatic-cysts]] → *Where AGA 2015 Differs* (11-box Mermaid, 4-line caption, marked as not the pathway the page follows), with the +ve-feature legend and the two tool-vs-text discrepancies (any-two features → "consider surgery" vs Rec 7's solid component **and** dilated duct → "should undergo surgery"; year-five stop after unconcerning EUS-FNA vs Rec 4 with no end point). [[intraductal-papillary-mucinous-neoplasm]] already defers cyst management to [[pancreatic-cysts]] — no copy added (one home).
+- *Gate:* `fidelity-check.py` — changed lines: 1 NOMATCH (the "not on the tool" bullet, a paraphrase; cleared by the check); SIGN L372 `≥3 cm` read off the rendered tool page.
+- *Independent check* (fresh agent, ~34 claims: 11 boxes, 8 arrows, caption, bullets, rendered tool page + guideline pp. 819–822): **all supported, 0 findings.** [[pancreatic-cysts]] carries no `verified:` (only changed lines checked) → no stamp.
+- *Fix every copy:* "SPN" in AGA's scope exclusions → the guideline's "solid papillary neoplasms" on [[pancreatic-cysts]] and the [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]] `index.md` row (source page fixed last pass).
+- `index.md` rows updated (pancreatic-cysts: decision-tool flowchart, source count 3 → 5); `needed-sources.md` decision-tool row removed.
+- *Cards:* none — [[pancreatic-cysts]] is not verified, and source pages are never carded.
+
+**`[[aasld-aga-2026-pbc]]` — new source (AASLD AGA 2026 PBC guideline, Levy), fully ingested.** Found by matching every `raw/` file against source-page `raw:` lines: it had no source page and no `needed-sources.md` row. Newest US tier-1 PBC guideline → picked ahead of the table rows (ASCO 2021 irAE is ~47k words and could not be finished in this budget).
+- *Extract* (fresh agent, whole PDF, rendered pp. 4–6, 10, 14, 16–19): all **6** recommendations with strength and certainty as printed in Table 1; every ungraded implementation consideration; sp100/gp210 accuracy, LSM bands, response definitions and second-line agent tables; Figure 1 decision tool redrawn as 3 Mermaid flowcharts split at its seams. No CC licence → no screenshots.
+- *Gate:* 0 ABSENT; 2 OTHER (a Contradictions line correctly pairing the 2026 9.3–11.0 kPa range with the 2018 >9.6 kPa value); 3 NOMATCH paraphrases; SIGN lines read off rendered pp. 6, 12, 14, 15.
+- *Independent check* (fresh agent, ~150 claims, both older AASLD PBC PDFs for the Contradictions): 4 minor findings, all confirmed and fixed — OCA "comparator only" → appears in cited cohort data; "2018 pruritus ladder stands" (not stated) → guideline refers readers to 2018 for an overview; the 86% was diarrhea resolution, not GI symptoms; treatment flowchart had merged the Rec 2 and Rec 3 boxes and drawn a one-way dashed arrow (Figure 1 p. 6 re-read: two boxes joined by "+", dashed arrows both ways, 6–12 month arrow from the Rec 3 box). `verified: 2026-11-19` set.
+- *Propagation* to [[primary-biliary-cholangitis]] (from the verified source page): Rec 1 under Autoantibodies; Rec 3 LSM ≥10 kPa under Severity Assessment; 2026 response rules (6–12 months, 6 months if LSM ≥10 kPa and age <62, inadequate = ALP not <1.5–1.67× ULN with normal bilirubin at 12 months, ALP normalization ideal); Treatment Pathway flowchart **replaced** by the redrawn 2026 Figure 1 treatment arm (the old one was built from 2018/2021 with OCA first); Rec 2 UDCA bullet; new `### PPAR Agonists (Second-Line)` (doses, quarterly labs year 1, no use in pregnancy/breastfeeding/decompensated cirrhosis); OCA pitfall callout (2026 does not address OCA); Rec 5 linerixibat block under Pruritus; Rec 6 under Liver Transplantation, with the **contradiction** surfaced (2018: recurrence rarely affects survival; 2026: graft loss hazard ratio 2.01, patient survival 1.72).
+- *Gate:* 0 ABSENT/OTHER; SIGN lines on changed lines read off rendered pp. 6, 14, 15; one force error caught by me before the check (callout said "recommends" — Rec 4 is "suggest") and fixed.
+- *Independent check of changed lines* (fresh agent, 46 claims, rendered Figure 1): 3 minor findings, all confirmed and fixed — "continue indefinitely" was 2018's general follow-up advice, not a post-transplant statement (removed from the transplant bullet); graft-failure RR 0.35 is from one 2020 cohort, not pooled; "class effect" refers to biochemical response, not safety. Also reworded "makes no recommendation on OCA" → "does not address OCA as a therapy" (the guideline never discusses it). [[primary-biliary-cholangitis]] carries no `verified:` (only changed lines checked) → no stamp.
+- *Fix every copy:* `index.md` PBC row still described OCA as the second-line agent → rewritten (PPAR agonists, 2026 response rule, linerixibat, post-LT UDCA; source count 6 → 10). No other page repeats the superseded OCA-second-line or "recurrence rarely affects survival" claims.
+- `index.md` source row added. No `needed-sources.md` row existed.
+- *Cards:* none written — [[primary-biliary-cholangitis]] has no `verified:`. **Card pass:** the PBC card file may test OCA as the second-line drug or the 2018 recurrence statement; correlate it against the page.
+- ⚠ **Licence line for Nick:** the PDF prints "All rights are reserved, including those for text and data mining, AI training, and similar technologies." Not the explicit LLM ban that stopped NCCN ingests, so ingested; needs Nick's call if he reads it otherwise.
+- `ingest: partial` removed.
+
+**Nothing qualified / did not run:**
+- No third file: ~$2.5 left after the PBC ingest would not cover another extract + verify. Stopped at a clean point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*, card dedup and `{at:}` backfill: not run in this budget.
+
+**Backlog status:** backlog mode stays **ON**. A `raw:`-line audit lists ~60 non-lecture `raw/` files no source page names; many are older ingests whose source pages predate the `raw:` field (e.g. the AGA copies of the USMSTF documents), so the true backlog is smaller. Confirmed uningested and US: ASCO 2021 irAE, ASPEN-SCCM 2016, Halphen/Gerard bowel-prep scales, Chicago v4.0 technical reviews (Fox, Kahrilas), ASGE 2020 DOPyS/CSPAT appendices (listed in `raw:` of [[asge-2020-endoscopic-removal]] but their items are not on the page, which is unverified). Lectures not listed (gated).
+
+---
+
 ## [2026-11-18] update | Tests vs procedures = who performs it (Nick's request)
 - Rule change in CLAUDE.md: a test a GI doctor performs and must learn is a **procedure**; a test GI orders and someone else performs (radiology, lab, pathology, IR) is a **diagnostic test**.
 - Back to Advanced Procedures: high-resolution-manometry, flip-panometry, capsule-endoscopy (foregut/motility); anorectal-manometry, intestinal-ultrasound (colorectal); intraductal-ultrasound, brush-cytology, confocal-laser-endomicroscopy, liver-biopsy (hepatobiliary).
