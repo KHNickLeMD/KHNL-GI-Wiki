@@ -90,7 +90,7 @@ AGA 2021 gives no defect-size bands for the colon beyond BPA 13 and 14.
 
 Know them before the case, so the consent conversation and team preparation happen up front (BPA 4). BPA 1 requires a **thorough discussion with the patient — preferably with family present — of the procedural techniques and risks**, especially for these:
 
-- Any **dilation**; **foreign body removal** ([[ingested-foreign-body]]); any **per-oral endoscopic myotomy (POEM)** (Zenker's, esophageal, pyloric — [[poem]]); **stricture incision**; **thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **[[ampullary-adenoma|ampullectomy]]**
+- Any **dilation**; **foreign body removal** ([[ingested-foreign-body]]); any **per-oral endoscopic myotomy (POEM)** ([[zenkers-diverticulum|Zenker's]], esophageal, pyloric — [[poem]]); **stricture incision**; **thermal coagulation** for hemostasis or tumor ablation; **percutaneous endoscopic gastrostomy** ([[enteral-access]]); **[[ampullary-adenoma|ampullectomy]]**
 - **[[endoscopic-mucosal-resection|Endoscopic mucosal resection (EMR)]]**, **[[endoscopic-submucosal-dissection|endoscopic submucosal dissection (ESD)]]**, **[[endoscopic-full-thickness-resection|full-thickness endoscopic resection]]**, **endoluminal stenting with SEMS** ([[colonic-stenting]])
 - **ERCP in surgically altered anatomy**; **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]–guided biliary and pancreatic access**; **EUS-guided cystogastrostomy**; **endoscopic gastroenterostomy using a [[lumen-apposing-metal-stents|lumen-apposing metal stent (LAMS)]]**
 

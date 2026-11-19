@@ -3,8 +3,8 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-10-31
-sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery, afs-2022-egj-integrity-classification]
+updated: 2026-11-19
+sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery, afs-2022-egj-integrity-classification, esge-2020-gi-motility-part-2]
 ---
 
 *Surgical and endoscopic mechanical therapy for [[gerd|gastroesophageal reflux disease (GERD)]] — fundoplication, magnetic sphincter augmentation (MSA), and incisionless endoscopic alternatives ([[transoral-incisionless-fundoplication|transoral incisionless fundoplication (TIF)]]/combined hiatal hernia repair + TIF [cTIF]). Selection turns on **objective GERD confirmation**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]**; technique choice is largely values-based.*
@@ -133,26 +133,32 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 
 ## Endoscopic Alternatives
 
-**[[transoral-incisionless-fundoplication|TIF 2.0]]** — endoscopic reconstruction of the gastroesophageal flap valve; positioned by [[asge-2024-gerd]] as an alternative to long-term medical management in confirmed GERD with hernia ≤2 cm and Hill grade I/II (Conditional / Low). Cost sits between the alternatives: TIF 2.0 ~**$13,979** vs laparoscopic Nissen ~**$17,658** vs PPI ~**$10,931**; incremental cost-utility ratio (ICUR) $3,047/0.29 quality-adjusted life-year (QALY). *Efficacy, adverse-event and durability tables: [[transoral-incisionless-fundoplication]].*
+**[[transoral-incisionless-fundoplication|TIF 2.0]]** — endoscopic reconstruction of the gastroesophageal flap valve; positioned by [[asge-2024-gerd]] as an alternative to long-term medical management in confirmed GERD with hernia ≤2 cm and Hill grade I/II (Conditional / Low). Cost sits between the alternatives: TIF 2.0 ~**$13,979** vs laparoscopic Nissen ~**$17,658** vs PPI ~**$10,931**; incremental cost-utility ratio (ICUR) $3,047/0.29 quality-adjusted life-year (QALY). *Efficacy, adverse-event and durability tables: [[transoral-incisionless-fundoplication]].* The older [[esge-2020-gi-motility-part-2|European Society of Gastrointestinal Endoscopy (ESGE) 2020]] guideline recommends **against widespread clinical use** of TIF (Strong, moderate quality) — details on the TIF page.
 
 **cTIF (hiatal hernia repair + TIF 2.0)** — hernia >2 cm, Hill III/IV; surgical hernia repair first, then TIF endoscopically, **multidisciplinary review required** (Conditional / Very Low, [[asge-2024-gerd]]). **No RCTs yet** (NCT04795934 ongoing) — all evidence from cohort studies. May serve as an alternative to surgical antireflux procedures in selected patients. *Operative determinants and outcome data: [[transoral-incisionless-fundoplication]].*
 
 *TIF 2.0 technique and the fastener-safety rules, the cTIF operative sequence, and the postoperative antiemetic/diet/activity protocol live on [[transoral-incisionless-fundoplication]].*
 
-**Stretta (radiofrequency energy to the lower esophageal sphincter [LES])** — Best Practice Advice only; hernia <2 cm, Hill I/II, **when TIF and surgical fundoplication are unavailable or infeasible** ([[asge-2024-gerd]]). **Not recommended by [[acg-2021-gerd|ACG 2021]]** (inconsistent, variable evidence); ASGE 2024 likewise does not recommend it for most patients:
+**Stretta (radiofrequency energy to the lower esophageal sphincter [LES])** — Best Practice Advice only; hernia <2 cm, Hill I/II, **when TIF and surgical fundoplication are unavailable or infeasible** ([[asge-2024-gerd]]). **Not recommended by [[acg-2021-gerd|ACG 2021]]** (inconsistent, variable evidence); ASGE 2024 made no recommendation for or against Stretta (Best Practice Advice above only):
 
 - RCTs: **no statistically significant benefit** over sham/PPI for PPI discontinuation, AET reduction, or symptom resolution.
 - Cohort data: 47% PPI discontinuation at 25 months (vs 97% on PPI at baseline). High AE rate in RCTs (**42% vs 11.1%**), though serious AEs low (0.3% in a large cohort).
 - Reimbursement challenges and limited adoption — second-line only when preferred alternatives are unavailable.
+- **ESGE 2020 is slightly more permissive, with a stricter anatomic bar** (R14, wiki numbering; *Weak recommendation, moderate level of evidence; agreement 92.9 %*): Stretta **can be considered in selective patients only**, for symptom relief, **in the absence of erosive esophagitis and a hiatal hernia** — ESGE requires **no** hiatal hernia, ASGE allows <2 cm ([[esge-2020-gi-motility-part-2]]).
+  - ESGE evidence: 4 RCTs (3 vs sham, 1 vs PPI), low quality; RCT-only review — no difference vs sham or PPI in % time pH <4 over 24 h, LES pressure, PPI cessation, or QoL; a meta-analysis including cohorts found benefit on objective and subjective end points except basal LES pressure.
 
-**Not recommended / investigational only** — outside clinical trials ([[asge-2024-gerd]]): GERDx (endoscopic full-thickness plication [EFTP]), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP) — insufficient controlled data.
+**No ASGE recommendation for or against** ([[asge-2024-gerd]]): GERDx (endoscopic full-thickness plication [EFTP]), Medigus ultrasonic surgical endostapler (MUSE), antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP) — insufficient controlled data. ASGE's evidence review adds that ongoing MUSE use over safer options, including TIF 2.0, is not recommended (ungraded).
+
+- **ESGE 2020 recommends against both MUSE and ARMS** ([[esge-2020-gi-motility-part-2]]); the newer [[asge-2024-gerd|ASGE 2024]] guideline declined to make a recommendation on these novel therapies (insufficient controlled data):
+  - **MUSE** (R13): against use in clinical practice — insufficient effectiveness and safety data; **clinical trials only** (*Strong recommendation, low quality evidence; agreement 100 %*).
+  - **ARMS** (R15): against use in routine clinical practice — lack of data and potential complications (*Strong recommendation, low quality evidence; agreement 100 %*).
 
 | Investigational technique | Reported data |
 |---|---|
-| **ARMS** (antireflux mucosectomy) | 80.1% clinical response; 11.4% dysphagia/stricture; RCT underway |
+| **ARMS** (antireflux mucosectomy) | 80.1% clinical response; 11.4% dysphagia/stricture; RCT underway. ESGE 2020: endoscopic mucosal resection at the cardia over 180–270° of the circumference; 3 case series, 39 PPI-refractory patients (no sliding hernia or hernia ≤2 cm) — clinical response 69 %–80 %, dysphagia 13 %, no controlled data |
 | **ARMA** (antireflux mucosal ablation) | 81% short-term success; RCT underway |
 | **GERDx** (EFTP) | Promising early RCT data — 62.8% off PPI at 23 months vs 11.4% |
-| **MUSE** | Serious AE **3.5%–13.9%** (empyema, hemorrhage, perforation) — **not recommended over TIF 2.0** |
+| **MUSE** | Serious AE **3.5%–13.9%** (empyema, hemorrhage, perforation) — **not recommended over TIF 2.0**. ESGE 2020: prospective multicenter trial (66 patients) — GERD health-related quality of life score improved >50 % off PPI at 6 months in 73 %, 2 severe complications (empyema, hemorrhage); non-randomized comparison: laparoscopic fundoplication more effective at 6 months, one esophageal perforation with MUSE; no sham-controlled or randomized trials |
 
 ---
 
@@ -272,3 +278,4 @@ Plus, after **any** procedure that included hiatal hernia repair: **the hiatal a
 7. [[sages-2024-hiatal-hernia-surgery|SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias]]
 8. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]
 9. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]
+10. [[esge-2020-gi-motility-part-2|Endoscopic management of gastrointestinal motility disorders – part 2: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2020)]]

@@ -3,11 +3,10 @@ title: "Endoscopic management of gastrointestinal motility disorders – part 2:
 category: source
 tags: [esge, guideline, zenker-diverticulum, septotomy, z-poem, gerd, tif, muse, stretta, arms, cecostomy, constipation, ogilvie, acute-colonic-pseudo-obstruction, colonic-decompression]
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 sources: []
 raw: "GI Guidelines/Other/ESGE 2020 Endoscopic Management of GI Motility Disorders Part 2 incl Zenker (Weusten).pdf"
 verified: 2026-11-18
-ingest: partial
 ---
 
 ## Bibliographic Info

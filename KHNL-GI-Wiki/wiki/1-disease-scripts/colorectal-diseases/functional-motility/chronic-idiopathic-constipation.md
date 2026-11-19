@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-11-05
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation]
+updated: 2026-11-19
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation, esge-2020-gi-motility-part-2]
 ---
 
 ## Contents
@@ -23,6 +23,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
   - [[#Step 3: Prescription Agents (when OTC fails)]]
   - [[#Defecation Disorder: Biofeedback]]
   - [[#Refractory Constipation (AGA 2026)]]
+  - [[#Percutaneous Endoscopic Cecostomy]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -125,7 +126,7 @@ Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment 
 
 - **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate [[colorectal-cancer-screening|CRC screening]] not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
 - **Incidental findings:** [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer syndrome]] (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
-- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, [[colon-ischemia|ischemic]]); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. **No role in stool disimpaction.**
+- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, [[colon-ischemia|ischemic]]); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel (selection and technique: [[#Percutaneous Endoscopic Cecostomy]]). **No role in stool disimpaction.**
 - Chronic constipation is an independent risk factor for inadequate bowel prep → use a more aggressive cleansing regimen.
 
 ---
@@ -224,6 +225,24 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 - Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut (multiregional) dysmotility.
 - **Staged pathway — ileostomy first:** a reversible **[[ostomy-management|diverting loop ileostomy]]** serves as a **diagnostic trial** of surgery where efficacy, relative contraindications, or risk of a poor functional outcome are the concern → **completion colectomy with ileorectal anastomosis potentially offered 6–12 months later** in those with significant symptom improvement. It may also mitigate colectomy's high complication rates, and many patients opt to keep the stoma because it improved their quality of life.
 
+### Percutaneous Endoscopic Cecostomy
+
+European Society of Gastrointestinal Endoscopy (ESGE) 2020 — tube placed directly into the colon, technique comparable to percutaneous endoscopic gastrostomy; main indications are relief of colonic obstruction or **antegrade irrigation for colonic motility disorders**. Higher complication risk and a significant mortality → **intractable cases only**. ESGE numbers none of its recommendations; R-numbers are this wiki's reading-order labels [[esge-2020-gi-motility-part-2]].
+
+| Decision | ESGE recommendation | Strength; evidence; agreement |
+|---|---|---|
+| Indication (R16) | Only after **conservative management with medical therapies or retrograde lavage has failed** | Strong recommendation, low quality evidence; 93.3% |
+| Antibiotics (R17) | Prophylaxis starting **before** and continuing for **3 days after** | Strong recommendation, very low quality evidence; 93.3% |
+| Cecal fixation (R18) | Fix the cecum to the abdominal wall at **three points** (T-anchors, double-needle suturing device, or laparoscopic fixation), whatever method is used — prevents leaks and infection | Strong recommendation, very low quality evidence; 86.7% |
+| Technique (R19) | Critically ill → **endoscopic route**; good clinical condition → **laparoscopically assisted percutaneous endoscopic cecostomy (LAPEC)** | Weak recommendation, very low quality evidence; 86.7% |
+| Site (R20) | **Cecum only** — no other colonic location unless technically not feasible | Strong recommendation, very low quality evidence; 93.3% |
+
+- **Bowel preparation (ungraded):** rigorous preparation mandatory — fecal remnants raise septic risk; some expert centers use 7 days of fiber-free diet + 3 days of PEG solution
+- **Antibiotic regimen:** per local protocol — could be amoxicillin–clavulanic acid (1 g) or ofloxacin + metronidazole (500 mg) 1 hour before, mostly maintained until 72 hours after
+- Purely endoscopic: technical success >80%, complications 30%–40% (mostly minor; deaths from fecal peritonitis reported). LAPEC success 95%. No direct comparison. Metal anchors removed within 3–4 weeks
+- Left-sided colostomy: feasible but no advantage; one series of 31 — 13 of 14 constipation patients needed tube removal, two deaths from fecal peritonitis
+- Refractory Ogilvie's syndrome: see [[acute-colonic-pseudo-obstruction#Percutaneous Cecostomy and Colostomy]]
+
 ---
 
 ## See Also
@@ -240,3 +259,4 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 5. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
 6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 7. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
+8. [[esge-2020-gi-motility-part-2|Endoscopic management of gastrointestinal motility disorders – part 2: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2020)]]

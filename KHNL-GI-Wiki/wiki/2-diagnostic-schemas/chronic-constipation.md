@@ -3,8 +3,8 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-11-05
-sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation]
+updated: 2026-11-19
+sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2021-crc-screening, aga-2019-opioid-induced-constipation, esge-2020-gi-motility-part-2]
 ---
 
 ## Contents
@@ -185,7 +185,7 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 
 **Screening-driven, not alarm-driven:** ASGE 2014 recommends colonoscopy for patients **>50 years** presenting with constipation who have not previously had CRC screening *(high quality)* [[asge-2014-constipation]]. **[[acg-2021-crc-screening|ACG 2021]] subsequently moved average-risk screening initiation to age 45** *(conditional, very low certainty)* — same tier, newer publication, so use **45** for the screening question; the alarm-feature indications above are unchanged.
 
-**Therapeutic indications for colonoscopy** *(ASGE 2014, moderate quality)*: dilation of benign colonic strictures, and creation of a percutaneous cecostomy, when clinically appropriate and feasible. **There is no role for endoscopy in stool disimpaction** [[asge-2014-constipation]].
+**Therapeutic indications for colonoscopy** *(ASGE 2014, moderate quality)*: dilation of benign colonic strictures, and creation of a percutaneous cecostomy, when clinically appropriate and feasible. **There is no role for endoscopy in stool disimpaction** [[asge-2014-constipation]]. European Society of Gastrointestinal Endoscopy (ESGE) 2020 limits endoscopic cecostomy to patients in whom conservative management with medical therapies or retrograde lavage has failed — selection, antibiotics and fixation on [[chronic-idiopathic-constipation#Percutaneous Endoscopic Cecostomy]] [[esge-2020-gi-motility-part-2]].
 
 **Do not proceed to surgery** until slow-transit constipation is confirmed **and** pelvic floor dysfunction is excluded — only patients with no ongoing defecatory disorder should be offered colectomy with ileorectal anastomosis [[aga-2026-refractory-constipation]].
 
@@ -207,3 +207,4 @@ Findings identified on defecography: inadequate or excessive widening of the **a
 6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 7. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
 8. [[aga-2019-opioid-induced-constipation|American Gastroenterological Association Institute Guideline on the Medical Management of Opioid-Induced Constipation]]
+9. [[esge-2020-gi-motility-part-2|Endoscopic management of gastrointestinal motility disorders – part 2: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2020)]]

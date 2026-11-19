@@ -3,8 +3,8 @@ title: "Transoral Incisionless Fundoplication (TIF)"
 category: advanced-procedure
 tags: [gerd, tif, ctif, esophyx, fundoplication, antireflux, hiatal-hernia, hill-classification, gastroesophageal-flap-valve, foregut, endoscopic-antireflux-therapy]
 created: 2026-10-05
-updated: 2026-11-12
-sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd, afs-2022-egj-integrity-classification]
+updated: 2026-11-19
+sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd, afs-2022-egj-integrity-classification, esge-2020-gi-motility-part-2]
 ---
 
 *Endoscopic, incisionless reconstruction of the gastroesophageal flap valve for [[gerd|gastroesophageal reflux disease (GERD)]]. Candidacy turns on three things: **objectively confirmed GERD**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]** — hernia ≤2 cm with Hill grade I/II can have transoral incisionless fundoplication (TIF) alone; hernia >2 cm with Hill grade III/IV needs the hernia repaired surgically first in the same session (concomitant TIF).*
@@ -72,6 +72,12 @@ sources: [afs-2023-transoral-incisionless-fundoplication, asge-2024-gerd, afs-20
 - Also an option for patients who are **not magnetic sphincter augmentation (MSA) candidates on manometry**, and for those declining a traditional fundoplication over gas-bloat and dysphagia concerns.
 - **Post-[[poem|peroral endoscopic myotomy (POEM)]] reflux:** published case reports describe TIF 2.0 safety, efficacy, and utility — case-report-level evidence only.
 - **Barrett's esophagus:** very limited data on TIF to facilitate remission of intestinal metaplasia/dysplasia after endoscopic eradication of [[barretts-esophagus|Barrett's]]. A trial is ongoing; **efficacy in this setting is not yet defined.**
+
+**European Society of Gastrointestinal Endoscopy (ESGE) 2020 is more restrictive** ([[esge-2020-gi-motility-part-2]], R12, wiki numbering) — *Strong recommendation, moderate quality of evidence; agreement 92.8 %:*
+
+- Recommends **against widespread clinical use of TIF** as an alternative to PPI therapy or antireflux surgery — no long-term outcome data, inferior to fundoplication, modest efficacy only in highly selected patients.
+- **May have a role in mild GERD** in patients not willing to take PPIs or undergo antireflux surgery; may also offer symptom relief for PPI-intolerant patients, or persistent regurgitation on PPIs with reluctance to have surgery.
+- The newer ASGE 2025 recommendation (above) sets this page's selection criteria; ESGE disagrees on how widely TIF should be offered.
 
 ### Hernia Size and Hill Grade — the Routing Decision
 
@@ -214,6 +220,7 @@ Retching and vomiting can **disrupt the hiatus and the newly created valve** —
 - **The honest reading of the acid data:** TIF lowers AET versus sham but **not versus PPI** — the mechanism of the symptom benefit is unresolved.
 - **Cost:** in refractory GERD, average cost of care over 2 years was much lower with TIF 2.0 than with LNF (**$66,000 vs $124,000**).
 - **Panel's overall judgement:** TIF 2.0 showed short-term improvement of GERD symptoms and durable symptom remission **for up to 5 years** with low serious adverse event rates; certainty was downgraded for heterogeneity (3–4 device iterations and 3 techniques over a decade), imprecision, varying outcome definitions, and inability to pool some outcomes.
+- **ESGE 2020 evidence read ([[esge-2020-gi-motility-part-2]]):** 5 RCTs, mostly moderate GERD (hiatal hernia >2 cm, LA grade C or D esophagitis and Barrett's excluded), 6-month follow-up. Meta-analysis clinical response (≥50 % improvement in GERD-HRQL score, or remission of heartburn and regurgitation) **66 % TIF vs 30 % controls**; limited fall in esophageal acid exposure, similar to PPI. Uncontrolled studies: PPI cessation **70 % at 6 months → 34 % at 5 years**. Prospective open comparison: **Nissen fundoplication superior** on objective and symptomatic measures.
 - **Durability trade-off ([[afs-2023-transoral-incisionless-fundoplication]]):** no head-to-head comparison exists. Traditional fundoplication appears to have the **greatest durability for increasing LES pressure and reducing % time pH <4 long-term**; TIF appears **superior in symptom improvement and patient satisfaction.** Prospective direct comparison is needed.
 
 ### cTIF vs Medical Therapy
@@ -244,6 +251,8 @@ All evidence is observational — **7 cohort studies (3 prospective, 4 retrospec
 | Pneumothorax | **0.5%** (4/781) |
 | Death | 0.1% (1/781), 20 months later |
 | **Post-TIF dysphagia** (9 studies) | pooled **3.6%** (1.4%–8.8%) |
+
+- [[esge-2020-gi-motility-part-2|ESGE 2020]] reports **severe** adverse events (perforation, bleeding) of **2.4 %**.
 
 **Management, by event ([[afs-2023-transoral-incisionless-fundoplication]]):**
 
@@ -278,3 +287,4 @@ All evidence is observational — **7 cohort studies (3 prospective, 4 retrospec
 1. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 2. [[asge-2024-gerd|American Society for Gastrointestinal Endoscopy Guideline on the Diagnosis and Management of GERD: Methodology and Review of Evidence]]
 3. [[afs-2022-egj-integrity-classification|The American Foregut Society White Paper on the Endoscopic Classification of Esophagogastric Junction Integrity (2022)]]
+4. [[esge-2020-gi-motility-part-2|Endoscopic management of gastrointestinal motility disorders – part 2: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2020)]]

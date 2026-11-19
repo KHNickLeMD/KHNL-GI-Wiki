@@ -3,9 +3,13 @@ title: "AGA Institute Guideline on the Diagnosis and Management of Asymptomatic 
 category: source
 tags: [pancreatic-cysts, ipmn, mcn, surveillance, eus-fna, mri, pancreatic-cancer, aga, guideline, grade]
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-11-19
+verified: 2026-11-19
 sources: []
-raw: "GI Guidelines/AGA/AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts.pdf"
+raw:
+  - "GI Guidelines/AGA/AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts.pdf"
+  - "GI Guidelines/AGA/AGA 2015 Pancreatic Cysts Clinical Decision Support Tool.pdf"
+ingest: partial
 ---
 
 ## Bibliographic Info
@@ -15,10 +19,11 @@ raw: "GI Guidelines/AGA/AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts.pdf"
 - **Journal/Publisher:** *Gastroenterology* (AGA Institute), Vol. 148, No. 4, pages 819–822
 - **DOI:** [10.1053/j.gastro.2015.01.015](https://doi.org/10.1053/j.gastro.2015.01.015)
 - **Type:** guideline
+- **Companion:** Management of Asymptomatic Neoplastic Pancreatic Cysts — Clinical Decision Support Tool. *Gastroenterology* 2015;148:823 (one-page flowchart; the guideline cross-references it as "Clinical Decision Tool and Technical Review (pages 823-824)")
 
 ## Summary
 
-American Gastroenterological Association (AGA) Institute guideline on **asymptomatic** neoplastic pancreatic cysts, developed under Grading of Recommendations Assessment, Development and Evaluation (GRADE) and accompanied by a technical review (Scheiman, Hwang, Moayyedi — *Gastroenterology* 2015;148:824–848). Its defining feature is that **every single recommendation rests on very-low-quality evidence**: nearly all data came from retrospective case series with major unexplained heterogeneity, none of which directly measured reduced mortality from pancreatic adenocarcinoma. The panel states plainly that "a reasonable argument can be advanced that no recommendations regarding the management of pancreatic cysts can be made," and that "it is unclear that the benefits of surveillance outweigh the risks for most patients."
+American Gastroenterological Association (AGA) Institute guideline on **asymptomatic** neoplastic pancreatic cysts, developed under Grading of Recommendations Assessment, Development and Evaluation (GRADE) and accompanied by a technical review (Scheiman, Hwang, Moayyedi — *Gastroenterology* 2015;148:824–848). Its defining feature is that **every single recommendation rests on very-low-quality evidence**: nearly all data came from case series, often retrospective, with major unexplained heterogeneity, none of which directly measured reduced mortality from pancreatic adenocarcinoma. The panel states plainly that "a reasonable argument can be advanced that no recommendations regarding the management of pancreatic cysts can be made," and that "it is unclear that the benefits of surveillance outweigh the risks for most patients."
 
 **Scope is narrow and must be respected.** The guideline covers only *asymptomatic* cysts found on radiology in adults. It explicitly **excludes** solid papillary neoplasms, cystic degeneration of adenocarcinomas, neuroendocrine tumors, and **main-duct intraductal papillary mucinous neoplasms (IPMNs) without side-branch involvement** — because for these the accepted approach is surgical resection in a suitable candidate, so they are less challenging. It also did not evaluate how symptoms change management. Where a comparator is not stated in a recommendation, the implied comparator is "do nothing."
 
@@ -83,15 +88,49 @@ Recommendation 3 names exactly three high-risk features and requires **at least 
 - **Molecular/cyst-fluid markers:** "Molecular techniques to evaluate pancreatic cysts remain an emerging area of research, and the diagnostic utility of these tests is uncertain." No recommendation for or against.
 - The document gives **no cyst-fluid carcinoembryonic antigen (CEA) or amylase cutoffs**, and **no cyst-typing criteria** (IPMN vs mucinous cystic neoplasm [MCN] vs serous cystadenoma [SCA] vs pseudocyst). Those live on [[pancreatic-cysts]] from [[acg-2018-pancreatic-cysts]].
 
+## Clinical Decision Support Tool
+
+One-page flowchart published with the guideline (*Gastroenterology* 2015;148:823), titled "Management of Asymptomatic Neoplastic Pancreatic Cysts — Clinical Decision Support Tool".
+
+```mermaid
+flowchart TD
+    A(["Cyst seen on imaging"]) --> B["Two or more +ve<br/>features on MRI"]
+    B -- "No" --> C["Repeat MRI in 1 year<br/>and then biennially to year five"]
+    B -- "Yes" --> E["EUS + FNA"]
+    C --> D["+ve features on MRI at any point<br/>during 5 year surveillance"]
+    D -- "Yes" --> E
+    D -- "No" --> J(["Stop surveillance"])
+    E --> F["Concerning cytology<br/>and/or two features +ve"]
+    F -- "Yes" --> I(["Consider surgery"])
+    F -- "No" --> G["Repeat MRI in 1 year<br/>and then biennially to year five"]
+    G --> H["Interval change of +ve features<br/>at any point during 5 year surveillance"]
+    H -- "No" --> J
+    H -- "Yes" --> K(["Repeat EUS + FNA"])
+    class A start
+    class B,C,D,E,F,G,H test
+    class I,K act
+    class J stop
+```
+*Management of asymptomatic neoplastic pancreatic cysts*
+*Source: redrawn from the AGA 2015 pancreatic cyst clinical decision support tool*
+*[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA 2015 Asymptomatic Neoplastic Pancreatic Cysts Guideline]]*
+*+ve = positive · MRI = magnetic resonance imaging · EUS = endoscopic ultrasonography · FNA = fine-needle aspiration*
+
+- **Tool, legend box:** "+ve feature = dilated main pancreatic duct, ≥ 3 cm cyst or solid component" — the same three features as Rec 3.
+- **Tool, title:** applies to *asymptomatic neoplastic* cysts only (same scope as the guideline).
+- No other footnotes are printed. Neither the tool nor the guideline gives a diameter that defines a "dilated" main pancreatic duct.
+- Not shown on the tool: the Rec 6 stop criterion "no longer a surgical candidate", referral to an expert centre (Rec 8), and post-resection surveillance (Recs 9–10).
+- **Figures:** the tool page and the guideline print no Creative Commons licence (guideline: "© 2015 by the AGA Institute") — redrawn above, not reproduced.
+
 ## Relevance to Wiki
 
-- **[[pancreatic-cysts]]** — supplies the AGA arm of the cyst-guideline disagreement. The page already carried a one-line mention of "AGA 2015 recommendation to stop at 5 years of stability" with no source behind it; that mention is now sourced, and the full divergence between AGA and the American College of Gastroenterology (ACG) is set out as a table under *When to Stop Surveillance*. Also supplies the **2×/3×/8× effect sizes** for the three high-risk features and the **"at least 2 features"** combination rule, which is a genuinely different decision threshold from ACG's any-one-feature trigger.
+- **[[pancreatic-cysts]]** — supplies the AGA arm of the cyst-guideline disagreement, including AGA's stop-at-5-years position; the full divergence between AGA and the American College of Gastroenterology (ACG) is set out as a table under *When to Stop Surveillance*. Also supplies the decision-tool flowchart, the **3×/8× effect sizes** for the three high-risk features and the **"at least 2 features"** combination rule, which is a genuinely different decision threshold from ACG's any-one-feature trigger.
 - **[[pancreatic-cancer]]**, **[[pancreatic-cancer-screening]]** — the SEER baseline-risk figures and the 0.24%/year transformation rate.
 - **[[endoscopic-ultrasound]]** — EUS-FNA sensitivity 60% / specificity 90% for malignancy in cysts.
 
 ## Contradictions / Open Questions
 
-**[[acg-2018-pancreatic-cysts]] is newer within tier 1 and governs [[pancreatic-cysts]] wherever the two differ.** AGA 2015 is recorded as the contrasting position, not as the page's operative guidance. The divergences are substantive, not cosmetic — this is the same document ACG 2018 was in part written to answer.
+**[[acg-2018-pancreatic-cysts]] is newer within tier 1 and governs [[pancreatic-cysts]] wherever the two differ.** AGA 2015 is recorded as the contrasting position, not as the page's operative guidance. The divergences are substantive, not cosmetic.
 
 | Decision | AGA 2015 | [[acg-2018-pancreatic-cysts\|ACG 2018]] (governs) |
 |---|---|---|
@@ -103,6 +142,14 @@ Recommendation 3 names exactly three high-risk features and requires **at least 
 
 - **Both guidelines agree** that surgery belongs at a high-volume centre — and this is the one point AGA graded **Strong**.
 - **Dilated MPD as a risk factor is internally contested within AGA 2015 itself.** The panel found **no statistically significant association** with malignancy in unselected cysts, yet kept it as one of the three high-risk features on the basis of resected-IPMN series. Any use of this feature should carry that caveat.
-- **Scope gap, not a disagreement:** AGA 2015 excludes main-duct IPMN without side-branch involvement, neuroendocrine tumours and solid pseudopapillary neoplasms. It cannot be cited for any of those; [[acg-2018-pancreatic-cysts]] covers them.
-- **The guideline's own stated uncertainty is a finding.** With all evidence at very low quality and the panel conceding it is unclear whether surveillance benefits most patients, no AGA 2015 number should be presented on a wiki page as a firm threshold.
-- **Figure/decision tool:** the guideline cross-references an accompanying "Clinical Decision Tool and Technical Review (pages 823–824)". That tool is a **separate document** and is not part of the four-page guideline in `raw/`; its criteria are therefore not reproduced here.
+- **Scope gap, not a disagreement:** AGA 2015 excludes main-duct IPMN without side-branch involvement, neuroendocrine tumours and solid papillary neoplasms (its term). It cannot be cited for any of those; [[acg-2018-pancreatic-cysts]] covers them.
+- **The guideline's own stated uncertainty is a finding.** All evidence is very low quality and the panel concedes it is unclear whether surveillance benefits most patients — every AGA 2015 threshold is low-certainty.
+
+**Decision tool vs guideline text (same panel, same issue):**
+
+| Decision | Tool (p. 823) | Guideline text |
+|---|---|---|
+| Surgery trigger | "Concerning cytology and/or **two features +ve**" → "**Consider** surgery" — any 2 of the 3 features | Rec 7: "**both a solid component and a dilated pancreatic duct** and/or concerning features on EUS and FNA" → "**should undergo** surgery" — size ≥3 cm does not count toward the pair |
+| Who enters MRI surveillance | Every cyst without ≥2 +ve features, incl. a cyst with **one** feature (e.g. ≥3 cm alone) | Rec 2 covers only cysts **<3 cm without a solid component or a dilated pancreatic duct**; Rec 3 text: some may elect EUS-FNA with one prominent feature |
+| Escalation during surveillance | "+ve features on MRI at any point" → EUS + FNA (number of features not stated) | Rec 5: development of a solid component, increasing size of the pancreatic duct, **and/or** diameter ≥3 cm → EUS-FNA |
+| Surveillance after an unconcerning EUS-FNA | MRI at 1 year, then biennially **to year five**; no change → stop | Rec 4: MRI after 1 year, then every 2 years, no end point stated (Rec 6's 5-year stop applies to cysts in general) |

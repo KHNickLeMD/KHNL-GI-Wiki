@@ -3,8 +3,8 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-11-15
-sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn]
+updated: 2026-11-19
+sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing, afs-2024-ge-valve-after-antireflux-surgery, aga-2022-personalized-gerd, aga-2020-functional-heartburn, esge-2020-gi-motility-part-2]
 ---
 
 ## Contents
@@ -284,13 +284,15 @@ Recommend for all patients with GERD symptoms:
 
 **TIF 2.0 also requires ≥1 of:** chronic GERD ≥6 months; long-term [[proton-pump-inhibitors|PPI]] use ≥6 months; refractory GERD (persistent symptoms on double-dose PPI ≥8 weeks with documented pathologic reflux); regurgitation-predominant GERD; or patient preference to avoid long-term PPI.
 
+**European view — older, more restrictive ([[esge-2020-gi-motility-part-2|European Society of Gastrointestinal Endoscopy (ESGE) 2020]]):** against widespread TIF use as an alternative to PPI or antireflux surgery, possible role in mild GERD with patients unwilling to take PPIs or have surgery (Strong / Moderate); against Medigus ultrasonic surgical endostapler (MUSE) outside clinical trials and against antireflux mucosectomy (ARMS) in routine practice (both Strong / Low); Stretta only in selected patients without erosive esophagitis or hiatal hernia (Weak / Moderate). The newer ASGE 2025 statements above set practice; conflicts detailed on [[transoral-incisionless-fundoplication]] and [[antireflux-surgery#Endoscopic Alternatives|antireflux surgery]].
+
 ### Step 4: Surgical Options
 
 **Indications for [[antireflux-surgery|antireflux surgery]] (Strong/Moderate, [[acg-2021-gerd|ACG 2021]]):** LA grade C/D erosive esophagitis, large hiatal hernia, or troublesome regurgitation/symptoms.
 
 - **[[antireflux-surgery|Magnetic sphincter augmentation (MSA/LINX)]]** — alternative to fundoplication for **regurgitation-predominant GERD** (Strong/Moderate, ACG 2021); caution with [[ineffective-esophageal-motility|dysmotility]].
 - **Roux-en-Y gastric bypass (RYGB)** — for patients with [[obesity|obesity]] and GERD (Conditional/Low, ACG 2021).
-- **Stretta is NOT recommended** by ACG 2021 (inconsistent, variable evidence); [[asge-2024-gerd|ASGE 2025]] likewise does not recommend it for most patients.
+- **Stretta is NOT recommended** by ACG 2021 (inconsistent, variable evidence); [[asge-2024-gerd|ASGE 2025]] made no recommendation for or against it (Best Practice Advice only: when TIF is not feasible or available).
 
 *The surgery-vs-medical-management data and every technique trade-off (robotic vs laparoscopic, complete vs partial wrap, short-gastric division) live on [[antireflux-surgery]] — not duplicated here.*
 
@@ -346,3 +348,4 @@ Recommend for all patients with GERD symptoms:
 8. [[afs-2024-ge-valve-after-antireflux-surgery|American Foregut Society White Paper on the Endoscopic Assessment of the Gastroesophageal Valve After Anti-Reflux Surgery (2024)]]
 9. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
 10. [[aga-2020-functional-heartburn|AGA Clinical Practice Update on Functional Heartburn: Expert Review (2020)]]
+11. [[esge-2020-gi-motility-part-2|Endoscopic management of gastrointestinal motility disorders – part 2: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2020)]]

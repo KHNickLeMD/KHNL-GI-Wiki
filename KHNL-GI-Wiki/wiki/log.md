@@ -6,6 +6,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-19] lint | Manual pass — finish the ESGE Part 2 partial, ingest by budget
+
+**Scope:** backlog mode, $12 budget. Finish `[[esge-2020-gi-motility-part-2]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**`[[esge-2020-gi-motility-part-2]]` — propagation (from the verified source page).**
+- *New disease script* [[zenkers-diverticulum]] (esophageal): R1–R11 in three recommendation tables (strength, evidence, agreement as printed; R-numbers the wiki's), knife table, pooled outcomes, relapse predictors (≥10 mm in §3.2.2 vs >10 cm in §3.3.6, both shown as printed), post-procedure care, a flowchart built from R1/R3/R4/R6/R7. Inline links added on [[endoscopic-management-of-perforation]], [[bariatric-surgery-leak]], [[endoscopy-sedation]]. `index.md` row added.
+- *GERD R12–R15:* TIF (R12) → [[transoral-incisionless-fundoplication]]; Stretta / MUSE / ARMS (R13–R15) → [[antireflux-surgery]] → Endoscopic Alternatives (no dedicated pages exist); one summary line on [[gerd]]. Newer ASGE 2025 keeps the assertion; ESGE's more restrictive TIF stance, its no-hernia Stretta bar (ASGE <2 cm) and its "against" MUSE/ARMS (ASGE declined) surfaced inline.
+- *Ogilvie's R21–R27* → [[acute-colonic-pseudo-obstruction]]: cecal-diameter perforation table with caption, duration/mortality data, ESGE labs, decompression / repeat / tube / no-prep / PEG-after-resolution / cecostomy recs; same-year conflict with ASGE 2020 shown as a pitfall callout (ESGE prompt endoscopic decompression at >12 cm and >4–6 days vs ASGE surgical referral at >12 cm) and a force-differs bullet (ASGE recommends neostigmine first; ESGE gives neither precedence).
+- *Cecostomy R16–R20* → new `### Percutaneous Endoscopic Cecostomy` on [[chronic-idiopathic-constipation]] (owner); one line + link on [[chronic-constipation]] and the ACPO page.
+- *Gate:* `fidelity-check.py` on all seven pages — 0 ABSENT/OTHER/NOMATCH on written lines except two false ABSENTs on [[zenkers-diverticulum]] (`7 months`, `2 months`, number/unit split across lines; present on ESGE pp. 4, 6). Every SIGN on written lines read off rendered ESGE pp. 4–12.
+- `needed-sources.md` ESGE row removed.
+- *Independent check* (fresh agent; whole [[zenkers-diverticulum]] ~75 claims, changed lines on the six other pages ~110 claims, rendered ESGE pp. 602–611): **0 findings on ESGE content**; R1–R27 mapping, every strength/evidence/agreement correct; the "naïve vs recurrent" order and both relapse cutoffs supported. `verified: 2026-11-19` set on [[zenkers-diverticulum]] (whole page checked). The other six pages carried no `verified:` and only their changed lines were checked → no stamp.
+- *Fix every copy — ASGE GERD overstatements found by the check* (confirmed on rendered ASGE 2025 GERD p. 36 / journal p. 116): [[antireflux-surgery]] called GERDx/MUSE/ARMS/ARMA/RAP "Not recommended / investigational only" under ASGE — **management**; ASGE declined to recommend for or against, and "investigational use only in the setting of a research study" is its **pediatric** section → reworded, plus ASGE's ungraded "ongoing MUSE use over safer options incl. TIF 2.0 is not recommended". Same misplaced line on [[asge-2024-gerd]] → relabelled as the pediatric statement. Stretta: ASGE "did not make any recommendations in favor of or against Stretta" (Best Practice Advice only) — "does not recommend it for most patients" fixed on [[antireflux-surgery]] and [[gerd]].
+- *Cards:* new `zenkers-diverticulum.md` card file (4 draft notes: workup R1–R2, first-line flexible endoscopy R3/R4, Z-POEM research-only R7, septotomy CO₂/no antibiotics/complete myotomy R8–R10). `node` not run → the 05:00 pass builds. No cards from the six other pages (not verified).
+- `ingest: partial` removed — ESGE Part 2 finished.
+
+**`[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]]` — companion file added, source page verified, `ingest: partial` KEPT (propagation owed).**
+- *Extract* (fresh agent): *AGA 2015 Pancreatic Cysts Clinical Decision Support Tool* (1 page) added to `raw:`; tool redrawn as an 11-box Mermaid flowchart off the rendered page (no CC licence → no screenshot); legend captured ("+ve feature = dilated main pancreatic duct, ≥3 cm cyst or solid component"); tool-vs-guideline contradictions tabled (tool's any-two-features → consider surgery vs Rec 7's solid component + dilated duct and/or concerning EUS-FNA; tool stops at year 5 after benign EUS-FNA, Rec 4 states no end). Existing page fixes against the PDF: a "2×" effect size that the source does not give removed (3× size ≥3 cm, 8× solid component); "nearly all retrospective" → "case series, often retrospective"; stale maintainer bullets removed.
+- *Gate:* 3 ABSENT + 1 NOMATCH were ACG 2018 comparison cells (confirmed in the ACG file, Figure 2 rendered p. 469, Table 1); remaining NOMATCH/FAR confirmed; 12 SIGN read off rendered pages.
+- *Independent check* (fresh agent, ~78 claims, all 10 recs and every tool box/arrow): 2 minor findings, both confirmed and fixed — an unsupported claim that ACG 2018 was "written to answer" AGA removed; "solid pseudopapillary" → the source's "solid papillary neoplasms". `verified: 2026-11-19` set.
+- **Still owed next pass:** propagate the tool flowchart to [[pancreatic-cysts]] (one home; [[intraductal-papillary-mucinous-neoplasm]] links), gate + changed-line check, remove the `needed-sources.md` row (line 30), cards from verified pages only.
+
+**Nothing qualified / did not run:**
+- No third file: the budget left after verifying the AGA cyst page would not cover its propagation and check. Stopped at a clean resume point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. Daily fetch: not a 06:00 pass. *Quality review*, card dedup and `{at:}` backfill: not run in this budget.
+
+**Backlog status:** backlog mode stays **ON**. Next: propagate the AGA 2015 cyst decision tool to [[pancreatic-cysts]], then the next tier-1 file in `needed-sources.md` → *In `raw/`, awaiting ingest* (NCCN rows skipped — EULA bars LLM use).
+
+---
+
 ## [2026-11-18] lint | 06:00 pass — daily fetch, finish the SRU gallbladder-polyp partial
 
 **Scope:** backlog mode, $12 budget. Finish `[[sru-2022-gallbladder-polyps]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.

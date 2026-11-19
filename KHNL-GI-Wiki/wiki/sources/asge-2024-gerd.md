@@ -100,7 +100,7 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 - GERDx (endoscopic full-thickness plication [EFTP]), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; panel declined to recommend
 - MUSE: serious adverse event rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
 - ARMS: clinical response 80.1%; dysphagia/stricture 11.4% — RCT underway
-- Investigational use only; ongoing RCTs expected to provide future guidance
+- Pediatric patients (separate *Other Considerations* section): no recommendation for or against endoscopic antireflux therapy; considered investigational use only in the setting of a research study
 
 ## Recommendations
 
