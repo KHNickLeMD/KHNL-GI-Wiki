@@ -1,6 +1,6 @@
 ---
 title: "Confocal Laser Endomicroscopy"
-category: diagnostic-test
+category: advanced-procedure
 tags: [confocal-laser-endomicroscopy, cle, pcle, ncle, optical-biopsy, biliary-stricture, barretts-esophagus, pancreatic-cysts]
 created: 2026-06-04
 updated: 2026-11-15

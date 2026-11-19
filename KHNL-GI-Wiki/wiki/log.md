@@ -6,6 +6,13 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] update | Tests vs procedures = who performs it (Nick's request)
+- Rule change in CLAUDE.md: a test a GI doctor performs and must learn is a **procedure**; a test GI orders and someone else performs (radiology, lab, pathology, IR) is a **diagnostic test**.
+- Back to Advanced Procedures: high-resolution-manometry, flip-panometry, capsule-endoscopy (foregut/motility); anorectal-manometry, intestinal-ultrasound (colorectal); intraductal-ultrasound, brush-cytology, confocal-laser-endomicroscopy, liver-biopsy (hepatobiliary).
+- To General Procedures: liver-stiffness-measurement (FibroScan, clinic-performed).
+- Diagnostic Tests now: mri-mrcp, fecal-immunochemical-test, fish, hepatic-venous-pressure-gradient. Concepts unchanged.
+- No page text changed. index.md, README, sidebar descriptions, server card files updated.
+
 ## [2026-11-18] update | One section rule, applied to every page (Nick's request)
 - Rule (in CLAUDE.md, INGEST routing): ask "what is this page about?", first match wins: one named disease → Disease Scripts; symptom/abnormal result without a diagnosis → Diagnostic Schemas; one drug/class/regimen → Meds; one named test that only gives information → Diagnostic Tests; one named procedure that can treat → General or Advanced Procedures; anatomy → Anatomy; everything else → Concepts.
 - "One named" = booked by one name. Technique choices inside one booking stay on the page; a page covering separately named tests/procedures is a concept.

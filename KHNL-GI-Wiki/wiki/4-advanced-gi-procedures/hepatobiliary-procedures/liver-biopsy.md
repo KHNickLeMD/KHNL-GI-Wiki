@@ -1,6 +1,6 @@
 ---
 title: "Liver Biopsy"
-category: diagnostic-test
+category: advanced-procedure
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
 updated: 2026-11-12

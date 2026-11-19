@@ -1,6 +1,6 @@
 ---
 title: "Liver Stiffness Measurement (Elastography)"
-category: diagnostic-test
+category: general-procedure
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
 updated: 2026-11-15

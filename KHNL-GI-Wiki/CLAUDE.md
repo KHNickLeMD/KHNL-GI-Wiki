@@ -20,12 +20,12 @@ You are the LLM Wiki agent for a **GI-focused medical encyclopedia**. This is yo
     - `colorectal-diseases/`: `inflammation/` (IBD & colitides: ulcerative-colitis) · `infections/` (clostridioides-difficile, salmonella-infection) · `lesions-malignancy/` (colorectal-cancer) · `polyposis-hereditary-syndromes/` (lynch-syndrome, familial-adenomatous-polyposis) · `functional-motility/` (irritable-bowel-syndrome, fecal-incontinence) · `vascular/` (colon-ischemia, acute-mesenteric-ischemia) · `anorectal/` (hemorrhoids, anal-fissure)
     - `hepatology-diseases/` (acute-liver-failure, cirrhosis, hepatitis, HCC) · `pancreaticobiliary-diseases/` (acute-pancreatitis, cholangiocarcinoma, gallbladder-cancer) · `other/` (no anatomic region: obesity, post-transplant-lymphoproliferative-disorder)
   - `2-diagnostic-schemas/` — syndrome-based pages, not a defined diagnosis (biliary-stricture, acute-lower-gi-bleeding)
-  - `3-general-gi-procedures/` — one named procedure a general GI does (upper-endoscopy, colonoscopy, polypectomy)
-  - `4-advanced-gi-procedures/` — one named procedure needing advanced training: `foregut-and-motility-procedures/` (poem, endoscopic-sleeve-gastroplasty) · `colorectal-procedures/` (polypectomy-emr) · `hepatobiliary-procedures/` (ercp, endoscopic-ultrasound)
+  - `3-general-gi-procedures/` — one named procedure a general GI performs (upper-endoscopy, colonoscopy, polypectomy, liver-stiffness-measurement)
+  - `4-advanced-gi-procedures/` — one named procedure a GI performs with advanced training: `foregut-and-motility-procedures/` (poem, high-resolution-manometry, capsule-endoscopy) · `colorectal-procedures/` (polypectomy-emr) · `hepatobiliary-procedures/` (ercp, endoscopic-ultrasound)
   - `5-meds/` — medications and drug classes (antibiotic-prophylaxis-cirrhosis)
   - `6-anatomy/` — GI tract anatomy and histology
   - `7-concepts/` — everything that is not one named item: families, strategies, care around procedures, devices, scores, mechanisms (colorectal-cancer-screening, bariatric-surgery, endoscopic-hemostasis, bowel-preparation, li-rads)
-  - `8-diagnostic-tests/` — **one named test that only gives information** (liver-biopsy, mri-mrcp, high-resolution-manometry, capsule-endoscopy, fecal-immunochemical-test). Sidebar shows it after Diagnostic Schemas (`SECTION_ORDER` in `index.html`), not by folder number.
+  - `8-diagnostic-tests/` — **one named test GI orders and someone else performs** (mri-mrcp, fecal-immunochemical-test, fish, hepatic-venous-pressure-gradient). Sidebar shows it after Diagnostic Schemas (`SECTION_ORDER` in `index.html`), not by folder number.
   - `sources/` — one summary page per ingested source
   - `syntheses/` — wiki-generated comparisons and analyses
 
@@ -311,8 +311,8 @@ Trigger: user provides a new source (article, guideline, chapter, paper, transcr
      1. One named disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT). Incl. eponymous/syndromic dx (Heyde's, FAMMM, PTLD), vascular lesions, systemic diseases managed in GI (obesity, hepatic encephalopathy).
      2. A symptom, sign, or abnormal result with no diagnosis yet → `wiki/2-diagnostic-schemas/`
      3. One drug, drug class, or named regimen → `wiki/5-meds/` (DAAs, probiotics, bismuth quadruple therapy)
-     4. One named test that **only gives information** and never treats → `wiki/8-diagnostic-tests/` (imaging, lab/stool test, biopsy/cytology, manometry, FLIP, capsule, IDUS, HVPG)
-     5. One named procedure that **can treat**, even if often diagnostic → general (`3-`, a general GI does it: EGD, colonoscopy, paracentesis) or advanced (`4-<subcategory>/`, needs advanced training: ERCP, EUS, POEM, cholangioscopy, enteroscopy)
+     4. One named test **GI orders and someone else performs** (radiology, lab, pathology, IR) → `wiki/8-diagnostic-tests/` (CT, MRI/MRCP, FIT, FISH, HVPG)
+     5. One named procedure **a GI doctor performs and must learn to do**, diagnostic or therapeutic (Nick, 2026-11-18) → general (`3-`, every GI does it: EGD, colonoscopy, paracentesis, FibroScan) or advanced (`4-<subcategory>/`, extra training: ERCP, EUS, POEM, HRM, FLIP, ARM, capsule, IUS, IDUS, brush cytology, CLE, liver biopsy). Surgeries and IR treatments (TIPS, fundoplication) stay procedures; the order-vs-perform split is for tests.
      6. Anatomy or histology → `wiki/6-anatomy/`
      7. Everything else → `wiki/7-concepts/`.
    - **"One named" test:** you would book it by that one name. Technique choices inside one booking stay on its page (balloon vs bougie dilation, cold vs hot snare, RTO vs ATO access). If the parts are separate tests/procedures/diseases booked or diagnosed by their own names, the page is a **concept**. Examples: bariatric-surgery (sleeve vs RYGB), antireflux-surgery, endoscopic-bariatric-therapies, endoscopic-hemostasis, endoscopic-eradication-therapy, enteral-access, interventional-eus-vascular, ambulatory-reflux-monitoring, colorectal-cancer-screening, inflammatory-bowel-disease.

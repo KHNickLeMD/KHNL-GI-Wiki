@@ -1,6 +1,6 @@
 ---
 title: "Brush Cytology"
-category: diagnostic-test
+category: advanced-procedure
 tags: [brush-cytology, ercp, biliary-stricture, cholangiocarcinoma, tissue-acquisition]
 created: 2026-06-04
 updated: 2026-09-06

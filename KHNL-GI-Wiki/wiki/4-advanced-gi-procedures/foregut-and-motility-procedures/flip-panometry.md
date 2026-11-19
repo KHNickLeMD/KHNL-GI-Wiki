@@ -1,6 +1,6 @@
 ---
 title: "FLIP Panometry"
-category: diagnostic-test
+category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
 updated: 2026-11-12

@@ -1,6 +1,6 @@
 ---
 title: "Intestinal Ultrasound (IUS)"
-category: diagnostic-test
+category: advanced-procedure
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
 updated: 2026-11-12

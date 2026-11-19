@@ -38,17 +38,17 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔭 General Procedures</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that a general GI physician does and that can treat, not just diagnose: upper endoscopy, colonoscopy, polypectomy, paracentesis. Cover indications, technique, and complications.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that every GI physician performs and has to learn, diagnostic or therapeutic: upper endoscopy, colonoscopy, polypectomy, paracentesis, FibroScan. Cover indications, technique, and complications.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔬 Advanced Procedures</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that needs advanced training and can treat: ERCP, EUS, POEM, cholangioscopy, endoscopic sleeve gastroplasty. Cover indications, technique, and complications.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that a GI physician performs after extra training, diagnostic or therapeutic: ERCP, EUS, POEM, manometry, FLIP, capsule endoscopy, intestinal ultrasound, liver biopsy. Cover indications, technique, and complications.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🩺 Diagnostic Tests</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named test per page that only gives information and never treats: liver biopsy, elastography, MRI/MRCP, high-resolution manometry, capsule endoscopy, FIT. Covers what it measures, how it is done, and how to read the result.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named test per page that GI orders and someone else performs (radiology, lab, pathology, IR): MRI/MRCP, FIT, FISH, HVPG. Covers what it measures, how it is done, and how to read the result.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
