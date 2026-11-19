@@ -5,6 +5,7 @@ tags: [t-cell-mediated-rejection, tcmr, acute-cellular-rejection, late-rejection
 created: 2026-11-18
 updated: 2026-11-18
 sources: [aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term]
+verified: 2026-11-18
 ---
 
 Cellular rejection of a [[liver-transplantation|liver allograft]]. **Acute T-cell–mediated rejection (TCMR)**, also called acute cellular rejection, occurs in **10%–30%** of liver transplant (LT) recipients, usually within the **first 3 months**. For comparison, acute [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]] is rare in ABO-compatible recipients, chronic AMR occurs in <10%, and plasma cell-rich rejection (PCR) is reported in 3%–5% of recipients transplanted for indications other than autoimmune hepatitis (AIH) ([[aasld-ast-2025-liver-transplant-graft-complications]]). This page also covers **chronic ductopenic rejection (CDR)**, which can follow severe or recurrent acute rejection.
@@ -131,7 +132,7 @@ flowchart TD
   - Response: approximately **60%–90%** of acute TCMR responds to high-dose corticosteroids; rates may be lower for late TCMR.
 - **Refractory — Rec 39 (Strong, Level 4):** consider a second course of corticosteroids or lymphocyte-depleting therapy when there is no response to the initial course.
 - Reinforce adherence to immunosuppression ([[aasld-ast-2025-liver-transplant-graft-complications]]).
-- **2012 figures for late-onset cellular rejection:** the short course was methylprednisolone 500 mg/day or prednisolone 200 mg/day for 3 days, followed by an increase in baseline immunosuppression. A full response (return to normal liver tests) was seen in only about half; about 25% had a further episode of cellular rejection and about 25% developed ductopenic rejection ([[aasld-2012-liver-transplant-long-term]]).
+- **2012 figures for late-onset cellular rejection:** in mild cases an increase in maintenance immunosuppression may be sufficient; in histologically moderate or severe cases the short course was methylprednisolone 500 mg/day or prednisolone 200 mg/day for 3 days, followed by an increase in baseline immunosuppression. A full response (return to normal liver tests) was seen in only about half; about 25% had a further episode of cellular rejection and about 25% developed ductopenic rejection ([[aasld-2012-liver-transplant-long-term]]).
 
 ### Chronic Ductopenic Rejection
 

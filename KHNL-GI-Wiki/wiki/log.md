@@ -24,7 +24,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Links added: `[[antibody-mediated-rejection-liver-transplant]]` (workup pointer now the transplant schema), `[[abnormal-liver-chemistries]]`, `[[operational-tolerance]]`, `[[calcineurin-inhibitors]]`, `[[tacrolimus]]`.
 - `index.md` — two rows; *Coverage Gaps* — two sibling entities queued (plasma cell-rich rejection, hepatic artery thrombosis and other vascular complications after transplant).
 
-**Checks:** `fidelity-check.py` on both new pages — ABSENT 0, OTHER 0, NOMATCH 0, FAR 0; sign lines read off rendered pages 21, 23 and 26. Independent verification: see the last bullet of this entry.
+**Checks:** `fidelity-check.py` on both new pages — ABSENT 0, OTHER 0, NOMATCH 0, FAR 0; sign lines read off rendered pages 21, 23 and 26. Independent verification by two fresh subagents against the raw PDFs: TCMR page 67/68 claims supported, schema 69/70; both findings minor (2012 steroid course lacked its moderate/severe qualifier; Doppler 'screening tool' lacked 'immediate postoperative period'), both confirmed and fixed; `verified: 2026-11-18` set on both pages.
 
 **Open:**
 - Lectures on file and not ingested (gated, need Nick's go-ahead by name): `Liver_Transplant_Rejection_Lecture.md`, `Transaminitis_Post_Liver_Transplant.md`. The chalk talk contains patient details that must be stripped.

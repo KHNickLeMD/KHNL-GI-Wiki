@@ -5,6 +5,7 @@ tags: [liver-transplant, post-transplant, abnormal-liver-tests, graft-dysfunctio
 created: 2026-11-18
 updated: 2026-11-18
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
+verified: 2026-11-18
 ---
 
 ## Contents
@@ -89,7 +90,7 @@ Stepwise approach to the healthy, asymptomatic recipient; steps 1, 2, and 4 are 
 
 | Test | Role | Source |
 |---|---|---|
-| Doppler ultrasound | Part of the initial investigation; first assessment for hepatic artery thrombosis or stenosis. Screening tool for graft vasculature — noninvasive, no contrast, accessible, lower cost | [[aasld-2012-liver-transplant-long-term]] (Rec 5); [[aasld-ast-2025-liver-transplant-graft-complications]] |
+| Doppler ultrasound | Part of the initial investigation; first assessment for hepatic artery thrombosis or stenosis. Widely used screening tool for graft vasculature in the immediate postoperative period — noninvasive, no contrast, accessible, lower cost | [[aasld-2012-liver-transplant-long-term]] (Rec 5); [[aasld-ast-2025-liver-transplant-graft-complications]] |
 | CT angiography / venography | More detail when a vascular abnormality is suspected or Doppler is inconclusive | [[aasld-ast-2025-liver-transplant-graft-complications]] |
 | MRCP | First-line for biliary strictures: sensitivity 94%–96%, specificity 94%–95%; also shows bilomas and intraductal biliary casts | [[aasld-ast-2025-liver-transplant-graft-complications]] (Rec 15) |
 | ERCP | Directly when the pretest probability of a stricture is high and intervention is likely; also after a negative MRCP with high suspicion | [[aasld-ast-2025-liver-transplant-graft-complications]] (Rec 16) |
