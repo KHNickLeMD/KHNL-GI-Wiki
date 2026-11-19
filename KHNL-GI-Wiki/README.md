@@ -38,17 +38,17 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔭 General Procedures</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Procedures routinely performed by general GI physicians, such as upper endoscopy and colonoscopy. Cover indications, technique, quality metrics, and complications.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that a general GI physician does and that can treat, not just diagnose: upper endoscopy, colonoscopy, polypectomy, paracentesis. Cover indications, technique, and complications.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔬 Advanced Procedures</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Specialized GI procedures requiring additional training — ERCP, EUS, POEM, high-resolution manometry, anorectal manometry, and others. Cover technique, indications, and interpretation.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named procedure per page that needs advanced training and can treat: ERCP, EUS, POEM, cholangioscopy, endoscopic sleeve gastroplasty. Cover indications, technique, and complications.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🩺 Diagnostic Tests</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One specific test per page — liver biopsy, elastography, MRI/MRCP, brush cytology, FIT — covering what it measures, how it is done, and how to read the result. Broader topics that span several tests, such as colorectal cancer screening or ambulatory reflux monitoring, stay under Concepts.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One named test per page that only gives information and never treats: liver biopsy, elastography, MRI/MRCP, high-resolution manometry, capsule endoscopy, FIT. Covers what it measures, how it is done, and how to read the result.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
@@ -63,7 +63,7 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">💡 Concepts</div>
-<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Pathophysiology, mechanisms, classification systems, and clinical frameworks that underpin multiple disease pages — e.g. Chicago Classification v4.0, colorectal cancer screening, ambulatory reflux monitoring.</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Anything that is not one named disease, test, procedure, or drug: families that span several (bariatric surgery, endoscopic hemostasis, colorectal cancer screening), the care around procedures (bowel prep, sedation, quality), classification systems and scores (Chicago v4.0, LI-RADS), and mechanisms.</div>
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">

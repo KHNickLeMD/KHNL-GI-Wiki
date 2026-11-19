@@ -1,6 +1,6 @@
 ---
 title: "Bowel Preparation"
-category: general-procedure
+category: concept
 tags: [bowel-prep, colonoscopy, split-dose, peg, simethicone, preparation-quality, bbps, crc-screening, colorectal]
 created: 2026-10-15
 updated: 2026-10-30

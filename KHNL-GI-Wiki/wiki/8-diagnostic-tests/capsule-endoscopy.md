@@ -1,6 +1,6 @@
 ---
 title: "Capsule Endoscopy (Video Capsule Endoscopy)"
-category: advanced-procedure
+category: diagnostic-test
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
 updated: 2026-11-11

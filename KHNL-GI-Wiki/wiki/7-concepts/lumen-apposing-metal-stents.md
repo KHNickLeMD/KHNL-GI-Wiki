@@ -1,6 +1,6 @@
 ---
 title: "Lumen-Apposing Metal Stents (LAMS)"
-category: advanced-procedure
+category: concept
 tags: [lams, therapeutic-eus, transmural-drainage, stents, eus-gbd, pancreatic-fluid-collection, eus-ge, edge, device]
 created: 2026-11-04
 updated: 2026-11-11

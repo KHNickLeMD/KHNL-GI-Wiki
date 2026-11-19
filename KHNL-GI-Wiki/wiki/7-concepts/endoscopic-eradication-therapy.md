@@ -1,6 +1,6 @@
 ---
 title: "Endoscopic Eradication Therapy (EET)"
-category: advanced-procedure
+category: concept
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
 updated: 2026-11-16

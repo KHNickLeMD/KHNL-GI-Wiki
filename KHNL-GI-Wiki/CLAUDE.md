@@ -20,12 +20,12 @@ You are the LLM Wiki agent for a **GI-focused medical encyclopedia**. This is yo
     - `colorectal-diseases/`: `inflammation/` (IBD & colitides: ulcerative-colitis) · `infections/` (clostridioides-difficile, salmonella-infection) · `lesions-malignancy/` (colorectal-cancer) · `polyposis-hereditary-syndromes/` (lynch-syndrome, familial-adenomatous-polyposis) · `functional-motility/` (irritable-bowel-syndrome, fecal-incontinence) · `vascular/` (colon-ischemia, acute-mesenteric-ischemia) · `anorectal/` (hemorrhoids, anal-fissure)
     - `hepatology-diseases/` (acute-liver-failure, cirrhosis, hepatitis, HCC) · `pancreaticobiliary-diseases/` (acute-pancreatitis, cholangiocarcinoma, gallbladder-cancer) · `other/` (no anatomic region: obesity, post-transplant-lymphoproliferative-disorder)
   - `2-diagnostic-schemas/` — syndrome-based pages, not a defined diagnosis (biliary-stricture, acute-lower-gi-bleeding)
-  - `3-general-gi-procedures/` — done by general GI (upper-endoscopy, colonoscopy)
-  - `4-advanced-gi-procedures/` — specialized: `foregut-and-motility-procedures/` (flip-panometry, poem) · `colorectal-procedures/` (polypectomy-emr) · `hepatobiliary-procedures/` (ercp, endoscopic-ultrasound)
+  - `3-general-gi-procedures/` — one named procedure a general GI does (upper-endoscopy, colonoscopy, polypectomy)
+  - `4-advanced-gi-procedures/` — one named procedure needing advanced training: `foregut-and-motility-procedures/` (poem, endoscopic-sleeve-gastroplasty) · `colorectal-procedures/` (polypectomy-emr) · `hepatobiliary-procedures/` (ercp, endoscopic-ultrasound)
   - `5-meds/` — medications and drug classes (antibiotic-prophylaxis-cirrhosis)
   - `6-anatomy/` — GI tract anatomy and histology
-  - `7-concepts/` — pathophysiology, mechanisms, clinical frameworks, and **broad topics spanning several tests or procedures** (ambulatory-reflux-monitoring, reflux-testing, colorectal-cancer-screening, endoscopic-management-of-perforation)
-  - `8-diagnostic-tests/` — **one specific test per page** (liver-biopsy, liver-stiffness-measurement, mri-mrcp, brush-cytology, fish, fecal-immunochemical-test). Sidebar shows it after Diagnostic Schemas (`SECTION_ORDER` in `index.html`), not by folder number.
+  - `7-concepts/` — everything that is not one named item: families, strategies, care around procedures, devices, scores, mechanisms (colorectal-cancer-screening, bariatric-surgery, endoscopic-hemostasis, bowel-preparation, li-rads)
+  - `8-diagnostic-tests/` — **one named test that only gives information** (liver-biopsy, mri-mrcp, high-resolution-manometry, capsule-endoscopy, fecal-immunochemical-test). Sidebar shows it after Diagnostic Schemas (`SECTION_ORDER` in `index.html`), not by folder number.
   - `sources/` — one summary page per ingested source
   - `syntheses/` — wiki-generated comparisons and analyses
 
@@ -307,15 +307,16 @@ Trigger: user provides a new source (article, guideline, chapter, paper, transcr
 2. Briefly discuss 3–5 key takeaways with the user before writing anything.
 3. Create a source summary page in `wiki/sources/`.
 4. Create/update pages touched by the source, per **Content Guide** (source fidelity, no duplication, source algorithms/figures/tables) and **Style Guide** (skimmable bullets, visuals, structure, cross-links). Routing:
-   - Defined disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT). **Any discrete disease entity is a disease script, never a concept** — incl. eponymous/syndromic dx (Heyde's, FAMMM, PTLD), vascular lesions (angioectasia, mesenteric artery aneurysm), systemic/metabolic diseases managed in GI (obesity, hepatic encephalopathy, post-infectious IBS). `7-concepts/` = pathophysiology, mechanisms, frameworks only.
-   - Syndrome/undifferentiated symptom → `wiki/2-diagnostic-schemas/`
-   - General GI procedure → `wiki/3-general-gi-procedures/`
-   - Advanced/specialized procedure → `wiki/4-advanced-gi-procedures/<subcategory>/`
-   - Medication **or drug class** → `wiki/5-meds/` (DAAs, probiotics, bismuth quadruple therapy — not `7-concepts/`)
-   - Anatomy → `wiki/6-anatomy/`
-   - One specific diagnostic test (imaging modality, lab/stool test, biopsy or cytology technique, pressure measurement) → `wiki/8-diagnostic-tests/`
-   - Concept/framework → `wiki/7-concepts/`
-   - **Specific vs broad (Nick, 2026-11-18).** A test or procedure page names **one specific** test/procedure. A topic that spans several, or is a strategy/framework for choosing among them, is a **concept** even when it is diagnostic or procedural: [[colorectal-cancer-screening]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[noninvasive-liver-disease-assessment]], [[endoscopic-management-of-perforation]]. Classifications and scores (LI-RADS, Chicago) stay concepts.
+   - **Section rule (Nick, 2026-11-18) — ask "what is this page about?", first match wins, stick to it:**
+     1. One named disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT). Incl. eponymous/syndromic dx (Heyde's, FAMMM, PTLD), vascular lesions, systemic diseases managed in GI (obesity, hepatic encephalopathy).
+     2. A symptom, sign, or abnormal result with no diagnosis yet → `wiki/2-diagnostic-schemas/`
+     3. One drug, drug class, or named regimen → `wiki/5-meds/` (DAAs, probiotics, bismuth quadruple therapy)
+     4. One named test that **only gives information** and never treats → `wiki/8-diagnostic-tests/` (imaging, lab/stool test, biopsy/cytology, manometry, FLIP, capsule, IDUS, HVPG)
+     5. One named procedure that **can treat**, even if often diagnostic → general (`3-`, a general GI does it: EGD, colonoscopy, paracentesis) or advanced (`4-<subcategory>/`, needs advanced training: ERCP, EUS, POEM, cholangioscopy, enteroscopy)
+     6. Anatomy or histology → `wiki/6-anatomy/`
+     7. Everything else → `wiki/7-concepts/`.
+   - **"One named" test:** you would book it by that one name. Technique choices inside one booking stay on its page (balloon vs bougie dilation, cold vs hot snare, RTO vs ATO access). If the parts are separate tests/procedures/diseases booked or diagnosed by their own names, the page is a **concept**. Examples: bariatric-surgery (sleeve vs RYGB), antireflux-surgery, endoscopic-bariatric-therapies, endoscopic-hemostasis, endoscopic-eradication-therapy, enteral-access, interventional-eus-vascular, ambulatory-reflux-monitoring, colorectal-cancer-screening, inflammatory-bowel-disease.
+   - Also concepts: care around a procedure (bowel-preparation, sedation, quality indicators, perforation management), a device used across procedures (lumen-apposing-metal-stents), classifications and scores (LI-RADS, Chicago), mechanisms.
 5. Create/update concept pages touched by the source.
 6. Update `wiki/overview.md` if the big picture changes.
 7. Update `wiki/index.md` — new source page + any new entity/concept pages.

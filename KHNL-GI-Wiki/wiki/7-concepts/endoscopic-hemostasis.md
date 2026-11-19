@@ -1,6 +1,6 @@
 ---
 title: "Endoscopic Hemostasis"
-category: general-procedure
+category: concept
 tags: [hemostasis, gi-bleeding, ugib, lgib, clips, thermal, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, band-ligation, endoscopy]
 created: 2026-09-06
 updated: 2026-11-13

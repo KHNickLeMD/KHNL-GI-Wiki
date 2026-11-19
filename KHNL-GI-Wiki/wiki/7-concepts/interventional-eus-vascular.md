@@ -1,6 +1,6 @@
 ---
 title: "Interventional EUS for Vascular Investigation and Therapy"
-category: advanced-procedure
+category: concept
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
 updated: 2026-11-03

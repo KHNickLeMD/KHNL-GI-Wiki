@@ -1,6 +1,6 @@
 ---
 title: "High-Resolution Manometry (HRM)"
-category: advanced-procedure
+category: diagnostic-test
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
 updated: 2026-11-13

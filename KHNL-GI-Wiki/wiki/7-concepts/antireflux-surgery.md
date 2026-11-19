@@ -1,6 +1,6 @@
 ---
 title: "Antireflux Surgery"
-category: advanced-procedure
+category: concept
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
 updated: 2026-11-19

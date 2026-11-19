@@ -1,6 +1,6 @@
 ---
 title: "Enteral Access"
-category: general-procedure
+category: concept
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
 updated: 2026-11-16

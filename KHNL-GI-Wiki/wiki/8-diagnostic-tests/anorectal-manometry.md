@@ -1,6 +1,6 @@
 ---
 title: "Anorectal Manometry (ARM)"
-category: advanced-procedure
+category: diagnostic-test
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test, rectoanal-gradient, rectal-sensory-testing, rome-v]
 created: 2026-05-19
 updated: 2026-11-14

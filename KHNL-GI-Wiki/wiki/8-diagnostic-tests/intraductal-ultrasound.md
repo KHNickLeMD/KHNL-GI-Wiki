@@ -1,6 +1,6 @@
 ---
 title: "Intraductal Ultrasound (IDUS)"
-category: advanced-procedure
+category: diagnostic-test
 tags: [idus, biliary-stricture, cholangiocarcinoma, ampullary-adenoma, ercp, eus, hepatobiliary, staging]
 created: 2026-10-23
 updated: 2026-11-15

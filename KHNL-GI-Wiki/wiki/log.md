@@ -6,6 +6,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] update | One section rule, applied to every page (Nick's request)
+- Rule (in CLAUDE.md, INGEST routing): ask "what is this page about?", first match wins: one named disease → Disease Scripts; symptom/abnormal result without a diagnosis → Diagnostic Schemas; one drug/class/regimen → Meds; one named test that only gives information → Diagnostic Tests; one named procedure that can treat → General or Advanced Procedures; anatomy → Anatomy; everything else → Concepts.
+- "One named" = booked by one name. Technique choices inside one booking stay on the page; a page covering separately named tests/procedures is a concept.
+- To Diagnostic Tests (from Advanced Procedures): high-resolution-manometry, anorectal-manometry, flip-panometry, capsule-endoscopy, intraductal-ultrasound.
+- To Concepts (from General Procedures): bowel-preparation, endoscopic-hemostasis, enteral-access. (From Advanced Procedures): bariatric-surgery, antireflux-surgery, endoscopic-bariatric-therapies, endoscopic-eradication-therapy, interventional-eus-vascular, lumen-apposing-metal-stents.
+- Checked and kept: esophageal-dilation, polypectomy, variceal-obliteration, pancreatic-fluid-collection-drainage (technique choices inside one procedure); EUS, ERCP, cholangioscopy, enteroscopy, paracentesis (can treat); liver-stiffness-measurement (mainly VCTE).
+- No page text changed; slugs and links unchanged. index.md rows, README section boxes, sidebar descriptions updated. Server card files moved with guid_page pinned.
+
 ## [2026-11-18] update | T-cell–mediated rejection page + post-transplant abnormal liver tests schema (Nick's request)
 
 **Why there was no TCMR page (troubleshooting):**

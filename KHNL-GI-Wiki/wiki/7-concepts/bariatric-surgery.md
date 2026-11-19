@@ -1,6 +1,6 @@
 ---
 title: "Bariatric Surgery"
-category: advanced-procedure
+category: concept
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia, cirrhosis, csph, portal-hypertension]
 created: 2026-06-04
 updated: 2026-10-27

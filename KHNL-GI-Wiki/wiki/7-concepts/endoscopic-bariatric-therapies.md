@@ -1,6 +1,6 @@
 ---
 title: "Endoscopic Bariatric Therapies (EBTs)"
-category: advanced-procedure
+category: concept
 tags: [obesity, endoscopic-bariatric-therapy, bariatric, weight-management, endoscopic-sleeve-gastroplasty, aspiration-therapy, duodenojejunal-bypass-sleeve]
 created: 2026-10-01
 updated: 2026-11-16
