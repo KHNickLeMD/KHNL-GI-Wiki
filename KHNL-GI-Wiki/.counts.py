@@ -8,6 +8,7 @@ folders = {
     'advanced procedures': 'wiki/4-advanced-gi-procedures',
     'meds': 'wiki/5-meds',
     'concepts': 'wiki/7-concepts',
+    'diagnostic-tests': 'wiki/8-diagnostic-tests',
     'syntheses': 'wiki/syntheses',
 }
 for name, path in folders.items():

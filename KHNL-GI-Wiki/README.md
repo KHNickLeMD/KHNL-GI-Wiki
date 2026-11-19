@@ -47,6 +47,11 @@ The result is a compounding, evidence-linked reference that grows with each new 
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🩺 Diagnostic Tests</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One specific test per page — liver biopsy, elastography, MRI/MRCP, brush cytology, FIT — covering what it measures, how it is done, and how to read the result. Broader topics that span several tests, such as colorectal cancer screening or ambulatory reflux monitoring, stay under Concepts.</div>
+</div>
+
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">💊 Medications</div>
 <div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Drug classes and specific agents used in GI and hepatology. Cover mechanism of action, dosing, monitoring parameters, adverse effects, and key clinical data.</div>
 </div>

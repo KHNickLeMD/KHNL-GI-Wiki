@@ -8,6 +8,7 @@ EXPECT = {
     'wiki/4-advanced-gi-procedures': 'advanced-procedure',
     'wiki/5-meds': 'med',
     'wiki/7-concepts': 'concept',
+    'wiki/8-diagnostic-tests': 'diagnostic-test',
     'wiki/sources': 'source',
     'wiki/syntheses': 'synthesis',
 }

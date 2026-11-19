@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] update | New section: Diagnostic Tests (`8-diagnostic-tests/`)
+
+**Why:** Nick asked for a Diagnostic Tests section — `7-concepts/` held many pages that are each one specific test. Rule he set: a test or procedure page names **one specific** test/procedure; a broad topic spanning several stays (or becomes) a concept.
+
+**Pages moved to `8-diagnostic-tests/` (9; `category: diagnostic-test`):**
+- [[liver-biopsy]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[fecal-immunochemical-test]], [[intestinal-ultrasound]]
+
+**Page moved to `7-concepts/` (1; `category: concept`):**
+- [[endoscopic-management-of-perforation]], from `3-general-gi-procedures/` — not one specific procedure (Nick's example).
+
+**Left in `7-concepts/` on purpose:**
+- Broad or multi-test topics: [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[colorectal-cancer-screening]] and the other screening/surveillance pages, [[noninvasive-liver-disease-assessment]], [[therapeutic-drug-monitoring-ibd]], [[preprocedure-testing]], [[hrm-antireflux-surgery]].
+- Classifications and scores: [[li-rads]], [[chicago-classification-v4]], [[london-classification]], [[bristol-stool-form-scale]], [[ibd-endoscopic-scoring]], [[i-see-eoe-severity-index]].
+
+**Wiring:**
+- `index.html`: `8-diagnostic-tests` added to `SECTION_ORDER` (after Diagnostic Schemas), `SECTION_META`, `CATS`, graph colours. Page URLs unchanged (slug only).
+- `index.md`: new `## Diagnostic Tests` section; perforation row moved under Concepts. `README.md`: Diagnostic Tests box. `CLAUDE.md`: folder, category, routing rule, card-file move rule.
+- No clinical text changed; `updated:`, `quality_reviewed:` and `verified:` left as they were.
+
+**Cards:** the 10 card files moved to the matching folders on the server; `page:` repointed, `guid_page:` pinned to the old path. Test build on a copy: 4,761 notes before and after, 0 GUIDs lost, 0 texts changed. Decks follow at the next sync: 84 notes → `6. Diagnostic Tests`, 19 → Concepts, and Concepts / Syntheses renumber to `7.` / `8.` (561 notes, scheduling kept).
+
+---
+
 ## [2026-11-19] lint | Manual pass — finish the ESGE Part 2 partial, ingest by budget
 
 **Scope:** backlog mode, $12 budget. Finish `[[esge-2020-gi-motility-part-2]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.

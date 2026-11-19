@@ -1,6 +1,6 @@
 ---
 title: "Endoscopic Management of GI Perforation"
-category: general-procedure
+category: concept
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, ttsc, endoscopic-suturing, sems, endoscopic-vacuum-therapy, ercp, esd, emr, poem]
 created: 2026-09-08
 updated: 2026-11-16

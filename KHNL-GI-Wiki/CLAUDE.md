@@ -24,7 +24,8 @@ You are the LLM Wiki agent for a **GI-focused medical encyclopedia**. This is yo
   - `4-advanced-gi-procedures/` — specialized: `foregut-and-motility-procedures/` (flip-panometry, poem) · `colorectal-procedures/` (polypectomy-emr) · `hepatobiliary-procedures/` (ercp, endoscopic-ultrasound)
   - `5-meds/` — medications and drug classes (antibiotic-prophylaxis-cirrhosis)
   - `6-anatomy/` — GI tract anatomy and histology
-  - `7-concepts/` — pathophysiology, mechanisms, clinical frameworks (ambulatory-reflux-monitoring, reflux-testing)
+  - `7-concepts/` — pathophysiology, mechanisms, clinical frameworks, and **broad topics spanning several tests or procedures** (ambulatory-reflux-monitoring, reflux-testing, colorectal-cancer-screening, endoscopic-management-of-perforation)
+  - `8-diagnostic-tests/` — **one specific test per page** (liver-biopsy, liver-stiffness-measurement, mri-mrcp, brush-cytology, fish, fecal-immunochemical-test). Sidebar shows it after Diagnostic Schemas (`SECTION_ORDER` in `index.html`), not by folder number.
   - `sources/` — one summary page per ingested source
   - `syntheses/` — wiki-generated comparisons and analyses
 
@@ -140,7 +141,7 @@ Obsidian callout syntax; site renders a colored box (`renderCallout` in `index.h
 ```yaml
 ---
 title: "Page Title"
-category: disease-script | diagnostic-schema | general-procedure | advanced-procedure | med | anatomy | concept | source | synthesis
+category: disease-script | diagnostic-schema | diagnostic-test | general-procedure | advanced-procedure | med | anatomy | concept | source | synthesis
 tags: [ibd, crohns, biologic, ...relevant tags]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -312,7 +313,9 @@ Trigger: user provides a new source (article, guideline, chapter, paper, transcr
    - Advanced/specialized procedure → `wiki/4-advanced-gi-procedures/<subcategory>/`
    - Medication **or drug class** → `wiki/5-meds/` (DAAs, probiotics, bismuth quadruple therapy — not `7-concepts/`)
    - Anatomy → `wiki/6-anatomy/`
+   - One specific diagnostic test (imaging modality, lab/stool test, biopsy or cytology technique, pressure measurement) → `wiki/8-diagnostic-tests/`
    - Concept/framework → `wiki/7-concepts/`
+   - **Specific vs broad (Nick, 2026-11-18).** A test or procedure page names **one specific** test/procedure. A topic that spans several, or is a strategy/framework for choosing among them, is a **concept** even when it is diagnostic or procedural: [[colorectal-cancer-screening]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[noninvasive-liver-disease-assessment]], [[endoscopic-management-of-perforation]]. Classifications and scores (LI-RADS, Chicago) stay concepts.
 5. Create/update concept pages touched by the source.
 6. Update `wiki/overview.md` if the big picture changes.
 7. Update `wiki/index.md` — new source page + any new entity/concept pages.
@@ -444,7 +447,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Build connections + add inline links every lint** — required outputs, not hygiene: disease scripts ↔ concepts they invoke, meds ↔ diseases they treat, schemas ↔ DDx items, sources ↔ entity pages; first mention of each entity with a page (or warranting a stub) → `[[slug|Displayed Words]]`.
 
 **Parallel processing (use parallel subagents)** whenever the pass touches more than a handful of pages:
-- **Parallelize per-page work.** Batch by folder (`1-disease-scripts/`, `2-diagnostic-schemas/`, `5-meds/`, `7-concepts/`…); one `Agent` subagent per batch, dispatched *in a single message*, for read-only + page-local work: contradictions/stale claims, un-linked mentions, inline + cross-reference links **within the batch's own pages**. Each returns proposed edits, links it wanted on pages outside its batch, and stubs/index/log entries needed.
+- **Parallelize per-page work.** Batch by folder (`1-disease-scripts/`, `2-diagnostic-schemas/`, `5-meds/`, `7-concepts/`, `8-diagnostic-tests/`…); one `Agent` subagent per batch, dispatched *in a single message*, for read-only + page-local work: contradictions/stale claims, un-linked mentions, inline + cross-reference links **within the batch's own pages**. Each returns proposed edits, links it wanted on pages outside its batch, and stubs/index/log entries needed.
 - **Serialize shared writes.** Parallel subagents never write `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`, or any entity page multiple batches want. Collect proposals; apply consolidated edits yourself in one final pass (same rule as parallel ingest).
 - **Keep cross-batch work central:** orphan detection, index-count reconciliation, dedup, ingest of raw files — whole-wiki view, done by you after subagents report.
 - **Stay serial** for small/targeted lints (one folder, a few named pages).
@@ -460,6 +463,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 - **Never inside `raw/`** — the lint cron rsyncs `raw/` into the repo and commits it (cards would hit GitHub). `KHNL-GI-Wiki/cards/` is gitignored as backstop.
 - Exporter `website_files/scripts/build-anki.mjs` (in repo) tries `$CARDS_DIR`, then the paths above; writes `<cards>/dist/khnl-gi-wiki.txt` — the single file to share (stock Cloze, `#guid column`).
 - `giwiki` container bind-mounts the server cards dir at `/cards` (2026-08-10); the 05:00 cron card pass drafts 5 pages/night under `# Draft` and rebuilds; commits/pushes nothing.
+- **Moving a page to another folder (Nick, 2026-11-18):** its card file moves to the same folder under `<cards>`, `page:` gets the new path, and `guid_page:` keeps the **old** path (unless the file already has one) so GUIDs and scheduling survive. Do it before the next cron pass — a `page:` that no longer exists crashes `build-anki.mjs`.
 - **Block format:** `[6-hex id]{source-slug}` opens a note, optionally `[id]{source-slug}{also:page-slug,page-slug}` on a merged duplicate (footer then names every page), and `{at:heading-id}` = the page section the fact lives in (see *Section anchors* below); `>` lines = Back Extra; blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id** (preserves scheduling).
 
 **Decks and tags** (2026-08-10):
@@ -498,7 +502,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 
 **Source rules:**
 - **New cards only from verified pages (Nick, 2026-11-16).** A page is eligible for new cards only when its frontmatter has `verified:` (Operations → *Verification*). The deck was built from unverified pages and copied their errors; no more are written. Existing card files stay and are re-checked: once a page gains `verified:`, its card file goes back to the front of the card review queue (`cards_reviewed:` older than the page's `verified:` counts as unreviewed), and *Correlate* is done against the verified page.
-- **Card topic pages only** (Nick, 2026-10-22): disease scripts, diagnostic schemas, procedures, meds, concepts, syntheses. **Never card a `wiki/sources/` summary page** — it is evidence for topic pages, not a deck topic; no `cards/sources/` file ever.
+- **Card topic pages only** (Nick, 2026-10-22): disease scripts, diagnostic schemas, diagnostic tests, procedures, meds, concepts, syntheses. **Never card a `wiki/sources/` summary page** — it is evidence for topic pages, not a deck topic; no `cards/sources/` file ever.
 - **Guideline-sourced cards only** (Nick, 2026-08-11): cards come from **tier-1 sources only** — society guideline, CPU, consensus statement. **No cards from RCTs, cohorts, meta-analyses, abstracts, lectures/chalk talks** — "not yet" (may relax later); binds every ingest, page edit, and nightly pass. Deck-only rule: RCT/abstract content still reaches wiki pages. Mixed-tier page → card only the guideline-backed facts. Test = the card's `{source-slug}`: not a guideline/CPU/consensus page → no card.
 - **Cards test the wiki and nothing else.** Every fact and image on a card must already exist on its page. No outside knowledge, web lookups, or invented examples. Card wants a fact the page lacks → fix the page first.
 - **Cards come from the `.md`, only the `.md`.** Re-import overwrites Text and Back Extra. Never tell the user to fix a card inside Anki — fix the card file, rebuild.

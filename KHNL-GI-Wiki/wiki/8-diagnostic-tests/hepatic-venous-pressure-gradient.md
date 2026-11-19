@@ -1,6 +1,6 @@
 ---
 title: "Hepatic Venous Pressure Gradient (HVPG)"
-category: concept
+category: diagnostic-test
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
 updated: 2026-11-12

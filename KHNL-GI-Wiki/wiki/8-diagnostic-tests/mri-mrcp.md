@@ -1,6 +1,6 @@
 ---
 title: "MRI / MRCP (Magnetic Resonance Cholangiopancreatography)"
-category: concept
+category: diagnostic-test
 tags: [imaging, mri, mrcp, pancreas, biliary, hpb, liver, crohns]
 created: 2026-06-04
 updated: 2026-11-15

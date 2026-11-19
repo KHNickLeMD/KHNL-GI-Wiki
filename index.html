@@ -1040,6 +1040,7 @@
   .cat-disease-script { background: #3b82f6; }
   .cat-diagnostic-schema { background: #8b5cf6; }
   .cat-procedure { background: #10b981; }
+  .cat-diagnostic-test { background: #06b6d4; }
   .cat-med { background: #f59e0b; }
   .cat-concept { background: #ef4444; }
   .cat-source { background: #6b7280; }
@@ -1715,6 +1716,7 @@ window.addEventListener('popstate', (e) => {
 const CATS = {
   'disease-script':    { label: 'Disease Script',     dot: 'cat-disease-script' },
   'diagnostic-schema': { label: 'Diagnostic Schema',  dot: 'cat-diagnostic-schema' },
+  'diagnostic-test':   { label: 'Diagnostic Test',    dot: 'cat-diagnostic-test' },
   'general-procedure': { label: 'General Procedure',  dot: 'cat-procedure' },
   'advanced-procedure':{ label: 'Advanced Procedure', dot: 'cat-procedure' },
   'med':               { label: 'Medication',         dot: 'cat-med' },
@@ -1726,7 +1728,7 @@ const CATS = {
   'overview':          { label: 'Overview',           dot: 'cat-concept' },
 };
 
-const SECTION_ORDER = ['1-disease-scripts','3-general-gi-procedures','4-advanced-gi-procedures','5-meds','2-diagnostic-schemas','7-concepts','syntheses','6-anatomy','sources'];
+const SECTION_ORDER = ['1-disease-scripts','3-general-gi-procedures','4-advanced-gi-procedures','5-meds','2-diagnostic-schemas','8-diagnostic-tests','7-concepts','syntheses','6-anatomy','sources'];
 
 const SECTION_META = {
   '1-disease-scripts':         { icon: '📋', label: 'Disease Scripts',      desc: 'Defined diagnoses in ADDT format (Assessment, Differential, Diagnostics, Therapeutics)' },
@@ -1735,7 +1737,8 @@ const SECTION_META = {
   '4-advanced-gi-procedures':  { icon: '🔬', label: 'Advanced Procedures',  desc: 'Specialized GI procedures (ERCP, EUS, POEM, manometry)' },
   '5-meds':                    { icon: '💊', label: 'Medications',          desc: 'Drug classes and specific agents used in GI/hepatology' },
   '6-anatomy':                 { icon: '🫀', label: 'Anatomy',              desc: 'GI tract anatomy and histology' },
-  '7-concepts':                { icon: '💡', label: 'Concepts',             desc: 'Pathophysiology, mechanisms, and clinical frameworks' },
+  '7-concepts':                { icon: '💡', label: 'Concepts',             desc: 'Pathophysiology, mechanisms, clinical frameworks, and broad topics that span several tests or procedures' },
+  '8-diagnostic-tests':        { icon: '🩺', label: 'Diagnostic Tests',     desc: 'One specific test per page: what it measures, how it is done, how to read it' },
   'sources':                   { icon: '📚', label: 'Sources',              desc: 'Summary pages for ingested guidelines, RCTs, and reviews' },
   'syntheses':                 { icon: '🧪', label: 'Syntheses',            desc: 'Wiki-generated comparisons and cross-cutting analyses' },
 };
@@ -3762,6 +3765,7 @@ const GRAPH_SECTION_COLORS = {
   '5-meds':                   '#fbbf24',
   '6-anatomy':                '#f87171',
   '7-concepts':               '#f472b6',
+  '8-diagnostic-tests':       '#22d3ee',
   'sources':                  '#9ca3af',
   'syntheses':                '#38bdf8',
   'root':                     '#6b7280',

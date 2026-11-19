@@ -1,7 +1,7 @@
 import os,re
 WIKI='wiki'; CARDS='/cards'
 SKIP={'index.md','log.md','overview.md','needed-sources.md','README.md'}
-DIRS=('1-disease-scripts','2-diagnostic-schemas','3-general-gi-procedures','4-advanced-gi-procedures','5-meds','6-anatomy','7-concepts','syntheses')
+DIRS=('1-disease-scripts','2-diagnostic-schemas','3-general-gi-procedures','4-advanced-gi-procedures','5-meds','6-anatomy','7-concepts','8-diagnostic-tests','syntheses')
 nocard=[]; stale=[]
 for root,dirs,files in os.walk(WIKI):
     rel=os.path.relpath(root,WIKI)

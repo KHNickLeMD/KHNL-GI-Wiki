@@ -1,6 +1,6 @@
 ---
 title: "FISH (Fluorescence In Situ Hybridization)"
-category: concept
+category: diagnostic-test
 tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing-cholangitis, polysomy, tissue-acquisition]
 created: 2026-06-04
 updated: 2026-10-28

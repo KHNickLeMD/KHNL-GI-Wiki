@@ -1,6 +1,6 @@
 ---
 title: "Brush Cytology"
-category: concept
+category: diagnostic-test
 tags: [brush-cytology, ercp, biliary-stricture, cholangiocarcinoma, tissue-acquisition]
 created: 2026-06-04
 updated: 2026-09-06

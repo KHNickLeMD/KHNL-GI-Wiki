@@ -1,6 +1,6 @@
 ---
 title: "Fecal Immunochemical Test (FIT)"
-category: concept
+category: diagnostic-test
 tags: [fit, crc-screening, colorectal-cancer, stool-test, screening, quality-indicators]
 created: 2026-11-01
 updated: 2026-11-12
