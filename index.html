@@ -2160,7 +2160,7 @@ function buildNavTree() {
   const colonyItem = document.createElement('div');
   colonyItem.className = 'nav-top-item';
   colonyItem.dataset.navKey = 'colony';
-  colonyItem.textContent = '🧫 The Colon Colony';
+  colonyItem.innerHTML = window.COLON_ICON + ' The Colon Colony';
   colonyItem.onclick = () => {
     if (window.innerWidth <= 768 && typeof closeSidebar === 'function') closeSidebar();
     showColonyView();
@@ -2454,7 +2454,7 @@ function showColonyView() {
   hideAllViews();
   currentView = 'colony';
   updateActiveNav('colony');
-  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">🧫 The Colon Colony</span>';
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">' + window.COLON_ICON + ' The Colon Colony</span>';
   document.getElementById('page-meta-top').innerHTML = '';
   const el = document.getElementById('colony-view');
   el.style.display = 'block';
@@ -3302,6 +3302,42 @@ function scrollToAnchor(id) {
   ca.scrollTo({ top, behavior: 'smooth' });
 }
 
+// Colon Colony icon (Nick 2026-11-18): small colon drawing instead of the 🧫 petri dish. Also used by social-layer.js.
+window.COLON_ICON = '<svg class="colon-ico" viewBox="0 0 24 24" width="1.25em" height="1.25em" fill="none" stroke="#cf6f69" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="vertical-align:-0.25em;margin-right:0.1em"><path d="M7.5 20.5C5.5 20.5 4.5 19.3 4.5 17.5V8.5C4.5 6 6 4.5 8.5 4.5H15.5C18 4.5 19.5 6 19.5 8.5V15.5C19.5 17.5 18.5 18.2 16.8 18.4 15 18.6 13.5 18.8 13.5 21"/><path d="M4.5 10.5H6.3M4.5 15H6.3M10 4.5V6.3M14 4.5V6.3M19.5 10.5H17.7M19.5 14.5H17.7" stroke-width="1.6"/><path d="M7.5 20.5C8.6 20.5 9 21.2 9 22"/></svg>';
+
+// Redraw flowchart edges as right-angle elbows (vertical/horizontal runs only) through Mermaid's own
+// routing points, so lines never run diagonally (Nick 2026-11-18). LR/RL charts swap the axes.
+function orthogonalizeEdges(root, src) {
+  const horiz = /^\s*(?:flowchart|graph)\s+(LR|RL)\b/m.test(src);
+  const box = id => {
+    const n = root.querySelector('g.node[data-id="' + CSS.escape(id) + '"]');
+    const m = n && /translate\(\s*([-\d.]+)[ ,]+([-\d.]+)/.exec(n.getAttribute('transform') || '');
+    if (!m) return null;
+    const b = n.getBBox(), tx = +m[1], ty = +m[2];
+    return { cx: tx + b.x + b.width / 2, cy: ty + b.y + b.height / 2, x0: tx + b.x, x1: tx + b.x + b.width, y0: ty + b.y, y1: ty + b.y + b.height };
+  };
+  root.querySelectorAll('path.flowchart-link').forEach(p => {
+    const pts = [...(p.getAttribute('d') || '').matchAll(/(-?[\d.]+)[ ,](-?[\d.]+)/g)].map(m => ({ x: +m[1], y: +m[2] }));
+    if (pts.length < 2) return;
+    const cls = [...p.classList], s = box((cls.find(c => c.startsWith('LS-')) || '').slice(3)), t = box((cls.find(c => c.startsWith('LE-')) || '').slice(3));
+    const a = pts[0], z = pts[pts.length - 1];
+    // Leave the source from its centre line and enter the target on its centre line.
+    if (s) { if (horiz) { a.y = s.cy; a.x = z.x >= s.cx ? Math.max(a.x, s.x1) : Math.min(a.x, s.x0); } else { a.x = s.cx; a.y = z.y >= s.cy ? Math.max(a.y, s.y1) : Math.min(a.y, s.y0); } }
+    if (t) { if (horiz) { z.y = t.cy; z.x = a.x <= t.cx ? Math.min(z.x, t.x0) : Math.max(z.x, t.x1); } else { z.x = t.cx; z.y = a.y <= t.cy ? Math.min(z.y, t.y0) : Math.max(z.y, t.y1); } }
+    let d = 'M' + a.x + ',' + a.y;
+    for (let i = 1; i < pts.length; i++) {
+      const u = pts[i - 1], v = pts[i];
+      if (horiz ? Math.abs(u.y - v.y) > 1 : Math.abs(u.x - v.x) > 1) {
+        const last = i === pts.length - 1 && i > 1, dir = v.x > u.x ? 1 : -1, dy = v.y > u.y ? 1 : -1;
+        if (horiz) { const mx = last ? v.x - dir * 14 : (u.x + v.x) / 2; d += 'L' + mx + ',' + u.y + 'L' + mx + ',' + v.y; }
+        else { const my = last ? v.y - dy * 14 : (u.y + v.y) / 2; d += 'L' + u.x + ',' + my + 'L' + v.x + ',' + my; }
+      }
+      d += 'L' + v.x + ',' + v.y;
+    }
+    p.setAttribute('d', d);
+  });
+}
+
 // Render any unprocessed ```mermaid blocks. Polls until the mermaid library loads,
 // initialises it once, then runs it on demand after each markdown injection.
 function initMermaid() {
@@ -3324,7 +3360,7 @@ function initMermaid() {
   if (!window._mmInit) {
     try {
       const dark = document.documentElement.getAttribute('data-theme') === 'dark';
-      // Nick 2026-11-10: role colours (ROLE_DEFS below), straight lines, larger text, green chart bars.
+      // Nick 2026-11-10: role colours (ROLE_DEFS below), straight lines (right-angle elbows since 11-18, see orthogonalizeEdges), larger text, green chart bars.
       window.mermaid.initialize({
         startOnLoad: false,
         theme: dark ? 'dark' : 'base',
@@ -3367,13 +3403,15 @@ function initMermaid() {
     for (const el of els) {
       const id = 'mmd' + (window._mmSeq = (window._mmSeq || 0) + 1);
       try {
-        const { svg, bindFunctions } = await window.mermaid.render(id, el.textContent, el); // measure inside el so .md-body .mermaid CSS applies
+        const src = el.textContent;
+        const { svg, bindFunctions } = await window.mermaid.render(id, src, el); // measure inside el so .md-body .mermaid CSS applies
         el.innerHTML = svg;
         // Pill nodes (["…"]) are rects with rx = height/2, so a multi-line pill clips its first and last
         // lines at the curved ends (Nick, 2026-11-12). Tall pills → rounded rectangle; one-line pills keep the pill.
         el.querySelectorAll('g.node rect').forEach(r => {
           if (+r.getAttribute('height') > 48 && +r.getAttribute('rx') > 14) { r.setAttribute('rx', 14); r.setAttribute('ry', 14); }
         });
+        if (/^\s*(flowchart|graph)\b/m.test(src)) orthogonalizeEdges(el, src);
         if (bindFunctions) bindFunctions(el);
       } catch (e) {
         console.warn('mermaid', e);

@@ -758,7 +758,7 @@
     { id: "bookmarks", label: "Bookmarks" },
     { id: "reviewed",  label: "Reviewed pages" },
     { id: "friends",   label: "Friends" },
-    { id: "colony",    label: "🧫 The Colon Colony" }, // Phase 2 hub
+    { id: "colony",    label: (window.COLON_ICON || "") + " The Colon Colony" }, // Phase 2 hub
     { id: "privacy",   label: "Privacy" },
     { id: "account",   label: "Account & data" }, // Step 11: export + delete
   ];

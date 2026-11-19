@@ -146,7 +146,7 @@ Create a free account (**Sign in**, top-right) to add a personal study layer on 
 - **Privacy** — everything is private by default except to accepted friends, and each note is only shared if you tick *"Visible to friends"* on it. The **Privacy** menu controls profile/activity visibility and whether you appear in user search.
 - **Your data is yours** — **Account & data** in the menu exports everything you've created as JSON, or deletes your account and all of its data permanently.
 
-## 🧫 The Colon Colony
+## The Colon Colony
 
 The wiki's community hub — find it in the sidebar just above Feedback, or under the account menu. Three tabs:
 

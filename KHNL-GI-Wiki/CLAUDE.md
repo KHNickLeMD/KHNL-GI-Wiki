@@ -250,7 +250,7 @@ Published via `#KHNL GI Wiki/index.html` (built-in Markdown engine, not Obsidian
 #### Mermaid diagrams
 - Line breaks in node labels: `<br/>`. **Never `\n`** — site and GitHub render it literally.
 - Double-quote labels containing spaces, `<`, `>`, `±`, `/`, parentheses.
-- **Flowchart style (Nick, 2026-11-10).** Site draws straight lines and injects the role colours — tag nodes with `class` lines only, **never write `classDef`**, never add a colour legend (key lives in README → How to Use):
+- **Flowchart style (Nick, 2026-11-10).** Site draws right-angle elbow lines (vertical/horizontal only, never diagonal; 11-18) — don't set `curve`, `linkStyle` or `%%{init}%%` — and injects the role colours — tag nodes with `class` lines only, **never write `classDef`**, never add a colour legend (key lives in README → How to Use):
   - `start` dark-green pill `A(["…"])` = entry point · `test` blue box `B["…"]` = test/decision · `act` rounded `(["…"])` bold green = action · `stop` rounded tan = end point / consider other causes.
   - **Results and conditions go on the arrows** (`B -- "MSI high" --> L`), not in their own boxes.
   - **≤ ~12 boxes.** Bigger → split only at a seam the source has (separate entry point, a second decision); no clean seam → keep it whole.
