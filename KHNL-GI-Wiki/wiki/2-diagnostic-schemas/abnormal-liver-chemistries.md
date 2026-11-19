@@ -36,6 +36,8 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aga-aasl
 
 **Liver chemistries** (also: liver tests; NOT "liver function tests") are indirect serum markers of hepatobiliary injury. They are not true measures of liver function.
 
+- Liver transplant recipients need a graft-specific workup: [[abnormal-liver-tests-after-liver-transplant]].
+
 | Marker | What it measures | True liver function marker? |
 |--------|----------------|-----------------------------|
 | Alanine aminotransferase (ALT) | Hepatocellular injury (liver-specific) | No |

@@ -39,7 +39,7 @@ Rejection of a [[liver-transplantation|liver allograft]] mediated by **donor-spe
 ### Severity Assessment
 
 - **Acute AMR** — graded clinically by depth of unexplained graft dysfunction, thrombocytopenia and hypocomplementemia; AASLD/AST 2025 gives no numeric severity scale.
-- **Chronic AMR** — occurs in **<10%** of liver transplant recipients; most episodes are **mixed chronic AMR + T-cell–mediated rejection (TCMR)**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
+- **Chronic AMR** — occurs in **<10%** of liver transplant recipients; most episodes are **mixed chronic AMR + [[t-cell-mediated-rejection-liver-transplant|T-cell–mediated rejection (TCMR)]]**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
 - **Chronic AMR score** — histologic findings + presence of DSA + exclusion of other etiologies that cause a similar injury pattern; associated with graft loss, **area under the curve (AUC) 0.70–0.81**. AASLD/AST 2025 does not publish the score's point values or a cut-off, so it cannot be calculated from the guideline.
 - **DSA titre — what counts as "elevated":** preformed DSA of potential clinical significance was **tentatively defined as mean fluorescence intensity (MFI) ≥5,000** at the 2015 Banff Conference on Allograft Pathology. No agreed-upon MFI cut-off correlates with chronic AMR, though most studies show correlation at **MFI >5,000**.
 
@@ -61,7 +61,7 @@ Signature features ([[aasld-ast-2025-liver-transplant-graft-complications]], Tab
 
 ## Differential Diagnosis
 
-*Workup: see [[abnormal-liver-chemistries]] — post-transplant AMR presents as otherwise unexplained graft dysfunction.*
+*Workup: see [[abnormal-liver-tests-after-liver-transplant]] — post-transplant AMR presents as otherwise unexplained graft dysfunction.*
 
 - **TCMR**, early and late — the main alternative; late TCMR shows fewer blastic lymphocytes, more interface/perivenular necroinflammation, less venous endotheliitis.
 - **Plasma cell-rich rejection (PCR)** — >30% plasma cells in portal/perivenular infiltrates, prevalent central perivenulitis, higher incidence of portal microvascular C4d deposition. Whether PCR is a presentation of AMR or a separate entity is unresolved.
@@ -134,7 +134,7 @@ flowchart TD
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[tacrolimus]], [[operational-tolerance]], [[liver-biopsy]], [[abnormal-liver-chemistries]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[tacrolimus]], [[operational-tolerance]], [[liver-biopsy]], [[t-cell-mediated-rejection-liver-transplant]], [[abnormal-liver-tests-after-liver-transplant]], [[abnormal-liver-chemistries]]
 
 ---
 

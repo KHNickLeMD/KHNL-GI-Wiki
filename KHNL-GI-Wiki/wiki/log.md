@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-18] update | T-cell–mediated rejection page + post-transplant abnormal liver tests schema (Nick's request)
+
+**Why there was no TCMR page (troubleshooting):**
+- The 2026-05-25 four-guideline parallel ingest of `[[aasld-ast-2025-liver-transplant-graft-complications]]` gave antibody-mediated rejection its own page and folded T-cell–mediated rejection (TCMR), plasma cell-rich rejection and chronic ductopenic rejection into a table on `[[liver-transplantation]]`. Page creation followed which entity had a self-contained block in the source, not how common or important it is.
+- Nothing afterwards could catch it. TCMR was never written as a `[[link]]`, so no broken link or stub existed; it was never added to the *Coverage Gaps* queue; the missing-entity check only fires on entities with no coverage at all, and TCMR had a section.
+- `[[liver-transplantation]]` is the longest page over the *Short pages* ceiling (4,472 words before this pass) and the slim step and stalest-page review had not reached it (ingest backlog mode pauses both).
+- Proposed rule for Nick (not added to `CLAUDE.md`): when a source describes a set of parallel entities and one gets its own page, the others get a page or a *Coverage Gaps* row in the same pass.
+
+**Pages created (written from the raw PDFs, both sources):**
+- `1-disease-scripts/hepatology-diseases/t-cell-mediated-rejection-liver-transplant.md` — acute and late TCMR and chronic ductopenic rejection: Banff table, rejection activity index grades, risk factors, the two ladders redrawn from AASLD/AST 2025 Figure 3 panels A and C, Recs 37–39 and 41–46.
+- `2-diagnostic-schemas/abnormal-liver-tests-after-liver-transplant.md` — AASLD 2012 Table 3 cause table, clues by cause, stepwise workup, key tests, red flags. Routed as a diagnostic schema (a syndrome, not a concept).
+
+**Pages updated:**
+- `[[liver-transplantation]]` — TCMR and ductopenic rows of the Graft Rejection table, the rejection-patterns bullet and the biomarker bullet moved to the TCMR page; graft-dysfunction workup and the differential moved to the new schema; links left in their place. 4,472 → 4,299 words.
+- **Removed from `[[liver-transplantation]]` as not found in the AASLD 2012 or AASLD/AST 2025 PDFs:** liver tests "every 3–6 months" (2012 Rec 1 says individualized); the five-step abnormal-liver-test sequence (drug troughs → medication review → Doppler → serology for HBV, HCV, EBV, CMV → biopsy); the early (<3 months) / late (>1 year) cause table; ">50% of portal tracts = vanishing bile duct syndrome" (2012 uses the term for ductopenic rejection as a whole).
+- Links added: `[[antibody-mediated-rejection-liver-transplant]]` (workup pointer now the transplant schema), `[[abnormal-liver-chemistries]]`, `[[operational-tolerance]]`, `[[calcineurin-inhibitors]]`, `[[tacrolimus]]`.
+- `index.md` — two rows; *Coverage Gaps* — two sibling entities queued (plasma cell-rich rejection, hepatic artery thrombosis and other vascular complications after transplant).
+
+**Checks:** `fidelity-check.py` on both new pages — ABSENT 0, OTHER 0, NOMATCH 0, FAR 0; sign lines read off rendered pages 21, 23 and 26. Independent verification: see the last bullet of this entry.
+
+**Open:**
+- Lectures on file and not ingested (gated, need Nick's go-ahead by name): `Liver_Transplant_Rejection_Lecture.md`, `Transaminitis_Post_Liver_Transplant.md`. The chalk talk contains patient details that must be stripped.
+- Cards: none written (server not reachable from the laptop). Card pass: new card files for the two pages once `verified:`; `liver-transplantation` notes on TCMR treatment, ductopenic rejection and the removed workup sequence need re-homing or retiring.
+- `[[aasld-ast-2025-liver-transplant-graft-complications]]`, `[[aasld-2012-liver-transplant-long-term]]` and `[[liver-transplantation]]` still have no `verified:`.
+
+---
+
 ## [2026-11-18] update | New section: Diagnostic Tests (`8-diagnostic-tests/`)
 
 **Why:** Nick asked for a Diagnostic Tests section — `7-concepts/` held many pages that are each one specific test. Rule he set: a test or procedure page names **one specific** test/procedure; a broad topic spanning several stays (or becomes) a concept.

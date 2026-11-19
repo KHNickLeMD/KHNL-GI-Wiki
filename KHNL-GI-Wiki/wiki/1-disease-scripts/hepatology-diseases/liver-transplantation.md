@@ -98,37 +98,26 @@ Definition, grading, futility and the ACLF candidacy factors: [[acute-on-chronic
 
 ### Establishing the Diagnosis — Graft Dysfunction
 
-**Stable recipient:** aspartate and alanine aminotransferase (AST/ALT), alkaline phosphatase, gamma-glutamyltransferase, bilirubin, creatinine, complete blood count, metabolic panel every **3–6 months**; immunosuppression (IS) troughs with every dose change and periodically (targets: [[tacrolimus]], [[calcineurin-inhibitors]]).
-
-**Abnormal liver tests — sequence:**
-
-1. Drug trough levels
-2. Medication review — hepatotoxins; CYP3A4 interactions with calcineurin inhibitors (CNIs)
-3. Doppler US → [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]] if biliary suspected
-4. Serology: hepatitis B virus (HBV), HCV, EBV, CMV
-5. [[liver-biopsy|Liver biopsy]] if still unexplained
+- **Monitoring:** liver tests are monitored routinely; the frequency is individualized by the transplant center according to the time from LT, the complications from LT, the stability of serial results, and the underlying cause (Rec 1, grade 1, level A; [[aasld-2012-liver-transplant-long-term]]). Immunosuppression (IS) trough targets: [[tacrolimus]], [[calcineurin-inhibitors]].
+- **Abnormal liver tests:** causes, clues, and the stepwise workup (repeat in 1 to 2 weeks → history, laboratory tests, Doppler ultrasound → imaging by pattern → biopsy) are on [[abnormal-liver-tests-after-liver-transplant]].
 
 ### Severity Assessment
 
 - **Allograft dysfunction:** pattern (hepatocellular vs cholestatic), histology (Banff rejection grade, fibrosis stage), synthetic function (international normalized ratio [INR], albumin, bilirubin).
-- **Early allograft dysfunction (EAD)** predicts graft/patient survival and re-transplant. Olthoff: peak AST/ALT **>2000 U/L** in first 7 days, or bilirubin **≥10 mg/dL** or INR **≥1.6** on postoperative day (POD) 7. Preferred: **L-GrAFT** (POD 7 or 10 bilirubin, INR, platelets) or **Early Allograft Failure Simplified Estimation** (MELD, transfusion, early vessel thrombosis, center volume) — better predict 3-month graft failure.
-- **Rejection patterns:** T-cell–mediated rejection (TCMR) in 10–30%, usually first 3 months — late TCMR (>6 months) carries lower graft survival and ductopenic risk; plasma cell–rich rejection in 3–5% of non-AIH recipients (AIH-like histology, lymphocytic cholangitis, IgG4-positive plasma cells); [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]] = C4d + donor-specific antibodies + histology + graft dysfunction; chronic ductopenic rejection = interlobular bile duct loss, **>50% of portal tracts = vanishing bile duct syndrome** (may need re-transplant).
+- **Early allograft dysfunction (EAD)** predicts graft/patient survival and re-transplant. Olthoff: peak aspartate/alanine aminotransferase (AST/ALT) **>2000 U/L** in first 7 days, or bilirubin **≥10 mg/dL** or INR **≥1.6** on postoperative day (POD) 7. Preferred: **L-GrAFT** (POD 7 or 10 bilirubin, INR, platelets) or **Early Allograft Failure Simplified Estimation** (MELD, transfusion, early vessel thrombosis, center volume) — better predict 3-month graft failure.
+- **Rejection:** graded on biopsy — [[t-cell-mediated-rejection-liver-transplant|T-cell–mediated rejection (TCMR)]] and chronic ductopenic rejection, [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]], and plasma cell–rich rejection ([[#Graft Rejection]]).
 
 ## Differential Diagnosis
 
-*Workup: see [[abnormal-liver-chemistries]].*
+*Workup: see [[abnormal-liver-tests-after-liver-transplant]].*
 
-| Timing | Causes of abnormal liver tests |
-|---|---|
-| Early (<3 months) | Primary non-function, hepatic artery thrombosis, acute cellular rejection, bile leak, drug toxicity, ischemia-reperfusion injury |
-| Late (>1 year) | Recurrent disease (HCV, HBV, MASLD, [[primary-biliary-cholangitis\|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], AIH), late acute or chronic rejection, [[biliary-stricture\|biliary stricture]] (anastomotic or non-anastomotic), plasma cell–rich rejection hepatitis (formerly "de novo AIH"), chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
-
-- CNI toxicity is mainly renal, rarely hepatocellular.
+- Abnormal liver tests after LT: allograft parenchymal damage (rejection, recurrent disease, drug toxicity, de novo infection), biliary damage, vascular disease, and nonhepatic causes — full table on [[abnormal-liver-tests-after-liver-transplant#Differential Diagnosis]].
+- Calcineurin inhibitor (CNI) toxicity is mainly renal, rarely hepatocellular.
 
 ## Diagnostics
 
 - **Doppler US** — first screen for vascular patency and biliary dilation with any unexplained liver test rise; most centers obtain ≥1 in the first 5 days. CT or magnetic resonance angiography if inconclusive.
-- **MRCP** — first-line for strictures.
+- **[[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]]** — first-line for strictures.
 - **Liver biopsy** — when noninvasive workup is unrevealing, and before IS minimization; **no protocol biopsies** in stable adults. Banff Rejection Activity Index (RAI) = portal inflammation + bile duct damage + venous endotheliitis; the guideline does not give component scoring — read the RAI off the pathology report.
 - **[[liver-stiffness-measurement|Transient elastography]]** — not for routine graft monitoring (weak).
 - **Other:** HCV RNA if ALT rises; yearly thyroid function on sirolimus/everolimus. HCC recurrence protocol: [[hepatocellular-carcinoma]]; de novo HCC in a re-cirrhotic graft → imaging every 6–12 months.
@@ -157,7 +146,7 @@ Stent choice, dwell times, MRCP accuracy, and periprocedural antibiotics: [[bili
   - **FCSEMS 10 mm** (8 mm if the anatomy demands), left **6 months**; **MPSs** = maximum number that fit, exchanged every **3–4 months for 12 months**.
   - **Sequential stent addition** is a valid MPS variant — add plastic stents at each ERCP without removing the previous ones: equal resolution, recurrence and adverse events (no excess cholangitis) with shorter procedure and fluoroscopy time and lower cost. Useful where intraductal or antimigration FCSEMSs are unavailable.
   - Resolution and adverse events are equal, with fewer ERCPs and lower cost for FCSEMS — but at 5 years **recurrence is 36% after a transpapillary FCSEMS vs 7% with MPSs** (3–6% beyond 5 years with MPSs); an intraductal antimigration FCSEMS narrows the gap (33.3% vs 28.6%). ⚠ [[asge-2023-post-transplant-biliary-strictures|ASGE 2023]] prefers a covered metal stent over MPSs here and removes it at a fixed 3–6 months; ESGE 2026 is newer, leaves both open, and surfaces the 5-year trade-off.
-- **Non-anastomotic / ischemic cholangiopathy** (DCD, prolonged cold or warm ischemia, hepatic artery insufficiency/thrombosis, ABO incompatibility, PSC as the transplant indication, Roux-en-Y reconstruction, long operative time): **temporary MPSs together with balloon dilation if needed** ([[esge-2026-biliary-strictures]], conditional, very low quality of evidence) — selectively cannulate the intrahepatic radicles, dilate (commonly to **4–6 mm**), then place MPSs to drain the intrahepatic ducts completely and cut cholangitis risk; exchange every 3–4 months over 1 year, or continue until resolution with no fixed timeframe → PTBD → re-transplant if irreversible or progressive. Treat it as a **bridge to re-transplantation** when the stricture does not respond. Resolution 41–60% short-term, falling to **21% at 1–8 years**; cholangitis during the stent program in up to **74%**.
+- **Non-anastomotic / ischemic cholangiopathy** (DCD, prolonged cold or warm ischemia, hepatic artery insufficiency/thrombosis, ABO incompatibility, primary sclerosing cholangitis (PSC) as the transplant indication, Roux-en-Y reconstruction, long operative time): **temporary MPSs together with balloon dilation if needed** ([[esge-2026-biliary-strictures]], conditional, very low quality of evidence) — selectively cannulate the intrahepatic radicles, dilate (commonly to **4–6 mm**), then place MPSs to drain the intrahepatic ducts completely and cut cholangitis risk; exchange every 3–4 months over 1 year, or continue until resolution with no fixed timeframe → PTBD → re-transplant if irreversible or progressive. Treat it as a **bridge to re-transplantation** when the stricture does not respond. Resolution 41–60% short-term, falling to **21% at 1–8 years**; cholangitis during the stent program in up to **74%**.
 
 | Cholangiographic pattern | Expectation |
 |---|---|
@@ -188,25 +177,22 @@ Doses, troughs, adverse effects, and interactions: [[tacrolimus]], [[calcineurin
 
 | Rejection | Treatment |
 |---|---|
-| Mild TCMR (Banff RAI <4) | Augment IS; cyclosporine → tacrolimus |
-| Moderate/severe TCMR | Methylprednisolone **500–1000 mg IV daily × 1–3 days** + augment IS (cyclosporine → tacrolimus; add antimetabolite or mTOR inhibitor); anti-infective prophylaxis during the pulse; 60–90% respond. Prednisone taper from 40–80 mg/day in 10–20 mg steps (center-variable) |
-| Refractory TCMR | Second steroid course or lymphocyte-depleting therapy; repeat biopsy for suboptimal response |
+| TCMR — mild, moderate/severe, refractory | Ladder by Banff RAI on [[t-cell-mediated-rejection-liver-transplant#Acute and Late TCMR]] |
 | Plasma cell–rich rejection hepatitis | Predniso(lo)ne **at the doses used for non-transplant AIH** (strong; [[easl-2025-autoimmune-hepatitis]]) + augment IS; add antimetabolite (may be azathioprine) and/or maintenance prednisone **5–10 mg/day** |
 | AMR | Acute and chronic ladders on [[antibody-mediated-rejection-liver-transplant]] |
-| Ductopenic rejection | Augment IS **before duct loss exceeds 50% of portal tracts** — beyond that it is vanishing bile duct syndrome and far less reversible |
+| Chronic ductopenic rejection | Ladder on [[t-cell-mediated-rejection-liver-transplant#Chronic Ductopenic Rejection]] |
 
 **Plasma cell–rich rejection hepatitis** (formerly "de novo AIH") — consider it in any recipient transplanted for a **non-AIH** indication who develops late graft dysfunction with AIH-like histology, with or without immunoglobulin G (IgG) elevation and/or autoantibodies ([[easl-2025-autoimmune-hepatitis]], strong). Usually **>6 months after LT**; 5–10% of children and 1–2% of adults transplanted for other causes — [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025]] reports 3–5% of non-AIH recipients. Risk factors: female graft, older donors, donor/recipient glutathione-S-transferase T1 mismatch.
 
 - **Banff histological criteria — at least one of:**
   - Portal and/or perivenular **plasma cell-rich (>30%) infiltrates** with interface hepatitis and/or perivenular necroinflammatory activity involving the **majority of portal tracts and/or terminal hepatic veins**
   - **Lymphocytic cholangitis**
-- Peripheral blood biomarkers alone must **not** diagnose or exclude TCMR — biopsy. CD4 intracellular ATP assays may gauge immune status and infection risk (weak).
 
 ### Recurrent Disease
 
-- **HBV and hepatitis D:** indefinite nucleos(t)ide analogue in every HBV recipient from before LT, risk-stratified hepatitis B immune globulin (HBIG), and the anti-HBc-positive-graft rule → [[chronic-hepatitis-b]] (2025 recommendations supersede the 2012 fixed HBIG protocol).
+- **Hepatitis B virus (HBV) and hepatitis D:** indefinite nucleos(t)ide analogue in every HBV recipient from before LT, risk-stratified hepatitis B immune globulin (HBIG), and the anti-HBc-positive-graft rule → [[chronic-hepatitis-b]] (2025 recommendations supersede the 2012 fixed HBIG protocol).
 - **[[hepatitis-c|HCV]]:** treat recurrence with direct-acting antivirals — regimens on [[hepatitis-c#Posttransplant HCV]]; the 2012 interferon recommendations are obsolete.
-- **PBC:** [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] **10–15 mg/kg/day** for histologically proven recurrence; the 2012 guideline advised against prophylactic UDCA, while newer post-LT data favor continuing it — recurrence rates and that evidence: [[primary-biliary-cholangitis]]. Monitor alkaline phosphatase, antimitochondrial antibody, thyroid function, bone density.
+- **Primary biliary cholangitis (PBC):** [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] **10–15 mg/kg/day** for histologically proven recurrence; the 2012 guideline advised against prophylactic UDCA, while newer post-LT data favor continuing it — recurrence rates and that evidence: [[primary-biliary-cholangitis]]. Monitor alkaline phosphatase, antimitochondrial antibody, thyroid function, bone density.
 - **PSC:** diagnose recurrence from non-anastomotic strictures on cholangiography + biopsy after excluding ischemic/anastomotic causes; UDCA not recommended; dominant stricture → dilation ± stent. Rates, risk factors, re-transplant: [[primary-sclerosing-cholangitis]].
 - **AIH:** recurrence **17–42% overall — 20% at 5 years, 31% at 10 years**; risk factors are **age at LT ≤42 years, mycophenolate use in the first year after LT, donor/recipient mismatch, cytomegalovirus status mismatch, and high pre-LT IgG** ([[easl-2025-autoimmune-hepatitis]]). Diagnosis rests mainly on **histology** — post-LT serology is unreliable. **Prevention:** low-dose predniso(lo)ne plus a calcineurin inhibitor (mainly tacrolimus) can be used as maintenance IS (weak). **Treatment:** predniso(lo)ne at the **same doses as non-transplant AIH** (strong), plus adjustment of baseline IS, which may include adding [[thiopurines|azathioprine]] ([[easl-2025-autoimmune-hepatitis]]). Regimens: [[autoimmune-hepatitis]].
 - **ALD:** abstinence, validated relapse screening, addiction treatment, smoking cessation — plan on [[alcohol-associated-liver-disease]].
@@ -319,7 +305,7 @@ Highest stage 4–5 CKD risk of any solid-organ group; early [[aki-in-cirrhosis|
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[eus-guided-biliary-drainage]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer-screening]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[ursodeoxycholic-acid]], [[thiopurines]]
+[[abnormal-liver-tests-after-liver-transplant]], [[t-cell-mediated-rejection-liver-transplant]], [[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[eus-guided-biliary-drainage]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer-screening]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[ursodeoxycholic-acid]], [[thiopurines]]
 
 ---
 

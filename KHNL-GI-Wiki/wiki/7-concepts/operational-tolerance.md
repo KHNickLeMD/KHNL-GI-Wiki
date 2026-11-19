@@ -41,7 +41,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 | Early withdrawal, within **1–2 years** post-LT | possible in only a very small group | LT recipients |
 
 - **No specific, reliable biomarker identifies the ideal candidate.** Clinical, molecular, cellular and histological markers from peripheral blood and the allograft have been described, but most are **not prospectively validated**.
-- Severity of clinically silent allograft damage correlates **positively** with T-cell–mediated rejection (TCMR)-related transcripts, class II donor-specific antibodies (DSA), alanine aminotransferase (ALT), aspartate aminotransferase (AST) and [[liver-stiffness-measurement|liver stiffness measurement]], and **negatively** with serum creatinine and [[tacrolimus]] trough levels — suggesting ALT, class II DSA and liver stiffness may be tools to identify possible candidates.
+- Severity of clinically silent allograft damage correlates **positively** with [[t-cell-mediated-rejection-liver-transplant|T-cell–mediated rejection (TCMR)]]-related transcripts, class II donor-specific antibodies (DSA), alanine aminotransferase (ALT), aspartate aminotransferase (AST) and [[liver-stiffness-measurement|liver stiffness measurement]], and **negatively** with serum creatinine and [[tacrolimus]] trough levels — suggesting ALT, class II DSA and liver stiffness may be tools to identify possible candidates.
 - **Evidence caveat:** long-term safety studies of withdrawal regimens are inconclusive and mostly lack histology; most trials excluded viral hepatitis and autoimmune liver disease, and were performed in **pediatric** rather than adult populations.
 
 ## Candidate Selection

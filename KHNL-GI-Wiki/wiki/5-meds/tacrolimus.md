@@ -69,7 +69,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 
 ## Switching To or Off Tacrolimus
 
-- **Rejection:** cyclosporine → TAC for mild and for moderate/severe TCMR, and for chronic ductopenic rejection when there are no contraindications (2025 Recs 37, 38, 44).
+- **Rejection:** cyclosporine → TAC for mild and for moderate/severe [[t-cell-mediated-rejection-liver-transplant|TCMR]], and for chronic ductopenic rejection when there are no contraindications (2025 Recs 37, 38, 44).
 - **Recurrent [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]]:** substituting cyclosporine-based IS for TAC-based IS to lower recurrence risk is **not recommended** — higher risk of graft rejection (2025 Rec 69, Strong, Level 3).
 - **Poor glycemic control:** consideration can be given to converting TAC → cyclosporine (2012 Rec 34, grade 2, level B), alongside stopping steroids. The full switch-direction table for metabolic comorbidities is on [[liver-transplantation#Cardiometabolic Management]].
 - **Chronic kidney disease (CKD):** reduction or withdrawal of CNI-based IS is the appropriate response (2012 Rec 29, grade 1, level A). Renal function is more likely to be preserved if withdrawal is instituted while **GFR is 40–50 mL/min/1.73 m²**. Minimization ladder: [[calcineurin-inhibitors]].

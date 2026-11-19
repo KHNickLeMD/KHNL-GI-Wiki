@@ -41,7 +41,7 @@ Calcineurin inhibitors (CNIs) — [[tacrolimus]] (TAC) and cyclosporine (CSA) �
 ### Tacrolimus (FK506)
 
 - Once-daily extended-release should be used **similarly to** twice-daily immediate-release — equally effective for preventing rejection and maintaining allograft survival ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 31, Strong, Level 3).
-- Rejection switches *toward* TAC: cyclosporine recipients are changed to TAC for T-cell–mediated rejection and for chronic ductopenic rejection (2025 Recs 37, 38, 44).
+- Rejection switches *toward* TAC: cyclosporine recipients are changed to TAC for [[t-cell-mediated-rejection-liver-transplant|T-cell–mediated rejection]] and for chronic ductopenic rejection (2025 Recs 37, 38, 44).
 - **Dosing and trough targets by time after LT live on [[tacrolimus]]** — see that page rather than duplicating them here.
 
 ### Cyclosporine (CSA)
