@@ -59,6 +59,7 @@ You are the LLM Wiki agent for a **GI-focused medical encyclopedia**. This is yo
 - Two ingested sources disagree → the **higher-priority source's claim wins the page**. **Always still surface the contradiction**: source page `## Contradictions / Open Questions`, inline where clinically relevant, and lint report/log.
 - **Tiers (top trumps lower):** 1. **Guidelines** (society guidelines, CPUs, consensus statements — ACG, AGA, AASLD, ASGE, NCCN, SAGES, multi-society) › 2. **RCTs** and other primary research › 3. **Lectures / chalk talks**.
 - **Within a tier, newer wins by *publication date*** (year in the citation) — never upload or ingest date (a 2018 guideline uploaded later does not override a 2025 one).
+- **US guidelines beat non-US (Nick, 2026-11-19)** — ACG/AGA/ASGE/AASLD/multi-society US › ESGE/EASL/ECCO/BSG/other non-US, whatever the date. Non-US guidelines are used **only to fill a gap no US guideline covers**; they never set or restate a recommendation a US guideline already makes (too many cause conflicts).
 - Lower-priority/older sources still **add** net-new, non-conflicting info (fill gaps, corroborate); they never **overwrite** a higher-priority or newer claim.
 
 ### Ingestion order & lecture gating (required)
@@ -432,7 +433,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
   - **RCTs:** named in the guideline text as the basis of a recommendation **and** multicentre or phase 3 (WATERFALL yes; a 60-patient single-centre trial no).
   - **Score/classification papers:** GI scores only — no primary literature for non-GI scores (CHA₂DS₂-VASc, APACHE, SOFA, ECOG, RECIST, Banff). Only when a guideline uses the score for a GI decision **and** neither guideline nor wiki already prints what you act on (Rome V prints IBS-SSS bands → no Francis 1997; TG18 grades unprinted → Kiriyama 2018 yes). Not pediatric-only (SCOPE), not superseded or unused in US practice (Mayo PBC, ABIC, GAHS).
   - **Non-GI societies (IDSA, NCCN, ACC/AHA…):** only when a GI decision depends on it (IDSA candidiasis doses yes; AHA heart-failure staging no).
-  - **US first;** EASL / ESGE / ECCO / BSG only when no US guideline covers the topic. **>10 years old** only if nothing newer exists.
+  - **US only, unless a gap:** EASL / ESGE / ECCO / BSG / other non-US only when no US guideline covers the topic (Nick 11-19: extra international guidelines create conflicts) — never "for comparison". **>10 years old** only if nothing newer exists.
   - **Labels:** only for drugs GI prescribes, when no guideline gives the dose (entecavir / tenofovir renal dosing).
   - **Every row links the article** (`https://doi.org/…`, PubMed, society or DailyMed page) and is verified to exist first.
   - **Nick's own drops bypass all of this (Nick, 2026-10-18).** These rules govern only what Claude lists or downloads. A file Nick puts in `raw/` himself is ingested regardless — typically a new, important RCT no guideline cites yet. Never list, suggest-for-download, or fetch such RCTs: that is Nick's call alone.
@@ -595,7 +596,7 @@ Trigger: "lint the wiki", "health check". **Run at extra high effort — never l
 ## Medical Standards
 - Cite specific sources for all clinical claims: `[[source-slug]]`.
 - Flag low evidence quality (expert opinion, small case series).
-- Note where ACG, AGA, ECCO, BSG guidelines differ.
+- Note where US guidelines (ACG, AGA, ASGE, AASLD) differ. Don't add non-US guidelines just to compare (Source priority → US beats non-US).
 - **Conflicts follow Content Guide → *Source priority*** (Guidelines > RCTs > Lectures; within a tier newer publication date wins). Always surface the contradiction even though the higher-priority claim is what the page asserts.
 - **Never add patient-specific information** from chalk talks/lectures (Content Guide → *No patient-specific information*).
 - Dosing and monitoring only when sourced.
