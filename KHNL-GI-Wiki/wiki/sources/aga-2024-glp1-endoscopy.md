@@ -39,7 +39,7 @@ Evidence is limited: case reports and small studies show increased gastric resid
 - **Standard perioperative fast** (typically **8 h solids, 2 h liquids**) **AND no symptoms** (nausea, vomiting, dyspepsia, abdominal distention) → **proceed with upper and/or lower endoscopy**.
 - Symptoms suggesting retained gastric contents → **transabdominal gastric ultrasound** to assess the stomach *if* expertise/equipment available (evidence to support this in standard practice is lacking).
 - Symptomatic patient in whom delay is harmful → consider **rapid-sequence intubation** (often not feasible in ambulatory/office endoscopy settings).
-- When possible, a **clear/liquid diet the day before** sedated procedures is a more acceptable strategy than stopping the GLP-1 RA, and is consistent with holistic preprocedural management.
+- When possible, a **liquid diet the day before** sedated procedures "may be a more acceptable strategy" than stopping the GLP-1 RA, and is consistent with holistic preprocedural management.
 - Endorses multisociety guidance: patient safety is paramount; in the absence of actionable data, exercise best practices.
 
 **Physiology anchors:**

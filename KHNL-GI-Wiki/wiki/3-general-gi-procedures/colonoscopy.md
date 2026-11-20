@@ -4,7 +4,7 @@ category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, cecal-intubation, withdrawal-time, technique]
 created: 2026-05-07
 updated: 2026-11-14
-sources: [asge-acg-2024-colonoscopy-quality-indicators, uspstf-2021-crc-screening, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
+sources: [asge-acg-2024-colonoscopy-quality-indicators, asge-2025-glp1-sglt2-periendoscopic, uspstf-2021-crc-screening, aga-2021-colonoscopy-quality, acg-2021-crc-screening, usmstf-2020-followup-colonoscopy, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, asge-2023-ergonomics, aga-2021-gi-perforations-endoscopic-management, aga-2025-cade-colonoscopy, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 quality_reviewed: 2026-11-14
 ---
 
@@ -40,7 +40,7 @@ quality_reviewed: 2026-11-14
 ## Before the Procedure
 
 - **Sedation and fasting:** [[endoscopy-sedation]].
-- **[[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]]:** no routine hold; a clear/liquid diet the day before is preferred to stopping the drug ([[aga-2024-glp1-endoscopy]]) — detail on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]].
+- **[[glp-1-receptor-agonists|Glucagon-like peptide-1 receptor agonists (GLP-1 RAs)]]:** AGA 2024 advises no routine hold, and a liquid diet the day before "may be a more acceptable strategy" than stopping the drug ([[aga-2024-glp1-endoscopy]]); the newer [[asge-2025-glp1-sglt2-periendoscopic|ASGE 2025]] gives elective hold intervals — detail on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]].
 - **Antithrombotics:** [[anticoagulation-gi-bleeding]]. **Antibiotic prophylaxis:** [[antibiotic-prophylaxis-endoscopy]].
 
 ### Bowel Preparation
@@ -167,3 +167,4 @@ Current targets ([[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024]],
 11. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
 12. [[asge-acg-2024-colonoscopy-quality-indicators|ASGE/ACG 2024: Quality Indicators for Colonoscopy]]
 13. [[uspstf-2021-crc-screening|Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement (2021)]]
+14. [[asge-2025-glp1-sglt2-periendoscopic|ASGE Position Statement on Periendoscopic Management of Patients on GLP-1 Receptor Agonists and SGLT-2 Inhibitors (2025)]]

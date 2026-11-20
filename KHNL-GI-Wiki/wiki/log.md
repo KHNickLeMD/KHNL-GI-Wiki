@@ -26,6 +26,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — no touched topic page has `verified:`; source pages are never carded.
 - `ingest: partial` removed.
 
+**`[[multisociety-2024-glp1-perioperative]]` — new source (Kindel et al., multisociety GLP-1 RA perioperative guidance: AGA, ASMBS, SAGES, ISPCOP; ASA affirmed), fully ingested.** US, ~2,000 words, open access (CC BY-NC-ND 4.0). Printed citation Clin Gastroenterol Hepatol 2025;23:2083–2085, accepted Aug 2024 — slug keeps 2024; for *newer wins* it sits between AGA 2024 and ASGE 2025.
+- *Extract* (fresh agent, pp. 1–2 rendered): Recs 1, 1a–1c, 2, 2a–2c + the unlabelled closing statement, labels as printed, no evidence grading (the document calls itself guidance, not an evidence-based guideline); Rec 1a's five risk variables as a table; no flowchart (no source algorithm; statements overlap without a stated order).
+- *Gate:* 0 ABSENT/OTHER; 4 NOMATCH (summary/comparison sentences); the only sign ("at least 24 hours") is printed in words.
+- *Independent check* (fresh agent, 52 claims, plus AGA 2024 and ASGE 2025 raw files for the Contradictions): 4 minor findings, all confirmed and fixed — AGA 2024 does list dose and frequency to note; AGA's day-before liquid diet "may be a more acceptable strategy" (not "preferred", not "clear"); ASA 2023 (as quoted by AGA) says "consider holding"; ASGE Statement 9 "suggests" holding. `verified: 2026-11-20` set.
+- *Propagation* to [[endoscopy-sedation]] (home of periprocedural GLP-1 RA guidance): multisociety row in the society table (continue unless Rec 1a risk; five variables; hold duration unknown, ASA intervals; day-of symptom check for all; liquid diet ≥24 h when symptoms raise concern) and a day-of-procedure bullet (gastric ultrasound; rapid sequence induction vs cancellation; obesity-bias caution).
+- *Fix every copy:* the AGA "clear/liquid diet … preferred" overstatement corrected on [[endoscopy-sedation]], [[aga-2024-glp1-endoscopy]] (source page) and [[colonoscopy]]; ASA row on [[endoscopy-sedation]] → "consider holding". [[colonoscopy]] GLP-1 line also gained the ASGE 2025 elective-hold pointer (the sedation page's governing position), resolving an internal inconsistency the checker raised.
+- *Gate:* changed lines 0 ABSENT/OTHER (1 NOMATCH = condensed table row; pre-existing OTHER L106 untouched). *Independent check of changed lines* (fresh agent, 26 claims): **all supported**. No touched page carries `verified:` → no stamp.
+- Abbreviations ASMBS / SAGES expanded at first use on [[endoscopy-sedation]].
+- `index.md`: source row added; endoscopy-sedation row updated.
+- *Cards:* none — no touched topic page has `verified:`.
+- `ingest: partial` removed.
+
+**Nothing qualified / did not run:**
+- No third file: ~$2.5 left would not cover another extract + verify. Stopped at a clean point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*, card dedup and `{at:}` backfill: not run in this budget.
+- Not propagated (optional one-line pointers): [[glp-1-receptor-agonists]], [[semaglutide]], [[bariatric-surgery]] could link the multisociety row on [[endoscopy-sedation]].
+
+**Backlog status:** backlog mode stays **ON**. Confirmed uningested US tier-1/2 (after excluding the co-published USMSTF twins): ASCO 2021 irAE (~47k words), ASPEN-SCCM 2016, Halphen/Gerard bowel-prep scale papers, Chicago v4.0 technical reviews (Fox, Kahrilas), ACIP 2020 hepatitis A, Multisociety 2021 endoscope reprocessing (Day), ASGE 2022 EoE consensus conference (Aceves), ASGE 2026 research quality measures (Elmunzer), Jeppesen 2012 STEPS RCT, ENDURO Additional File 3. Non-US (EASL, ECCO, BSG, UEG, WEO, others) only where they fill a gap. NCCN files skipped (EULA). Lectures not listed (gated).
+
 ---
 
 ## [2026-11-19] lint | 06:00 pass — daily fetch, finish the AGA 2015 cyst partial, ingest by budget

@@ -3,8 +3,8 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-11-08
-sources: [asge-2025-glp1-sglt2-periendoscopic, asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum, usmstf-2025-bowel-prep, asge-2026-remimazolam]
+updated: 2026-11-20
+sources: [multisociety-2024-glp1-perioperative, asge-2025-glp1-sglt2-periendoscopic, asge-acg-2024-common-endoscopy-quality-indicators, asge-2018-sedation, aga-2024-glp1-endoscopy, aga-acg-asge-aasld-2012-sedation-curriculum, usmstf-2025-bowel-prep, asge-2026-remimazolam]
 ---
 
 Framework for procedural sedation across the full continuum used in gastrointestinal (GI) endoscopy — from anxiolysis to general anesthesia — including patient selection (American Society of Anesthesiologists [ASA] class), agents, monitoring, nil per os (NPO)/aspiration risk, and reversal. Per [[asge-2018-sedation]].
@@ -117,8 +117,9 @@ Airway management may also be difficult with:
 | Society | Guidance |
 |---|---|
 | **ASGE** ([[asge-2025-glp1-sglt2-periendoscopic\|2025]] position statement, modified Delphi, **no evidence grading**) | **Triage by urgency, not by drug** — see below. Elective: hold **≥24 h** if daily-dosed, **≥7 days** if weekly-dosed. **Liquid diet 24 h before** for *all* patients on a GLP-1 RA. Urgent/emergent and time-sensitive procedures: **do not delay**. |
-| **ASA** (consensus, expert opinion) | **Daily-dosed** → hold **day of** procedure. **Weekly-dosed** → hold **1 week prior**. Irrespective of indication/dose/procedure. If not held but no GI symptoms → **"full stomach" precautions**. |
+| **ASA** (2023 consensus, expert opinion; as quoted by AGA 2024) | **Daily-dosed** → consider holding **day of** procedure. **Weekly-dosed** → consider holding **1 week prior**. Irrespective of indication/dose/procedure. If not held but no GI symptoms → **"full stomach" precautions**. |
 | **AGA** (2024 Rapid Clinical Practice Update [CPU]) | **Individualized approach**, not routine cessation. Standard fast (**8 h solids, 2 h liquids**) **+ no symptoms** (nausea, vomiting, [[dyspepsia]], distention) → **proceed** with upper and/or lower endoscopy. |
+| **Multisociety** ([[multisociety-2024-glp1-perioperative\|AGA, American Society for Metabolic and Bariatric Surgery (ASMBS), Society of American Gastrointestinal and Endoscopic Surgeons (SAGES), International Society of Perioperative Care of Patients with Obesity; ASA affirmed]] — guidance, **no evidence grading**; surgery and endoscopy) | **Shared decision-making**; **may continue** if no elevated risk (Rec 1b). Elevated-risk variables (Rec 1a): **escalation phase · higher dose · weekly dosing · GI symptoms** (nausea, vomiting, abdominal pain, dyspepsia, constipation) · **other conditions delaying emptying** (eg, [[gastroparesis]], Parkinson's disease) — no count or combination defined. If holding: duration **unknown**; suggested **day of** (daily) / **a week prior** (weekly) (Rec 1c). Symptom check for **all** on the day of procedure. **Liquid diet ≥24 h** when symptoms raise concern (Rec 2a). |
 
 > **Which governs.** [[aga-2024-glp1-endoscopy|AGA 2024]] holds that **no data support routinely stopping** GLP-1 RAs before elective endoscopy; [[asge-2025-glp1-sglt2-periendoscopic|ASGE 2025]] does specify routine elective hold intervals. Both are tier-1 and **ASGE 2025 is newer**, so its intervals govern the elective question here. The two agree where it counts: symptom assessment drives sedation strategy, and **urgent or time-sensitive procedures are not delayed** for either drug.
 
@@ -146,7 +147,8 @@ flowchart TD
 - **Bridging:** when a GLP-1 RA is stopped **1 week** before an elective procedure, consider **bridging the antidiabetic therapy** (ASGE Statement 10, the panel's only unanimous vote) — these drugs allow basal insulin reductions of 10%–20% and prandial reductions of 10%–40%, so a week off can unmask marked hyperglycemia.
 - Weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit; withholding one dose is reasonable for **weight-loss-only** use but is not mandatory/evidence-based, and may not reliably restore motility.
 - **Symptoms** suggesting retained contents → transabdominal gastric ultrasound if expertise/equipment available (**ASGE agrees the evidence for routine use remains limited**); if delay is harmful → consider rapid-sequence intubation (often infeasible in ambulatory settings, which may mean moving the case to a hospital-based setting).
-- Preferred alternative to stopping the drug: **clear/liquid diet the day before** sedated procedures.
+- **Day-of-procedure concern (multisociety, Recs 2b–2c):** point-of-care gastric ultrasound **could be used**; with suspected or confirmed retained contents, weigh **rapid sequence induction versus cancellation** with the patient. Withholding the drug **only** for overweight/obesity, without a Rec 1a risk variable, = obesity bias to avoid (Rec 1b) ([[multisociety-2024-glp1-perioperative]]).
+- AGA 2024: a **liquid diet the day before** sedated procedures "may be a more acceptable strategy" in lieu of stopping the drug.
 
 > [!pitfall] A larger aspiration risk has not actually been demonstrated
 > Cohort studies have **not** shown increased pulmonary aspiration in the periendoscopic period; two large claims studies conflict, and gastric-emptying scintigraphy correlates poorly with symptoms and is non-reproducible in up to 30% of patients with gastroparesis symptoms. The pooled delay in gastric emptying half-time across randomized trials was **36 minutes**. Treat the hold rules as prudent consensus, not established risk reduction ([[asge-2025-glp1-sglt2-periendoscopic]]).
@@ -348,3 +350,4 @@ Grading of Recommendations Assessment, Development and Evaluation (GRADE) eviden
 5. [[usmstf-2025-bowel-prep|Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer]]
 6. [[asge-2026-remimazolam|Role of Remimazolam in Gastrointestinal Endoscopy: ASGE Clinical Practice Update (2026)]]
 7. [[asge-2025-glp1-sglt2-periendoscopic|ASGE Position Statement on Periendoscopic Management of Patients on GLP-1 Receptor Agonists and SGLT-2 Inhibitors (2025)]]
+8. [[multisociety-2024-glp1-perioperative|Multisociety Clinical Practice Guidance for the Safe Use of Glucagon-like Peptide-1 Receptor Agonists in the Perioperative Period (2024)]]
