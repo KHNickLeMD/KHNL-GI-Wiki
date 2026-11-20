@@ -3,7 +3,8 @@ title: "American Gastroenterological Association Institute Guideline on the Medi
 category: source
 tags: [constipation, oic, opioids, pamora, laxatives, secretagogues, prokinetics, colorectal]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2019 Opioid-Induced Constipation.pdf"
 ---
@@ -40,7 +41,7 @@ Mechanistically, opioids act on **μ, δ, and κ** receptors in the gut — κ i
 | **3a** | "In patients with OIC, the AGA makes no recommendation for the use of lubiprostone." | No recommendation | Evidence gap |
 | **4a** | "In patients with OIC, the AGA makes no recommendation for the use of prucalopride." | No recommendation | Evidence gap |
 
-Category headings in Table 3: **1. Traditional laxatives · 2. PAMORAs · 3. Intestinal secretagogues · 4. Selective 5-HT agonists.** The in-text boxed version of the lubiprostone statement is labelled **"3."** rather than "3a."; Table 3 labels it 3a. Table 3 prints methylnaltrexone correctly; the in-text box for 2c prints the drug as "methylnatrexone."
+Category headings in Table 3: **1. Traditional laxatives · 2. PAMORAs · 3. Intestinal secretagogues · 4. Selective 5-HT agonists.** The in-text boxed version of the lubiprostone statement is labelled **"3."** rather than "3a."; Table 3 labels it 3a. The misspelling "methylnatrexone" appears in Table 3 (row 2c), Table 4, the 2c box and parts of the text; the pharmacology paragraph spells it methylnaltrexone.
 
 **Grading of Recommendations Assessment, Development and Evaluation (GRADE) conventions the guideline prints (Tables 1–2)**
 
@@ -136,4 +137,4 @@ Category headings in Table 3: **1. Traditional laxatives · 2. PAMORAs · 3. Int
 - **Diagnostic evaluation is out of scope.** The guideline and its technical review explicitly do not address the diagnostic evaluation of OIC, so its diagnostic content is narrative and ungraded. The broader workup (anorectal testing, transit testing, alarm features) comes from [[chronic-constipation]] and [[aga-2026-refractory-constipation]].
 - **Combination opioid agonist/antagonists** (e.g. oxycodone + naloxone) are mentioned as lower-constipation options but were **not addressed** by the technical review or any recommendation statement, so no graded position exists.
 - **Figure 1 — clinical decision support tool.** The text refers readers to an accompanying clinical decision support tool (Figure 1); the tool is not reproduced within the article pages, so the treatment sequence on [[opioid-induced-constipation]] is built from the printed recommendations and narrative rather than from the figure.
-- **Internal labelling inconsistencies** in the published article: the boxed lubiprostone statement is numbered "3." while Table 3 numbers it 3a.; the boxed statement 2c spells the drug "methylnatrexone" while Table 3 and the text use methylnaltrexone. Neither affects content.
+- **Internal labelling inconsistencies** in the published article: the boxed lubiprostone statement is numbered "3." while Table 3 numbers it 3a.; the drug is spelled "methylnatrexone" in Table 3, Table 4, the 2c box and parts of the text, "methylnaltrexone" elsewhere. Neither affects content.

@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Integrating Potassium-Competitive Acid B
 category: source
 tags: [pcab, vonoprazan, ppi, acid-suppression, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-11-01
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU Potassium-Competitive Acid Blockers.pdf"
 ---
@@ -24,9 +25,9 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 
 ## Key Findings / Claims
 
-**Mechanism / pharmacodynamics:** competitive K⁺-site binding of H⁺/K⁺-ATPase (vs covalent cysteine binding by PPIs); acts on active *and* inactive pumps; no acid activation required → rapid onset; longer duration; less CYP2C19 dependence. At some studied doses (zastaprazan 10 mg, fexuprazan 40 mg, tegoprazan 50–100 mg, vonoprazan 20 mg) acid inhibition is similar to standard PPI doses rather than more potent.
+**Mechanism / pharmacodynamics:** competitive K⁺-site binding of H⁺/K⁺-ATPase (vs covalent cysteine binding by PPIs); not prodrugs — no conversion to an active form required → rapid onset; longer duration; less CYP2C19 dependence. At some studied doses (zastaprazan 10 mg, fexuprazan 40 mg, tegoprazan 50–100 mg, vonoprazan 20 mg) acid inhibition is similar to standard PPI doses rather than more potent.
 
-**Best Practice Advice (verbatim):**
+**Best Practice Advice (verbatim):** *(the CPU states these apply only in settings where P-CABs are an available option)*
 
 - **BPA 1:** Based on nonclinical factors (including cost, greater obstacles to obtaining medication, and fewer long-term safety data), clinicians should generally **not use P-CABs as initial therapy for acid-related conditions in which clinical superiority has not been shown.**
 - **BPA 2:** Based on current costs in the United States, even modest clinical superiority of P-CABs over double-dose PPIs may not make P-CABs cost-effective as first-line therapy.
@@ -41,8 +42,8 @@ The central tension throughout the 9 Best Practice Advice (BPA) statements is **
 
 **Supporting data highlights:**
 - **Severe EE (LA C/D):** vonoprazan 20 mg superior to lansoprazole 30 mg for healing at 2 wk (70% vs 53%) and 8 wk (92% vs 72%); maintenance of healing superior for vonoprazan 10/20 mg vs lansoprazole 15 mg (75–77% vs 62%; recurrence 5–13% vs 39%).
-- ***H. pylori*:** systematic review of Asian randomized controlled trials (RCTs) — first-line eradication vonoprazan vs PPI 92% vs 80%; benefit largest in **clarithromycin-resistant** strains (e.g. 66–70% vs 32%). 14-day duration generally advised; vonoprazan dual therapy (vonoprazan + amoxicillin) can match triple therapy. 2022 Maastricht VI: 100% agreement P-CAB regimens "superior, or not inferior to" PPI triple therapy, and superior in resistant infections.
-- **PUD:** vonoprazan/tegoprazan noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis on low-dose aspirin/nonsteroidal anti-inflammatory drugs (NSAIDs); *H. pylori*–associated ulcers heal better than idiopathic/NSAID ulcers. Potential (scant-evidence) role in Zollinger-Ellison syndrome.
+- ***H. pylori*:** systematic review of Asian randomized controlled trials (RCTs) — first-line eradication vonoprazan vs PPI 92% vs 80%. Benefit largest in **clarithromycin-resistant** strains — in the American/European trial (1,046 patients), vonoprazan-based vs lansoprazole-based regimens 66–70% vs 32%. 14-day duration generally advised; vonoprazan dual therapy (vonoprazan + amoxicillin) can match triple therapy. 2022 Maastricht VI: 100% agreement P-CAB regimens "superior, or not inferior to" PPI triple therapy, and superior in resistant infections.
+- **PUD:** vonoprazan noninferior to lansoprazole for gastric/duodenal ulcer healing and (vonoprazan 10–20 mg vs lansoprazole 15 mg) for secondary prophylaxis on low-dose aspirin/nonsteroidal anti-inflammatory drugs (NSAIDs); tegoprazan 50–100 mg noninferior to lansoprazole 30 mg for gastric ulcer healing at 8 weeks; *H. pylori*–associated ulcers heal better than idiopathic/NSAID ulcers. Potential (scant-evidence) role in Zollinger-Ellison syndrome.
 - **Ulcer bleeding:** post-hemostasis Thai RCT — oral vonoprazan noninferior to high-dose intravenous (IV) PPI for rebleeding at 3/7/30 days.
 
 ## Relevance to Wiki

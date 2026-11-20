@@ -186,7 +186,7 @@ All from [[acg-2021-anorectal-disorders]]:
   - Renal adjustment is a **specific threshold, not "avoid"** — 1 mg daily at **CrCl <30 mL/min**
   - **Contraindicated** in intestinal **perforation or obstruction**, [[crohns-disease|Crohn's disease]], [[ulcerative-colitis]], and [[toxic-megacolon|toxic megacolon/megarectum]] — note this rules it out in active IBD, not just mechanical obstruction
   - **Label caution on mood/suicidality:** in a 4,476-subject safety database, 4 attempted and 2 completed suicides — both completed cases had stopped prucalopride >1 month before the event. Causality and mechanism are explicitly **unclear**; the label asks clinicians to watch for unusual changes in mood, behavior, and suicidal ideation
-- Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
+- Lubiprostone: nausea the most common adverse event — **35%**, usually mild or moderate, discontinuation in only 5%; dose-dependent and seems lower when taken with food and water ([[aga-acg-2023-constipation]])
 - IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without cardiovascular (CV) ischemic events, and is recommended in that population by both [[acg-2020-ibs|ACG 2020]] and AGA 2022.* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
 
 ### Defecation Disorder: Biofeedback
