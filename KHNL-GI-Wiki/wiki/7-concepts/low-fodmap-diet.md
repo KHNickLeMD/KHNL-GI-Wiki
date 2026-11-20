@@ -3,8 +3,10 @@ title: "Low-FODMAP Diet"
 category: concept
 tags: [ibs, diet, fodmap, low-fodmap, dietitian, dgbi, functional]
 created: 2026-09-10
-updated: 2026-10-06
+updated: 2026-11-20
 sources: [aga-2022-diet-ibs, acg-2020-ibs, aga-2018-functional-gi-symptoms-ibd]
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 ---
 
 ## Contents
@@ -23,26 +25,25 @@ sources: [aga-2022-diet-ibs, acg-2020-ibs, aga-2018-functional-gi-symptoms-ibd]
 
 ## Definition
 
-- **FODMAPs** = fermentable oligo-, di-, and monosaccharides and polyols — short-chain, poorly digestible, poorly absorbed sugars.
-- Carbohydrates are the **most common macronutrient trigger** in [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]; fat content and total caloric intake enhance the gastrocolonic response and contribute to sensorimotor bowel dysfunction.
-- The low-FODMAP diet (LFD) is **the most evidence-based diet intervention for IBS** ([[aga-2022-diet-ibs]], Best Practice Advice [BPA] 6).
-- It is **not an open-ended restriction** — it is a structured 3-phase program with a defined endpoint (BPA 7).
+- **FODMAPs** = fermentable oligo-, di-, and monosaccharides and polyols — short-chain, poorly digestible, poorly absorbed sugars that can trigger symptoms in some patients with [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]].
+- Carbohydrates = the most common macronutrient trigger of IBS symptoms.
+- Low-FODMAP diet (LFD) = currently the **most evidence-based diet intervention for IBS** ([[aga-2022-diet-ibs|American Gastroenterological Association (AGA) 2022]], Best Practice Advice [BPA] 6).
+- A structured 3-phase program, not an open-ended restriction (BPA 7).
 
 ---
 
 ## Who Is a Candidate
 
-Prerequisites before starting (Figure 2, [[aga-2022-diet-ibs]]):
+- **Entry criteria:** top box of the flowchart under [[#The 3 Phases]] (AGA 2022 Figure 2); not met → alternative treatment.
+- **Poor candidates for a restrictive diet (BPA 2):** few culprit foods eaten, risk for malnutrition, food insecurity, eating disorder, or uncontrolled psychiatric disorder.
+  - Diet already minimal in FODMAP-containing foods → little benefit from trialing the LFD.
+  - Eating-disorder and malnutrition screening: on [[irritable-bowel-syndrome]].
+- **Delivery:** a registered dietitian nutritionist (RDN) with gastrointestinal (GI) expertise — the LFD is complex, potentially costly, and many patients with IBS already eat a nutritionally inadequate diet ([[aga-2022-diet-ibs]]).
+  - No GI RDN → community RDN with an interest in digestive disorders; reliable educational materials and digital tools can supplement, but never implement the diet on a brief document or mobile app alone.
+  - [[acg-2020-ibs|American College of Gastroenterology (ACG)]]: committee view (stated as not evidence-based) favors a trained GI dietitian; none available or unaffordable → high-quality teaching materials.
 
-- **Motivated patient**
-- **Gastrointestinal (GI) dietitian or high-quality teaching materials** available
-- **Willing and able to follow up**
-
-If these are not met → alternative treatment. Do not implement the diet solely on the basis of a brief handout or a mobile app.
-
-**The LFD is the prototypical restrictive diet, so the poor-candidate gate applies before it is offered** — eating disorder, uncontrolled psychiatric disorder, malnutrition risk, food insecurity, or a habitual diet already low in FODMAP-containing foods. Screening criteria and the eating-disorder/malnutrition screens are on [[irritable-bowel-syndrome]].
-
-If a patient consumes few culprit foods there is little benefit to trialing the LFD.
+> [!pitfall] No LFD in an eating disorder
+> Restrictive diets like the LFD should be avoided in patients with an eating disorder; screen by careful dietary history before prescribing ([[aga-2022-diet-ibs]], BPA 2).
 
 ---
 
@@ -50,37 +51,40 @@ If a patient consumes few culprit foods there is little benefit to trialing the 
 
 ```mermaid
 flowchart TD
-    A["Consider LFD<br/>· motivated patient<br/>· GI dietitian or high-quality teaching materials<br/>· willing and able to follow up"] -- "No" --> Z["Alternative treatment"]
-    A -- "Yes" --> B["1. RESTRICT — 4–6 weeks<br/>'diagnostic test' to identify FODMAP-sensitive patients<br/>consider daily multivitamin"]
+    A(["Consider LFD<br/>· motivated patient<br/>· GI dietitian or high-quality teaching materials<br/>· willing and able to follow up"]) -- "No" --> Z(["Alternative treatment"])
+    A -- "Yes" --> B["Restrict 4–6 weeks<br/>'diagnostic test' to identify FODMAP-sensitive patients<br/>consider daily multivitamin"]
     B -- "No benefit" --> Z
-    B -- "Benefit" --> C["2. RE-INTRODUCE — 6–10 weeks<br/>foods containing individual FODMAPs<br/>increasing dose over 3 days<br/>wheat, milk, garlic common culprits"]
-    C --> D["3. PERSONALIZE<br/>use re-introduction data to liberalize diet<br/>&gt;80% can liberalize"]
+    B -- "Benefit" --> C(["Re-introduce 6–10 weeks<br/>foods containing individual FODMAPs<br/>increasing dose over 3 days<br/>wheat, milk, garlic common culprits"])
+    C --> D(["Personalize<br/>use re-introduction data to liberalize diet<br/>>80% can liberalize"])
+    class A start
+    class B test
+    class C,D act
+    class Z stop
 ```
-
-*Figure 2 — Low-FODMAP diet for patients with IBS. ([[aga-2022-diet-ibs]])*
-
-| Phase | Duration | What happens | Decision point |
-|---|---|---|---|
-| **1. Restriction** | **4–6 weeks** (no more than 4–6 weeks) | FODMAP intake reduced substantially; consider a daily multivitamin | Responders typically improve in **2–6 weeks**. No improvement in that timeframe → **discontinue** and move to another treatment |
-| **2. Reintroduction** | **6–10 weeks** | Restriction is *continued* while challenging with foods containing a **single FODMAP** in **increasing quantities over 3 days**, recording symptom response each time | Establishes the individual's specific tolerances and intolerances |
-| **3. Personalization** | Long-term | Reintroduction data used to diversify intake and build an individualized long-term LFD | **>80%** can liberalize the diet (body text of the same update gives **up to 76%**) |
+*Low-FODMAP diet for patients with IBS*
+*Source: redrawn from AGA 2022 Figure 2*
+*[[aga-2022-diet-ibs|AGA Clinical Practice Update on the Role of Diet in IBS (2022)]]*
+*LFD = low-FODMAP diet · FODMAP = fermentable oligo-, di-, and monosaccharides and polyols · GI = gastrointestinal*
 
 ### Phase 1 — Restriction (4–6 weeks)
 
-- Treat it as a **diagnostic test**: does this patient's IBS respond to FODMAP restriction at all?
-- **Only responders proceed to phase 2.** Non-responders stop the diet — do not extend the restriction.
-- Numerous clinical trials found **4–6 weeks is enough** to determine whether a patient will respond; setting the duration up front reduces the complications of prolonged dietary over-restriction.
+- FODMAP intake reduced substantially; lasts **no more than 4–6 weeks** (BPA 7).
+- Responders typically improve within **2–6 weeks** ([[aga-2022-diet-ibs]]; same window in [[acg-2020-ibs]]).
+- Numerous trials: 4–6 weeks is enough to determine response; a set duration reduces complications of prolonged over-restriction.
+
+> [!pitfall] Restriction is a test, not the diet
+> No improvement in the prescribed time → discontinue and move to another treatment; never leave patients on "open-ended" restriction ([[aga-2022-diet-ibs]], BPA 3).
 
 ### Phase 2 — Reintroduction (6–10 weeks)
 
-- Challenge one FODMAP at a time, **escalating the dose over 3 days**, with symptoms recorded throughout.
-- **Wheat, milk, and garlic** are the common culprits.
-- Double-blind reintroduction trials identify **fructans, mannitol, and galacto-oligosaccharides** as the FODMAPs that most commonly trigger recurrent symptoms.
+- FODMAP restriction **continues** while challenging with foods containing a single FODMAP; symptom responses recorded throughout → individual tolerances and intolerances.
+- Double-blind reintroduction trials: **fructans, mannitol, and galacto-oligosaccharides** most commonly trigger recurrent symptoms.
 
 ### Phase 3 — Personalization
 
-- Reintroduction results drive a diversified, individualized long-term diet — the goal is the **least restriction** that controls symptoms.
-- Reintroduction and personalization still lack randomized controlled trial (RCT) evidence; a **simplified version of the LFD** may be effective but remains unproven in RCTs.
+- Reintroduction data used to diversify FODMAP intake → individualized LFD for long-term use.
+- Liberalization: Figure 2 gives **>80%**; the body text of the same update gives **up to 76%** after reintroduction (observational trials).
+- Further evidence, preferably randomized controlled trials (RCTs), needed for reintroduction and personalization; a **simplified LFD** may be effective but is unproven in RCTs.
 
 ---
 
@@ -88,45 +92,47 @@ flowchart TD
 
 | Evidence | Result |
 |---|---|
-| Meta-analysis, **7 RCTs (397 patients)** | LFD significantly reduced global IBS symptoms vs different control interventions |
-| Network meta-analysis, **13 RCTs** | LFD was the **most effective diet strategy** for global symptoms, abdominal pain, and bloating |
-| RCT, **100 patients with IBS with diarrhea (IBS-D)** — LFD vs traditional dietary advice (National Institute for Health and Care Excellence [NICE]) | Both improved IBS Symptom Severity Score (IBS-SSS) and quality of life (QOL) vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD: **62.7% vs 40.8%, P = .04** |
-| Crossover RCT, **42 patients** — LFD vs gluten-free vs "balanced"/Mediterranean | All 3 improved symptom severity, bloating, pain, and QOL (P < .05); LFD better **for bloating only** — not pain, IBS-SSS, or QOL. Needs a larger trial |
-| **2 comparative effectiveness trials** | LFD gave similar benefit to gut-directed hypnotherapy or yoga, sustained **up to 6 months** |
+| Meta-analysis, **7 RCTs (397 patients)** | LFD significantly reduced global IBS symptoms vs different control interventions ([[aga-2022-diet-ibs]]); risk ratio (RR) **0.69 (95% confidence interval [CI] 0.54–0.88)** vs comparators, and a nonsignificant trend vs an alternative diet (3 trials; RR 0.82; 95% CI 0.66–1.02) ([[acg-2020-ibs]]) |
+| Network meta-analysis, **13 RCTs** | LFD the **most effective diet strategy** for global symptoms, abdominal pain, and bloating |
+| RCT, **100 patients with IBS with diarrhea (IBS-D)** — LFD vs traditional dietary advice (National Institute for Health and Care Excellence [NICE]) | Both improved IBS Symptom Severity Score (IBS-SSS) and IBS-related quality of life (QOL) vs baseline; primary outcome (**>50-point reduction in IBS-SSS**) favored LFD: **62.7% vs 40.8%, P = .04** |
+| Crossover RCT, **42 patients** — LFD vs gluten-free vs "balanced" (Mediterranean) | All 3 improved symptom severity, bloating, abdominal pain, and QOL (P < .05); LFD better **for bloating only** — not pain, IBS-SSS, or IBS-related QOL. Needs a larger trial |
+| **2 comparative effectiveness trials** | LFD similar to gut-directed hypnotherapy or yoga for overall IBS symptoms, **up to 6 months** |
 
-- Benefit is best established in **IBS-D**; **studies in IBS with constipation (IBS-C) are lacking**, and IBS-C patients instead benefit from a higher intake of **soluble fiber** ([[aga-2022-diet-ibs]]).
-- [[acg-2020-ibs|American College of Gastroenterology (ACG)]] recommends a **limited trial** of a low-FODMAP diet to improve global IBS symptoms — **Conditional, very-low-quality evidence**.
+- LFD improves symptoms and disease-specific QOL, particularly in **IBS-D**; LFD studies in **IBS with constipation (IBS-C) are lacking** — IBS-C benefits from higher **soluble fiber** intake ([[aga-2022-diet-ibs]]).
+- ACG: **limited trial** of an LFD to improve global IBS symptoms — **Conditional recommendation; very low quality of evidence**.
 
 ---
 
 ## In Inflammatory Bowel Disease
 
-*All from [[aga-2018-functional-gi-symptoms-ibd]] (Best Practice Advice 5).*
+*All from [[aga-2018-functional-gi-symptoms-ibd|AGA 2018]].*
 
-- **The LFD may be offered for functional GI symptoms in [[inflammatory-bowel-disease|IBD]]** — i.e. symptoms persisting when inflammation is controlled — **with careful attention to nutritional adequacy**. The nutritional-adequacy clause is part of the advice, not a footnote: undernutrition is common in IBD, so **dietary instruction should be delivered by a dietitian**.
-- **Expected yield:** benefit in **at least 50%** of patients with IBD who have ongoing symptoms despite controlled inflammation.
-- **Related restrictive diets that improved functional GI symptoms in IBD:** lactose-reduced, FODMAP-reduced, gluten-free, and specific-carbohydrate diets. The common denominator is **reduced intake of indigestible and slowly absorbed carbohydrates**, acting through osmotic effects and fermentability — not any one culprit food group.
-- **Gluten is usually not the culprit.** In self-reported non-celiac sensitivity, double-blind crossover challenge provoked significantly more symptoms with **fructans than with gluten**; a concomitant fall in FODMAP intake is the likely mechanism behind gluten-free diet responses, since fructans coexist with gluten in cereals.
-- **Counter-consideration:** cutting carbohydrates with prebiotic action could in principle harm the gut microbiota — though a feeding study in [[crohns-disease|Crohn's disease]] did not bear this out.
+- **BPA 5:** an LFD **may be offered** for functional GI symptoms in [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] **with careful attention to nutritional adequacy**.
+  - Undernutrition is common in IBD → dietary instruction should be delivered by a dietitian.
+- **Yield:** benefit in **at least 50%** of IBD patients with ongoing symptoms despite controlled inflammatory disease.
+- **Supporting data:** in a small [[crohns-disease|Crohn's disease]] randomized feeding study, typical FODMAP intake was associated with increased symptom severity; a blinded rechallenge study confirmed FODMAPs as likely culprits for functional symptoms in quiescent IBD.
+- **Other diets linked to improvement:** lactose-reduced, FODMAP-reduced, gluten-free, specific-carbohydrate — common denominator = reduced intake of indigestible, slowly absorbed carbohydrates (osmotic effects, fermentability).
+- **Gluten (IBS data; not examined in IBD):** no evidence gluten or wheat protein is the culprit in more than a small minority of patients with IBS; concomitant FODMAP reduction is the likely mechanism, since fructans coexist with gluten in cereals. Double-blind crossover challenge in self-reported nonceliac sensitivity: symptoms significantly higher with **fructans than gluten**.
+- **Microbiota:** cutting carbohydrates with prebiotic actions might harm gut microbiota; in one Crohn's disease feeding study, strictly controlled FODMAPs did not alter the relative abundance of a limited number of key bacteria. More real-world data required.
 
 ---
 
 ## Nutritional Adequacy and Risks
 
-- **Short-term** FODMAP restriction has little impact on micronutrient intake; taught by a dietitian it may actually **improve overall diet quality** relative to the habitual diets of most patients with IBS.
-- Consider a **daily multivitamin** during the restriction phase.
-- **Long-term effectiveness and adherence data are lacking** — preliminary observational data look promising.
-- Over-restriction risks nutritional deficiency and can promote or exacerbate disordered eating; this is why the restriction phase is time-capped.
-- A **registered dietitian nutritionist (RDN)** should deliver the diet where available — it is complex, potentially costly, and many patients with IBS are already eating a nutritionally inadequate diet. Where no GI RDN exists, collaborate with a community dietitian with an interest in digestive disorders.
+- **Short-term** restriction: little impact on micronutrient intake; taught by an RDN, may even improve overall diet quality vs the habitual diets of most patients with IBS ([[aga-2022-diet-ibs]]).
+- **Prolonged over-restriction:** risk of nutritional deficiencies; could also promote or exacerbate disordered eating ([[aga-2022-diet-ibs]]). ACG: LFD seems safe without serious adverse events, although long-term over-restriction may lead to micronutrient deficiencies ([[acg-2020-ibs]]).
+- **Long-term** effectiveness and adherence data lacking; preliminary observational data promising.
 
 ---
 
 ## Predicting Response
 
-- **Sucrase-isomaltase (SI) variants** are more common in IBS and associated with lower LFD response; pathogenic SI variants carried a **3- to 4-fold reduction in response** to either the LFD or a modified NICE diet, particularly the LFD (small sample, no mucosal disaccharidase measurements).
-- **Fecal microbiome/metabolites** — baseline fecal bacterial profile discriminated responders from non-responders in two adult studies, but the discriminating profiles **differed between the studies**; fecal volatile organic compound patterns also distinguished responders.
-- **Fructose breath testing** does not reliably predict response.
-- No biomarker has sufficient evidence for routine clinical use ([[aga-2022-diet-ibs]], BPA 9).
+*All from [[aga-2022-diet-ibs]].*
+
+- **No biomarker is ready for routine use** — limited data, insufficient evidence (BPA 9).
+- **Sucrase-isomaltase (SI) variants:** more common in IBS; may be associated with lower LFD response. Post-hoc analysis: pathogenic SI variants → **3- to 4-fold reduction in response** to either the LFD or a modified NICE diet, particularly the LFD (small sample; no mucosal disaccharidase measurements).
+- **Fecal microbiome/metabolites** may predict response: in two adult studies, baseline fecal bacterial profile discriminated responders from nonresponders, but the discriminating profiles **differed between studies**; fecal volatile organic compound patterns also distinguished responders.
+- **Fructose breath testing:** no convincing evidence it predicts response to an LFD or fructose-restricted diet; may predict LFD response — further studies needed.
 
 ---
 

@@ -3,7 +3,8 @@ title: "AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation
 category: source
 tags: [constipation, cic, laxatives, secretagogues, prokinetics, colorectal]
 created: 2026-05-16
-updated: 2026-09-10
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ACG/AGA ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation.pdf"
 ---
@@ -29,14 +30,14 @@ Cost was an explicit Evidence-to-Decision consideration: every OTC agent is esti
 
 **Outcome definitions used across the recommendations**
 
-- **CSBM** = complete spontaneous bowel movement. **Responder** = CSBM/week ≥3 **and** an increase of ≥1 from baseline. Critical outcomes were CSBMs/week, spontaneous bowel movements (SBMs)/week, and diarrhea leading to discontinuation.
-- Studies had to run **≥4 weeks**; single-dose and head-to-head-only comparisons were excluded, so the guideline has **no head-to-head data** between agents.
+- **CSBM** = complete spontaneous bowel movement. **Responder** = CSBM/week ≥3 **and** an increase of ≥1 from baseline. Critical outcomes were CSBMs/week, spontaneous bowel movements (SBMs)/week, and adverse events leading to discontinuation.
+- Studies had to run **≥4 weeks**; studies comparing doses or frequencies of the same drug without a no-drug group were excluded, so the guideline has **no head-to-head data** between agents.
 
 **Implementation detail beyond the graded statements**
 
 - **Fiber** — soluble fiber traps water and softens stool; insoluble increases bulk. Total daily fiber (diet + supplement) **20–30 g/d**, per Academy of Nutrition and Dietetics **14 g per 1,000 kcal/d**; usually **no benefit above 25–30 g**. Only **psyllium** appeared effective among the supplements evaluated (bran and inulin data very limited and uncertain). Ensure adequate hydration; flatulence is common.
 - **PEG** — 17 g daily, no clear maximum, titrate to symptoms; response durable over **6 months**. A fiber trial may precede or accompany PEG in mild constipation.
-- **Magnesium oxide** — 400–500 mg daily; no clear maximum, though prior studies used **1,000–1,500 mg daily**. Caution in renal insufficiency (hypermagnesemia) and pregnancy. Trials ran 4 weeks.
+- **Magnesium oxide** — 400–500 mg daily; no clear maximum, though prior studies used **1,000–1,500 mg daily**. **Avoid in renal insufficiency** (hypermagnesemia; Rec 3 implementation consideration — the discussion says avoid at creatinine clearance <20; Table 4 says "use with caution"); caution in pregnancy. Trials ran 4 weeks.
 - **Lactulose** — 15 g daily; no clear maximum, but hypernatremia and hypokalemia can occur with significant diarrhea. The **only osmotic agent studied in pregnancy**. Dose-dependent bloating and flatulence limit use.
 - **Bisacodyl / sodium picosulfate** — bisacodyl 5 mg daily, **maximum 10 mg orally daily**; recommended for **short-term use or as rescue therapy**, where short-term = **daily use for ≤4 weeks**. Long-term safety and efficacy unknown; prolonged or excessive use can cause diarrhea and electrolyte imbalance.
 - **Senna** — 8.6–17.2 mg daily; no clear maximum, often capped at 4 tablets twice daily. The trial dose is **higher than doses commonly used in practice** — start lower and increase if no response. Long-term safety and efficacy unknown.
@@ -96,8 +97,8 @@ Verbatim from Table 1. The guideline numbers its statements 1–10; "recommends"
 ## Contradictions / Open Questions
 
 - Guideline does not address when to pursue anorectal physiology testing (see [[acg-2021-anorectal-disorders]] for defecation disorder evaluation)
-- No head-to-head comparisons between secretagogues; choice among linaclotide/plecanatide/prucalopride based on mechanism preference and patient factors
-- Linaclotide 72–145 µg (CIC dosing) vs 290 µg (IBS-C dose): this guideline covers CIC dosing only
+- No head-to-head comparisons between agents; the guideline advises shared decision-making based on patient preference, cost and availability
+- Linaclotide: 72–145 µg daily for CIC, with 290 µg daily listed as the maximum (Table 4)
 - Docusate was listed among the interventions to be reviewed but no recommendation on it appears in the guideline
 
 ## See Also

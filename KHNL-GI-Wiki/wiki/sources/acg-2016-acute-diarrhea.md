@@ -3,7 +3,8 @@ title: "ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infect
 category: source
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, antibiotic, loperamide, bismuth, prevention, public-health]
 created: 2026-05-19
-updated: 2026-11-16
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ACG/ACG 2016 Diagnosis, Treatment, & Prevention of Acute Diarrheal Infections in Adults.pdf"
 ---
@@ -108,7 +109,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Centers for Disease Control and Prevention (CDC) estimates 47.8 million acute diarrheal illness cases annually in the United States; ~$150 million cost to the health-care economy.
 - ~44 million US residents travel annually to non-Canadian, non-European destinations; TD attack rate 10–40%, resulting in 4–17 million cases per year.
 - 31 major pathogens cause ~9.4 million episodes of diarrheal illness in the US annually, 55,961 hospitalizations, and 1,351 deaths.
-- Postinfectious functional gastrointestinal (GI) disorders ([[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], [[dyspepsia]], Guillain-Barré) and reactive arthritis are recognized chronic sequelae of acute enteric infection.
+- Recognized chronic sequelae of acute enteric infection: functional gastrointestinal (GI) disorders (e.g. postinfectious [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]]), reactive arthritis, hemolytic uremic syndrome (HUS), and Guillain-Barré syndrome.
 
 ### Definitions
 
@@ -122,8 +123,8 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 - **Watery diarrhea, mild illness:** Hydration only; may use loperamide 4 mg initially to control stooling.
 - **Watery diarrhea, moderate-to-severe illness, travel-associated:** Antibiotic therapy (see Table 4).
-- **Watery diarrhea, moderate-to-severe, non-travel-associated, no/low-grade fever (≤100°F):** Consider ≤48 h loperamide; if <72 h duration observe; if ≥72 h consider microbiologic assessment.
-- **Watery diarrhea, moderate-to-severe, non-travel-associated, fever ≥101°F:** Consider microbiologic assessment.
+- **Watery diarrhea, moderate-to-severe, non-travel-associated, no/low-grade fever (≤100°F):** Consider ≤48 h of loperamide therapy.
+- **Watery diarrhea, moderate-to-severe, non-travel-associated, fever ≥101°F:** duration <72 h → consider ≤48 h of loperamide therapy; duration ≥72 h → consider microbiologic assessment.
 - **Dysenteric diarrhea, no/low-grade fever (≤100°F):** Microbiologic assessment, then antimicrobial agent directed to cause for all but Shiga toxin-producing *E. coli* (STEC) infection.
 - **Dysenteric diarrhea, severe illness with fever ≥101°F, travel-associated (single case):** Empiric azithromycin 1,000 mg single dose OR 500 mg once daily for 3 days.
 - **Dysenteric diarrhea, severe illness with fever ≥101°F, non-travel-associated:** Consider microbiologic assessment.
@@ -137,14 +138,14 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 ### Oral Rehydration
 
-- World Health Organization (WHO) oral rehydration solution (ORS): 60–75 mEq/L sodium, 75–90 mmol/L glucose. Available at pharmacies.
+- Balanced oral rehydration solution (ORS): sodium 60–75 mEq/L, glucose 75–90 mmol/L; can usually be purchased at a local pharmacy.
 - Most healthy adults with TD do not require ORS and can maintain with salty soups, fruit juices, sports drinks, crackers.
 - Balanced ORS is recommended for the elderly with severe diarrhea and for any traveler with cholera-like watery diarrhea.
 
 ### Non-antibiotic Treatments
 
 - **BSS:** Reduces stools passed by ~40%; antisecretory action from the salicylate moiety + bismuth's antibacterial/antiviral activity. Recommended dose for acute diarrhea: 30 mL (525 mg) of liquid formulation **or** two 263 mg tablets, chewed well, every 30–60 min, not to exceed 8 doses in 24 h. Will cause black stools and tongue (harmless bismuth sulfide salt).
-- **Loperamide:** First-line antimotility agent. Initial dose 4 mg, then 2 mg after each loose stool, not to exceed 8 mg/day. Not used for >48 h in self-treatment. Not given in proven bacterial inflammatory colitis (risk of toxic megacolon, though very rare in properly treated patients). Most valuable as combination therapy with antibiotics for TD.
+- **Loperamide:** First-line antimotility agent. Initial dose 4 mg, then 2 mg after each loose stool, not to exceed 8 mg/day. Not given for more than 48 h. Associated with toxic dilatation when used in bacterial inflammatory diarrhea, but the association is rare (also seen with otherwise untreated diarrhea) and very unlikely when inflammatory colitis is also treated with antimicrobials. The text caps the dose at 8 mg/day; Table 4 footnote a allows up to 16 mg in 24 h with antibiotics. Most valuable as combination therapy with antibiotics for TD.
 - **Adsorbents (kaolin, pectin, charcoal, attapulgite):** Do have an effect on stool form but do not shorten diarrhea duration — not recommended.
 - **Racecadotril:** Enkephalinase inhibitor; antisecretory without gut motility effect; used in pediatric diarrhea; not FDA-approved in the US.
 
@@ -164,7 +165,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 ^d Preferred regimen for dysentery or febrile diarrhea.
 ^e Do not use if clinical suspicion for *Campylobacter*, *Salmonella*, *Shigella*, or other causes of invasive diarrhea.
 
-- **Fluoroquinolone (FQ) resistance:** Growing resistance among [[campylobacter-infection|*Campylobacter*]] (most isolates in Southeast Asia/India are FQ-resistant); azithromycin preferred in those regions and when Campylobacter suspected.
+- **Fluoroquinolone (FQ) resistance:** evidence that most [[campylobacter-infection|*Campylobacter*]] are FQ-resistant → macrolides such as azithromycin recommended; Table 4 footnote c makes azithromycin empiric first line in Southeast Asia and India, and elsewhere when *Campylobacter* or resistant ETEC is suspected.
 - **Azithromycin vs. FQ:** 4 randomized controlled trials (RCTs) showed equivalence for TD; single-dose 1,000 mg azithromycin comparable to levofloxacin 500 mg; active for FQ-resistant *Campylobacter* including fluoroquinolone-resistant strains.
 - **[[rifaximin|Rifaximin]]:** Non-absorbable rifamycin; effective against diarrheagenic [[enterotoxigenic-e-coli|*E. coli*]]; 200 mg three times daily (TID) x3 days; not for invasive pathogens (*Campylobacter*, [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]]).
 - STEC: Do NOT treat with antibiotics (risk of hemolytic uremic syndrome (HUS)).
@@ -184,14 +185,14 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Initial evaluation: stool culture + newer diagnostic methods; microscopy for parasites.
 - Colonoscopy diagnostic yield 7–32% in persistent/chronic diarrhea; inflammatory bowel disease (IBD) and microscopic colitis most common diagnoses.
 - Differential to consider: [[celiac-disease|celiac disease]], [[crohns-disease|Crohn's disease]], eosinophilic gastroenteritis, Whipple's disease, microscopic colitis.
-- **[[postinfectious-ibs|Postinfectious IBS]]:** Recognized sequela of infectious gastroenteritis; diagnosed using Rome III criteria (now Rome IV/V); no commercially available serologic test.
+- **[[postinfectious-ibs|Postinfectious IBS]]:** Recognized sequela of infectious gastroenteritis; diagnosed using conventional criteria such as Rome III; no commercially available serologic test.
 
 ### Prevention
 
 - **Food/water safety counseling:** Pretravel counseling on avoiding high-risk food/beverages conditionally recommended; evidence for efficacy is mixed (Conditional/very low).
 - **Hand hygiene:** Limited value against most TD pathogens (high-inoculum pathogens like diarrheagenic *E. coli*); useful for norovirus, *Shigella* (low-inoculum pathogens) in cruise ship/institutional/endemic settings.
 - **BSS chemoprophylaxis:** ≥60% protection at 2.1 g/day — **two tablets four times daily, at meals + bedtime**. Dose *and* interval both matter: 2.1 g and 1.05 g given twice daily gave only 41% and 35% protection. Use for trips up to 2 weeks; not for longer trips. Do not use when salicylates are already being taken. Not for [[inflammatory-bowel-disease|IBD]] or human immunodeficiency virus (HIV) infection — excessive absorption risks bismuth encephalopathy.
-- **Antibiotic chemoprophylaxis:** Rifaximin: pooled relative risk 0.33 (95% confidence interval [CI]: 0.24–0.45) = 67% protective efficacy; 22.1% absolute TD attack rate reduction; number needed to treat (NNT) ≈ 4.5. Fluoroquinolones: 88% pooled protective efficacy. Both have safety/resistance concerns. Recommended only for high-risk short-term travelers.
+- **Antibiotic chemoprophylaxis:** Rifaximin: pooled relative risk 0.33 (95% confidence interval [CI]: 0.24–0.45) = 67% protective efficacy; 22.1% absolute TD attack rate reduction; number needed to treat (NNT) ≈ 4.5. Fluoroquinolones: 88% pooled protective efficacy. Both have safety/resistance concerns. Use should be restrictive and short; may be considered in high-risk groups for short-term use (Rec 18).
 - **Probiotics/prebiotics for prevention:** Not recommended (inconsistent efficacy data); evidence base limited to prospective studies in travelers, not community-acquired setting.
 
 ---
@@ -201,17 +202,14 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Creates new diagnostic schema: [[acute-diarrhea]] — primary entity page for this syndrome
 - Updates [[fever-returning-traveler]] — antibiotic therapy for TD, specific empiric azithromycin guidance, STEC avoidance, *Giardia*/*Entamoeba* workup
 - Updates [[irritable-bowel-syndrome]] — postinfectious IBS explicitly recognized as a sequela of TD/acute gastroenteritis
-- Updates [[clostridioides-difficile]] — fluoroquinolone use for TD explicitly identified as a *C. difficile* infection (CDI) risk factor; antibiotic self-treatment of TD increases risk
+- Updates [[clostridioides-difficile]] — fluoroquinolones carry *C. difficile* infection (CDI) risk in all settings, though CDI after ciprofloxacin does not appear to be a common outcome of treated TD; antibiotic self-treatment of TD raises the risk of colonization with extended-spectrum β-lactamase (ESBL)-producing bacteria
 - Informs: [[norovirus]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]]
 
 ---
 
 ## Contradictions / Open Questions
 
-- This is a 2016 guideline; culture-independent diagnostic panels have since expanded significantly. The BioFire FilmArray GI Panel (22 targets) is now widely available and has become standard of care in many centers — expanding the principle of Recommendation 3.
-- Rifaximin for TD prophylaxis is discussed but not FDA-approved for prophylaxis; this may have evolved.
 - Postinfectious IBS is referenced using Rome III criteria; the disorders of gut-brain interaction (DGBI) pages here use Rome IV/V (see [[disorders-of-gut-brain-interaction]]).
-- Fluoroquinolone resistance in *Campylobacter* has continued to grow since 2016; azithromycin preference for empiric TD therapy in Southeast Asia/India remains valid but the resistance landscape should be monitored.
 - *Enterocytozoon bieneusi*: this guideline names albendazole; the newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] Table 6 recommends fumagillin for *E. bieneusi* in HIV-infected adults and reserves albendazole (after starting combination antiretroviral therapy) for other microsporidia. The newer IDSA recommendation takes precedence — see [[hiv-aids-related-diarrhea]].
 - **Adjunctive loperamide:** Recommendation 8 (strong, moderate) gives loperamide with antibiotics for traveler's diarrhea; the newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] Rec 47 bars antimotility drugs under 18 years (strong, moderate) and at any age in inflammatory diarrhea, diarrhea with fever, or where toxic megacolon may result (strong, low). For febrile or inflammatory traveler's diarrhea the two diverge; IDSA is newer.
 - The guideline does not address *Clostridioides difficile*-associated infections, which are covered by a separate ACG guideline ([[acg-2021-cdiff]]).

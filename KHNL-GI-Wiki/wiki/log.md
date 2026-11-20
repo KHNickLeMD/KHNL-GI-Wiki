@@ -6,6 +6,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-20] lint | Quality review sweep (manual run, $40 budget)
+
+**Scope:** *Quality review* step only, queue from `review-queue.py --pages 10`, one subagent per page; unverified source pages verified first.
+
+**Skipped:**
+- [[gallbladder-cancer]] (queue #1) — its main source is NCCN 2026 biliary tract cancers; the NCCN licence bars use with an LLM, so it cannot be verified against its raw file. Left for Nick's decision on NCCN-sourced pages.
+
+**Source pages verified first (fresh agent each, against the raw file; findings confirmed and fixed, `verified: 2026-11-20`):**
+- [[aga-2022-diet-ibs]] — 4 minor: Figure 1 Mermaid branch (eating-disorder "Yes" also goes to dietitian; psychologist box → collaborate, not → access/coverage); "psyllium" → ispaghula husk (×2); ACG year label; unsourced gluten inference removed. Later: "lack RCT evidence" → "further evidence, preferably RCTs, needed".
+- [[acg-2020-ibs]] — 4 minor: 8 recommendation numbers filled in (13, 14, 16, 17, 21–24); alosetron recommendation population (severe, failed conventional therapy; >6 mo is the REMS); Rec 3 *Giardia* exception; eluxadoline: sphincter of Oddi spasm (not pancreatitis) tied to absent gallbladder.
+- [[aga-2018-functional-gi-symptoms-ibd]] — 3 minor: FC <50 "may be reassuring and point toward" (not "should prompt"), 50–250 band reasons; Table 2 rifaximin "evidence for benefit"; biofeedback population (remission + defecatory disorders). **Copy fixed:** [[inflammatory-bowel-disease]] FC bands.
+- [[asge-2010-diarrhea]] — 1 minor: CD4 gradient → colonoscopy yield higher at CD4 <100.
+- [[idsa-2017-infectious-diarrhea]] — **1 management:** STEC macrolides — evidence for harm *favors avoidance* (page read "evidence of harm avoidance"); 3 minor (Table 4 "high" not "highest" risk; Table 6 footnotes b/d on nontyphoidal *Salmonella* and non-cholera *Vibrio*; unsourced FilmArray line removed). **Copy fixed:** [[shiga-toxin-producing-e-coli]].
+- [[acg-2016-acute-diarrhea]] — **1 management:** Figure 1 branch (re-read on the rendered page) — the <72 h / ≥72 h split sits under fever ≥101°F, not no-fever; "observe" not in figure. Plus loperamide/toxic dilatation wording, ORS not WHO-attributed, sequelae list (adds HUS), *Campylobacter* resistance wording, Rec 18 force ("may be considered"), CDI/ESBL attribution, 3 outside-knowledge lines removed. [[acute-diarrhea]] flowchart already correct; its loperamide/toxic megacolon line fixed.
+- [[aga-2022-ibs-c]] — 1 management (TCA Rec 7 is for IBS generally, not pain-predominant), 2 minor (complete conditional list incl. against SSRIs; unsourced "different targets"); FDA doses from the text added.
+- [[aga-acg-2023-constipation]] — **1 management:** magnesium oxide — *avoid* in renal insufficiency (Rec 3 implementation; CrCl <20), not "caution"; 4 minor (exclusion criteria, critical outcome = AEs leading to discontinuation, no agent-choice rule, linaclotide 290 µg is the CIC maximum).
+- [[aga-2026-refractory-constipation]] — 1 borderline management (biofeedback "up to 6 months", not 3–6), 5 minor (autonomic testing "may"; real-time imaging both defecography types; Figure 1 Mermaid arrow A→D; sexual-trauma wording; Contradictions misquote). **Copy fixed:** [[biofeedback-therapy]].
+- [[ibsrela-2025-tenapanor-label]] — 1 management (suspend-and-rehydrate is for *severe* diarrhea), 2 minor (label has §12.3 hepatic/renal PK data, no dose adjustment; "first-in-class" not in label).
+
+**Pages:**
+- [[low-fodmap-diet]] — reviewed + verified. Old-style flowchart → role-class redraw of AGA 2022 Figure 2 with 4-line caption; duplicate phase table removed; 8 fidelity fixes (fructose breath test may predict LFD response; SI variants "may"; "least restriction" unsourced; IBS gluten data mislabelled as IBD; Crohn's microbiota study overstated; others); ACG RR data added; 2 pitfall callouts. Fidelity gate clean; independent check **0 findings**. Card file: f0d004 front recut (tested the unsourced "least restriction"), f0d006/f0d008 Back Extra fixed; `page_updated` left so it requeues.
+
+---
+
 ## [2026-11-20] lint | 06:00 pass — daily fetch, ingest by budget
 
 **Scope:** backlog mode, $25 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.

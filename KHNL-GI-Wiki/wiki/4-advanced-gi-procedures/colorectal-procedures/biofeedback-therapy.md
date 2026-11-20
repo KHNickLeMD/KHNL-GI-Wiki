@@ -96,7 +96,7 @@ Suggested treatment protocol for anorectal biofeedback — American College of G
 
 - **Initial measures come first** — normalize stool form and give toileting position/behavior advice before or alongside the course.
 - **Correction is stepwise:** push effort improves before anal relaxation does — paradoxical contraction can still be present at 2 weeks and fully corrected by 6 weeks ([[rome-v-2026-anorectal-disorders]]).
-- **Time to benefit: often up to 3–6 months of consistent practice** before benefit manifests. ([[aga-2026-refractory-constipation]])
+- **Time to benefit: often up to 6 months of consistent practice** before benefit manifests. ([[aga-2026-refractory-constipation]])
 - **Confirming response: normalisation of the BET after biofeedback suggests the defecatory disorder (DD) has resolved.** ([[aga-2026-refractory-constipation]])
 - **In fecal incontinence (FI) the same protocol is re-aimed:** increase strength and coordination of the external anal sphincter without contracting the abdominal wall, and correct rectal sensation — in rectal hypersensitivity the goal is to *reduce* sensation so defecation can be postponed. Tailor to the specific anorectal dysfunction.
 

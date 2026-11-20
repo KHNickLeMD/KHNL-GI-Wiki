@@ -124,7 +124,7 @@ The typing that matters is two-dimensional, and the two axes are not the same qu
 > — [[idsa-2017-infectious-diarrhea]] Rec 35
 
 - **The "unknown genotype" clause is the operative one.** The Shiga toxin profile is **usually unknown when treatment is being considered**, and there is no clear benefit — so **avoidance is the default** for any suspected STEC, not only for confirmed O157.
-- **Which drugs:** **fluoroquinolones, β-lactams, trimethoprim-sulfamethoxazole (TMP-SMX) and metronidazole** are to be avoided **at all ages** in STEC O157 and in likely non-O157 STEC producing Shiga toxin 2, on evidence of harm. **Macrolide data are very limited.**
+- **Which drugs:** **fluoroquinolones, β-lactams, trimethoprim-sulfamethoxazole (TMP-SMX) and metronidazole** are to be avoided **at all ages** in STEC O157 and in likely non-O157 STEC producing Shiga toxin 2, on evidence of harm. **Macrolide data are very limited** — insufficient evidence of benefit, and some evidence for harm favors avoiding them too.
 - **[[acg-2016-acute-diarrhea]] agrees and frames it as the single carve-out:** in dysenteric diarrhea with no or low-grade fever (**≤100°F**), do microbiologic assessment then direct an antimicrobial at the cause **"for all but STEC infection."**
 - Antibacterials appear to **increase HUS risk** in Shiga-toxin disease.
 

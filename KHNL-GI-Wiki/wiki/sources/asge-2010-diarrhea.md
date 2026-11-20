@@ -3,7 +3,8 @@ title: "ASGE Guideline: The Role of Endoscopy in the Management of Patients With
 category: source
 tags: [diarrhea, chronic-diarrhea, acute-diarrhea, endoscopy, colonoscopy, sigmoidoscopy, microscopic-colitis, celiac-disease, terminal-ileum, hiv, gvhd, cmv, asge]
 created: 2026-06-23
-updated: 2026-10-14
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Diarrhea.pdf"
 ---
@@ -23,7 +24,7 @@ American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice sta
 
 For the immunocompetent host, stool and laboratory tests come first; endoscopy is for persistent symptoms, an inconclusive workup, or failure of empirical therapy. When the colon is examined for chronic diarrhea, **biopsies are taken even when the mucosa looks normal**, and because microscopic colitis is patchy, **random samples from both the right and the left colon** are taken rather than left-sided samples alone. The terminal ileum is intubated; routine biopsy of a *normal-appearing* terminal ileum is explicitly left undecided. For malabsorptive or small-bowel presentations, [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with **a minimum of 4 duodenal biopsy specimens** evaluates [[celiac-disease|celiac disease]] and its mimics. [[capsule-endoscopy|Video capsule endoscopy (VCE)]] and [[device-assisted-enteroscopy|enteroscopy]] are not for routine use.
 
-In the immunocompromised host, stool testing is again first-line and the infectious differential is wider — notably cytomegalovirus (CMV), where a positive blood test does not establish tissue-invasive disease and biopsy may be required. In [[hiv-aids-related-diarrhea|human immunodeficiency virus (HIV) infection]], either flexible sigmoidoscopy or [[colonoscopy|colonoscopy]] is acceptable first, with colonoscopy carrying the higher yield; diagnostic yield rises as the CD4 count falls. For suspected graft-versus-host disease (GVHD) after hematopoietic stem cell transplantation (HSCT), flexible sigmoidoscopy with distal colon biopsy is the preferred initial endoscopic evaluation, with EGD reserved for negative colonic histology or predominant upper gastrointestinal (GI) symptoms.
+In the immunocompromised host, stool testing is again first-line and the infectious differential is wider — notably cytomegalovirus (CMV), where a positive blood test does not establish tissue-invasive disease and biopsy may be required. In [[hiv-aids-related-diarrhea|human immunodeficiency virus (HIV) infection]], either flexible sigmoidoscopy or [[colonoscopy|colonoscopy]] is acceptable first, with colonoscopy carrying the higher yield; colonoscopy yield is significantly higher with a CD4 count <100 cells/mm³. For suspected graft-versus-host disease (GVHD) after hematopoietic stem cell transplantation (HSCT), flexible sigmoidoscopy with distal colon biopsy is the preferred initial endoscopic evaluation, with EGD reserved for negative colonic histology or predominant upper gastrointestinal (GI) symptoms.
 
 ## Key Findings / Claims
 

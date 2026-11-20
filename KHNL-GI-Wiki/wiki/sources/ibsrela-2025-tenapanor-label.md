@@ -3,7 +3,8 @@ title: "IBSRELA (Tenapanor) Tablets — FDA Prescribing Information"
 category: source
 tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, pediatric, dosing, drug-interaction, drug-label, fda]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "Drug Labels/Ibsrela Label.pdf"
 ---
@@ -19,13 +20,13 @@ raw: "Drug Labels/Ibsrela Label.pdf"
 
 ## Summary
 
-The FDA prescribing information for **tenapanor**, the first-in-class inhibitor of the gastrointestinal (GI) sodium/hydrogen exchanger isoform 3 (NHE3). It was fetched to close the gap [[tenapanor]] named in its own text: the three guidelines behind that page give the adult dose but state **no contraindications, no age limits and no renal or hepatic adjustment**.
+The FDA prescribing information for **tenapanor**, an inhibitor of the gastrointestinal (GI) sodium/hydrogen exchanger isoform 3 (NHE3). It was fetched to close the gap [[tenapanor]] named in its own text: the three guidelines behind that page give the adult dose but state **no contraindications, no age limits and no renal or hepatic adjustment**.
 
 The label answers each. There are exactly **two contraindications** — age **under 6 years**, and known or suspected **mechanical GI obstruction** — and the age limit carries a **boxed warning**, because tenapanor caused deaths presumed due to dehydration in young juvenile rats. The boxed warning is wider than the contraindication: use is to be **avoided from 6 to under 12 years** (no juvenile data in that age band, no clinical data at all), and safety and effectiveness are **unestablished below 18 years**. Unlike [[linzess-2026-linaclotide-label|linaclotide]], which is *indicated* in children down to 2 years for functional constipation, tenapanor has **no pediatric indication at any age**.
 
-**No renal or hepatic dose adjustment is given, and the label contains no renal- or hepatic-impairment subsection at all** — consistent with a drug that is minimally absorbed (plasma concentrations below the limit of quantification). Renal impairment is instead a **tolerability** signal, not a dosing one: among the 31% of trial patients with a baseline estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m², diarrhea including severe diarrhea occurred in **20%** versus **13%** with normal renal function, and the incidence did **not** track with the severity of the impairment.
+**No renal or hepatic dose adjustment is given** (Section 8 has no renal/hepatic subsection) — consistent with a drug that is minimally absorbed. Pharmacokinetic data (§12.3): moderate hepatic impairment (Child-Pugh B) lowered M1 exposure ~33% and ~27%, "not clinically relevant"; M1 levels in end-stage renal disease on hemodialysis (eGFR <15 mL/min/1.73 m²) were not notably different from healthy subjects. Renal impairment is instead a **tolerability** signal, not a dosing one: among the 31% of trial patients with a baseline estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m², diarrhea including severe diarrhea occurred in **20%** versus **13%** with normal renal function, and the incidence did **not** track with the severity of the impairment.
 
-The one interaction that changes prescribing is **OATP2B1**: tenapanor inhibits this intestinal uptake transporter, so substrates lose exposure. The label's worked example is **enalapril**, whose peak exposure fell ~70% and total exposure 50–65% when co-administered — with the instruction to monitor blood pressure and increase the enalapril dose if needed. Diarrhea is the dominant adverse reaction (16% vs 4% placebo at 26 weeks; **severe in 2.5%** vs 0.2%), and the management rule is to **suspend dosing and rehydrate**, not to dose-reduce.
+The one interaction that changes prescribing is **OATP2B1**: tenapanor inhibits this intestinal uptake transporter, so substrates lose exposure. The label's worked example is **enalapril**, whose peak exposure fell ~70% and total exposure 50–65% when co-administered — with the instruction to monitor blood pressure and increase the enalapril dose if needed. Diarrhea is the dominant adverse reaction (16% vs 4% placebo at 26 weeks; **severe in 2.5%** vs 0.2%), and **if severe diarrhea occurs, suspend dosing and rehydrate** (the label gives no dose reduction).
 
 ## Key Findings / Claims
 
@@ -49,7 +50,7 @@ The one interaction that changes prescribing is **OATP2B1**: tenapanor inhibits 
 
 **Warnings and precautions**
 
-- **Diarrhea** — may be severe; **suspend dosing and rehydrate** if it occurs.
+- **Diarrhea** — may be severe; **if severe diarrhea occurs, suspend dosing and rehydrate**.
 
 **Adverse reactions**
 
@@ -78,7 +79,7 @@ The one interaction that changes prescribing is **OATP2B1**: tenapanor inhibits 
 - **Lactation:** tenapanor and its M1 metabolite were **not detected in breast milk** (<1 ng/mL) in a 7-woman study; maternal use is not expected to expose the infant.
 - **Pediatric:** see boxed warning — contraindicated <6 y, avoid 6 to <12 y, unestablished <18 y.
 - **Geriatric:** 100 of 1203 trial patients (8%) were ≥65 y; **no overall difference** in safety or effectiveness, but greater sensitivity in some older individuals cannot be ruled out.
-- **Renal and hepatic impairment: the label gives no dose adjustment and carries no such subsection.**
+- **Renal and hepatic impairment: the label gives no dose adjustment** (no Section 8 subsection; pharmacokinetic data in §12.3, see Summary).
 
 **Mechanism and overdose**
 

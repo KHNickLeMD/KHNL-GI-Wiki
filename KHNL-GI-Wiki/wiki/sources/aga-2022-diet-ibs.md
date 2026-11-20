@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on the Role of Diet in Irritable Bowel Synd
 category: source
 tags: [ibs, diet, fodmap, low-fodmap, fiber, gluten-free, dietitian, eating-disorder, dgbi]
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 CPU Role of Diet in IBS.pdf"
 ---
@@ -104,9 +105,10 @@ flowchart TD
     C -- "Yes" --> D["Refer to psychologist and/or psychiatrist<br/>*If eating disorder is confirmed,<br/>refer to eating disorders specialist"]
     C -- "No" --> E{"Food triggers symptoms or<br/>interest in dietary treatment?"}
     E -- "No" --> F["Prescribe non-dietary treatments"]
+    C -- "Yes" --> G
     E -- "Yes" --> G["Refer to a dietitian<br/>*If eating disorder is confirmed,<br/>refer to eating disorders specialist"]
-    D --> H{"Access and coverage<br/>to see a dietitian?"}
-    G --> H
+    G --> H{"Access and coverage<br/>to see a dietitian?"}
+    D --> K
     H -- "No" --> I["Provide traditional IBS dietary advice<br/>and refer to dietary resources"]
     H -- "Yes" --> J["Dietitian consultation: nutrition assessment,<br/>diagnosis, intervention, monitoring, and evaluation"]
     J --> K["Collaborate with clinician"]
@@ -126,7 +128,7 @@ flowchart TD
 - **Soluble fiber sources:** psyllium, ispaghula husk, corn fiber, calcium polycarbophil, methylcellulose, oat bran, and the flesh of fruits and vegetables.
 - **Insoluble fiber sources:** wheat bran, whole grains, and fruit and vegetable skins and seeds.
 - The 2021 American College of Gastroenterology (ACG) IBS guideline made a **strong recommendation for soluble (but not insoluble) fiber**, based on a systematic review and meta-analysis of **15 randomized controlled trials (RCTs)**; insoluble fiber did not significantly improve IBS symptoms and **may exacerbate bloating and abdominal pain**.
-- A recent **network meta-analysis of 5 psyllium husk studies did not show benefit** in global IBS symptoms vs placebo; the **2 excluded studies were positive**.
+- A recent **network meta-analysis of 5 ispaghula husk studies did not show benefit** in global IBS symptoms vs placebo; the **2 excluded studies were positive**.
 - **Selection of soluble fiber should be made specifically among patients with IBS with constipation (IBS-C).** Fiber characteristics from viscosity to rate of fermentation affect symptom impact.
 
 ### Low-FODMAP diet
@@ -172,12 +174,12 @@ flowchart TD
 
 ## Contradictions / Open Questions
 
-- **Soluble fiber — strength of the evidence.** [[acg-2020-ibs|ACG]] gives soluble fiber a **strong recommendation** (Moderate quality) from a meta-analysis of 15 RCTs, while this update cites a **network meta-analysis of 5 psyllium husk studies showing no benefit** vs placebo (2 positive studies were excluded). The update nonetheless states soluble fiber is efficacious (BPA 5), so both guidelines land in the same place; the psyllium signal is weaker than the recommendation implies.
-- **Low-FODMAP diet — confidence.** [[acg-2020-ibs|ACG 2020]] recommends a limited LFD trial only **conditionally, on very-low-quality evidence**; this newer update calls it "the most evidence-based diet intervention for IBS." Same tier, newer publication — the AGA framing takes precedence, but the ACG grade still applies, since this AGA update assigns no grades of its own.
+- **Soluble fiber — strength of the evidence.** [[acg-2020-ibs|ACG]] gives soluble fiber a **strong recommendation** (Moderate quality) from a meta-analysis of 15 RCTs, while this update cites a **network meta-analysis of 5 ispaghula husk studies showing no benefit** vs placebo (2 positive studies were excluded). The update nonetheless states soluble fiber is efficacious (BPA 5), so both guidelines land in the same place; the ispaghula signal is weaker than the recommendation implies.
+- **Low-FODMAP diet — confidence.** [[acg-2020-ibs|ACG 2021]] recommends a limited LFD trial only **conditionally, on very-low-quality evidence**; this newer update calls it "the most evidence-based diet intervention for IBS." Same tier, newer publication — the AGA framing takes precedence, but the ACG grade still applies, since this AGA update assigns no grades of its own.
 - **Internal discrepancy on liberalization.** The body text states "up to 76% of patients with IBS can liberalize their LFD after completion of the reintroduction phase," while Figure 2 states ">80% can liberalize." Both figures are recorded on [[low-fodmap-diet]].
-- **Gluten.** Whether a GFD benefits patients with IBS remains unresolved; rechallenge data point to **fructans rather than gluten** as the trigger, which places gluten avoidance inside the LFD rather than beside it.
+- **Gluten.** Whether a GFD benefits patients with IBS remains unresolved; rechallenge data point to **fructans rather than gluten** as the trigger in presumed gluten sensitivity.
 - **IBS-C.** LFD efficacy data in IBS-C are lacking; the update directs soluble fiber selection specifically to IBS-C.
-- Reintroduction and personalization phases still lack RCT evidence; the simplified LFD is unproven; long-term LFD adherence data are absent.
+- Reintroduction and personalization phases need further evidence, preferably RCTs; the simplified LFD is unproven; long-term LFD adherence data are absent.
 
 ---
 

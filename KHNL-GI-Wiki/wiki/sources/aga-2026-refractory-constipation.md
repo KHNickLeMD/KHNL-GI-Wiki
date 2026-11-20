@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Evaluation and Management of Refractory 
 category: source
 tags: [constipation, refractory-constipation, slow-transit, defecatory-disorder, anorectal-manometry, defecography, colectomy, ileostomy, biofeedback]
 created: 2026-06-27
-updated: 2026-10-18
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU Refractory Constipation.pdf"
 ---
@@ -77,14 +78,14 @@ When medical therapy is exhausted, off-label prescription agents (e.g., pyridost
 
 - **Two of these 3 abnormal tests are typically required to diagnose DD.**
 - DD **should be diagnosed and treated before diagnosing RC**; biofeedback is the cornerstone of DD management.
-- **Biofeedback duration: often up to 3–6 months of consistent practice** before benefit manifests. **Normalisation of BET after biofeedback suggests the DD has resolved.**
+- **Biofeedback duration: often up to 6 months of consistent practice** before benefit manifests. **Normalisation of BET after biofeedback suggests the DD has resolved.**
 
 ### Secondary causes to exclude (BPA 3)
 
 - **Medications** are the most common iatrogenic cause: opioid-induced or opioid-exacerbated constipation ([[opioid-induced-constipation]]); anticholinergic agents such as antipsychotics; iron supplements. In many patients these **exacerbate a pre-existing constipation rather than being the primary cause**.
 - **Inadequate caloric intake** may predispose to RC, particularly in eating disorders such as anorexia nervosa, which are over-represented in gastrointestinal (GI) clinics; some RC patients have an **undiagnosed or unrecognised eating disorder** driving symptoms.
 - **Coexisting conditions:** endometriosis; rarely undiagnosed or early-stage neurologic disease (Parkinson's disease, multiple sclerosis) without the typical neurologic manifestations.
-- **Autonomic function testing** should be considered in CC patients presenting with **orthostatic symptoms** — alternative therapy is available for RC with autonomic dysfunction (see BPA 8).
+- **Autonomic function testing** may be considered in CC patients presenting with **orthostatic symptoms** — alternative therapy is available for RC with autonomic dysfunction (see BPA 8).
 
 ### Setting expectations — the normative bowel data behind BPA 4
 
@@ -111,7 +112,7 @@ When medical therapy is exhausted, off-label prescription agents (e.g., pyridost
 |---|---|---|
 | Position | **Seated** — preferable when the primary question is rectal evacuation | **Supine** |
 | Radiation | Yes | **None** |
-| Strengths | Real-time evacuation assessment | More precise pelvic organ prolapse and pelvic floor motion; **especially useful for pelvic floor dysfunction in patients with clinical DD features and a normal BET** — a group that includes **>90% of patients with a large rectocele, enterocele and/or peritoneocele** |
+| Strengths | Real-time imaging during defecation (both methods) | Real-time imaging (both methods); more precise pelvic organ prolapse and pelvic floor motion; **especially useful for pelvic floor dysfunction in patients with clinical DD features and a normal BET** — a group that includes **>90% of patients with a large rectocele, enterocele and/or peritoneocele** |
 | Availability / cost | Wider | **Less widely available, more expensive** |
 
 - Anatomic findings are **more likely to be clinically relevant in selected patients** — e.g., normal ARM with impaired contrast evacuation on defecography, or a **rectocele >4 cm in size**.
@@ -138,7 +139,7 @@ When medical therapy is exhausted, off-label prescription agents (e.g., pyridost
 flowchart TD
     A["Unsatisfactory response to osmotic laxatives or<br/>conservative treatment, no evidence of a defecatory disorder"] --> B["Consider maintenance therapy"]
     B --> C["Stimulant laxatives:<br/>bisacodyl · senna · sodium picosulfate"]
-    B --> D["Switch or add prescription medication(s)"]
+    A --> D["Switch or add prescription medication(s)"]
     D --> E["NHE3 inhibitor:<br/>tenapanor"]
     D --> F["Secretagogues:<br/>lubiprostone · linaclotide · plecanatide"]
     D --> G["Prokinetic:<br/>prucalopride"]
@@ -175,7 +176,7 @@ flowchart TD
 | Contraindication | Supporting detail |
 |---|---|
 | Active eating disorder | Eating disorders affect **up to 19% of patients with CC**; **increasing calorie intake can normalise colonic transit** |
-| Unresolved issues related to sexual trauma | **Up to 40% of CC patients and 20% of those with DD report a history of sexual abuse**; associated with more severe symptoms, heightened GI-specific anxiety, depression and rectal sensitivity. A history of abuse **strongly predicts adverse outcomes and increased abdominal complaints after colectomy** |
+| Unresolved issues related to sexual trauma | **Up to 40% of CC patients and 20% of those with DD report a history of sexual abuse**; associated with more severe symptoms, heightened GI-specific anxiety, depression and rectal sensitivity. A history of abuse **strongly predicts adverse outcomes and increased healthcare related to abdominal complaints after colectomy** |
 | Predominant bloating and/or abdominal pain | Chronic abdominal pain, bloating and fecal incontinence **persist in up to 50% of CC patients after colectomy**, with increased healthcare utilisation and poor quality of life — screen these patients carefully before colectomy |
 | Reversible, secondary causes of constipation | See BPA 3 |
 | Multiregional GI dysmotility | Concurrent multiregional dysmotility in slow-transit constipation correlates with **increased surgical complications and poor outcomes** — a relative contraindication |
@@ -243,7 +244,7 @@ flowchart TD
 - **[[chronic-idiopathic-constipation]]** — owns the RC pathway: definition and the 5 consensus criteria, ARM+BET and a biofeedback course as a gate on the RC label, secondary-cause exclusion, transit testing off treatment (and on maximal laxatives), defecography, exhaustive OTC/FDA-approved and off-label trials, non-pharmacologic adjuncts, and the pre-surgical algorithm with diverting loop ileostomy as a diagnostic trial. Also owns the senna ceiling (35 mg twice daily; up to 1.0 g/day for ≤8 weeks shown safe) and the stimulant-laxative safety statement.
 - **[[defecation-disorders]]** — the 2-of-3 abnormal-test rule, BET ≥1 minute, rectoanal gradient, DD prevalence ~37% of tested CC patients, slow-transit/DD overlap up to 40%, defecography findings, and the "treat DD before labelling RC / before colectomy" rule.
 - **[[anorectal-manometry]]** — ARM+BET as sufficient to diagnose DD and as a gate on the RC diagnosis; the BET ≥1 minute cut-point; barium vs MR defecography comparison.
-- **[[biofeedback-therapy]]** — up to 3–6 months of consistent practice before benefit; normalised BET after biofeedback suggests DD resolution; biofeedback trial required before colectomy.
+- **[[biofeedback-therapy]]** — often up to 6 months of consistent practice before benefit; normalised BET after biofeedback suggests DD resolution; biofeedback trial required before colectomy.
 - **[[ostomy-management]]** — diverting loop ileostomy as a reversible diagnostic trial, completion colectomy at 6–12 months.
 - **[[sacral-nerve-stimulation]]** — corroborates that SNS does not improve CC.
 - **[[gastroparesis]]** — gastric emptying testing as part of the preoperative regional gut transit workup in RC.
@@ -251,7 +252,7 @@ flowchart TD
 
 ## Contradictions / Open Questions
 
-- **How many abnormal tests diagnose a defecatory disorder — a live, unresolved disagreement within 2026.** This update states **2 of 3** abnormal tests (ARM, BET, defecography) are typically required. **[[rome-v-2026-dgbi|Rome V]] requires only 1 of 3** (plus difficult-evacuation symptoms) and **[[acg-2021-anorectal-disorders|ACG 2021]] requires ARM *and* BET**. Rome V (*Gastroenterology*, June 2026) is the more recent publication, so [[defecation-disorders]] and [[anorectal-manometry]] follow its 1-of-3 bar; this review's 2-of-3 and ACG's both-tests rule remain the stricter operating standard — and note this review applies its 2-of-3 bar specifically to the decision to label a patient refractory and to proceed toward surgery.
+- **How many abnormal tests diagnose a defecatory disorder — a live, unresolved disagreement within 2026.** This update states **2 of 3** abnormal tests (ARM, BET, defecography) are typically required. **[[rome-v-2026-dgbi|Rome V]] requires only 1 of 3** (plus difficult-evacuation symptoms) and **[[acg-2021-anorectal-disorders|ACG 2021]] requires ARM *and* BET**. Rome V (*Gastroenterology*, June 2026) is the more recent publication, so [[defecation-disorders]] and [[anorectal-manometry]] follow its 1-of-3 bar; this review's 2-of-3 and ACG's both-tests rule remain the stricter operating standard.
 - **Senna ceiling.** [[aga-acg-2023-constipation|AGA–ACG 2023]] gives senna 8.6–17.2 mg daily with **"no clear maximum."** This update supplies one: **FDA maximum 35 mg twice daily**, with **up to 1.0 g/day for up to 8 weeks reported safe**. Newer source, so the explicit ceiling is what the wiki should carry.
 - **Chronic stimulant laxative use.** This update states plainly that concerns about chronic stimulant use in refractory adult constipation are **unfounded** and that selected patients benefit from regular use — a firmer stance than the conditional/low-certainty senna recommendation in AGA–ACG 2023.
 - **Rectocele size thresholds answer different questions.** This review flags a **rectocele >4 cm** as more likely clinically relevant on defecography; [[acg-2021-anorectal-disorders|ACG 2021]] uses **>5 cm** (with trapping/non-emptying) as a *surgical* selection feature after biofeedback failure. Not a direct conflict — one is relevance of an imaging finding, the other an operative indication — but the two numbers sit side by side on [[defecation-disorders]] and should be labelled by their question.

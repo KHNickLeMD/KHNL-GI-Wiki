@@ -3,7 +3,8 @@ title: "AGA 2018 Clinical Practice Update on Functional Gastrointestinal Symptom
 category: source
 tags: [ibd, crohns, ulcerative-colitis, ibs, functional-gi, dgbi, fecal-calprotectin, sibo, bile-acid-diarrhea, fodmap, psychogastroenterology, pelvic-floor, rifaximin, probiotics]
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2018 CPU Functional GI Symptoms in IBD.pdf"
 ---
@@ -83,7 +84,7 @@ The three questions the Update sets out to answer: (1) what steps to take when a
 | **≤40.5 µg/g** | Histological remission | Sensitivity **41%**, specificity **100%** | Prior prospective study |
 | **200–250 µg/g** | Endoscopic remission in both UC and CD | (range of thresholds; no performance figures given) | — |
 
-- Interpretive rule as stated: **FC <50 µg/g** may be reassuring and should prompt consideration of a non-IBD etiology for persisting symptoms; **values between 50 and 250 µg/g may be challenging to interpret**, as upper normal limits may be seen with nonspecific low-grade inflammation.
+- Interpretive rule as stated: **FC <50 µg/g** may be reassuring and point toward consideration of a non-IBD etiology for persisting symptoms; **values between 50 and 250 µg/g may be challenging to interpret**, as upper normal limits may vary and mild calprotectin elevation may be seen with nonspecific low-grade inflammation.
 - **Serial calprotectin monitoring at 3- to 6-month intervals** may be appropriate in those with mild symptoms, to facilitate early recognition and treatment of impending disease flares (the operative interval behind BPA 2).
 - If a flare is suspected, **endoscopy with biopsies or dedicated imaging of the small bowel in CD** should be considered.
 
@@ -134,9 +135,9 @@ The three questions the Update sets out to answer: (1) what steps to take when a
 | Pharmacologic treatment for constipation | Polyethylene glycol (PEG), stimulant laxative, secretagogue, prokinetic (eg, 5-hydroxytryptamine type 4 [5-HT₄] receptor agonists including tegaserod* and prucalopride†) | PEG effective for constipation; stimulants beneficial in chronic constipation (CC); secretagogues approved for constipation-predominant IBS (IBS-C) and CC; 5-HT₄ receptor agonists effective for CC | Lack of clinical trial data examining specific effects of pharmacologic treatment for constipation in IBD | Osmotic and stimulant laxatives generally safe and effective for treatment of constipation in IBD; further data required on use of newer agents |
 | Pharmacologic treatment for diarrhea | Loperamide, 5-HT₃ antagonist (alosetron‡), bile acid sequestrant, mixed opioid agonist/antagonist (eluxadoline§) | Net benefit with loperamide; alosetron improves IBS symptoms; bile acid sequestrants improve diarrhea; eluxadoline approved for IBS-D | Loperamide effective in CD; bile acid sequestrants effective in CD with malabsorption; no data on safety and efficacy of alosetron or eluxadoline | Hypomotility agents and bile acid sequestrants can be used for diarrhea in IBD; further study needed for newer agents |
 | Pharmacologic treatment for pain, anxiety, depression | Antispasmodic, antidepressant (tricyclic antidepressant, selective serotonin reuptake inhibitor [SSRI]) | Antispasmodics and antidepressants effective in IBS | Tricyclics associated with benefit in IBD | Consider antispasmodics, neuropathic-directed agents, antidepressants for functional pain in IBD |
-| Antibiotics | Rifaximin | Rifaximin approved for diarrhea-predominant IBS | Rifaximin associated with negative breath test in CD; induction and maintenance of remission in active CD, and benefit over placebo in steroid-refractory UC | Evidence for use in IBD; however, indication for use in IBD and mechanisms by which rifaximin exerts its benefit are unclear |
+| Antibiotics | Rifaximin | Rifaximin approved for diarrhea-predominant IBS | Rifaximin associated with negative breath test in CD; induction and maintenance of remission in active CD, and benefit over placebo in steroid-refractory UC | Evidence for benefit; however, indication for use in IBD and mechanisms by which rifaximin exerts its benefit are unclear |
 | Probiotics | Multiple agents | Variable success | Efficacy for functional symptoms in IBD has not been evaluated | Further data supporting use of probiotics for functional symptoms in IBD needed; however, risk of harm is low |
-| Pelvic floor therapy | Biofeedback for dyssynergic defecation | Beneficial for treatment of constipation with dyssynergia | Benefit with biofeedback in 30% IBD patients with dyssynergia | Potential for benefit; however, formal study is needed |
+| Pelvic floor therapy | Biofeedback for dyssynergic defecation | Beneficial for treatment of constipation with dyssynergia | Benefit with biofeedback in 30% IBD patients in remission with defecatory disorders | Potential for benefit; however, formal study is needed |
 | Physical exercise | Exercise | Exercise improves GI symptoms | Exercise beneficial in quiescent or mild IBD and associated with ↓risk of active disease | Likely beneficial with low risk of harm. No formal evaluation for functional symptoms in IBD reported |
 | Complementary and alternative medicine (CAM) | Herbal therapy, dietary supplements, acupuncture, moxibustion, yoga | CAM such as herbal therapies and acupuncture potentially beneficial, but rigorous clinical trials lacking | Marijuana may reduce symptoms, but does not clearly alter disease course; Curcumin associated with induction and maintenance of remission in UC; Higher remission rates with aloe vera in UC; Acupuncture and moxibustion superior to oral sulfasalazine in IBD | Further research needed to validate CAM for functional symptoms in IBD |
 
@@ -157,7 +158,7 @@ Table footnotes, as given: \*Tegaserod taken off market due to concern for possi
 
 ### Figures present in the document
 
-- **Figure 1 (p. 382)** — diagnostic algorithm for evaluation of suspected functional GI symptoms in patients with IBD (recreated above as a flowchart).
+- **Figure 1 (p. 382)** — diagnostic algorithm for evaluation of suspected functional GI symptoms in patients with IBD (recreated on [[inflammatory-bowel-disease]]).
 - **Supplementary Figure 1** — "Clinical spectrum of active inflammation and persistent gastrointestinal symptoms in patients with inflammatory bowel disease": a scatter/Venn schematic plotting **symptom severity (none / moderate / severe)** against **inflammatory activity (none / mild / severe)**, with an FGID circle, an IBD circle, and an **FGID:IBD overlap** zone, labelling the four discordant quadrant positions — *quiescent IBD with mild symptoms*, *quiescent IBD with moderate to severe symptoms*, *active IBD with mild to no symptoms*, *active IBD with severe symptoms*.
 
 ---

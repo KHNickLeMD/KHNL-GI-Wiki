@@ -3,7 +3,8 @@ title: "ACG Clinical Guideline: Management of Irritable Bowel Syndrome"
 category: source
 tags: [ibs, dgbi, fodmap, rifaximin, linaclotide, plecanatide, lubiprostone, alosetron, eluxadoline, tca, gut-directed-psychotherapy]
 created: 2026-05-19
-updated: 2026-11-12
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw:
   - "GI Guidelines/ACG/ACG 2018 Management of Irritable Bowel Syndrome.pdf"
@@ -50,7 +51,7 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 
 - **Against** bile-acid sequestrants for global IBS-D (Conditional/VLow)
 - **[[rifaximin|Rifaximin]]** for global IBS-D (Strong/Moderate) — a **2-week course**, with up to **2 additional retreatment courses** for symptom recurrence. Number needed to treat (NNT) 9. **ACG 2020 states no rifaximin dose anywhere in the document.**
-- **Alosetron 0.5–1.0 mg BID** (the Risk Evaluation and Mitigation Strategy [REMS]-restricted prescribing dose) for women with **chronic (>6 months), severe** IBS-D who previously failed response to traditional therapies (Conditional/Low) — REMS for ischemic colitis
+- **Alosetron 0.5–1.0 mg BID** (the Risk Evaluation and Mitigation Strategy [REMS]-restricted prescribing dose) for women with **severe** IBS-D symptoms who have failed conventional therapy (Conditional/Low) — REMS for ischemic colitis (the REMS itself limits use to women with chronic [>6 months], severe IBS-D who previously lacked response to traditional therapies)
 - **Eluxadoline 100 mg BID**, with **75 mg BID** for some patients, for IBS-D (Conditional/Moderate). Use the 75 mg dose in **mild-to-moderate hepatic impairment**; do **not** use in severe hepatic impairment (Child-Pugh C). **Contraindicated** in: prior pancreatitis, **absent gallbladder**, history of alcoholism/alcohol abuse/addiction, or >3 alcoholic drinks per day.
 - **Lubiprostone 8 µg BID** — FDA-approved in adult women with IBS-C (listed here as the dose the guideline prints for the IBS-C secretagogue above)
 
@@ -75,7 +76,7 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 | 1 | Serologic celiac testing in IBS-D (OR 4.48 for biopsy-proven CD) | Strong | Moderate |
 | 2 | Fecal calprotectin **and CRP** checked in patients **without alarm features** and with suspected IBS and diarrhea symptoms, to rule out IBD | Strong | Moderate |
 | 2 | Fecal **lactoferrin** — the alternative to fecal calprotectin, same population | Strong | Very Low |
-| 3 | Against routine stool testing for enteric pathogens in all patients with IBS | Conditional | Low |
+| 3 | Against routine stool testing for enteric pathogens (including *Giardia*) in all patients with IBS — except those with a high pretest probability and definite risk factors for *Giardia* exposure | Conditional | Low |
 | 4 | Against routine colonoscopy in patients with IBS symptoms younger than 45 years without warning signs | Conditional | Low |
 | 5 | A positive diagnostic strategy rather than a strategy of exclusion, **to improve time to initiate appropriate therapy** | Consensus — unable to assess using GRADE | — |
 | 6 | A positive diagnostic strategy rather than a strategy of exclusion, **to improve cost-effectiveness** | Strong | High |
@@ -86,22 +87,22 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 | 10 | A **limited trial** of a low-FODMAP diet to improve global IBS symptoms | Conditional | Very Low |
 | 11 | Soluble fiber (psyllium), **not** insoluble fiber (bran) | Strong | Moderate |
 | **IBS-C** | | | |
-| — | GC-C agonists — linaclotide 290 µg, plecanatide 3 mg — for global IBS-C symptoms | Strong | High |
-| — | Chloride channel activator (lubiprostone 8 µg BID) for global IBS-C | Strong | Moderate |
+| 17 | GC-C agonists — linaclotide 290 µg, plecanatide 3 mg — for global IBS-C symptoms | Strong | High |
+| 16 | Chloride channel activator (lubiprostone 8 µg BID) for global IBS-C | Strong | Moderate |
 | 18 | Tegaserod 6 mg BID in women <65 with ≤1 CV risk factor failing secretagogues | **Strong/conditional** as printed in Table 2; the in-text box says **Conditional** | Low |
 | 15 | PEG is **not** recommended for global IBS-C (improves stool consistency only, not pain/global symptoms) | Conditional | Low |
 | **IBS-D** | | | |
 | 20 | Rifaximin to treat global IBS-D symptoms — 2-week course, up to 2 retreatment courses; **no dose stated in this guideline** | Strong | Moderate |
-| — | Alosetron 0.5–1.0 mg BID for women with chronic (>6 mo), severe IBS-D failing traditional therapies (REMS, ischemic colitis risk) | Conditional | Low |
-| — | Eluxadoline 100 mg BID (75 mg BID in some) for IBS-D | Conditional | Moderate |
+| 21 | Alosetron to relieve global IBS-D symptoms in women with severe symptoms who have failed conventional therapy (0.5–1.0 mg BID; REMS, ischemic colitis risk) | Conditional | Low |
+| 22 | Eluxadoline 100 mg BID (75 mg BID in some) for IBS-D | Conditional | Moderate |
 | 19 | Bile-acid sequestrants are **not** recommended for global IBS-D | Conditional | Very Low |
 | **Cross-Subtype** | | | |
-| — | TCAs for global symptoms (amitriptyline, imipramine, desipramine, nortriptyline) | Strong | Moderate |
-| — | Peppermint oil for global symptoms | Conditional | Low |
-| — | Gut-directed psychotherapy (CBT, hypnotherapy, mindfulness) for global symptoms | Conditional | Very Low |
+| 23 | TCAs for global symptoms (amitriptyline, imipramine, desipramine, nortriptyline) | Strong | Moderate |
+| 13 | Peppermint oil for global symptoms | Conditional | Low |
+| 24 | Gut-directed psychotherapy (CBT, hypnotherapy, mindfulness) for global symptoms | Conditional | Very Low |
 | 12 | Antispasmodics **currently available in the United States** are not recommended for global IBS symptoms | Conditional | Low |
 | 25 | FMT is **not** recommended for IBS | Strong | Very Low |
-| — | Probiotics are not recommended for IBS | Conditional | Very Low |
+| 14 | Probiotics are not recommended for IBS | Conditional | Very Low |
 
 **TCA dosing (Table 7), and the safety rules that go with it:** amitriptyline 50–100 mg, imipramine 50–100 mg, desipramine 25–100 mg, nortriptyline 25–75 mg daily. **Start low** (e.g. amitriptyline 10 mg or desipramine 10 mg) with gradual titration. **Do not use** in known bundle branch block or QT prolongation.
 
@@ -148,7 +149,7 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 
 - Rome IV based; Rome V (2026) modifies IBS criteria (frequency ≥3 days/month, discomfort re-added) — IBS-D rifaximin/alosetron evidence still strongest evidence base in field
 - Tegaserod re-approval is fragile (CV concerns); access varies
-- Eluxadoline–pancreatitis signal in post-cholecystectomy patients limits use
+- Eluxadoline: sphincter of Oddi spasm (0.5%) occurred only in patients without a gallbladder; pancreatitis in 0.4%
 - IBS criteria differ slightly between this 2020 ACG (Rome IV) and Rome V — update planned in next ACG cycle
 
 ## See Also

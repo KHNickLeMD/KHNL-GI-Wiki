@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (20
 category: source
 tags: [ibs-c, irritable-bowel-syndrome, secretagogues, linaclotide, tenapanor, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 IBS-C Pharm Mgmt.pdf"
 ---
@@ -47,7 +48,9 @@ Table 1 — Executive Summary of Recommendations (verbatim). *For all recommenda
 
 ## Clinical Relevance
 
-Linaclotide is the only strongly recommended agent for IBS-C; secretagogues (tenapanor, plecanatide, lubiprostone) and the prokinetic tegaserod are conditional alternatives, with TCAs for pain-predominant disease. Distinguish IBS-C from [[chronic-idiopathic-constipation]] (overlapping drugs, different targets).
+- Linaclotide = the only strong recommendation; every other agent is conditional — tenapanor, plecanatide, lubiprostone, tegaserod and PEG (IBS-C), TCAs and antispasmodics (IBS), and a conditional recommendation **against** SSRIs (IBS).
+- TCAs (Rec 7) apply to IBS generally: global relief met the clinically meaningful threshold; abdominal pain response did not.
+- FDA-approved IBS-C doses as stated in the text: tenapanor 50 mg twice daily; plecanatide 3 mg once daily; linaclotide 290 µg once daily (72 or 145 µg once daily for [[chronic-idiopathic-constipation|chronic idiopathic constipation (CIC)]]); tegaserod 6 mg twice daily.
 
 ---
 

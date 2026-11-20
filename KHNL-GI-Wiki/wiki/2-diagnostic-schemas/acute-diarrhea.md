@@ -275,7 +275,7 @@ The following features should prompt microbiologic assessment, consideration of 
 ### Antimotility Agents
 
 - **Loperamide:** Initial dose 4 mg orally, then 2 mg after each subsequently passed watery stool — **not to exceed 8 mg/day** for adult diarrhea therapy generally, or **16 mg per 24 h when combined with an antibiotic regimen for traveler's diarrhea (TD)**. Do not give for >48 h. Use the lowest effective dose (post-treatment constipation is the common complaint). Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
-  - Use with caution in proven bacterial inflammatory colitis (theoretical [[toxic-megacolon|toxic megacolon]] risk, though rare).
+  - Associated with toxic dilatation ([[toxic-megacolon|toxic megacolon]]) in bacterial inflammatory diarrhea — rare, and very unlikely when the colitis is also treated with antimicrobials.
   - **Do not use for STEC infection.**
 
 ### Bismuth Subsalicylate (BSS)
