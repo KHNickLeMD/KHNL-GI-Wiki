@@ -189,7 +189,7 @@ flowchart TD
 
 - **First-line test** for SBB after exclusion of upper/lower sources. *(Strong/Moderate)*
 - Evaluates 79–90% of small bowel; diagnostic yield 38–83% for suspected SBB.
-- Sensitivity 94–97%, specificity 83–100% for GI bleeding evaluation.
+- Positive predictive value (PPV) 94–97%, negative predictive value (NPV) 83–100%.
 - Negative predictive value (NPV) 83–100% (a negative VCE is reassuring).
 - **Timing:** VCE within 48–72 h of overt SBB has greatest yield; overt bleeding (60%) > occult (46%).
 - **VCE before DBE:** perform VCE first to guide targeted (VCE-guided) DBE, which raises diagnostic yield to 73–93% and therapeutic yield to 57–73%.
@@ -231,7 +231,7 @@ flowchart TD
 
 ### Tagged RBC Scintigraphy (⁹⁹ᵐTc-labeled RBCs)
 
-- Detects bleeding at 0.1–0.2 ml/min (lower threshold than angiography).
+- Detects bleeding as slow as 0.2 ml/min (CTA 0.3 ml/min; conventional angiography 0.5–1.0 ml/min).
 - Wide range of sensitivities (33–93%), specificities (30–95%), and localization accuracy (19–100%).
 - Use: overt bleeding with slower rates when VCE/DBE not available; guides timing of conventional angiography.
 - Must monitor closely — take patient to angiography when active bleeding detected at scintigraphy.
@@ -279,7 +279,7 @@ flowchart TD
 ### Endoscopic Therapy
 
 - **Indicated** when a source is found on VCE/deep enteroscopy with significant ongoing anemia or active bleeding. *(Strong/Low)*
-- Preferred modality: **[[argon-plasma-coagulation|argon plasma coagulation]] (APC)** via deep enteroscopy (since 2001).
+- Preferred modality: **[[argon-plasma-coagulation|argon plasma coagulation]] (APC)** — primarily used as the treatment of choice since 2001.
 - Rebleeding rate after endoscopic treatment of vascular SB lesions: 20–50% at medium-term follow-up (meta-analysis: pooled 34% at mean 22 months; 45% in subset with SB angioectasia only).
 
 ### Conservative Management (No Bleeding Source Found on Workup)
@@ -292,8 +292,8 @@ flowchart TD
 
 If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate)*
 
-- **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide long-acting release (LAR) 90 mg monthly or lanreotide intramuscular (IM) monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled randomized controlled trial (RCT) with hard endpoints. Age >65, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), and chronic renal failure are predictors of poor response.
-- **Thalidomide (antiangiogenic):** Open-label RCT — **25 mg four times daily (QID) × 4 months** vs iron 100 mg/day; entry criterion was **≥6 bleeding episodes** (immunoassay fecal occult blood test [FOBT]–positive), ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs 1/27 (4%)**, p<0.001. Adverse effects in 73% vs 34% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
+- **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide long-acting release (LAR) intramuscular (IM) monthly or lanreotide 90 mg monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements. Age >65, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), and chronic renal failure are predictors of poor response.
+- **Thalidomide (antiangiogenic):** Open-label randomized controlled trial (RCT) — **25 mg four times daily (QID) × 4 months** vs iron 100 mg/day; entry criterion was **≥6 bleeding episodes** (immunoassay fecal occult blood test [FOBT]–positive), ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs 1/27 (4%)**, p<0.001. Adverse effects in 73% vs 34% (fatigue, constipation, somnolence).
 - **Hormonal therapy (estrogen/progesterone):** NOT recommended — multicenter Spanish RCT showed no benefit vs. placebo. *(Evidence level: definitively resolved against)*
 - **Iron (oral or IV):** Standard supportive care regardless of other interventions.
 - **[[anticoagulation-gi-bleeding|Anticoagulation]]/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*

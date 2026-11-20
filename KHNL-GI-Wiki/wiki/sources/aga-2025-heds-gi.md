@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on GI Manifestations and Autonomic or Immun
 category: source
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, gastroparesis, motility, celiac-disease, pelvic-floor]
 created: 2026-06-27
-updated: 2026-11-17
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2025 CPU GI Manifestations in Hypermobile Ehlers-Danlos Syndrome.pdf"
 ---
@@ -22,9 +23,9 @@ AGA Clinical Practice Update describing the evaluation and management of gastroi
 
 **16 Best Practice Advice (BPA) statements.** The update states that systematic reviews were not performed and that the statements **do not carry formal ratings** of the quality of evidence or the strength of the considerations — there is no GRADE or equivalent scheme, and the document's own numbering (BPA 1–16) is used below. It carries one figure and two tables: **Figure 1** (Beighton scoring system, reproduced from the Ehlers-Danlos Society), **Table 1** (MCAS classification + consensus diagnostic criteria), **Table 2** (treatment considerations by symptom).
 
-The mechanistic link between hEDS/HSDs, POTS, and MCAS is theoretical and evolving (altered collagen/extracellular-matrix stiffness, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity, post-infectious dysautonomia including post–coronavirus disease 2019 [COVID-19]). The update stresses that POTS/MCAS testing should be targeted to clinical presentation, not applied universally. Gastroenterologists seeing DGBI patients should screen for joint hypermobility with the Beighton score and apply the 2017 hEDS diagnostic criteria (or refer). GI evaluation should otherwise mirror the general-population DGBI approach (positive symptom-based diagnosis, limited noninvasive testing), with select extras: earlier celiac testing, anorectal manometry/balloon expulsion/defecography for evacuation symptoms (high pelvic floor dysfunction prevalence, especially rectal hyposensitivity), and earlier gastric motor testing in those with coexisting POTS (abnormal gastric emptying may be more common).
+The mechanistic link between hEDS/HSDs, POTS, and MCAS is theoretical and evolving (altered collagen/extracellular-matrix stiffness, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity, post-infectious dysautonomia including post–coronavirus disease 2019 [COVID-19]). The update stresses that POTS/MCAS testing should be targeted to clinical presentation, not applied universally. Gastroenterologists seeing DGBI patients should ask about joint hypermobility and strongly consider the Beighton score as a screen; if positive, they may consider applying the 2017 hEDS diagnostic criteria (or refer). GI evaluation should otherwise mirror the general-population DGBI approach (positive symptom-based diagnosis, limited noninvasive testing), with select extras: earlier celiac testing, anorectal manometry/balloon expulsion/defecography for evacuation symptoms (high pelvic floor dysfunction prevalence, especially rectal hyposensitivity), and earlier gastric motor testing in those with coexisting POTS (abnormal gastric emptying may be more common).
 
-Management is largely supportive, symptom-focused, and multidisciplinary, following general DGBI/motility principles plus targeted treatment of POTS (fluid 2 L/d, salt 10 g/d, exercise training, compression garments, and — for non-responders — pharmacotherapy with fludrocortisone, midodrine, beta-blockers) and MCAS (nonsedating histamine H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or a leukotriene receptor antagonist second-line; trigger avoidance). Opioids should be avoided for chronic pain and never used specifically for abdominal pain. Diet (gastroparesis/small-particle diet for upper-GI–predominant symptoms; low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) or gluten/dairy-free for lower-GI; low-histamine) is used with nutritional counseling to avoid restrictive eating.
+Management is largely supportive, symptom-focused, and multidisciplinary, following general DGBI/motility principles plus targeted treatment of POTS (fluid 2 L/d, salt 10 g/d, exercise training, compression garments, and — for non-responders — pharmacotherapy with fludrocortisone, midodrine, beta-blockers) and MCAS (nonsedating histamine H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or a leukotriene receptor antagonist second-line; trigger avoidance). Opioids should be avoided for chronic pain and never used specifically for abdominal pain. Diet (gastroparesis/small-particle diet for upper-GI–predominant symptoms; low–fermentable carbohydrate or wheat-/gluten-free for lower-GI; elimination diets incl. gluten- or dairy-free and low-histamine per BPA 15) is used with nutritional counseling to avoid restrictive eating.
 
 ## Key Findings / Claims
 
@@ -57,9 +58,9 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 | Puberty up to age 50 | ≥5/9 |
 | ≥50 years | ≥4/9 |
 
-**2017 international consensus criteria for hEDS — all 3 required** (BPA 3 turns on these):
+**2017 international consensus criteria for hEDS — 3 major criteria** (BPA 3 turns on these):
 1. Generalized joint hypermobility by Beighton score (cutoffs above).
-2. **≥2 of 3** feature groups — other manifestations of a connective tissue disorder (soft/velvety skin, striae, or pelvic organ or [[rectal-prolapse|rectal prolapse]] in children, men, or nulliparous women) · family history · musculoskeletal complications (joint instability, widespread pain).
+2. **≥2 of 3** feature groups — other manifestations of a connective tissue disorder (e.g. soft/velvety skin, striae, or pelvic organ or [[rectal-prolapse|rectal prolapse]] in children, men, or nulliparous women) · family history · musculoskeletal complications (joint instability, widespread pain).
 3. **Absence** of unusual skin fragility; fragility should prompt exclusion of other EDS forms, other heritable and acquired connective tissue disorders, and other joint disorders involving hypotonia and/or connective tissue laxity.
 
 - **HSD** = pain + joint hypermobility that does not satisfy the full hEDS criteria.
@@ -70,7 +71,7 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 - Other symptoms: palpitations, tremulousness, lightheadedness, fatigue, blurred vision, generalized weakness; cognitive and bladder dysfunction are not uncommon.
 - GI symptoms in POTS: nausea, abdominal pain, vomiting, diarrhea, bloating, severe constipation — **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
 - Phenotypes: hypovolemic, neuropathic, primary hyperadrenergic.
-- Once POTS is confirmed: autonomic function testing (tilt table or sudomotor) plus expanded laboratory testing with autoantibodies.
+- When POTS is suspected: postural vital signs; consider referral for autonomic function testing (tilt table or sudomotor), plus expanded laboratory testing with autoantibodies if POTS is confirmed.
 
 **MCAS — criteria and thresholds** (BPA 5–7 turn on these). Table 1 gives the consensus criteria (A + B + C) and the primary/secondary/idiopathic classification; both are recreated on [[mast-cell-activation-syndrome|the MCAS page]]. In Table 1, primary (clonal) MCAS = most mast cells display CD25 **and** the *KIT* D816V mutation is detected.
 - **Mast-cell activation threshold:** serum tryptase rise from the individual's own baseline to **baseline + 20% + 2 ng/mL**, with samples drawn at baseline and **1–4 h after a symptom flare**.
@@ -81,7 +82,7 @@ Management is largely supportive, symptom-focused, and multidisciplinary, follow
 - POTS conservative measures: fluid **2 L/d**, salt **10 g/d**, exercise training, compression garments; more severely affected patients may need fludrocortisone, midodrine, or beta-blockers with integrated cardiology/neurology care.
 - MCAS: nonsedating H1 and H2 receptor antagonists first-line; oral cromolyn mast-cell stabilizers or leukotriene receptor antagonists second-line. Estimated antimediator response rates in MCAS of 75% and 82% for symptoms such as diarrhea and abdominal pain, respectively — no well-designed randomized trials; recommendations rest on expert opinion. The role of immunotherapy is under active study.
 - **Opioids:** avoid in chronic pain; opiates should not be used specifically to treat abdominal pain. Already-prescribed patients need a careful multidisciplinary approach with facilitation of cessation where possible.
-- Early brain-gut behavioral therapy / hypnotherapy where symptoms worsen with stress or coping is maladaptive.
+- Early referral for brain-gut hypnotherapy when symptoms worsen with stress **and** coping is maladaptive.
 - Pelvic floor symptoms are common — treat per general anorectal disorder principles.
 - Screen for weight loss and disordered eating; involve a dietitian. Severe symptoms with weight loss or dehydration despite optimal medical management may need parenteral fluid and/or enteral or parenteral nutrition as a stabilizing measure, delivered through a multidisciplinary model.
 

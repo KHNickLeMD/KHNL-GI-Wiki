@@ -3,14 +3,15 @@ title: "ACG 2015: Diagnosis and Management of Small Bowel Bleeding"
 category: source
 tags: [small-bowel, gi-bleeding, capsule-endoscopy, deep-enteroscopy, obscure-gi-bleeding, mid-gi-bleeding, angioectasia, vce, dbe]
 created: 2026-05-19
-updated: 2026-09-29
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ACG/ACG 2015 Diagnosis & Management of Small Bowel Bleeding.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton. ACG 2015: Diagnosis and Management of Small Bowel Bleeding. *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246.](https://doi.org/10.1038/ajg.2015.246)
+- **Article:** [Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton. ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246.](https://doi.org/10.1038/ajg.2015.246)
 - **Authors:** Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton
 - **Year:** 2015
 - **Journal/Publisher:** *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246
@@ -26,9 +27,9 @@ This guideline addresses the diagnosis and management of small bowel bleeding (S
 
 The guideline establishes a new terminology framework: "small bowel bleeding" applies when a source is found distal to the ampulla of Vater or proximal to the ileocecal valve; "potential small bowel bleeding" applies after normal upper and lower endoscopy but before capsule evaluation; and the term "obscure GI bleeding" is reserved only for cases where no source is found even after comprehensive small bowel evaluation. [[angioectasia|Angioectasia]] is the most common cause of SBB overall; lesion type is age-dependent ([[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] and [[meckels-diverticulum|Meckel's diverticulum]] predominate under age 40; angioectasia and nonsteroidal anti-inflammatory drug (NSAID) ulcers predominate over age 40).
 
-Diagnostically, VCE is endorsed as the first-line small bowel evaluation after excluding upper and lower sources, with computed tomography enterography (CTE) preferred over magnetic resonance enterography (MRE) for most patients and over conventional barium studies. Deep enteroscopy (double-balloon enteroscopy [DBE], single-balloon enteroscopy [SBE], or spiral enteroscopy) is the tool of choice when both endoscopic evaluation and therapy are required. Intraoperative enteroscopy (IOE) is reserved for refractory, multiply transfused patients who cannot undergo deep enteroscopy.
+Diagnostically, VCE is endorsed as the first-line small bowel evaluation after excluding upper and lower sources, with computed tomography enterography (CTE) preferred over magnetic resonance enterography (MRE) for most patients and over conventional barium studies. Deep enteroscopy (double-balloon enteroscopy [DBE], single-balloon enteroscopy [SBE], or spiral enteroscopy) is the tool of choice when both endoscopic evaluation and therapy are required. Intraoperative enteroscopy (IOE) is reserved for recurrent bleeding needing multiple transfusions or hospitalizations after a negative VCE and deep enteroscopy, or for patients in whom deep enteroscopy cannot be done without lysis of adhesions.
 
-Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is first-line when a bleeding source is found. Iron supplementation (oral or intravenous [IV]) is recommended when no source is identified. Medical options for refractory vascular lesions include somatostatin analogs (octreotide) and antiangiogenic therapy (thalidomide). Hormonal therapy has not been shown to be effective. Surgical intervention is a last resort, greatly aided by presurgical tattoo marking of the lesion.
+Therapeutically, endoscopic therapy is recommended for a small bowel source associated with significant ongoing anemia or active bleeding; a small vascular lesion on capsule does not always need treatment. Iron supplementation (oral or intravenous [IV]) is recommended when no source is identified. Medical options for refractory vascular lesions include somatostatin analogs (octreotide) and antiangiogenic therapy (thalidomide). Hormonal therapy has not been shown to be effective. Surgical intervention is a last resort, greatly aided by presurgical tattoo marking of the lesion.
 
 ---
 
@@ -137,14 +138,12 @@ The choice among angiography, CTA and scintigraphy is a threshold decision, and 
 | **Conventional angiography** | **0.5–1.0 ml/min** |
 | **⁹⁹ᵐTc tagged–red blood cell (RBC) scintigraphy** | **0.2 ml/min** |
 
-Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bottom of this range — i.e. below what CTA or catheter angiography will see, which is why scintigraphy is the test named there.
-
 **Predictors of a positive VCE**
 
 - Hemoglobin (Hgb) <10 g/dl; bleeding duration >6 months; more than one bleeding episode.
 - **Overt vs. occult bleeding: 60% vs. 46%.**
 - **VCE within 2 weeks of the bleeding episode: 91% vs. 34%.**
-- Also independent predictors: male sex, age >60 y, inpatient status; cardiac and renal comorbidities.
+- Also independent predictors: male sex, age >60 y, inpatient status. Cardiac and renal comorbidities listed as other risk factors.
 
 **Timing and Sequencing**
 
@@ -165,7 +164,7 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 - **Somatostatin analogs (octreotide)** — the guideline prints the protocol from the largest series (n=98, retrospective): **octreotide 100 µg subcutaneously three times daily for 1 month; at 2 weeks, depot 20 mg monthly for 6 months.** Reduced transfusion requirements over a mean 78-month follow-up — 40% complete responders, 32% partial, 26% non-responders. Independent predictors of poor outcome: age >65 y, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), chronic renal failure. A meta-analysis "confirms the value of octreotide and its analogs."
 - **Thalidomide** — randomized **open-label** controlled trial, in patients with **≥6 bleeding episodes**: **thalidomide 25 mg four times daily vs. iron 100 mg daily for 4 months**, ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs. 1/27 (4%), p<0.001**. Adverse events (fatigue, constipation, somnolence) in **73%** vs. 34% on iron. A separate 2012 study used **200 mg daily for 4 months** with response in 9/12 (75%); mean Hgb rose 6.5 → 12.1 g/dl, 3 patients withdrawn for side effects.
 - Hormonal therapy: multicenter randomized controlled trial (RCT) showed no benefit vs. placebo; not recommended.
-- Surgical therapy: generally last resort; right hemicolectomy historically for right-sided diverticulosis; modern approach combines IOE + angiographic localization + intraoperative tattooing.
+- Surgical therapy: generally last resort; right hemicolectomy historically for right-sided diverticulosis; surgery guided by IOE where possible, or by VCE, deep enteroscopy and/or angiographic techniques (e.g. methylene blue injected via the angiographic catheter at laparotomy); presurgical tattoo aids localization.
 
 ---
 
@@ -187,8 +186,8 @@ Recommendation 18's "slower rates of bleeding (0.1–0.2 ml/min)" sits at the bo
 - **Celiac disease and SBB:** Prior guidelines listed celiac disease as a cause of SBB; this 2015 guideline explicitly removes it, citing evidence that celiac-associated IDA is from malabsorption rather than occult hemorrhage. The [[celiac-disease]] page does not currently address this distinction — update recommended.
 - **Hormonal therapy:** Pre-capsule era data (small Belgian RCT) suggested 78% reduction in transfusion with ethinyl estradiol + norethisterone, but the multicenter Spanish RCT found no benefit; this is definitively resolved against hormonal therapy.
 - **Anticoagulation discontinuation:** The guideline recommends stopping anticoagulation "if possible" but acknowledges no prospective data show benefit from withdrawal — contrast with [[anticoagulation-gi-bleeding]] page which may have more nuanced 2022 data.
-- **Thalidomide:** Effective in RCT but adverse effect profile is significant; not FDA-approved for this indication (off-label); no long-term data.
-- **Urgent vs. elective deep enteroscopy:** Evidence suggests urgent DBE is better than non-urgent DBE for overt bleeding (lower recurrent bleeding rate), but the guideline does not include a specific recommendation on timing of DBE relative to VCE for acute overt SBB.
+- **Thalidomide:** Effective in RCT but adverse effect profile is significant.
+- **Urgent vs. elective deep enteroscopy:** Evidence suggests urgent DBE is better than non-urgent DBE for overt bleeding (lower recurrent bleeding rate); Rec 10: VCE before deep enteroscopy, with initial deep enteroscopy considered in massive hemorrhage or when VCE is contraindicated.
 
 ## See Also
 

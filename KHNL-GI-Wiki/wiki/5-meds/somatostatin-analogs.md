@@ -67,7 +67,7 @@ For persistent/recurrent [[small-bowel-bleeding]] from [[angioectasia]] when the
 
 | Regimen (as studied) | Detail |
 |---|---|
-| Depot **octreotide LAR IM monthly** *or* **lanreotide 90 mg monthly** | Refractory bleeding defined as **>5 U blood within 3 months** after conventional treatment; given for a **mean of 12 months (range 6–36)**. Transfusions fell to 2 U (0–14) vs 10 U (6–24) pre-treatment (*P*<0.001); patients with a bleeding episode 20% vs 73% (*P*=0.001). |
+| Depot **octreotide LAR IM monthly** *or* **lanreotide 90 mg monthly** | Refractory bleeding defined as **>5 U blood within 3 months** after conventional treatment; given for a **mean of 12 months (range 6–36)**. Transfusion requirement fell to 2 (0–14) vs 10 (6–24) pre-treatment (*P*<0.001); patients with a bleeding episode 20% vs 73% (*P*=0.001). |
 | **Octreotide 100 mcg SC TID × 1 month**, with depot **20 mg monthly × 6 months** started **at 2 weeks** | Retrospective, n=98, mean follow-up 78 months: 40% complete responders, 32% partial, 26% non-responders; transfusion requirements fell. |
 
 - **Poor-response predictors** (multivariate): age >65, male sex, antiplatelet therapy, chronic obstructive pulmonary disease (COPD), chronic renal failure.

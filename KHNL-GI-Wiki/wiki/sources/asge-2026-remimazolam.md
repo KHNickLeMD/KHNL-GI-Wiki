@@ -3,23 +3,24 @@ title: "Role of Remimazolam in Gastrointestinal Endoscopy: American Society for 
 category: source
 tags: [remimazolam, sedation, endoscopy-sedation, benzodiazepine, propofol, midazolam, flumazenil, asge]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2026 CPU Remimazolam in GI Endoscopy (Ramai).pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** Ramai D, Hollmann MW, Sen S, et al.; ASGE Standards of Practice Committee. Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update. *Gastrointestinal Endoscopy* 2026;■:1-9 (article in press).
+- **Article:** [Ramai D, Hollmann MW, Sen S, et al.; ASGE Standards of Practice Committee. Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update.](https://doi.org/10.1016/j.gie.2026.08.019) *Gastrointestinal Endoscopy* 2026;■:1-9 (article in press).
 - **Authors:** Daryl Ramai, Markus W. Hollmann, Sudipta Sen, Faisal Ali, Sara Ghoneim, Sydney Greenberg, Sunil Gupta, Manol Jovani, Calvin Lee, Jorge D. Machicado, Jared Magee, Sultan Mahmood, Guillermo A. Ortiz, Michael D. Rice, Monica Saumoy, Sumit K. Singla, Christopher W. Teshima, Nirav C. Thosani (Chair)
 - **Year:** 2026
 - **Journal/Publisher:** *Gastrointestinal Endoscopy* (Elsevier) — American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice Committee
-- **DOI:** not printed on this article-in-press copy — no link is given here rather than a guessed one. Page numbers are likewise unassigned (the document carries the publisher's `■` placeholders for volume, issue and pages).
+- **DOI:** [10.1016/j.gie.2026.08.019](https://doi.org/10.1016/j.gie.2026.08.019). Page numbers are unassigned (the document carries the publisher's `■` placeholders for volume, issue and pages).
 - **Type:** guideline (ASGE clinical practice update)
 
 ## Summary
 
-The first ASGE document to address **remimazolam**, an ultra-short-acting benzodiazepine approved by the US Food and Drug Administration in **July 2020** for procedural sedation of **30 minutes or less**. The previous ASGE sedation guideline (2018) predates the drug and covers only midazolam and propofol, so this update exists to tell US endoscopists how remimazolam fits into existing moderate-sedation practice.
+An ASGE clinical practice update on **remimazolam**, an ultra-short-acting benzodiazepine approved by the US Food and Drug Administration in **July 2020** for procedural sedation of **30 minutes or less**. The previous ASGE sedation guideline (2018) predates the drug and covers only midazolam and propofol, so this update exists to tell US endoscopists how remimazolam fits into existing moderate-sedation practice.
 
 The pharmacologic case is organ-independent metabolism: remimazolam is hydrolysed by **tissue esterases** rather than the liver or kidney, giving **onset in 1–3.5 minutes**, a **half-life of 0.6–0.9 hours**, and predictable recovery. It acts by positive allosteric modulation of the γ-aminobutyric acid type A receptor and is **minimally analgesic**, so an opioid is normally added. Because it is given as **intermittent intravenous boluses** rather than by infusion pump, it can be administered by the existing sedation-monitoring nurse with standard IV access — no additional staff or infusion equipment beyond current moderate-sedation models.
 
@@ -46,8 +47,8 @@ The committee is careful about scope: this is guidance on remimazolam **within m
 | Setting | Induction | Supplemental | Notes |
 |---|---|---|---|
 | Standard (ASA I–II) | **5 mg IV** | **2.5 mg every ≥2 min**, titrated to target depth | Intermittent boluses, not an infusion pump — no dedicated staff or pump needed |
-| Elderly, frail, ASA III–IV, end-stage liver disease | **2.5–3 mg** | **1–2 mg** at **≥2- to 3-minute** intervals | "Lower initial doses... with correspondingly reduced supplemental doses" |
-| Elderly (≥60), from the meta-analysis | **0.10–0.2 mg/kg** across studies | — | May require lower effective doses depending on opioid adjunct |
+| Elderly, frail, ASA III–IV, end-stage liver disease | **2.5–3 mg** "might be considered" | reduced, e.g. **1–2 mg**, at **≥2- to 3-minute** intervals | "Lower initial doses... with correspondingly reduced supplemental doses" |
+| Elderly (≥60), from the meta-analysis | dose range across studies **0.10–0.2 mg/kg** (not labelled induction vs supplemental) | — | May require lower effective doses depending on opioid adjunct |
 | Continuous infusion (alternative strategy) | bolus **0.075–0.10 mg/kg** | infusion from **~0.5 mg/kg/h**, titrated up to **1 mg/kg/h**, with supplemental **1–4 mg** boluses | Dutch prospective registry, predominantly ASA I–II; smoother depth, fewer repeated boluses |
 
 - **No absolute maximum dose exists**, but **most endoscopic procedures require 10 to 15 mg total**.
@@ -99,15 +100,15 @@ The committee is careful about scope: this is guidance on remimazolam **within m
 
 ### Special populations and contraindications
 
-- **Elderly (>60 y):** meta-analysis of 7 RCTs — sedation success comparable to propofol with **fewer cardiorespiratory adverse events**; significantly lower risk of **bradycardia** (*P* = .02), **hypoxemia** (*P* < .00001) and **injection-site pain** (*P* < .00001). Onset slower than propofol, recovery similar.
+- **Elderly (≥60 y):** meta-analysis of 7 RCTs — sedation success comparable to propofol with **fewer cardiorespiratory adverse events**; significantly lower risk of **bradycardia** (*P* = .02), **hypoxemia** (*P* < .00001) and **injection-site pain** (*P* < .00001). Onset slower than propofol, recovery similar.
 - **Renal impairment:** **no dose adjustment needed.** Plasma clearance and peak concentrations are comparable to healthy individuals because metabolism is by tissue esterases. The inactive metabolite **CNS7054** has a longer half-life in renal dysfunction but this does not affect sedation quality or recovery; effective sedation is documented in chronic kidney disease and kidney transplant patients.
 - **Contraindicated:** **hypersensitivity to remimazolam, other benzodiazepines, or dextran 40** — risk of serious allergic reactions including anaphylaxis.
 - **Pregnancy and lactation:** **avoid.** Remimazolam crosses the placenta (neonatal sedation/withdrawal risk) and is excreted into breast milk; it is **not explicitly approved for use in pregnancy** and safety data are lacking.
 
-### Periprocedural care (restated from ASGE 2018 within this document)
+### Periprocedural care (restated within this document)
 
-- **Fasting: at least 2 hours after clear liquids and 6 hours after a light meal.** With impaired gastric emptying, ongoing glucagon-like peptide-1 agonist use, or an emergency in a patient who has not been nil per os — weigh the risks and consider delaying, adjusting sedation, or securing the airway by endotracheal intubation.
-- **Monitoring minimum:** noninvasive blood pressure, heart rate, pulse oximetry, visual assessment of ventilation and consciousness. Electrocardiogram for cardiovascular disease and in elderly/high-risk cases. **Capnography should be considered for patients targeting deep sedation.** Document level of consciousness and vital signs **before sedation, after drug administration, every 5 minutes during, in early recovery, and again before discharge**, with alarms set for critical changes.
+- **Fasting (citing ASGE 2018): at least 2 hours after clear liquids and 6 hours after a light meal.** Citing the ASGE 2025 GLP-1 position statement: with impaired gastric emptying, ongoing glucagon-like peptide-1 agonist use, or an emergency in a patient who has not been nil per os — weigh the risks and consider delaying, adjusting sedation, or securing the airway by endotracheal intubation.
+- **Monitoring minimum:** noninvasive blood pressure, heart rate, pulse oximetry, visual assessment of ventilation and consciousness. Electrocardiogram **recommended** with cardiovascular disease and **considered** in elderly or high-risk cases. **Capnography should be considered for patients targeting deep sedation.** Document level of consciousness and vital signs **before sedation, after drug administration, every 5 minutes during, in early recovery, and again before discharge**, with alarms set for critical changes.
 - **Pulse oximetry is required for all sedated procedures; supplemental oxygen strongly advised for moderate sedation and mandatory for deep sedation**, particularly at risk of hypoxia. Escalate promptly if a patient desaturates despite supplemental oxygen — the available safety window may be limited.
 - Preprocedural evaluation covers sleep apnea history, allergies, medications, prior reactions, last oral intake, substance use, focused vitals/heart/lung/airway examination, baseline consciousness, and **pregnancy testing in women of childbearing age**. Stratify risk by ASA class.
 
@@ -131,8 +132,8 @@ The committee is careful about scope: this is guidance on remimazolam **within m
 
 ## Contradictions / Open Questions
 
-- **Does not supersede [[asge-2018-sedation]]; it extends it.** The 2018 guideline's monitoring, fasting, airway and discharge framework is restated here unchanged. The update adds an agent the older document does not mention, and explicitly states it is **not** guidance on replacing anesthesiologist-administered propofol.
-- **Propofol remains marginally superior for sedation success and induction speed** (RR 0.99, *P* = .01; induction 8.64 s slower with remimazolam) — the document does not claim otherwise, and frames the choice as trading ~1% sedation success for roughly half the cardiorespiratory adverse events.
+- **Does not supersede [[asge-2018-sedation]]; it extends it.** The 2018 guideline's monitoring, fasting, airway and discharge framework is restated here (GLP-1 fasting caveat cites the ASGE 2025 position statement). The update adds an agent the older document does not mention, and explicitly states it is **not** guidance on replacing anesthesiologist-administered propofol.
+- **Propofol remains marginally superior for sedation success and induction speed** (RR 0.99, *P* = .01; induction 8.64 s slower with remimazolam) — the document does not claim otherwise, and frames the choice as trading ~1% sedation success for fewer cardiorespiratory adverse events.
 - **Evidence is ungraded and largely non-Western**, with no de novo meta-analysis and no formal risk-of-bias assessment performed by the committee.
 - **Gaps the document names:** no data in **small-bowel enteroscopy**; limited data in **therapeutic EUS** (biliary drainage, gastroenterostomy, gallbladder drainage, pancreatic fluid collection drainage) and in **prolonged or complex biliary and pancreatic interventions** needing deeper sedation; limited data in **cirrhosis**, including decompensated liver disease, acute-on-chronic liver failure and hepatic encephalopathy, which may differ pharmacokinetically from the hepatic-impairment cohorts studied; and no adequate study of difficult-to-sedate populations — **substance use disorders, marked obesity, obstructive sleep apnea, multiple psychoactive medications** — where the document says sedative choice should continue to rely on individualized clinical judgment.
 - **No US cost-effectiveness data exist**, and the document calls for pragmatic studies with cost analyses to justify the price.

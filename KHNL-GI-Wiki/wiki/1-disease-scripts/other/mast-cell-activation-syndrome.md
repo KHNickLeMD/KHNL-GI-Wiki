@@ -127,7 +127,7 @@ flowchart TD
 ### Diet
 
 - **Low-histamine diet** is the MCAS-specific option, recommended on clinical experience; **formal studies are absent**. Low-gluten and low-dairy diets are likewise recommended on experience alone.
-- Where GI symptoms predominate, standard DGBI dietary therapy applies — low fermentable oligosaccharide, disaccharide, monosaccharide and polyol (FODMAP), wheat- or gluten-free, or dairy-free for lower-GI symptoms.
+- Where GI symptoms predominate, standard DGBI dietary therapy applies — low fermentable oligosaccharide, disaccharide, monosaccharide and polyol (FODMAP), or wheat- or gluten-free for lower-GI symptoms.
 - Deliver every diet with **nutritional counseling** to avoid the pitfalls of restrictive eating; screen for weight loss and disordered eating and involve a dietitian (BPA 15).
 
 ---

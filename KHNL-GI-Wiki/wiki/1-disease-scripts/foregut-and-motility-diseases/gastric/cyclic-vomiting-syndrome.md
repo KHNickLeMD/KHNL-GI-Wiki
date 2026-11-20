@@ -74,7 +74,7 @@ Four phases — recognizing the phase guides treatment ([[aga-2024-cvs]]):
 - **Triggers** (migraine-like): stress (70–80%; positive *and* negative events), sleep deprivation, menses, travel/motion, infection/surgery; less often fasting or intense exercise.
 - **Hot-water bathing/showering** relieves ~48% of *non-cannabis* users → **not specific for CHS**.
 - Self-induced vomiting/large water intake is self-soothing — not malingering.
-- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), [[postural-orthostatic-tachycardia-syndrome|postural orthostatic tachycardia syndrome (POTS)]]/autonomic imbalance. Treating anxiety or POTS improves CVS outcomes.
+- **Comorbidities** (support the diagnosis, guide management): mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), [[postural-orthostatic-tachycardia-syndrome|postural orthostatic tachycardia syndrome (POTS)]]/autonomic imbalance. Treating anxiety may reduce episode frequency and inter-episodic nausea; treating POTS may improve overall functional status.
 
 ## Differential Diagnosis
 
@@ -119,7 +119,7 @@ Goal: lengthen the inter-episodic phase and/or reduce emetic severity.
 
 ### Abortive Therapy (all severities)
 
-Highest abort probability when taken **early in the prodrome**. **Nearly all patients need 2-agent combinations** (typically triptan + antiemetic).
+Highest abort probability when taken **early in the prodrome**. **Nearly all patients need combinations of ≥2 agents** (typically triptan + antiemetic).
 
 - **Triptans:** sumatriptan **20 mg intranasal** (head-forward) or **6 mg subcutaneous (SC)**; may repeat ×1 at 2 h, **max 2 doses/24 h**. Contraindicated in ischemic heart disease, stroke, peripheral vascular disease (PVD), uncontrolled hypertension (HTN), pregnancy.
 - **Antiemetics** (all dosed **during the episode**):

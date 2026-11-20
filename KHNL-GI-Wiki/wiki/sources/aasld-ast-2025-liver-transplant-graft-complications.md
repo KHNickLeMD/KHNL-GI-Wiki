@@ -3,7 +3,8 @@ title: "AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Di
 category: source
 tags: [liver-transplant, liver-transplantation, graft-complications, immunosuppression, rejection, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, tacrolimus, mtor-inhibitor, aasld, ast, guidelines, 2025]
 created: 2026-05-25
-updated: 2026-11-16
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AASLD/AASLD AST 2025 Liver Transplant Graft Complications.pdf"
 ---
@@ -22,7 +23,7 @@ raw: "GI Guidelines/AASLD/AASLD AST 2025 Liver Transplant Graft Complications.pd
 
 ## Summary
 
-This 2025 American Association for the Study of Liver Diseases (AASLD)/American Society of Transplantation (AST) Practice Guideline is a comprehensive, evidence-based update to the 2012 AASLD/AST long-term management guideline. It encompasses early and late post-transplant management of adult [[liver-transplantation|liver transplant]] (LT) recipients, focusing specifically on graft-related complications. A multidisciplinary writing group reviewed literature from January 2016 to September 2024, identifying 175 studies informing 57 graded recommendations across six major domains: surgical considerations (living donor and donation after circulatory death [DCD] grafts, machine perfusion), early allograft dysfunction, technical graft complications (vascular and biliary), immunosuppression (induction, maintenance, monitoring, and withdrawal), graft rejection, and recurrent disease ([[alcohol-associated-liver-disease|alcohol-associated liver disease]], [[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]], and immune-mediated liver diseases).
+This 2025 American Association for the Study of Liver Diseases (AASLD)/American Society of Transplantation (AST) Practice Guideline is a comprehensive, evidence-based update to the 2012 AASLD/AST long-term management guideline. It encompasses early and late post-transplant management of adult [[liver-transplantation|liver transplant]] (LT) recipients, focusing specifically on graft-related complications. A multidisciplinary writing group reviewed literature from January 2016 to September 2024, identifying 175 studies informing 77 graded guideline statements across six major domains: surgical considerations (living donor and donation after circulatory death [DCD] grafts, machine perfusion), early allograft dysfunction, technical graft complications (vascular and biliary), immunosuppression (induction, maintenance, monitoring, and withdrawal), graft rejection, and recurrent disease (viral hepatitis, [[alcohol-associated-liver-disease|alcohol-associated liver disease]], [[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]], and immune-mediated liver diseases).
 
 Major advances since 2012 include the widespread adoption of machine perfusion and normothermic regional perfusion (NRP) for organ preservation — particularly for extended-criteria and DCD grafts — which significantly reduce early allograft dysfunction (EAD), biliary complications, and improve graft survival. The guideline formalizes evidence supporting hypothermic machine perfusion (HMP) and normothermic machine perfusion (NMP) as preferred strategies over static cold storage for high-risk donors. DCD utilization has expanded from 4.7% to 15.4% of US LTs between 2013 and 2023, enabled largely by machine perfusion technology.
 
@@ -37,7 +38,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Living donor liver transplantation (LDLT) has comparable long-term graft/patient survival to deceased donor liver transplantation (DDLT) but higher biliary and vascular complication rates; meta-analysis (n=38,563) shows biliary complication odds ratio (OR) 2.23 (p<0.001) and vascular complication OR 2.0 (p=0.001) with LDLT vs. DDLT
 - DCD LTs using machine perfusion or NRP have comparable 1-year graft/patient survival to donation after brain death (DBD) LTs at experienced programs
 - Static cold storage DCD grafts carry higher risk of EAD and ischemic cholangiopathy vs. DBD; mitigated by machine perfusion/NRP
-- HMP and NMP consistently reduce EAD in 5 meta-analyses; also reduce non-anastomotic [[biliary-stricture|biliary strictures]], acute cellular rejection, and improve 1-year graft survival
+- HMP and NMP consistently reduce EAD in 5 meta-analyses; machine perfusion also reduces non-anastomotic [[biliary-stricture|biliary strictures]] (most studies) and acute cellular rejection vs static cold storage; 1-year graft and patient survival improved with HMP (no data on long-term survival) (p. 448)
 - NRP reduces EAD in DCD allografts and may reduce non-anastomotic biliary strictures
 
 **Early Allograft Dysfunction**
@@ -59,26 +60,29 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Anti-thymocyte globulin (ATG) is not recommended as induction — higher mortality and graft failure vs. corticosteroids
 - Steroid-free IS cannot be routinely recommended: higher BPAR, steroid-resistant rejection, decreased GFR vs. steroid-based IS
 - Tacrolimus monotherapy feasible at 3 months post-LT in low-rejection-risk patients; extended-release tacrolimus (TAC) equivalent to twice-daily formulation
-- TAC + mycophenolate mofetil (MMF) or mTOR inhibitor combination reduces CNI exposure; improves GFR vs. TAC monotherapy when renal dysfunction present
+- TAC + mycophenolate mofetil (MMF) or mTOR inhibitor combination reduces TAC exposure; vs standard-dose TAC, MMF + reduced-dose TAC improves renal function without increasing graft rejection (p. 458)
 - mTOR inhibitor (sirolimus [SRL] or everolimus [EVL]) addition/conversion in CNI nephrotoxicity: best implemented at ~3 months post-LT; EVL has strongest evidence for GFR improvement
-- mTOR inhibitors in HCC recipients: SRL improves 3-year recurrence-free survival (RFS) for recipients within Milan criteria (relative risk [RR] 0.67, 95% confidence interval [CI] 0.56–0.82); EVL benefit less compelling
+- mTOR inhibitors in HCC recipients (meta-analysis of 17 observational studies + 6 randomized controlled trials [RCTs], p. 460): fewer recurrences overall (relative risk [RR] 0.67, 95% confidence interval [CI] 0.56–0.82); 3-year recurrence-free survival (RFS) benefit within Milan criteria (RR 1.13, 95% CI 1.03–1.23), none outside Milan (RR 0.95, 95% CI 0.83–1.1); RFS and survival slightly better with SRL-based therapy; data for EVL less compelling
 - Protocol liver biopsy not recommended in routine stable recipients; transient elastography evidence insufficient for routine use
-- Complete IS withdrawal not routinely recommended; operational tolerance achievable in 7%/year but no reliable predictors
+- Complete IS withdrawal not routinely recommended; likelihood of operational tolerance increased by 7% (95% CI 4%–10%) per year after LT (meta-analysis, 15 studies, n=620; p. 462), but no reliable predictors of withdrawal success
 
 **Graft Rejection**
 
 - Mild TCMR: augment IS ± switch cyclosporine to tacrolimus; 60–90% respond to high-dose intravenous (IV) corticosteroids for moderate/severe acute TCMR
 - Late TCMR associated with lower graft survival and ductopenic rejection when poorly responsive
-- PCR (plasma cell-rich rejection): treat with corticosteroids + augmented IS + antimetabolite ± low-dose maintenance prednisone (5–10 mg/day)
-- AMR: diagnosed by C4d deposition, donor-specific antibodies, histologic features, and graft dysfunction; management includes plasmapheresis, intravenous immunoglobulin (IVIG), rituximab, bortezomib
+- PCR (plasma cell-rich rejection): corticosteroids + augmented IS, followed by *consideration of* an antimetabolite and/or low-dose maintenance corticosteroid (eg, prednisone 5–10 mg daily) (Rec 40)
+- Acute AMR: suspect with unexplained graft dysfunction, thrombocytopenia, hypocomplementemia; donor-specific antibody (DSA) testing + biopsy with C4d staining (Rec 47); C4d staining of portal vein, capillaries and sinusoidal endothelial cells is most specific for acute AMR (p. 470)
+- Acute AMR treatment: initial = high-dose corticosteroids + augmented IS ± an immunosuppressant from a different class (Rec 48); intravenous immunoglobulin (IVIG) + plasma exchange ± anti-CD20 agents only for disease refractory to initial therapy (Rec 49, Weak); rituximab, bortezomib and/or eculizumab have been used for non-responders, but efficacy and safety data are lacking (p. 470)
+- Chronic AMR: insufficient data to recommend anti-CD20, proteasome therapy, plasma exchange or IVIG (Rec 52)
 
 **Recurrent Disease**
 
-- Recurrent ALD: sustained alcohol use screening required; addiction consultation and behavioral therapy recommended; pharmacotherapy with naltrexone or acamprosate; re-LT considered selectively for alcohol relapse with graft failure
-- Recurrent MASLD: lifestyle modification, weight management, and control of metabolic risk factors; MASLD is now the leading indication for re-LT in some series
-- Recurrent AIH: maintain azathioprine + low-dose corticosteroids; MMF as second-line; re-LT for graft failure
-- Recurrent PBC: ursodeoxycholic acid (UDCA) treatment for recurrent PBC post-LT; obeticholic acid as second-line option; re-LT for graft failure
-- Recurrent PSC: no proven pharmacotherapy; manage dominant strictures endoscopically/percutaneously; annual [[colonoscopy]] in PSC+[[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]; re-LT for graft failure
+- Recurrent ALD: regular alcohol-use monitoring in at-risk recipients recommended (Rec 75); five-year post-LT relapse rates 20%–50% (p. 479); serum phosphatidylethanol (PEth) has high sensitivity/specificity and a 2–4 week detection window; proposed testing for high-risk recipients = PEth every 3 months for 2 years (p. 479); alcohol use disorder (AUD) medications not well studied after LT, use can be considered within multidisciplinary care (Rec 76); multidisciplinary approach recommended (Rec 77)
+- Recurrent MASLD/metabolic dysfunction–associated steatohepatitis (MASH): MASH recipients have similar outcomes up to 10 years (Rec 72); avoid corticosteroids beyond 3–6 months (Rec 73); consider lowering CNI exposure ± MMF (Rec 74); MMF is the only agent not associated with metabolic syndrome (p. 478); management of recurrent MASLD is deferred to the forthcoming AASLD guideline on non-graft-related complications (p. 477)
+- Recurrent AIH: do not maintain long-term corticosteroids to prevent recurrence (Rec 67); antimetabolites cannot be routinely recommended for prevention (Rec 68); recurrent AIH is treated with corticosteroids and azathioprine or MMF (p. 476)
+- Recurrent PBC: cyclosporine in place of tacrolimus to lower recurrence risk not recommended (rejection risk) (Rec 69); prophylactic ursodeoxycholic acid (UDCA) may be considered (Rec 70); recurrent PBC should be treated with UDCA; safety and efficacy of second-line elafibranor or seladelpar for recurrent PBC are not known (p. 477)
+- Recurrent PSC: individualize the IS regimen (Rec 71); TCMR and multiple TCMR episodes associated with recurrent PSC; colectomy before LT protective; moderate-to-severe [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] activity after LT carries higher risk in one study; no specific effective medical therapy, including ursodiol, as prophylaxis or treatment (p. 477)
+- Recurrence frequency and diagnostic criteria for AIH (17%–50%), PBC (17%–53%) and PSC (10%–37%): Table 9 (p. 476)
 
 ## Recommendations
 
@@ -141,48 +145,65 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 | 55. Since high donor-specific antibodies are not always associated with graft complications, and mean fluorescence intensity thresholds and measurement techniques have not been standardized, routine pre-transplant donor-specific antibody testing for all adult liver transplant candidates cannot be recommended. | Weak | Level 3 |
 | 56. In adult liver transplant recipients, the performance of serial measurement of donor-specific antibodies can be individualized in the setting of verified or suspected antibody-mediated rejection that is being treated or monitored. | Weak | Level 4 |
 | 57. In adult liver transplant recipients who are hepatitis B surface antigen-negative and who receive anti-hepatitis B core-positive grafts, first-line prophylaxis with either entecavir, tenofovir disoproxil, or tenofovir alafenamide should be administered indefinitely to prevent reactivation. | Strong | Level 3 |
+| 58. In all adult liver transplant recipients with hepatitis B infection, first-line nucleos(t)ide analogue should be administered to prevent recurrent hepatitis B infection post-liver transplant. | Strong | Level 3 |
+| 59. In adult liver transplant recipients with hepatitis B infection alone, adding hepatitis B immunoglobulin to first-line nucleos(t)ide analogue therapy post-liver transplant should be individualized: low-risk recipients receive hepatitis B immunoglobulin for a short term or not at all; high-risk recipients receive longer-term hepatitis B immunoglobulin. | Strong | Level 2 |
+| 60. In all adult liver transplant recipients with hepatitis B and hepatitis D co-infection, hepatitis B immunoglobulin should be given in addition to first-line nucleos(t)ide analogue. | Strong | Level 4 |
+| 61. In adult liver transplant recipients without hepatitis B infection, hepatitis B surface antigen-positive grafts may be considered for use with first-line nucleos(t)ide analogue therapy to suppress viremia, with or without hepatitis B immunoglobulin, after a thorough discussion of risks and benefits between the candidate and the transplant team. | Weak | Level 4 |
+| 62. In adult liver transplant recipients with chronic hepatitis C infection who receive hepatitis C-viremic grafts, direct-acting antiviral treatment should be started post-transplant for 12 weeks without ribavirin, preferably as soon as stabilized from the surgical procedure and within the first 3 months. | Strong | Level 3 |
+| 63. In adult liver transplant recipients who have hepatitis C viremia and receive a hepatitis C-viremic graft, hepatitis C genotyping should be performed if not treated with pan-genotypic direct-acting antiviral therapy, because the genotype may change from the hepatitis C donor. | Strong | Level 3 |
+| 64. In adult liver transplant recipients being treated with direct-acting antiviral therapy, potential drug interactions with calcineurin inhibitors and other medications should be assessed and monitored during and after treatment. | Strong | Level 3 |
+| 65. In adult liver transplant recipients without hepatitis C infection who receive a hepatitis C-viremic graft, pan-genotypic direct-acting antiviral therapy should be started as soon as the patient is stabilized from the surgical procedure. | Strong | Level 3 |
+| 66. In adult liver transplant recipients without hepatitis C infection who receive an anti-hepatitis C-positive, nucleic acid test-negative graft, transmission of hepatitis C is <10% and monitoring of hepatitis C RNA testing with a reactive strategy is appropriate. | Strong | Level 4 |
+| 67. Adult liver transplant recipients should not be maintained on long-term corticosteroids to prevent recurrent autoimmune hepatitis. | Strong | Level 3 |
+| 68. Given insufficient data, the use of antimetabolites to prevent recurrent disease in adult liver transplant recipients transplanted for autoimmune hepatitis cannot be routinely recommended. | Weak | Level 3 |
+| 69. Cyclosporine-based immunosuppression in place of tacrolimus-based immunosuppression to lower the risk of recurrent primary biliary cholangitis is not recommended, due to concerns for a higher risk of graft rejection. | Strong | Level 3 |
+| 70. In adult liver transplant recipients, prophylactic use of ursodeoxycholic acid may be considered to prevent recurrent primary biliary cholangitis. | Weak | Level 3 |
+| 71. Due to insufficient data, the choice of immunosuppressive regimen in adult liver transplant recipients transplanted for primary sclerosing cholangitis should be individualized. | Strong | Level 4 |
+| 72. Liver transplantation should be considered for adult patients with metabolic dysfunction–associated steatohepatitis, as they have similar post-transplant outcomes as patients without metabolic dysfunction–associated steatohepatitis, up to 10 years. | Strong | Level 2 |
+| 73. Corticosteroids beyond 3–6 months should be avoided in adult liver transplant recipients transplanted for metabolic dysfunction–associated steatohepatitis due to a higher risk of post-transplant diabetes and metabolic syndrome. | Strong | Level 3 |
+| 74. Because calcineurin inhibitors contribute to the risk of de novo diabetes and metabolic syndrome, lowering calcineurin inhibitor exposure may be considered in adult liver recipients transplanted for metabolic dysfunction–associated steatohepatitis, with or without concurrent mycophenolate mofetil. | Weak | Level 5 |
+| 75. Regular monitoring for alcohol use in at-risk recipients is recommended, given clinical outcome risks and known rates of recurrent post-transplant alcohol-associated liver disease, which occur with variable onset and trajectories. | Strong | Level 5 |
+| 76. Alcohol use disorder medications, though supported in patients with alcohol-associated liver disease, are not well-studied in adult liver transplant recipients and their impact on clinical outcomes is not known; their use can be considered as part of multidisciplinary post-transplant management. | Strong | Level 5 |
+| 77. A multidisciplinary approach to patient care, alcohol risk monitoring, and intervention when relapse occurs is recommended in adult liver transplant recipients transplanted for alcohol-associated liver disease. | Strong | Level 4 |
 
 **Supporting detail for Recs 47–57 (from the same PDF):**
-- Acute AMR: unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, and vasculitis on biopsy with **diffuse C4d staining**; rare in ABO-compatible grafts because of hepatic regenerative capacity, the large sinusoidal network, and secretion of soluble class I HLA that binds donor-specific antibodies (DSA).
+- Acute AMR: unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, and vasculitis on biopsy with **diffuse C4d staining**; rare in ABO-compatible grafts because of hepatic regenerative capacity, the large sinusoidal network, and secretion of soluble class I HLA that binds DSA.
 - **Preformed DSA of potential clinical significance was tentatively defined as mean fluorescence intensity (MFI) ≥5,000** at the 2015 Banff Conference — but the positivity cutoff varies by laboratory, so the optimal range is undetermined. This is why Rec 55 declines routine pre-transplant testing.
 - Hepatitis B surface antigen (HBsAg)-negative recipient of a hepatitis B core antibody (HBcAb)-positive graft: transmission risk **up to 75%**, higher if hepatitis B surface antibody (HBsAb)- and HBcAb-negative, lower if HBsAb-positive. **No hepatitis B immune globulin (HBIG) requirement.** De novo hepatitis B virus (HBV) infection → lifelong nucleos(t)ide analogue.
 
-*Note: recommendations 58–69 (chronic hepatitis B/D, recurrent hepatitis C virus [HCV], and recurrent disease management) are summarized in the sections below.*
-
-**Recurrent MASH — immunosuppression:**
-
-| Recommendation | Strength | Evidence |
-|---|---|---|
-| 74. Because calcineurin inhibitors contribute to de novo diabetes and metabolic syndrome, lowering calcineurin inhibitor exposure may be considered in adult liver recipients transplanted for metabolic dysfunction–associated steatohepatitis (MASH), with or without concurrent mycophenolate mofetil. | Weak | Level 5 |
+**Supporting detail for Recs 58–66 (same PDF):**
+- HBV: first-line nucleos(t)ide analogues (NAs) = entecavir, tenofovir disoproxil or tenofovir alafenamide; risk of recurrence (adherence, HCC at high risk of recurrence, human immunodeficiency virus infection, high HBV DNA at LT, hepatitis D [HDV] coinfection, NA-resistant mutations) and access to HBIG drive the choice between perioperative/no HBIG + indefinite NAs and long-term HBIG + indefinite NAs (Figure 4, p. 473).
+- Hepatitis B surface antigen-positive grafts in HBV-negative recipients: first-line NA with high barrier to resistance (entecavir, tenofovir alafenamide [off-label] or tenofovir disoproxil) ± HBIG; monitor renal function on tenofovir disoproxil; ongoing HCC screening should be considered (p. 474).
+- Hepatitis C virus (HCV): all HCV-viremic LT recipients should receive direct-acting antiviral (DAA) therapy to achieve cure; assess DAA–immunosuppressant interactions (Table 4) (p. 475).
 
 ## Relevance to Wiki
 
 - Updates [[liver-transplantation]] disease script: adds graft complications section (vascular, biliary), machine perfusion, EAD scoring, updated IS guidance (basiliximab, TAC targets, mTOR), rejection management, recurrent disease
 - Updates [[tacrolimus]] med page: new dosing targets, extended-release equivalence, monotherapy vs. combination evidence
 - Updates [[calcineurin-inhibitors]] med page: induction timing with basiliximab, combination strategies, CNI nephrotoxicity management
-- Updates [[operational-tolerance]] concept page: new meta-analysis data (7%/year increase, n=620)
-- Updates [[hepatocellular-carcinoma]] disease script: mTOR inhibitor (SRL/EVL) for recurrence-free survival in Milan-criteria recipients
-- Updates [[alcohol-associated-liver-disease]] disease script: post-LT recurrence monitoring, pharmacotherapy, re-LT criteria
-- Updates [[nafld-masld]] disease script: MASLD as growing re-LT indication, post-LT recurrence management
-- Updates [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]]: post-LT recurrence recommendations
+- Updates [[operational-tolerance]] concept page: new meta-analysis data (likelihood up 7% per year after LT, n=620)
+- Updates [[hepatocellular-carcinoma]] disease script: mTOR inhibitor for recurrence-free survival in Milan-criteria recipients (Rec 32)
+- Updates [[chronic-hepatitis-b]], [[hepatitis-d]], [[hepatitis-c]]: post-LT HBV/HDV prophylaxis, HBsAg-positive and HCV-positive grafts (Recs 57–66)
+- Updates [[alcohol-associated-liver-disease]] disease script: post-LT alcohol monitoring, AUD medications, multidisciplinary care (Recs 75–77)
+- Updates [[nafld-masld]] disease script: LT for MASH, corticosteroid and CNI minimization after LT (Recs 72–74)
+- Updates [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]]: post-LT recurrence recommendations (Recs 67–71)
 - Concept page: [[antibody-mediated-rejection-liver-transplant]]
 
 ## Contradictions / Open Questions
 
 - **Conflicts with [[aasld-2012-liver-transplant-long-term]]:**
-  - 2012 guideline recommends considering sirolimus IS in HCC recipients (Rec 44, Grade 2B) — the 2025 guideline softens this to a Weak, Level 3 recommendation, noting that benefit is primarily in 3-year RFS for within-Milan recipients and is not seen with everolimus at the same strength
-  - 2012 guideline: protocol biopsy at 1 and 5 years described as practiced at some centers; 2025 explicitly recommends against routine protocol biopsy in stable recipients (Strong, Level 4) — this is an important conflict; entity pages should use the 2025 guidance
-  - 2012 guideline: steroid withdrawal is a common goal; 2025 guideline states steroid-free IS cannot be routinely recommended (higher BPAR, steroid-resistant rejection, decreased GFR) — this directly conflicts with longstanding minimization practice; 2025 guidance should be used
-  - 2012 guideline: anti-thymocyte globulin used historically for rejection; 2025 now explicitly states ATG should NOT be used as induction immunosuppression (Strong, Level 2)
-  - 2012 guideline discusses DCD as higher risk; 2025 shows comparable outcomes at experienced programs with machine perfusion — represents significant evolution in the field
-  - 2012 CNI trough targets: a single target after 3 months — TAC 5–10 ng/mL, cyclosporine 100–150 ng/mL (sirolimus 5 ng/mL); 2025 Table 4 specifies: TAC 7–10 ng/mL (month 1), 4–8 ng/mL (months 2–12), 4 ng/mL (12 months onward) — more granular and should supersede 2012 targets in entity pages
+  - HCC: 2012 Rec 44 — a sirolimus-containing regimen (started several weeks after LT) should be considered for patients transplanted for HCC (grade 2, level B); 2025 Rec 32 — mTOR inhibitor-based IS may be considered for HCC within Milan criteria to improve RFS up to 3 years (Weak, Level 3); 2025 adds that data for EVL are less compelling (p. 460)
+  - AIH: 2012 Rec 86 — prudent to maintain long-term, low-dose corticosteroids in addition to routine IS (grade 2, level B); 2025 Rec 67 — should not be maintained on long-term corticosteroids to prevent recurrent AIH (Strong, Level 3) → 2025 supersedes.
+  - Protocol biopsy: 2012 AIH rationale — protocol liver biopsy should be considered at 5-yearly intervals; 2025 Rec 34 — protocol liver biopsy not recommended in routine management of stable recipients (Strong, Level 4) → 2025 supersedes.
+  - DCD: 2012 associates biliary cast syndrome with grafts from donation after cardiac death donors (Rationale 4); 2025 Rec 4 — comparable 1-year graft and patient survival to DBD at experienced programs, particularly with machine perfusion or NRP
+  - Trough targets: 2012 — after 3 months, TAC 5–10 ng/mL, cyclosporine 100–150 ng/mL (whole blood trough), sirolimus 5 ng/mL; 2025 Table 4 — TAC 7–10 ng/mL first month, 4–8 ng/mL months 2–12, 4 ng/mL 12 mo onward; cyclosporine 250–300 ng/mL first 3 mo, 100–250 ng/mL month 3 onward; everolimus 3–8 ng/mL; sirolimus 4–10 ng/mL; dosing and targets vary at the discretion of the transplant professional
 - **Open questions:**
-  - AMR in liver transplantation: diagnosis and management criteria remain evolving and largely consensus-based; C4d deposition alone has low specificity in liver allografts
-  - Optimal NRP vs. HMP vs. NMP selection criteria for specific donor types: rapidly evolving; 2025 guidance may be superseded as further randomized controlled trial (RCT) data emerge
-  - Long-term outcomes with extended-IS withdrawal trials ongoing; 2025 recommendation against routine withdrawal may be revisited
-  - MASLD recurrence post-LT: no disease-specific pharmacologic treatments proven; glucagon-like peptide-1 (GLP-1) agonists not yet incorporated (data expected post-publication)
-  - Optimal timing and duration of basiliximab to maximize renal protection without increasing rejection: evidence from small RCTs only
+  - AMR in liver transplantation: most treatment studies are retrospective, small single-center series, pediatric or ABO-incompatible LT; efficacy and safety data for therapies beyond initial treatment are lacking (p. 470)
+  - Machine perfusion and NRP: field "continues to rapidly evolve"; data on patient prioritization, resource utilization and economics awaited (p. 448)
+  - IS withdrawal: long-term safety studies inconclusive, mostly lacking histologic data; withdrawal only in a closely monitored, highly selected group (pp. 462–463)
+  - MASLD recurrence post-LT: very limited data on immunosuppression and MASLD recurrence (p. 478); management deferred to the forthcoming AASLD guideline on non-graft-related complications (p. 477)
+  - Basiliximab: Cochrane mortality/graft-failure benefit rests on 2 small RCTs at high risk of bias (p. 457)
 
 ## See Also
 
-[[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[operational-tolerance]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[antibody-mediated-rejection-liver-transplant]]
+[[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[operational-tolerance]], [[hepatocellular-carcinoma]], [[chronic-hepatitis-b]], [[hepatitis-d]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[antibody-mediated-rejection-liver-transplant]]

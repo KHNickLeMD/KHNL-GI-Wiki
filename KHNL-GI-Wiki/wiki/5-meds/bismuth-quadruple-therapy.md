@@ -3,93 +3,149 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-11-16
+updated: 2026-11-20
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 sources: [acg-2024-hp-treatment]
 ---
 
-## Components ("Optimized" BQT — ACG 2024)
+## Contents
+- [[#Regimen and Dosing]]
+  - [[#Optimized vs Non-Optimized]]
+  - [[#Combination Products]]
+- [[#Indications]]
+  - [[#Treatment-Naive]]
+  - [[#Treatment-Experienced]]
+  - [[#Penicillin Allergy]]
+- [[#Efficacy]]
+- [[#Mechanism]]
+- [[#Adverse Effects and Adherence]]
+- [[#Contraindications and Interactions]]
 
-Four drugs × 14 days. **Optimized** bismuth quadruple therapy (BQT) = appropriately dosed [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
+## Regimen and Dosing
+
+Optimized bismuth quadruple therapy (BQT) for [[helicobacter-pylori-infection|*Helicobacter pylori* (*H. pylori*)]] = appropriately dosed [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] + bismuth + nitroimidazole (**1,500–2,000 mg/day** in divided doses) + tetracycline (**not doxycycline**) — American College of Gastroenterology (ACG) 2024 Tables 5 and 6, footnote a. [[acg-2024-hp-treatment]]
 
 | Drug | Dose | Frequency |
 |---|---|---|
-| PPI (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
-| Bismuth — subcitrate **120–300 mg**, or subsalicylate **300 mg** | as listed | Four times daily (q.i.d.) |
-| Tetracycline | **500 mg** | Four times daily (q.i.d.) |
-| Metronidazole (nitroimidazole; tinidazole an alternative) | **500 mg** (target 1,500–2,000 mg/day) | Three or four times daily (t.i.d.–q.i.d.) |
+| PPI | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
+| Bismuth | Subcitrate **120–300 mg** or subsalicylate **300 mg** | Four times daily (q.i.d.) |
+| Tetracycline | **500 mg** | q.i.d. |
+| Metronidazole | **500 mg** | Three times daily (t.i.d.) or q.i.d. |
 
-**Duration: 14 days**, first-line *and* salvage — the captions of both American College of Gastroenterology (ACG) 2024 Table 5 and Table 6 read "All regimens are recommended for 14 days," and Rec 6's closing text suggests optimized BQT **for 14 days**. (The Rec 6 narrative's looser "10 to (preferably) 14 days" is the floor, not the target; **<10 days is a defect** that makes the course non-optimized — see below.) [[acg-2024-hp-treatment]]
+- **Duration: 14 days**, first-line and salvage (Tables 5 and 6: "All regimens are recommended for 14 days"); Rec 6 text: "10 to (preferably) 14 days". [[acg-2024-hp-treatment]]
+- Nitroimidazole: usually metronidazole, "but could also be tinidazole" (no tinidazole dose given).
+- Bismuth dose differs within ACG 2024: the Rec 6 text defines optimized BQT as bismuth "300 mg 4 times daily at least" (Tables 5/6: as in the table above).
 
-> **Internal discrepancy in ACG 2024 — bismuth dose.** Tables 5 and 6 both list bismuth subcitrate **120–300 mg** or subsalicylate **300 mg** q.i.d. The Recommendation 6 narrative instead defines optimized BQT as bismuth **"300 mg 4 times daily at least."** Both appear in the same guideline; the tables are identical for first-line and salvage, so this is **not** a first-line-vs-salvage difference. Dosing at **300 mg q.i.d.** satisfies both readings.
+### Optimized vs Non-Optimized
 
-**Commercial formulations (US Food and Drug Administration (FDA)-approved only as combination packs; individual-component BQT is not FDA-approved):**
-- **Pylera** — bismuth subcitrate + metronidazole + tetracycline per capsule; FDA-approved combined with omeprazole; **dispensed only as a 10-day regimen**. Combination formulations are given with a PPI taken b.i.d.
-- **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with a histamine-2 receptor antagonist [H2RA], but ACG 2024 does **not** recommend H2RAs in eradication regimens).
+> [!pitfall] Failed non-optimized BQT can be repeated — optimized
+> Prior BQT not optimized — duration **<10 days**, metronidazole **<1.5–2 g/day**, **doxycycline** substituted for tetracycline, or **inadequate PPI dose** → acceptable to repeat BQT with these corrected; the only exception to not repeating a failed regimen (Rec 6 text, [[acg-2024-hp-treatment]]).
 
-> **Dosing change vs. earlier practice:** ACG 2024 specifies metronidazole **500 mg t.i.d.–q.i.d.** (1,500–2,000 mg/day). The older under-dosed 250 mg q.i.d. (1,000 mg/day) is no longer the recommended target.
+- Doxycycline substitution and metronidazole below 1.5–2 g/day are common in practice, lower eradication, and are **not recommended** (Rec 6 text).
+
+### Combination Products
+
+- Individually prescribed BQT is **not approved by the US Food and Drug Administration (FDA)**; two combination products are (Table 5 footnote c). Give either with a PPI **b.i.d.**
+- **Pylera** — bismuth subcitrate + metronidazole + tetracycline; FDA-approved with omeprazole; **dispensed only as a 10-day regimen** — "acceptable" (Table 6 footnote a).
+- **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; **14-day** regimen; originally approved with a histamine-2 receptor antagonist (H2RA) for patients with a duodenal ulcer — ACG does not recommend H2RAs in *H. pylori* regimens. With a b.i.d. PPI for 14 days = "an appropriate selection" (Table 6 footnote a).
+- No regimen is FDA-approved for persistent *H. pylori* infection (Table 6).
 
 ---
 
 ## Indications
 
-- **Preferred empiric first-line** for treatment-naive [[helicobacter-pylori-infection|H. pylori]] when antibiotic susceptibility is unknown — **Rec 1: strong recommendation, moderate quality evidence**; the only *strong* recommendation in the guideline (all other first-line and salvage options are conditional). [[acg-2024-hp-treatment]]
-- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe randomized controlled trial [RCT]) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin.
-- **Concomitant therapy is *not* suggested over BQT** in treatment-naive patients (Rec 5, conditional / low quality).
-- Penicillin allergy — BQT contains no amoxicillin, and is the **only** first-line or salvage regimen suitable for true penicillin allergy. If BQT is not an appropriate option, ACG suggests allergist referral to confirm the allergy and consider penicillin desensitization (<1% of the population has true type-1 IgE-mediated penicillin allergy).
+Regimen-selection algorithms (ACG 2024 Figures 1, 3 and 4): see the *H. pylori* infection page. [[acg-2024-hp-treatment]]
 
-**Treatment-experienced / persistent infection** ([[acg-2024-hp-treatment]]):
+### Treatment-Naive
 
-| Prior therapy | ACG 2024 position | Grade |
+- **Rec 1:** optimized BQT is **recommended** as a first-line treatment option — **strong recommendation; moderate quality evidence**; the guideline's only strong recommendation.
+- **Rec 5:** concomitant therapy is **not suggested over** BQT — conditional; low quality evidence.
+- No concern for clarithromycin resistance and **no pretreatment antimicrobial susceptibility testing** needed — its notable advantage over PPI–clarithromycin triple therapy; clarithromycin- and levofloxacin-containing regimens are no longer appropriate empirically.
+
+### Treatment-Experienced
+
+| Prior therapy | ACG 2024 | Grade |
 |---|---|---|
-| No previous BQT | Optimized BQT suggested (Rec 6) | Conditional, very low |
-| Previous PPI–clarithromycin triple | Optimized BQT suggested (Rec 7) | Conditional, low |
-| Previously received BQT | **Rifabutin triple** suggested — do not simply repeat BQT (Rec 8) | Conditional, low |
-| No previous *optimized* BQT, quinolone-based therapy considered | Optimized BQT suggested **over** quinolone-based therapy (Rec 9) | Conditional, low |
+| No previous BQT | Optimized BQT **suggested** (Rec 6) | Conditional; very low quality of evidence |
+| Previous PPI–clarithromycin triple | Optimized BQT **suggested** (Rec 7) | Conditional; low quality of evidence |
+| Previous BQT | **Rifabutin triple** suggested (Rec 8); text: 14 days after previous *optimized* BQT | Conditional; low quality of evidence |
+| No previous *optimized* BQT | Optimized BQT **suggested over** quinolone-based therapy (Rec 9) | Conditional; low quality of evidence |
 
-- **The one exception to "never repeat a failed regimen":** if the earlier BQT course was **not optimized**, it is acceptable to repeat it with the defects corrected. Non-optimized = duration **<10 days**, metronidazole **<1.5–2 g/day**, **doxycycline substituted** for tetracycline, or **inadequate PPI dose**.
+- Rec 6 text: optimized BQT for **14 days** when not previously received optimized BQT.
+- Clarithromycin- or levofloxacin-containing salvage regimens are still less preferred than optimized BQT unless susceptibility is demonstrated (Rec 7 text).
+
+### Penicillin Allergy
+
+- BQT contains no amoxicillin. Of the recommended and suggested first-line and salvage regimens, **only optimized BQT** is suitable for true penicillin allergy (Figure 1: "may require formal allergy testing").
+- Optimized BQT not appropriate + suspected penicillin allergy → **allergist referral** to confirm the allergy and consider penicillin desensitization (<1% of the population has true type 1 IgE-mediated penicillin allergy).
 
 ---
 
 ## Efficacy
 
-- **US observational data (ACG 2024, treatment-naive):** 14-day BQT eradicated **87%** (n = 585). Effectiveness fell to **77%** when shortened to 10 days (n = 135), and to **70%** (14 days) / **67%** (10 days) when doxycycline replaced tetracycline — hence both modifications are explicitly not recommended.
-- Recommended **over PPI–clarithromycin triple therapy**, whose eradication rates have fallen with rising clarithromycin resistance.
-- In vitro metronidazole resistance was not associated with eradication failure in patients receiving optimized BQT ([[acg-2024-hp-treatment]]).
+```mermaid
+xychart-beta
+    title "BQT eradication, treatment-naive (single-center US study)"
+    x-axis ["BQT 14 d", "BQT 10 d", "Doxycycline-BQT 14 d", "Doxycycline-BQT 10 d"]
+    y-axis "Eradication (%)" 0 --> 100
+    bar [87, 77, 70, 67]
+```
+*Eradication falls with a shorter course and with doxycycline in place of tetracycline*
+*Source: data from treatment-naive patients in a nonrandomized single-center observational study (Brown University, Rhode Island; 585 patients at 14 days, 135 at 10 days, doxycycline groups "quite small"), cited in ACG 2024*
+*[[acg-2024-hp-treatment|ACG 2024 Treatment of H. pylori Infection]]*
+*BQT = bismuth quadruple therapy · d = days*
 
----
+- **First line vs PPI–clarithromycin triple:** BQT superior in a network meta-analysis of trials in Western countries.
+- **Second line:** BQT for 10–14 days 78.8% vs 67.8% for 7 days (pooled randomized controlled trials [RCTs], mostly Asian-Pacific). After PPI–clarithromycin triple failure, 10-day BQT 88% intention-to-treat (ITT) vs 88% levofloxacin-based sequential therapy (Taiwan RCT, 560 patients).
+- **Combination capsule vs separate components** (European salvage studies, ITT):
 
-## Why BQT Resists Resistance
-
-- **No clarithromycin, so no clarithromycin problem** — BQT needs **no pretreatment antimicrobial sensitivity testing**, which ACG 2024 names as its notable advantage over PPI–clarithromycin triple therapy.
-
-> Neither ACG guideline states bismuth's molecular mechanism or asserts that bismuth has no resistance mechanism.
-
----
-
-## Adverse Effects & Adherence
-
-- **Minor adverse events are common but rarely stop treatment.** In a Taiwanese RCT of treatment-naive patients, **>50% reported ≥1 adverse effect** — **dark stool, fatigue, nausea, diarrhea, and dizziness each in >15%** — yet only **~5% discontinued**. European data show similarly low discontinuation. [[acg-2024-hp-treatment]]
-- **Counsel before prescribing.** ACG explicitly advises educating patients on *why* eradication matters and on the most frequent adverse effects, because **adherence is the lever** on this 4-drug, high-pill-burden regimen.
-- Named **disadvantages of BQT** vs PPI–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly gastrointestinal [GI]) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
-
----
-
-## Contraindications / Cautions
-
-- **Salicylate allergy → do not give bismuth subsalicylate** (use subcitrate). [[acg-2024-hp-treatment]] Table 5/6 footnotes
-- **Not** contraindicated by penicillin allergy — that is BQT's defining advantage (see Indications).
-
-**Per component** ([[acg-2024-hp-treatment]] Supplementary Table 1):
-
-| Component | Avoid / contraindicated in | Interactions that change prescribing |
+| Line | Component BQT | Combination capsule BQT |
 |---|---|---|
-| **Bismuth** | Salicylate allergy (subsalicylate form) | Do not co-administer bismuth subsalicylate **with other salicylates** |
-| **Tetracycline** | **Contraindicated in pregnancy** · children **<8 y** (dental enamel defects) · photosensitivity, women of childbearing potential (ACG body text) | Absorption impaired by **calcium, magnesium, iron, zinc, aluminum and dairy** — separate the doses |
-| **Metronidazole (nitroimidazole)** | **Avoid in pregnancy** | **Disulfiram-like reaction with alcohol** has been described |
-| **[[proton-pump-inhibitors\|PPI]]** | — | Decreased bioavailability/absorption of **azole antifungals**, **velpatasvir, ledipasvir, rilpivirine, atazanavir**, **mycophenolate**, several oncology **tyrosine kinase inhibitors**; modestly raises **warfarin** level (INR); mildly decreased **methotrexate** excretion; raises **cilostazol, citalopram, escitalopram** |
+| Second line | 75.6% (78 patients) | 89.2% (1,120 patients) |
+| Third line | 64.1% (240 patients) | 83.6% (330 patients) |
 
-- Other tetracycline adverse effects named: **pill esophagitis**, rare hepatotoxicity, GI upset, and increased risk of [[clostridioides-difficile|*C. difficile*]]-associated diarrhea (also listed for PPIs, [[potassium-competitive-acid-blockers|P-CABs]], amoxicillin and levofloxacin).
-- ⚠ **ACG 2024 gives no statement on bismuth in renal impairment** in either the body text or the supplementary table.
+> [!pearl] Combination capsule may outperform separate pills
+> BQT as a combination product may be more effective than its components given separately, possibly through better adherence (Rec 6 text, [[acg-2024-hp-treatment]]).
+
+- Chinese RCT (≥2 prior failures; BQT arm: bismuth 660 mg b.i.d., metronidazole 400 mg q.i.d., tetracycline 500 mg q.i.d., esomeprazole 20 mg b.i.d.): in vitro metronidazole resistance (95%) was not associated with eradication failure on optimized BQT.
+
+---
+
+## Mechanism
+
+- **Bismuth:** bactericidal — accumulates on the bacterial cell wall and in the periplasmic space, inhibiting adherence to gastric mucosa and essential intracellular enzymes (ACG 2024 supplementary drug table). [[acg-2024-hp-treatment]]
+
+---
+
+## Adverse Effects and Adherence
+
+- **Minor adverse events common, discontinuation low.** Taiwan RCT, treatment-naive: **>50%** reported ≥1 adverse effect (dark stool, fatigue, nausea, diarrhea, dizziness each **>15%**); only **~5%** discontinued. Similarly low discontinuation in European data. [[acg-2024-hp-treatment]]
+- **Counsel to maximize adherence:** why treating *H. pylori* matters + the most frequent adverse effects.
+- Disadvantages vs PPI–clarithromycin triple: large pill burden, relatively frequent minor (particularly gastrointestinal [GI]) adverse events, difficulty obtaining tetracycline and its cost, relative contraindications to tetracycline (e.g., photosensitivity, women of childbearing potential).
+- Avoid bismuth (and antibiotics) for **≥4 weeks** before a test of cure.
+
+| Component | Adverse effects (ACG 2024 supplementary drug table) |
+|---|---|
+| Bismuth | Dark stools, dark tongue |
+| Tetracycline | Abdominal discomfort, epigastric pain, diarrhea, nausea, vomiting, anorexia · photosensitivity · [[clostridioides-difficile\|*Clostridioides difficile* (*C. difficile*)]] · **pill esophagitis** · rare hepatotoxicity |
+| Metronidazole | Nausea, vomiting, metallic taste |
+| PPI | Increased risk of enteric infections incl. *C. difficile*-associated diarrhea |
+
+---
+
+## Contraindications and Interactions
+
+[[acg-2024-hp-treatment]] (Tables 5/6 footnotes; supplementary drug table):
+
+| Component | Avoid / contraindicated | Important interactions |
+|---|---|---|
+| Bismuth | **Salicylate allergy → no bismuth subsalicylate** | Avoid bismuth subsalicylate with other salicylates |
+| Tetracycline | **Contraindicated in pregnancy** (dental enamel defects in children <8 y listed as an adverse effect) | Absorption impaired by calcium, magnesium, iron, zinc, aluminum and dairy |
+| Metronidazole | **Avoid in pregnancy** | Disulfiram-like reaction with alcohol described |
+| PPI | — | ↓ bioavailability/absorption: azole antifungals; velpatasvir, ledipasvir, rilpivirine, atazanavir; mycophenolate; several oncology tyrosine kinase inhibitors · warfarin modestly ↑ (international normalized ratio [INR]) · methotrexate excretion mildly ↓ · cilostazol, citalopram, escitalopram ↑ |
+
+- ACG 2024 does not address bismuth in renal impairment.
 
 ---
 

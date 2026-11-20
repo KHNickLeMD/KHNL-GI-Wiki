@@ -3,11 +3,13 @@ title: "Remimazolam"
 category: med
 tags: [remimazolam, sedation, endoscopy-sedation, benzodiazepine, procedural-sedation]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-20
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 sources: [asge-2026-remimazolam]
 ---
 
-*Ultra–short-acting benzodiazepine for procedural sedation, approved by the US Food and Drug Administration (FDA) in **July 2020** for procedures of **30 minutes or less**. Metabolised by tissue esterases rather than liver or kidney, so onset is fast, recovery predictable, and dosing largely organ-independent. The alternative to midazolam and propofol in [[endoscopy-sedation|endoscopic sedation]] — and the only one of the three that keeps blood pressure and respiration closer to baseline. Sole source: [[asge-2026-remimazolam|ASGE 2026]], whose statements are **ungraded**.*
+*Ultra–short-acting benzodiazepine for procedural sedation, approved by the US Food and Drug Administration (FDA) in **July 2020** (procedural sedation, incl. GI endoscopy, of **≤30 minutes**). Organ-independent metabolism by tissue esterases → rapid onset, predictable recovery. An alternative to midazolam and propofol in [[endoscopy-sedation|endoscopic sedation]]: fewer cardiorespiratory adverse events than propofol, higher success and fewer adverse events than midazolam in head-to-head trials. [[asge-2026-remimazolam|ASGE 2026]] statements are **ungraded**, and cover remimazolam within **endoscopist-directed moderate sedation** — explicitly **not** guidance on replacing anesthesiologist-administered propofol.*
 
 ## Contents
 - [[#Pharmacology]]
@@ -24,23 +26,26 @@ sources: [asge-2026-remimazolam]
 
 - **Class:** benzodiazepine — sedative via **positive allosteric modulation of the γ-aminobutyric acid type A receptor**.
 - **Onset 1–3.5 minutes**; **half-life 0.6–0.9 hours**.
-- **Rapidly hydrolysed by tissue esterases** to an inactive metabolite (**CNS7054**) — not hepatic, not renal, **not cytochrome P450 (CYP)-dependent**, so drug–drug interaction risk is low.
-- **Minimally analgesic** — a dedicated analgesic agent is typically necessary, which is why the regimen is **remimazolam + an opioid**.
+- **Rapidly metabolised by tissue esterases** to an inactive metabolite (**CNS7054**) — largely extrahepatic, not renal, **not cytochrome P450 (CYP)-dependent** → low drug–drug interaction risk.
+- Anxiolytic and amnestic, but **minimal intrinsic analgesia** → a dedicated analgesic agent is typically necessary (hence **opioid + remimazolam**).
 - No reported clinically significant hepatotoxicity.
 
 ## Dosing
 
-**The regimen ([[asge-2026-remimazolam|ASGE 2026]], the document's single boxed Recommendation — ungraded):** the combination of **an opioid and remimazolam** is suggested as a safe and effective regimen for **minimal to moderate sedation** in endoscopy.
+**The regimen ([[asge-2026-remimazolam|ASGE 2026]], the document's single boxed Recommendation — ungraded):** ASGE **suggests** the combination of **an opioid and remimazolam** as a safe and effective regimen for **minimal to moderate sedation** in endoscopy. For ASA III–IV and severe hepatic impairment, **lower induction and supplemental doses might be indicated**.
 
 | Patient | Induction | Supplemental | Interval |
 |---|---|---|---|
-| **American Society of Anesthesiologists (ASA) class I–II** | **5 mg IV** | **2.5 mg** as needed | **every 2 min**, titrated to target depth |
-| **ASA III–IV · elderly · frail · end-stage liver disease** | **2.5–3 mg** | **1–2 mg** | **every 2–3 min** |
+| **American Society of Anesthesiologists (ASA) class I–II** | **5 mg intravenous (IV)** | **2.5 mg** as needed | **every ≥2 min**, titrated to target depth |
+| **Elderly · frail · ASA III–IV · end-stage liver disease** | Lower: **2.5–3 mg** *might be considered* | Correspondingly reduced (e.g. **1–2 mg**), titrated more conservatively | **every ≥2–3 min** |
 
 - **No absolute maximum dose**, but **most endoscopic procedures require 10–15 mg total**.
-- Given as **intermittent intravenous boluses, not by infusion pump** — so the existing sedation-monitoring nurse can administer it through standard IV access, with **no dedicated staff or infusion equipment** beyond current moderate-sedation staffing.
+- **Elderly (≥60 y):** doses across the meta-analysis studies ranged **0.10–0.2 mg/kg**; some data suggest lower effective doses, depending on the opioid adjunct.
+- Given as **intermittent IV boluses, not by infusion pump** — so the existing sedation-monitoring nurse can administer it through standard IV access, with **no dedicated staff or infusion equipment** beyond current moderate-sedation staffing.
 - **Reduce the dose and titrate carefully** in severe hepatic impairment, and when combined with opioids or other central nervous system (CNS) depressants.
-- **Continuous infusion is an alternative, not the standard:** bolus **0.075–0.10 mg/kg**, then infusion from **~0.5 mg/kg/h** titrated up to **1 mg/kg/h**, with supplemental **1–4 mg** boluses. Smoother depth with fewer repeated boluses in a Dutch registry of predominantly ASA I–II patients.
+- **Continuous infusion is an alternative, not the standard:** induction bolus **0.075–0.10 mg/kg**, then infusion from **~0.5 mg/kg/h** titrated up to **1 mg/kg/h**, with supplemental **1–4 mg** boluses as needed (Dutch registry, predominantly ASA I–II).
+  - Smoother maintenance of depth; adverse events mild and transient (**11.3%**, mainly hypotension and hypoxia), no major events.
+  - Hypotensive episodes were temporally associated with concomitant **alfentanil**, not remimazolam alone.
 
 > [!pearl] This is a drug you can give yourself, under your existing sedation model
 > Because the supplemental doses are boluses rather than a pump infusion, remimazolam fits **gastroenterologist-directed moderate sedation** with no anesthesia support and no new equipment. [[asge-2026-remimazolam|ASGE 2026]] says training is unlikely to be extensive for clinicians already qualified in moderate sedation — it should include the life-support skills almost all gastroenterologists already hold.
@@ -68,23 +73,31 @@ sources: [asge-2026-remimazolam]
 
 ## Efficacy and Safety versus Propofol
 
-The trade is about **1% of sedation success for roughly half the cardiorespiratory adverse events**.
+Propofol is marginally better at sedation success (**~1% absolute**, "statistically robust although clinically limited") and induction speed; remimazolam has fewer cardiorespiratory adverse events. Pooled meta-analysis ([[asge-2026-remimazolam|ASGE 2026]] Table 2):
 
-| Outcome | Effect (remimazolam vs propofol) | Reading |
+| Outcome | Remimazolam vs propofol (95% confidence interval) | *P* |
 |---|---|---|
-| Sedation success | **98.2% vs 99.1%** · risk ratio (RR) 0.99 (0.98–1.00), *P* = .01 | Propofol statistically better; **~1% absolute**, which the document calls clinically limited |
-| Induction time | **8.64 s slower** (4.34–12.93), *P* < .01 | Propofol faster to induce |
-| Time to full alertness · discharge · procedure duration | **No difference** | Recovery is not the differentiator |
-| **Respiratory depression** | **RR 0.41** (0.30–0.56), *P* < .01 | ~60% lower risk |
-| **Hypotension** | **RR 0.43** (0.35–0.51), *P* < .01 | ~57% lower risk |
-| **Hypotension requiring treatment** | **RR 0.25** (0.12–0.52), *P* < .01 | ~75% lower risk |
-| **Bradycardia** | **RR 0.42** (0.30–0.58), *P* < .01 | ~58% lower risk |
-| Nausea/vomiting | RR 1.00 (0.86–1.16) | No difference |
-| Patient / endoscopist satisfaction | No significant difference | — |
+| Sedation success | **98.2% vs 99.1%** · risk ratio (RR) 0.99 (0.98–1.00) | .01 |
+| Induction time | **8.64 s longer** with remimazolam (4.34–12.93) | <.01 |
+| Total sedation time · time to full alertness · procedure duration · time to discharge | No significant difference | .06–.53 |
+| **Respiratory depression** | **RR 0.41** (0.30–0.56) | <.01 |
+| **Hypotension** | **RR 0.43** (0.35–0.51) | <.01 |
+| **Hypotension requiring treatment** | **RR 0.25** (0.12–0.52) | <.01 |
+| **Bradycardia** | **RR 0.42** (0.30–0.58) | <.01 |
+| Nausea/vomiting | RR 1.00 (0.86–1.16) | .99 |
+| Patient / endoscopist satisfaction | No significant difference | .09 / .08 |
 
-- **Respiratory depression** here means respiratory rate **<8 breaths/min**, oxygen saturation **<90%–92%**, or both, from drug administration until recovery.
-- **Versus midazolam, the gap is large in sicker patients:** colonoscopy sedation success **87.1% vs 13.3%** in ASA III–IV (*P* < .0001). Versus midazolam in a fecal-immunochemical-test-positive colonoscopy trial: shorter time to discharge (**29.9 vs 35.0 min**), faster cecal intubation (**15.4 vs 20.2 min**), less postprocedural observation (**0.97% vs 9.8%**), lower pain scores and higher satisfaction.
-- **By procedure:** noninferior for [[upper-endoscopy|upper endoscopy]] (97.3% vs 100%) and [[colonoscopy|colonoscopy]] (96.9% vs 100%) in ASA I–II; faster induction and fewer cardiorespiratory events in diagnostic [[endoscopic-ultrasound|EUS]]; **100% success in both arms** for [[ercp|ERCP]], where propofol was faster to onset and to full alertness. In a larger ERCP trial, remimazolam **with alfentanil** produced **fewer hypoxia events than propofol (9.6% vs 15.7%**, *P* = .04).
+- **Sedation success** = procedure completed without an alternative or rescue sedative and with **≤5 supplemental doses within 15 min** of induction.
+- **Respiratory depression** = respiratory rate **<8 breaths/min**, oxygen saturation **<90%–92%**, or both, from drug administration until recovery.
+- **Versus midazolam, the gap is large in sicker patients:** colonoscopy success **87.1% vs 13.3%** in ASA III–IV (*P* < .0001). In a [[fecal-immunochemical-test|fecal immunochemical test (FIT)]]-positive colonoscopy randomized controlled trial (RCT; fentanyl analgesia): shorter time to discharge (**29.9 vs 35.0 min**), shorter time to reach the cecum (**15.4 vs 20.2 min**), less postprocedural observation (**0.97% vs 9.8%**), lower pain scores, higher satisfaction.
+- **Elderly (≥60 y, meta-analysis of 7 RCTs):** success comparable to propofol; lower risk of bradycardia, hypoxemia and injection-site pain; onset slower, recovery similar.
+
+| Procedure (vs propofol) | Key result |
+|---|---|
+| [[upper-endoscopy\|Upper endoscopy]] (ASA I–II) | Success **97.3% vs 100%**, noninferior; respiratory depression **1.1% vs 6.9%**, hypotension **13.0% vs 42.9%** |
+| [[colonoscopy\|Colonoscopy]] (ASA I–II) | Success **96.9% vs 100%**, noninferior; slower induction; hypotension **23.7% vs 51.1%**, respiratory depression **3.1% vs 16.8%** |
+| [[endoscopic-ultrasound\|Endoscopic ultrasound (EUS)]], diagnostic only | Faster induction; cardiorespiratory adverse events **8.5% vs 16.0%** |
+| [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] | **100% success in both arms**; propofol faster to onset and to full alertness; comparable cardiorespiratory events. Larger RCT (n = 518): remimazolam **+ alfentanil** → fewer hypoxia events (oxygen saturation <90% for >10 s) **9.6% vs 15.7%** (*P* = .04) |
 
 > [!pitfall] Cost, not efficacy, is the reason to be selective
 > Acquisition cost is **substantially higher than propofol** and **no US cost-effectiveness study has been published**. [[asge-2026-remimazolam|ASGE 2026]] suggests the price is most defensible where hemodynamic stability matters most — **ASA III–IV, age ≥65, and cardiovascular, renal or mild-to-moderate hepatic impairment**.
@@ -92,7 +105,7 @@ The trade is about **1% of sedation success for roughly half the cardiorespirato
 ## Where the Evidence Is Thin
 
 - **No studies at all** in small-bowel enteroscopy ([[device-assisted-enteroscopy]]).
-- **Therapeutic EUS** (biliary drainage, gastroenterostomy, gallbladder drainage, pancreatic fluid collection drainage) and **prolonged or complex biliary and pancreatic interventions** needing deeper sedation — limited data. The EUS trial enrolled **diagnostic procedures only**.
+- **Therapeutic EUS** (biliary drainage, gastroenterostomy, gallbladder drainage, pancreatic fluid collection drainage) and **prolonged or complex biliary and pancreatic interventions** needing deeper sedation — limited data.
 - **[[cirrhosis|Cirrhosis]]**, including decompensated disease, [[acute-on-chronic-liver-failure|acute-on-chronic liver failure]] and [[hepatic-encephalopathy|hepatic encephalopathy]] — may differ pharmacokinetically from the hepatic-impairment cohorts studied; individualize dosing and monitor closely.
 - **Difficult-to-sedate patients** — substance use disorders, marked [[obesity|obesity]], obstructive sleep apnea, multiple psychoactive medications — not adequately addressed; sedative choice should rest on individualized clinical judgment.
 - **Diphenhydramine as an adjunct** to a remimazolam-based regimen is **undefined** — no data evaluate it.

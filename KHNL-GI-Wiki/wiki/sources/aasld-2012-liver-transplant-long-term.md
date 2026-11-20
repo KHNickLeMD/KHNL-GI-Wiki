@@ -3,14 +3,15 @@ title: "AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Trans
 category: source
 tags: [liver-transplant, immunosuppression, post-transplant, aasld, guidelines]
 created: 2026-05-19
-updated: 2026-11-16
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2012 Liver Transplant Management Long Term.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Lucey MR, et al. Long-term management of the successful adult liver transplant: 2012 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation. *Liver Transpl* 2013;19:3–26.](https://doi.org/10.1002/lt.23566)
+- **Article:** [Lucey MR, et al. Long-term management of the successful adult liver transplant: 2012 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation.](https://doi.org/10.1002/lt.23566)
 - **Authors:** Michael R. Lucey, Norah Terrault, Lolu Ojo, J. Eileen Hay, James Neuberger, Emily Blumberg, Lewis W. Teperman
 - **Year:** 2012
 - **Journal/Publisher:** AASLD/American Society of Transplantation Practice Guideline; DOI: 10.1002/lt.23566
@@ -46,16 +47,16 @@ The guideline reflects the pre-DAA era for HCV treatment (peginterferon + ribavi
 **Late Rejection**
 
 - Defined as rejection onset >90 days post-LT.
-- Cellular rejection: triad of bile duct damage, subendothelial portal inflammation, lymphocytic portal infiltrate.
+- Cellular rejection: bile duct damage, subendothelial inflammation of the portal, central or perivenular veins (central component often more prominent), and a predominantly lymphocytic portal infiltrate.
   - Mild → increase maintenance IS alone. Moderate/severe → short course of increased IS: **methylprednisolone 500 mg/day OR prednisolone 200 mg/day × 3 days**, then raise baseline IS.
   - Full response (return to normal liver tests) in only ~50%; ~25% have a further cellular rejection episode, ~25% develop ductopenic rejection.
 - Ductopenic (vanishing bile duct syndrome): progressive bile duct loss; most common in the first year but may occur any time; biopsy with **≥10 portal tracts** needed to confirm duct loss; progresses to graft failure when <50% portal tracts contain bile ducts; treat by increasing IS, switch to/increase [[tacrolimus]] in early cases.
   - Risk factors: recurrent/unresponsive cellular rejection; transplant for autoimmune disease; interferon exposure; loss of a previous graft to ductopenic rejection.
-- Moderate acute rejection: treat with increased maintenance IS + corticosteroid boluses; avoid lymphocyte-depleting drugs (Rec 80).
+- HCV-positive recipients — moderate acute rejection: treat with increased maintenance IS + corticosteroid boluses; avoid lymphocyte-depleting drugs (Rec 80, HCV section; anti-lymphocyte agents may promote HCV-associated liver injury).
 
 **Bone Health**
 
-- Accelerated bone loss in first 4 months (corticosteroids + CNIs); recovery thereafter with normal graft function (Rec 23–26).
+- Accelerated bone loss in first 4 months (consistent with corticosteroids and possibly CNIs); recovery thereafter with normal graft function (narrative text).
 - Bone mineral density (BMD) annually (osteopenic) or every 2–3 years (normal) for first 5 years; thereafter risk-factor-dependent (Rec 23).
 - Workup for osteopenic disease: calcium intake, 25-hydroxyvitamin D, gonadal/thyroid function, thoracolumbar radiography (Rec 24).
 - Elemental calcium 1000–1200 mg/day for all recipients; serum 25-hydroxyvitamin D maintained ≥30 ng/mL, usually needing 400–1000 IU/day supplementation, with 25-OH-D rechecked annually (or more often if deficient) (Rec 25).
@@ -97,11 +98,11 @@ The guideline reflects the pre-DAA era for HCV treatment (peginterferon + ribavi
 | Kidney | 5–30 |
 
 *Note: the source prints these values with a "%" sign under a "Relative Risk" column header — they are fold-increases, not percentages.*
-- All LT recipients: annual dermatology follow-up; sun protection (sun protection factor [SPF] ≥15); skin self-examination (Recs 20, 41).
+- All LT recipients: see a dermatologist after LT, with at least annual dermatologist evaluation from 5 years after LT; sun protection (sun protection factor [SPF] ≥15); skin self-examination (Recs 20, 41).
 - PSC + [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]: annual screening [[colonoscopy]] with biopsies; colectomy when dysplasia found (Rec 42).
 - [[hcc-surveillance|HCC surveillance]]: de novo HCC imaging every 6–12 months for those with recurrent allograft cirrhosis (Rec 43).
 - HCC recurrence at 4 years: **10% for tumors within Milan criteria vs 40–60% for tumors outside Milan** (criteria live on [[hepatocellular-carcinoma]]). Recurrence reduces long-term post-LT survival.
-- HCC recurrence prophylaxis: substituting sirolimus for a CNI once post-operative healing is complete reduces recurrence risk (Rec 44 — "started several weeks after transplantation").
+- HCC recurrence prophylaxis: "accumulating data suggest" substituting sirolimus for a CNI once post-operative healing is complete reduces recurrence risk; Rec 44 = a sirolimus-containing regimen "should be considered" (grade 2), "started several weeks after transplantation".
 - Post-LT surveillance for **known/incidental** HCC is not formally established by this guideline; the stated reasonable plan is abdominal + chest CT every 6 months for 3 years after LT, with serial alpha-fetoprotein (AFP) as an adjunct if AFP was elevated before transplant/ablation. Biopsy any suspicious lesion when the diagnosis is in doubt; radiofrequency ablation is the best treatment for small solitary recurrences.
 - Solitary extrahepatic metastasis or intrahepatic HCC recurrence: resection or ablation (Rec 45).
 
@@ -125,11 +126,11 @@ The guideline reflects the pre-DAA era for HCV treatment (peginterferon + ribavi
 | CMV — donor-positive / recipient-negative | Valganciclovir 900 mg/day **or** IV ganciclovir 5 mg/kg/day | 3–6 months | Valganciclovir is not FDA-approved for LT; prolonged-duration regimens are effective in kidney transplantation |
 | CMV — recipient-positive | Valganciclovir 900 mg/day, IV ganciclovir, **or** weekly CMV viral load monitoring with antiviral started when viremia is identified | 3 months | Valganciclovir is not FDA-approved for LT |
 | Fungi | Fluconazole 100–400 mg daily, itraconazole 200 mg twice daily (BID), caspofungin 50 mg daily, **or** liposomal amphotericin 1 mg/kg/day | 4–6 weeks (optimal duration unknown) | Reserve for high-risk individuals: pretransplant fungal colonization, renal replacement therapy, massive transfusion, choledochojejunostomy, reoperation, retransplantation, hepatic iron overload |
-| *P. jirovecii* | Trimethoprim-sulfamethoxazole (TMP-SMX) (single strength daily **or** double strength 3×/week), dapsone 100 mg daily, **or** atovaquone 1500 mg daily | 6–12 months (optimal duration unknown) | Longer duration if augmented IS; lifelong for human immunodeficiency virus (HIV)–infected recipients |
+| *P. jirovecii* | Trimethoprim-sulfamethoxazole (TMP-SMX) (single strength daily **or** double strength 3×/week), dapsone 100 mg daily, **or** atovaquone 1500 mg daily | 6–12 months (optimal duration unknown) | Longer duration if augmented IS; lifelong therapy should be considered for human immunodeficiency virus (HIV)–infected recipients |
 | Tuberculosis (TB), latent | Isoniazid 300 mg daily | 9 months | Monitor for hepatotoxicity |
-- CMV: most significant opportunistic pathogen; high-risk (donor-positive/recipient-negative [D+/R−]) prophylaxis with ganciclovir or valganciclovir ×3 months (Rec 53); treatment: IS reduction + IV ganciclovir or oral valganciclovir ×minimum 2 weeks until viremia + symptoms resolved (Recs 54–56); resume prophylaxis after anti-lymphocyte therapy ×1–3 months (Rec 55).
+- CMV: most significant opportunistic pathogen; high-risk (donor-positive/recipient-negative [D+/R−]) prophylaxis with ganciclovir or valganciclovir for a minimum of 3 months (Rec 53; Table 12: 3–6 months); treatment: consider IS reduction + high-dose IV ganciclovir or oral valganciclovir **only in mild–moderate disease without GI involvement or reduced absorption** (IV ganciclovir preferable for severe disease or GI involvement) ×minimum 2 weeks until viremia + symptoms resolved (Recs 54–56); resume prophylaxis after anti-lymphocyte therapy ×1–3 months (Rec 55).
 - EBV/[[post-transplant-lymphoproliferative-disorder|post-transplant lymphoproliferative disorder (PTLD)]]: incidence 0.9–2.9%; suspect with unexplained fever, lymphadenopathy, cytopenias; EBV viremia not diagnostic — requires histopathology (Recs 58–59); treatment: reduce IS, then rituximab/chemotherapy if no response.
-- Fungal infections: Candida and Aspergillus most common; preferred agents by organism in Table 13 (Recs 60–61).
+- Fungal infections: Candida infections decreasing and Aspergillus increasing over the past 2 decades; preferred agents by organism in Table 13 (Recs 60–61).
 - *Pneumocystis jirovecii*: prophylaxis for **all** recipients (Rec 62, doses in Table 12 above). Treatment: TMP-SMX is the drug of choice; IV pentamidine preferred alternative if intolerant with more severe infection (Rec 63). Dx: sputum or bronchoalveolar lavage (BAL) with silver/Giemsa stain, polymerase chain reaction (PCR), or specific antibody stain (Rec 64).
 - TB: active disease — isoniazid + rifampin + pyrazinamide + ethambutol, taper to isoniazid + rifampin after 2 months (assuming no resistance) and continue ≥4 further months (Rec 65). Monitor for rejection and hepatotoxicity throughout (Rec 66); latent TB prophylaxis in Table 12 above.
 - HIV: highly active antiretroviral therapy (HAART) recipients require frequent CNI level monitoring; HIV viral loads and CD4 counts on schedule (Recs 67–68); standard CMV and *Pneumocystis* prophylaxis (Rec 69).
@@ -160,8 +161,8 @@ The guideline reflects the pre-DAA era for HCV treatment (peginterferon + ribavi
 **PBC/PSC/AIH post-LT**
 
 - PBC: monitor for associated autoimmune diseases and bone density; ursodeoxycholic acid (UDCA) 10–15 mg/kg/day for histological recurrence (improves liver tests but no graft survival benefit); no prophylactic UDCA for normal histology (Recs 83–84).
-- PSC: annual colonoscopy for PSC + chronic ulcerative colitis (CUC) recipients; recurrent PSC in up to 50% at 5 years, with graft loss from recurrent PSC in as many as 25% of those who recur; risk factors for recurrence include male sex, intact native colon, steroid-resistant rejection, active CUC post-LT, CMV infection, specific HLA haplotypes. Prophylactic colectomy does **not** reduce the risk of recurrent PSC (Rec 85).
-- AIH: maintain long-term low-dose corticosteroids in addition to standard IS; monitor liver tests every 6 months; protocol biopsy at 5-year intervals (Rec 86).
+- PSC: annual colonoscopy for PSC + chronic ulcerative colitis (CUC) recipients (Rec 85); recurrent PSC in up to 50% at 5 years, with graft loss from recurrent PSC in as many as 25% of those who recur; risk factors for recurrence include male sex, intact native colon, steroid-resistant rejection, active CUC post-LT, CMV infection, specific HLA haplotypes. Prophylactic colectomy does **not** reduce the risk of recurrent PSC (narrative text).
+- AIH: maintain long-term low-dose corticosteroids in addition to standard IS (Rec 86); monitor liver tests every 6 months; protocol biopsy should be considered at 5-yearly intervals (narrative text).
 
 **Alcohol-associated liver disease (ALD) post-LT**
 

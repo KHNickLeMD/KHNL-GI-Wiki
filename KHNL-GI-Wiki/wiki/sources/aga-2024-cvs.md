@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomit
 category: source
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, neuromodulators]
 created: 2026-07-21
-updated: 2026-11-01
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU Cyclic Vomiting Syndrome.pdf"
 ---
@@ -39,7 +40,7 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 
 **Clinical clues:** ~65% have a prodrome (median 1 h); abdominal pain present in most episodes (does not exclude CVS); episodes often early-morning; hot-water bathing gives relief in ~48% of non-cannabis users (not specific to CHS). Common triggers: stress (70–80%), sleep deprivation, menses, travel/motion, infection/surgery.
 
-**Comorbidities:** mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), postural orthostatic tachycardia syndrome (POTS)/autonomic imbalance — treating these improves CVS outcomes.
+**Comorbidities:** mood/anxiety/panic (50–60%), migraine (20–30%), seizure (~3%), postural orthostatic tachycardia syndrome (POTS)/autonomic imbalance — treating anxiety may reduce episode frequency and improve inter-episodic nausea; treating POTS may improve overall functional status.
 
 **Workup (to exclude mimics):** complete blood count (CBC), electrolytes, glucose, liver function tests (LFTs), lipase, urinalysis (UA); one-time esophagogastroduodenoscopy (EGD) or upper-gastrointestinal (GI) imaging to exclude obstruction (recognize post-retching epiphenomena as non-causal — don't repeat). **Do not routinely order gastric emptying scans.** Consider Addison's, hypothyroidism, and **acute hepatic porphyria** as mimics; brain imaging + neurology if localizing neuro symptoms.
 
@@ -47,10 +48,11 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 
 **Prophylaxis (moderate–severe only) — Table 1:**
 - **First-line: tricyclic antidepressants (TCAs)** (amitriptyline/nortriptyline/doxepin). Start 25 mg qhs → goal 75–150 mg or 1–1.5 mg/kg qhs; slow titration; nortriptyline less anticholinergic than amitriptyline.
-- **Second-line:** topiramate (start 25 mg → 100–150 mg/d, titrate 25 mg weekly; kidney stones — do not use with a stone history; **must not be used during pregnancy**; monitor electrolytes and renal function twice annually), zonisamide (100 → 200–400 mg/d; kidney stones), levetiracetam (500 mg bid → 1000–2000 mg/d, titrate 500 mg q2wk; no therapeutic drug monitoring needed, monitor complete blood count (CBC)), aprepitant (neurokinin-1 [NK-1] antagonist; 125 mg 2–3×/wk if >60 kg, 80 mg 2–3×/wk if 40–60 kg; **safer in pregnancy**, may interfere with oral contraceptive pills; off-label, expensive, insurance hurdles), coenzyme Q10 (CoQ10) 300–400 mg/d / riboflavin 200 mg bid supplements.
+- **Second-line:** topiramate (start 25 mg → 100–150 mg/d, titrate 25 mg weekly; kidney stones — do not use with a stone history; **must not be used during pregnancy**; monitor electrolytes and renal function twice annually), zonisamide (100 → 200–400 mg/d; kidney stones), levetiracetam (500 mg bid → 1000–2000 mg/d, titrate 500 mg q2wk; no therapeutic drug monitoring needed, monitor complete blood count (CBC)), aprepitant (neurokinin-1 [NK-1] antagonist; 125 mg 2–3×/wk if >60 kg, 80 mg 2–3×/wk if 40–60 kg; **safer in pregnancy**, may interfere with oral contraceptive pills; off-label, expensive, insurance hurdles).
+- **Nutritional supplements (Table 1, no first/second-line rank given):** coenzyme Q10 (CoQ10) 300–400 mg/d; riboflavin 200 mg bid.
   - ⚠ Table 1 attributes **"safer in pregnancy" and the oral-contraceptive interaction to aprepitant**, not to levetiracetam, and says of topiramate only that it *"must not be used during pregnancy"* — it never uses the word teratogenic.
 
-**Abortive (mild or moderate–severe) — Table 1:** triptans (**sumatriptan** 20 mg intranasal or 6 mg subcutaneous (SC), may repeat ×1 at 2 h, max 2/24 h; avoid in ischemic heart disease, stroke, peripheral vascular disease, or uncontrolled hypertension, and in pregnancy) + antiemetic (**ondansetron** 8 mg sublingual (SL) q4–6h; promethazine/prochlorperazine; both available per rectum [PR]) ± sedatives (diphenhydramine, benzodiazepines — alprazolam available SL/PR). Nearly all patients need **2-agent combinations**.
+**Abortive (mild or moderate–severe) — Table 1:** triptans (**sumatriptan** 20 mg intranasal or 6 mg subcutaneous (SC), may repeat ×1 at 2 h, max 2/24 h; avoid in ischemic heart disease, stroke, peripheral vascular disease, or uncontrolled hypertension, and in pregnancy) + antiemetic (**ondansetron** 8 mg sublingual (SL) q4–6h; promethazine/prochlorperazine; both available per rectum [PR]) ± sedatives (diphenhydramine, benzodiazepines — alprazolam available SL/PR). Nearly all patients need combinations of **≥2 agents**.
 
 **ED management:** treat all regardless of CHS suspicion; intravenous (IV) dextrose-containing fluids + IV antiemetics; **IV ketorolac as first-line non-narcotic analgesic**; benzodiazepines for sedation in a quiet, dark room; narcotics only in most severe refractory cases.
 
@@ -62,4 +64,5 @@ CVS is diagnosed clinically by **Rome IV criteria** and unfolds in **4 phases** 
 
 ## Contradictions / Open Questions
 - Diagnostic criteria are **Rome IV**; see also [[rome-v-2026-dgbi]] (Rome V, 2026). This CPU predates Rome V — where Rome V revises CVS criteria, the newer consensus governs.
+- Moderate–severe threshold: Box 1 and p. 806 say **≥4** episodes/year; the Prophylactic Therapies text (p. 809) says **>4**. Wiki follows Box 1.
 - All CVS pharmacotherapy rests on case series / expert opinion (no RCTs) — evidence quality is low by design.
