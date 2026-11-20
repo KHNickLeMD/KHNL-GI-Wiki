@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acu
 category: source
 tags: [pancreatitis, recurrent-acute-pancreatitis, chronic-pancreatitis, pancreas-divisum, ercp, eus, celiac-plexus-block, aga, cpu]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 CPU Endoscopy for Recurrent Acute and Chronic Pancreatitis.pdf"
 ---
@@ -20,7 +21,7 @@ raw: "GI Guidelines/AGA/AGA 2022 CPU Endoscopy for Recurrent Acute and Chronic P
 
 AGA Expert Review giving practical, evidence-based guidance on the **role of endoscopy in recurrent acute pancreatitis (RAP) and chronic pancreatitis (CP)**, framed around **8 Best Practice Advice (BPA) statements**. RAP is defined as **≥2 distinct episodes of acute pancreatitis (AP) with complete interceding resolution, separated by ≥3 months**; ~10–30% of patients develop RAP after an index AP episode, and ~35% of RAP patients progress to CP.
 
-For **evaluation of unexplained AP/RAP** (etiology unrevealed in 16–27% of cases despite history, medication review, labs, and noninvasive imaging), **endoscopic ultrasound (EUS) is the preferred initial diagnostic test** (yields a potential etiology in 29–88%; most common finding is occult biliary lithiasis; occult ampullary/pancreatobiliary malignancy found in up to 5% after single unexplained AP and up to 12% with RAP). Magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP) with contrast is a reasonable complementary/alternative test — EUS is more likely than MRI to give a probable cause (odds ratio [OR] 3.79, driven by sensitivity for occult biliary stones), while MRCP better identifies ductal etiologies (pancreas divisum, anomalous pancreaticobiliary union). Optimal EUS timing is a short delay (2–6 weeks) after AP resolution.
+For **evaluation of unexplained AP/RAP** (etiology unrevealed in 16–27% of cases despite history, medication review, labs, and noninvasive imaging), **endoscopic ultrasound (EUS) is the preferred initial diagnostic test** (yields a potential etiology in 29–88%; most common finding is occult biliary lithiasis; occult ampullary/pancreatobiliary malignancy found in up to 5% after single unexplained AP and up to 12% with RAP). Magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP) with contrast is a reasonable complementary/alternative test — EUS is more likely than MRI to give a probable cause (odds ratio [OR] 3.79, driven by sensitivity for occult biliary stones), while MRI is particularly helpful for ductal etiologies (pancreas divisum, anomalous pancreaticobiliary union). Optimal EUS timing is a short delay (2–6 weeks) after AP resolution.
 
 The **role of endoscopic retrograde cholangiopancreatography (ERCP) to reduce AP frequency is controversial** in both pancreas divisum (PD) and standard-anatomy unexplained RAP. In PD, minor papilla endotherapy may be considered mainly with objective outflow obstruction (dilated dorsal duct and/or santorinicele); there is no role for ERCP for pain alone. In standard anatomy, ERCP is even more controversial and should follow shared decision-making about uncertain benefit and severe adverse-event risk; biliary sphincterotomy alone may be preferable to dual sphincterotomy (Coté randomized controlled trial [RCT]).
 
@@ -50,7 +51,7 @@ Verbatim/near-verbatim Best Practice Advice statements:
 - RAP definition: ≥2 distinct AP episodes with complete interceding resolution, separated by ≥3 months. ~10–30% develop RAP after index AP; ~35% of RAP progress to CP.
 - Unexplained AP: etiology remains unknown in 16–27% despite standard workup. EUS uncovers etiology in 29–88%; most common = occult biliary lithiasis. Occult ampullary/pancreatobiliary malignancy up to 5% after single unexplained AP, up to 12% with RAP.
 - EUS vs MRI: EUS more likely to give probable cause (OR 3.79). EUS timing: 2–6 week delay after AP resolution.
-- Pancreas divisum: most common congenital pancreatic anomaly, ~6–10% of individuals; most asymptomatic. Endotherapy reduces/eliminates RAP in ~60–80% in uncontrolled series. Only RCT (n=19): minor papilla stenting reduced future AP (10% vs 67%, P<.05). Risks: post-ERCP pancreatitis 10–15%; post-papillotomy stenosis up to 19% (1 in 5).
+- Pancreas divisum: most common congenital pancreatic anomaly, ~6–10% of individuals; most asymptomatic. Endotherapy may reduce/eliminate RAP in up to 60–80% in uncontrolled series. Only RCT (n=19): minor papilla stenting reduced future AP (10% vs 67%, P<.05). Risks: post-ERCP pancreatitis 10–15%; post-papillotomy stenosis up to 19% (1 in 5).
 - Standard-anatomy RAP: Jacob RCT — pancreatic duct stenting reduced RAP (11% vs 53%, P<.02). Coté RCT — pancreatic sphincterotomy no incremental benefit over biliary sphincterotomy alone.
 - Painful obstructive CP: 3 RCTs favor early surgery over endotherapy. ESCAPE (n=88, dilated MPD): complete/partial pain relief 58% (surgery) vs 39% (endotherapy) at 18 months. Endotherapy typically requires serial ERCPs over up to 12 months; surgery is one-time.
 - MPD stones: occur in ~60% of CP (more with alcohol >80 g/d, tobacco >20 cig/d). ESWL fragmentation >90%; complete pancreatic duct clearance by ERCP achievable in >⅔; >½ pain-free at 2 years; up to 89% report quality-of-life (QoL) improvement. Pancreatoscopy-directed lithotripsy technical success 88%, adverse events 12%.
@@ -67,6 +68,6 @@ Verbatim/near-verbatim Best Practice Advice statements:
 - **[[endoscopic-ultrasound]]** — evaluation of unexplained AP/RAP; EUS-guided celiac plexus block.
 
 ## Contradictions / Open Questions
-- **Painful obstructive CP — surgery vs endoscopy:** this Clinical Practice Update (CPU) (2022) explicitly favors **surgery over endoscopy** for long-term pain in obstructive CP (ESCAPE + 2 RCTs), while several prior guidelines (and the existing CP page's pain ladder) frame endoscopy as the initial intervention. Higher-priority resolution: newer American Society for Gastrointestinal Endoscopy (ASGE) 2024 CP-endoscopy guideline and this AGA CPU both temper the endoscopy-first stance; the CP page notes surgery superiority for long-term pain — consistent.
-- **FCSEMS for MPD strictures:** benefit (fewer ERCPs) offset by higher adverse-event rate (39% vs 14%) — role remains "emerging," not standard. For CP biliary strictures FCSEMS is favored, except gallbladder-in-situ cholecystitis caveat.
-- Definitive role of ERCP in unexplained RAP (± PD) awaits ongoing sham-controlled minor-papilla-sphincterotomy RCT.
+- **Painful obstructive CP — surgery vs endoscopy:** this Clinical Practice Update (CPU) (2022) explicitly favors **surgery over endoscopy** for long-term pain in obstructive CP (ESCAPE + 2 RCTs), while several prior guidelines (and the existing CP page's pain ladder) frame endoscopy as the initial intervention. The CP page notes surgery superiority for long-term pain — consistent with this CPU.
+- **FCSEMS for MPD strictures:** benefit (fewer ERCPs) offset by higher adverse-event rate (39% vs 14%) — role remains "emerging," not standard. For CP biliary strictures FCSEMS is favored, except it remains reasonable to avoid FCSEMS with gallbladder in situ when the stent will cover the cystic duct orifice.
+- Role of minor papilla sphincterotomy in PD with RAP awaits an ongoing sham-controlled RCT (enrolls PD patients only).

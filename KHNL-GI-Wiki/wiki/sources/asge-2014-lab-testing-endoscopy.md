@@ -3,7 +3,8 @@ title: "ASGE 2014: Routine Laboratory Testing Before Endoscopic Procedures"
 category: source
 tags: [preprocedure, laboratory-testing, sedation, coagulation, pregnancy-testing, asge]
 created: 2026-07-01
-updated: 2026-10-23
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2014 Laboratory Testing Before Endoscopy.pdf"
 ---
@@ -21,7 +22,7 @@ raw: "GI Guidelines/ASGE/ASGE 2014 Laboratory Testing Before Endoscopy.pdf"
 
 American Society for Gastrointestinal Endoscopy (ASGE) guideline against reflexive, protocol-driven laboratory testing before endoscopy. Most outcomes data are extrapolated from the surgical/anesthesia literature, where routine preoperative testing rarely alters management: unsuspected chemistry abnormalities appear in only 0.2-1.0% of healthy patients and do not change anesthetic or procedural care. When tests are ordered on the basis of history/exam, up to 30% are abnormal and often change management — arguing for **selective, risk-based testing** rather than universal panels.
 
-The guideline sets the framework for pre-endoscopy labs: an abnormal partial thromboplastin time (PTT) does not reliably predict periprocedural bleeding; coagulation studies, chest radiography, electrocardiography (ECG), blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries should be individualized to patient and procedural risk. It is referenced by other ASGE procedural documents (eg, enteral feeding) that state "routine laboratory testing before endoscopy is not indicated."
+The guideline sets the framework for pre-endoscopy labs: an abnormal partial thromboplastin time (PTT) does not reliably predict periprocedural bleeding; coagulation studies, chest radiography, electrocardiography (ECG), blood type/screen, hemoglobin/hematocrit, urinalysis, and chemistries should be individualized to patient and procedural risk.
 
 ## Key Findings / Claims
 
@@ -55,4 +56,4 @@ The guideline sets the framework for pre-endoscopy labs: an abnormal partial thr
 
 ## Contradictions / Open Questions
 
-- No direct conflict; the selective-testing principle aligns with the ASGE sedation and enteral-feeding documents.
+- No direct conflict noted.
