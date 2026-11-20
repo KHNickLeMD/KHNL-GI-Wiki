@@ -3,8 +3,9 @@ title: "ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulat
 category: source
 tags: [portal-vein-thrombosis, pvt, mvt, budd-chiari, mesenteric-ischemia, hht, anticoagulation, cirrhosis, coagulopathy, acg]
 created: 2026-05-21
-updated: 2026-10-04
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/ACG/ACG 2020 Disorders of the Hepatic and Mesenteric Circulation.pdf"
 ---
 
@@ -23,8 +24,8 @@ raw: "GI Guidelines/ACG/ACG 2020 Disorders of the Hepatic and Mesenteric Circula
 
 - American College of Gastroenterology (ACG) guideline on vascular liver disorders; five domains: (1) bleeding and thrombotic risk in [[cirrhosis-hemostasis|cirrhosis]], (2) [[portal-vein-thrombosis|portal vein thrombosis]] (PVT) and mesenteric vein thrombosis (MVT) without cirrhosis, (3) PVT/MVT with cirrhosis, (4) [[budd-chiari-syndrome|Budd-Chiari syndrome]] (BCS), (5) [[mesenteric-artery-aneurysm|mesenteric artery aneurysms]] and liver vascular malformations (LVMs) in [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (HHT).
 - Structure: **23 numbered recommendations** from PICO questions, graded by GRADE (Table 1); **28 numbered key concepts**, ungraded, from author expert opinion and literature review (Table 2). Evidence base mostly nonrandomized/observational — 22 of 23 recommendations rest on low or very low quality evidence (only Rec 17 is moderate).
-- Cirrhosis: hemostasis is rebalanced but precarious; international normalized ratio (INR) correlates poorly with thrombin generation and bleeding → recommends against prophylactic fresh frozen plasma (FFP), platelets, and antifibrinolytics in the stated settings.
-- PVT/MVT: anticoagulation is the core therapy, with indications that differ by cirrhosis status, acuity, and extent (Figure 3 algorithm, embedded on [[portal-vein-thrombosis]]).
+- Cirrhosis: hemostasis is rebalanced but precarious; international normalized ratio (INR) correlates poorly with thrombin generation and bleeding → recommends against fresh frozen plasma (FFP) and prophylactic platelets in the stated settings, and against antifibrinolytics for persistent active bleeding without hyperfibrinolysis.
+- PVT/MVT: anticoagulation is the core therapy, with indications that differ by cirrhosis status, acuity, and extent (Figure 3 algorithm, redrawn on [[portal-vein-thrombosis]]).
 - BCS: stepwise least-to-most invasive management — anticoagulation → angioplasty or transjugular intrahepatic portosystemic shunt (TIPS) → [[liver-transplantation|liver transplantation]] (LT); [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] surveillance in chronic BCS.
 
 ---
@@ -49,7 +50,7 @@ raw: "GI Guidelines/ACG/ACG 2020 Disorders of the Hepatic and Mesenteric Circula
 
 **PVT/MVT — treatment data**
 - Noncirrhotic acute PVT (prospective, 95 anticoagulated): portal vein patency 13% → 33%, superior mesenteric vein 42% → 73%.
-- Acute MVT: anticoagulation 3–6 mo for reversible causes; indefinite for thrombophilia. Thrombolysis considered for progression despite anticoagulation; surgery for infarction/gangrene.
+- Acute MVT: anticoagulation 3–6 mo for reversible causes per the body text and Figure 3 footnote (Rec 7 suggests **≥6 mo** — see Contradictions); indefinite for thrombophilia. Thrombolysis considered for progression despite anticoagulation; surgery for infarction/gangrene.
 - Cirrhosis: meta-analysis (observational only) — anticoagulation ↑ recanalization, ↓ variceal bleeding or hepatic worsening. TIPS in 70 patients: recanalization 57%, mainly incomplete PVT or no varices.
 - LT-listed: complete PVT at LT may worsen post-transplant survival; anticoagulation → complete recanalization in 42% and 75% (two small studies) → continue until LT.
 - HCC tumor thrombus: no benefit from anticoagulation.
@@ -60,7 +61,7 @@ raw: "GI Guidelines/ACG/ACG 2020 Disorders of the Hepatic and Mesenteric Circula
 - Doppler US, CT, MRI agree highly (173-patient prospective study).
 - Major bleeding on anticoagulation up to 22.8 episodes/100 patient-years.
 - Angioplasty long-term success ~1/3 of patients. Polytetrafluoroethylene (PTFE)-covered stents cut TIPS dysfunction from 87% to ≤30–40%.
-- European stepwise cohort (157 patients): overall survival 77%; 39.5% needed TIPS, 6.45% LT. TIPS 5-y transplant-free survival 72–78%.
+- European stepwise cohort (157 patients): overall survival 77%; 39.5% needed TIPS, and of these only 6.45% needed LT (6.35% of ~40% on the next page). TIPS 5-y transplant-free survival 72–78%.
 - LT for BCS: 5-y survival 70–92%; recurrent thrombosis up to 20%.
 - HCC: pooled prevalence 15.4% in BCS; alpha-fetoprotein (AFP) cutoff 15 ng/mL separated benign nodules from HCC (positive predictive value 100%, negative 91%).
 
@@ -159,7 +160,7 @@ Numbered as in the guideline's Table 1 (23 recommendations). The operative state
 | 12 | Chronic PVT → endoscopy for esophageal/gastric varices |
 | 13 | Routine prophylactic anticoagulation to prevent PVT in cirrhosis needs more data |
 | 14 | Anticoagulation for PVT/MVT in cirrhosis is **not** associated with ↑ variceal bleeding risk |
-| 15 | Portal hypertensive cholangiopathy: endoscopic treatment for symptomatic cholangitis; also for choledocholithiasis or biliary stricture. Surgery only if endoscopy fails |
+| 15 | Portal hypertensive cholangiopathy: endoscopic treatment indicated for symptomatic cholangitis; choledocholithiasis or biliary stricture **may also benefit**. Surgery only if endoscopy fails |
 | 16 | Work up acquired and inherited thrombophilia in **all** BCS — even after one conspicuous disorder is found (≥2 factors common) |
 | 17 | Investigate the hepatic venous outflow tract in acute or chronic liver disease without obvious cause, especially new ascites and/or abdominal pain |
 | 18 | Hepatic venogram and/or liver biopsy rarely needed to diagnose BCS |
@@ -215,7 +216,7 @@ Numbered as in the guideline's Table 1 (23 recommendations). The operative state
 | Systemic | Sarcoidosis; vasculitis; Behçet disease; connective tissue disease; inflammatory bowel disease |
 | Hormonal | Recent oral contraceptive use; pregnancy |
 
-**Figure 3** (PVT management algorithm) is embedded on [[portal-vein-thrombosis]].
+**Figure 3** (PVT management algorithm) is redrawn on [[portal-vein-thrombosis]].
 
 ## Relevance to Wiki
 
@@ -235,7 +236,7 @@ Numbered as in the guideline's Table 1 (23 recommendations). The operative state
 - **Partial PVT in cirrhosis — superseded.** ACG 2020: no anticoagulation for acute partial PVT except transplant-listed patients. AGA 2025: consider anticoagulation for recent >50% occlusive or main portal/mesenteric involvement. Baveno VIII: consider it for recent partial (<50% remnant lumen) main portal vein thrombosis; anticoagulate any PVT in a transplant candidate.
 - **Chronic PVT in cirrhosis.** ACG 2020 anticoagulates for thrombophilia, progression, or ischemia; AGA 2025 advises against anticoagulation for chronic complete occlusion with cavernous transformation (futile).
 - **Duration in cirrhosis.** ACG 2020: 6 months (longer if transplant-listed). Baveno VIII: at least 6 months and consider long-term regardless of recanalization.
-- **Intra-document:** Rec 19/20 use a **2 cm** threshold; the body text frames intervention at >2–2.5 cm. Rec 2 prints the platelet threshold as "/mL" where the rest of the document uses /µL.
+- **Intra-document:** Rec 19/20 use a **2 cm** threshold; the body text frames intervention at >2–2.5 cm. Rec 2 prints the platelet threshold as "/mL" where the rest of the document uses /µL. Noncirrhotic PVT/MVT anticoagulation duration: body text and Figure 3 footnote give **3–6 months** for a reversible/discrete precipitant, Rec 7 suggests **at least 6 months**.
 
 ---
 

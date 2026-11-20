@@ -3,8 +3,9 @@ title: "ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy i
 category: source
 tags: [biliary-stricture, cholangiocarcinoma, ercp, eus, cholangioscopy, brush-cytology, fluoroscopic-biopsy, idus, cle, hepatobiliary, asge, guideline]
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/ASGE/ASGE 2023 Malignancy in Indeterminate Biliary Strictures.pdf"
 ---
 
@@ -110,7 +111,7 @@ Sensitivities are not all from the same comparison set — each column is the po
 
 **Q3 — EUS-FNA/FNB (existing meta-analysis by Chiang et al; a systematic review found no additional studies)**
 - Incremental benefit of EUS **after nondiagnostic ERCP with brush cytology**: **15% (95% CI, 9-24; I² = 0%)**.
-- **Subgroup — where EUS wins:** higher sensitivity for **distal strictures .82 (95% CI, .76-.87) vs .62 (95% CI, .55-.69)** and for **pancreatic masses .82 (95% CI, .62-1.02) vs .46 (95% CI, .4-.51)**; **P < .0001** for both.
+- **Subgroup — where EUS wins:** higher sensitivity for **distal strictures .82 (95% CI, .76-.87) vs .62 (95% CI, .55-.69)** and for **pancreatic masses .82 (95% CI, .78-.86) vs .46 (95% CI, .4-.51)** (**P < .0001** printed for the pancreatic-mass comparison).
 - **No difference** in technical success or specimen adequacy. EUS had a significantly **lower** adverse event rate (OR 8.11; 95% CI, 2.95-22.29): only **3 minor bleeding episodes** with EUS-guided FNA versus **44 adverse events with ERCP** (1 severe pancreatitis, 27 mild pancreatitis, 10 cholangitis, 6 mild bleeding).
 - EUS added an average of **23 minutes (95% CI, 14-32)** to the procedure time (1 study, historical control subjects).
 - **Cost:** EUS with FNA reported at **$1076.25**; cost is much lower when combined with ERCP than when performed alone, so only a minor cost increase when EUS and ERCP are done in the same session. EUS was found to be cost-effective in biliary strictures **even without a discrete mass**. EUS is not as widely available throughout the country as ERCP.
@@ -135,7 +136,7 @@ Sensitivities are not all from the same comparison set — each column is the po
 ## Relevance to Wiki
 - **[[biliary-stricture]]** (diagnostic schema) — endoscopic tissue-acquisition algorithm by stricture location (distal vs nondistal/hilar), modality sensitivities, multimodality sampling rationale, and the hilar-mass EUS-FNA caution.
 - **[[cholangiocarcinoma]]** (disease script) — diagnostic approach, sensitivities of brush cytology / fluoroscopic-guided biopsy / cholangioscopy / EUS, and the transplant-relevant needle-track seeding caution for hilar lesions.
-- **[[brush-cytology]]** — sensitivity .4, miss rate 58%, and the fact that brush cytology alone is never sufficient.
+- **[[brush-cytology]]** — sensitivity .4, miss rate 58%, and the suggestion to add fluoroscopic-guided biopsy to brush cytology rather than brush cytology alone (Conditional/very low).
 - **[[cholangioscopy]]** — nondistal-stricture indication, the drainage prerequisite, the distal-duct limitation, the visual morphology of malignant strictures, and the added 14 minutes.
 - **[[endoscopic-ultrasound]]** — distal-stricture and nodal/metastatic indications, same-session EUS+ERCP, the lower adverse-event rate, and the hilar no-FNA rule.
 - **[[ercp]]** — multimodality sampling at the index procedure; adverse-event profile versus EUS.
@@ -146,7 +147,7 @@ Sensitivities are not all from the same comparison set — each column is the po
 ## Contradictions / Open Questions
 - Largely consistent with [[acg-2023-biliary-strictures]]; this ASGE document is more granular on the relative sensitivities of each tissue-acquisition modality and scopes its recommendations by stricture location.
 - All three recommendations rest on **very low quality of evidence** (predominantly observational); only Q2 includes a single RCT, which supports cholangioscopy.
-- **Distal strictures, cholangioscopy vs intraductal biopsy:** one study found intraductal biopsy outperformed cholangioscopic-guided biopsy for distal strictures (76% vs 50%), and cholangioscopy is mechanically poor in the very distal duct — which is why Recommendation 2 is restricted to **nondistal** strictures.
+- **Distal strictures, cholangioscopy vs intraductal biopsy:** one study found intraductal biopsy outperformed cholangioscopic-guided biopsy for distal strictures (76% vs 50%), and cholangioscopy is mechanically poor in the very distal duct — so Recommendation 2 condition (a) names **nondistal** strictures; condition (b), a previous nondiagnostic ERCP without cholangioscopy, applies regardless of location (with expertise/equipment, condition c).
 - **No recommendation on IDUS or CLE** despite favorable test characteristics — adoption limited by availability, expertise, and cost.
 - **Timing of cholangioscopy and extent of EUS use are explicitly unsettled within the panel** (initial vs delayed cholangioscopy relative to proximal drainage; routine vs selective EUS for proximal strictures). Neither is resolved by a recommendation.
 - The interval before a repeat ERCP after a nondiagnostic one is named as a future direction — the document gives **no interval**.

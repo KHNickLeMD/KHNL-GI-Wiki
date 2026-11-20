@@ -163,7 +163,7 @@ If a diagnosis remains elusive after index ERCP:
 | CA 19-9 | Adjunct only | Inadequate alone | Elevated in cholestasis/cholangitis independent of malignancy |
 | IgG4 serology | IgG4-related disease | Adjunct only | Not diagnostic in isolation |
 | EUS-FNA/B | Extrahepatic stricture ± mass | 75–100% | Preferred over ERCP sampling when pancreatic mass present |
-| ERCP brush cytology | First-line intraductal sampling | 41–60% | Always include; inadequate alone for perihilar |
+| ERCP brush cytology | First-line intraductal sampling | 41.6% (2013 meta-analysis); later studies ~50%–60% | Always include; inadequate alone for perihilar |
 | ERCP forceps biopsy | Intraductal sampling | 40–88% | Adds yield in combination with cytology |
 | Cholangioscopy biopsy | Indeterminate / perihilar | 60–75% | Higher yield than brushings or forceps; requires single-operator scope |
 | FISH | Adjunct to cytology | 42.9% with FISH added vs 20.1% cytology alone | Polysomy on FISH is the abnormality associated with carcinoma; attenuated in PSC |
@@ -273,6 +273,7 @@ The following features increase pre-test probability of malignancy and should pr
 
 #### Endobiliary Ablation (Unresectable Perihilar CCA)
 
+- **Population (Rec 10):** malignant perihilar stricture due to cholangiocarcinoma, **not a candidate for resection or transplantation**
 - **PDT or RFA plus plastic stent preferred over plastic stent alone** (Conditional, Low evidence) — survival advantage ~13–14 months in PDT RCTs; meta-analyses support both PDT and RFA
 - PDT: requires systemic photosensitizer; mandates 4–6 weeks sun avoidance post-procedure; photosensitizers not FDA-approved for CCA
 - RFA: FDA-approved; easier to apply; risk of hemobilia (~4%) and abdominal pain

@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Endoscopic Surveillance and Management o
 category: source
 tags: [ibd, ulcerative-colitis, crohns, dysplasia, colorectal-cancer, chromoendoscopy, surveillance, colonoscopy, aga, cpu]
 created: 2026-09-05
-updated: 2026-09-23
+updated: 2026-11-20
 sources: [asge-2015-scenic-ibd-dysplasia]
+verified: 2026-11-20
 raw: "GI Guidelines/AGA/AGA 2021 CPU Colorectal Dysplasia Surveillance in IBD.pdf"
 ---
 
@@ -25,7 +26,7 @@ Reframes inflammatory bowel disease (IBD)-related colorectal dysplasia around a 
 
 Three practical consequences run through the document. First, the **vocabulary changes**: lesions are polypoid (≥2.5 mm tall), nonpolypoid (<2.5 mm), or *invisible* (found only on nontargeted biopsy). The terms **dysplasia-associated lesion or mass (DALM), adenoma-like mass (ALM), and "flat dysplasia"** are to be **abandoned**. Second, **nontargeted biopsies become conditional** rather than routine — required when white-light endoscopy is used without chromoendoscopy, optional when dye-spray or virtual chromoendoscopy is used on an HD scope. Third, **most visible dysplasia is resected endoscopically**, and colectomy is reserved for unresectable visible dysplasia or invisible multifocal/high-grade dysplasia.
 
-The update also puts **virtual chromoendoscopy (VCE) on equal footing with dye-spray chromoendoscopy (DCE)** when HD endoscopy is used — a meta-analysis of 11 randomized controlled trials (RCTs) found VCE performed similarly to DCE and high-definition white-light endoscopy (HD-WLE) for dysplasia detection, with shorter withdrawal times.
+The update makes **virtual chromoendoscopy (VCE) a suitable alternative to dye-spray chromoendoscopy (DCE)** when HD endoscopy is used (BPA 7), while its own endorsement goes to HD-DCE — several recent studies showed similar dysplasia detection with HD VCE vs DCE, with shorter withdrawal times favoring VCE, and a meta-analysis of 11 randomized controlled trials (RCTs) confirmed VCE performed similarly to DCE and high-definition white-light endoscopy (HD-WLE) for per-patient dysplasia detection.
 
 Surveillance intervals move from a fixed number to a **1–5 year risk-stratified range**, and — notably — the update endorses extending to **every 5 years in the lowest-risk patients**, which is longer than traditional US practice.
 
@@ -51,6 +52,11 @@ Surveillance intervals move from a fixed number to a **1–5 year risk-stratifie
 - When biopsying an inflamed segment, target the most severely affected area — specifically **the edges of ulcers**, if present.
 - **Crohn's disease isolated to the small bowel** does not carry greater CRC risk than the non-IBD population → **average-risk CRC screening applies**, not IBD surveillance.
 
+### Optimizing detection conditions (BPA 4)
+
+- Optimize conditions and practices for dysplasia detection: **control of inflammation**, **HD endoscopes**, **bowel preparation**, **careful washing and inspection of all colorectal mucosa**, and **targeted sampling** of any suspicious mucosal irregularity.
+- Surveillance ideally performed when all inflammation is well controlled — inflammation obscures subtle findings and can cause false-positive dysplasia on pathology.
+
 ### Nontargeted biopsy protocol (BPA 8) — when it is and isn't required
 
 - **When required:** white light endoscopy (WLE) used **without** dye-spray or virtual chromoendoscopy.
@@ -71,12 +77,13 @@ Surveillance intervals move from a fixed number to a **1–5 year risk-stratifie
 - Applied liberally over the entire colonic mucosal surface during withdrawal, via spray catheter or waterjet.
 - **Yield:** ~**2-fold** greater dysplasia yield than standard-definition WLE; **1.6-fold** greater than HD-WLE in a meta-analysis of 4 RCTs.
 - **No study has evaluated DCE's impact on long-term CRC risk or CRC-related death.**
-- Should be considered in **all** persons with colonic IBD undergoing surveillance, **particularly** if a standard-definition scope is used or there is a history of dysplasia.
+- DCE, **performed by appropriately trained endoscopists**, should be considered in **all** persons with colonic IBD undergoing surveillance, **particularly** if a standard-definition scope is used or there is a history of dysplasia.
 
 **VCE** — narrow-band imaging (NBI) (Olympus), i-scan (Pentax), Fuji intelligent color enhancement.
 
 - **A suitable alternative to DCE when using HD endoscopy.**
-- A meta-analysis of **11 RCTs** confirmed VCE performed **similarly** to DCE and HD-WLE for per-patient dysplasia detection, with **shorter withdrawal times** favoring VCE.
+- Several recent studies: similar dysplasia detection rates for HD NBI or HD i-scan vs DCE, with **shorter withdrawal times** favoring VCE.
+- A meta-analysis of **11 RCTs** confirmed VCE performed **similarly** to DCE and HD-WLE for per-patient dysplasia detection.
 - Network meta-analyses have shown **no single technique statistically superior** (HD-WLE with nontargeted biopsies vs DCE vs NBI), though there is a trend favoring DCE.
 
 ### Targeted biopsy and resection (BPA 5, 9)
@@ -118,8 +125,7 @@ Surveillance intervals move from a fixed number to a **1–5 year risk-stratifie
 |---|---|
 | Most patients **in remission**, no additional high-risk factors | **2 or 3 years** |
 | **Additional high-risk factors present** | **1 year** |
-| **Lowest-risk** patients (see below) | up to **5 years** |
-| Uncertainty about disease control or dysplasia risk; **first-ever** surveillance exam, or first after many years | err sooner — **2–3 years** |
+| **Lowest-risk** patients (see below) | up to **5 years** — but err sooner (**2–3 years**) **in this group** if disease control or dysplasia risk is uncertain, e.g., first-ever surveillance exam or first after many years |
 | Crohn's isolated to the small bowel | average-risk CRC screening, not IBD surveillance |
 
 **"Lowest risk" is defined as** historically well-controlled disease between consecutive colonoscopies with **either**:
@@ -128,14 +134,42 @@ Surveillance intervals move from a fixed number to a **1–5 year risk-stratifie
 
 in the **absence of other inherent CRC risk factors**.
 
+**Figure 2C criteria — next colonoscopy when no dysplasia is found at the present colonoscopy** (err toward the more frequent category if ≥1 higher-risk factor exists; timing based on past and ongoing CRC risk factors and mucosal features that may obscure dysplasia):
+
+| 1 year | 2 or 3 years | 5 years |
+|---|---|---|
+| Moderate or severe inflammation (any extent) | Mild inflammation (any extent) | Continuous disease remission since last colonoscopy **with mucosal healing on current exam**, plus **either**: |
+| PSC | Strong family history of CRC (but no first-degree relative [FDR] <age 50) | ≥2 consecutive exams without dysplasia |
+| Family history of CRC in an FDR age <50 | Features of prior severe colitis (moderate pseudopolyps, extensive mucosal scarring) | Minimal historical colitis extent (ulcerative proctitis or <1/3 of colon in CD) |
+| Dense pseudopolyposis | History of invisible dysplasia or higher-risk visible dysplasia >5 years ago | |
+| History of invisible dysplasia or higher-risk visible dysplasia <5 years ago | History of lower-risk visible dysplasia <5 years ago | |
+
+- **Endoscopic severity (Figure 2 note):** moderate–severe = Simple Endoscopic Score for Crohn's Disease (SES-CD) ≥7 / Mayo 2/3; mild = SES-CD 3–6 / Mayo 1; no active disease = SES-CD 0–2 / Mayo 0.
+- Figure 2C's 5-year box requires mucosal healing on the current exam plus either criterion; the body text (BPA 11) words the lowest-risk group as above.
+
 **Context:** intervals have traditionally ranged **1–3 years among US societies** and **1–5 years among European societies**.
 
 ### After endoscopic resection of a visible dysplastic lesion
 
-| Lesion risk | Next surveillance exam |
-|---|---|
-| **Highest-risk lesions** | **3–6 months** |
-| **Lowest-risk** — simple sub-centimeter sessile or pedunculated low-grade adenomas | **no more than 24 months** |
+*Figures 2A and 2B: consider expert opinion if uncertain.*
+
+**Figure 2A — visible and invisible dysplasia within a colitis field:**
+
+| Endoscopic assessment | Management | Next colonoscopy |
+|---|---|---|
+| <2 cm + resectable (clear border, no features of submucosal invasion or fibrosis) + no histologic features of invasive cancer | Endoscopic resection with continued surveillance | **3–6 mo**: high-grade dysplasia or incomplete resection · **12 mo**: >1 cm low-grade dysplasia (LGD) · **24 mo**: <1 cm or pedunculated LGD |
+| Large (≥2 cm); complex (lateral spreading, highly irregular or indistinct border); incomplete resection after several attempts; local recurrence | Endoscopic resection with intensive surveillance vs surgery | Every **3–6 mo** for first year (if resected); decide on resection by lesion details, local expertise, disease activity |
+| Unresectable (size, location, features of invasive cancer or submucosal fibrosis); invasive cancer on histology | Surgery | — |
+| Invisible dysplasia (nontargeted biopsy) or subtle/poorly delineated lesion (targeted biopsy) | Confirm histology with second pathologist; treat inflammation; perform DCE | DCE to unmask subtle lesions; no lesion seen → extensive nontargeted biopsies in area of prior dysplasia; then manage per 2A or 2B |
+
+**Figure 2B — no visible dysplasia on DCE:**
+
+| Histologic assessment | Management | Next colonoscopy |
+|---|---|---|
+| Persistent high-grade or multifocal invisible dysplasia | Surgery | — |
+| Persistent unifocal low-grade invisible dysplasia, or no histologic dysplasia | Intensive surveillance with DCE | **3–6 mo** if prior high-grade or multifocal dysplasia; **6–12 mo** if prior low-grade dysplasia; continue until **2 consecutive negative high-quality DCE exams** |
+
+- Long-term management after intensive surveillance is uncertain — discuss risks and benefits of surgery vs surveillance using current and past inflammatory burden, quality of mucosal visualization, details of the original dysplasia site, and other CRC risk factors (Figure 2 footnote).
 
 ### Ileoanal pouch surveillance (BPA 12)
 
@@ -171,13 +205,12 @@ in the **absence of other inherent CRC risk factors**.
 
 ## Contradictions / Open Questions
 
-- **Supersedes parts of [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] (tier 1, older).** SCENIC established the modified-Paris vocabulary this CPU adopts, but this 2021 update goes further: it puts **virtual chromoendoscopy on par with dye-spray chromoendoscopy** on HD scopes, and makes **nontargeted biopsies conditional** rather than the default. Where the two differ, the **2021 CPU wins on publication date within tier 1**; SCENIC's contribution stands where it does not conflict.
-- **Societies disagree on nontargeted biopsies.** Most societies no longer recommend them if DCE is performed. **ASGE endorses nontargeted biopsies as an alternative to DCE** when DCE expertise is unavailable or the mucosa is poorly visualized (significant underlying inflammation, significant pseudopolyposis, poor bowel preparation). **American College of Gastroenterology (ACG) and European Society of Gastrointestinal Endoscopy (ESGE) endorse virtual chromoendoscopy as an alternative to DCE.** Surfaced rather than resolved — the CPU itself does not pick a winner.
+- **Supersedes parts of [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] (tier 1, older).** SCENIC established the modified-Paris vocabulary this CPU adopts, but this 2021 update goes further: it makes **virtual chromoendoscopy a suitable alternative to dye-spray chromoendoscopy** on HD scopes, and makes **nontargeted biopsies conditional** rather than the default. Where the two differ, the **2021 CPU wins on publication date within tier 1**; SCENIC's contribution stands where it does not conflict.
+- **Societies disagree on nontargeted biopsies.** Most societies no longer recommend them if DCE is performed. **ASGE endorses nontargeted biopsies as an alternative to DCE** when DCE expertise is unavailable or the mucosa is poorly visualized (significant underlying inflammation, significant pseudopolyposis, poor bowel preparation). **American College of Gastroenterology (ACG) and European Society of Gastrointestinal Endoscopy (ESGE) endorse virtual chromoendoscopy as an alternative to DCE.** This CPU endorses **HD-DCE with targeted biopsies**, while acknowledging that HD-VCE with targeted biopsies or careful HD-WLE with targeted and nontargeted biopsies also appear appropriate.
 - **No RCT has evaluated whether dysplasia surveillance in IBD works.** Evidence is observational (earlier cancer stage at diagnosis, improved CRC-related survival). Likewise, **no study has evaluated DCE's effect on long-term CRC risk or CRC-related death.**
 - **Steroid-free of any GRADE rating** — as a CPU expert review, none of the 14 BPAs carries a strength or certainty grade.
 - **Open per the authors:** the role of nontargeted biopsies when using HD scopes; the long-term safety of endoscopic management of large/complex dysplastic lesions; and the optimal surveillance intervals accounting for lifetime inflammatory burden.
 - **Whether mesalamine is independently chemopreventive is unresolved** — relevant to any wiki page that implies it is.
-- Figures 1 and 2 (principles of CRC screening in IBD; dysplasia management and surveillance-interval algorithm) are not reproduced as images; their decision content is captured as tables above from the body text.
 
 ---
 

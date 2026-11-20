@@ -3,8 +3,9 @@ title: "Functional Esophageal Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, esophagus, functional-heartburn, reflux-hypersensitivity, globus, functional-chest-pain, functional-dysphagia]
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/Other/Rome V 2026 Functional Esophageal Disorders (Gyawali).pdf"
 ---
 
@@ -48,9 +49,9 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 
 ### Figure 1 — global algorithm for evaluation and classification of E-DGBI
 
-- **Dysphagia is the warning sign.** A patient with dysphagia goes straight to endoscopic visualization; chest pain, heartburn and globus may be given a **PPI trial first if there are no warning signs** on history and physical to suggest a cardiac issue or GI malignancy.
+- **Warning signs skip the upfront PPI trial:** dysphagia (with or without weight loss) and chest pain with eating → straight to endoscopic visualization; otherwise chest pain, heartburn and globus may be given a **PPI trial first if there are no warning signs** on history and physical to suggest a cardiac issue or GI malignancy.
 - **All patients with chest pain should have cardiac issues ruled out** before esophageal workup.
-- **8-week PPI trial** → responder: evaluate and treat accordingly. Nonresponder → endoscopic visualization.
+- **8-week PPI trial** → responder: evaluate and treat accordingly, and **consider endoscopy for screening and esophageal function testing to confirm the diagnosis**. Nonresponder → endoscopic visualization.
 - **What to biopsy at endoscopy:** isolated chest pain — **add biopsy only if it occurs with eating**; dysphagia — esophagogastroduodenoscopy (EGD) **with** biopsy; globus — laryngoscopy ± EGD; heartburn — EGD **without** biopsy unless Barrett's esophagus is suspected.
 - Abnormality identified → evaluate and treat accordingly. No abnormality → **esophageal function testing**: reflux testing per Lyon 2.0 (wireless pH / 24-hour pH-impedance) and motility testing per Chicago Classification version 4.0 (high-resolution manometry [HRM] ± functional lumen imaging probe [FLIP] / timed barium esophagram).
 - Still no abnormality → **esophageal disorder of gut–brain interaction**.
@@ -62,15 +63,15 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 | AET | **<4%** on all days | Rules out GERD |
 | AET | **4%–6%** | **Inconclusive** |
 | AET | **>6%** | Supports / conclusive GERD |
-| Reflux episodes | **<40** | Supports non-GERD |
-| Reflux episodes | **>80** | Suggests GERD |
+| AET + reflux episodes | **AET <4% and <40 episodes** | Rules out GERD |
+| AET + reflux episodes | **AET >6% and >80 episodes** | Suggests GERD |
 | MNBI | **<1500 Ω** | Supports GERD |
 | MNBI | **>2500 Ω** | Reasonably excludes GERD; supports functional heartburn |
 | Endoscopy | **LA grade B, C or D**, biopsy-proven Barrett's, peptic stricture | Conclusive GERD (LA grade B newly conclusive in Lyon 2.0) |
 | Symptom index | **≥50%** | Positive reflux-symptom association |
 | Symptom association probability | **≥95%** | Positive reflux-symptom association |
 
-- **Off vs on therapy:** wireless pH monitoring off PPI is preferred for assessing day-to-day AET variability and for ruling out nonerosive reflux disease (NERD). Testing **off acid suppression** is advised when clinical suspicion for GERD remains high after PPI nonresponse. Stop PPIs **2 to 4 weeks** before testing to detect baseline GERD.
+- **Off vs on therapy:** wireless pH monitoring off PPI is preferred for assessing day-to-day AET variability and for ruling out nonerosive reflux disease (NERD). Testing **off acid suppression** is advised when clinical suspicion for GERD remains high after PPI nonresponse. To detect baseline GERD (LA grade B/C/D), **endoscopy** should ideally be done after **2 to 4 weeks** off PPIs (no washout interval is given for pH testing).
 - **Refractory heartburn on double-dose PPI** is defined by **AET >4% and >80 reflux episodes**; **functional heartburn on double-dose PPI** by **AET <1%, <40 reflux episodes and MNBI >2500 Ω**.
 - **A poor PPI response carries high negative predictive value for GERD** and supports an E-DGBI diagnosis.
 
@@ -86,7 +87,7 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 >
 > *Consider mucosal biopsies if chest pain occurs with meals, as this could be a surrogate for dysphagia.*
 
-- **Prevalence 1.4%** (95% confidence interval 1.3%–1.5%) in a global survey of 54,127 individuals; slightly more common in women (1.5% vs 1.3%) and in those **younger than 65** (1.4%–1.5% vs 1.0%).
+- **Prevalence 1.4%** (95% confidence interval 1.3%–1.5%) in a global survey (54,127 internet respondents in 26 countries + 18,949 household-interview respondents in 9 countries); slightly more common in women (1.5% vs 1.3%) and in those **younger than 65** (1.4%–1.5% vs 1.0%).
 - Among patients with noncardiac chest pain (NCCP): **~50%–60% have GERD, 15%–18% have an esophageal motility disorder, and 32%–35% meet criteria for functional chest pain.**
 - **Cardiac exclusion comes first** — esophageal workup should only proceed after a cardiologist or primary care physician confirms the symptoms are unrelated to concurrent or new coronary artery disease.
 - **8-week course of optimized PPI or potassium-competitive acid blocker (PCAB)** is simple and cost-effective given the high GERD prevalence in NCCP. Nonresponders with persisting GERD suspicion → ambulatory reflux testing **off acid suppression**.
@@ -95,7 +96,7 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 - **Functional chest pain is a diagnosis of exclusion** — there is no definitive clinical test to confirm esophageal origin.
 - **Psychiatric comorbidity in up to 75%** of NCCP patients (anxiety, depression, somatization); chest pain is a common feature of panic attacks.
 - **Abelchia** (retrograde cricopharyngeal dysfunction / inability to belch) is an under-recognized motility disorder that can cause chest pain and audible gurgling; HRM may show absent upper esophageal sphincter (UES) relaxation during reflux events, and pH-impedance shows continuously high impedance from esophageal air entrapment.
-- **Treatment:** neuromodulation of pain — TCAs, serotonin norepinephrine reuptake inhibitors (SNRIs), trazodone — with randomized trials showing **up to 50% effectiveness above placebo**, whereas **selective serotonin reuptake inhibitors (SSRIs) show inconsistent results**. Side effects or stigma may limit use. Alternatives explored: gabapentin, pregabalin, dronabinol, theophylline (cautious use). Behavioral: **GI-directed cognitive behavioral therapy (GI-CBT)** — a Cochrane review found reduced symptom frequency (relative risk 0.70; 95% confidence interval 0.53–0.92) — plus gut-directed hypnotherapy and biofeedback.
+- **Treatment:** neuromodulation of pain — TCAs, serotonin norepinephrine reuptake inhibitors (SNRIs), trazodone — with randomized trials showing **up to 50% effectiveness above placebo**, whereas **selective serotonin reuptake inhibitors (SSRIs) show inconsistent results**. Side effects or stigma may limit use. Alternatives explored: gabapentin, pregabalin, dronabinol, theophylline — all require cautious use because of side effects. Behavioral: **GI-directed cognitive behavioral therapy (GI-CBT)** — a Cochrane review found reduced symptom frequency (relative risk 0.70; 95% confidence interval 0.53–0.92) — plus gut-directed hypnotherapy and biofeedback.
 
 ### A2. Diagnostic criteria for functional heartburn
 
@@ -150,9 +151,9 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 > 2. Absence of evidence that **GERD** (abnormal endoscopy ≥LA grade B esophagitis, or reflux burden by Lyon 2.0) **or nonreflux esophagitis** is the cause of the symptom
 > 3. **Absence of disorders of EGJ obstruction and/or disorders of esophageal peristalsis** — except IEM, per Chicago Classification version 4.0
 >
-> Criteria fulfilled for the past 3 months, onset ≥6 months before diagnosis, frequency at least once a week following optimized antisecretory therapy.
+> Criteria fulfilled for the past 3 months, onset ≥6 months before diagnosis, frequency at least once a week following optimized antisecretory therapy for at least 8 weeks.
 
-- Globus is **common and benign but chronic**: up to **46%** of otherwise healthy individuals report the sensation at some point, typically peaking in middle age, equally in both sexes, though **women seek care more frequently**. Lifetime prevalence **21.5%**, peak onset ages **35–54**. Rome IV population study across the US, UK and Canada: **8.1%**. Rome Foundation global data: **7.5%** more than twice weekly.
+- Globus is **common and benign but chronic**: up to **46%** of otherwise healthy individuals report the sensation at some point, typically peaking in middle age, equally in both sexes, though **women seek care more frequently**. A survey in China: lifetime prevalence **21.5%**, peak onset ages **35–54**. Rome IV population study across the US, UK and Canada: **8.1%**. Rome Foundation global data: **7.5%** more than twice weekly.
 - **Persists in 75% of patients at 3 years and 50% at 7 years.** Accounts for about **4% of new ear, nose and throat referrals**.
 - Prevalence of feeling a lump between meals **7.0%**; among those, **9.9% also reported dysphagia**. Overall globus prevalence when strictly defined: **0.8%**.
 - **Workup:** eliciting a compatible history and ruling out structural lesion, GERD, or a major motor disorder. **There must be no dysphagia and no alarm features (odynophagia, weight loss).** Physical examination of the neck followed by **laryngoscopy** is the advised initial evaluation.
@@ -196,7 +197,7 @@ The chapter also sharpens the **functional heartburn vs reflux hypersensitivity*
 | SSRI | Paroxetine | 50–75 mg/d | 50 | NCCP | Modest |
 | SSRI | Paroxetine | 10–40 mg/d | 69 | NCCP | Symptoms −21.7% |
 | SSRI | Citalopram | 20 mg IV | 10 | Esophageal sensitivity | Significant |
-| Other | Trazodone | 100–150 mg/d | 29 | Esophageal dysmotility | Symptoms −59% |
+| Trazodone | Trazodone | 100–150 mg/d | 29 | Esophageal dysmotility | Symptoms −59% |
 | SNRI | Venlafaxine | 75 mg/d | 43 | Functional chest pain | Symptoms −59% |
 | Other | Theophylline | 200 mg twice daily | 24 | NCCP | Symptoms −58% |
 | Other | Gabapentin | 300 mg 3 times daily | 87 | Globus | Patients −66% |

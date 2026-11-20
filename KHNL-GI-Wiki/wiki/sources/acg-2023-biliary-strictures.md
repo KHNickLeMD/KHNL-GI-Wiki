@@ -3,8 +3,9 @@ title: "ACG 2023: Diagnosis and Management of Biliary Strictures"
 category: source
 tags: [biliary-stricture, ercp, eus, cholangioscopy, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/ACG/ACG 2023 Diagnosis & Management of Biliary Strictures.pdf"
 ---
 
@@ -27,9 +28,9 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 ### Epidemiology and Malignancy Risk
 
-- Biliary strictures in adults are more likely to be **malignant than benign** except in clearly defined scenarios (e.g., anastomotic stricture after [[liver-transplantation|liver transplant]], postcholecystectomy injury, known [[chronic-pancreatitis|chronic pancreatitis]]). Malignancy confirmed in 73–87% of referred patients in large series.
+- Biliary strictures in adults are more likely to be **malignant than benign** (Key Concept 1); patients with obviously benign etiologies (e.g., anastomotic stricture after [[liver-transplantation|liver transplant]]) were not included in that estimate. Malignancy confirmed in 73–87% of referred patients in large series.
 - Estimated ~34,000 annual cases of malignant extrahepatic stricture and ~3,000 cases of malignant perihilar stricture in the US per year.
-- Noninvasive testing (computed tomography [CT], magnetic resonance imaging [MRI], [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] morphology alone, carbohydrate antigen [CA] 19-9, carcinoembryonic antigen [CEA]) has diagnostic accuracy of only 60–80%; tissue diagnosis is required in the vast majority of cases.
+- Noninvasive testing (computed tomography [CT], magnetic resonance imaging [MRI], [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] morphology alone) has diagnostic accuracy of only 60–80%; biomarkers (carbohydrate antigen [CA] 19-9, carcinoembryonic antigen [CEA]) are even less accurate; tissue diagnosis is required in the vast majority of cases.
 
 ### Diagnosis: Extrahepatic Stricture
 
@@ -42,7 +43,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 - **Key Concept 3:** For suspected perihilar [[cholangiocarcinoma]], **avoid EUS-FNA/B or percutaneous biopsy of the primary lesion** (risk of transperitoneal seeding, peritoneal metastasis in up to 83% with positive transperitoneal biopsy in one Mayo Clinic series). Intraductal sampling is preferred. EUS is appropriate only to sample regional lymphadenopathy (a positive node is itself a transplant contraindication, so no transplant-eligibility risk).
 - **Rec 3 (Strong, Low):** For suspected malignant perihilar stricture, use **multimodality intraductal sampling** at the index ERCP — not brush cytology alone.
-  - Brush cytology sensitivity: ~41–60% (meta-analysis); inadequate alone
+  - Brush cytology sensitivity: 41.6% (2013 meta-analysis); later studies ~50%–60%; inadequate alone
   - Fluoroscopy-directed forceps biopsy: sensitivity 40–88%; combination with brushings improves yield to ~59%
   - Cholangioscopy-directed biopsy: sensitivity 60–75%; superior to brushings or forceps alone in comparative study
   - Fluorescence in situ hybridization (FISH): increases sensitivity from ~20% (cytology alone) to ~43%; polysomy on FISH associated with odds ratio (OR) >77 for malignancy. Performance is attenuated in PSC.
@@ -51,7 +52,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 ### Diagnosis: Indeterminate Stricture (Key Concept 4)
 
 - If etiology remains uncertain after ERCP with multimodality sampling, adjunct options include:
-  - **pCLE** (probe-based confocal laser endomicroscopy): sensitivity/accuracy ~90% in combination with cholangiography, but not yet accepted for stand-alone oncological decisions
+  - **pCLE** (probe-based confocal laser endomicroscopy): sensitivity/accuracy 90% when cholangiographic impression + pCLE + histopathology are combined, but not yet accepted for stand-alone oncological decisions
   - **Intraductal ultrasound**: accuracy up to 92% but cannot acquire tissue; declining availability
   - **Next-generation sequencing (NGS)** of biliary brushings/biopsies: improves sensitivity from 35% to 77% (brushings) and 52% to 83% (biopsies) in a prospective study of 252 patients
 - Multidisciplinary tumor board review is advisable, especially after 2 negative sampling sessions with persistent malignancy concern.
@@ -82,7 +83,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 ### Endobiliary Ablation (Rec 10)
 
-- **Rec 10 (Conditional, Low):** For unresectable malignant perihilar cholangiocarcinoma, use **PDT or RFA plus plastic stent** over plastic stent alone. Both RCT and meta-analysis data support a survival advantage (~13–14 months in PDT RCTs). PDT has stronger perihilar data; RFA has greater ease of use and FDA approval (photosensitizers are not FDA-approved for cholangiocarcinoma).
+- **Rec 10 (Conditional, Low):** For malignant perihilar stricture due to cholangiocarcinoma in patients who are **not candidates for resection or transplantation**, use **PDT or RFA plus plastic stent** over plastic stent alone. Both RCT and meta-analysis data support a survival advantage (~13–14 months in PDT RCTs). PDT has stronger perihilar data; RFA has greater ease of use and FDA approval (photosensitizers are not FDA-approved for cholangiocarcinoma).
 - PDT caveat: photosensitivity requiring sunlight avoidance 4–6 weeks post-procedure.
 - RFA caveat: abdominal pain; hemobilia in ~4% (proximity to hepatic vasculature).
 
@@ -99,7 +100,7 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 | EUS-FNA/B preferred over ERCP-based tissue sampling for extrahepatic strictures due to apparent/suspected pancreatic mass | Strong | Moderate |
 | Prefer EUS-FNB (core needle) or EUS-FNA + ROSE over FNA alone | Conditional | Very Low |
 | **Diagnosis — Perihilar Stricture** | | |
-| Avoid EUS-FNA/B or percutaneous biopsy of primary lesion in suspected perihilar cholangiocarcinoma (seeding risk) | Strong | Low |
+| Avoid EUS-FNA/B or percutaneous biopsy of primary lesion in suspected perihilar cholangiocarcinoma (seeding risk) — Key Concept 3 | Ungraded | — |
 | Use multimodality intraductal sampling (not brush cytology alone) at index ERCP for suspected malignant perihilar stricture | Strong | Low |
 | **Drainage — Benign Extrahepatic Stricture** | | |
 | Prefer fcSEMS over MPS to reduce number of procedures | Conditional | Low |
@@ -109,10 +110,10 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 | Insufficient evidence to recommend uSEMS vs fcSEMS for unresectable malignant extrahepatic stricture | — | — |
 | **Drainage — Perihilar Stricture** | | |
 | Insufficient evidence to recommend ERCP vs PTBD for drainage of malignant perihilar stricture | — | — |
-| Drain >50% of nonatrophic liver volume (volumetric sectorial goal) | Strong | Low |
+| Drain >50% of nonatrophic liver volume (volumetric sectorial goal) — Key Concept 11 | Ungraded | — |
 | Insufficient evidence to recommend plastic stent vs uSEMS for malignant perihilar stricture | — | — |
 | **Endobiliary Ablation** | | |
-| PDT or RFA plus plastic stent over plastic stent alone for unresectable malignant perihilar cholangiocarcinoma | Conditional | Low |
+| PDT or RFA plus plastic stent over plastic stent alone for malignant perihilar cholangiocarcinoma, not a candidate for resection or transplantation | Conditional | Low |
 | **EUS-Guided Biliary Access** | | |
 | EUS-guided biliary drainage preferred over PTBD when ERCP fails or is impossible | Conditional | Very Low |
 

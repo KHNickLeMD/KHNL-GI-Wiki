@@ -5,6 +5,7 @@ tags: [DGBI, IBS, functional-gi, rome-criteria, biopsychosocial, brain-gut-axis,
 created: 2026-05-15
 updated: 2026-11-16
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/Other/Rome Foundation 2026 Rome V Criteria.pdf"
 ---
 

@@ -184,7 +184,7 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 | **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
 | PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
 
-- **Tegaserod eligibility (both guidelines):** women **<65** without a history of cardiovascular ischemic events (myocardial infarction (MI), stroke, transient ischemic attack (TIA), angina) — ACG adds ≤1 cardiovascular (CV) risk factor and failure of secretagogues.
+- **Tegaserod eligibility:** women **<65** (both guidelines) — AGA: without a history of cardiovascular ischemic events (myocardial infarction (MI), stroke, transient ischemic attack (TIA), angina); ACG: ≤1 cardiovascular (CV) risk factor and failure of secretagogues.
 - **Plecanatide dose — 3 mg once daily.** Both [[acg-2020-ibs|ACG 2020]] and the newer [[aga-2022-ibs-c|AGA 2022]] give **3 mg** and only 3 mg; it is FDA-approved at that dose for IBS-C *and* chronic idiopathic constipation (CIC). There is no higher IBS-C dose. Details on [[plecanatide]].
 
 ### IBS-D

@@ -63,10 +63,9 @@ Functional chest pain = **recurring retrosternal chest pain of presumed esophage
 - GERD — the most common cause of NCCP
 - Esophageal motor disorders — achalasia, conclusive EGJOO, distal esophageal spasm, hypercontractile esophagus, absent contractility
 - [[eosinophilic-esophagitis|Eosinophilic esophagitis (EoE)]] — especially chest pain **during eating**, which may be a surrogate for dysphagia
-- [[reflux-hypersensitivity|Reflux hypersensitivity]] — chest pain triggered by physiologic reflux events
+- [[reflux-hypersensitivity|Reflux hypersensitivity]] — heartburn or chest pain with normal endoscopy, physiologic acid exposure and a positive reflux–symptom association
 - **Abelchia** (retrograde cricopharyngeal dysfunction / inability to belch) — chest pain with **audible gurgling noises in the chest**; see [[abdominal-bloating-and-distention]]
 - Panic disorder and other psychiatric causes
-- Musculoskeletal chest wall pain
 
 ---
 

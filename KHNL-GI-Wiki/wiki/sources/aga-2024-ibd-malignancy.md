@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Management of Inflammatory Bowel Disease
 category: source
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/AGA/AGA 2024 CPU IBD in Malignancy.pdf"
 ---
 
@@ -20,7 +21,7 @@ raw: "GI Guidelines/AGA/AGA 2024 CPU IBD in Malignancy.pdf"
 
 AGA Clinical Practice Update (CPU) Commentary on the two-way relationship between inflammatory bowel disease (IBD) and cancer: (1) the malignancy risks conferred by chronic intestinal inflammation and by IBD immunosuppressive therapies, and (2) how to manage IBD medications in a patient who develops an active/recent cancer or who has a prior cancer history. Being a **Commentary**, it issues **no numbered Best Practice Advice statements**; its operative decision content is **Table 1 — what to do with each IBD drug class once a specific malignancy develops** (recreated below), plus quantified cancer-risk estimates.
 
-Two themes dominate. First, the drugs of greatest concern are **thiopurines** (non-melanoma skin cancer [NMSC], non-Hodgkin/hepatosplenic T-cell lymphoma, urinary-tract and cervical cancer) and **anti–tumor necrosis factor (TNF)** (melanoma; lymphoma chiefly when combined with a thiopurine). Newer classes — anti-integrin (vedolizumab), anti–IL-12/23 & anti–IL-23 (ustekinumab, risankizumab, mirikizumab), sphingosine-1-phosphate (S1P) modulators (ozanimod, etrasimod), and Janus kinase (JAK) inhibitors — have **no demonstrated increased malignancy risk in IBD** to date, though long-term data are limited. Second, for patients with **prior cancer**, accumulating cohort/registry data (CESAME, ENEIDA, NYCCO, SAPPHIRE, and meta-analyses) show **no significant increase in new or recurrent cancer** from immunomodulators, anti-TNF, vedolizumab, or ustekinumab — reassurance that effective IBD therapy generally need not be withheld on cancer-history grounds alone.
+Two themes dominate. First, the drugs of greatest concern are **thiopurines** (non-melanoma skin cancer [NMSC], non-Hodgkin/hepatosplenic T-cell lymphoma, urinary-tract and cervical cancer) and **anti–tumor necrosis factor (TNF)** (melanoma; lymphoma chiefly when combined with a thiopurine). Newer classes — anti-integrin (vedolizumab), anti–IL-12/23 & anti–IL-23 (ustekinumab, risankizumab, mirikizumab), sphingosine-1-phosphate (S1P) modulators (ozanimod, etrasimod), and Janus kinase (JAK) inhibitors — have **no demonstrated increased malignancy risk in IBD** to date, though long-term data are limited. Second, for patients with **prior cancer**, accumulating cohort/registry data (CESAME, ENEIDA, NYCCO, SAPPHIRE, and meta-analyses) show **no significant increase in new or recurrent cancer** from immunomodulators, anti-TNF, vedolizumab, or ustekinumab — prospective data lend "further reassurance" that IBD medications are not associated with a significant increase in incident cancer in patients with a cancer history.
 
 For **active cancer**, if IBD activity must be controlled during oncologic treatment, most biologics are warranted with close oncologist–gastroenterologist collaboration. Cytotoxic chemotherapy tends to quiet IBD (most patients achieve/maintain remission), whereas **hormonal deprivation therapy** (breast/prostate cancer) is associated with IBD flare (hazard ratio [HR] ~1.9–2.0). **Immune checkpoint inhibitors (ICIs)** can trigger an IBD-like colitis and, in patients with known IBD, provoke relapse in ~40% (CTLA-4 inhibitors > PD-1/PD-L1); ICI colitis is managed with steroids and biologics for steroid-refractory disease.
 
@@ -33,15 +34,16 @@ For **active cancer**, if IBD activity must be controlled during oncologic treat
 - **CRC risk factors in IBD:** longer disease duration, greater colonic extent, family history of CRC, concomitant **primary sclerosing cholangitis (PSC)** (>3-fold odds of CRC/dysplasia).
 - **Small-bowel adenocarcinoma** (Crohn's small-bowel inflammation): adjusted hazard ratio (aHR) **15.8** (95% confidence interval [CI] 11.0–22.8); **neuroendocrine tumors** aHR **5.5** — but absolute risk low (2.4/10,000 person-years [PY] Crohn's disease [CD]; 4.6/10,000 PY ileal CD vs 0.28 reference). Risk factors (RFs): tobacco, male sex, childhood-onset CD, long-standing/penetrating/stricturing disease, prior small-bowel resection.
 - **Intestinal lymphoma:** 2–3× increased (absolute 1–4/10,000 PY CD); predominantly B-cell non-Hodgkin, often Epstein-Barr virus (EBV)-associated.
-- **Anal cancer** (Crohn's perianal/anal disease): anal squamous cell carcinoma (SCC) 2.6/10,000 PY (with anal/perianal lesions) vs 0.8 without; RF = human papillomavirus (HPV), long-standing perianal fistulizing disease (combined SCC+adenocarcinoma 3.8/10,000 PY).
+- **Anal cancer** (Crohn's perianal/anal disease): anal squamous cell carcinoma (SCC) 2.6/10,000 PY (with anal/perianal lesions) vs 0.8 in IBD without anal/perianal fistula; RF = human papillomavirus (HPV), long-standing perianal fistulizing disease (combined SCC+adenocarcinoma 3.8/10,000 PY).
 - **Cholangiocarcinoma:** 4× more likely in IBD (7.6 vs 1.9/100,000 PY); driven by **PSC** (>150-fold vs no PSC; 5%–10% lifetime risk).
 - **Extraintestinal (systematic review):** NMSC (CD incidence rate ratio [IRR] 2.22; UC IRR 1.38), hematologic malignancy (CD IRR 2.40), lung cancer (CD IRR 1.53).
 
 ### Cancer risk associated with IBD therapies
-- **Thiopurines:** ~2× NMSC (persists after stopping → annual dermatologic exam for current/prior users); non-intestinal lymphoma standardized incidence ratio (SIR) 2.8–9.2 (highest absolute risk age >50 [1/354 PY]; highest relative risk age <30); hepatosplenic T-cell lymphoma in young males, esp. combined with anti-TNF, often fatal; possible acute myeloid leukemia (AML)/myelodysplastic syndrome (MDS) signal; urinary-tract cancer 2.8× (esp. males); cervical high-grade dysplasia/cancer 1.3× (driven by cumulative immunomodulator, not biologic, exposure).
+- **Thiopurines:** ~2× NMSC (persists after stopping → annual dermatologic exam for current/prior users); non-intestinal lymphoma standardized incidence ratio (SIR) 2.8–9.2 (highest absolute risk age >50 [1/354 PY]; highest relative risk age <30); hepatosplenic T-cell lymphoma in young males, esp. combined with anti-TNF, often fatal; possible acute myeloid leukemia (AML)/myelodysplastic syndrome (MDS) signal; urinary-tract cancer 2.8× (esp. males).
+- **Cervical high-grade dysplasia/cancer:** women with IBD 1.3× vs matched controls without IBD — risk largely associated with cumulative **immunomodulator** (not biologic) exposure.
 - **Methotrexate:** limited data; possible small NMSC increase.
-- **Anti-TNF:** conflicting melanoma data (one claims ~2× ; others null); lymphoma risk mostly not increased with **monotherapy** but consistently increased when **combined with thiopurine** (esp. young EBV-unexposed → hepatosplenic T-cell lymphoma).
-- **JAK inhibitors:** no increased malignancy demonstrated in IBD; rheumatoid arthritis (RA) signal (ORAL Surveillance) of ↑ any malignancy vs anti-TNF in patients >50 (NMSC, lung, lymphoma) — extrapolation uncertain.
+- **Anti-TNF:** conflicting melanoma data (one claims ~2× ; others null); lymphoma risk mostly not increased with **monotherapy** but consistently increased when **combined with thiopurine**, particularly in young EBV-unexposed patients; most concerning = hepatosplenic T-cell lymphoma.
+- **JAK inhibitors:** no increased malignancy demonstrated in IBD; rheumatoid arthritis (RA) trial data (patients >50 y) showed ↑ any malignancy vs anti-TNF in patients >50 (NMSC, lung, lymphoma) — extrapolation uncertain.
 - **Vedolizumab, ustekinumab, risankizumab, mirikizumab, ozanimod, etrasimod:** no increased malignancy risk shown (long-term data lacking); no data on combining biologic + small molecule.
 
 ### Prior cancer — new/recurrent cancer risk on IBD therapy (reassuring)
@@ -92,5 +94,5 @@ For **active cancer**, if IBD activity must be controlled during oncologic treat
 
 ## Contradictions / Open Questions
 - Melanoma–anti-TNF association is inconsistent (one insurance-claims study ~2×; Danish cohort and a biologics meta-analysis null). Table 1 nonetheless advises stopping anti-TNF if melanoma develops.
-- JAK-inhibitor malignancy signal derives largely from RA (ORAL Surveillance, age >50); direct IBD data do not show an increase — extrapolation uncertain.
+- JAK-inhibitor malignancy signal derives largely from an RA clinical trial (patients >50 y); direct IBD data do not show an increase — extrapolation uncertain.
 - **ICI colitis** has no page of its own (only [[immune-checkpoint-inhibitor-hepatitis]]); this CPU covers ICI colitis only tangentially.

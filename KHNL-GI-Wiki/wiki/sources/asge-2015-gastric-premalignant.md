@@ -3,8 +3,9 @@ title: "ASGE Guideline: The Role of Endoscopy in the Management of Premalignant 
 category: source
 tags: [gastric-polyps, gastric-intestinal-metaplasia, atrophic-gastritis, pernicious-anemia, gastric-adenocarcinoma, gastric-carcinoid, gist, subepithelial-lesions, eus, endoscopic-resection, asge]
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/ASGE/ASGE 2015 Premalignant and Malignant Conditions of the Stomach.pdf"
 ---
 
@@ -20,34 +21,34 @@ raw: "GI Guidelines/ASGE/ASGE 2015 Premalignant and Malignant Conditions of the 
 
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on the endoscopic management of premalignant and malignant gastric conditions — a revision/expansion of the 2006 ASGE upper-gastrointestinal (GI) premalignant-surveillance document. Covers gastric polyps (fundic gland, hyperplastic, adenomatous; sporadic vs familial adenomatous polyposis [FAP]/Lynch), [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]] and metaplastic atrophic gastritis, pernicious anemia, gastric carcinoids (types 1–4), [[gastric-adenocarcinoma|gastric adenocarcinoma]] (biopsy, endoscopic ultrasound [EUS] staging, palliation of malignant gastric outlet obstruction), gastric mucosa-associated lymphoid tissue (MALT) lymphoma, and gastric [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumors (GISTs)]]/subepithelial lesions.
 
-Core themes: gastric polyp histology cannot be predicted endoscopically → biopsy/resect; hyperplastic and adenomatous polyps carry malignant potential (fundic gland polyps [FGPs] do not, except in FAP); GIM and pernicious anemia confer increased gastric-cancer risk and warrant individualized surveillance; gastric cancer requires adequate biopsy sampling (≥7) and EUS for locoregional staging; EUS ± fine-needle aspiration (FNA) is the cornerstone for evaluating gastric subepithelial lesions. Note this is an **older** document — for current gastric-premalignant surveillance the page's primary recommendations follow [[acg-2025-gastric-premalignant|American College of Gastroenterology (ACG) 2025]], [[aga-2020-gastric-intestinal-metaplasia|American Gastroenterological Association (AGA) 2020 GIM]], [[aga-2021-atrophic-gastritis|AGA 2021 atrophic gastritis]], and [[aga-2026-gastric-polyps|AGA 2026 gastric polyps]]; this source contributes the endoscopic-technique and staging detail.
+Core themes: gastric polyp histology cannot be predicted endoscopically → biopsy/resect; hyperplastic and adenomatous polyps carry malignant potential (fundic gland polyps [FGPs] do not, except in FAP); GIM surveillance is suggested only for patients at increased risk from ethnic background or family history (for most US patients with GIM it is not clinically indicated), and pernicious anemia warrants endoscopy within 6 months of diagnosis; gastric cancer requires adequate biopsy sampling (≥7) and EUS for locoregional staging; EUS ± fine-needle aspiration (FNA) is the cornerstone for evaluating gastric subepithelial lesions. Note this is an **older** document — for current gastric-premalignant surveillance the page's primary recommendations follow [[acg-2025-gastric-premalignant|American College of Gastroenterology (ACG) 2025]], [[aga-2020-gastric-intestinal-metaplasia|American Gastroenterological Association (AGA) 2020 GIM]], [[aga-2021-atrophic-gastritis|AGA 2021 atrophic gastritis]], and [[aga-2026-gastric-polyps|AGA 2026 gastric polyps]]; this source contributes the endoscopic-technique and staging detail.
 
 ## Key Findings / Claims
 
-**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low; "recommend" = strong, "suggest" = conditional/weak).** The document numbers its own recommendations 1–16 and assigns each a quality grade; both are reproduced as published.
+**Recommendations (verbatim, with GRADE quality of evidence; ⊕⊕⊕⊕ high, ⊕⊕⊕◯ moderate, ⊕⊕◯◯ low, ⊕◯◯◯ very low).** The document numbers its own recommendations 1–16 and assigns each a **quality-of-evidence** grade only (Table 1); it assigns no strength labels — force is carried by "recommend" vs "suggest". Both are reproduced as published.
 
-1. We recommend solitary gastric polyps undergo biopsy or be resected when possible. (strong, ⊕⊕⊕⊕)
-2. We suggest polypectomy of fundic gland polyps 1 cm or larger, hyperplastic polyps 0.5 cm or larger, and adenomatous polyps of any size when possible. (conditional, ⊕⊕◯◯)
-3. We suggest surveillance endoscopy 1 year after removing adenomatous gastric polyps. (conditional, ⊕⊕◯◯)
-4. In the setting of multiple polyps, we recommend biopsy or resection of the largest polyps and representative biopsy specimens be taken from others. (strong, ⊕⊕⊕⊕)
-5. In the setting of multiple hyperplastic or adenomatous polyps, we suggest systematic sampling of the surrounding nonpolypoid gastric mucosa to assess for H pylori and metaplastic atrophic gastritis. (conditional, ⊕⊕◯◯)
-6. We suggest sampling and, when feasible, resection of large gastric polyps in patients with FAP to confirm histology and to assess for dysplasia. (conditional, ⊕⊕◯◯)
-7. We suggest surveillance endoscopy for patients with GIM who are at increased risk of gastric cancer due to ethnic background or family history. Optimal surveillance intervals have not been extensively studied and should be individualized. (conditional, ⊕⊕◯◯)
-8. We recommend endoscopic resection and surveillance endoscopy for patients with confirmed GIM with HGD [high-grade dysplasia] when feasible. (strong, ⊕⊕⊕◯)
-9. We suggest endoscopy within 6 months of the diagnosis of pernicious anemia or the development of upper GI symptoms in patients with pernicious anemia. (conditional, ⊕⊕◯◯)
-10. We recommend EUS for local staging of gastric carcinoids. (strong, ⊕⊕⊕◯)
-11. We suggest endoscopic resection of small (<1 cm) type 1 and type 2 gastric carcinoids that do not demonstrate aggressive features such as angioinvasion, muscular wall invasion, high proliferative index, and/or metastatic disease and endoscopic surveillance thereafter every 1 to 2 years. We suggest endoscopic removal for type 3 and 4 gastric carcinoids (isolated and <1 cm in diameter). (conditional, ⊕⊕◯◯)
-12. We recommend at least 7 biopsy samples be obtained of gastric masses or the heaped-up edges of ulcers suspicious for gastric adenocarcinoma. (strong, ⊕⊕⊕⊕)
-13. We recommend EUS and when applicable, EUS-FNA to locally stage gastric cancer. (strong, ⊕⊕⊕◯)
-14. We recommend endoscopically placed self-expanding metal stents for the palliation of malignant gastric outlet obstruction due to gastric cancer in patients with poor performance status or nonoperable anatomy. (strong, ⊕⊕⊕◯)
-15. We recommend EUS with or without FNA in the evaluation of gastric submucosal lesions. (strong, ⊕⊕⊕⊕)
-16. We suggest annual EUS surveillance of GISTs smaller than 2 cm if surgical resection is not performed to determine progression of size or change in echo features. (conditional, ⊕⊕◯◯)
+1. We recommend solitary gastric polyps undergo biopsy or be resected when possible. (⊕⊕⊕⊕)
+2. We suggest polypectomy of fundic gland polyps 1 cm or larger, hyperplastic polyps 0.5 cm or larger, and adenomatous polyps of any size when possible. (⊕⊕◯◯)
+3. We suggest surveillance endoscopy 1 year after removing adenomatous gastric polyps. (⊕⊕◯◯)
+4. In the setting of multiple polyps, we recommend biopsy or resection of the largest polyps and representative biopsy specimens be taken from others. (⊕⊕⊕⊕)
+5. In the setting of multiple hyperplastic or adenomatous polyps, we suggest systematic sampling of the surrounding nonpolypoid gastric mucosa to assess for H pylori and metaplastic atrophic gastritis. (⊕⊕◯◯)
+6. We suggest sampling and, when feasible, resection of large gastric polyps in patients with FAP to confirm histology and to assess for dysplasia. (⊕⊕◯◯)
+7. We suggest surveillance endoscopy for patients with GIM who are at increased risk of gastric cancer due to ethnic background or family history. Optimal surveillance intervals have not been extensively studied and should be individualized. (⊕⊕◯◯)
+8. We recommend endoscopic resection and surveillance endoscopy for patients with confirmed GIM with HGD [high-grade dysplasia] when feasible. (⊕⊕⊕◯)
+9. We suggest endoscopy within 6 months of the diagnosis of pernicious anemia or the development of upper GI symptoms in patients with pernicious anemia. (⊕⊕◯◯)
+10. We recommend EUS for local staging of gastric carcinoids. (⊕⊕⊕◯)
+11. We suggest endoscopic resection of small (<1 cm) type 1 and type 2 gastric carcinoids that do not demonstrate aggressive features such as angioinvasion, muscular wall invasion, high proliferative index, and/or metastatic disease and endoscopic surveillance thereafter every 1 to 2 years. We suggest endoscopic removal for type 3 and 4 gastric carcinoids (isolated and <1 cm in diameter). (⊕⊕◯◯)
+12. We recommend at least 7 biopsy samples be obtained of gastric masses or the heaped-up edges of ulcers suspicious for gastric adenocarcinoma. (⊕⊕⊕⊕)
+13. We recommend EUS and when applicable, EUS-FNA to locally stage gastric cancer. (⊕⊕⊕◯)
+14. We recommend endoscopically placed self-expanding metal stents for the palliation of malignant gastric outlet obstruction due to gastric cancer in patients with poor performance status or nonoperable anatomy. (⊕⊕⊕◯)
+15. We recommend EUS with or without FNA in the evaluation of gastric submucosal lesions. (⊕⊕⊕⊕)
+16. We suggest annual EUS surveillance of GISTs smaller than 2 cm if surgical resection is not performed to determine progression of size or change in echo features. (⊕⊕◯◯)
 
 **Other points:**
 - Gastric polyp histology cannot be reliably distinguished by endoscopic appearance → biopsy/polypectomy when detected. 70%–90% of gastric epithelial polyps are FGPs or hyperplastic.
 - **FGPs:** associated with long-term proton pump inhibitor (PPI) use; **not** an increased cancer risk in the absence of FAP. **Hyperplastic polyps:** dysplasia/focal cancer in 5%–19%; risk factors for dysplasia = size >1 cm, pedunculated morphology. **Adenomatous polyps:** malignant potential; recurrence up to 2.6% after complete endoscopic excision; cancer in 1.3% on follow-up. Endoscopic submucosal resection reduces recurrence vs endoscopic mucosal resection (EMR) but increases adverse events.
-- Gastric polyps occur with H pylori and environmental metaplastic atrophic gastritis → polypectomy + treat H pylori.
-- Gastric subepithelial/submucosal lesions arising from the muscularis propria can be removed endoscopically only by practitioners with dedicated training and skill.
+- Hyperplastic and adenomatous polyps may occur with H pylori infection and environmental metaplastic atrophic gastritis → polypectomy should be performed.
+- With ESD advances, **small** subepithelial lesions originating from the muscularis propria can be safely removed — but only in **select patients** by practitioners with dedicated training and skill.
 
 ## Relevance to Wiki
 - Updates [[gastric-polyps]] — additive endoscopic thresholds: resect FGP ≥1 cm, hyperplastic ≥0.5 cm, adenoma any size; surveillance 1 y after adenoma removal; sample surrounding nonpolypoid mucosa (H pylori + atrophic gastritis); largest-polyp + representative sampling when multiple.

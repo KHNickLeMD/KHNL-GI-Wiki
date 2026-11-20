@@ -152,7 +152,7 @@ Both American Gastroenterological Association (AGA) living guidelines rank advan
 | Domain | Finding | Source |
 |---|---|---|
 | **Malignancy** | Anti–IL-12/23 and anti–IL-23 agents (ustekinumab, risankizumab, mirikizumab) have **no demonstrated increased malignancy risk in IBD** — long-term data limited. The drugs of concern are [[thiopurines]] and [[anti-tnf-agents\|anti-TNF]] | [[aga-2024-ibd-malignancy]] |
-| **Prior cancer** | **Ustekinumab: no incident-cancer signal** in prior-cancer IBD patients. Effective IBD therapy generally need not be withheld on cancer-history grounds alone | [[aga-2024-ibd-malignancy]] |
+| **Prior cancer** | **Ustekinumab: no incident-cancer signal** in prior-cancer IBD patients. Prospective data lend further reassurance that IBD medications are not associated with a significant ↑ in incident cancer after a prior cancer | [[aga-2024-ibd-malignancy]] |
 | **When a cancer develops** | **No change** to anti–IL-12/23 or anti–IL-23 therapy for lymphoma, other hematologic malignancy, melanoma, nonmelanoma skin cancer (NMSC), or solid-organ malignancy — all "limited data" | [[aga-2024-ibd-malignancy]] Table 1 |
 | **Combining with a small molecule** | **No data** on combining a biologic with a small molecule | [[aga-2024-ibd-malignancy]] |
 | **Vaccine response** | Immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including ustekinumab**, and **not definitively established for the newer IL-23 inhibitors**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |

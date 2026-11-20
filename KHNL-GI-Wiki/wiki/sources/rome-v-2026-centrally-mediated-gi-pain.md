@@ -3,8 +3,9 @@ title: "Centrally Mediated Disorders of Gastrointestinal Pain (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, abdominal-pain, caps, abdominal-migraine, narcotic-bowel-syndrome, neuromodulators, central-sensitization]
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-20
 sources: []
+verified: 2026-11-20
 raw: "GI Guidelines/Other/Rome V 2026 Centrally Mediated Disorders of GI Pain (Fukudo).pdf"
 ---
 
@@ -44,7 +45,7 @@ Footnotes as printed: physiological events may include **eating, defecation, men
 - "Continuous" refers to pain **in the awake state**.
 - Pain is typically constant and may wax and wane; colicky, cramping, burning, dull or aching, and can be diffuse. The **constant** nature is what separates it from IBS, functional dyspepsia and biliary pain — though CAPS may overlap with them.
 - Prevalence: **0.02%** (95% CI 0.01–0.03) for category A; **0.11%** for category B. Up to approximately **20%** of DGBI patients in some specialty series have chronic abdominal pain. US householder survey: **1.52** physician visits per year for abdominal pain, **5.66** for extra-GI symptoms.
-- Up to **two-thirds** of patients with CAPS have been or are being treated with opioids, which do not improve pain control, function or quality of life in chronic visceral pain.
+- Up to **two-thirds** of patients with CAPS have been or are being treated with opioids, although long-term opioid use in chronic visceral pain often does not improve pain control, function or quality of life.
 
 ### D1 — physical examination signs the chapter names
 
