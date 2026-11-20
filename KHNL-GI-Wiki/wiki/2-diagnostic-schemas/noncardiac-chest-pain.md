@@ -5,6 +5,8 @@ tags: [chest-pain, esophagus, dgbi, gerd, motility, rome-v]
 created: 2026-11-05
 updated: 2026-11-20
 sources: [rome-v-2026-functional-esophageal-disorders]
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 ---
 
 ## Contents
@@ -20,7 +22,7 @@ sources: [rome-v-2026-functional-esophageal-disorders]
 
 ## Definition / Scope
 
-- **Noncardiac chest pain (NCCP)** — broad umbrella term, not a diagnosis
+- **Noncardiac chest pain (NCCP)** — broad umbrella; functional chest pain is a subset within it
 - Most cases → [[gerd|gastroesophageal reflux disease (GERD)]]; a minority → esophageal motor disorder; about a third → [[functional-chest-pain|functional chest pain]], the esophageal disorder of gut–brain interaction (E-DGBI) endpoint of this schema ([[disorders-of-gut-brain-interaction]])
 - Functional chest pain = a subset within NCCP ([[rome-v-2026-functional-esophageal-disorders]])
 
@@ -87,7 +89,10 @@ flowchart TD
 | [[ambulatory-reflux-monitoring\|Ambulatory reflux monitoring]] | PPI nonresponders with persisting GERD suspicion — **off acid suppression**. **No method shown superior**: pH, combined pH-impedance, or prolonged wireless pH beyond 24 hours, per availability and interpreting expertise |
 | [[high-resolution-manometry\|HRM]] per [[chicago-classification-v4\|Chicago Classification version 4.0]] | Exclude major motor disorders, once GERD is ruled out |
 
-- **Lyon Consensus 2.0 acid exposure time (AET):** **<4% rules out GERD, >6% supports it, 4%–6% inconclusive**; full thresholds on [[reflux-testing]]
+- **Lyon Consensus 2.0 acid exposure time (AET)**, by test:
+  - Wireless pH off PPI: GERD = AET **>6% on ≥2 days**; excluded = AET **<4% on all days** with negative symptom association
+  - 24-h pH-impedance: AET **<4% and <40** reflux episodes rules out GERD; AET **>6% and >80** episodes suggests GERD; 4%–6% inconclusive
+  - Full thresholds on [[reflux-testing]]
 
 ---
 
