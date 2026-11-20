@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-20] lint | 06:00 pass — daily fetch, ingest by budget
+
+**Scope:** backlog mode, $25 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Daily source fetch:** nothing downloaded — nothing qualified. Every download row in `needed-sources.md` is 🔒 or 🌐; the remaining rows are files already in `raw/` or figure requests.
+
+**`[[idsa-2024-ciai-imaging-cholecystitis-cholangitis]]` — new source (IDSA 2024 cIAI guideline update, Bonomo: imaging of suspected acute cholecystitis and cholangitis), fully ingested.** US society guideline, 5 pages, not CC-licensed (OUP, all rights reserved → no figure capture). Picked first: short tier-1 file that changes a decision on two disease scripts.
+- *Extract* (fresh agent): all **4** recommendations (unnumbered; R1–R4 are the wiki's) with strength/certainty as printed, every decision-carrying remark, implementation considerations, the S106 evidence table, research needs. No source algorithm → no redraw on the source page.
+- *Gate:* 5 ABSENT, all on the printed grade strings ("conditional recommendation, very low certainty of evidence"), which the script cannot match across the two-column text — confirmed in the page-1/2 text. 0 OTHER/NOMATCH/SIGN.
+- *Independent check* (fresh agent, 72 claims, TG18 and AGA 2024 pregnancy raw files for the Contradictions): 4 minor findings, all confirmed and fixed — ultrasound "radiologist-performed" → performed in a controlled manner and interpreted by a radiologist; children's risk conditions locator S105 → S106; "both guidelines put US first on practicality, not accuracy" → both also cite accuracy; AGA pregnancy EUS limited to patients who cannot undergo MRCP. Citation issue set to the printed 79(9). `verified: 2026-11-20` set.
+- *Propagation* (from the verified source page): [[acute-cholecystitis]] → *Which imaging test* leads with the IDSA sequence as a role-class Mermaid built from R1–R3 + implementation considerations (4-line caption), grades, CT-before-HIDA and complications list, MRI/MRCP-vs-HIDA trade-offs, pregnancy, children, IDSA evidence numbers; TG18 pooled table relabelled as TG18 and TG18's MRI-second step kept as the contrasting view (source priority: newer US guideline wins). [[acute-cholangitis]] → IDSA bullets under *Imaging* (US → CT with IV contrast → MRI/MRCP reasonable; CT for hepatic abscess, portal vein thrombosis, acute biliary pancreatitis, liver failure; evidence indirect; pregnancy, children). [[mri-mrcp]] → new indications row. [[liver-disease-in-pregnancy]] → Step 4 bullet (US or MRI, no preference).
+- *Gate:* changed lines 0 flags (flags on the untouched TG18 pooled-accuracy rows and the pre-existing CT dose line).
+- *Independent check of changed lines* (fresh agent, 34 claims): **0 findings**. One loose phrase it noted ("consistent with IDSA's sequence" on the TG18 MRI line of [[acute-cholangitis]]) reworded to "TG18 after ultrasound *or* CT, IDSA after both". No touched page carries `verified:` → no stamp.
+- Abbreviation fixes from the move of first uses: IV and MRI/MRCP on [[acute-cholangitis]], IDSA on [[liver-disease-in-pregnancy]].
+- `index.md`: source row added; acute-cholecystitis (7 → 8), acute-cholangitis (stale 6 → 9), liver-disease-in-pregnancy (stale 3 → 5), mri-mrcp (12 → 13) rows updated.
+- *Cards:* none — no touched topic page has `verified:`.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-20] lint | Quality review — release sweep (manual, by budget)
 
 **Scope:** Quality review step only, $40 budget; queue from `review-queue.py --pages 10`, one subagent per page, source pages verified first.

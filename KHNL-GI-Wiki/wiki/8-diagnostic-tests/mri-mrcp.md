@@ -3,8 +3,8 @@ title: "MRI / MRCP (Magnetic Resonance Cholangiopancreatography)"
 category: diagnostic-test
 tags: [imaging, mri, mrcp, pancreas, biliary, hpb, liver, crohns]
 created: 2026-06-04
-updated: 2026-11-15
-sources: [asge-2022-pancreatic-cancer-screening, aasld-2022-psc, asge-2023-post-transplant-biliary-strictures, aasld-ast-2025-liver-transplant-graft-complications, asge-2019-choledocholithiasis, acg-2018-pancreatic-cysts, acg-2024-acute-pancreatitis, acg-2020-chronic-pancreatitis, acg-2023-biliary-strictures, acg-2024-focal-liver-lesions, acg-2025-crohns, acr-2018-li-rads-ct-mri-core]
+updated: 2026-11-20
+sources: [asge-2022-pancreatic-cancer-screening, aasld-2022-psc, asge-2023-post-transplant-biliary-strictures, aasld-ast-2025-liver-transplant-graft-complications, asge-2019-choledocholithiasis, acg-2018-pancreatic-cysts, acg-2024-acute-pancreatitis, acg-2020-chronic-pancreatitis, acg-2023-biliary-strictures, acg-2024-focal-liver-lesions, acg-2025-crohns, acr-2018-li-rads-ct-mri-core, idsa-2024-ciai-imaging-cholecystitis-cholangitis]
 quality_reviewed: 2026-11-15
 ---
 
@@ -44,6 +44,7 @@ Noninvasive cross-sectional imaging — no ionizing radiation, no instrumentatio
 | Indeterminate biliary stricture | Anatomy and planning only — it **cannot confirm or exclude malignancy**; tissue is required. Contrasted computed tomography (CT) or MRI–MRCP should be obtained and reviewed **before** ERCP for malignant perihilar obstruction, to plan which sectors to drain. [[acg-2023-biliary-strictures]] |
 | [[acute-pancreatitis\|Acute pancreatitis]] | CBD stone suspected **without** [[acute-cholangitis\|cholangitis]] or jaundice → MRCP or EUS to screen **before** ERCP; diagnostic ERCP avoided. Not improving at 48–72 h → CT **or** MRI for local complications; MRI is favored with contrast allergy or renal insufficiency (necrosis visible on non-gadolinium T2-weighted images). [[acg-2024-acute-pancreatitis]] |
 | Idiopathic / [[recurrent-acute-pancreatitis\|recurrent acute pancreatitis]] | Additional evaluation with repeat abdominal ultrasound, MRI and/or EUS (conditional, very low quality) — looking for microlithiasis and for a mass obstructing the pancreatic or bile duct. Suspect [[pancreatic-cancer\|pancreatic cancer]] over age 40, especially with a prolonged or recurrent course. [[acg-2024-acute-pancreatitis]] |
+| Suspected [[acute-cholecystitis\|acute cholecystitis]] or cholangitis | **Third step in nonpregnant adults**: ultrasound first, then CT; if both are equivocal/nondiagnostic and suspicion persists → MRI/MRCP or hepatobiliary iminodiacetic acid (HIDA) scan for cholecystitis (conditional; knowledge gap for MRI/MRCP), and MRI/MRCP is a reasonable option when cholangitis is suspected. **Pregnancy:** ultrasound or MRI can be considered first, no preference (knowledge gap). [[idsa-2024-ciai-imaging-cholecystitis-cholangitis]] |
 | [[pancreatic-cysts\|Pancreatic cysts]] | **Tests of choice for diagnosis** — non-invasive, no radiation, better at showing communication between the main pancreatic duct and the cyst. **MRCP is the preferred surveillance modality.** Pancreatic-protocol CT or EUS are excellent alternatives when MRI cannot be done (conditional, very low quality). Surveillance intervals live on that page. [[acg-2018-pancreatic-cysts]] |
 | [[chronic-pancreatitis\|Chronic pancreatitis]] | CT **or** MRI is first-line for diagnosis (strong, low quality). **Secretin-enhanced MRCP** when CT/MRI or EUS leaves the diagnosis unconfirmed and suspicion stays high (conditional, low quality) — it distends the main and side-branch ducts and grades duodenal filling. [[acg-2020-chronic-pancreatitis]] |
 | [[pancreatic-cancer-screening\|Pancreatic cancer surveillance]] (genetic susceptibility) | Accepted modality — alone or **alternating with EUS** (conditional, very low quality). MRI preferred for higher anesthesia/procedural risk, for patients who value avoiding invasive testing, and where it can be combined with other imaging (e.g. enterography in [[peutz-jeghers-syndrome\|Peutz-Jeghers syndrome]]). [[asge-2022-pancreatic-cancer-screening]] |
@@ -80,7 +81,7 @@ Noninvasive cross-sectional imaging — no ionizing radiation, no instrumentatio
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[peutz-jeghers-syndrome]], [[li-rads]], [[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatocellular-carcinoma]], [[crohns-disease]], [[perianal-fistulizing-crohns-disease]], [[intestinal-ultrasound]], [[liver-biopsy]], [[jaundice]], [[abnormal-liver-chemistries]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[acute-cholecystitis]], [[ercp]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[peutz-jeghers-syndrome]], [[li-rads]], [[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatocellular-carcinoma]], [[crohns-disease]], [[perianal-fistulizing-crohns-disease]], [[intestinal-ultrasound]], [[liver-biopsy]], [[jaundice]], [[abnormal-liver-chemistries]]
 
 ---
 
@@ -98,3 +99,4 @@ Noninvasive cross-sectional imaging — no ionizing radiation, no instrumentatio
 10. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]
 11. [[acg-2025-crohns|ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)]]
 12. [[acr-2018-li-rads-ct-mri-core|ACR CT/MRI LI-RADS v2018 Core]]
+13. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]

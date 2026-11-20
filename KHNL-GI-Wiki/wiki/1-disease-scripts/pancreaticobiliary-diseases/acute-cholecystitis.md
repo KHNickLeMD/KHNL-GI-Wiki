@@ -3,8 +3,8 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-11-12
-sources: [tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
+updated: 2026-11-20
+sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
 ---
 
 # Acute Cholecystitis
@@ -127,15 +127,41 @@ The findings that satisfy **criterion C**, with the size cut-points TG18 prints 
 
 ### Which imaging test
 
+**Infectious Diseases Society of America (IDSA) 2024 sequence — nonpregnant adults** ([[idsa-2024-ciai-imaging-cholecystitis-cholangitis]]; recommendations unnumbered — R1–R3 are the wiki's):
+
+```mermaid
+flowchart TD
+    A(["Suspected acute cholecystitis<br/>nonpregnant adult"]) --> B["Abdominal ultrasound (R1)"]
+    B -- "Equivocal/nondiagnostic and suspicion persists (R2)" --> C["CT — IV contrast preferable (R2)"]
+    B -- "Equivocal, high suspicion for cholecystitis (implementation consideration)" --> E["HIDA scan"]
+    C -- "Both equivocal/nondiagnostic and suspicion persists (R3)" --> D["MRI/MRCP or HIDA scan (R3)"]
+    class A start
+    class B,C,D,E test
+```
+*Imaging sequence for suspected acute cholecystitis in nonpregnant adults*
+*Source: built from IDSA 2024 recommendations R1–R3 and its implementation considerations (the guideline has no flowchart)*
+*[[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 cIAI: Imaging of Acute Cholecystitis and Cholangitis]]*
+*CT = computed tomography · IV = intravenous · HIDA = hepatobiliary iminodiacetic acid · MRI = magnetic resonance imaging · MRCP = magnetic resonance cholangiopancreatography*
+
+- **Grades:** R1 ultrasound first and R2 CT second — conditional recommendation, very low certainty of evidence; R3 [[mri-mrcp|magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]] or hepatobiliary iminodiacetic acid (HIDA) scan — conditional recommendation, low certainty for HIDA, knowledge gap for MRI/MRCP.
+- **CT before HIDA** when other diagnoses for right upper quadrant pain are being considered; **CT when complications are suspected** (biloma, intraabdominal abscess, bile duct injury, hepatic injury, small bowel injury, infection, retained bile duct stones, bleeding).
+- **MRI/MRCP vs HIDA:** MRI/MRCP gives a clearer picture of surrounding structures, a faster result and is more readily available; HIDA is considered the gold standard, is far less costly, but needs fasting for several hours beforehand.
+- Ultrasound may be limited by abdominal tenderness and obesity.
+- **Pregnancy:** ultrasound or MRI can be considered first; IDSA is unable to recommend one over the other (knowledge gap).
+- **Children:** not systematically reviewed; reasonable to mirror the adult pathway.
+- IDSA's evidence (suspected acute cholecystitis): ultrasound median sensitivity 73%, specificity 83% (6 studies); HIDA 89% / 67% (3 studies); CT 73% / 94% (1 study); no MRI/MRCP study met criteria.
+
+**TG18 pooled accuracy** ([[tg18-2018-cholecystitis-criteria]]; different study set from IDSA — not directly comparable):
+
 | Modality | Pooled sensitivity (95% CI) | Pooled specificity (95% CI) |
 |---|---|---|
 | Cholescintigraphy (hepatobiliary scintigraphy, HIDA) | 0.94 (0.92–0.96) | 0.90 (0.85–0.93) |
 | Ultrasound | 0.82 (0.75–0.87) | 0.81 (0.73–0.87) |
-| [[mri-mrcp\|Magnetic resonance imaging (MRI)]] | 0.86 (0.66–0.95) | 0.82 (0.69–0.90) |
+| MRI | 0.86 (0.66–0.95) | 0.82 (0.69–0.90) |
 
 - **Ultrasound first** — recommended as the first-choice imaging method for morphological diagnosis on grounds of **low invasiveness, availability, ease of use and cost**, explicitly *not* diagnostic yield: HIDA outperforms it in every comparative study. (Recommendation 1, level C; [[tg18-2018-cholecystitis-criteria]]) Reported real-world use rate 61.3%.
 - **Ultrasound's blind spots:** a causative stone in the gallbladder or bile duct may not be visible, and **gangrenous cholecystitis is difficult to diagnose** — add contrast-enhanced CT or MRI when needed.
-- **MRI / magnetic resonance cholangiopancreatography (MRCP) is the second step when ultrasound is non-diagnostic** (Recommendation 2, level B). Non-contrast MRI/MRCP already shows wall thickening, pericholecystic fluid and gallbladder enlargement and was **not inferior to contrast-enhanced MRI** in one study; wall thickening + dense gallbladder-bed staining in the early contrast phase is **92% specific** for acute vs chronic cholecystitis. MRCP maps biliary anatomy without contrast (preoperatively useful). Downsides: cost, and degraded images in a patient who cannot hold still or breath-hold.
+- **TG18 differs on the second step:** MRI/MRCP when ultrasound is non-diagnostic (Recommendation 2, level B); IDSA 2024 puts CT second and MRI/MRCP or HIDA third — the newer US guideline is followed above. Non-contrast MRI/MRCP already shows wall thickening, pericholecystic fluid and gallbladder enlargement and was **not inferior to contrast-enhanced MRI** in one study; wall thickening + dense gallbladder-bed staining in the early contrast phase is **92% specific** for acute vs chronic cholecystitis. MRCP maps biliary anatomy without contrast (preoperatively useful). Downsides: cost, and degraded images in a patient who cannot hold still or breath-hold.
 - **Color / power Doppler: do not use for this diagnosis.** No recent study supports it; flow assessment depends too heavily on device and body habitus to standardise. (Level D, future research question)
 
 ### Gangrenous cholecystitis
@@ -289,3 +315,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 5. [[tg18-2018-cholecystitis-criteria|Tokyo Guidelines 2018: Diagnostic Criteria and Severity Grading of Acute Cholecystitis]]
 6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
 7. [[tg18-2018-gallbladder-drainage|Tokyo Guidelines 2018: Management Strategies for Gallbladder Drainage in Patients with Acute Cholecystitis (with Videos)]]
+8. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]

@@ -3,8 +3,8 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-10-26
-sources: [tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
+updated: 2026-11-20
+sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
 ---
 
 # Acute Cholangitis
@@ -138,16 +138,23 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 **Imaging:**
 
 - **Abdominal ultrasound and/or computed tomography (CT) — at least one.** ([[tg18-2018-cholangitis-flowchart]])
+- **Infectious Diseases Society of America (IDSA) 2024 sequence — nonpregnant adults** ([[idsa-2024-ciai-imaging-cholecystitis-cholangitis]]; unnumbered — R1–R2 are the wiki's):
+  - Ultrasound first (R1; conditional recommendation, very low certainty of evidence).
+  - CT if ultrasound is equivocal/nondiagnostic and suspicion persists (R2; conditional, very low certainty) — **CT with intravenous (IV) contrast preferable**.
+  - Ultrasound and CT both inconclusive, cholangitis still suspected → [[mri-mrcp|magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]] is a reasonable option (remark).
+  - **CT when complications are suspected:** hepatic abscess, portal vein thrombosis, acute biliary pancreatitis, liver failure.
+  - No study assessed ultrasound or CT accuracy for cholangitis — IDSA's evidence is indirect, from acute cholecystitis.
+  - Pregnancy: ultrasound or MRI can be considered first; IDSA is unable to recommend one over the other (knowledge gap). Children: reasonable to mirror the adult pathway.
 - **Ultrasound first** — minimally invasive, widely available, simple, cheap. Limitation: results are easily affected by operator skill and patient condition.
 - **What imaging is for:** inflammation itself is difficult to assess in cholangitis. Imaging evaluates **bile duct dilatation**, and **occlusion/stenosis or calculus and its cause**.
-- [[mri-mrcp|Magnetic resonance cholangiopancreatography (MRCP)]] and [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] characterise the level and cause of obstruction — see [[choledocholithiasis]] for the American Society for Gastrointestinal Endoscopy (ASGE) risk stratification that decides between them and direct [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]].
+- MRCP and [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] characterise the level and cause of obstruction — see [[choledocholithiasis]] for the American Society for Gastrointestinal Endoscopy (ASGE) risk stratification that decides between them and direct [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]].
 - **No imaging finding diagnoses cholangitis directly.** Imaging identifies the stenosis/blockage that causes it; cholangiectasis is indirect support only. **ERCP is a treatment (drainage), not a first-choice diagnostic test**, and plain X-ray is not suited to diagnosis. ([[tg18-2018-cholangitis-criteria]])
 
 **Imaging performance — what each modality can and cannot find:** ([[tg18-2018-cholangitis-criteria]])
 
 - **Ultrasound** — dilated common bile duct: sensitivity **42%** (95% confidence interval [CI] 28–56), specificity **96%** (95% CI 94–98); bile duct stones: sensitivity **38%** (27–49), specificity **100%** (99–100). *High specificity, insufficient sensitivity* — a negative ultrasound does not exclude a stone. Still performed first for its minimal invasiveness, availability, convenience and cost.
 - **CT** — unaffected by intestinal gas, images a wide area, so it is often done after ultrasound to exclude other causes of acute abdominal pain. **Sensitivity for bile duct stones is only 25–90%**, depending on the stone's calcium content. Best for the cause of a stenosis (biliary carcinoma, pancreatic cancer, sclerosing cholangitis) and for local complications — liver abscess, portal vein thrombosis.
-- **Magnetic resonance imaging (MRI)/MRCP are recommended when ultrasound or CT do not give a definite diagnosis** (Recommendation 2, level C): cause identified in **98%** of benign and **98%** of malignant cases, vs **82.86%/91.43%** with CT and **88%/88%** with ultrasound. Limited mainly by access.
+- **MRI/MRCP are recommended when ultrasound or CT do not give a definite diagnosis** (TG18 Recommendation 2, level C; TG18 after ultrasound *or* CT, IDSA after both): cause identified in **98%** of benign and **98%** of malignant cases, vs **82.86%/91.43%** with CT and **88%/88%** with ultrasound. Limited mainly by access.
 - **Transient hepatic attenuation difference (THAD)** on early-phase dynamic CT (or the equivalent on dynamic MRI) is seen in **67.9–85%** of cholangitis patients vs **1.78–5%** of healthy individuals, but also occurs in pancreatitis, pyelonephritis and pneumonia, and one 123-patient study found no relation to severity. **Level D, future research question** — not a diagnostic criterion.
 
 ---
@@ -156,7 +163,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 
 ### Initial Treatment — All Grades
 
-- **Sufficient intravenous (IV) fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
+- **Sufficient IV fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
   - *Drainage and antibiotics are the two pillars of treatment.* The TG18 flowchart article defers all agent choice and duration to its companion paper, [[tg18-2018-antimicrobial-therapy]], and [[asge-2021-cholangitis]] gives no regimen; the regimen section below is from that companion paper.
 - **When acute cholecystitis coexists** (it sometimes does), decide the strategy on the **severity of both diseases plus the patient's general status** — not on the cholangitis grade alone. ([[tg18-2018-cholangitis-flowchart]])
 - **Fast the patient in principle**, so emergency drainage can proceed immediately. *(No high-quality evidence either way.)*
@@ -282,3 +289,4 @@ flowchart TD
 6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
 7. [[asge-2019-choledocholithiasis|ASGE 2019: Endoscopic Management of Choledocholithiasis]]
 8. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]
+9. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]
