@@ -3,7 +3,8 @@ title: "ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)"
 category: source
 tags: [crohns, ibd, biologics, anti-tnf, vedolizumab, ustekinumab, risankizumab, guselkumab, mirikizumab, upadacitinib, perianal-fistula, postoperative-cd]
 created: 2026-05-07
-updated: 2026-09-26
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Management of Crohn's.pdf"
 ---
@@ -67,7 +68,7 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 | 31 | In CD with **low** postoperative risk of recurrence, suggest continued observation over immediate initiation of medical therapy | Conditional | Very low |
 | 32 | Suggest **imidazole antibiotics (metronidazole) 1–2 g/d** after small intestinal resection to prevent recurrence | Conditional | Low |
 | 33 | In **high-risk** CD, anti-TNF therapy to prevent postoperative **endoscopic** recurrence | Strong | Moderate |
-| 34 | In **high-risk** CD, vedolizumab therapy to prevent postoperative recurrence | Conditional | **Moderate** |
+| 34 | In **high-risk** CD, vedolizumab therapy to prevent postoperative recurrence | Conditional | Low |
 | **When to refer to surgery** | | | |
 | 35 | Suggest an intra-abdominal abscess (**>2 cm**) be treated with antibiotics and a drainage procedure, with immunosuppression held until drainage is achieved, either radiographically or surgically | Conditional | Low |
 
@@ -162,12 +163,12 @@ GRADE terminology used by the document: a **strong** recommendation is made when
 | Methylprednisolone IV | 40–60 mg/d or equivalent for severe/fulminant hospitalized disease | — |
 | Azathioprine | Not for induction | 1.5–2.5 mg/kg/d |
 | 6-mercaptopurine | Not for induction | 0.75–1.5 mg/kg/d |
-| Methotrexate | Not primary induction | 25 mg SC/IM weekly; may lower to 15 mg weekly if steroid-free remission maintained 4 months |
+| Methotrexate | May be used in active CD (KC 43); controlled data for oral methotrexate as primary treatment lacking | 25 mg SC/IM weekly; may lower to 15 mg weekly if steroid-free remission maintained 4 months |
 | Infliximab IV | 5 mg/kg at weeks 0, 2, and 6 | 5 mg/kg every 8 weeks |
 | Infliximab SC | (after IV induction response) | 120 mg every other week; dose escalation to 240 mg every other week if needed |
 | Adalimumab | — | 40 mg every other week or every week |
 | Certolizumab pegol | — | 400 mg every 4 weeks |
-| Vedolizumab IV | 300 mg at week 0 and week 6 (VISIBLE 2) | 300 mg every 8 weeks (GEMINI 2) |
+| Vedolizumab IV | 300 mg at weeks 0 and 2 (VISIBLE 2; week-6 responders then randomized) | 300 mg every 8 weeks (GEMINI 2) |
 | Vedolizumab SC | (after 2 IV induction doses) | 108 mg every 2 weeks |
 | Ustekinumab | ~6 mg/kg IV at week 0 | 90 mg SC every 8 or 12 weeks |
 | Risankizumab | 600 mg IV at weeks 0, 4, 8 | 360 mg SC at week 12 and every 8 weeks thereafter |
@@ -201,7 +202,7 @@ Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–
 - Three scenarios explain biologic failure:
   1. **Mechanistic failure** — therapeutic drug levels with no antibodies but active mucosal ulceration → consider a medication in another class and mechanism of action
   2. **Non–immune-mediated pharmacokinetic failure** — subtherapeutic troughs, absent antidrug antibodies, classically with high inflammatory burden
-  3. **Immune-mediated failure** — low or undetectable trough with high titers of antidrug antibodies → combination therapy with an immunomodulator should be considered
+  3. **Immune-mediated failure** — low or undetectable trough with high titers of antidrug antibodies; patients with a history of anti-TNF antibodies are at greater risk of antibodies to the next agent in the same class → combination therapy with an immunomodulator should be considered
 - **HLA-DQA1\*05** carriers: risk of immunogenicity 75% higher than noncarriers; risk of secondary loss of response 123% higher than noncarriers with a positive predictive value of 30% and negative predictive value of 80%. Proactive therapeutic drug monitoring can modify this association
 
 ### Key trial evidence cited
@@ -247,7 +248,7 @@ Antibiotic dosing for simple, superficial perianal fistulas: metronidazole 10–
 ## Contradictions / Open Questions
 
 - Mandating prior anti-TNF exposure before upadacitinib is a regulatory decision driven by ORAL Surveillance in rheumatoid arthritis; the guideline notes it is unclear how generalizable those safety data are to CD
-- Combination therapy benefit must be balanced against lymphoma risk with thiopurines (higher in older patients and with longer exposure) and rare hepatosplenic T-cell lymphoma in younger patients on combined anti-TNF and thiopurine therapy
+- Combination therapy benefit must be balanced against lymphoma risk with thiopurines (higher in older patients and with longer exposure) and rare hepatosplenic T-cell lymphoma, particularly in younger males, on combined anti-TNF and thiopurine therapy
 - Vedolizumab onset of effect may be slower than anti-TNF agents; patients with prior anti-TNF exposure require longer treatment, with week-10 efficacy rates equal to those of anti-TNF-naive patients at week 6
 - Whether combination thiopurine with anti-TNF is more effective than anti-TNF monotherapy postoperatively is not known — postoperative trials to date have evaluated monotherapy only
 - The guideline reports that meta-analyses of randomized trials comparing proactive therapeutic drug monitoring with conventional approaches did **not** identify a clinical benefit for anti-TNF–treated patients, while other evidence supports proactive monitoring — the question is left open

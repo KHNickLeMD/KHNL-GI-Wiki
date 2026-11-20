@@ -3,7 +3,8 @@ title: "ACG 2025: Ulcerative Colitis in Adults (Guideline Update)"
 category: source
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, vedolizumab, infliximab, ustekinumab, guselkumab, mirikizumab, risankizumab, tofacitinib, upadacitinib, ozanimod, etrasimod, asuc]
 created: 2026-05-07
-updated: 2026-09-08
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Ulcerative Colitis update.pdf"
 ---
@@ -45,7 +46,7 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 12. Oral 5-ASA ≥2g/day for mildly-moderately active extensive colitis (induction) — Strong, Moderate
 13. Oral systemic corticosteroids for UC failing 5-ASA therapy — Strong, Low
 14. Against changing to alternate 5-ASA formulation; consider alternative class — Conditional, Low
-15. Low-dose 5-ASA (2–2.4 g) equivalent to high-dose (4.8 g) in mild UC — Conditional, Very Low
+15. In mildly active UC, use low-dose 5-ASA (2.0–2.4 g) rather than high dose (4.8 g) — no difference in remission rate — Conditional, Very Low
 16. Add budesonide MMX 9mg/day for mild-moderate UC of any extent not responding to 5-ASA — Strong, Moderate
 17. Once-daily or more frequent 5-ASA dosing equivalent (choose based on adherence preference) — Strong, Moderate
 
@@ -109,7 +110,9 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 | MES | 0–1 | 1 | 2–3 | 3 |
 | Ulcerative Colitis Endoscopic Index of Severity (UCEIS) | 0–1 | 2–4 | 5–8 | 7–8 |
 
-### Poor Prognostic Factors (Table 8) → Treat as Moderate-Severe
+### Poor Prognostic Factors (Table 8)
+
+- Key Concept 18: weigh a number of factors together (shared decision-making); each carries a different weight — age alone is weaker than severe endoscopic activity, but young age plus another factor may suffice.
 
 - Age <40 at diagnosis
 - Extensive colitis
@@ -126,7 +129,7 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 
 ### Intestinal Ultrasound (IUS) — New in 2025 Guidelines
 
-- Bowel wall thickness (BWT) ≤3mm (colonic), ≤4mm (rectal) = remission
+- Bowel wall thickness (BWT) ≤3 mm (colonic), ≤4 mm (rectal) **and** modified Limberg score 0 = remission (Table 4)
 - Pooled sensitivity 85%, specificity 92% vs endoscopy
 - Can detect treatment response as early as 2 weeks
 - Transperineal approach needed for rectum (transabdominal cannot visualize)
@@ -140,15 +143,15 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 | Budesonide MMX | 9 mg/day by mouth (PO) | NOT for maintenance |
 | Infliximab IV | 5 mg/kg wk 0, 2, 6 + thiopurine | 5 mg/kg every 8 weeks (q8wk) |
 | Adalimumab | 160/80/40 mg | 40 mg q2wk |
-| Golimumab | 200/100 mg | 100 mg q4wk |
+| Golimumab | 200/100 mg | 50 mg or 100 mg (interval not stated) |
 | Vedolizumab IV | 300 mg wk 0, 2 ⚠ | 300 mg q8wk |
 | Vedolizumab SC | (after IV induction) | 108 mg q2wk |
 | Ustekinumab | ~6 mg/kg IV | 90 mg subcutaneous (SQ) q8wk or q12wk |
-| Ozanimod | 0.23 mg → 0.92 mg daily PO | 0.92 mg/day |
+| Ozanimod | 0.92 mg daily PO (1 mg ozanimod hydrochloride) | 0.92 mg/day |
 | Etrasimod | 2 mg daily PO | 2 mg/day |
-| Guselkumab | 200 mg IV wk 0, 4, 8 | 100 mg SQ q8wk |
+| Guselkumab | 200 mg IV wk 0, 4, 8 | 100 mg SQ q8wk or 200 mg SQ q4wk |
 | Mirikizumab | 300 mg IV q4wk × 3 | 200 mg SQ q4wk |
-| Risankizumab | 1200 mg IV q4wk × 3 | 180 mg SQ q8wk |
+| Risankizumab | 1200 mg IV q4wk × 3 | 180 mg or 360 mg SQ q8wk |
 | Tofacitinib | 10 mg twice daily (bid) × 8 wk (extend 8 more wk in wk-8 non-responders → 16 wk; in the US label) | 5 mg bid **or** 10 mg bid — ⚠ guideline says "**prudent to consider 10 mg BID for maintenance in most patients**" (prior anti-TNF failure benefits from 10 mg bid; relapsers after reduction to 5 mg bid are not always recaptured) |
 | Upadacitinib | 45 mg PO daily × 8wk | 15–30 mg PO daily |
 
@@ -170,10 +173,10 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 - **Vedolizumab > adalimumab** as advanced therapy (VARSITY trial; Rec 45)
 - **Infliximab preferred anti-TNF** (Key concept 45); combo with thiopurine required (Rec 33)
 - **Primary nonresponse to anti-TNF:** switch class, not cycling within anti-TNF
-- **Upadacitinib (Strong/High):** most efficacious in trials; no prior anti-TNF requirement for UC (unlike [[crohns-disease|Crohn's disease (CD)]])
+- **Upadacitinib (Strong/High):** FDA extended the tofacitinib label to upadacitinib — use after inadequate response or intolerance to ≥1 TNF inhibitor, with caution in cardiovascular risk, lowest effective maintenance dose
 - **IL-23 inhibitors:** all 3 (guselkumab, mirikizumab, risankizumab) recommended equally
-- **S1P modulators (ozanimod, etrasimod):** new class; oral; cardiac screening required; no anti-TNF requirement
-- **Janus kinase (JAK) inhibitors safety context:** ORAL Surveillance data from rheumatoid arthritis (RA) patients; boxed warning; reserve for anti-TNF failures or those who cannot use biologics per FDA; use clinical judgment
+- **S1P modulators (ozanimod, etrasimod):** new class; oral; contraindicated in significant cardiovascular disease, severe untreated sleep apnea, cardiac conduction defects, and with monoamine oxidase inhibitors
+- **Janus kinase (JAK) inhibitors safety context:** ORAL Surveillance data from rheumatoid arthritis (RA) patients; boxed warning; labeled for use after anti-TNF failure, with caution in cardiovascular or venous thromboembolism (VTE) risk factors
 - Biosimilars (IFX, adalimumab [ADA], ustekinumab [UST]) are equivalent; switching is acceptable
 
 ## Recommendations
@@ -251,7 +254,7 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 - Vedolizumab preferred over adalimumab but not over infliximab — head-to-head data with IFX limited
 - Optimal sequencing after biologic failure not defined; network meta-analyses insufficient per guideline
 - Histologic remission not yet a validated treatment target (prognostic value established)
-- Upadacitinib highest efficacy in clinical trials but JAK class safety concerns limit first-line use
+- Upadacitinib: JAK class safety concerns and the FDA label (after anti-TNF failure) limit first-line use
 - Optimal S1P modulator vs biologic positioning not established
 - IUS: not yet an independent recommendation for initial diagnosis (adjunct to endoscopy)
 

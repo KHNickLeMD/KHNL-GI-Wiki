@@ -3,87 +3,104 @@ title: "Tenapanor"
 category: med
 tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, constipation]
 created: 2026-08-14
-updated: 2026-10-27
+updated: 2026-11-20
 sources: [aga-2022-ibs-c, aga-acg-2023-constipation, aga-2026-refractory-constipation, ibsrela-2025-tenapanor-label]
 ---
 
+## Contents
+- [[#Class]]
+- [[#Indications & Dosing]]
+- [[#Efficacy]]
+- [[#Adverse Effects]]
+- [[#Contraindications & Cautions]]
+- [[#Place in Therapy]]
+
 ## Class
 
-**First-in-class small-molecule inhibitor of the gastrointestinal (GI) sodium/hydrogen exchanger isoform 3 (NHE3)** — the exchanger on the apical surface of small intestine and colon that is primarily responsible for sodium absorption. **Locally acting and minimally absorbed.** ([[aga-2022-ibs-c]])
+**First-in-class small-molecule inhibitor of the gastrointestinal (GI) sodium/hydrogen exchanger isoform 3 (NHE3)** — apical exchanger of small intestine and colon, primarily responsible for sodium absorption. **Locally acting, minimally absorbed.** ([[aga-2022-ibs-c]])
 
-- ↓ absorption of sodium and phosphate → ↑ water secretion into the intestinal lumen
-- Has also been found to have **antinociceptive** effects (basis for the abdominal-pain benefit)
-- Mechanistically distinct from the guanylate cyclase-C (GC-C) agonists [[linaclotide]] and [[plecanatide]] and from the chloride-channel activator [[lubiprostone]]
+- ↓ sodium and phosphate absorption → ↑ water secretion into the lumen ([[aga-2022-ibs-c]]) → faster transit, softer stool ([[ibsrela-2025-tenapanor-label]])
+- **Antinociceptive** effects — in animal models, ↓ visceral hypersensitivity and ↓ intestinal permeability ([[aga-2022-ibs-c]], [[ibsrela-2025-tenapanor-label]])
+- Different target from the guanylate cyclase-C (GC-C) agonists [[linaclotide]] and [[plecanatide]] and the chloride-channel activator [[lubiprostone]] ([[aga-2022-ibs-c]])
 
 ## Indications & Dosing
 
-| Indication | Dose | Recommendation |
+| Indication | Dose | Guideline position |
 |---|---|---|
-| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **50 mg orally (PO) twice daily** (FDA-approved dose) | **Conditional, moderate certainty** ([[aga-2022-ibs-c]], Rec 1) |
-| **[[chronic-idiopathic-constipation\|Refractory constipation]] — off-label** | Dose not stated by the source | "May also be considered when on-label agents have failed" (Best Practice Advice [BPA] 8, [[aga-2026-refractory-constipation]]) |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C), adults — only US Food and Drug Administration (FDA)–approved indication | **50 mg orally twice daily** | American Gastroenterological Association (AGA) 2022 Rec 1: **suggests** tenapanor — **conditional, moderate certainty** ([[aga-2022-ibs-c]]) |
+| [[chronic-idiopathic-constipation\|Chronic idiopathic constipation (CIC)]] | — | **Not assessed** — AGA–American College of Gastroenterology (ACG) 2023 lists tenapanor among agents not included in its review ([[aga-acg-2023-constipation]]) |
+| Refractory constipation — **off-label** | No dose given | Best Practice Advice (BPA) 8, ungraded: "may also be considered when on-label agents have failed" ([[aga-2026-refractory-constipation]]) |
 
-- **Timing is part of the dose:** take **immediately before breakfast or the first meal of the day** and **immediately before dinner** ([[ibsrela-2025-tenapanor-label]]).
-- **Missed dose:** skip it, take the next at the regular time — never two at once.
-- **Off-label flag:** tenapanor is FDA-approved only for IBS-C. Its use in refractory constipation is explicitly an **off-label** step, taken only after **all** over-the-counter (OTC) and FDA-approved agents have been trialled as monotherapy *and* in combination ([[aga-2026-refractory-constipation]]). That source gives **no dose, interval, or duration** for this indication.
-- Phase 2b dose-ranging studied **5, 20, and 50 mg b.i.d.**; 50 mg b.i.d. is the approved and recommended dose.
-- **Duration:** the phase 2b and T3MPO-1 trials ran **12 weeks**, T3MPO-2 ran **26 weeks** — so efficacy is documented as **maintained beyond 12 weeks**. In T3MPO-1's 4-week randomized withdrawal period, patients switched *to* tenapanor gained complete spontaneous bowel movement (CSBM) frequency versus those switched *off* it. No maximum treatment duration is given.
-- **Who the evidence covers** — trial entry, all three randomized controlled trials (RCTs): **outpatients aged 18–75 y**, **Rome III criteria for IBS-C**, and over a 2-week baseline an average weekly **5 spontaneous bowel movements (SBMs) and 3 CSBMs**, **[[bristol-stool-form-scale|Bristol Stool Form Scale]] (BSFS) stool consistency type 3**, **abdominal pain 3 on a 0–10 scale**, and **no liquid stools for any SBM / mushy stools for >1 SBM**.
+> [!pearl] Give it immediately before a meal
+> Take **immediately before breakfast (or first meal) and immediately before dinner**. Dosing 5–10 min before a meal increased 24-h stool sodium excretion vs dosing fed or fasting ([[ibsrela-2025-tenapanor-label]]).
+
+- **Missed dose:** skip it; next dose at the regular time; never 2 doses at once ([[ibsrela-2025-tenapanor-label]]).
+- **Refractory constipation (off-label):** only after failing available over-the-counter (OTC) and FDA-approved agents (BPA 8), tried alone or in combination (BPA 7) ([[aga-2026-refractory-constipation]]).
+- **Dose-ranging:** phase 2b tested 5, 20 and 50 mg twice daily; 50 mg twice daily is the approved dose ([[aga-2022-ibs-c]]).
+- **Durability:** benefit maintained beyond 12 weeks (T3MPO-2, 26 wk) ([[aga-2022-ibs-c]]). After 12 weeks, patients re-randomized to placebo worsened (still better than baseline); patients switched placebo → tenapanor improved ([[aga-2022-ibs-c]], [[ibsrela-2025-tenapanor-label]]).
+- **Who the trials enrolled:** outpatients **18–75 y**, Rome III IBS-C; over a 2-week baseline: abdominal pain **≥3 on a 0–10 scale**, **≤5 spontaneous bowel movements (SBMs)/week**, **<3 complete spontaneous bowel movements (CSBMs)/week** (≤3 in the AGA text), [[bristol-stool-form-scale|Bristol Stool Form Scale]] (BSFS) type **≤3**, no liquid stool for any SBM and no mushy stool for >1 SBM ([[aga-2022-ibs-c]], [[ibsrela-2025-tenapanor-label]]).
 
 ## Efficacy
 
-Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 for 12 wk; T3MPO-2 n = 293 vs 300 for 26 wk). Pooled 12-week population: **688 tenapanor vs 684 placebo**. ([[aga-2022-ibs-c]])
+Three placebo-controlled randomized controlled trials (RCTs) ([[aga-2022-ibs-c]]):
+- Phase 2b (n = 356): 50 mg arm 89 vs placebo 90, 12 wk
+- T3MPO-1: 307 vs 299, 12 wk + 4-wk randomized withdrawal
+- T3MPO-2: 293 vs 300, 26 wk
+- Pooled 12-week population: **688 tenapanor vs 684 placebo**
 
-**Reading the endpoints:**
+**Endpoints** ([[aga-2022-ibs-c]]):
+- **FDA responder (IBS-C)** — primary in both phase 3 trials: **≥30% reduction in average daily worst abdominal pain** *and* **increase of ≥1 CSBM/week** vs baseline, in the same week, for **≥6 of 12 weeks**.
+- **European Medicines Agency (EMA) responder** — same criteria for **≥13 of 26 weeks**.
+- **CSBM responder** — primary in phase 2b: **≥1 CSBM/week increase over baseline for ≥6 of 12 weeks**.
 
-- **CSBM responder** (primary in phase 2b) = **increase of ≥1 CSBM/week over baseline for ≥6 of the 12 treatment weeks**.
-- **FDA responder endpoint for IBS-C** (primary in both phase 3 trials) — [[aga-2022-ibs-c]] cites this definition but does **not** print its components; they are in the FDA IBS guidance document.
-
-| Outcome (12 wk unless noted) | Tenapanor | Placebo | Effect |
+| Outcome (12 wk unless noted) | Tenapanor | Placebo | Relative risk (RR) of failure (95% confidence interval [CI]) |
 |---|---|---|---|
-| FDA responder endpoint for IBS-C | **34.1%** | 21.7% | relative risk (RR) 0.84 (95% confidence interval [CI] 0.79–0.90) for *failure* of symptom relief |
-| Abdominal pain improvement | — | — | RR 0.81 (0.73–0.88); risk difference **12.1%** |
-| CSBM response | — | — | RR 0.83 (0.77–0.90); risk difference **11.3%** |
-| Adequate relief of IBS symptoms | **58.1%** | 41.1% | RR 0.71 (0.61–0.82) |
-| European Medicines Agency (EMA) responder endpoint (T3MPO-2, 26 wk) | **35.5%** | 24.3% | — |
+| FDA responder endpoint | **34.1%** | 21.7% | 0.84 (0.79–0.90); 125 fewer failures per 1,000 |
+| Abdominal pain improvement | — | — | 0.81 (0.73–0.88); risk difference **12.1%** |
+| CSBM response | — | — | 0.83 (0.77–0.90); risk difference **11.3%** |
+| Adequate relief of IBS symptoms (2 phase 3 trials) | **58.1%** | 41.1% | 0.71 (0.61–0.82) |
+| EMA responder (T3MPO-2, 26 wk) | **35.5%** | 24.3% | — |
 
-- Also improved SBM frequency, stool consistency, and global measures of IBS severity, constipation severity, and treatment satisfaction (not in the formal evidence profile).
-- **Certainty of evidence: MODERATE** — rated down for imprecision (CI crossed the clinically meaningful threshold for the FDA and CSBM responder endpoints); trials were at low risk of bias.
+*Data from [[aga-2022-ibs-c]] (text and Table 5).*
+
+- Also improved SBM frequency, stool consistency, and global IBS severity, constipation severity and treatment satisfaction (outside the evidence profile).
+- **Certainty: moderate** — rated down for imprecision (CI crossed the panel's clinically meaningful threshold for the FDA and CSBM responder endpoints); trials at low risk of bias ([[aga-2022-ibs-c]]).
+- No head-to-head trials among the IBS-C secretagogues; a network meta-analysis ranked linaclotide first ([[aga-2022-ibs-c]]).
 
 ## Adverse Effects
 
-- **Diarrhea** — most common adverse event (AE): **14.8%** vs 2.3% placebo; led to **discontinuation in 6.6%** vs 1.0%.
-- Serious adverse events (SAEs) across the 3 trials: 11 tenapanor vs 7 placebo (diarrhea, abdominal pain, nausea, chronic obstructive pulmonary disease (COPD), panic, osteoarthritis, migraine, depression). **Only the diarrhea SAE was judged "possibly related"** to treatment. **No deaths.**
-
-- **Renal impairment raises the diarrhea rate without changing the dose.** Among the 31% of trial patients with a baseline estimated glomerular filtration rate (eGFR) <90 mL/min/1.73 m², diarrhea including severe diarrhea occurred in **20%** vs **13%** of those with normal renal function — and the rate did **not** track with the severity of impairment. ([[ibsrela-2025-tenapanor-label]])
-- **If diarrhea is severe: suspend dosing and rehydrate** — not dose-reduce ([[ibsrela-2025-tenapanor-label]]).
-- Hypersensitivity (pruritus, rash, urticaria) in post-marketing reports.
-
-[[aga-acg-2023-constipation]] **excluded tenapanor** from its review, so there is still no on-label guideline recommendation in [[chronic-idiopathic-constipation|chronic idiopathic constipation (CIC)]] — only the off-label refractory-constipation position above, which carries no dose.
+- **Diarrhea** — most common adverse event (AE): **14.8% vs 2.3%** placebo; led to **discontinuation in 6.6% vs 1.0%** (RR 6.27, 95% CI 2.99–13.15; 61 more per 1,000) ([[aga-2022-ibs-c]]).
+  - **Severe diarrhea 2.5% vs 0.2%** ([[ibsrela-2025-tenapanor-label]]).
+  - **Severe diarrhea → suspend dosing and rehydrate**; counsel patients to stop and call. The label gives no dose reduction ([[ibsrela-2025-tenapanor-label]]).
+- Other common (≥2%, more than placebo): abdominal distension, flatulence, dizziness ([[ibsrela-2025-tenapanor-label]]).
+- **Renal impairment** (baseline estimated glomerular filtration rate [eGFR] <90 mL/min/1.73 m², 31% of trial patients): diarrhea incl. severe **20% vs 13%** with normal renal function; rate did **not** track with severity of impairment ([[ibsrela-2025-tenapanor-label]]).
+- Serious adverse events (SAEs), 3 trials: 11 tenapanor vs 7 placebo; **only a diarrhea SAE judged "possibly related"**; **no deaths** ([[aga-2022-ibs-c]]).
+- Postmarketing: hypersensitivity (pruritus, rash, urticaria) ([[ibsrela-2025-tenapanor-label]]).
 
 ## Contraindications & Cautions
 
-*All from the FDA label ([[ibsrela-2025-tenapanor-label]]); none of the three guidelines on this page addresses any of it.*
+*FDA label ([[ibsrela-2025-tenapanor-label]]).*
 
-| | |
+| Population / issue | Label position |
 |---|---|
 | **Contraindicated** | Age **<6 y** · known or suspected **mechanical GI obstruction** |
 | **Avoid** | Age **6 to <12 y** |
-| **Not established** | Anyone **<18 y** — no pediatric indication at any age |
-| **Renal impairment** | **No dose adjustment**; the label has no renal-impairment section |
-| **Hepatic impairment** | **No dose adjustment**; the label has no hepatic-impairment section |
-| **Pregnancy / lactation** | Minimally absorbed (plasma <0.5 ng/mL); not detected in breast milk. No fetal risk identified |
-| **Age ≥65 y** | No overall difference in safety or efficacy (8% of the trial population) |
+| **Not established** | Age **<18 y** |
+| **Renal impairment** | No dose adjustment given; metabolite M1 levels in end-stage renal disease (ESRD) on hemodialysis (eGFR <15) not notably different from healthy subjects |
+| **Hepatic impairment** | No dose adjustment given; moderate (Child-Pugh B): M1 total and peak exposure ~33% and ~27% lower — not clinically relevant |
+| **Pregnancy** | Plasma levels below quantification (<0.5 ng/mL) → no fetal exposure expected; data from a small number of pregnancies have not identified a drug-associated risk |
+| **Lactation** | Tenapanor and M1 not detected in breast milk |
+| **Age ≥65 y** | 8% of trial patients; no overall difference in safety or effectiveness; greater sensitivity of some older individuals not ruled out |
 
-> [!pitfall] "Contraindicated under 12" is wrong in both directions
-> The boxed warning is **wider** than the contraindication. Tenapanor is **contraindicated below 6 years** (deaths from presumed dehydration in young juvenile rats) but only **to be avoided from 6 to under 12 years** — a gap where there are no juvenile-animal and no clinical data, not a proven hazard. Either way there is **no pediatric indication**, which is where it differs from [[linaclotide]]. ([[ibsrela-2025-tenapanor-label]])
+> [!pitfall] Boxed warning: dehydration in children
+> **Contraindicated <6 y** — deaths presumed from dehydration in young juvenile rats (<1 week old; human equivalent <2 y). **Avoid 6 to <12 y** — no data in older juvenile rats and no pediatric clinical data. Safety and effectiveness not established <18 y ([[ibsrela-2025-tenapanor-label]]).
 
-**Drug interactions** — tenapanor inhibits the intestinal uptake transporter **OATP2B1**, so its substrates lose exposure; monitor for loss of efficacy and adjust the other drug as needed. The label's worked example is **enalapril**: peak exposure fell ~70% and total exposure 50–65%, so **monitor blood pressure and increase the enalapril dose if needed**. ([[ibsrela-2025-tenapanor-label]])
+**Drug interactions** — inhibits intestinal uptake transporter **OATP2B1**; substrates may lose exposure → monitor for loss of efficacy, adjust the other drug. **Enalapril:** peak exposure ↓ ~70%, total exposure ↓ ~50–65% (tenapanor 30 mg twice daily) → **monitor blood pressure, increase enalapril if needed** ([[ibsrela-2025-tenapanor-label]]).
 
 ## Place in Therapy
 
-- One of the **conditional** IBS-C options, alongside [[plecanatide]], [[lubiprostone]], and [[tegaserod]]; [[linaclotide]] is the only **strongly** recommended agent for IBS-C in [[aga-2022-ibs-c]].
-- **Last-line, off-label** in refractory constipation — same tier as off-label pyridostigmine and the (non-US) ileal bile acid transporter (IBAT) inhibitor elobixibat ([[aga-2026-refractory-constipation]]). See [[chronic-idiopathic-constipation]] for the full escalation ladder.
-- No head-to-head trials against the GC-C agonists.
+- **IBS-C:** one of the **conditional** options — with [[plecanatide]], [[tegaserod]], [[lubiprostone]] (moderate certainty) and polyethylene glycol (PEG) laxatives (low certainty); [[linaclotide]] is the only **strong** recommendation ([[aga-2022-ibs-c]]).
+- **Refractory constipation:** last-line, off-label — alongside pyridostigmine and the ileal bile acid transporter (IBAT) inhibitor elobixibat (approved in several Asian countries) ([[aga-2026-refractory-constipation]]). Escalation ladder: [[chronic-idiopathic-constipation]].
 
 ---
 

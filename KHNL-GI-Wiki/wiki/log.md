@@ -27,6 +27,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Pages:**
 - [[low-fodmap-diet]] — reviewed + verified. Old-style flowchart → role-class redraw of AGA 2022 Figure 2 with 4-line caption; duplicate phase table removed; 8 fidelity fixes (fructose breath test may predict LFD response; SI variants "may"; "least restriction" unsourced; IBS gluten data mislabelled as IBD; Crohn's microbiota study overstated; others); ACG RR data added; 2 pitfall callouts. Fidelity gate clean; independent check **0 findings**. Card file: f0d004 front recut (tested the unsourced "least restriction"), f0d006/f0d008 Back Extra fixed; `page_updated` left so it requeues.
+- [[hiv-aids-related-diarrhea]] — reviewed + verified. Role-class Mermaid built from ASGE Recs 1/8/9 + IDSA Recs 9/12/24 (replaces Step A/B text); AIDS test-panel table (IDSA Table 5) and pathogen-therapy table (IDSA Table 6, adds *Cyclospora*/*Cystoisospora*); `## Contents` added, schema order; unsourced pointer to non-ingested HIV OI guidelines removed. 8 fidelity fixes (CMV "most common" limited to HIV; unsourced "do not stop at sigmoidoscopy" and "rather than repeating stool tests" removed; Rec 27/28 unmerged; bismuth line cited to ACG 2016; "not nitazoxanide alone" removed; AIDS exception to Rec 36 added). Gate clean; independent check 2 minor (307- vs 317-patient reports; loperamide Rec 47 = immunocompetent *adults*, acute watery) — fixed. Card file: 0a0001/0a0003 Back Extra fixed. *Coverage gap noticed:* no GVHD page (ASGE 2010 Rec 10, AGA 2015 Statement 7) — for the queue.
 
 ---
 
