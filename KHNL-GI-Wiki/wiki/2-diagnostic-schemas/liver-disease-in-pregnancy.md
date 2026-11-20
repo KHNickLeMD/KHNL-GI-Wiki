@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
 updated: 2026-11-20
-sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, easl-2025-autoimmune-hepatitis, idsa-2024-ciai-imaging-cholecystitis-cholangitis]
+sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, easl-2025-autoimmune-hepatitis, idsa-2024-ciai-imaging-cholecystitis-cholangitis, idsa-2024-ciai-risk-imaging-microbiology]
 ---
 
 ## Contents
@@ -116,6 +116,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 - **Magnetic resonance imaging (MRI) without gadolinium**: second/third trimester (Rec 3); avoid gadolinium (crosses placenta → amniotic fluid accumulation)
 - **Computed tomography (CT)**: judiciously, minimized radiation protocols 2–5 rads (Rec 4); fetal risk of anomalies not increased at <5 rad
 - **Suspected [[acute-cholecystitis|acute cholecystitis]] or cholangitis:** ultrasound **or** MRI can be considered as the initial imaging; the Infectious Diseases Society of America (IDSA) panel is unable to recommend one over the other (knowledge gap; no diagnostic-accuracy studies in pregnancy) ([[idsa-2024-ciai-imaging-cholecystitis-cholangitis]])
+- **Other suspected intra-abdominal infection** ([[idsa-2024-ciai-risk-imaging-microbiology]], IDSA 2024; wiki numbering): appendicitis → **ultrasound first** (R5), **MRI if ultrasound is equivocal/non-diagnostic and suspicion persists** (R6) — both conditional recommendation, very low certainty of evidence; [[diverticulitis]] or intra-abdominal abscess → ultrasound or MRI, no preference (R13, R17; knowledge gap)
 - **[[liver-biopsy|Liver biopsy]]**: rarely needed; percutaneous approach is safe; transjugular alternative with limited radiation exposure (0.05–0.1 rad)
 
 ---
@@ -421,3 +422,4 @@ See also: [[wilson-disease]]
 3. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]
 4. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
 5. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]
+6. [[idsa-2024-ciai-risk-imaging-microbiology|IDSA 2024 Clinical Practice Guideline Update on Complicated Intra-abdominal Infections: Risk Assessment, Diagnostic Imaging, and Microbiological Evaluation]]

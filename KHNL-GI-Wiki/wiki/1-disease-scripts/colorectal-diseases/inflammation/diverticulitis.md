@@ -3,8 +3,8 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-11-08
-sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis, sis-2024-intra-abdominal-infection]
+updated: 2026-11-20
+sources: [acg-2026-diverticulitis, aga-2021-colonic-diverticulitis, aga-2015-acute-diverticulitis, sis-2024-intra-abdominal-infection, idsa-2024-ciai-risk-imaging-microbiology]
 ---
 
 Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% (women). **88%** present as acute *uncomplicated* disease. Two modern reversals define management: antibiotics are **selective, not routine** for low-risk uncomplicated disease, and the number of episodes no longer drives elective surgery.
@@ -37,6 +37,11 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 - Features raising likelihood: older age, prior episodes, **left lower-quadrant pain and tenderness**, pain with movement, lack of vomiting, elevated C-reactive protein (CRP).
 - **computed tomography (CT) is essential** — especially at first presentation and in severe cases — to confirm diverticulitis, exclude alternatives, grade severity, and localize disease if surgery is contemplated.
   - CT of uncomplicated disease: colonic wall thickening and/or increased pericolic fat stranding.
+- **Which imaging — Infectious Diseases Society of America (IDSA) 2024** ([[idsa-2024-ciai-risk-imaging-microbiology]]; unnumbered — R11–R13 are the wiki's):
+  - Nonpregnant adults: **CT first** (R11; conditional recommendation, very low certainty of evidence). Intravenous (IV) contrast usually appropriate; CT without IV contrast may be appropriate.
+  - **CT unavailable or contraindicated → ultrasound or magnetic resonance imaging (MRI)** (R12; conditional, very low certainty).
+  - Pregnant adults: ultrasound or MRI can be considered; IDSA is unable to recommend one over the other (R13; knowledge gap).
+  - The [[aga-2021-colonic-diverticulitis|American Gastroenterological Association (AGA) 2021]] update calls MRI very sensitive but less specific than CT and generally not used acutely — IDSA gives it a role in nonpregnant adults only when CT cannot be done.
 
 ### Severity Assessment
 
@@ -95,7 +100,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 - **CT abdomen/pelvis** — primary confirmatory test (see Assessment); grades modified Hinchey stage.
 - **CRP** — supports diagnosis and stratifies risk (**>140 mg/L** = high-risk feature).
 - **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, and it should **not be performed within 6–8 weeks** of the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%, 95% confidence interval (CI) 2.7–4.9) and perforation (0.2%).
-  - **A normal CT does not exclude an underlying colonic neoplasm** — absence of a mass lesion is not a substitute for a high-quality colon exam ([[aga-2015-acute-diverticulitis|American Gastroenterological Association (AGA) 2015]]).
+  - **A normal CT does not exclude an underlying colonic neoplasm** — absence of a mass lesion is not a substitute for a high-quality colon exam ([[aga-2015-acute-diverticulitis|AGA 2015]]).
   - Yield of colonoscopy after imaging-proven diverticulitis: **colorectal cancer 15 cases/1000 patients; advanced adenomas 38 cases/1000** (AGA 2015).
 
 ---
@@ -188,3 +193,4 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 2. [[aga-2021-colonic-diverticulitis|AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis: Expert Review (2021)]]
 3. [[aga-2015-acute-diverticulitis|American Gastroenterological Association Institute Guideline on the Management of Acute Diverticulitis (2015)]]
 4. [[sis-2024-intra-abdominal-infection|The Surgical Infection Society Guidelines on the Management of Intra-Abdominal Infection: 2024 Update]]
+5. [[idsa-2024-ciai-risk-imaging-microbiology|IDSA 2024 Clinical Practice Guideline Update on Complicated Intra-abdominal Infections: Risk Assessment, Diagnostic Imaging, and Microbiological Evaluation]]

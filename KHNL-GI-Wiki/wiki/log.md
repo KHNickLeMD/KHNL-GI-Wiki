@@ -26,6 +26,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — no touched topic page has `verified:`.
 - `ingest: partial` removed.
 
+**`[[idsa-2024-ciai-risk-imaging-microbiology]]` — new source (IDSA 2024 cIAI update overview, Bonomo: risk assessment, imaging and microbiology, all 21 statements), fully ingested.** Companion of the file above; US society guideline, 7 pages, not CC-licensed.
+- *Extract* (fresh agent, rendered S85–S86): all **21** statements (unnumbered; R1–R21 the wiki's, printed order), strength/certainty as printed (every one conditional or knowledge gap; R20 the only moderate certainty), PICO locators, resistance-concern criteria, at-a-glance imaging table. No tables/figures in the article.
+- *Gate:* 3 ABSENT (two "conditional / moderate" split across a hyphenated line — confirmed on p. 6; one false hit on the sentence "none is strong"); 2 NOMATCH (summary line; SIS cross-reference quoting its own source page); 1 SIGN (SIS APACHE-II ≥10, on that source page).
+- *Independent check* (fresh agent, ~120 claims, plus SIS 2024 / AGA 2021 / ACG 2026 / ACG 2024 AP / TG18 raw files): 1 management + 2 minor findings, all confirmed and fixed — R18 had been read as "resistance concern alone qualifies"; the printed "elevated temperature AND: … OR there is concern…" grouping is ambiguous → R18 quoted with its printed punctuation and the ambiguity stated; R19's low certainty in children added to the summary; cholangitis remarks also belong to R9. `verified: 2026-11-20` set.
+- *Propagation* (from the verified source page): [[diverticulitis]] → *Establishing the Diagnosis* gets R11–R13 (CT first, IV contrast usually / non-contrast may be appropriate; ultrasound or MRI if CT unavailable or contraindicated; pregnancy open) with AGA 2021's "MRI generally not used acutely" as the contrast. [[acute-cholangitis]], [[acute-cholecystitis]] → IDSA blood-culture triggers R18/R19 beside TG18's high-fever rule (newer US guideline leads). [[liver-disease-in-pregnancy]] → appendicitis (R5/R6), diverticulitis and abscess (R13/R17) imaging.
+- *Gate:* new lines 0 flags.
+- *Independent check of changed lines* (fresh agent, 29 claims): 2 minor findings — "MRI only when CT cannot be done" limited to nonpregnant adults (fixed); the R18 hedge — this checker read resistance concern as a standalone trigger, the source-page checker as ambiguous; kept the hedge and added IDSA's remark that resistance concern is a case where cultures may help. No touched page carries `verified:` → no stamp.
+- **Not propagated:** R20 (intra-abdominal cultures at source control) — whether biliary drainage counts as "source control" for cholangitis is not stated; kept on the source page only. R1 (APACHE II) — no severity-score page owns it; R2–R4, R14–R16, R21 have no topic page.
+- *Sibling entities queued* (*Coverage Gaps* 4–5): acute appendicitis, intra-abdominal abscess.
+- `index.md`: source row added; diverticulitis (stale 1 → 5), acute-cholecystitis (→ 9), acute-cholangitis (→ 10), liver-disease-in-pregnancy (→ 6) rows updated.
+- *Cards:* none — no touched topic page has `verified:`.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-20] lint | Quality review — release sweep (manual, by budget)

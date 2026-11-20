@@ -4,7 +4,7 @@ category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
 updated: 2026-11-20
-sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
+sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, idsa-2024-ciai-risk-imaging-microbiology, tg18-2018-cholangitis-criteria, tg18-2018-antimicrobial-therapy, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis, bsg-2017-common-bile-duct-stones]
 ---
 
 # Acute Cholangitis
@@ -131,6 +131,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - Blood urea nitrogen (BUN), creatinine, prothrombin time (PT) and **PT-INR**
 - **Blood gas analysis**
 - **Blood culture — preferably if high fever is present.** If it was not drawn as part of the initial response, **it must be taken before antibiotics are given.** ([[tg18-2018-cholangitis-flowchart]])
+- **IDSA 2024 blood-culture triggers** (suspected intra-abdominal infection, adults and children; [[idsa-2024-ciai-risk-imaging-microbiology]]; wiki numbering): elevated temperature **plus** hypotension, tachypnea and/or delirium → obtain blood cultures (R18; conditional recommendation, very low certainty of evidence). Concern for antibiotic-resistant organisms is also listed in R18 — the printed wording leaves unclear whether it qualifies without fever, but IDSA's remarks list it among the cases where blood cultures may help. Not immunocompromised, none of those features and no resistance concern → **not routinely** (R19; conditional, very low certainty adults / low children). IDSA names **concern for ascending cholangitis** as a select case where cultures may still help. Differs from the TG18 high-fever trigger; IDSA is the newer US guideline.
 - **If biliary drainage is performed, bile samples must always be sent for culture.**
 
 *Note how directly this maps onto the grading table: platelets, albumin, bilirubin, creatinine, PT-INR and WBC are all severity criteria, which is why they are sent at presentation rather than reactively.*
@@ -290,3 +291,4 @@ flowchart TD
 7. [[asge-2019-choledocholithiasis|ASGE 2019: Endoscopic Management of Choledocholithiasis]]
 8. [[bsg-2017-common-bile-duct-stones|BSG 2017: Updated Guideline on the Management of Common Bile Duct Stones (CBDS)]]
 9. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]
+10. [[idsa-2024-ciai-risk-imaging-microbiology|IDSA 2024 Clinical Practice Guideline Update on Complicated Intra-abdominal Infections: Risk Assessment, Diagnostic Imaging, and Microbiological Evaluation]]

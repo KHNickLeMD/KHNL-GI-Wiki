@@ -4,7 +4,7 @@ category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
 updated: 2026-11-20
-sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
+sources: [idsa-2024-ciai-imaging-cholecystitis-cholangitis, idsa-2024-ciai-risk-imaging-microbiology, tg18-2018-antimicrobial-therapy, aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart, tg18-2018-cholecystitis-criteria, tg18-2018-gallbladder-drainage]
 ---
 
 # Acute Cholecystitis
@@ -199,6 +199,7 @@ flowchart TD
 - **Timing of the first dose:** septic shock → **within 1 hour of recognition**; otherwise **within 6 hours of diagnosis**, and always **before any drainage or operative procedure**.
 - **Empiric agents** are chosen by severity grade and by community-acquired vs healthcare-associated setting; the agent table, the local-antibiogram rules, and the oral step-down options are shared with cholangitis and live on [[acute-cholangitis#Antimicrobial Therapy]] — one home, not repeated.
 - **Cultures:** **send gallbladder bile for culture in all cases except Grade I** (Recommendation 1, level C), obtained at the beginning of any procedure performed. Also send **bile and tissue** when perforation, emphysematous changes or necrosis are seen during cholecystectomy (Recommendation 2, level D). **Blood cultures are not routinely recommended for Grade I community-acquired disease** (Recommendation 2, level D) — positive in only 7.7–15.8% of cholecystitis overall. ([[tg18-2018-antimicrobial-therapy]])
+- **IDSA 2024 blood-culture triggers** (suspected intra-abdominal infection, adults and children; [[idsa-2024-ciai-risk-imaging-microbiology]]; wiki numbering): elevated temperature **plus** hypotension, tachypnea and/or delirium → obtain blood cultures (R18; conditional recommendation, very low certainty of evidence). Concern for antibiotic-resistant organisms is also listed in R18 — the printed wording leaves unclear whether it qualifies without fever, but IDSA's remarks list it among the cases where blood cultures may help. Not immunocompromised, none of those features and no resistance concern → **not routinely** (R19; conditional, very low certainty adults / low children). Differs from the TG18 high-fever trigger (Assessment); IDSA is the newer US guideline.
 
 > ⚠ **The Grade III duration is weakly held by its own authors.** At the consensus meeting a member stated there were insufficient data to support it and that it was difficult to recommend. The Grade I/II rule is also not formally a non-inferiority result: the two randomized trials pooled by the guideline gave a risk difference for postoperative infection of **0.01 (95% confidence interval −0.04 to 0.06)**, with non-inferiority unproven in either trial but no clinically significant difference seen. ([[tg18-2018-antimicrobial-therapy]])
 
@@ -316,3 +317,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 6. [[tg18-2018-antimicrobial-therapy|Tokyo Guidelines 2018: Antimicrobial Therapy for Acute Cholangitis and Cholecystitis]]
 7. [[tg18-2018-gallbladder-drainage|Tokyo Guidelines 2018: Management Strategies for Gallbladder Drainage in Patients with Acute Cholecystitis (with Videos)]]
 8. [[idsa-2024-ciai-imaging-cholecystitis-cholangitis|IDSA 2024 Clinical Practice Guideline Update on Complicated Intraabdominal Infections: Diagnostic Imaging of Suspected Acute Cholecystitis and Acute Cholangitis]]
+9. [[idsa-2024-ciai-risk-imaging-microbiology|IDSA 2024 Clinical Practice Guideline Update on Complicated Intra-abdominal Infections: Risk Assessment, Diagnostic Imaging, and Microbiological Evaluation]]
