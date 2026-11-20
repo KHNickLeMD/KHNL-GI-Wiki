@@ -39,6 +39,23 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — no touched topic page has `verified:`.
 - `ingest: partial` removed.
 
+**`[[asge-2022-eoe-endoscopic-approach-consensus]]` — new source (ASGE 2022 EoE endoscopic approach consensus conference, Aceves), fully ingested.** US tier-1 consensus, 17 pages, ASGE copyright (not CC → no screenshots); its Figure 1 is the Delphi method, not a clinical algorithm.
+- *Extract* (fresh agent, rendered pp. 2, 4, 7–11, 18): all **20** Table 1 statements verbatim, all **8** no-consensus statements (Supplementary Table 2) as non-recommendations; no grades or per-statement votes exist (only the ≥80% scoring 7–9 rule) — stated on the page. Simplified EREFS table, 3-meta-analysis dilation safety table, balloon pull-through `[!howto]`. One splice of two studies caught and separated by the extractor.
+- *Gate:* 0 ABSENT/OTHER; 4 NOMATCH (summary lines); FAR/SIGN read off rendered pages.
+- *Independent check* (fresh agent, ~165 claims, plus ACG 2025 / ASGE 2026 Part 2 / ASGE 2011 raw files): 2 minor findings, both fixed — ACG 2025's "not symptoms alone" is about treatment response, not monitoring in remission; balloon start size "may need to be modified" (not "smaller") for strictures <8 mm. Unsupported "first ASGE consensus conference" removed. `verified: 2026-11-20` set.
+- *Propagation* (from the verified source page): [[eosinophilic-esophagitis]] → *Adjunct: Esophageal Dilation*: indication widened to Statement 10 (any EoE stricture with dysphagia; the page's "despite adequate anti-inflammatory therapy" qualifier was not in any source — no other copy in `wiki/`); Statements 11, 13, 17, 18 as Technique sub-bullets. ASGE expanded at first use.
+- *Gate:* new lines 0 flags. *Independent check of changed lines* (fresh agent, 6 claims): **0 findings**. Page carries no `verified:` → no stamp.
+- **Not propagated (budget):** [[esophageal-dilation]] (3 mm-per-session practice, Savary/Maloney choice, >17 mm dilator perforation data, safety table), [[endoscopic-management-of-perforation]] (Statement 19 management), the adult gastric/duodenal biopsy triggers and food-impaction biopsy sites on [[eosinophilic-esophagitis]]. Also flagged by the extractor for that page's next review: "endoscopic remission (EREFS ≤2)" is stated as a firm goal, but ACG 2025 calls the threshold proposed and the 2022 consensus failed to agree on it.
+- `index.md`: source row added; eosinophilic-esophagitis row updated.
+- *Cards:* none — no touched topic page has `verified:`.
+- `ingest: partial` removed.
+
+**Nothing qualified / did not run:**
+- No fourth file: ~$7 left after three verified ingests would not cover another extract + verify + propagation. Stopped at a clean point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*, card dedup and `{at:}` backfill: not run in this budget.
+
+**Backlog status:** backlog mode stays **ON**. Uningested US tier-1/2 still on file: ACIP 2020 hepatitis A, Multisociety 2021 endoscope reprocessing (Day), ASGE 2026 research quality measures (Elmunzer), ASCO 2021 irAE, ASPEN-SCCM 2016, Halphen/Gerard bowel-prep scales, Chicago v4.0 technical reviews (Fox, Kahrilas), Jeppesen 2012 STEPS, ENDURO Additional File 3. Non-US guidelines only where they fill a gap; NCCN skipped (EULA); lectures gated.
+
 ---
 
 ## [2026-11-20] lint | Quality review — release sweep (manual, by budget)

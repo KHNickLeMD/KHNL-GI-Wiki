@@ -3,8 +3,8 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
+updated: 2026-11-20
+sources: [acg-2025-eoe, asge-2026-eoe-endoscopic-management-part-2, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion, asge-2022-eoe-endoscopic-approach-consensus]
 ---
 
 Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
@@ -62,7 +62,7 @@ Eosinophilic esophagitis (EoE): chronic, immune/antigen-mediated esophageal dise
 | **C** | Chew excessively | Chewing to a mush-like consistency before swallowing |
 | **T** | Turn away tablets/pills | Pill dysphagia — often the only sign of swallowing dysfunction |
 
-**Endoscopic findings — EoE Endoscopic Reference Score (EREFS), total 0–9.** Score the **overall worst finding** in the esophagus, and report each feature's grade at every endoscopy ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]]):
+**Endoscopic findings — EoE Endoscopic Reference Score (EREFS), total 0–9.** Score the **overall worst finding** in the esophagus, and report each feature's grade at every endoscopy ([[asge-2026-eoe-endoscopic-management-part-2|American Society for Gastrointestinal Endoscopy (ASGE) 2026]]):
 
 | Feature | Appearance | Points |
 |---|---|---|
@@ -229,11 +229,14 @@ flowchart TD
 
 ### Adjunct: Esophageal Dilation
 
-- **Indication:** fibrostenotic EoE + dysphagia despite adequate anti-inflammatory therapy
+- **Indication:** dilation can be considered for **all** patients with EoE and an esophageal stricture with dysphagia ([[asge-2022-eoe-endoscopic-approach-consensus|ASGE 2022 consensus]], Statement 10)
 - **Goal diameter:** **16–18 mm** (adults/adolescents) ([[acg-2025-eoe]])
 - **Safety:** clinical improvement 95%; perforation <0.5%; hospitalization <1%
 - **ALWAYS pair with anti-inflammatory therapy** — dilation does not treat EoE
 - Technique: start conservative; work to "dilation effect" (mucosal disruption); use multiple sessions if needed
+  - Immediate endpoint: mucosal disruption **or** reaching the target diameter (Statement 11); reaching 16 mm may need gradual dilation over >1 session to lower perforation risk (Statement 13) ([[asge-2022-eoe-endoscopic-approach-consensus|ASGE 2022 consensus]])
+  - Fibrostenosing EoE **with inflammatory activity** — dilation can be done safely (Statement 17)
+  - Empiric dilation may be performed for persistent dysphagia with a normal-appearing diameter at endoscopy **and** histologic remission on medical or dietary therapy (Statement 18)
 - Empiric dilation may help even without an endoscopically visible stricture — endoscopy detects a narrowed esophagus with sensitivity of only **14.7%** (specificity 79.2%), rising to just **25%** at a ≤15 mm cutoff and **33%** at a ≤13 mm cutoff versus esophagram; **71%** of patients with no perceived narrowing at endoscopy still responded symptomatically to dilation. Of 48 adults scoped with EndoFLIP, **12 had a diameter <15 mm that endoscopy did not note** ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]])
 - **Strictures occur in ~25% of adults with EoE** and are the least reliably assessed EREFS feature; interrater reliability for stricture diameter is poor ([[asge-2026-eoe-endoscopic-management-part-2|ASGE 2026]], Statements 20–21)
 
@@ -311,3 +314,4 @@ flowchart TD
 4. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
 5. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 6. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+7. [[asge-2022-eoe-endoscopic-approach-consensus|Endoscopic Approach to Eosinophilic Esophagitis: American Society for Gastrointestinal Endoscopy Consensus Conference (2022)]]
