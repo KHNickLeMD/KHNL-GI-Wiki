@@ -3,8 +3,8 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-11-15
-sources: [easl-2025-autoimmune-hepatitis, aga-2026-hcc-surveillance, acg-2026-preventive-care-cirrhosis, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b]
+updated: 2026-11-20
+sources: [easl-2025-autoimmune-hepatitis, aga-2026-hcc-surveillance, acg-2026-preventive-care-cirrhosis, aasld-2023-hcc, aasld-idsa-2025-chb-treatment, aga-2020-hcc-screening-nafld, acr-2024-li-rads-us-surveillance-core, papatheodoridis-2016-page-b, aga-2026-older-adult-cyst-hcc-surveillance]
 ---
 
 Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how often, and emerging tools. **This page is the single home for the surveillance-indication table**; other pages link here rather than reproducing it. For tumor diagnosis/staging/treatment see [[hepatocellular-carcinoma]]; for imaging classification see [[li-rads]]; for the post-abnormal-test recall algorithm see [[hepatocellular-carcinoma]] → *Surveillance Recall Algorithm*.
@@ -13,6 +13,7 @@ Framework for hepatocellular carcinoma (HCC) surveillance — who, how, how ofte
 - [[#Who to Survey]]
   - [[#Sufficient Risk — Surveillance Advised]]
   - [[#Insufficient Risk / Do Not Survey]]
+  - [[#Older Adults]]
   - [[#Qualifiers That Change the Answer]]
 - [[#Surveillance Modality]]
 - [[#Reporting the Surveillance Ultrasound (LI-RADS US Surveillance v2024)]]
@@ -56,6 +57,39 @@ Surveillance is targeted to those who **would be candidates for HCC treatment** 
 | **Life-limiting comorbidity** — life expectancy **<1–2 years** that cannot be remedied by transplant or other directed therapy | — | GS 7c, Level 5, Strong |
 
 - **Non-cirrhotic, non-HBV etiologies are not surveyed** ([[aga-2026-hcc-surveillance]] BPA 3) — low annual incidence.
+
+### Older Adults
+
+*Basis: [[aga-2026-older-adult-cyst-hcc-surveillance]] BPAs 7–9 + Figure 2 (ungraded, expert opinion).*
+
+- **No absolute age cutoff** to stop surveillance (Figure 2 legend).
+- **Viral hepatitis:** oral antivirals lower but do not eliminate HCC risk; base surveillance on **fibrosis stage and HCC risk, not age alone** (BPA 7). In HCV cirrhosis, older age is an independent HCC risk factor after SVR → ongoing surveillance.
+- **Cirrhosis, any etiology:** surveillance should be **considered** because age increases risk, unless life expectancy is low, **<1–2 years** (BPA 8).
+- **Stop** if estimated life expectancy is **<1–2 years** from comorbidities, impaired functional status, or decompensation (eg, Child-Pugh C) **where transplant is not an option**; shared decision-making can inform the choice (BPA 9).
+- Without a transplant option, surveillance stays rational in **well-compensated** older adults: transarterial chemoembolization outcomes are similar at age **≥80 vs <80 y**; the American Society of Clinical Oncology (as cited by the CPU) recommends systemic therapy for **Child-Pugh A with Eastern Cooperative Oncology Group (ECOG) 0–1**.
+
+```mermaid
+flowchart TD
+    A(["HCC surveillance among older adults"]) --> B["Cirrhosis of any etiology<br/>HCV with F4 fibrosis or cirrhosis (staging preferred prior to HCV treatment)<br/>HBV without fibrosis or cirrhosis in special populations*"]
+    B -- "No" --> C(["Stop: HCC surveillance is not cost-effective"])
+    B -- "Yes" --> D["Candidate for transplant, resection,<br/>locoregional, or systemic therapy"]
+    D -- "Yes" --> E(["Screen: liver US + AFP every 6 months"])
+    D -- "No or unsure" --> F["Further evaluation: assess liver function, physical function,<br/>medical comorbidities, and patient goals"]
+    F --> G["CTP class C or ECOG ≥3<br/>or life-limiting comorbidities"]
+    G -- "Yes" --> H(["Stop"])
+    G -- "No" --> I(["Screen"])
+    class A start
+    class B,D,F,G test
+    class E,I act
+    class C,H stop
+```
+*HCC surveillance decision in older adults*
+*Source: redrawn from Figure 2 of the AGA 2026 CPU on pancreatic cyst and HCC surveillance in older adults*
+*[[aga-2026-older-adult-cyst-hcc-surveillance|AGA 2026 CPU: Pancreatic Cyst and HCC Surveillance in Older Adults]]*
+*HCC = hepatocellular carcinoma · HCV = hepatitis C virus · HBV = hepatitis B virus · US = ultrasound · AFP = alpha-fetoprotein · CTP = Child-Turcotte-Pugh · ECOG = Eastern Cooperative Oncology Group performance status*
+
+- \* **HBV special populations** (Figure 2 legend): PAGE-B ≥10; born in an HBV-endemic country and age **50 or older (women) / 40 or older (men)** — the AASLD table above says >50 / >40; born in Africa; family history of HCC.
+- **ECOG ≥3** = symptomatic and in bed at least 50% of waking hours (Figure 2 legend).
 
 ### Qualifiers That Change the Answer
 
@@ -204,3 +238,4 @@ flowchart TD
 6. [[acr-2024-li-rads-us-surveillance-core|ACR LI-RADS Ultrasound Surveillance v2024 Core]]
 7. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
 8. [[papatheodoridis-2016-page-b|PAGE-B Predicts the Risk of Developing Hepatocellular Carcinoma in Caucasians with Chronic Hepatitis B on 5-Year Antiviral Therapy (J Hepatol 2016)]]
+9. [[aga-2026-older-adult-cyst-hcc-surveillance|AGA Clinical Practice Update on Surveillance of Pancreatic Cystic Lesions and Hepatocellular Carcinoma in Older Adults: Expert Review (2026)]]

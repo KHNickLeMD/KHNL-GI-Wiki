@@ -3,8 +3,8 @@ title: "Intraductal Papillary Mucinous Neoplasm (IPMN)"
 category: disease-script
 tags: [ipmn, pancreatic-cysts, pancreatic-cancer, surveillance, high-risk-stigmata, worrisome-features, hpb]
 created: 2026-11-12
-updated: 2026-11-12
-sources: [iap-2024-kyoto-ipmn, acg-2018-pancreatic-cysts, aga-2015-asymptomatic-neoplastic-pancreatic-cysts]
+updated: 2026-11-20
+sources: [iap-2024-kyoto-ipmn, acg-2018-pancreatic-cysts, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, aga-2026-older-adult-cyst-hcc-surveillance]
 ---
 
 A mucin-producing intraductal neoplasm of the pancreas that communicates with the ductal system — the commonest pancreatic cyst and the commonest incidental one (**~80% of incidentally discovered pancreatic cysts are branch-duct IPMN**). It is a **precursor lesion**: it can progress from low-grade dysplasia through high-grade dysplasia to invasive carcinoma, and it independently marks the whole gland as at risk for a **separate, concomitant pancreatic ductal adenocarcinoma**. ([[iap-2024-kyoto-ipmn]])
@@ -228,6 +228,7 @@ Risk of HGD/IC **in resected specimens** ([[iap-2024-kyoto-ipmn]]):
 - **Stable cyst <20 mm, no morphological change and no worrisome features over 5 years** → **two acceptable options: stop, or continue for possible concomitant PDAC.** The guideline presents these as equally acceptable and does not pick one.
 - **Stop** for a patient **unfit for surgery**, or with a **life expectancy <10 years**.
 - ⚠ **Discontinuation may not apply to younger patients, or to those with familial or genetic risk** — in them pancreatic-cancer risk is cumulative over time.
+- **Older adults and comorbidity:** AGA 2026 age-, size- and comorbidity-based stop rules (and its post-resection rules) → [[pancreatic-cysts#When to Stop Surveillance (Recs 15 & 16)]] ([[aga-2026-older-adult-cyst-hcc-surveillance]]).
 
 ### Resection
 
@@ -304,3 +305,4 @@ Operative principles follow the 2017 guidelines ([[iap-2024-kyoto-ipmn]]):
 1. [[iap-2024-kyoto-ipmn|International Evidence-Based Kyoto Guidelines for the Management of Intraductal Papillary Mucinous Neoplasm of the Pancreas (2024)]]
 2. [[acg-2018-pancreatic-cysts|ACG Clinical Guideline: Diagnosis and Management of Pancreatic Cysts (2018)]]
 3. [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA Institute Guideline on the Diagnosis and Management of Asymptomatic Neoplastic Pancreatic Cysts (2015)]]
+4. [[aga-2026-older-adult-cyst-hcc-surveillance|AGA Clinical Practice Update on Surveillance of Pancreatic Cystic Lesions and Hepatocellular Carcinoma in Older Adults: Expert Review (2026)]]

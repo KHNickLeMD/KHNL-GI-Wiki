@@ -3,8 +3,8 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-11-19
-sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, iap-2024-kyoto-ipmn]
+updated: 2026-11-20
+sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, iap-2024-kyoto-ipmn, aga-2026-older-adult-cyst-hcc-surveillance]
 ---
 
 Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (intraductal papillary mucinous neoplasms [IPMNs], mucinous cystic neoplasms [MCNs]) to benign neoplasms (serous cystadenomas [SCAs]) to solid-cystic tumors with generally favorable prognosis (solid pseudopapillary neoplasms [SPNs]). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
@@ -297,7 +297,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 **Preferred modality:** MRCP (Conditional/VLow); EUS for patients who cannot/prefer not to have MRI
 
-⚠ **For IPMN specifically, the newer [[iap-2024-kyoto-ipmn|IAP 2024 Kyoto guideline]] sets different intervals and governs** (same tier, newer publication date): three size bands of **<20 mm · ≥20 and <30 mm · ≥30 mm**, with 6-month then 18-month, 6-month ×2 then 12-month, and 6-monthly imaging respectively — and it permits **stopping** for a stable cyst <20 mm with no worrisome features after 5 years, which ACG 2018 declines to endorse (Rec 16 below). The ACG table here remains the protocol for **MCN and the other cyst types**. Full IPMN protocol: [[intraductal-papillary-mucinous-neoplasm]].
+⚠ **For IPMN specifically, the newer [[iap-2024-kyoto-ipmn|International Association of Pancreatology (IAP) 2024 Kyoto guideline]] sets different intervals and governs** (same tier, newer publication date): three size bands of **<20 mm · ≥20 and <30 mm · ≥30 mm**, with 6-month then 18-month, 6-month ×2 then 12-month, and 6-monthly imaging respectively — and it permits **stopping** for a stable cyst <20 mm with no worrisome features after 5 years, which ACG 2018 declines to endorse (evidence summary for Recs 15–16 below). The ACG table here remains the protocol for **MCN and the other cyst types**. Full IPMN protocol: [[intraductal-papillary-mucinous-neoplasm]].
 
 **Surveillance intervals by largest cyst size — in absence of high-risk features:**
 
@@ -329,6 +329,39 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 - **Age >75:** Reasonable to reassess utility of ongoing surveillance (Conditional/VLow)
 - **Age 76–85:** Individualized approach; informed discussion about surgery, personal morbidity/mortality, and risk of cyst progression
 - Currently insufficient evidence to recommend stopping surveillance after 5 years in still-surgically-fit patients — ⚠ **superseded for IPMN** by [[iap-2024-kyoto-ipmn|IAP 2024]], which makes stopping an acceptable option for a stable cyst <20 mm after 5 years, and also stops surveillance for a life expectancy <10 years ([[intraductal-papillary-mucinous-neoplasm]])
+
+**Older adults and comorbidity — [[aga-2026-older-adult-cyst-hcc-surveillance|AGA 2026 Clinical Practice Update]]** (newest US guideline-tier document; ungraded Best Practice Advice [BPA], expert opinion). Where it differs from ACG 2018 above, it is the newer position:
+
+| Situation | AGA 2026 advice |
+|---|---|
+| Significant comorbidity = **age-adjusted Charlson comorbidity index (AACCI) ≥3–5**, any age, incidental cyst (esp. low risk) | Counsel **against** routine surveillance (BPA 1) |
+| **>65 y**, cyst **≤15 mm**, stable **5 y**, no worrisome features/high-risk stigmata (IAP definitions) | **Consider stopping** after detailed shared decision-making (BPA 2) |
+| **>75 y**, cyst **<30 mm**, stable **5 y**, no worrisome features/high-risk stigmata | Discuss the questionable value; **may stop** if the patient understands the small residual risk of cancer or HGD (BPA 3) |
+| New significant comorbidity that may preclude resection, at any point — even with prior worrisome features/high-risk stigmata, if no HGD or cancer | Discuss stopping (BPA 4) |
+
+- **Stable** = no growth of **3 mm or more per year or 6 mm or more in 2 years** (BPAs 2–3).
+- Authors' reading of the AACCI range: **≥5** = strong indicator to stop; **3–4** = detailed discussion. Scoring tables are not in the article.
+- ACG 2018 (evidence summary for Recs 15–16) finds insufficient evidence to stop after 5 years in fit patients; AGA 2026 permits it in older adults with small stable cysts.
+
+```mermaid
+flowchart TD
+    A(["Asymptomatic cyst"]) -- "Age ≥65 and ≤15 mm" --> B["Stable for ≥5 years"]
+    A -- "Age ≥75 and <30 mm" --> C["Stable for ≥5 years"]
+    A -- "≥30 mm ± other WF" --> D(["Individualized surveillance per multiple society guidelines,<br/>informed by comorbidities and fitness for surgical resection"])
+    A -. "AACCI ≥3–5 at any time" .-> E(["Discuss cessation of surveillance"])
+    B -- "Yes" --> S(["Stop surveillance"])
+    B -- "No" --> K(["Continue"])
+    C -- "Yes" --> S
+    C -- "No" --> K
+    class A start
+    class B,C test
+    class D,E,K act
+    class S stop
+```
+*Stopping surveillance of asymptomatic pancreatic cysts in older adults (the figure draws ≥65/≥75; BPAs 2–3 say >65/>75)*
+*Source: redrawn from Figure 1A of the AGA 2026 CPU on pancreatic cyst and HCC surveillance in older adults*
+*[[aga-2026-older-adult-cyst-hcc-surveillance|AGA 2026 CPU: Pancreatic Cyst and HCC Surveillance in Older Adults]]*
+*WF = worrisome features · AACCI = age-adjusted Charlson comorbidity index*
 
 ### Where AGA 2015 Differs — and Why This Page Follows ACG
 
@@ -396,6 +429,12 @@ flowchart TD
 | IPMN with low-/intermediate-grade dysplasia | Insufficient evidence; MRI q24 months is reasonable if no remnant IPMN; if remnant IPMN present, follow by size of largest remaining cyst (size-based surveillance table above) |
 | SPN | Yearly imaging for at least 5 years (Conditional/VLow) |
 
+**AGA 2026 after resection** ([[aga-2026-older-adult-cyst-hcc-surveillance|AGA 2026 CPU]]; differs from ACG 2018 above — newer):
+- **No HGD or cancer on final pathology** → remnant cysts surveyed per BPAs 2–3 (counting pre-resection surveillance), with a **discussion of stopping after 5 years of stability** (BPA 5). The authors call this expert opinion not fully aligned with international guidelines.
+- **HGD** → MRI/MRCP **every 6 months for 2 years, then annually**, as long as the patient remains a candidate for completion pancreatectomy; discuss stopping with oncology after **5 years of stability** if no worrisome features/high-risk stigmata (BPA 6). Figure 1B also names **age 75–85** as a trigger for that discussion.
+- **Cancer** → remnant surveillance per oncologic guidelines (BPA 6).
+- Full post-resection pathway (Figure 1B): [[aga-2026-older-adult-cyst-hcc-surveillance#PCL Surveillance Algorithm (Figure 1)]].
+
 ---
 
 ## See Also
@@ -411,3 +450,4 @@ flowchart TD
 3. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
 4. [[aga-2015-asymptomatic-neoplastic-pancreatic-cysts|AGA Institute Guideline on the Diagnosis and Management of Asymptomatic Neoplastic Pancreatic Cysts (2015)]]
 5. [[iap-2024-kyoto-ipmn|International Evidence-Based Kyoto Guidelines for the Management of Intraductal Papillary Mucinous Neoplasm of the Pancreas (2024)]]
+6. [[aga-2026-older-adult-cyst-hcc-surveillance|AGA Clinical Practice Update on Surveillance of Pancreatic Cystic Lesions and Hepatocellular Carcinoma in Older Adults: Expert Review (2026)]]

@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-20] lint | Manual pass — ingest by budget
+
+**Scope:** backlog mode, $12 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Backlog audit:** hash-compared every non-lecture `raw/` file against the files named in source-page `raw:` lines. The AGA-folder USMSTF PDFs (2020 follow-up, 2020 endoscopic removal, 2020 malignant polyps, 2022 start–stop age) and the ASGE-folder USMSTF 2016 CRC-resection surveillance, 2017 FIT and 2025 bowel-prep PDFs are co-published copies of documents already ingested from their ACG-folder twins — not backlog.
+
+**`[[aga-2026-older-adult-cyst-hcc-surveillance]]` — new source (AGA 2026 CPU, Das/Serper/Vege, surveillance of pancreatic cystic lesions and HCC in older adults), fully ingested.** Newest US tier-1 file without a source page; open access (CC BY-NC-ND 4.0).
+- *Extract* (fresh agent, all 9 pages rendered): all **9** Best Practice Advice statements (ungraded, as the Methods state); Figures 1A, 1B and 2 redrawn as Mermaid with 4-line captions (no screenshots); Table 1 (5-guideline stop-surveillance comparison) and the BD-IPMN standardized-incidence-ratio table recreated; AACCI ≥5 / 3–4 operative reading; antiviral renal and DDI points. AACCI, Child-Pugh and ECOG scoring tables are online-supplement only (not on file).
+- *Gate:* 0 ABSENT, 0 OTHER; 4 NOMATCH (the page's own comparison sentences); FAR hits = figure-only values, confirmed on rendered pp. 3–4; SIGN lines confirmed on rendered pages.
+- *Independent check* (fresh agent, ~115 claims, rendered pp. 3, 4, 6, plus ACG 2018 / IAP 2024 / AGA 2015 / AASLD 2023 / AASLD-IDSA 2025 raw files for the Contradictions): 2 minor findings, both confirmed and fixed — the Summary's HCC line had made treatment ineligibility a stop (Figure 2 sends "no or unsure" to further evaluation; BPA 8 is "should be considered"); "AGA 2015 advised no routine surveillance" after LGD resection was the CPU's reading of AGA 2015, whose Rec 9 names no dysplasia grade. `verified: 2026-11-20` set.
+- *Propagation* (from the verified source page): [[pancreatic-cysts]] → *When to Stop Surveillance* gets the BPA 1–4 table, stability definition, AACCI reading, contrast with ACG 2018 and the Figure 1A flowchart; *Post-Surgical Surveillance* gets BPAs 5–6 (+ Figure 1B's age 75–85 trigger). [[hcc-surveillance]] → new `### Older Adults` (BPAs 7–9, no age cutoff, TACE ≥80 y, ASCO systemic-therapy eligibility as cited, Figure 2 flowchart, legend incl. the 50-or-older / 40-or-older HBV wording vs AASLD's >50 / >40). [[intraductal-papillary-mucinous-neoplasm]] → one pointer line to the stop rules (one home).
+- *Gate:* changed lines 0 flags (pre-existing flags on untouched lines: hcc-surveillance L108 AIH rate from EASL; pancreatic-cysts L178 ≥3 vs >3 cm note, already explained on the page).
+- *Independent check of changed lines* (fresh agent, ~60 claims, rendered Figures 1A and 2 and AASLD p. 1926): 1 minor finding, fixed — "ACG 2018 (Rec 16)" for the insufficient-evidence-to-stop statement → it is the evidence summary for Recs 15–16. *Fix every copy:* the same locator on pancreatic-cysts L300 corrected; no other copy in `wiki/`. Topic pages carry no `verified:` → no stamp.
+- Abbreviation fix on [[pancreatic-cysts]]: IAP expanded at first use.
+- `index.md`: source row added; pancreatic-cysts (5 → 6 sources) and hcc-surveillance (6 → 9 sources, stale count corrected) rows updated.
+- *Cards:* none — no touched topic page has `verified:`; source pages are never carded.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-19] lint | 06:00 pass — daily fetch, finish the AGA 2015 cyst partial, ingest by budget
 
 **Scope:** backlog mode, $12 budget. Finish `[[aga-2015-asymptomatic-neoplastic-pancreatic-cysts]]` (verified, still `ingest: partial`) first, then new raw files one at a time under *Verified ingest*.
