@@ -3,94 +3,65 @@ title: "UC vs Crohn's Disease: Comparison"
 category: synthesis
 tags: [uc, crohns, ibd, comparison]
 created: 2026-05-16
-updated: 2026-10-29
+updated: 2026-11-20
 sources: [acg-2025-uc, acg-2025-crohns]
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 ---
 
 # UC vs Crohn's Disease: Comparison
 
-*Every row below is what the two cited American College of Gastroenterology (ACG) 2025 guidelines actually state. Classical teaching points that those guidelines do **not** assert are listed separately at the bottom rather than presented as fact.*
+[[ulcerative-colitis|Ulcerative colitis (UC)]] vs [[crohns-disease|Crohn's disease (CD)]], side by side from the two American College of Gastroenterology (ACG) 2025 guidelines. Workup and treatment live on each disease page.
 
 ## Contents
-- [[#Distinguishing the Two — What the Guidelines Say]]
-  - [[#Serology — usually the wrong test]]
-  - [[#UC disease extent (the classification that drives therapy)]]
-  - [[#CD disease location (the parallel classification)]]
-- [[#Classical Teaching Not Asserted by the Cited Guidelines]]
+- [[#Colon-Only Inflammation]]
+- [[#Side-by-Side Features]]
+- [[#Serology]]
 - [[#See Also]]
 - [[#Sources]]
 
-## Distinguishing the Two — What the Guidelines Say
+## Colon-Only Inflammation
 
-**The problem case is colon-only inflammation.** ACG 2025 states plainly that distinguishing Crohn's disease (CD) from ulcerative colitis (UC) **can be challenging when inflammation is confined to the colon**, and names the specific clues that favor CD: [[acg-2025-crohns]]
+- Telling CD from UC **can be challenging when inflammation is confined to the colon** ([[acg-2025-crohns]]).
+- **Clues that favor CD** ([[acg-2025-crohns]]):
+  - Discontinuous involvement with **skip areas**
+  - **Sparing of the rectum** (but see the pitfall below)
+  - **Deep / linear / serpiginous ulcers** of the colon
+  - **Strictures**
+  - **Fistulas**
+  - **Granulomatous inflammation**
+- Neither ACG 2025 guideline names a category or pathway for colon-only [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] that cannot be assigned to UC or CD.
 
-- **Discontinuous involvement with skip areas**
-- **Sparing of the rectum**
-- **Deep / linear / serpiginous ulcers** of the colon
-- **Strictures**
-- **Fistulas**
-- **Granulomatous inflammation**
+## Side-by-Side Features
 
-| Feature | [[ulcerative-colitis\|Ulcerative Colitis]] | [[crohns-disease\|Crohn's Disease]] |
+| Feature | Ulcerative Colitis | Crohn's Disease |
 |---|---|---|
-| **Location** | Large intestine; **frequently involves the rectum**, often extending proximally to additional colon [[acg-2025-uc]] | Any part of the luminal gastrointestinal (GI) tract — **ileal, ileocolonic, or colonic in roughly one-third each** [[acg-2025-crohns]] |
-| **Distribution** | **Continuous** segment from distal rectum extending proximally [[acg-2025-uc]] | **Discontinuous, with skip areas** [[acg-2025-crohns]] |
-| **Depth** | Mucosal [[acg-2025-uc]] | **Transmural** — focal, asymmetric, transmural granulomatous inflammation [[acg-2025-crohns]] |
-| **Rectal involvement** | **Absent in <5% of adults at diagnosis** — but **up to a third of pediatric-onset** disease [[acg-2025-uc]] | **Rectal sparing is a clue to CD** [[acg-2025-crohns]] |
-| **Terminal ileum** | Usually normal; **backwash ileitis in extensive colitis does occur** and makes subtype determination challenging [[acg-2025-crohns]] | Ileal / ileocolonic involvement common; a **high-risk feature for progressive disease** [[acg-2025-crohns]] |
-| **Granulomas** | Not a feature | **Present in only a minority — up to 33%.** *Helpful but **not required** for diagnosis* [[acg-2025-crohns]] |
-| **Endoscopic appearance** | Loss of vascular markings, granularity, friability, erosions; deep ulceration + spontaneous bleeding if severe [[acg-2025-uc]] | Mucosal nodularity, edema, aphthous and linear ulceration, friability, stenosis [[acg-2025-crohns]] |
-| **Fistulas / strictures** | Not a diagnostic feature | **Clues to CD**; stricturing and penetrating phenotypes are high-risk for progression [[acg-2025-crohns]] |
-| **Perianal disease** | Not a feature | **[[perianal-fistulizing-crohns-disease\|Perianal fistulizing CD]] in up to one-quarter of patients** — population-based frequency **10%–26%**; cumulative risk **26% at 20 years** [[acg-2025-crohns]] |
-| **Smoking** | **Recent smoking *cessation* is a potential precipitant** of UC [[acg-2025-uc]] | **Cigarette smoking exacerbates disease activity and accelerates recurrence** [[acg-2025-crohns]] |
-| **Surgery** | **Proctocolectomy** for medically refractory disease; colectomy-sparing is an explicit treatment target [[acg-2025-uc]] | **Recurs after resection** — high-risk features drive postoperative prophylaxis [[acg-2025-crohns]] |
-| **[[colorectal-cancer\|Cancer]] risk** | Dysplasia risk falls with control of mucosal inflammation [[acg-2025-uc]] | Small-bowel adenocarcinoma risk **≥18-fold elevated**, though absolute risk is low (**0.3 cases per 1,000 patient-years**) [[acg-2025-crohns]] |
+| **Bowel involved** | Large intestine; rectum frequently involved, often extending proximally ([[acg-2025-uc]]) | Luminal gastrointestinal (GI) tract; **ileal, ileocolonic or colonic in roughly one-third each** ([[acg-2025-crohns]]) |
+| **Distribution** | **Continuous** segment from the distal rectum extending proximally; a **periappendiceal / cecal patch** can occur with limited distal colitis and is managed the same way (Figure 1) ([[acg-2025-uc]]) | **Discontinuous, skip areas** ([[acg-2025-crohns]]) |
+| **Inflammation** | Mucosal — extent phenotypes are defined by mucosal involvement (Figure 1); histologic extension can exceed the endoscopic extent → **biopsy normal-appearing proximal colon** ([[acg-2025-uc]]) | **Focal, asymmetric, transmural granulomatous** inflammation; granulomas in **a minority (up to 33%)** — helpful, **not required**; no truly pathognomonic features (key concept [KC] 2) ([[acg-2025-crohns]]) |
+| **Rectum** | Rectal involvement absent in **<5% of adults** at diagnosis ([[acg-2025-uc]]) | Rectal sparing is a clue to CD ([[acg-2025-crohns]]) |
+| **Ileum and ileocecal valve** | **Not associated with an ulcerated or stenotic ileocecal valve**; ileal intubation can exclude distal ileal involvement, which can be seen with CD ([[acg-2025-uc]]) | Ileal / ileocolonic disease common; **backwash ileitis** in extensive colitis can make the IBD subtype hard to determine ([[acg-2025-crohns]]) |
+| **Upper GI tract** | Terminal ileum normal → no [[upper-endoscopy\|upper endoscopy]] or cross-sectional imaging unless symptoms/findings suggest proximal involvement or CD (KC 5); gastritis/erosions in **up to a third of adults** don't change the diagnosis; in children, **up to 8%** are re-diagnosed as CD from upper findings ([[acg-2025-uc]]) | Upper GI involvement in **up to a quarter**; upper endoscopy for upper GI complaints (KC 26) ([[acg-2025-crohns]]) |
+| **Endoscopic appearance** | Loss of vascular markings, granularity, friability, erosions; severe → deep ulcerations, spontaneous bleeding ([[acg-2025-uc]]) | Mucosal nodularity, edema, ulcerations, friability, stenosis ([[acg-2025-crohns]]) |
+| **Course** | Most often relapsing–remitting; a small number present with rapid-onset, progressive, unresponsive fulminant colitis ([[acg-2025-uc]]) | Chronic, progressive, destructive in most (KC 4); up to **half** develop stricture, abscess, fistula or phlegmon within 20 yr (KC 6); [[perianal-fistulizing-crohns-disease\|perianal fistulizing CD]] in **up to one-quarter** (KC 10) ([[acg-2025-crohns]]) |
+| **Extent / location and prognosis** | Extent: proctitis, left-sided, extensive (KC 4; definitions on [[ulcerative-colitis#Establishing the Diagnosis\|UC]]); extent broadly affects prognosis but **should not limit therapeutic options** (KC 26: in moderately to severely active UC, extent should not limit the choice of advanced therapies) ([[acg-2025-uc]]) | Location **stable**, occasionally extends (KC 5) — only **6%–14%** change location; ileal, ileocolonic or proximal GI disease more likely than isolated colonic disease to progress to a complication (KC 6) ([[acg-2025-crohns]]) |
+| **Smoking and nonsteroidal anti-inflammatory drugs (NSAIDs)** | Potential precipitants: **recent smoking cessation**, NSAID use, enteric infection ([[acg-2025-uc]]) | **Smoking exacerbates activity and accelerates recurrence** → counsel cessation (KC 36); NSAIDs may exacerbate activity — routine use with caution (KC 35) ([[acg-2025-crohns]]) |
+| **Surgery** | Refractory/intolerant moderately to severely active UC → surgical consultation, consider colectomy (KC 32); remission not maintained despite optimized therapy → consider elective **proctocolectomy** (KC 38) ([[acg-2025-uc]]) | Segmental resection is the most common operation (KC 58); 5-yr symptomatic postoperative recurrence **~50%** (KC 15); prophylaxis after small-intestinal resection with recurrence risk factors (KC 54) ([[acg-2025-crohns]]) |
+| **Cancer** | Longstanding UC → defined risk of dysplasia and [[colorectal-cancer\|colorectal cancer (CRC)]], mainly from extensive involvement and longstanding mucosal inflammation; control of mucosal inflammation **may** reduce dysplasia risk (KC 14) ([[acg-2025-uc]]) | Colonic involvement → increased CRC risk; risk factors: duration, extent of colonic involvement, [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], family history of CRC, ongoing colonic inflammation (KC 17); dysplasia progresses at a similar rate to UC → similar surveillance strategies; small bowel disease → small bowel adenocarcinoma risk **at least 18-fold**, absolute **~0.3 per 1,000 patient-years** (KC 18) ([[acg-2025-crohns]]) |
 
-### Serology — usually the wrong test
+> [!pitfall] Rectal sparing does not rule out UC
+> Rectal involvement is absent in up to a third of pediatric-onset colitis, and the PSC phenotype of UC shows relative or absolute rectal sparing. Biopsy the rectum separately even when it looks normal ([[acg-2025-uc]]).
 
-- **Perinuclear antineutrophil cytoplasmic antibody (pANCA) is found in up to 70% of patients with UC**; the combination of **negative anti–Saccharomyces cerevisiae antibody (ASCA) + elevated pANCA** has been proposed to help establish a UC diagnosis. [[acg-2025-uc]]
-- **But:** the **pooled sensitivity of antibody testing for UC diagnosis is low, and these markers are not used for establishing or ruling out a diagnosis of UC.** pANCA positivity has been associated with treatment-refractory UC, but the evidence is limited and **there is currently no role for such testing** to determine likelihood of disease evolution or prognosis. [[acg-2025-uc]]
-- **Do not use antineutrophil cytoplasmic antibody (ANCA)/ASCA to separate UC from CD.** Neither ACG 2025 guideline gives an ASCA positivity rate for Crohn's disease.
+## Serology
 
-### UC disease extent (the classification that drives therapy)
-
-| Category | Definition [[acg-2025-uc]] |
-|---|---|
-| **Proctitis** | Within **18 cm of the anal verge**, distal to the rectosigmoid junction |
-| **Left-sided colitis** | Extending from the **sigmoid to the splenic flexure** |
-| **Extensive colitis** | **Beyond the splenic flexure**, including involvement of the entire colorectum (**pancolitis**) |
-
-- **If the terminal ileum is normal**, further evaluation of stomach and small bowel by [[upper-endoscopy|upper endoscopy]] and cross-sectional imaging is **not needed** — unless other symptoms/findings suggest proximal GI involvement or a diagnosis of CD rather than UC. [[acg-2025-uc]]
-
-### CD disease location (the parallel classification)
-
-[[acg-2025-crohns]] gives no "extent" scheme equivalent to UC's proctitis/left-sided/extensive — it reports the distribution at presentation and how stable it is. The formal **Montreal classification** (age at diagnosis, location L1–L4, behaviour B1–B3 ± p) is on [[crohns-disease]].
-
-| Location at presentation | Share of patients |
-|---|---|
-| **Ileal** | ~⅓ |
-| **Ileocolonic** | ~⅓ |
-| **Colonic** | ~⅓ |
-| **Upper GI involvement** (in addition to the above) | **up to a quarter** |
-
-- **Location is stable — that is the decision.** *"The location of CD tends to be stable but can occasionally extend"* (Key concept 5); only **6%–14%** change disease location over time. So the location recorded at diagnosis usually remains the location, and re-mapping the whole gut at every flare is not required.
-- **Location predicts progression:** patients with **ileal, ileocolonic, or proximal GI** involvement are significantly **more likely than those with isolated colonic disease** to progress to an intestinal complication (stricture, abscess, fistula, phlegmon) — up to **half** do so within 20 years of diagnosis (Key concept 6). Extensive anatomic involvement and deep ulcerations are additional risk factors.
-
-> **Neither cited guideline defines inflammatory bowel disease (IBD)-unclassified / indeterminate colitis.** [[acg-2025-uc]] and [[acg-2025-crohns]] both describe colon-only inflammation as *"challenging"* to assign and give the clues above, but neither names a category for, or a management pathway after, an unresolved assignment; see the European Crohn's and Colitis Organisation (ECCO) / Montreal classification for the definition.
-
-## Classical Teaching Not Asserted by the Cited Guidelines
-
-These appear in textbooks but are **not stated in [[acg-2025-uc]] or [[acg-2025-crohns]]** — verify against a pathology or general IBD reference before relying on them:
-
-- **Cobblestoning** as a Crohn's endoscopic/imaging sign
-- **"Lead pipe" colon** (loss of haustra) in chronic UC
-- **Creeping fat**
-- Granulomas as **"pathognomonic"** — explicitly contradicted: they are present in a **minority (up to 33%)** and are **not required** for diagnosis [[acg-2025-crohns]]
-- **Perianal disease in 30–40%** of CD — contradicted: **10%–26%**, up to one-quarter [[acg-2025-crohns]]
+| | Ulcerative Colitis ([[acg-2025-uc]]) | Crohn's Disease ([[acg-2025-crohns]]) |
+|---|---|---|
+| **Guidance** | **Against** serologic antibody testing to establish or rule out UC (Recommendation 2) or to determine prognosis (Recommendation 3) — both strong recommendation, very low quality of evidence | Routine serologic markers **not indicated** to establish CD (KC 23) |
+| **Markers** | Perinuclear antineutrophil cytoplasmic antibody (pANCA) in up to 70%; negative anti-*Saccharomyces cerevisiae* antibody (ASCA) + elevated pANCA proposed for UC, but pooled sensitivity is low; pANCA–refractory UC link rests on limited evidence | Anti-glycan antibodies more prevalent in CD than UC but low sensitivity; combined serologic, genetic and inflammatory panels have not improved screening usefulness |
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[perianal-fistulizing-crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]], [[inflammatory-bowel-disease]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[upper-endoscopy]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[perianal-fistulizing-crohns-disease]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[ibd-endoscopic-scoring]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 
