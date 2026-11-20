@@ -3,7 +3,8 @@ title: "Opioids in Gastroenterology: Treating Adverse Effects and Creating Thera
 category: source
 tags: [opioids, narcotic-bowel-syndrome, opioid-induced-constipation, pamora, motility, eluxadoline, lubiprostone, aga, clinical-practice-update]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-20
+verified: 2026-11-20
 sources: []
 raw: "GI Guidelines/AGA/AGA 2017 CPU Opioids in Gastroenterology.pdf"
 ---
@@ -18,9 +19,11 @@ raw: "GI Guidelines/AGA/AGA 2017 CPU Opioids in Gastroenterology.pdf"
 
 > **This Expert Review contains no numbered Best Practice Advice statements and no evidence grades.** Unlike most AGA Clinical Practice Updates it is structured as a narrative review with a short unnumbered conclusion. Nothing in it should be cited as a numbered or graded AGA recommendation.
 
+**Conclusion (ungraded):** acute administration of opioids should be accompanied by symptomatic remedies to counter the acute pharmacologic effects — antiemetics and laxatives. (Its bowel function index advice is under *Opioid-induced constipation* below.)
+
 ## Summary
 
-A region-by-region account of what mu (μ) opioid receptor agonism does to the gastrointestinal tract, and of the drugs that exploit or reverse it. The organising insight is **differential tolerance**: tolerance to μ opioid effects develops in every gastrointestinal organ **except the colon**, which is why sedation and nausea fade with continued use but **constipation does not**. The proposed mechanism is that β-arrestin-2 downregulation does not occur in the colon, so the receptor recycles to the plasma membrane rather than being internalised.
+A region-by-region account of what mu (μ) opioid receptor agonism does to the gastrointestinal tract, and of the drugs that exploit or reverse it. The organising insight is **differential tolerance**: tolerance to μ opioid effects develops in every gastrointestinal organ **except the colon**, which is why sedation and nausea fade with continued use but **constipation does not**. The proposed mechanism involves β-arrestin-2: the ileal behaviour that causes tolerance is not observed in the colon, so the colonic receptor recycles to the plasma membrane.
 
 Clinically the review covers five opioid-attributable presentations — esophageal dysmotility that can be **indistinguishable from primary achalasia** (and specifically mimics type III, less so type II), delayed gastric emptying/gastroparesis, sphincter of Oddi spasm, postoperative ileus, and opioid-induced constipation (OIC) — plus **narcotic bowel syndrome (NBS)**, which the authors are careful to separate from the others as a disorder of *nociception*, independent of the opioid's effects on motility and secretion.
 
@@ -50,7 +53,7 @@ The review is unusually blunt on two safety points: **there is no evidence for �
 
 ### Differential tolerance — why constipation persists
 - Tolerance to μ opioid effects occurs in all gastrointestinal organs **except the colon**; constipation therefore **does not abate over time**.
-- β-arrestin-2 downregulation does not occur in the ileum (→ tolerance to morphine) but does not occur in the colon either, leading to receptor recycling to the plasma membrane and **lack of colonic tolerance**.
+- As printed: "the downregulation of β-arrestin-2 does not occur in the ileum, thus causing tolerance to morphine, but this is not observed in the colon" → receptor recycling to the plasma membrane and **lack of colonic tolerance**.
 
 ### Esophagus
 - Acute morphine in gastroesophageal reflux disease: **decreases** transient lower esophageal sphincter (LES) relaxations, fewer reflux episodes, less time at pH <4. Resting LES pressure decreased in health and in achalasia; swallow-induced LES relaxation significantly decreased.
@@ -126,7 +129,7 @@ The review is unusually blunt on two safety points: **there is no evidence for �
 
 ## Contradictions / Open Questions
 
-- **The published naloxegol dosing frequency is internally inconsistent.** The text states the FDA "approved naloxegol at 12.5 or 25 mg 4 times a day orally", but the trials it cites and tabulates (Webster 2013; Chey 2014) administered naloxegol on a daily basis, and the review reports their outcomes as change in SBMs per week from a daily regimen. The strengths (12.5 and 25 mg) are consistent throughout; **the frequency as printed is not supported by the document's own cited trials**. Entity pages carry the strengths and do not assert the frequency.
+- **The published naloxegol dosing frequency is unusual.** The text states the FDA "approved naloxegol at 12.5 or 25 mg 4 times a day orally", and its Table 4 gives trial doses (12.5, 25, 50 mg) with no frequency. Entity pages carry the strengths and do not assert the frequency.
 - **Acute vs chronic esophageal effects point in opposite directions** — acute morphine reduces transient LES relaxations and LES pressure, while chronic use is associated with impaired LES relaxation and outflow obstruction. The review flags this as genuinely unresolved ("a different esophageal physiology with acute and chronic usage") rather than reconciling it.
 - **No numbered or graded recommendations exist in this document** (see the note under Bibliographic Info). Any wiki or external text attributing a numbered AGA Best Practice Advice to this Clinical Practice Update is in error.
 - **vs [[aga-2019-opioid-induced-constipation]] (newer, same tier).** The 2019 update supersedes this one on overlapping OIC claims. Notably, AGA 2019 prints no PAMORA doses, whereas this 2017 review does — so the doses here fill a gap rather than conflict.

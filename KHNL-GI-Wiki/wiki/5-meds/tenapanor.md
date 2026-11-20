@@ -5,6 +5,8 @@ tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, constipation]
 created: 2026-08-14
 updated: 2026-11-20
 sources: [aga-2022-ibs-c, aga-acg-2023-constipation, aga-2026-refractory-constipation, ibsrela-2025-tenapanor-label]
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 ---
 
 ## Contents
@@ -100,7 +102,7 @@ Three placebo-controlled randomized controlled trials (RCTs) ([[aga-2022-ibs-c]]
 ## Place in Therapy
 
 - **IBS-C:** one of the **conditional** options — with [[plecanatide]], [[tegaserod]], [[lubiprostone]] (moderate certainty) and polyethylene glycol (PEG) laxatives (low certainty); [[linaclotide]] is the only **strong** recommendation ([[aga-2022-ibs-c]]).
-- **Refractory constipation:** last-line, off-label — alongside pyridostigmine and the ileal bile acid transporter (IBAT) inhibitor elobixibat (approved in several Asian countries) ([[aga-2026-refractory-constipation]]). Escalation ladder: [[chronic-idiopathic-constipation]].
+- **Refractory constipation:** off-label — may be considered when on-label agents have failed (text); AGA 2026 Figure 1 places it at the "switch or add prescription medication(s)" step beside the secretagogues, prucalopride and the ileal bile acid transporter (IBAT) inhibitor elobixibat (approved in several Asian countries), before combination and off-label therapies such as pyridostigmine ([[aga-2026-refractory-constipation]]). Escalation ladder: [[chronic-idiopathic-constipation]].
 
 ---
 
