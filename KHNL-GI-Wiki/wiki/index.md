@@ -337,7 +337,7 @@ updated: 2026-11-03
 
 ## Meds
 
-- [[lubiprostone]] — Lubiprostone: ClC-2 chloride-channel activator; **CIC 24 mcg BID (Conditional/Low, OTC-failure qualifier)**; place vs other secretagogues; cost; ACG 2020 vs AGA 2022 contradiction on IBS-C surfaced (IBS-C dose not in any source) (3 sources)
+- [[lubiprostone]] — Lubiprostone: ClC-2 chloride-channel activator; **CIC 24 mcg BID (Conditional/Low, OTC-failure qualifier)**; IBS-C 8 µg BID in women (ACG Strong/Moderate vs AGA 2022 Conditional/Moderate); OIC 24 µg BID, but AGA 2019 makes no recommendation (evidence gap); methadone contraindication; cost (5 sources)
 
 - [[antibiotic-prophylaxis-cirrhosis]] — SBP primary prophylaxis in cirrhotic upper gastrointestinal bleeding (UGB): ceftriaxone 1 g IV q24h from admission, variceal or nonvariceal (AASLD 2021); norfloxacin withdrawn from US 2014 → ciprofloxacin; ACG 2026 2–3 d default vs AASLD 2–5 d (max 7 d); Baveno VIII individualization in Child-Pugh A; the prophylaxis-vs-none evidence (8 sources)
 - [[vonoprazan]] — Potassium-competitive acid blocker (PCAB); ACG 2024 first-line dual and triple regimens with doses and conditional grades, plus the salvage position and its clarithromycin-sensitivity / macrolide-exposure conditions; no CYP450 effect; AGA 2024 P-CAB CPU positioning and erosive-esophagitis doses (2 sources)

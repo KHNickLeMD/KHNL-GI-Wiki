@@ -5,9 +5,11 @@ tags: [pcab, vonoprazan, tegoprazan, acid-suppression, ppi, gerd, h-pylori, pept
 created: 2026-07-21
 updated: 2026-11-20
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
+quality_reviewed: 2026-11-20
+verified: 2026-11-20
 ---
 
-Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric acid suppressants that reversibly block the H⁺/K⁺-ATPase (proton pump) at its **potassium-binding site**. Agents: revaprazan, **[[vonoprazan]]** (the only P-CAB available in the United States [US]), tegoprazan, fexuprazan, linaprazan, zastaprazan, keverprazan ([[aga-2024-pcab]] Table 1). Agent-specific detail: [[vonoprazan]].
+Potassium-competitive acid blockers (P-CABs) are a drug **class** of gastric acid suppressants that reversibly block the H⁺/K⁺-ATPase (proton pump) at its **potassium-binding site**. Agents: revaprazan, **[[vonoprazan]]** (AGA refers to a single P-CAB currently available in the United States [US]), tegoprazan, fexuprazan, linaprazan, zastaprazan, keverprazan ([[aga-2024-pcab]] Table 1). Agent-specific detail: [[vonoprazan]].
 
 ## Contents
 - [[#Mechanism vs PPIs]]
@@ -118,7 +120,7 @@ The American Gastroenterological Association (AGA) 2024 Best Practice Advice (BP
 - **Cost and access:** the US P-CAB costs markedly more than standard- or double-dose PPIs; more likely to need prior authorization ([[aga-2024-pcab]]).
 - **Safety** — long-term data less robust than for PPIs; acid-suppression concerns raised for PPIs are expected to be shared ([[aga-2024-pcab]]):
   - [[clostridioides-difficile|*C. difficile*]]: association with vonoprazan comparable with, not beyond, PPIs (Japanese retrospective studies); other enteric infections expected to be similar to PPIs.
-  - Gastric cancer: Japanese population data — rates similar to PPIs.
+  - Gastric cancer: Japanese population data suggest a possible increased risk vs histamine-2 receptor antagonists (adjusted hazard ratio <2); rates similar to PPIs.
   - Serum gastrin rises higher than with PPIs and stays elevated for the duration of use, falling toward baseline within weeks of stopping.
   - Whether more potent acid inhibition adds adverse effects beyond PPIs is unknown.
 - **Before an H. pylori test of cure** (urea breath or fecal antigen test): PPIs are stopped **2 weeks** beforehand; ACG says the same will *probably* apply to P-CABs but this has not been adequately studied ([[acg-2024-hp-treatment]]).
