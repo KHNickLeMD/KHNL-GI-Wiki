@@ -177,7 +177,8 @@ Severity classification and management (Table 6, American College of Gastroenter
 
 | | Lower risk (moderate CI) | Higher risk (severe CI, sepsis/septic shock) |
 |---|---|---|
-| **First line** | cefotaxime **or** ceftriaxone **+ metronidazole**, **or** ertapenem *(1-A)* | cefepime + metronidazole *(1-A)*; piperacillin-tazobactam *(1-A)*; imipenem-cilastatin **or** meropenem *(1-A)* |
+| **Any risk (empiric)** | cefepime + metronidazole; piperacillin-tazobactam; imipenem-cilastatin **or** meropenem *(all 1-A)* | same |
+| **Risk-specific** | cefotaxime **or** ceftriaxone **+ metronidazole**, **or** ertapenem *(1-A)* | suggest empiric cover of *Enterococcus* spp. *(2-B)* |
 | **Serious β-lactam allergy** | ciprofloxacin + metronidazole, **or** moxifloxacin monotherapy *(1-A)* | — |
 | **ESBL-endemic area** | avoid most cephalosporin-, aztreonam- or fluoroquinolone-based regimens *(1-B)*; ertapenem *(1-B)* | broad-spectrum carbapenem *(1-B)*; ceftazidime-avibactam + metronidazole *(1-B)* |
 | **Do not add** | broader-spectrum, anti-pseudomonal or anti-enterococcal cover *(1-A)*; vancomycin *(1-B)*; tigecycline *(1-B)* | adjunctive aminoglycoside or fluoroquinolone on top of a β-lactam *(1-B)*; empiric antifungal *(1-B)* |

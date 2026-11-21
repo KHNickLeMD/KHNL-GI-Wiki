@@ -239,12 +239,14 @@ flowchart TD
 
 **Strongly recommended (Strong recommendation, moderate-quality evidence):**
 
-- [[electrosurgery|Bipolar electrocoagulation]] (15 W, 8–10 second applications, 3.2-mm probe with firm pressure)
-- Heater probe (30 J applications, 3.2-mm probe with firm pressure)
-- Absolute ethanol injection (0.1–0.2 mL aliquots, maximum 1–2 mL total)
+- [[electrosurgery|Bipolar electrocoagulation]]
+- Heater probe
+- Absolute ethanol injection
 - Epinephrine injection: **NEVER as monotherapy** — must be combined with a second hemostatic modality
 
-**Conditionally recommended (Conditional recommendation, lower-quality evidence):**
+*Technique settings cited in the ACG 2021 text from previous recommendations (not part of the graded statements): bipolar ~15 W, 8–10 second applications, 3.2-mm probe with firm pressure; heater probe 30 J applications, 3.2-mm probe with firm pressure; ethanol 0.1–0.2 mL aliquots, maximum 1–2 mL total.*
+
+**Conditionally recommended (clips, APC and soft monopolar: Statement 9, very-low- to low-quality evidence; TC-325: very-low-quality; over-the-scope clips: low-quality):**
 
 - Through-the-scope clips (placement over and on both sides of bleeding site)
 - [[argon-plasma-coagulation|Argon plasma coagulation]] (APC): 1–2 L/min gas flow, 40–70 W power, probe 2–10 mm from mucosa
@@ -252,7 +254,7 @@ flowchart TD
 - Hemostatic powder spray TC-325: for actively bleeding ulcers only (does not adhere to nonbleeding lesions); delivery catheter tip 1–2 cm from bleeding site, 1–2 second bursts; high cost limits use as first-line in U.S. (~$2,500 list price)
 - Over-the-scope clips: reserved for **recurrent ulcer bleeding** after previous successful endoscopic hemostasis; superior to standard therapy in this setting (further bleeding 15.2% vs. 57.6%)
 
-**Dual therapy** ([[epinephrine]] + a second modality) is standard practice for active bleeding to improve visibility and efficacy.
+**Dual therapy:** [[epinephrine]] must be paired with a second modality, but the ACG panel did not find the evidence sufficient to suggest that thermal contact devices should always be preceded by epinephrine injection.
 
 ### Step 7: Post-Endoscopic Management (Ulcer Bleeding)
 
@@ -281,11 +283,11 @@ flowchart TD
 - **Repeat endoscopy and endoscopic retreatment**: preferred initial strategy for recurrent bleeding after initial hemostasis
   - ~75% success rate in preventing further bleeding with repeat endoscopic therapy
   - Fewer complications than surgery (14.6% vs. 36.4%)
-  - If prior thermal contact therapy was used, consider alternative modality on repeat endoscopy (consecutive thermal therapy increases perforation risk)
+  - If prior thermal contact therapy was used, consider alternative modality on repeat endoscopy (consecutive thermal therapy may increase perforation risk; uncontrolled, very-low-quality evidence)
   - Consider over-the-scope clips for recurrent bleeding after initial hemostasis
 
 - **Failure of repeat endoscopy** → **Transcatheter arterial embolization (TAE)** preferred over surgery
-  - TAE: fewer complications (OR 0.45), shorter hospital stay (median 8 vs. 16 days), no mortality difference; but higher rate of further bleeding (OR 2.44) vs. surgery
+  - TAE: major complications less common (OR 0.45), shorter hospital stay (median 8 vs. 16 days), no mortality difference; but higher rate of further bleeding (OR 2.44) vs. surgery
   - Surgery remains an option, especially with ongoing massive hemorrhage or if TAE is not available/fails
   - Choice individualized based on comorbidities, hemodynamic status, institutional expertise
 

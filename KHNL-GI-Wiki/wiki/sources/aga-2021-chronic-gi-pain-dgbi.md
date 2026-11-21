@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Management of Chronic Gastrointestinal P
 category: source
 tags: [dgbi, chronic-pain, abdominal-pain, ibs, functional-dyspepsia, neuromodulators, opioids, narcotic-bowel-syndrome, brain-gut-psychotherapy, psychogastroenterology]
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/AGA/AGA 2021 CPU Chronic GI Pain in Disorders of Gut-Brain Interaction.pdf"
 ---
 
@@ -23,7 +24,7 @@ raw: "GI Guidelines/AGA/AGA 2021 CPU Chronic GI Pain in Disorders of Gut-Brain I
 
 - **Numbered:** yes — six statements, labelled **BEST PRACTICE ADVICE 1** through **BEST PRACTICE ADVICE 6**.
 - **Graded:** no. METHODS verbatim: *"This was not a formal systematic review but was based on a review of the literature to provide best practice advice statements. **No formal rating of the quality of evidence or strength of recommendation was performed.**"* No GRADE ratings, no strength labels, no evidence levels anywhere in the document.
-- Grades that appear in the text belong to **other bodies** and are described, not issued, by this update: the **2014 AGA guideline** on pharmacologic management of irritable bowel syndrome (IBS) suggested using selective serotonin reuptake inhibitors (SSRIs) in IBS; the **2021 American College of Gastroenterology (ACG) guideline** on IBS "did not make a strong recommendation for their use."
+- Grades that appear in the text belong to **other bodies** and are described, not issued, by this update: the **2014 AGA guideline** on pharmacologic management of irritable bowel syndrome (IBS) suggested **against** selective serotonin reuptake inhibitors (SSRIs) in IBS; the **2021 American College of Gastroenterology (ACG) guideline** on IBS "did not make a strong recommendation for their use."
 
 ---
 
@@ -185,7 +186,7 @@ flowchart TD
 | Gut-directed hypnotherapy | Efficacious in 4 RCTs | Efficacious in a meta-analysis of 5 RCTs | Efficacious in 2 RCTs | Efficacious in 1 case series | No data | No data |
 | Mindfulness-based stress reduction | No data | Efficacious in a meta-analysis of 3 RCTs | No data | No data | No data | No data |
 
-<sup>a</sup> Table footnote: the 2014 AGA guideline on pharmacologic therapy for IBS suggested against using SSRIs for patients with IBS; the 2021 ACG guideline on treatment of IBS did not make a strong recommendation for their use. (The body text of the update states that the 2014 AGA guideline *suggested using* SSRIs in IBS — the two statements are not reconciled in the document.)
+<sup>a</sup> Table footnote: the 2014 AGA guideline on pharmacologic therapy for IBS suggested against using SSRIs for patients with IBS; the 2021 ACG guideline on treatment of IBS did not make a strong recommendation for their use.
 
 ### Conclusions (as stated)
 
@@ -208,7 +209,7 @@ flowchart TD
 ## Contradictions / Open Questions
 
 - **Tricyclic antidepressant dose ceiling.** This update caps TCAs at **30–50 mg at night** (starting 10 mg at night, titrated by 10 mg/wk or 10 mg/fortnight). [[irritable-bowel-syndrome]] currently carries the ACG IBS target ranges (amitriptyline 50–100 mg, desipramine 25–100 mg, nortriptyline 25–75 mg) from [[acg-2020-ibs]], and [[ibd-pain-management]] carries amitriptyline 10–100 mg/d and nortriptyline 50–150 mg/d from [[aga-2024-ibd-pain]]. Same tier; the ranges are stated for different populations and neither document withdraws the other.
-- **SSRIs in IBS.** The update's body text says the **2014 AGA guideline suggested using** SSRIs for patients with IBS, while its own Appendix Table 1 footnote says that guideline **suggested against** using them; the document does not reconcile the two. It records that the **2021 ACG IBS guideline did not make a strong recommendation** for their use. [[irritable-bowel-syndrome]] currently records AGA 2022 as suggesting **against** SSRIs (conditional, low).
+- **SSRIs in IBS.** The update (body text and Appendix Table 1 footnote) says the **2014 AGA guideline suggested against** SSRIs for patients with IBS. It records that the **2021 ACG IBS guideline did not make a strong recommendation** for their use. [[irritable-bowel-syndrome]] currently records AGA 2022 as suggesting **against** SSRIs (conditional, low).
 - **Rifaximin.** Not superior to placebo for likelihood of abdominal pain persisting in IBS with diarrhea in the network meta-analysis cited here, yet efficacious for pain in RCTs in FD — the update states both without resolving the difference across disorders.
 - **No grading.** Because no quality-of-evidence or strength ratings were performed, the six Best Practice Advice statements carry no formal weight relative to graded society guidelines on the same drugs.
 - **Scope limits.** Complementary/alternative therapies including marijuana are not discussed, and abdominal wall and pelvic pain syndromes are outside the update's scope — neither absence is evidence against those approaches.

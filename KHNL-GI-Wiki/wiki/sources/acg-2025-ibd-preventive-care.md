@@ -3,8 +3,9 @@ title: "ACG Clinical Guideline Update: Preventive Care in Inflammatory Bowel Dis
 category: source
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, smoking-cessation]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/ACG/ACG 2025 Preventive Care in IBD.pdf"
 ---
 
@@ -13,7 +14,7 @@ raw: "GI Guidelines/ACG/ACG 2025 Preventive Care in IBD.pdf"
 - **Article:** [Farraye FA, Melmed GY, Lichtenstein GR, Barnes EL, Limketkai BN, Caldera F, Kane S. ACG Clinical Guideline Update: Preventive Care in Inflammatory Bowel Disease. Am J Gastroenterol 2025;120:1447–1473.](https://doi.org/10.14309/ajg.0000000000003541)
 - **Authors:** Francis A. Farraye, Gil Y. Melmed, Gary R. Lichtenstein, Edward L. Barnes, Berkeley N. Limketkai, Freddy Caldera, Sunanda Kane
 - **Year:** 2025 (received August 1, 2024; accepted April 27, 2025)
-- **Journal/Publisher:** American Journal of Gastroenterology 2025;120(7):1447–1473
+- **Journal/Publisher:** American Journal of Gastroenterology 2025;120:1447–1473 (July 2025)
 - **DOI:** [10.14309/ajg.0000000000003541](https://doi.org/10.14309/ajg.0000000000003541)
 - **Type:** guideline (American College of Gastroenterology [ACG] clinical guideline update; Grading of Recommendations Assessment, Development and Evaluation [GRADE])
 
@@ -63,13 +64,13 @@ Wording kept near-verbatim, including the guideline's own "suggest"/"should" phr
 
 ## What Changed From 2017
 
-[[acg-2017-ibd-preventive-care|ACG 2017]] had 14 graded statements. Main changes:
+[[acg-2017-ibd-preventive-care|ACG 2017]] had 14 numbered statements (16 with sub-parts). Main changes:
 
 | Topic | 2017 | 2025 |
 |---|---|---|
 | Influenza | Graded (1a/1b; conditional, very low) | Moved to ungraded key concepts 3–4; high-dose vaccine advised on [[anti-tnf-agents\|anti-tumor necrosis factor (TNF)]] monotherapy |
 | Pneumococcal | Immunosuppressed: both 13-valent conjugate (PCV13) and 23-valent polysaccharide (PPSV23) vaccines (conditional, very low) | Single PCV20 or PCV21: all ≥50 regardless of therapy (strong, low); 19–49 on therapy (conditional, very low); prior-vaccinated → CDC guidance (strong, low) |
-| Herpes zoster | >50 "should consider" vaccination, incl. some immunosuppressed (strong, low) — live-vaccine era | 2-dose recombinant vaccine for all ≥50 (conditional, low) and ≥19 on/planning therapy (conditional, very low) |
+| Herpes zoster | >50 "should consider" vaccination, incl. some immunosuppressed (strong, low) | 2-dose recombinant vaccine for all ≥50 (conditional, low) and ≥19 on/planning therapy (conditional, very low) |
 | Varicella | Graded statement (conditional, very low) | Key concept 7; serology not recommended after prior vaccination |
 | Yellow fever | Travel-medicine consult before travel if immunosuppressed (conditional, very low) | No separate statement; yellow fever listed among live vaccines not to give on immune-modifying therapy |
 | Meningococcal | Adolescents per routine schedule (conditional, very low) | Key concept 9 (per ACIP) |
@@ -90,7 +91,7 @@ Wording kept near-verbatim, including the guideline's own "suggest"/"should" phr
 - **Response by drug:**
   - Aminosalicylates or [[thiopurines|thiopurine]] monotherapy: normal, sustained responses.
   - Anti-TNF: blunted responses to inactivated vaccines (influenza, hepatitis B, pneumococcus); lowest with anti-TNF **combined** with thiopurine or methotrexate. Infliximab timing (with infusion vs mid-interval) did not change influenza response.
-  - [[vedolizumab|Vedolizumab]] and ustekinumab: small studies show normal influenza and mRNA COVID-19 responses; vedolizumab blunted response to an oral cholera vaccine in healthy controls.
+  - [[vedolizumab|Vedolizumab]] and ustekinumab: small studies show normal influenza responses and larger studies normal mRNA COVID-19 antibody responses; vedolizumab blunted response to an oral cholera vaccine in healthy controls.
   - Tofacitinib: lower humoral response to pneumococcal (not influenza) vaccine in rheumatoid arthritis. No data for upadacitinib, S1P modulators (ozanimod, etrasimod), or selective interleukin-23 (IL-23) inhibitors (mirikizumab, risankizumab, guselkumab).
   - Temporarily holding methotrexate improved influenza response in rheumatoid arthritis (with flare risk); whether holding an immunomodulator helps in IBD is unknown.
 - **Safety:** nonlive vaccines are safe in IBD — adverse events mainly local/mild systemic, no different from patients without IBD (meta-analysis, 2016 patients).
@@ -202,7 +203,7 @@ Wording kept near-verbatim, including the guideline's own "suggest"/"should" phr
   - Steroid use in the past 12 months for <90 days still lowered femoral neck BMD and raised major (5.4% vs 7.7%) and hip (1.1% vs 1.8%) fracture rates.
   - Added glucocorticoid-fracture risk factors: postmenopausal women and older men on ≥20 mg/day prednisone, low body mass index (BMI), smoking, parental hip fracture, >3 alcoholic drinks/day, intravenous pulse steroids.
 - Conventional low-BMD risk factors listed: hormone excess (parathyroid, thyroxine, cortisol) or deficiency (estrogen, testosterone, vitamin D); medications (heparin, warfarin, cyclosporine A, methotrexate, tacrolimus); modifiable factors (smoking, weight <129 lb, estrogen deficiency, menopause <45, low calcium, excess alcohol, falls, inactivity, frailty); nonmodifiable (prior adult fracture, family fracture history, White race, female sex, dementia, older age).
-- **Fracture Risk Assessment Tool (FRAX):** 10-year hip and major osteoporotic fracture probability from femoral neck BMD + clinical factors (incl. oral glucocorticoids ≥5 mg/day prednisone for ≥3 months). Limits: built for postmenopausal women and men ≥50; not validated in those treated for osteoporosis; may overestimate risk in IBD; FRAX alone should not replace DEXA (small retrospective data only).
+- **Fracture Risk Assessment Tool (FRAX):** 10-year hip and major osteoporotic fracture probability from femoral neck BMD + clinical factors (incl. oral glucocorticoids ≥5 mg/day prednisone for ≥3 months). Limits: built for postmenopausal women and men ≥50; not validated in those treated for osteoporosis; may overestimate risk in IBD; the suggestion that FRAX can replace DEXA rests on a small retrospective study and needs prospective validation.
 - **Spinal x-rays** only if height loss **≥4 cm** vs reported height at age 20, **≥2 cm** during follow-up, or symptoms such as back pain.
 - **Repeat DEXA:** BMD changes ~1%/year, below scanner error (~3%) — so 1–2-year repeat scans for monitoring are contested. ~10% of patients on oral bisphosphonates lose significant BMD; a repeat DEXA **at a minimum of 1 year after starting therapy** is appropriate.
 
@@ -224,7 +225,7 @@ Wording kept near-verbatim, including the guideline's own "suggest"/"should" phr
 
 ## Contradictions / Open Questions
 
-- **RSV age:** ACG 2025 (following ACIP) — all ≥75, and 50–74 with risk factors; [[aga-2025-noncolorectal-cancer-ibd|AGA 2025]] — all adults with IBD ≥60.
+- **RSV age:** ACG 2025 (following ACIP) — all ≥75, and 50–74 with risk factors; [[aga-2025-noncolorectal-cancer-ibd|AGA 2025]] — BPA 10 says all adults with IBD ≥60, but its own Table 1 says ≥75, or 60–74 with risk factors for severe RSV.
 - **Cervical screening:** ACG 2025 — annual on immune-modifying therapy (× 3 years if <30, then every 3 years); AGA 2025 — age-appropriate standard screening, data insufficient to require more frequent screening on combined immunosuppression or thiopurines; shared decision-making.
 - **Skin screening population:** ACG 2025 — annual melanoma screening for **all** IBD, NMSC for thiopurines/methotrexate/JAK/S1P; AGA 2025 — yearly total body skin exam for patients on immunomodulators, anti-TNF, or small molecules, continued after thiopurine cessation.
 - **Pneumococcal:** ACG 2025 — a single PCV20 or PCV21 for vaccine-naive adults, no further doses needed (Figure 1 adds one more dose 5 years later for ≥65 who completed an adult series); AGA 2025 — initial vaccine at 19–64, second dose at ≥65.

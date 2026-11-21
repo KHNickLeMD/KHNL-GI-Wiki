@@ -3,8 +3,9 @@ title: "ACG Clinical Guideline: Colonic Diverticulitis (2026)"
 category: source
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, colonoscopy, diet, surgery]
 created: 2026-07-23
-updated: 2026-11-03
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/ACG/ACG 2026 Diverticulitis.pdf"
 ---
 
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ACG/ACG 2026 Diverticulitis.pdf"
 
 ## Summary
 
-The American College of Gastroenterology's (ACG's) first dedicated diverticulitis guideline, scoped to the **outpatient gastroenterology consultation** after an episode — diagnosis, clinical course, recurrence/complication risk, the role of antibiotics, prevention, and indications for surgical referral. Fourteen numbered GRADE recommendations (the document's own numbering, Table 3), a definitions table (Table 1), six ungraded key concepts on diagnosis and clinical course (Table 4, expert opinion/epidemiology not amenable to GRADE), an antibiotic-use table (Table 6), and an 8th-grade patient education handout (Table 5).
+American College of Gastroenterology (ACG) diverticulitis guideline, scoped to the **outpatient gastroenterology consultation** after an episode — diagnosis, clinical course, recurrence/complication risk, the role of antibiotics, prevention, and indications for surgical referral. Fourteen numbered GRADE recommendations (the document's own numbering, Table 3), a definitions table (Table 1), six ungraded key concepts on diagnosis and clinical course (Table 4, expert opinion/epidemiology not amenable to GRADE), an antibiotic-use table (Table 6), and an 8th-grade patient education handout (Table 5).
 
 Two practice reversals anchor the document. First, **antibiotics are no longer routine for low-risk acute uncomplicated diverticulitis** — four randomized controlled trials (RCTs) (n=1,809) show little/no effect on mortality, progression to complicated disease, surgery, readmission, or recurrence; antibiotics are reserved for high-risk features, immunocompromise, frailty, or unsafe outpatient management. Second, **the "elective colectomy after 2 episodes" rule is abandoned** — recurrence does not raise the risk of future complicated disease, so the number of episodes should not drive surgery; referral is for recurrent uncomplicated disease that significantly impairs quality of life (QoL), individualized by shared decision-making.
 
@@ -29,7 +30,7 @@ Computed tomography (CT) remains essential to confirm the diagnosis (clinical ev
 
 ### Recommendation statements (all 14 — ACG's own numbering and grades, Table 3)
 
-*Recommendations 4–12 and 14 are all scoped to **patients with a history of diverticulitis**, to reduce the risk of recurrence.*
+*Recommendations 4–10 and 12–14 are scoped to **patients with a history of diverticulitis** (12–14: acute diverticulitis), to reduce the risk of recurrence; Rec 11 to recurrent, uncomplicated diverticulitis that impairs quality of life.*
 
 1. **Recommend colonoscopy after recovery from an episode of *complicated* diverticulitis** to rule out a missed cancer or premalignant lesion — *strong recommendation, moderate certainty*.
 2. **Suggest colonoscopy after recovery from an episode of *uncomplicated* diverticulitis** to rule out a missed cancer or premalignant lesion **in patients with alarm symptoms or in those not current with colon cancer screening** — *conditional, low certainty*.
@@ -57,7 +58,7 @@ Note the mismatched verb/strength pairs in 12 and 14: ACG words them "we recomme
 | Diverticulosis | Outpouchings of the colon formed when mucosa and submucosa herniate through the muscularis propria, typically at weak points where the vasa recta penetrate the wall. |
 | Acute uncomplicated diverticulitis | Localized inflammation of colonic diverticula **without** associated abscess, perforation, stricture, or fistula. CT typically shows colonic wall thickening and/or increased pericolic fat stranding. |
 | Smoldering or chronic diverticulitis | Inflammation persisting for **weeks to months**; often partial/complete symptomatic improvement on antibiotics then relapse shortly after they are stopped. An abscess is sometimes associated. |
-| Complicated acute diverticulitis | Diverticular inflammation accompanied by **phlegmon, abscess, or perforation**. Graded by the CT-based modified Hinchey classification (stages 0–IV; full table on [[diverticulitis]]): stages 0–I are typically managed nonoperatively, higher stages often need drainage or surgery depending on severity and patient factors. Strictures and fistulas may develop as delayed complications. |
+| Complicated acute diverticulitis | Diverticular inflammation accompanied by **phlegmon, abscess, or perforation**. Graded by the CT-based modified Hinchey classification (Table 1): stage 0 mild clinical diverticulitis (colonic wall thickening, pericolic inflammation); Ia confined pericolic inflammation or phlegmon; Ib pericolic or mesocolic abscess; II pelvic, intra-abdominal or retroperitoneal abscess; III generalized purulent peritonitis; IV generalized fecal peritonitis. Stages 0–I are typically managed nonoperatively, higher stages often need drainage or surgery depending on severity and patient factors. Strictures and fistulas may develop as delayed complications. |
 | Segmental colitis associated with diverticulosis (SCAD) | Chronic inflammatory condition of diverticula-bearing colonic segments, typically **sparing the rectum**; inflammation usually centered on and around the diverticula; histology can resemble ulcerative colitis or Crohn's disease. Whether it is a distinct entity or a manifestation of inflammatory bowel disease remains unclear. |
 | Symptomatic uncomplicated diverticular disease (SUDD) | Controversial diagnosis — bloating, chronic/recurrent abdominal pain, or altered bowel habits in people with diverticulosis, **without** systemic inflammation or overt diverticulitis. |
 
@@ -89,7 +90,7 @@ Expert opinion/epidemiology, not run through GRADE; ACG does not assign these a 
 - **Recurrence** does **not** increase the risk of developing complicated disease (the basis for dropping episode count as a surgical trigger); numbers under *Key concepts* above.
 - **Surgery:** DIRECT and LASER RCTs showed QoL improvement, but QoL did not improve or was worse in 30% (DIRECT), and in LASER 73% reported baseline abdominal pain while 63% still had pain 6 months postoperatively. Major surgical complications 10–34% in both trials; nearly one-third of patients with diverticulitis report significant decision regret after colectomy. Both trials were small and enrolled younger, healthier patients than the general diverticulitis population. CT confirmation of diverticulitis is essential before considering elective resection.
 - **Mesalamine (American College of Physicians [ACP] 2022 meta-analysis, 6 RCTs, n=1,898):** no recurrence reduction (OR 1.15, 0.92–1.44); more discontinuation for adverse events (AEs) (OR 1.59, 1.12–2.27).
-- **Smoking:** complicated diverticulitis RR 2.54 (1.49–4.33) current vs never. **Obesity:** recurrence hazard ratio (HR) 1.66 (1.09–2.51) for body mass index (BMI) ≥30 vs <22.5. **NSAIDs:** incident diverticulitis HR 1.72 (nonaspirin), 1.25 (aspirin).
+- **Smoking:** complicated diverticulitis RR 2.54 (1.49–4.33) current vs never. **Obesity:** recurrence hazard ratio (HR) 1.66 (1.09–2.51) in women with body mass index (BMI) ≥30 vs <22.5. **NSAIDs:** incident diverticulitis HR 1.72 (nonaspirin), 1.25 (aspirin).
 
 ### Antibiotic regimens (when indicated, outpatient acute uncomplicated) — usual duration 4–7 days
 
@@ -110,7 +111,7 @@ Expert opinion/epidemiology, not run through GRADE; ACG does not assign these a 
 
 - **Reverses the historical "colectomy after 2 uncomplicated episodes" teaching** — number of episodes no longer an indication; young age alone is not an indication.
 - **Reverses "all acute diverticulitis needs antibiotics"** — now selective.
-- Does not apply the no-surgery/observation stance to complicated disease (strictures, fistulas, chronic/smoldering diverticulitis, or prior abscess/perforation).
+- Rec 11 (surgical referral) does not apply to strictures, fistulas, chronic diverticulitis, or prior abscess/perforation; the guideline does not say how to manage these.
 - Evidence for most *prevention* recommendations is drawn from studies of **incident** (not recurrent) diverticulitis — effects assumed similar; certainty is mostly very low.
 - Optimal **timing** of post-recovery colonoscopy beyond the 6–8-week floor is not specified.
 - ACG flags its own evidence gaps: no validated prediction tools for who will recur, complicate, or benefit from antibiotics or elective surgery; no robust head-to-head data on which dietary pattern best prevents recurrence; no evidence on what or when to eat during an outpatient episode; few trials comparing elective surgery with conservative management in a real-world population.

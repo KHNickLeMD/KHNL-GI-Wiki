@@ -3,8 +3,9 @@ title: "ACG Clinical Guideline: Preventive Care in Inflammatory Bowel Disease (2
 category: source
 tags: [ibd, crohns, ulcerative-colitis, preventive-care, vaccination, health-maintenance, immunosuppression]
 created: 2026-06-14
-updated: 2026-10-04
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/ACG/ACG 2017 Preventive Care in Inflammatory Bowel Disease.pdf"
 ---
 
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ACG/ACG 2017 Preventive Care in Inflammatory Bowel Disease.p
 - **Type:** guideline (American College of Gastroenterology [ACG]; Grading of Recommendations Assessment, Development and Evaluation [GRADE] methodology)
 
 ## Summary
-This was the first ACG clinical guideline dedicated to preventive care / health maintenance in adults with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], built on the premise that IBD patients often regard their gastroenterologist as their de facto primary care provider yet receive preventive services at lower rates than the general population. It frames vaccination as the responsibility of the treating gastroenterologist (delivery may be shared with primary care) and stresses completing vaccinations — especially live vaccines — *before* starting immunosuppression where possible.
+ACG clinical guideline on preventive care / health maintenance in adults with [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], built on the premise that IBD patients often regard their gastroenterologist as their de facto primary care provider yet receive preventive services at lower rates than the general population. It frames vaccination as the responsibility of the treating gastroenterologist (delivery may be shared with primary care) and stresses completing vaccinations — especially live vaccines — *before* starting immunosuppression where possible.
 
 The guideline covers six domains: vaccinations (influenza, pneumococcal, herpes zoster, varicella, yellow fever, meningococcal, tetanus, diphtheria, and acellular pertussis (Tdap)/hepatitis A virus (HAV)/hepatitis B virus (HBV)/HPV, and household-contact considerations), cervical cancer screening, skin cancer screening (melanoma independent of biologic use; non-melanoma skin cancer (NMSC) on thiopurines), screening for depression and anxiety, osteoporosis screening with bone mineral density testing, and smoking cessation (emphasized in [[crohns-disease|Crohn's disease (CD)]]). Colorectal dysplasia surveillance was explicitly out of scope.
 
@@ -45,12 +46,18 @@ All 14 recommendation statements (with sub-parts) captured near-verbatim, with G
 13. Patients with conventional risk factors for abnormal bone mineral density with ulcerative colitis and CD should undergo screening for osteoporosis with bone mineral density testing at the time of diagnosis and periodically after diagnosis. *(Conditional; very low.)*
 14. Patients with CD who smoke should be counseled to quit. *(Strong; low.)*
 
+**Immunosuppression level and vaccine timing (cited from the Infectious Diseases Society of America [IDSA] in the text, not ACG statements):**
+- **Low-level immunosuppression:** systemic corticosteroids daily for ≥14 days (prednisone 20 mg/day equivalent, and within 3 months of stopping) or alternate-day corticosteroids; methotrexate ≤0.4 mg/kg/week, azathioprine ≤3.0 mg/kg/day, or 6-mercaptopurine ≤1.5 mg/kg/day (each within 3 months of stopping). IDSA considers anti-tumor necrosis factor (TNF) therapy **high-level** immunosuppression.
+- Vaccines before planned immunosuppression if feasible (strong, moderate).
+- Live vaccines ≥4 weeks before immunosuppression (strong, low); avoid within 2 weeks of starting it (strong, low).
+- Inactivated vaccines ≥2 weeks before immunosuppression (strong, moderate).
+
 ## Relevance to Wiki
 - [[ibd-preventive-care]] — original ACG framework for this concept page; additive historical citation (current practice follows the 2025 update).
 - [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]] — health-maintenance / vaccination context; additive citation only.
 
 ## Contradictions / Open Questions
-- Vaccine specifics are dated: the 2017 guidance predates the recombinant zoster vaccine (Shingrix) recommendation and the simplified/updated pneumococcal and HPV schedules now reflected in [[acg-2025-ibd-preventive-care]]. Where the two differ, the 2025 update governs.
+- Vaccine specifics are dated: the 2017 guidance (which already noted that an inactivated adjuvanted subunit zoster vaccine may be advantageous for immunosuppressed IBD patients) predates the current zoster, pneumococcal and HPV schedules in [[acg-2025-ibd-preventive-care]]. Where the two differ, the 2025 update governs.
 
 ## See Also
 [[ibd-preventive-care]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]]

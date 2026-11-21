@@ -3,8 +3,9 @@ title: "The Surgical Infection Society Guidelines on the Management of Intra-Abd
 category: source
 tags: [intra-abdominal-infection, antibiotics, sepsis, source-control, appendicitis, biliary, antimicrobial-stewardship]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/Other/SIS 2024 Management of Intra-Abdominal Infection (Huston).pdf"
 ---
 
@@ -38,7 +39,7 @@ Several 2017 recommendations were not re-reviewed; the working group voted to ca
 
 Also treated as "higher risk" for spectrum purposes: those likely to harbor resistant or atypical organisms — prior healthcare exposure or prior antimicrobial therapy, i.e. healthcare-associated IAI (HA-IAI), versus community-acquired IAI (CA-IAI).
 
-> *The 2017 criteria are the operative definition; this update does not restate a numeric threshold other than APACHE-II ≥10.*
+> *The 2017 criteria are the operative definition; this update does not restate a numeric threshold other than APACHE-II (narrative: >10 points; carried-forward Table 3: ≥10 points).*
 
 ## Key Recommendations
 
@@ -93,7 +94,7 @@ Also treated as "higher risk" for spectrum purposes: those likely to harbor resi
 - Recommend metronidazole as the **preferred anti-anaerobic agent** in combination regimens for empiric therapy of low- and high-risk patients *(Grade 1-A)*.
 
 **Polymyxin B**
-- Suggest polymyxin B for empiric therapy of higher risk patients with multi-drug-resistant (MDR) infection, including *Acinetobacter baumannii* complex, *Klebsiella pneumoniae*, *Escherichia coli* and *Enterobacter* spp. *(Grade 2-B)*.
+- Suggest polymyxin B for empiric therapy of higher risk patients with multi-drug-resistant (MDR) infection, including *Pseudomonas aeruginosa*, *Acinetobacter baumannii* complex, *Klebsiella pneumoniae*, *Escherichia coli* and *Enterobacter* spp. *(Grade 2-B)*.
 
 ### Anti-fungal therapy
 - Suggest **against** empiric anti-fungal therapy in **lower risk** patients *(Grade 2-B)*.
@@ -178,7 +179,7 @@ Also treated as "higher risk" for spectrum purposes: those likely to harbor resi
 - Recommend **against empiric anti-fungal therapy** for CA-IAI in higher risk patients *(Grade 1-B)*.
 
 **Antimicrobial stewardship**
-- Recommend limiting antimicrobial therapy to **24 hours** in patients with traumatic bowel perforations operated on within 12 hours *(Grade 1-A)*, patients with acute or gangrenous appendicitis **without perforation** *(Grade 1-A)*, and patients with acute or gangrenous **cholecystitis without perforation** *(Grade 1-B)*.
+- Recommend limiting antimicrobial therapy to **24 hours** in patients with traumatic bowel perforations operated on within 12 hours *(Grade 1-A)*, patients with acute or gangrenous appendicitis **without perforation** *(Grade 1-A)*, and patients with acute or gangrenous **cholecystitis without perforation** *(Grade 1-A)*.
 - Recommend **oral agents with good bioavailability** as substitutes for IV agents once adequate gastrointestinal function returns *(Grade 1-B)*.
 - Recommend oral agents to complete a short course, **not to prolong** antimicrobial duration beyond current recommendations *(Grade 1-B)*.
 - Recommend **oral ciprofloxacin plus metronidazole** to complete a short course *(Grade 1-B)*.
@@ -193,10 +194,10 @@ Also treated as "higher risk" for spectrum purposes: those likely to harbor resi
 
 - **Four days is the default duration after adequate source control**, and this now explicitly extends to source control achieved by *percutaneous drainage* — previously an open question — on post hoc analysis of the STOP-IT trial (129 patients drained percutaneously; no difference in recurrent IAI, *Clostridioides difficile* infection, hospital days).
 - **Diabetes, obesity and higher illness severity do not justify a longer course** (post hoc STOP-IT analysis, 152 obese / 64 diabetic / 83 higher-APACHE-II patients).
-- **Source control timing moved earlier than the 2017 guidance**: within 12 h generally, within 6 h with septic shock. In the supporting systematic review, mortality risk from operative delay in septic shock was **zero at delays under six hours**.
+- **Source control timing moved earlier than the 2017 guidance**: within 12 h generally, within 6 h with septic shock. In septic shock due to gastrointestinal perforation, survival decreased with operative delay and was **zero with delays >six hours**.
 - **Vancomycin should not be part of empiric coverage** — adding it to piperacillin-tazobactam gave no difference in SSI, recurrent IAI or death, and the vancomycin group had significantly higher rates of healthcare-associated infection.
 - **Tigecycline is now a recommend-against**: network meta-analysis showed significantly higher all-cause mortality versus cefepime plus metronidazole, and significantly more serious adverse events versus imipenem-cilastatin.
-- **Bile cultures drive hepatopancreatobiliary prophylaxis.** *Enterococcus* was the organism most often isolated where prophylaxis lacking anti-enterococcal activity failed; targeted prophylaxis based on preoperative bile culture significantly reduced both incisional and organ-space SSI. After preoperative biliary drainage, prolonged (>24 h) prophylaxis significantly reduced organ-space SSI — but optimal duration remains unknown.
+- **Bile cultures drive hepatopancreatobiliary prophylaxis.** *Enterococcus* spp. were isolated most often, yet prophylaxis regimens **lacking** anti-enterococcal activity were effective; targeted prophylaxis based on preoperative bile culture significantly reduced both incisional and organ-space SSI. After preoperative biliary drainage, prolonged (>24 h) prophylaxis significantly reduced organ-space SSI — but optimal duration remains unknown.
 - **Oral moxifloxacin was non-inferior to IV ertapenem → oral levofloxacin/metronidazole** for non-operative uncomplicated appendicitis (APPAC II, 599 patients).
 - **Prophylactic antibiotics remain contraindicated in severe/necrotizing pancreatitis** (carried forward from 2017, Grade 1-B).
 
@@ -214,5 +215,4 @@ Also treated as "higher risk" for spectrum purposes: those likely to harbor resi
 - **Anti-fungal therapy in higher risk patients reads two ways within the same document.** The 2024 text recommends **anidulafungin for empiric therapy of higher risk patients with infections from *Candida* spp.** *(Grade 1-B)*, while carried-forward Table 3 recommends **against empiric anti-fungal therapy for CA-IAI in higher risk patients** *(Grade 1-B)* and recommends an echinocandin only for **suspected or proven** *Candida* infection in severely ill patients. Read together: echinocandin when *Candida* is suspected or proven, not as blanket empiric cover. The wiki states it that way.
 - **Optimal prophylaxis duration after preoperative biliary drainage is explicitly unresolved** — "at least 24 hours" is a floor, not a defined course.
 - The guideline **excludes spontaneous bacterial peritonitis**, so it does not bear on [[spontaneous-bacterial-peritonitis]]; the dosing gap there remains open.
-- **Doripenem and biapenem** carry positive recommendations but are not marketed in the United States; the document does not flag availability.
 - Evidence for more aggressive empiric therapy in critically ill surgical patients is described by the authors as sparse, so several strong recommendations rest on carried-forward rather than newly reviewed evidence.

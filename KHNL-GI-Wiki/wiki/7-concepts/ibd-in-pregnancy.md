@@ -50,7 +50,7 @@ sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 | **Stop teratogens** | **[[methotrexate]] ≥1 month** before conception (full clearance 1–3 months); JAKis and S1P modulators per [[#Drug-by-Drug]] |
 | **Folate** | Prenatal vitamin with folic acid **≥1 month** before conception · **2 mg/d for 3 months preconception if on sulfasalazine** · **5 mg/d** if extensive small bowel disease, malabsorption, or family history of neural tube defects |
 | **Nutrition** | Assess folate, iron, vitamin B12, vitamin D ([[nutrition-in-ibd]], [[iron-deficiency-anemia]]). Achieve ideal weight; record baseline weight for gestational weight gain (GWG) |
-| **Vaccines** | Influenza, hepatitis B, measles-mumps-rubella (MMR), varicella up to date ([[ibd-preventive-care]]). MMR and varicella are **live — avoid on high-dose steroid, thiopurine and/or biologic**; any **live vaccine must be given 28 days before pregnancy** |
+| **Vaccines** | Influenza, hepatitis B, measles-mumps-rubella (MMR), varicella up to date ([[ibd-preventive-care]]). MMR and varicella are **live — avoid on high-dose steroid, thiopurine and/or biologic**; any **live vaccine should be given 28 days before pregnancy** |
 | **Team** | Maternal-fetal medicine and/or colorectal surgeon review where relevant; communicate the IBD plan to the rest of the team |
 | **Screening** | Cervical cancer screening current; encourage regular physical activity and smoking/substance cessation |
 
@@ -173,7 +173,7 @@ sources: [global-consensus-2025-pregnancy-ibd, aga-2024-pregnancy-gi-liver]
 | Metronidazole | **Generally avoid** | High relative exposure; if a short course (~1 week) is needed, monitor the infant for diarrhea/candidiasis |
 | Ciprofloxacin, amoxicillin, vancomycin | **Yes** | Low risk; monitor the infant for diarrhea/candidiasis |
 
-- **After endoscopy** ([[endoscopy-sedation]]): **fentanyl and propofol need no waiting period or milk discard**; **midazolam — withhold nursing 4 hours** (6–8 h with a newborn or preterm infant).
+- **After endoscopy** ([[endoscopy-sedation]]): **fentanyl and propofol need no waiting period or milk discard**; **midazolam — withhold nursing 4 hours** (newborn or preterm infant: a cautious 6–8 h).
 - **Contrast**: iodinated RID <0.01%, gadolinium absorption <0.0004% — **no interruption needed**; 24 hours is more than adequate if the mother prefers to wait.
 
 ## Infant Vaccines

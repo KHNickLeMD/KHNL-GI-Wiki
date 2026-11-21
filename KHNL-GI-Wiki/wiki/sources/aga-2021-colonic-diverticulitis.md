@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Medical Management of Colonic Diverticul
 category: source
 tags: [diverticulitis, diverticular-disease, colon, antibiotics, colonoscopy, colectomy, aga, clinical-practice-update]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/AGA/AGA 2021 CPU Colonic Diverticulitis.pdf"
 ---
 
@@ -22,9 +23,9 @@ Fourteen best practice advice (BPA) statements on the **medical** management of 
 
 The update reframes several long-standing habits. Computed tomography (CT) is positioned as the diagnostic test because clinical suspicion alone is right only 40%–65% of the time. Antibiotics move from routine to **selective** in immunocompetent patients with mild uncomplicated disease, and BPA 7 supplies the explicit criteria that push a patient back into the antibiotic group. Post-episode colonoscopy becomes conditional on history, recency of the last examination, and disease course rather than automatic. Most consequentially for surgical referral, **episode count is removed as an indication for elective resection** (BPA 13), replaced by a personalised discussion (BPA 14).
 
-The natural-history data behind those decisions are the page-level payload: complicated disease is usually the **first** presentation, not a late one, and the risk of complication *falls* with recurrences — the inverse of what patients (and many clinicians) assume. Roughly 40%–50% of diverticulitis risk is genetic, which the update asks clinicians to tell patients explicitly so that dietary self-blame is defused.
+The natural-history data behind those decisions are the page-level payload: complicated disease is usually the **first** presentation, not a late one, and the risk of complication *falls* with recurrences — the inverse of what patients (and many clinicians) assume. Roughly 40%–50% of diverticulitis risk is genetic, which the update asks clinicians to tell patients explicitly (patients often blame themselves for episodes).
 
-The update is also notable for what it removes: mesalamine, probiotics, and rifaximin are all named as ineffective for preventing recurrence, and the nut/corn/popcorn and small-seed restrictions are contradicted outright.
+The update is also notable for what it removes: mesalamine showed no benefit for preventing recurrence and evidence is insufficient for probiotics or cyclic rifaximin, and the nut/corn/popcorn and small-seed restrictions are contradicted outright.
 
 ## Key Findings / Claims
 
@@ -35,6 +36,7 @@ The update is also notable for what it removes: mesalamine, probiotics, and rifa
 3. **Best Practice Advice 3:** "After an acute episode of diverticulitis, colonoscopy should be delayed by 6–8 weeks or until complete resolution of the acute symptoms, whichever is longer. Colonoscopy should be considered sooner if alarm symptoms are present."
 4. **Best Practice Advice 4:** "In patients with a history of diverticulitis and chronic symptoms, ongoing inflammation should be excluded with both imaging and lower endoscopy. If there is no evidence of diverticulitis, visceral hypersensitivity should be considered and managed accordingly."
 5. **Best Practice Advice 5:** "A clear liquid diet is advised during the acute phase of uncomplicated diverticulitis. Diet should advance as symptoms improve."
+   - Faster advancement is also acceptable; **unable to advance the diet after 3–5 days → follow up immediately**.
 6. **Best Practice Advice 6:** "Antibiotic treatment can be used selectively, rather than routinely, in immunocompetent patients with mild uncomplicated diverticulitis."
 7. **Best Practice Advice 7:** "Antibiotic treatment is advised in patients with uncomplicated diverticulitis who have comorbidities or are frail, who present with refractory symptoms or vomiting, or who have a C-reactive protein >140 mg/L or baseline white blood cell count >15 × 10⁹ cells/L. Antibiotic treatment is advised in patients with complicated diverticulitis or uncomplicated diverticulitis with a fluid collection or longer segment of inflammation on CT scan."
 8. **Best Practice Advice 8:** "Immunocompromised patients are more likely to present with severe or complicated disease. For these patients there should be a low threshold for cross-sectional imaging, antibiotic treatment, and consultation with a colorectal surgeon."
@@ -119,7 +121,7 @@ The update is also notable for what it removes: mesalamine, probiotics, and rifa
 ## Relevance to Wiki
 
 - [[diverticulitis]] — the primary target. Supplies the BPA 7 antibiotic-selection criteria, the progression risk factors with their numeric cut-points, the recurrence table, the colonoscopy timing and deferral rule, and the BPA 13/14 reversal of episode-count-driven resection.
-- [[colonoscopy]] — the 6–8 week post-episode delay and the "defer if high-quality colonoscopy within 1 year" rule.
+- [[colonoscopy]] — the 6–8 week post-episode delay and the rule that colonoscopy can be deferred if a high-quality colonoscopy was done within 1 year **and** had no findings warranting short-interval follow-up.
 - [[colorectal-cancer]] — post-diverticulitis colon cancer yield, stratified complicated vs uncomplicated.
 - [[mesalamine-5-asa]], [[probiotics]], [[rifaximin]] — all three explicitly not to be used for recurrence prevention (BPA 11).
 - [[disorders-of-gut-brain-interaction]] — post-diverticulitis visceral hypersensitivity and the tricyclic antidepressant option (BPA 4).
@@ -128,7 +130,7 @@ The update is also notable for what it removes: mesalamine, probiotics, and rifa
 ## Contradictions / Open Questions
 
 - **Genetic attribution is stated two ways within the document.** BPA 10 says "approximately 50%"; the body text says twin and sibling studies attribute "40%–50%". The page carries the range with the BPA figure noted.
-- **vs [[acg-2026-diverticulitis]] (newer, same tier).** Where the two overlap, ACG 2026 keeps the page under source priority (within a tier, newer publication date wins). This CPU remains the source for the areas ACG 2026 does not cover — in particular the *first*-episode elective-resection question and the progression-risk cut-points.
+- **vs [[acg-2026-diverticulitis]] (newer, same tier).** Where the two overlap, ACG 2026 keeps the page under source priority (within a tier, newer publication date wins). This CPU remains the source for the areas ACG 2026 does not cover — in particular resection not based on episode count (BPA 13), colectomy not advised to prevent complicated disease in immunocompetent patients with recurrent uncomplicated diverticulitis, and the progression-risk cut-points.
 - **vs [[aga-2015-acute-diverticulitis]].** Same society, same topic, six years apart. The 2015 guideline is superseded by this update on every overlapping claim; retain 2015 only to document what changed.
 - **The document is an Expert Review and carries no evidence grades.** Its own conclusion describes the evidence base as low to moderate quality. Any statement presented elsewhere as a graded AGA recommendation is a mis-citation.
 - **Segmental colitis associated with diverticular disease has no page.** It is defined here (rectum-sparing diverticular colitis, likely on the inflammatory bowel disease spectrum) but the definition is all this source gives; a dedicated source would be needed for a full page.

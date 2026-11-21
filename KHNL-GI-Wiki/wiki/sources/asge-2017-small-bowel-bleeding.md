@@ -3,8 +3,9 @@ title: "ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding"
 category: source
 tags: [small-bowel-bleeding, obscure-gi-bleeding, capsule-endoscopy, vce, device-assisted-enteroscopy, dae, angiectasia, asge]
 created: 2026-06-22
-updated: 2026-10-14
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/ASGE/ASGE 2017 Endoscopy in Suspected Small-Bowel Bleeding.pdf"
 ---
 
@@ -19,9 +20,9 @@ raw: "GI Guidelines/ASGE/ASGE 2017 Endoscopy in Suspected Small-Bowel Bleeding.p
 
 ## Summary
 
-American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline on the endoscopic evaluation of **suspected small-bowel bleeding**. Endorses the shift from "obscure gastrointestinal (GI) bleeding (OGIB)" to anatomic terminology, and a stepwise algorithm: exclude upper/lower sources (repeat [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]/[[colonoscopy]] when an upper or lower source is suspected) → **[[capsule-endoscopy|video capsule endoscopy (VCE)]] as the initial small-bowel test** → [[device-assisted-enteroscopy|device-assisted enteroscopy (DAE)]] or push enteroscopy to treat positive findings, or when VCE is unavailable/nondiagnostic.
+American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline on the endoscopic evaluation of **suspected small-bowel bleeding**. Endorses the shift from "obscure gastrointestinal (GI) bleeding (OGIB)" to anatomic terminology, and a stepwise algorithm: exclude upper/lower sources (repeat [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]]/[[colonoscopy]] when an upper or lower source is suspected) → **[[capsule-endoscopy|video capsule endoscopy (VCE)]] as the initial small-bowel test** → [[device-assisted-enteroscopy|device-assisted enteroscopy (DAE)]] or push enteroscopy to treat positive findings, or when VCE is unavailable/nondiagnostic in overt small-bowel bleeding.
 
-Cross-sectional imaging (multiphase computed tomography enterography [CTE] or magnetic resonance enterography [MRE]) comes **first** when a small-bowel neoplasm is suspected or when there is any potential reason for capsule retention (stricture, bowel obstruction, suspected [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]). For hemodynamically significant bleeding, urgent angiography with selective embolization follows resuscitation; in stable patients with active bleeding a CT angiogram (CTA) or red blood cell (RBC) scan localizes the source and times the angiogram. In surgically altered anatomy with a bypassed segment (e.g., Roux-en-Y gastrojejunostomy), DAE is the preferred modality.
+Cross-sectional imaging (multiphase computed tomography enterography [CTE] or magnetic resonance enterography [MRE]) comes **first** when stricture, bowel obstruction or [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] is suspected (capsule-retention risk), and should be considered when a small-bowel neoplasm is suspected (Rec 6, "suggest"). For hemodynamically significant bleeding, urgent angiography with selective embolization follows resuscitation; in stable patients with active bleeding a CT angiogram (CTA) or red blood cell (RBC) scan localizes the source and times the angiogram. In surgically altered anatomy with a bypassed segment (e.g., Roux-en-Y gastrojejunostomy), DAE is the preferred modality.
 
 It is the **newest** tier-1 source on this topic in the wiki — it postdates and broadly corroborates [[acg-2015-small-bowel-bleeding|American College of Gastroenterology (ACG) 2015]], while adding the 2-week VCE timing window, the DAE-first exception (high suspicion of [[angioectasia|angiectasias]] or surgically altered anatomy), and the yield figures below. For non-localizable chronic angiectasia bleeding, hormonal therapy is abandoned (no efficacy in randomized controlled trials [RCTs]); [[somatostatin-analogs|octreotide]] and low-dose thalidomide may remove the need for transfusion and iron.
 
@@ -67,7 +68,7 @@ It is the **newest** tier-1 source on this topic in the wiki — it postdates an
 - Predictors of a positive VCE: **hemoglobin <10 g/dL, bleeding duration >6 months, overt presentation, male sex, age >60 y, inpatient status**.
 - VCE findings led to endoscopic/surgical intervention or a change in medical management in **37%–87%**.
 - Rebleeding after a negative VCE is low: **6%–11%**.
-- **Repeat VCE** — consider at the time of repeat bleeding; particularly informative when the presentation changes from occult to overt or hemoglobin falls by **4 g/dL**. Second-look VCE after a nondiagnostic first study was positive in **49%** (76 patients); in iron-deficiency anemia, **35%** of second studies were positive/suspicious and **10%** changed management.
+- **Repeat VCE** — consider at the time of repeat bleeding; particularly informative when the presentation changes from occult to overt or hemoglobin falls by **≥4 g/dL**. Second-look VCE after a nondiagnostic first study was positive in **49%** (76 patients); in iron-deficiency anemia, **35%** of second studies were positive/suspicious and **10%** changed management.
 - **Capsule retention: 1.4%** of VCE examinations (series of 1000 procedures) — the primary risk of VCE.
 - Other limitations: no therapeutic capability, cannot precisely locate a lesion, false positives, missed lesions.
 - **Perform multiphase CTE or MRE first if there is any potential reason for capsule retention** — stricture, bowel obstruction, or suspected IBD.
@@ -128,28 +129,32 @@ Suggested approach to overt and occult small-bowel bleeding. Positive results di
 
 ```mermaid
 flowchart TD
-    A["Suspected small-bowel bleeding<br/>(overt and occult)"] --> B["Repeat EGD / push enteroscopy or colonoscopy<br/>when upper or lower GI sources suspected"]
-    B -->|Negative| C["Small-bowel evaluation"]
-    C --> D["Stable<br/>(overt or occult)"]
-    C --> E["Unstable, brisk bleeding<br/>(overt)"]
-    D --> F["No obstruction"]
-    D --> G["Possible obstruction or<br/>surgically altered anatomy"]
-    F --> H["VCE"]
-    G --> I["Multiphase CTE or MRE"]
-    E --> J["RBC scan or CT angiography<br/>after stabilization"]
-    H -->|Positive| K["DAE or push enteroscopy or<br/>intraoperative enteroscopy"]
-    I -->|Positive| K
-    I -->|Negative| H
-    J -->|Positive| L["Angiography for embolization"]
-    H -->|Negative| M["Recurrent bleeding?"]
-    K -->|Negative| M
-    J -->|Negative| M
-    L -->|Negative| M
-    M -->|No| N["Observation and<br/>iron supplements"]
-    M -->|Yes| O["Repeat EGD / colonoscopy, VCE,<br/>± intraoperative enteroscopy"]
+    A(["Suspected small-bowel bleeding<br/>(overt and occult)"]) --> B["Repeat EGD/PE or colonoscopy<br/>when upper or lower GI sources suspected"]
+    B -- "Negative" --> C["Small-bowel evaluation"]
+    C -- "Stable (overt or occult),<br/>no obstruction" --> H["VCE"]
+    C -- "Stable, possible obstruction or<br/>surgically altered anatomy" --> I["Multiphase CTE or MRE"]
+    C -- "Unstable, brisk bleeding (overt)" --> J["RBC scan or CT angiography<br/>after stabilization"]
+    C -- "Unstable, brisk bleeding (overt)" --> L(["Angiography for embolization"])
+    H -- "Negative" --> I
+    H -- "Positive" --> K(["DAE or PE or<br/>intraoperative enteroscopy"])
+    I -- "Positive" --> K
+    J -- "Positive" --> L
+    H -- "Negative" --> M["Recurrent bleeding?"]
+    I -- "Negative" --> M
+    K -- "Negative" --> M
+    J -- "Negative" --> M
+    L -- "Negative" --> M
+    M -- "No" --> N(["Observation and iron supplements"])
+    M -- "Yes" --> O(["Repeat EGD/colonoscopy, VCE,<br/>± intraoperative enteroscopy"])
+    class A start
+    class B,C,H,I,J,M test
+    class K,L,O act
+    class N stop
 ```
-
-*Figure 1 — Suggested management approach to overt and occult small-bowel bleeding. ([[asge-2017-small-bowel-bleeding]])*
+*Suggested management approach to overt and occult small-bowel bleeding*
+*Source: redrawn from Figure 1 of ASGE 2017 (journal p. 24)*
+*[[asge-2017-small-bowel-bleeding|ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding]]*
+*EGD = esophagogastroduodenoscopy · PE = push enteroscopy · GI = gastrointestinal · VCE = video capsule endoscopy · CTE = CT enterography · MRE = magnetic resonance enterography · RBC = red blood cell · CT = computed tomography · DAE = device-assisted enteroscopy*
 
 ## Recommendations
 
