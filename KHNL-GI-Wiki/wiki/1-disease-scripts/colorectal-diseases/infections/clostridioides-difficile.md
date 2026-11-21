@@ -199,7 +199,7 @@ flowchart TD
 | **Fidaxomicin** | Vancomycin **taper/pulse**, *or* fidaxomicin **EXTEND** pulsed |
 | **Vancomycin** | Fidaxomicin — standard 10-day *or* **EXTEND** pulsed |
 
-- **No metronidazole** for recurrence; one lifetime course max (neurotoxicity). [[acg-2021-cdiff]]
+- **No metronidazole** for recurrence; limit metronidazole to 1 course (neurotoxicity with prolonged or repeated use). [[acg-2021-cdiff]]
 - Ongoing risk (systemic antibiotics, cytotoxic chemotherapy) → suppressive vancomycin 125 mg daily after the course until those finish. [[aga-2026-cdiff-adults]]
 - **Counsel now:** higher risk of further episodes; pre-position test-collection materials and a vancomycin/fidaxomicin refill at the pharmacy. [[aga-2026-cdiff-adults]]
 

@@ -134,7 +134,7 @@ Diaphragmatic breathing, central neuromodulators, and brain–gut behavioral the
 - Refractory upper-gastrointestinal (GI) symptoms + weight loss / suspected neuromyopathy → [[small-bowel-motility|antroduodenal manometry]], wireless motility capsule, whole-gut scintigraphy, radiopaque markers (tertiary referral).
 
 > [!pitfall] Bloating alone is not a reason to test for SIBO
-> Diarrhea, not bloating, has the strongest association with small intestinal bacterial overgrowth, and in IBS diarrhea or "gas" are the predictive symptoms ([[aga-2020-sibo]]) — [[acg-2020-sibo]] still calls bloating its most common symptom. Thresholds for a positive breath test vary widely between guidelines and **lactulose over-calls** relative to glucose or culture, so a lactulose-positive result in a bloating-only patient is weak evidence.
+> Diarrhea, not bloating, has the strongest association with small intestinal bacterial overgrowth, and in IBS diarrhea or "gas" are the predictive symptoms ([[aga-2020-sibo]]) — [[acg-2020-sibo]] still calls bloating its most common symptom. Thresholds for a positive breath test vary widely between guidelines and **lactulose breath testing yields more positives** than glucose or culture, so a lactulose-positive result in a bloating-only patient is weak evidence.
 
 ---
 

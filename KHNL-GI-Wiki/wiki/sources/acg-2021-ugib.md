@@ -3,7 +3,8 @@ title: "ACG 2021: Upper Gastrointestinal and Ulcer Bleeding"
 category: source
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford]
 created: 2026-05-15
-updated: 2026-09-09
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2021 Upper Gastrointestinal and Ulcer Bleeding.pdf"
 ---
@@ -26,7 +27,7 @@ raw: "GI Guidelines/ACG/ACG 2021 Upper Gastrointestinal and Ulcer Bleeding.pdf"
 
 A systematic-review-based ACG clinical practice guideline covering management of **overt UGIB** — defined as hematemesis, melena, or hematochezia from a source in the esophagus, stomach, or duodenum. The guideline uses GRADE methodology and issues **16 numbered guideline statements** (Table 1) from initial risk stratification through endoscopic hemostasis and post-endoscopic management. Recommendations for endoscopic therapy and postendoscopic management are specifically restricted to **[[peptic-ulcer-disease|ulcer bleeding]]** (the most common etiology and the diagnosis with the most RCT data).
 
-**Grading vocabulary (important — 14 of 16 statements are conditional).** "Strong" statements begin *"We recommend"*; "conditional" statements begin *"We suggest"*. Only statements 6, 8, 10, and 13 are strong; statements 4 and 7 are explicit **non-recommendations** ("we could not reach a recommendation") and carry **no strength and no evidence grade**. The panel notes that "may be considered" statements, which do not recommend for or against an action, are **no longer used** because guidelines should provide a recommended action.
+**Grading vocabulary (important — 10 of 16 statements are conditional).** "Strong" statements begin *"We recommend"*; "conditional" statements begin *"We suggest"*. Only statements 6, 8, 10, and 13 are strong; statements 4 and 7 are explicit **non-recommendations** ("we could not reach a recommendation") and carry **no strength and no evidence grade**. The panel notes that "may be considered" statements, which do not recommend for or against an action, are **no longer used** because guidelines should provide a recommended action.
 
 Key advances over the 2012 guideline include: (1) raising the Glasgow-Blatchford Score (GBS) threshold for very-low-risk discharge from 0 to 0–1; (2) expanding high-dose post-endoscopic proton pump inhibitor (PPI) beyond continuous intravenous (IV) infusion to include intermittent oral or IV dosing; (3) new statements for hemostatic powder spray TC-325, over-the-scope clips, argon plasma coagulation (APC), and soft monopolar electrocoagulation; (4) preferring transcatheter arterial embolization (TAE) over surgery for failed endoscopic therapy; and (5) **dropping** the 2012 suggestion that endoscopy within 12 hours "may be considered" in high-risk clinical features.
 
@@ -39,7 +40,7 @@ Gastrointestinal (GI) bleeding overall is the most common GI diagnosis necessita
 ### Risk Stratification
 
 - **"Very low risk" is defined by false-negative rate, not by GBS itself**: a risk assessment score with a **≤1% false-negative rate** for the outcome of hospital-based intervention or death — *e.g.* GBS = 0–1. The panel included only GBS in the statement because it has been widely studied across settings; the 1% false-negative (99% sensitivity) threshold is offered as the benchmark for future tools
-- **GBS 0–1**: sensitivity point estimates 99% (lower bound of 95% confidence interval [CI] 97–98%) for the composite outcome of hospital-based intervention or death; 19–24% of UGIB patients qualify in two large multicenter studies. GBS = 0 gives 99–100% sensitivity (95% CI lower bound 98%) but qualifies only 8–22%
+- **GBS 0–1**: sensitivity point estimates 99% (lower bound of 95% confidence interval [CI] 97–98%) for the composite outcome of hospital-based intervention or death; 19–24% of UGIB patients qualify in two large multicenter studies. GBS = 0 gives 99–100% sensitivity (95% CI lower bound 98%) but specificity only 8–22%
 - GBS 0–1 allows safe outpatient discharge — before-after study: 0/105 with GBS = 0 not admitted for other reasons required intervention or died within 30 days; retrospective series: 0/103 discharged with GBS = 0–1 required intervention or died within 30 days
 - **GBS components and point values live on [[upper-gi-bleeding]]** (guideline Table 2) — one home for that table; the source page links rather than duplicates. Components: blood urea nitrogen, hemoglobin (sex-specific), systolic blood pressure, heart rate, melena, syncope, hepatic disease, cardiac failure. Hepatic disease and cardiac failure were **not defined** in the original GBS report
 - Specificity at the GBS 0–1 threshold is poor (point estimates 27–40%) — most patients who will not need intervention are still classified as needing admission, leaving substantial room for improvement
@@ -100,7 +101,7 @@ Gastrointestinal (GI) bleeding overall is the most common GI diagnosis necessita
   - Markedly reduces further bleeding (RR 0.43), mortality (RR 0.41), and surgery (RR 0.42) vs. placebo/no treatment
   - Continuous regimen: 80-mg bolus followed by 8-mg/hr infusion
   - Intermittent regimen (equivalent efficacy): 40 mg 2–4 times daily orally or IV; initial 80-mg bolus may be appropriate
-- **Twice-daily oral PPI from days 4–14** after index endoscopy for high-risk patients (Rockall ≥6): conditional recommendation (low-quality evidence)
+- **Twice-daily oral PPI from days 4–14** after index endoscopy for high-risk patients (not defined in the statement; the single supporting RCT enrolled Rockall ≥6 after successful endoscopic hemostasis and 3 days of bolus + continuous-infusion PPI): conditional recommendation (low-quality evidence)
   - Based on 1 RCT showing 10.8% vs. 28.7% further bleeding at 28 days (twice-daily vs. once-daily esomeprazole)
 
 ### Recurrent Bleeding Management

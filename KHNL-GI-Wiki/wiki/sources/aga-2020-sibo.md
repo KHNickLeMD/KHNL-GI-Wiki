@@ -3,7 +3,8 @@ title: "AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth
 category: source
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption, antibiotics]
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2020 CPU SIBO.pdf"
 ---
@@ -126,7 +127,7 @@ The article frames this as "a list of antibiotic regimens that **have been used*
 
 ## Summary
 
-This AGA Clinical Practice Update (CPU) is a deliberately deflationary document. Where the [[acg-2020-sibo|American College of Gastroenterology (ACG) 2020 guideline]] issues graded recommendations for whom to breath-test and how to treat, this CPU sets out to show that SIBO's definition "lacks precision and consistency" (BPA 1), that the small bowel microbiome is not yet characterized well enough to define the disorder (BPA 5), and that both the diagnostic tests and the antibiotic strategies rest on a thin database (BPA 9). It provides a historical account of how the concept arose — blind loops, jejunal diverticulosis, fistulae, pseudo-obstruction, with a demonstrable malabsorption mechanism — and argues that this classical, structurally-driven SIBO accounts for only "a small minority of those diagnosed with SIBO today."
+This AGA Clinical Practice Update (CPU) is a deliberately deflationary document. Where the [[acg-2020-sibo|American College of Gastroenterology (ACG) 2020 guideline]] issues graded recommendations for whom to breath-test and how to treat, this CPU sets out to show that SIBO's definition "lacks precision and consistency" (BPA 1), that the small bowel microbiome is not yet characterized well enough to define the disorder (BPA 5), that breath testing was never fully validated against culture (BPA 5 text), and that antibiotic strategies rest on a limited database (BPA 9). It provides a historical account of how the concept arose — blind loops, jejunal diverticulosis, fistulae, pseudo-obstruction, with a demonstrable malabsorption mechanism — and argues that the clinical entities in its Table 1, taken in aggregate, account for only "a small minority of those diagnosed with SIBO today."
 
 On diagnosis, the CPU adopts the ACG's definition by citation ("the presence of excessive numbers of bacteria in the small bowel, causing gastrointestinal symptoms") and reports the North American Consensus culture threshold of **>10³ CFU/mL coliforms on fresh aspirate culture**, contextualizing it: normal subjects "rarely exceed 10² CFU/mL," and the older **>10⁵ CFU/mL** standard was "derived from subjects with altered intestinal anatomy." **It gives no breath-test cutoff of its own, no substrate preference, and no substrate dose.** Its treatment of breath testing is a list of objections: it "has lacked universal acceptance," "was never fully validated compared with culture," suffers "wide discrepancies in thresholds for defining a positive breath test result," and a proposed 2-H₂-peak criterion "has not been validated."
 
@@ -214,7 +215,7 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 - For recurrent symptoms, some patients need **repeated (eg, the first 5–10 days of every month) or continuous** courses. For continuous therapy, **rotating antibiotic regimens are recommended to prevent the development of resistance**.
 - Individualize; weigh **diarrhea, *Clostridium difficile* infection, intolerance, and cost**.
 - **Post-treatment testing, verbatim:** "It is not necessary to repeat diagnostic tests for SIBO after antibiotic therapy should gastrointestinal symptoms respond."
-- BPA 7 order of operations: identify and correct underlying causes (blind loop, small bowel stricture, coloenteric fistula) → correct nutritional deficits when the underlying problem cannot be corrected → antibiotics.
+- BPA 7 components (listed, not ordered): identify and correct underlying causes (blind loop, small bowel stricture, coloenteric fistula); correct nutritional deficits; antibiotics.
 
 ---
 
@@ -223,7 +224,7 @@ The most consequential clinical reversal is on symptoms. Where ACG's Key Concept
 - **Updates [[small-intestinal-bacterial-overgrowth]]** — second tier-1 source on the page. Adds: the pathophysiologic Table 1 risk framework, the 10²/10³/10⁵ CFU context and "coliforms/fresh aspirate" qualifiers, aspiration technique (protected double-lumen catheter, dithiothreitol), the calprotectin advice, the vitamin K / warfarin interaction, the three B-12 mechanisms, antibiotic **duration** (7–10 days) with response rates, recurrence risk factors, rotating/cyclical regimens, and the "do not retest if symptoms respond" advice. Reverses the page's bloating-first framing.
 - **Updates [[abdominal-bloating-and-distention]]** — supplies the explicit statement that diarrhea, not bloating, has the strongest association with SIBO, which bears directly on when to pursue SIBO in a bloating workup.
 - **Updates [[chronic-diarrhea]]** — SIBO as a cause of unexplained diarrhea and weight loss in the very elderly; older age / steatorrhea / narcotic use as the aspirate-proven risk factors.
-- **Updates [[irritable-bowel-syndrome]]** — OR 4.9; 33.5% vs 8.2% by culture; lactulose over-calls relative to glucose and culture; rifaximin response by baseline breath test (59.7% vs 29.8%); BPA 6/8 uncertainty framing.
+- **Updates [[irritable-bowel-syndrome]]** — OR 4.9; 33.5% vs 8.2% by culture; lactulose breath testing yields a higher positive rate than glucose or culture; rifaximin response by baseline breath test (59.7% vs 29.8%); BPA 6/8 uncertainty framing.
 - **Updates [[rifaximin]]** — supplies the SIBO course duration the ACG guideline omits, and a materially different daily dose.
 - **Corroborates [[intestinal-methanogen-overgrowth]]** — neomycin + rifaximin combination, characterized here as resting on "one uncontrolled trial."
 - No figures or algorithms in this source; all three tables are reproduced above as native Markdown.
@@ -254,10 +255,10 @@ Agreements worth noting: both adopt the same clinical definition (the AGA CPU ci
 **Open questions the CPU itself raises:**
 
 - Normal small intestinal microbial populations are not defined, so no threshold-based definition of SIBO can currently be validated (BPA 5). The definition will change with the technique used (culture vs next-generation sequencing).
-- Whether SIBO causes functional/IBS symptoms at all remains unresolved (BPA 6); the two best available datasets disagree, and the negative study used the older ≥10⁵ definition and an unprotected single-lumen catheter — so the disagreement may be methodological rather than biological.
+- Whether SIBO causes functional/IBS symptoms at all remains unresolved (BPA 6); studies disagree, and the negative study used the traditional single-lumen catheter aspiration technique and the older ≥10⁵ CFU/mL definition.
 - Whether rifaximin's benefit in IBS-D operates through SIBO eradication needs randomized controlled trial (RCT) confirmation (BPA 8); the supporting breath-test data come from a small subset.
-- No antibiotic regimen has a comparative evidence base; the whole of Table 2 is "regimens that have been used," not regimens shown to work.
-- Retreatment/maintenance strategy (monthly pulses, continuous rotation) is offered without trial support, against an explicit warning about long-term broad-spectrum antibiotic risk (BPA 9).
+- "The data to support any one antibiotic regimen are limited" (rifaximin is the exception with several RCTs; meta-analysis eradication ~70%).
+- Retreatment/maintenance strategy (monthly pulses, continuous rotation) sits beside an explicit warning about long-term broad-spectrum antibiotic risk (BPA 9).
 
 
 ---

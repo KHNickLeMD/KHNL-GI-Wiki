@@ -82,7 +82,7 @@ Most common cause of diarrheal-disease outbreaks in the United States, and the a
 - Patient is at **high risk of spreading disease to others**, or a **known or suspected outbreak** → stool culture and culture-independent methods *(ACG Rec 1, strong/low)*. [[acg-2016-acute-diarrhea]]
 - **Possible outbreak:** test a broader bacterial, viral, and parasitic set regardless of fever or bloody/mucoid stools, choosing agents by host and epidemiologic risk and coordinating with public health *(Rec 11, strong/moderate)*. [[idsa-2017-infectious-diarrhea]]
 - **Immunocompromised host:** broaden to culture, viral studies, and parasite examination *(Rec 12, strong/moderate)*. [[idsa-2017-infectious-diarrhea]]
-- Otherwise most uncomplicated watery diarrhea needs **no etiologic testing**; the general indications (dysentery, moderate-to-severe illness, symptoms >7 days) are on [[acute-diarrhea#When to Test (ACG 2016 Indications)]]. [[acg-2016-acute-diarrhea]]
+- Otherwise most uncomplicated watery diarrhea needs **no etiologic testing**; the general indications (dysentery, moderate-to-severe illness, symptoms >7 days) are on [[acute-diarrhea#Who to Test|acute diarrhea → Who to Test]]. [[acg-2016-acute-diarrhea]]
 
 ---
 

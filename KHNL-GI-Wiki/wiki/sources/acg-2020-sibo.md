@@ -3,7 +3,8 @@ title: "ACG 2020: Small Intestinal Bacterial Overgrowth"
 category: source
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome]
 created: 2026-05-19
-updated: 2026-10-03
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2020 Small Intestinal Bacterial Overgrowth.pdf"
 ---
@@ -99,8 +100,9 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 - A change in, or measured level of, hydrogen or methane that stays below these thresholds is a negative test
 - Lactulose sensitivity 31–68%; specificity 44–100%
 - Glucose sensitivity 20–93%; specificity 30–86%
+- Diabetes: a 75-g glucose load can cause acute hyperglycemia and gut dysmotility; fructose substrate in diabetes gave sensitivity 48%, specificity 71%, accuracy 58% vs aspirate. "Although not studied, lactulose may be preferred for diabetic subjects as a nonabsorbed carbohydrate."
 - Lactulose is criticized for high false-positive rates (accelerated transit, colonic fermentation); glucose is absorbed in the proximal small bowel and has low sensitivity for distal SIBO
-- H₂S (hydrogen sulfide) testing exists but cutoff not yet validated
+- H₂S (hydrogen sulfide): no commercial testing system yet available; a diagnostic cutoff for H₂S still needs validation
 - H₂ and CH₄ are incomplete — future studies examining H₂S (3 gas measurement) may improve accuracy
 
 ### Small Bowel Aspirate and Culture
@@ -113,8 +115,9 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 - Methane produced by archaea (*Methanobrevibacter smithii*), not bacteria → term "SIBO" is technically incorrect
 - IMO associated with constipation (odds ratio [OR] 3.51, confidence interval [CI] 2.00–6.16); methane levels proportional to constipation severity
-- Methane slows intestinal transit by augmenting contractility and delaying ileal peristaltic conduction velocity
+- Methane slows intestinal transit (canine model, supported by in vitro experiments)
 - Methane positive breath test defined as ≥10 ppm at any time point
+- Placebo-controlled trial, 84 IBS patients with IMO (lactulose breath test): neomycin 500 mg twice daily × 10 days brought methane below 3 ppm in 20% vs 1% on placebo. Rifaximin + neomycin combination evidence is a retrospective chart review of 74 patients
 
 ### Conditions Associated with SIBO (Table 4)
 
@@ -125,12 +128,12 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 - Malabsorptive: pancreatic insufficiency, cirrhosis (altered bile acid composition), other
 - Immune-related: human immunodeficiency virus (HIV), common variable immunodeficiency, immunoglobulin A (IgA) deficiency
 - Other: aging (elderly), small bowel diverticulosis
-- Colectomy with loss of ileocecal valve → retrograde movement of colonic flora → SIBO risk
+- Colectomy, partial or complete, and especially with loss of the ileocecal valve → retrograde movement of colonic flora → SIBO risk
 - PPI use: meta-analysis of 19 studies (>7,000 subjects) showed up to 3-fold higher SIBO risk; but evidence is conflicting and one large sequencing study found no change in microbial diversity with PPI use
 - [[celiac-disease|Celiac disease]]: patients with celiac disease are also known to have SIBO
 - [[crohns-disease|Crohn's disease]]: 16.8% of those in endoscopic remission had SIBO; SIBO associated with ongoing GI complaints
 - Also associated, mechanism unclear: [[cirrhosis]] and [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], [[chronic-pancreatitis|chronic pancreatitis]], cystic fibrosis, fibromyalgia, alcoholism, multiple sclerosis
-- Other systemic diseases altering motility: Parkinson disease, chronic renal failure, amyloidosis, systemic sclerosis, hypothyroidism — multicenter randomized controlled trials of diagnosis and treatment in these conditions are lacking
+- Other systemic diseases altering motility: Parkinson disease, chronic renal failure, amyloidosis, systemic sclerosis, hypothyroidism, diabetes mellitus — multicenter randomized controlled trials of diagnosis and treatment in these conditions are lacking
 
 ### Treatment
 
@@ -157,7 +160,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 **Diet:**
 
 - Low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet reduces hydrogen production and may benefit SIBO symptoms by extension from IBS data
-- Low fermentable fiber approach; avoid alcohol sugars and fermentable sweeteners (sucralose); avoid prebiotics (inulin)
+- Low fiber approach; avoid alcohol sugars and fermentable sweeteners (sucralose); avoid prebiotics (inulin)
 - Meta-analysis: low FODMAP diet — "very low quality evidence" for supporting efficacy; "no good evidence" for gluten-free diet in IBS
 
 **Probiotics:**
@@ -174,7 +177,7 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 ### Guidance for Trial Design (Table 6)
 
-**H₂-positive SIBO enrollment criteria:** H₂ ≥20 ppm within 90 minutes of lactulose or glucose AND bloating (moderate to severe) at least 50% of days; OR sterile duodenal aspirate >10³ CFU/mL with bloating (moderate to severe) ≥50% of days
+**H₂-positive SIBO enrollment criteria:** H₂ ≥20 ppm within 90 minutes of lactulose or glucose AND bloating (moderate to severe) at least 50% of days; OR sterile-method duodenal aspirate with coliform count on appropriate agar >10³ CFU/mL with bloating (moderate to severe) ≥50% of days
 **H₂-positive primary outcome:** reduction of bloating severity/frequency by 50% plus normal H₂ breath test (<20 ppm at or before 90 minutes) OR duodenal aspirate <10³ CFU/mL
 **CH₄-positive enrollment:** CH₄ ≥10 ppm at any point first 90 minutes AND constipation (<3 complete spontaneous bowel movements [CSBM]/week)
 **CH₄-positive primary outcome:** improvement in constipation severity (CSBM/week increase >1) AND normalization of CH₄ (no CH₄ ≥10 ppm within 90 minutes)
@@ -193,11 +196,8 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 | Do NOT test for SIBO using breath tests in asymptomatic patients on PPIs | Conditional | Very Low |
 | **Treatment** | | |
 | Antibiotics in symptomatic patients with SIBO to eradicate overgrowth and resolve symptoms | Conditional | Low |
-| Rifaximin 550 mg TID is the best-studied non-absorbable antibiotic (61–78% efficacy); IMO combination (rifaximin + neomycin) most effective for methane-positive patients | Summary Statement | — |
-| Probiotics are NOT recommended for SIBO treatment (no consistent evidence; may cause D-lactic acidosis) | Summary Statement | — |
-| FMT has no current basis for use in SIBO treatment | Summary Statement | — |
-| **Prevention** | | |
-| Focus on treating the underlying cause of SIBO as the primary mode of prevention | Summary Statement | — |
+
+The guideline's only graded items are the six recommendations above. Probiotics (Key Concept 12: "lack of consistent data to support recommending specific probiotics" — a non-recommendation, not advice against), fecal microbiota transplant (Key Concept 13) and prevention (Key Concept 14) are ungraded key concepts — see the key-concept list above.
 
 ## Relevance to Wiki
 
@@ -211,11 +211,10 @@ Treatment is centered on antibiotics — [[rifaximin]] being the best studied no
 
 ## Contradictions / Open Questions
 
-- The 10³ CFU/mL diagnostic threshold is based on consensus, not prospective validation in symptomatic populations. A prior ≥10⁵ CFU/mL standard conflated "bacteriological" infection with clinical SIBO.
-- Breath testing sensitivity and specificity remain poor: 20–93% sensitivity, 30–100% specificity for glucose. Lactulose carries high false-positive rates from accelerated colonic fermentation.
+- The 10³ CFU/mL threshold is based on a collation of the literature in normal subjects; the older ≥10⁵ CFU/mL cutoff "appears too stringent and lacks validation."
+- Breath testing sensitivity and specificity remain poor: 20–93% sensitivity, 30–86% specificity for glucose. Lactulose carries high false-positive rates from accelerated colonic fermentation.
 - The PPI-SIBO relationship is contested: meta-analysis suggests 3-fold risk increase, but a large sequencing study found no effect on small bowel microbiome.
-- Rifaximin mechanism in IBS is unclear — may work via microbiome modulation beyond simple "SIBO eradication."
-- IMO terminology is still evolving and not universally adopted. SIBO and IMO may represent distinct conditions requiring different diagnostic and treatment frameworks.
+- The guideline proposes the term IMO itself, because methanogens are archaea and occur throughout the intestinal tract, not only the small bowel.
 - No validated patient-reported outcome (PRO) exists for SIBO, making trial design and comparison difficult.
 - Low FODMAP and dietary approaches have very low quality evidence; extrapolated from IBS data, not studied directly in SIBO populations.
 

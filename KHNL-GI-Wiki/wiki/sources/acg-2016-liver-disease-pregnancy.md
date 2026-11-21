@@ -3,7 +3,8 @@ title: "ACG Clinical Guideline: Liver Disease and Pregnancy (2016)"
 category: source
 tags: [pregnancy, liver-disease, ihcp, aflp, hellp, hyperemesis-gravidarum, hepatitis-b, hepatitis-c, autoimmune-hepatitis, pbc, wilsons-disease, cirrhosis, liver-transplantation, hpb]
 created: 2026-05-19
-updated: 2026-09-28
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2016 Liver Disease and Pregnancy.pdf"
 ---
@@ -27,7 +28,7 @@ A key organizing principle is that the management framework for abnormal liver t
 
 Pregnancy-specific liver diseases are categorized by trimester. Hyperemesis gravidarum (HG) occurs in the first trimester with supportive care as management. Intrahepatic cholestasis of pregnancy (IHCP) occurs in the second/third trimester, necessitating ursodeoxycholic acid (UDCA) and early delivery at 37 weeks. AFLP is a rare third-trimester emergency requiring prompt delivery; HELLP syndrome and preeclampsia with hepatic involvement are managed by delivery after specified gestational age thresholds.
 
-The guideline covers perinatal transmission prevention for chronic HBV (antiviral prophylaxis for high viral load, active–passive immunoprophylaxis for neonates), makes strong recommendations against elective C-section for both HBV and HCV to prevent transmission, and recommends against offering HCV therapy during pregnancy. For chronic liver diseases, maintaining disease control (AIH on corticosteroids ± azathioprine (AZA); PBC on UDCA; Wilson's on chelation with dose reduction) is prioritized over treatment discontinuation during pregnancy.
+The guideline covers perinatal transmission prevention for chronic HBV (antiviral prophylaxis for high viral load, active–passive immunoprophylaxis for neonates), makes strong recommendations against elective C-section for both HBV and HCV to prevent transmission, and recommends against offering HCV therapy during pregnancy. For chronic liver diseases, maintaining disease control (AIH on corticosteroids and/or azathioprine (AZA); PBC on UDCA; Wilson's on chelation with dose reduction) is prioritized over treatment discontinuation during pregnancy.
 
 ---
 
@@ -129,6 +130,26 @@ The guideline numbers its recommendations 1–36 sequentially through the text a
 
 ---
 
+### Figure 1 and Table 3
+
+**Figure 1 — workup of abnormal liver tests in a pregnant woman (p. 179):**
+- Hepatocellular profile (AST/ALT) → rule out viral hepatitis, herpes, medications, other (AIH, Wilson disease, if clinically appropriate) with anti-HAV IgM, HBsAg, hepatitis E IgM, HSV PCR → if negative, pregnancy-related workup.
+- Biliary profile, bilirubin ± alkaline phosphatase → biliary imaging → no evidence of obstruction → pregnancy-related workup.
+- Biliary profile, alkaline phosphatase only → no further workup.
+
+**Table 3 — liver diseases unique to pregnancy (p. 181):**
+
+| Disorder | Trimester | Management |
+|---|---|---|
+| HG | First through 20 weeks | Supportive management |
+| IHCP | Second/third | Ursodeoxycholic acid 10–15 mg/kg; early delivery at 37 weeks |
+| AFLP | Third | Deliver promptly; monitor infant for LCHAD deficiency manifestations (hypoketotic hypoglycemia, fatty liver) |
+| Eclampsia, preeclampsia | After 20 weeks | After 36 weeks, women with severe preeclampsia should be delivered promptly |
+| HELLP | After 22 weeks | Delivery after 34 weeks; platelet transfusion to 40,000–50,000 cells/µl should be considered before delivery, especially if cesarean section is likely |
+
+**Text statements outside the numbered recommendations:** avoid benzodiazepines in pregnancy (FDA category D; congenital malformations) (p. 179); CDC recommends HAV immunoglobulin for the neonate if maternal HAV infection occurs within 2 weeks of delivery (p. 183); pregnant women with acute hepatitis should have HBsAg and hepatitis B core IgM testing (p. 184); empiric acyclovir can be stopped if HSV PCR is negative (p. 184).
+
+
 ## Key Findings / Claims
 
 - Normal physiologic changes in pregnancy: ALP and AFP rise; albumin and hemoglobin fall; AST/ALT, bilirubin, PT/INR remain stable. Incidence of abnormal liver tests in otherwise healthy pregnant women is ~3–5%.
@@ -138,8 +159,8 @@ The guideline numbers its recommendations 1–36 sequentially through the text a
 - **HG:** defined as persistent vomiting with loss of ≥5% of pre-pregnancy body weight, dehydration, and ketosis. Occurs in 0.3–2% of pregnancies, early in the first trimester, typically resolving by 20 weeks. 50–60% of *hospitalized* women with HG have a mild aminotransferase elevation; AST/ALT >20× upper limit of normal (ULN) has rarely been reported. Liver tests normalize when vomiting stops; management supportive ± hospitalization.
 - **IHCP:** Most common pregnancy-specific liver disease (prevalence 0.3–5.6%); second/third trimester; pruritus of palms and soles; bile acids typically >10 µmol/l; bile acids >40 µmol/l identify higher fetal risk (complications occur when bile acids exceed this); aminotransferases may reach >1,000 U/l; jaundice in <25%, always after pruritus onset; early delivery at 37 weeks; UDCA 10–15 mg/kg maternal body weight. UDCA is more effective than cholestyramine or dexamethasone for pruritus.
 - **Preeclampsia:** new-onset hypertension (systolic ≥140 mm Hg or diastolic ≥90 mm Hg) with proteinuria (≥300 mg/24 h) after 20 weeks of gestation. Affects up to 7.5% of pregnancies; only 25% of cases are severe. Expectant management advised until after 34 weeks; no advantage to continuing pregnancy after 36–37 weeks.
-- **HELLP:** Hemolytic anemia + elevated liver enzymes + platelets <100,000 cells/µl; complicates up to 20% of cases of *severe* preeclampsia/eclampsia; typically presents 28–36 weeks, with 30% manifesting in the first week postpartum. Maternal mortality 1–3%; hypertension and proteinuria in up to 80%, jaundice in only 5%. Prompt delivery, especially after 34 weeks; platelet transfusion to 40,000–50,000 cells/µl before delivery if cesarean is likely (transfusion to >40,000 cells/µl when invasive procedures are anticipated). ALT or AST >1,000 U/l or abdominal pain radiating to the right shoulder should prompt cross-sectional imaging for hepatic infarction, subcapsular hematoma, or rupture.
-- **AFLP:** Rare, life-threatening microvesicular fatty infiltration; third trimester (median gestational age 36 weeks); risk factors twin pregnancy and low body mass index; concomitant preeclampsia in roughly half; prompt delivery mandatory; LCHAD deficiency link requires testing of mother and offspring. In the United Kingdom the incidence is 5.0 cases per 100,000 maternities; against clinical diagnosis the Swansea Criteria gave 85% positive predictive value and 100% negative predictive value for hepatic microvesicular steatosis.
+- **HELLP:** Hemolytic anemia + elevated liver enzymes + platelets <100,000 cells/µl; complicates up to 20% of cases of *severe* preeclampsia/eclampsia; typically presents 28–36 weeks, with 30% manifesting in the first week postpartum. Maternal mortality 1–3%; hypertension and proteinuria in up to 80%, jaundice in only 5%. Prompt delivery, especially after 34 weeks; platelet transfusion to 40,000–50,000 cells/µl before delivery if cesarean is likely (transfusion to >40,000 cells/µl when invasive procedures are anticipated). When ALT or AST is >1,000 U/l or abdominal pain radiates into the right shoulder, cross-sectional imaging can assist in excluding hepatic complications (infarction, subcapsular hematoma, rupture) with more accuracy than ultrasound.
+- **AFLP:** Rare, life-threatening microvesicular fatty infiltration; third trimester (median gestational age 36 weeks); risk factors twin pregnancy and low body mass index; concomitant preeclampsia in roughly half; prompt delivery mandatory; LCHAD deficiency link requires testing of mother and offspring. In the United Kingdom the incidence is 5.0 cases per 100,000 maternities; Swansea Criteria agreement with clinical diagnosis is described as substantial; in women with suspected pregnancy-related liver disease who underwent liver biopsy, they gave 85% positive predictive value and 100% negative predictive value for hepatic microvesicular steatosis.
 
 **Swansea criteria for diagnosis of acute fatty liver of pregnancy (Table 4)** — six or more criteria required in the absence of another cause:
 
@@ -161,11 +182,11 @@ The guideline numbers its recommendations 1–36 sequentially through the text a
 | Microvesicular steatosis on liver biopsy | — |
 - **HBV in pregnancy:** Mother-to-child transmission (MTCT) risk is 70–90% for hepatitis B e antigen (HBeAg)+ mothers vs. 10–40% for HBeAg− mothers without prophylaxis. Active–passive immunoprophylaxis reduces MTCT to ~5%, but fails in 8–30% of highly viremic mothers. Tenofovir or telbivudine in the third trimester for high viral load (>10⁶ log copies/ml, i.e. 200,000 IU/ml, and higher); treatment at levels below 10⁶ log copies/ml (2×10⁵ IU/ml) is not indicated unless the woman has liver disease warranting viral suppression. Elective C-section not recommended. Graded MTCT risk by maternal HBV DNA: 6–6.99 log₁₀ copies/ml ≈3%, 7–7.99 log₁₀ copies/ml ≈7%, >8 log₁₀ copies/ml ≈8%.
 - **HCV in pregnancy:** 3–10% vertical transmission at birth; no perinatal prevention strategy available; HCV therapy (including [[direct-acting-antivirals|direct-acting antivirals (DAAs)]]) not appropriate during pregnancy; invasive fetal monitoring should be minimized.
-- **AIH in pregnancy:** Risk of disease flare; intrapartum flare >20%, postpartum flare 30–50%; maintain corticosteroids ± AZA; AZA safety data are extrapolated from inflammatory bowel disease (IBD) experience — 3,000 AZA-exposed pregnancies showing an association with preterm births but no increase in congenital abnormalities or LBW. AZA is a pregnancy category D drug; corticosteroids are category C.
+- **AIH in pregnancy:** Risk of disease flare; intrapartum flare >20%, postpartum flare 30–50%; maintain corticosteroids and/or AZA; AZA safety data are extrapolated from inflammatory bowel disease (IBD) experience — 3,000 AZA-exposed pregnancies showing an association with preterm births but no increase in congenital abnormalities or LBW. AZA is a pregnancy category D drug; corticosteroids are category C.
 - **PBC in pregnancy:** Infrequent due to older age at presentation; UDCA category B drug; continue UDCA during pregnancy.
 - **Wilson's disease in pregnancy:** Reduce penicillamine or trientine dose by 25–50% to promote wound healing pre-cesarean; zinc is an option; treatment discontinuation carries risk of hepatic decompensation.
 - **Cirrhosis/portal hypertension:** Up to 30% of cirrhotic pregnant women bleed from esophageal varices; variceal bleeding risk increases to 50–78% if pre-existing varices; screen for varices in second trimester; band ligation and beta-blockers (propranolol preferred — category C; nadolol less preferred due to long half-life) for large varices.
-- **Liver transplant recipients:** Higher rates of preterm birth, low birth weight (LBW), cesarean section, and hypertension; acute rejection risk elevated if pregnancy <6 months post-transplant; recommend waiting ≥1–2 years; continue all immunosuppression except mycophenolic acid (teratogenic — congenital malformations + embryo-fetal toxicity).
+- **Liver transplant recipients:** Higher rates of preterm birth, low birth weight (LBW), cesarean section, and hypertension; acute rejection risk elevated if pregnancy <6 months post-transplant; most experts advocate waiting at least 1 year, some up to 2 years (expert opinion, not a graded recommendation); continue all immunosuppression except mycophenolic acid (teratogenic — congenital malformations + embryo-fetal toxicity).
 
 ---
 
@@ -174,7 +195,7 @@ The guideline numbers its recommendations 1–36 sequentially through the text a
 - **Creates:** [[liver-disease-in-pregnancy]] — new diagnostic schema page covering all pregnancy-specific liver diseases
 - **Updates:** [[chronic-hepatitis-b]] — perinatal transmission prevention, antiviral in third trimester, delivery mode, breastfeeding
 - **Updates:** [[primary-biliary-cholangitis]] — UDCA continuation in pregnancy (Rec 32)
-- **Updates:** [[autoimmune-hepatitis]] — corticosteroids ± AZA safety in pregnancy (Rec 31), flare risk data
+- **Updates:** [[autoimmune-hepatitis]] — corticosteroids and/or AZA safety in pregnancy (Rec 31), flare risk data
 - **Updates:** [[wilson-disease]] — chelation dose reduction in pregnancy (Rec 33)
 - **Updates:** [[acute-liver-failure]] — AFLP as cause of acute liver failure (ALF) in pregnancy; cross-link
 - **Updates:** [[abnormal-liver-chemistries]] — physiologic changes in pregnancy modifying lab interpretation

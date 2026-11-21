@@ -3,7 +3,8 @@ title: "ASGE Guideline on Management of Post–Liver Transplant Biliary Strictur
 category: source
 tags: [liver-transplant, biliary-stricture, ercp, ptbd, csems, mrcp, antibiotics, asge, guideline, anastomotic-stricture, ischemic-cholangiopathy]
 created: 2026-06-04
-updated: 2026-10-07
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2023 Post-Transplant Biliary Strictures.pdf"
 ---
@@ -39,7 +40,7 @@ Net result: ERCP as the initial intervention; cSEMSs as the preferred stent for 
 
 | # | Recommendation (verbatim) | Best practice advice | Strength | Quality of evidence |
 |---|---|---|---|---|
-| 1 | In liver transplant recipients with a biliary stricture, the ASGE suggests ERCP over PTBD as initial therapy for management of strictures. | ERCP preferred if it is difficult for caregivers to manage percutaneous drains/catheters, risk of dislodgement of percutaneous drains/catheters, presence of multiple intrahepatic strictures in different hepatic lobes, and lack of significant biliary dilation to facilitate percutaneous drainage. · PTBD preferred if difficult endoscopic biliary access because of various reasons including altered anatomy or increased risk of adverse events from anesthesia. | Conditional recommendation | Very low |
+| 1 | In liver transplant recipients with a biliary stricture, the ASGE suggests ERCP over PTBD as initial therapy for management of strictures. | ERCP preferred if it is difficult for caregivers to manage percutaneous drains/catheters, risk of dislodgement of percutaneous drains/catheters, presence of multiple intrahepatic strictures in different hepatic lobes [text: requiring multiple drains/stents], and lack of significant biliary dilation to facilitate percutaneous drainage. · PTBD preferred if difficult endoscopic biliary access because of various reasons including altered anatomy or increased risk of adverse events from anesthesia. | Conditional recommendation | Very low |
 | 2 | In liver transplant recipients with biliary strictures, the ASGE suggests covered self-expandable metal stents should be used instead of multiple plastic stents for initial therapy of extrahepatic biliary strictures. | Covered metal stents are most often used for extrahepatic biliary strictures, typically at the anastomosis. · Cholangiographic findings, such as intrahepatic biliary strictures or anastomotic strictures just below the bifurcation, may preclude the use of covered metal stents. | Conditional recommendation | Low to moderate |
 | 3 | In liver transplant recipients with suspected biliary stricture(s), the ASGE suggests use of MRCP as a diagnostic test. | MRCP is an acceptable diagnostic test for detecting post-transplant strictures. · Individual clinical scenarios should dictate the utility of MRCP. · In patients with a high pretest probability for a biliary stricture or cholangitis, proceeding directly to ERCP without a diagnostic MRCP is prudent. | Conditional recommendation | Moderate to high |
 | 4 | In patients with post–liver transplant biliary strictures undergoing elective ERCP in whom complete biliary drainage is technically challenging to achieve (ischemic cholangiopathy, multiple strictures, failure of stenting), the ASGE suggests administration of periprocedural antibiotics over no antibiotics to reduce incidence of infectious adverse events. | An individualized approach for administering antibiotics based on each patient's unique biliary anatomy and clinical condition is prudent. · Patients with inadequate drainage of the biliary tree because of strictures may benefit from preprocedural antibiotics. · Otherwise, use of antibiotics should be discussed with the patient and transplant team before ERCP. | Conditional recommendation | Very low |
@@ -123,11 +124,11 @@ Existing data highlighted to support: ERCP as initial therapy for biliary strict
 - **[[eus-guided-biliary-drainage]]** and PTBD in Roux-en-Y anatomy — named as unevaluated, so this guideline supports no claim there.
 
 ## Contradictions / Open Questions
-- Largely concordant with the AASLD-AST 2025 graft-complications guideline cited on [[liver-transplantation]]. One nuance: AASLD-AST states cSEMS and MPS have equivalent resolution but cSEMS needs fewer procedures (mean difference 1.69 ERCPs), shorter treatment (40 vs 80 days), 25% lower cost; the ASGE 2023 meta-analysis numbers differ slightly (mean −1.86 procedures; cost $8288 vs $19,580) but the direction is identical.
+- Largely concordant with the AASLD-AST 2025 graft-complications guideline cited on [[liver-transplantation]]. One nuance: AASLD-AST states cSEMS and MPS have equivalent resolution but cSEMS needs fewer procedures (mean difference 1.69 ERCPs), a shorter treatment period to resolution (mean difference 40.2 days), and 25% lower cost for stricture resolution; the ASGE 2023 meta-analysis numbers differ slightly (mean −1.86 procedures; cost $8288 vs $19,580) but the direction is identical.
 - Evidence is very low quality for Questions 1 and 4; Question 3 (MRCP) is strongest at moderate to high. No recommendation here is strong.
 - All cSEMS data are for anastomotic duct-to-duct strictures. Stricture location was not delineated in the 4 RCTs, so the evidence cannot settle cSEMS use for intrahepatic or near-bifurcation strictures, or for non-anastomotic ischemic cholangiopathy.
 - Optimal cSEMS positioning — across vs upstream of the biliary orifice — was not evaluated by any included study.
-- Antibiotics: the two available studies show no benefit, yet the recommendation favors antibiotics in the subgroup where drainage is incomplete. The panel's stance rests on biologic rationale and panel judgment, not on a demonstrated benefit, and no agent, dose, or duration is specified.
+- Antibiotics: the two available studies show no benefit, yet the recommendation favors antibiotics in the subgroup where drainage is incomplete. The guideline's only stated basis is that patients with inadequate drainage "may benefit"; no agent, dose, or duration is specified.
 
 ## See Also
 

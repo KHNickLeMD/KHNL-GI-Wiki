@@ -173,7 +173,7 @@ Treat a first recurrence with an agent **different from the one used initially**
 
 - Fidaxomicin after vancomycin or metronidazole prevented a **second** recurrence better than vancomycin: 19.7% vs 35.5% within 28 days (P = 0.045). [[acg-2021-cdiff]]
 - EXTEND vs a standard 10-day vancomycin course in patients aged ≥60 years: sustained clinical cure at 30 days **70% (124/177) vs 59% (106/179)**; difference 11% (95% CI 1.0–20.7), P = 0.030; odds ratio (OR) 1.62 (95% CI 1.04–2.54). Patients with multiple previous recurrences were excluded. [[acg-2021-cdiff]]
-- **Metronidazole must not be used for recurrent disease** ([[acg-2021-cdiff]] strong, low quality) — vancomycin cleared *C. difficile* by end of therapy far more often (89% vs 59%, P = 0.001), and metronidazole should be **limited to one lifetime course** because of neurotoxicity with prolonged or repeated use.
+- **Metronidazole should not be used for recurrent disease** ([[acg-2021-cdiff]] narrative reasoning, ungraded) — vancomycin cleared *C. difficile* by end of therapy far more often (89% vs 59%, P = 0.001), and metronidazole should be **limited to 1 course** because of neurotoxicity with prolonged or repeated use.
 - **Bridge for patients with ongoing recurrence risk** (continuing systemic antibiotics, cytotoxic chemotherapy): after the 10-day course, continue **suppressive vancomycin 125 mg daily**, then taper off or hand over to microbiota restoration once those treatments finish. [[aga-2026-cdiff-adults]]
 
 ### Second or Further Recurrence
@@ -197,7 +197,7 @@ Antibiotics here are a **bridge to microbiota restoration**, not the definitive 
 
 **Prophylaxis during subsequent systemic antibiotics (oral vancomycin prophylaxis, OVP) — not advised:**
 
-> **Guidelines differ.** [[acg-2021-cdiff]] Rec 18 (conditional, low quality) permits OVP: **low-dose oral vancomycin 125 mg once daily, typically continued until 5 days after completion of the systemic antibiotics**, in *"patients aged 65 years or older with significant immunocompromise who were hospitalized for severe CDI within the past 3 months."* The newer [[aga-2026-cdiff-adults|AGA 2026 CPU]] (BPA 12) advises **against** vancomycin during systemic antibiotic administration to prevent CDI. **Follow AGA 2026.**
+> **Guidelines differ.** [[acg-2021-cdiff]] Rec 18 (conditional, low quality) permits OVP: **low-dose oral vancomycin 125 mg once daily, typically continued until 5 days after completion of the systemic antibiotics**, in *"patients aged 65 years or older or with significant immunocompromise who were hospitalized for severe CDI within the past 3 months."* The newer [[aga-2026-cdiff-adults|AGA 2026 CPU]] (BPA 12) advises **against** vancomycin during systemic antibiotic administration to prevent CDI. **Follow AGA 2026.**
 >
 > **Why:** the only RCT showed **no statistically significant difference** in recurrent CDI; the 13.5% absolute reduction observed was in a trial **not powered** to detect it. ACG's support came from pooled observational data (10 studies, 9,258 patients: future CDI **13.3% with OVP vs 21.9% without**, OR 0.34, 95% CI 0.20–0.59) that the RCT did not confirm.
 >
@@ -268,7 +268,7 @@ These guidelines address tolerability only where it changes drug choice; neither
 
 **Metronidazole**
 
-- **Neurotoxicity with prolonged or repeated use** → **limit to one lifetime course**. [[acg-2021-cdiff]]
+- **Neurotoxicity with prolonged or repeated use** → **limit to 1 course**. [[acg-2021-cdiff]]
 - Inferior to vancomycin in older patients, in those hospitalized for CDI, in those with multiple comorbidities, and in hypoalbuminemia; higher recurrence risk; high resistance and treatment failure. Delaying the switch to vancomycin after metronidazole failure increases length of stay and AKI and lowers cure. [[acg-2021-cdiff]], [[aga-2026-cdiff-adults]], [[aga-2026-cdiff-ibd]]
 
 **[[rifaximin|Rifaximin]]** — **30%–50% resistance rates** were reported across nonrandomized trials, which is why routine use is not recommended. [[acg-2021-cdiff]]

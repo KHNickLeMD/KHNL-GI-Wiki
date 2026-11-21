@@ -64,7 +64,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 
 **Recommendation 7.** Bismuth subsalicylates (BSSs) can be administered to control rates of passage of stool and may help travelers function better during bouts of mild to moderate illness. *(Strong recommendation, high level of evidence)*
 
-**Recommendation 8.** In patients receiving antibiotics for traveler's diarrhea, adjunctive loperamide therapy should be administered to decrease duration of diarrhea and increase chance for a cure. *(Strong recommendation, moderate level of evidence)*
+**Recommendation 8.** In patients receiving antibiotics for traveler's diarrhea, adjunctive loperamide therapy should be administered to decrease duration of diarrhea and increase chance for a cure. *(Table 1 wording; the recommendation box in the text reads "can be administered".)* *(Strong recommendation, moderate level of evidence)*
 
 #### Antibiotic Therapy
 

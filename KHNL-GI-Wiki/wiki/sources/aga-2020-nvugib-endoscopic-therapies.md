@@ -3,7 +3,8 @@ title: "AGA 2020 Clinical Practice Update: Endoscopic Therapies for Non-Variceal
 category: source
 tags: [ugib, nvugib, gi-bleeding, endoscopic-hemostasis, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, aga]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2020 CPU Endoscopic Therapies for NVUGIB.pdf"
 ---
@@ -92,7 +93,7 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 - **Octreotide is not recommended in NVUGIB**, but a low threshold for use if there is concern for underlying [[portal-hypertension|portal hypertension]].
 - **Prophylactic antibiotics are not indicated in NVUGIB.**
 - **Antithrombotic reversal:** decide with intensivists/cardiology/neurology/hematology. Explicit stance — *"When there is doubt, it is usually better to err on the side of not reversing AT [antithrombotic] medication because a cardiopulmonary or neurologic thromboembolic event is usually far more devastating than ongoing NVUGIB."*
-- **Nasogastric tube:** controversial, does not affect clinical outcomes. Lavage can clear blood and a return of continuous copious bright red blood suggests emergent endoscopy — but a **negative lavage should not delay endoscopy**.
+- **Nasogastric tube:** controversial, does not affect clinical outcomes. Lavage can clear blood and a return of continuous copious bright red blood suggests emergent endoscopy — but a **negative lavage should not delay endoscopy**, particularly if other parameters suggest active NVUGIB.
 - **Airway:** endotracheal intubation for suspected ongoing/massive NVUGIB, active hematemesis, or suspected retained gastric contents, to reduce aspiration risk.
 
 ### Timing of endoscopy — the three tiers
@@ -100,8 +101,10 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 | Tier | Window | Who |
 |---|---|---|
 | **Emergent** | within **12 hours** | Persistent hemodynamic compromise after initial resuscitation; moderate- to large-volume hematemesis |
-| **Urgent** | within **24 hours** | Default for hospitalized NVUGIB |
-| **Elective** | may wait **>24 hours** | Hemodynamically stable, no ongoing hematemesis, melena only — can generally be deferred to the following morning |
+| **Urgent** | within **24 hours** | Not defined further by the CPU |
+| **Elective** | may wait **>24 hours** | Not defined further by the CPU |
+
+- Separately: patients who are hemodynamically stable, without ongoing hematemesis, with melena only "can generally be deferred to the following morning."
 
 - **Caveat on emergent endoscopy:** patients undergoing emergent endoscopy **may have worse outcomes**, possibly from inadequate resuscitation.
 - Cites the randomized controlled trial (RCT) in which patients with **Glasgow-Blatchford score (GBS) ≥12** randomized to urgent (<6 h) vs early (next morning, within 24 h) endoscopy showed **no 30-day mortality difference**.
@@ -166,17 +169,20 @@ Two contributions make this source disproportionately useful. First, **Table 1 p
 - **Rebleeding after endoscopic therapy → a second attempt at endoscopic hemostasis is typically advised.** After initial thermal therapy, either repeat thermal or switch to mechanical (clip); **Hemospray should also be considered as rescue therapy**. Seek a second opinion or a more experienced endoscopist in difficult situations.
 - **Second-look endoscopy should not be performed routinely**, but has a role where rebleeding risk is high despite initial endoscopic success, or where the index procedure did not adequately control bleeding.
 - Reasons prior therapy was suboptimal: ulcer size, location, fibrosis; epinephrine-injection monotherapy or single use of hemostatic powder for a high-risk lesion; inadequate coagulation or insufficient tissue grasped by a clip.
-- **Endoscopic failure → TAE or surgery**, decided case-by-case (BPA 9). Risks/benefits depend on expected clinical success, rebleeding risk, potential adverse events, local expertise and resource availability. **Prophylactic TAE of high-risk ulcers after successful endoscopic therapy is not recommended** (BPA 10) — cited concerns include recanalization and subsequent ischemic complications.
+- **Endoscopic failure → TAE or surgery**, decided case-by-case (BPA 9). Risks/benefits depend on expected clinical success, rebleeding risk, potential adverse events, local expertise and resource availability. **Prophylactic TAE of high-risk ulcers after successful endoscopic therapy is not recommended** (BPA 10).
+- **TAE vs surgery (text, p. 1126):** TAE equally effective, with trends toward lower 30-day mortality and fewer complications than surgery, but higher rebleeding rates; most effective when active extravasation is demonstrated or the site can be endoscopically prelocalized; failure associated with multiple or large duodenal ulcers, gastritis, coagulopathy, or multi-organ failure. Embolic agents differ in rebleeding rate, recanalization and ischemic-complication risk.
 - **Multidisciplinary approach required** in refractory bleeding: endoscopists, intensivists, surgeons, interventional radiologists, and in some cases hematologists/oncologists.
 
-### Figures in this source (not yet captured)
+### Figures in this source
 
-- **Figure 1** — "Approach to the initial management, clinical triage, and endoscopic decision making in treating patients with acute NVUGIB" (labels: endotracheal tube [ETT], GBS, IV, PPI).
-- **Figure 2** — "Flow diagram incorporating hemostatic powder therapy as an option for the management of acute NVUGIB."
-
-Both are decision algorithms and therefore fall under the Style Guide's figure-capture rule. **Not captured — figure-extraction tooling is unavailable in this environment** (see the standing block noted on [[upper-gi-bleeding]]). Their decision content has been transcribed into text on [[endoscopic-hemostasis]] and [[upper-gi-bleeding]] so no clinical content is lost; capture the images when tooling is available.
-
----
+- **Figure 1** — "Approach to the initial management, clinical triage, and endoscopic decision making in treating patients with acute NVUGIB" (p. 1122):
+  - *Initial management:* assess hemodynamic status; resuscitation (IV fluids, blood products); medications — presence/absence of antithrombotic therapy, PPI (IV route), prokinetic therapy, octreotide (if any suspicion for portal hypertension, varices).
+  - *Triage — ICU level care:* unstable vital signs, multiple comorbidities, need for endotracheal tube (ETT), ongoing massive bleeding. *Medical/surgical floor:* hemodynamically stable, no hematemesis. *Outpatient management:* GBS 0–1.
+  - *Endoscopy:* plan for sedation (need for ETT for airway protection or general anesthesia?); identify bleeding source; active bleeding/stigmata of recent hemorrhage → thermal (probe, forceps) or clips (through-the-scope, over-the-scope).
+- **Figure 2** — "Flow diagram incorporating hemostatic powder therapy as an option for the management of acute NVUGIB" (p. 1125):
+  - Poor visibility or suspected diffuse bleeding → spray hemostatic powder to improve local control → malignancy: surgery or radiotherapy; non-malignancy: further endoscopic therapy.
+  - Initial attempts at bleeding control with standard endoscopic therapy not successful → spray hemostatic powder as a second-line modality and retreat as needed → consider repeat endoscopy, transarterial embolization, or surgery, depending on clinical factors (also the next step after further endoscopic therapy).
+- **Forrest classes treated (text, p. 1123):** Forrest Ia (spurting), Ib (oozing) and IIa (nonbleeding visible vessel) ulcers should receive endoscopic hemostasis therapy.
 
 ## Relevance to Wiki
 

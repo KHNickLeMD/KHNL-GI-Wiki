@@ -53,7 +53,7 @@ Excess methane-producing organisms in the intestinal tract, distinguished from c
 *Workup: see [[abdominal-bloating-and-distention]].*
 
 - [[small-intestinal-bacterial-overgrowth|SIBO]] (hydrogen-predominant) — different threshold (see table above); may coexist, since one test reports both gases.
-- Hydrogen sulfide (H₂S)–predominant overgrowth — H₂S testing exists but its cutoff is **not yet validated**, and conventional breath testing measures only H₂ and CH₄.
+- Hydrogen sulfide (H₂S)–predominant overgrowth — no commercial H₂S testing system is yet available and a diagnostic cutoff **still needs validation**, and conventional breath testing measures only H₂ and CH₄.
 - [[chronic-idiopathic-constipation|Chronic idiopathic constipation]] and constipation-predominant [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] without methanogen overgrowth. CH₄-positive breath tests are specifically linked to constipation-predominant IBS, whereas SIBO is associated with IBS with diarrhea ([[aga-2020-sibo]]).
 
 ## Diagnostics

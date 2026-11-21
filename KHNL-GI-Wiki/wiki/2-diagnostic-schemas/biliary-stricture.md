@@ -3,26 +3,24 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-11-17
+updated: 2026-11-21
+quality_reviewed: 2026-11-21
+verified: 2026-11-21
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures, esge-2026-biliary-strictures]
 ---
 
 ## Contents
 - [[#Definition / Scope]]
 - [[#Differential Diagnosis]]
-  - [[#Malignant — Primary]]
-  - [[#Malignant — Metastatic]]
-  - [[#Benign — Fibroinflammatory]]
-  - [[#Benign — Iatrogenic]]
-  - [[#Benign — Vascular/Other]]
 - [[#Diagnostic Algorithm]]
-  - [[#Step 1: Initial Clinical Assessment]]
-  - [[#Step 2: Cross-Sectional Imaging (CT / MRCP)]]
-  - [[#Step 3: Tissue Diagnosis — Approach by Location]]
+  - [[#Pancreatic Mass Present]]
+  - [[#No Mass or Perihilar Stricture]]
+  - [[#Indeterminate Stricture]]
 - [[#Key Tests]]
 - [[#Red Flags / Alarm Features]]
 - [[#Drainage Approach]]
-  - [[#Extrahepatic Stricture]]
+  - [[#Benign Extrahepatic Stricture]]
+  - [[#Malignant Extrahepatic Stricture]]
   - [[#Perihilar Stricture]]
   - [[#Post–Liver Transplant Biliary Stricture]]
   - [[#Failed ERCP]]
@@ -33,320 +31,265 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
 
 ## Definition / Scope
 
-A **biliary stricture** is an abnormal narrowing of the ductal drainage system of the liver that causes clinically or physiologically relevant obstruction to bile flow. It is a syndrome — a common presentation with a wide differential that demands systematic evaluation to distinguish malignant from benign etiologies.
+- **Biliary stricture:** abnormal narrowing of the ductal drainage system of the liver; often causes clinically and physiologically relevant obstruction to bile flow, but may cause no symptoms or abnormal liver tests early ([[acg-2023-biliary-strictures]])
+- **Two goals:** (1) **diagnosis** — confirm or exclude malignancy; (2) **drainage** — restore bile flow into the duodenum
+- **Location sets the approach:** extrahepatic vs perihilar (intrahepatic strictures not covered). Extrahepatic strictures are easier to sample and safer to drain
+- **Guidelines on this page:** American College of Gastroenterology (ACG) 2023 and American Society for Gastrointestinal Endoscopy (ASGE) 2023 set the recommendations; where the European Society of Gastrointestinal Endoscopy (ESGE) 2026 guideline differs or adds a point, it is labelled
+- **Indeterminate stricture:** no diagnosis despite initial [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with intraductal sampling — a stage in the workup, not an etiology ([[acg-2023-biliary-strictures]])
 
-**Anatomic classification** (determines diagnostic and drainage approach):
+**Bismuth-Corlette classification** (perihilar; grades drainage difficulty — [[acg-2023-biliary-strictures]]):
 
-- **Extrahepatic** — distal to the biliary confluence (most commonly due to pancreatic head pathology)
-- **Perihilar** — at or near the biliary confluence (Klatskin-type; most commonly [[cholangiocarcinoma]])
-- **Intrahepatic** — beyond the scope of this page
+| Type | Extent |
+|---|---|
+| 1 | Common hepatic duct only — easiest to drain |
+| 2 | Confluence, not the intrahepatic ducts |
+| 3a / 3b | Confluence + right (3a) or left (3b) intrahepatic system |
+| 4 | Confluence + both right and left systems — hardest to drain |
 
-**Bismuth-Corlette classification (perihilar)**:
-
-- Type 1: common hepatic duct only
-- Type 2: involves biliary confluence
-- Type 3a/3b: confluence + right (3a) or left (3b) intrahepatic system
-- Type 4: confluence + both right and left intrahepatic systems (most complex)
-
-The two principal management goals are: **(1) diagnosis** — confirm or exclude malignancy; and **(2) drainage** — restore bile flow to the duodenum.
-
-**Indeterminate biliary stricture — definition** ([[acg-2023-biliary-strictures]]): a stricture **for which a diagnosis has not been established despite initial [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with intraductal sampling**. It is a stage in the pathway, not an etiology, and is what triggers the additional-modality workup below.
-
-**Stent/drainage shorthand used on this page:** PS = plastic stent · MPS = multiple plastic stents (placed side by side and serially upsized) · SEMS = self-expanding metal stent, subtyped as uSEMS (uncovered), fcSEMS (fully covered), cSEMS (covered) · PTBD = percutaneous transhepatic biliary drainage.
+**Stent terms:** plastic stent (PS) · multiple plastic stents (MPS) placed in parallel · self-expanding metal stent (SEMS): uncovered (uSEMS), fully covered (fcSEMS), covered (cSEMS) · percutaneous transhepatic biliary drainage (PTBD).
 
 ---
 
 ## Differential Diagnosis
 
-### Malignant — Primary
+| Category | Etiologies ([[acg-2023-biliary-strictures]] Table 4) |
+|---|---|
+| Malignant, primary | [[pancreatic-cancer\|Pancreatic cancer]], [[cholangiocarcinoma]] (desmoplastic, notoriously hard to diagnose by intraductal sampling), [[gallbladder-cancer\|gallbladder cancer]], [[hepatocellular-carcinoma\|hepatocellular carcinoma]], ampullary cancer, lymphoma; rare: cystadenocarcinoma, mixed hepatocellular-cholangiocellular cancer |
+| Malignant, metastatic | [[colorectal-cancer\|Colon cancer]], breast cancer, renal cell cancer; rare: squamous cell carcinoma |
+| Fibroinflammatory | [[chronic-pancreatitis\|Chronic pancreatitis]], [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], [[autoimmune-pancreatitis\|autoimmune (immunoglobulin G4 [IgG4]–mediated) pancreatitis]], [[igg4-related-cholangitis\|IgG4-mediated cholangitis]], sarcoidosis, recurrent pyogenic cholangitis, extrinsic compression by a pancreatic fluid collection |
+| Iatrogenic | Cholecystectomy ([[bile-duct-injury]]), [[liver-transplantation\|liver transplantation]], local cancer treatment (chemoembolization, radiation, microwave ablation, [[radiofrequency-ablation\|radiofrequency ablation (RFA)]]) |
+| Vascular | [[portal-hypertension\|Portal hypertensive]] biliopathy, ischemic biliary injury |
+| Other | Acquired immunodeficiency syndrome (AIDS) cholangiopathy, Mirizzi syndrome |
 
-| Entity | Location | Notes |
-|---|---|---|
-| [[pancreatic-cancer\|Pancreatic adenocarcinoma]] | Extrahepatic | Most common cause of malignant extrahepatic stricture |
-| Cholangiocarcinoma | Perihilar or extrahepatic | Desmoplastic; notoriously difficult to diagnose |
-| [[gallbladder-cancer\|Gallbladder cancer]] | Perihilar/extrahepatic | Often advanced at presentation |
-| Ampullary cancer | Extrahepatic | Favorable prognosis with resection |
-| [[hepatocellular-carcinoma\|Hepatocellular carcinoma]] | Varies | Rare cause of biliary obstruction |
-| Lymphoma | Varies | Extrinsic or infiltrative |
-
-### Malignant — Metastatic
-
-- [[colorectal-cancer|Colorectal cancer]], breast cancer, renal cell carcinoma (extrinsic compression or infiltration)
-
-### Benign — Fibroinflammatory
-
-- [[chronic-pancreatitis]]-related (most common benign extrahepatic stricture in Western countries)
-- [[igg4-related-cholangitis|Immunoglobulin G4 (IgG4)-mediated cholangitis]] or [[autoimmune-pancreatitis|autoimmune pancreatitis]] (IgG4-related disease)
-- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis (PSC)]] (see separate American College of Gastroenterology [ACG] PSC guideline — not covered here)
-- Sarcoidosis
-- Recurrent pyogenic cholangitis
-- Extrinsic compression by pancreatic fluid collection (pseudocyst)
-
-### Benign — Iatrogenic
-
-- Post-cholecystectomy biliary injury (most common cause of benign extrahepatic stricture overall)
-- [[liver-transplantation|Post–liver transplant]] biliary stricture — **anastomotic** (duct-to-duct, near the anastomosis; most common) or **non-anastomotic** (ischemic cholangiopathy; diffuse intra/extrahepatic). See post-LT drainage section below
-- Post-ablative therapy (chemoembolization, radiation, [[radiofrequency-ablation|radiofrequency ablation (RFA)]], microwave)
-
-### Benign — Vascular/Other
-
-- [[portal-hypertension|Portal hypertensive]] biliopathy (cholangiopathy)
-- Ischemic biliary injury
-- Acquired immunodeficiency syndrome (AIDS) cholangiopathy
-- Mirizzi syndrome (external compression by cystic duct/gallbladder stone)
-
-**Clinical bottom line:** Biliary strictures in adults are more likely to be **malignant than benign** whenever the etiology is not readily apparent. Malignancy confirmed in 73–87% of referred patients in published endoscopic series.
+- Malignancy is the most common etiology ([[acg-2023-biliary-strictures]]) — see [[#Red Flags / Alarm Features]]
 
 ---
 
 ## Diagnostic Algorithm
 
-### Step 1: Initial Clinical Assessment
+- **Noninvasive tests cannot confirm or exclude malignancy:** computed tomography (CT), magnetic resonance imaging (MRI) and [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] morphology alone have 60%–80% accuracy; carbohydrate antigen (CA) 19-9 and carcinoembryonic antigen (CEA) are less accurate still → **tissue diagnosis** is needed in most strictures that are not resectable at presentation ([[acg-2023-biliary-strictures]])
+- **Endoscopic sampling over percutaneous** (external drain, needle-track seeding) or surgical sampling ([[asge-2023-indeterminate-biliary-strictures]])
+- Sampling route depends on whether imaging shows a pancreatic mass, and on stricture location
 
-- History: painless [[jaundice]], weight loss, prior biliary surgery, known pancreatic disease, alcohol use (→ [[acute-pancreatitis]]/chronic pancreatitis)
-- Labs: [[abnormal-liver-chemistries|liver function tests (LFTs)]] (cholestatic pattern), bilirubin, CA 19-9, carcinoembryonic antigen (CEA), IgG4 level
-  - CA 19-9 and CEA are unreliable: sensitivity/specificity inadequate to confirm or exclude malignancy; CA 19-9 can be markedly elevated in jaundice alone
-  - IgG4 elevation suggests IgG4-related disease but is not diagnostic alone
-- Cross-sectional imaging: computed tomography (CT) with contrast or magnetic resonance cholangiopancreatography (MRCP) as the first step in most patients
+### Pancreatic Mass Present
 
-### Step 2: Cross-Sectional Imaging (CT / MRCP)
+Extrahepatic stricture from an apparent or suspected pancreatic mass ([[acg-2023-biliary-strictures]]):
 
-- CT/magnetic resonance imaging (MRI) accuracy for malignant vs benign: ~60–80% — insufficient to drive oncological decisions
-- MRCP preferred for delineating biliary anatomy, especially perihilar strictures, before intervention
-- **Preprocedural imaging is mandatory before [[ercp|ERCP]] for perihilar strictures** — review to plan drainage target, identify atrophic segments, and anticipate anatomy
+| Statement | Recommendation | Grade |
+|---|---|---|
+| ACG Rec 1 | **EUS with fine-needle aspiration or biopsy (FNA/FNB) over ERCP-based sampling** | Strong, moderate |
+| ACG Rec 2 | **EUS-FNB, or EUS-FNA plus rapid on-site evaluation (ROSE), over FNA without ROSE** | Conditional, very low |
+| ACG Key Concept 2 | Asymptomatic or minimally symptomatic → **single-session EUS + ERCP** (diagnosis and drainage) over ERCP alone — refer to a centre that does both rather than brush + PS first | Key concept (ungraded) |
 
-### Step 3: Tissue Diagnosis — Approach by Location
+- FNB also gives better material for genomic profiling (including microsatellite instability testing)
+- During combined EUS + ERCP, **add [[brush-cytology|brush cytology]]** when FNA/FNB is nondiagnostic or ROSE is unavailable — the combination has the highest yield
 
-#### Extrahepatic Stricture WITH Apparent or Suspected Pancreatic Mass
+### No Mass or Perihilar Stricture
 
-1. **Endoscopic ultrasound–guided fine-needle aspiration/biopsy (EUS-FNA/B) is preferred over ERCP-based sampling** (Strong, Moderate evidence)
-   - EUS sensitivity: 75–100%; ERCP-based sampling sensitivity: 38–55%
-   - The American Society for Gastrointestinal Endoscopy (ASGE) ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding [[endoscopic-ultrasound|EUS]] to ERCP for **distal** strictures, when prior ERCP was nondiagnostic, or when there is lymphadenopathy/metastatic disease on imaging. EUS + ERCP combined sensitivity ~0.88 vs ~0.61 for ERCP alone; EUS has a lower adverse-event rate, and is especially superior for distal strictures (.82, 95% CI .76–.87, vs .62, .55–.69) and pancreatic masses (.82, .62–1.02, vs .46, .40–.51 — the upper bound genuinely crosses 1.0 in the source)
-   - Prefer **EUS-FNB** (core needle — fork-tip or Franseen geometry) or **EUS-FNA + rapid on-site evaluation (ROSE)** over FNA alone (Conditional, Very Low evidence)
-   - FNB enables genomic profiling and microsatellite instability testing
-2. In minimally symptomatic patients, arrange **single-session EUS + ERCP** at a capable center rather than ERCP alone with plastic stent as a temporizing measure
-3. Add ERCP [[brush-cytology|brush cytology]] if EUS-FNA/B is non-diagnostic or ROSE is unavailable — combination has highest yield
+- **ACG Rec 3:** suspected malignant perihilar stricture → **multimodality sampling over brush cytology alone at the index ERCP** (strong, low). Same approach for an extrahepatic stricture without a mass ([[acg-2023-biliary-strictures]])
+  - **At least 2 modalities**; a rationale exists for 3–4 if they can be done safely
+  - Options: brush cytology, fluoroscopy-directed forceps biopsy, [[cholangioscopy]]-directed biopsy, [[fish|fluorescence in situ hybridization (FISH)]]
+- **ASGE 2023** — biliary strictures of undetermined etiology undergoing ERCP ([[asge-2023-indeterminate-biliary-strictures]]; all conditional, very low):
 
-#### Extrahepatic Stricture WITHOUT Associated Mass / Perihilar Stricture
+| Rec | Add | When |
+|---|---|---|
+| 1 | **Fluoroscopic-guided biopsy** to brush cytology (over brush cytology alone) | Any undetermined stricture; at tertiary centres or with endoscopic expertise (harder, slower; both severe adverse events — bleeding, perforation — were in the biopsy group) |
+| 2 | **Cholangioscopic-guided biopsy** | (a) Nondistal stricture with a high probability of adequate drainage of the critical liver segment, or (b) previous nondiagnostic ERCP without cholangioscopy, and (c) centre with expertise and easy access to the equipment. Otherwise ERCP with or without cholangioscopy |
+| 3 | **EUS** in addition to ERCP | Any of: (a) prior nondiagnostic ERCP, (b) distal stricture, (c) lymphadenopathy or metastatic disease on cross-sectional imaging |
 
-1. **ERCP with multimodality intraductal sampling** at the index procedure (Strong, Low evidence):
-   - Use **at least 2 modalities**; rationale supports 3–4 if feasible:
-     - [[brush-cytology|Brush cytology]] (baseline, always included). Per [[asge-2023-indeterminate-biliary-strictures]] sensitivity alone is only ~0.40 (miss rate ~58%)
-     - **Fluoroscopy-directed forceps biopsy** — the ASGE ([[asge-2023-indeterminate-biliary-strictures]]) suggests adding fluoroscopic-guided biopsy to brush cytology over brush cytology alone (conditional, very low quality): biopsy alone sensitivity ~0.52, combined with brushings ~0.66 (incremental yield ~20%). Best performed at tertiary/expert centers — more technically demanding, more time-consuming, and 2 severe adverse events (prolonged bleeding, perforation) occurred in the biopsy group — total adverse events were only 2 vs 5 out of >500 patients per arm
-     - [[cholangioscopy|Cholangioscopy]]-directed biopsy — the ASGE suggests cholangioscopic biopsy for **nondistal** strictures (with adequate critical-segment drainage), after a prior nondiagnostic ERCP without [[cholangioscopy]], and at centers with expertise/access. Adding cholangioscopy raises sensitivity to ~0.72 vs ~0.61 (incremental yield ~27–41%); suboptimal for very distal common bile duct (CBD) strictures
-     - [[fish|Fluorescence in situ hybridization (FISH)]] (improves sensitivity from ~20% to ~43%; attenuated in PSC, though the ASGE notes FISH plays a relatively higher role in [[primary-sclerosing-cholangitis|PSC]])
-2. For suspected perihilar **cholangiocarcinoma** (Key Concept):
-   - **Do NOT perform EUS-FNA/B or percutaneous biopsy of the primary lesion** — risk of transperitoneal seeding may preclude [[liver-transplantation|liver transplantation]] (transplant is the only potentially curative option for many perihilar cholangiocarcinoma (CCA) patients)
-   - EUS-FNA/B of **regional lymph nodes** is appropriate — a positive node is itself a transplant contraindication, so no additional risk to transplant eligibility
-   - EUS-directed primary lesion sampling is permissible in patients who are not transplant candidates
-   - Concordant with [[asge-2023-indeterminate-biliary-strictures]]: if EUS is performed for a proximal/hilar stricture, the endosonographer should **not** FNA/FNB the biliary mass itself (needle-track seeding risk)
+- Cholangioscopy is less accurate in the **very distal** bile duct (scope instability, hard to pass mini-forceps)
 
-#### Indeterminate Stricture (Negative After ERCP + Multimodality Sampling)
+> [!pitfall] Never needle the primary in suspected perihilar cholangiocarcinoma
+> EUS-FNA/FNB or percutaneous biopsy of the perihilar lesion risks peritoneal seeding, and most transplant protocols then exclude the patient. Sample intraductally; EUS-FNA/FNB only for regional nodes (a positive node already contraindicates transplant). Direct sampling is acceptable if not a transplant candidate ([[acg-2023-biliary-strictures]] Key Concept 3; [[asge-2023-indeterminate-biliary-strictures]]).
 
-If a diagnosis remains elusive after index ERCP:
+### Indeterminate Stricture
 
-- Consider **next-generation sequencing (NGS)** of biliary specimens — improves sensitivity to 77% (brushings) and 83% (biopsies) in prospective data; not yet widely available
-- **Repeat ERCP adding [[cholangioscopy]] and/or [[endoscopic-ultrasound|EUS]]** — per [[asge-2023-indeterminate-biliary-strictures]], a prior nondiagnostic ERCP without cholangioscopy is itself an indication to add cholangioscopic biopsy (nondistal strictures) or EUS (distal strictures, or when nodal/metastatic disease is seen)
-- **Probe-based [[confocal-laser-endomicroscopy|confocal laser endomicroscopy (pCLE)]]** — pooled **sensitivity 90% (95% confidence interval [CI] 86–94)** but **specificity only 72% (65–79)**, so its value is the **negative predictive value (NPV) ~94%** (ruling malignancy *out*), not ruling it in; limited to select referral centers; not yet an accepted stand-alone oncological standard. *Miami (malignant) and Paris (benign inflammatory) criteria are on [[confocal-laser-endomicroscopy]].* ([[asge-2023-indeterminate-biliary-strictures]])
-- **[[intraductal-ultrasound|Intraductal ultrasound (IDUS)]]** — cannot acquire tissue, so its role is **localizing the malignant-appearing segment for targeted biopsy**; none of the biliary-stricture guidelines makes a recommendation on it. *Malignant criteria, accuracy figures, the availability dispute and the ampullary-tumor recommendation live on [[intraductal-ultrasound]].*
-- **Multidisciplinary tumor board review** — advisable at any point; essential after 2 negative sampling sessions with persistent malignancy concern
-- **Surgical consultation** if suspicion remains high despite negative tissue — resection may be appropriate in select patients with clinical features strongly suggestive of malignancy
+Etiology still uncertain after ERCP with multimodality intraductal sampling → add options by clinical context, stricture features and availability ([[acg-2023-biliary-strictures]] Key Concept 4):
+
+- **EUS-FNA/FNB** — extrahepatic indeterminate strictures can be sampled directly (needle track lies within the resection field); perihilar primary only if not a transplant candidate
+- **Next-generation sequencing (NGS)** of brushings/biopsies — evolving, not widely available
+- **[[confocal-laser-endomicroscopy|Probe-based confocal laser endomicroscopy (pCLE)]]** — adjunct at select referral centres; not a basis for oncologic decisions
+- **[[intraductal-ultrasound|Intraductal ultrasound (IDUS)]]** — no tissue; may help target biopsy of the malignant-appearing segment. ASGE makes no recommendation on IDUS or pCLE
+- **Multidisciplinary tumor board and/or surgical consultation** — any time; especially after **2 negative sampling sessions** with persisting concern
 
 ---
 
 ## Key Tests
 
-| Test | Role | Sensitivity | Notes |
+Sensitivity for malignancy unless stated. ASGE figures are pooled within each of its own meta-analyses — compare within a cell, not across sources.
+
+| Test | ACG 2023 | ASGE 2023 (pooled) | Notes |
 |---|---|---|---|
-| MRCP | Initial biliary anatomy | — | Preferred noninvasive imaging; mandatory before perihilar ERCP |
-| CT with contrast | Staging, mass detection | 60–80% for malignancy | Adequate for extrahepatic lesions; MRCP better for perihilar |
-| CA 19-9 | Adjunct only | Inadequate alone | Elevated in cholestasis/cholangitis independent of malignancy |
-| IgG4 serology | IgG4-related disease | Adjunct only | Not diagnostic in isolation |
-| EUS-FNA/B | Extrahepatic stricture ± mass | 75–100% | Preferred over ERCP sampling when pancreatic mass present |
-| ERCP brush cytology | First-line intraductal sampling | 41.6% (2013 meta-analysis); later studies ~50%–60% | Always include; inadequate alone for perihilar |
-| ERCP forceps biopsy | Intraductal sampling | 40–88% | Adds yield in combination with cytology |
-| Cholangioscopy biopsy | Indeterminate / perihilar | 60–75% | Higher yield than brushings or forceps; requires single-operator scope |
-| FISH | Adjunct to cytology | 42.9% with FISH added vs 20.1% cytology alone | Polysomy on FISH is the abnormality associated with carcinoma; attenuated in PSC |
-| NGS panel (biliary) | Indeterminate stricture | Sensitivity 77–83% | Evolving; not widely available |
-| pCLE | Indeterminate stricture | ~90% (combined) | Select centers; not a stand-alone oncological standard |
+| EUS-FNA | 75% vs ERCP 49% | EUS alone 0.74 vs ERCP alone 0.7 (not significant) | EUS wins for **distal strictures** (0.82 vs 0.62) and **pancreatic masses** (0.82 vs 0.46); fewer adverse events than ERCP |
+| EUS + ERCP combined | — | **0.88** vs ERCP alone 0.61 | Same session where possible |
+| Brush cytology | 41.6% (2013 meta-analysis); later studies ~50%–60% | 0.40 (miss rate 58%) | Never sufficient alone |
+| Fluoroscopic forceps biopsy | 40%–88%; 59% combined with brushing (meta-analysis) | 0.52 alone; **0.66** with brushing (incremental yield 20%) | — |
+| Cholangioscopy-directed biopsy | 60%–75% after negative prior sampling | ERCP with cholangioscopy 0.72 vs without 0.61 (incremental yield 27%) | Poor in the very distal duct |
+| FISH | 42.9% with FISH vs 20.1% cytology alone | — | Polysomy = the abnormality associated with carcinoma; attenuated in PSC |
+| NGS (28-gene panel) | Brushings 35% → 77%; biopsies 52% → 83% | — | Evolving |
+| pCLE | ~90% (with cholangiogram + histology combined) | Sensitivity 90%, specificity 72%; negative predictive value 94% | Best at ruling out malignancy |
+| IDUS | Accuracy up to 92% | — | No tissue |
+
+> [!pitfall] A high CA 19-9 does not prove cancer
+> CA 19-9 can be markedly elevated by jaundice, and cholangitis or hepatic abscesses can mimic metastases — confirm malignancy with tissue before committing to an uncovered metal stent ([[acg-2023-biliary-strictures]] Key Concept 7).
 
 ---
 
 ## Red Flags / Alarm Features
 
-The following features increase pre-test probability of malignancy and should prompt expedited evaluation:
-
-- **Painless progressive jaundice** in the absence of an obvious benign explanation
-- **Weight loss, anorexia, or malaise** accompanying obstructive jaundice
-- **New-onset biliary stricture in an older adult** without prior biliary surgery or established benign etiology
-- **Radiographic mass** associated with the stricture
-- **Rapidly progressive stricture** on serial imaging
-- **Elevated CA 19-9** (note: non-specific, but very high levels increase malignancy suspicion)
-- **Bismuth IV perihilar stricture** without an obvious benign cause
-- **No improvement** in cholestasis or symptoms despite apparent adequate drainage (may suggest malignant infiltration)
-- **Brush cytology or FISH positive** — treat as malignant until proven otherwise
+- **No readily apparent benign cause** (no postoperative stricture, Mirizzi syndrome or compressing pseudocyst) → presume malignant; cancer in 73%–87% of referred patients in endoscopic series ([[acg-2023-biliary-strictures]] Key Concept 1)
+- **No mass on imaging does not reassure** — malignancy risk still ~55% ([[asge-2023-indeterminate-biliary-strictures]])
+- **Painless [[jaundice]] with anorexia, dyspepsia, malaise or weight loss** — the usual presentation of a pancreatic mass causing an extrahepatic stricture
+- **Pancreatic mass, lymphadenopathy or metastases on imaging** → EUS-based sampling (see [[#Diagnostic Algorithm]])
+- **Acute [[acute-cholangitis|cholangitis]] or significant symptoms** → expedient ERCP rather than waiting for single-session EUS + ERCP
 
 ---
 
 ## Drainage Approach
 
-### Extrahepatic Stricture
+- Goals: relieve symptoms, lower bilirubin enough for chemotherapy, optimize surgical outcomes ([[acg-2023-biliary-strictures]])
 
-#### Benign
+### Benign Extrahepatic Stricture
 
-- ERCP is the preferred modality. Confirm malignancy is excluded before committing to any stent strategy
-- **Start endotherapy** when liver chemistries stay elevated for **>1 month** and/or there is [[acute-cholangitis|cholangitis]] ([[esge-2026-biliary-strictures]])
-- Single plastic stent alone: inadequate for most stricture types — not recommended
+- **ERCP** is the preferred modality for durable treatment; a **single PS** gives inadequate long-term resolution for most strictures — not recommended ([[acg-2023-biliary-strictures]])
+- When to start: [[abnormal-liver-chemistries|liver tests]] persistently raised **>1 month** and/or cholangitis ([[esge-2026-biliary-strictures]], ungraded)
+- **ACG Rec 4:** **fcSEMS over MPS** in parallel, to reduce the number of procedures (conditional, low)
+  - Equal resolution (80%–90%), recurrence (15%–20%) and serious adverse events (15%–20%); fewer ERCPs with fcSEMS
+  - **Off-label:** only one fcSEMS is US-approved for benign strictures, and only for chronic pancreatitis
+- **MPS still preferred** ([[acg-2023-biliary-strictures]]) when:
+  - Stricture within **1–1.5 cm of the hilum**
+  - **Gallbladder in situ and the cystic duct orifice cannot be avoided** (Key Concept 6) — in a chronic pancreatitis fcSEMS cohort with intact gallbladders, cholecystitis 7.0% (3/43) with the cystic takeoff covered vs 0/58 when avoided
+  - fcSEMS previously migrated or not tolerated (pain from radial force)
+  - Recurrence after fcSEMS removal
 
-**Stent choice is etiology-specific** ([[esge-2026-biliary-strictures]], all conditional recommendations):
-
-| Etiology | Stent | Qualifier |
+| | MPS | fcSEMS |
 |---|---|---|
-| Post-cholecystectomy | **MPS** | fcSEMS only if the stricture is **>2 cm distal to the main hepatic confluence**, or the patient will not return for repeated ERCPs (very low evidence) |
-| Post–liver transplant, anastomotic | **MPS *or* fcSEMS** | fcSEMS only when **>2 cm distal to the confluence** (low evidence) |
-| Post–liver transplant, non-anastomotic | **MPS + balloon dilation** if needed | Only where endoscopically amenable (very low evidence) |
-| [[chronic-pancreatitis]] | **fcSEMS, 6–12 months** | Low evidence; position to avoid occluding the cystic duct |
-| [[primary-sclerosing-cholangitis\|PSC]], high grade stricture | **Balloon dilation alone — no stent** | Stenting adds no benefit and raises adverse events (AEs), mainly cholangitis (low evidence). Details on [[primary-sclerosing-cholangitis]] |
+| Duration (ACG Key Concept 5) | **12 months** | **≥6 months**; 12 months may be better — if so, consider exchange at 6 months (embedment risk) |
+| Technique | ERCP ~every 3 months, upsizing to the maximum number of 10-French stents across the stricture (Rome protocol) | Biliary sphincterotomy may be advisable (post-ERCP pancreatitis seen without it) |
+| Diameter | — | 8–10 mm ([[esge-2026-biliary-strictures]]) |
 
-> [!pitfall] Different guidelines, different default for a post-cholecystectomy stricture
-> ACG 2023 prefers an fcSEMS over MPS for benign extrahepatic strictures generally; ESGE 2026 puts **MPS first** after cholecystectomy, because nearly half of these strictures involve the confluence and MPS recurrence stays at 9.4% after a mean 11 years ([[acg-2023-biliary-strictures]], [[esge-2026-biliary-strictures]]).
+- **End point:** a fixed treatment period plus no mechanically relevant stenosis at stent removal. Cholangiographic resolution = residual stricture diameter **no less than 75%** of the duct above and below ([[acg-2023-biliary-strictures]])
+- Keep a **stent registry** and recall patients for removal/exchange — forgotten stents can be very hard to remove ([[esge-2026-biliary-strictures]])
 
-**Generic stenting parameters** ([[esge-2026-biliary-strictures]]):
+**By etiology** — ACG Rec 4 is written for all benign extrahepatic strictures; the non-US ESGE 2026 guideline splits it by cause:
 
-- **MPS:** maximum number of stents the duct accepts, exchanged every **3–4 months**, total **12 months**. Sphincterotomy is required to run the protocol
-- **fcSEMS:** **8–10 mm** diameter, indwell **6–12 months**. No trial compares a 6-month with a 10–12-month dwell
-- MPS technique detail: exchange/upsize to the maximum number of **10-French** stents the stricture accepts (Rome protocol; 89% long-term response at 4 years) ([[acg-2023-biliary-strictures]])
-- **When is the stricture "resolved"?** Cholangiographic resolution = **residual stricture diameter no less than 75% of the duct above and below**. Other proposed endpoints: complete disappearance of the stricture, and/or the ability to pass an extraction balloon across it with minimal-to-no resistance (especially in the upstream direction) ([[acg-2023-biliary-strictures]])
-- Favor MPS over fcSEMS when the stricture is **within 1–1.5 cm of the hepatic hilum**, when the cystic duct orifice cannot be avoided, when fcSEMS has previously migrated or was not tolerated, or after recurrence following fcSEMS removal
-- fcSEMS caution: if gallbladder in situ and cystic duct orifice cannot be avoided, favor MPS (fcSEMS covering cystic takeoff → ~7% [[acute-cholecystitis|cholecystitis]])
-- **Keep a stent registry and recall patients for removal/exchange** — forgotten stents can be extremely difficult to remove, and scheduled exchange reduces septic complications ([[esge-2026-biliary-strictures]])
+| Etiology | US guideline (governs) | ESGE 2026 |
+|---|---|---|
+| Postcholecystectomy | ACG Rec 4 (fcSEMS); ACG notes no randomized trials here and that PS may be preferable given proximity to the hilum | **Differs:** MPS first; fcSEMS only if >2 cm distal to the main hepatic confluence or the patient cannot return for repeat ERCPs (conditional, very low) |
+| Chronic pancreatitis | ACG Rec 4 (fcSEMS) | Concordant: fcSEMS 6–12 months |
+| Post–liver transplant, anastomotic | ASGE 2023 Rec 2 (cSEMS) — see [[#Post–Liver Transplant Biliary Stricture]] | Differs: MPS or fcSEMS |
+| Post–liver transplant, nonanastomotic | No US recommendation | MPS with balloon dilation if needed, when endoscopically amenable (conditional, very low) |
+| PSC, high-grade stricture | Outside ACG 2023 scope → [[primary-sclerosing-cholangitis]] | Balloon dilation alone, no stent (conditional, low) |
 
-#### Malignant — Resectable
+### Malignant Extrahepatic Stricture
 
-- **Routine preoperative drainage is avoidable when upfront surgery is planned within 1–2 weeks** (Conditional, Low evidence — [[esge-2026-biliary-strictures]])
-- Drainage warranted for: **[[acute-cholangitis|acute cholangitis]]** (grade it first — Tokyo Guidelines 2018 [TG18] I/II/III sets drainage timing), **severe symptomatic jaundice** (e.g. intense pruritus), **surgery delayed beyond 2 weeks**, **before neoadjuvant chemotherapy in a jaundiced patient**, or **serum bilirubin >14.6 mg/dL**
-  - *Where 14.6 comes from:* it is **not** a physiologic cutoff — it is the **exclusion threshold of the pivotal randomized controlled trial (RCT)** that showed harm from routine preoperative drainage. Patients above it were never studied, so the "avoid drainage" recommendation simply does not apply to them ([[acg-2023-biliary-strictures]]). ESGE quotes the same trial's threshold as 250 µmol/L (14 mg/dL) and prints no bilirubin cutoff of its own.
-- **If drainage is performed, place a 10-mm diameter SEMS** — preoperatively (Strong, Moderate) and for neoadjuvant drainage of **pathologically confirmed** malignancy (Strong, Moderate) ([[esge-2026-biliary-strictures]]). SEMS gives longer patency and fewer reinterventions than plastic, at the cost of more post-ERCP AEs (post-ERCP pancreatitis [PEP] 10.7% vs 4.7%)
-- A **6-cm** stent may be preferable to a 4-cm one: 4-cm length predicted the need for reintervention in a neoadjuvant RCT
+**Resectable** — pancreatic cancer or cholangiocarcinoma:
 
-#### Malignant — Unresectable or Borderline Resectable
+- **ACG Rec 5:** **against routine preoperative biliary drainage** (conditional, low). Drain if any of ([[acg-2023-biliary-strictures]]):
+  - Acute cholangitis
+  - Severe pruritus
+  - Serum bilirubin **>14.6 mg/dL**
+  - Neoadjuvant therapy planned
+  - Other anticipated delay to surgery (typically **>2 weeks**)
+- If drained: **SEMS over PS** — ACG Rec 6 extends to resectable disease before neoadjuvant therapy. ESGE 2026 adds a **10-mm diameter** SEMS for preoperative drainage and for neoadjuvant drainage of pathologically confirmed malignancy (strong, moderate)
 
-- **Endoscopic drainage over surgical or percutaneous** for primary decompression of inoperable extrahepatic malignant obstruction (Strong, Moderate — [[esge-2026-biliary-strictures]])
-- **SEMS over plastic stent** (Strong, Moderate evidence — ACG 2023; Strong, **High** evidence for confirmed-etiology obstruction, [[esge-2026-biliary-strictures]]) — longer patency, fewer cholangitis events, fewer chemotherapy interruptions, better quality of life (QOL)
-- **ERCP remains first choice for primary drainage** of distal malignant obstruction; [[eus-guided-biliary-drainage|EUS-BD]] is an acceptable alternative only **in expert centers, in selected patients, when the CBD is ≥12 mm** (Conditional, Low — [[esge-2026-biliary-strictures]])
-- A **coaxial double-pigtail stent placed through an fcSEMS** cut migration from 40% to 15% and extended patency from 173 to 237 days in an RCT
-- **Drainage target:** reduce serum bilirubin to a level at which chemotherapy can be safely given — typically **~2.5–3.5 mg/dL**. (In perihilar disease, a meaningful response has been defined as bilirubin ≤2 mg/dL or a 50% fall from the pre-ERCP value; QOL gains are lost if bilirubin stays ≥14 mg/dL)
-- uSEMS vs fcSEMS: **insufficient evidence** to prefer one; roughly equivalent patency. Favor uSEMS if cystic duct takeoff cannot be avoided
-- **Do not place a uSEMS for extrahepatic obstruction of unconfirmed etiology** (Conditional, Low — [[esge-2026-biliary-strictures]]) — **5%–10% of patients resected for presumed pancreatic cancer turn out to have benign disease**, and a uSEMS becomes permanently embedded, so misplacement in benign disease causes lifelong complications
-- If patient is a potential pancreaticoduodenectomy candidate and uSEMS is placed: position proximal end **≥1.5 cm below the biliary confluence**
-- **Blocked SEMS:** for distal malignant obstruction, a uSEMS and a covered SEMS placed inside the original SEMS appear **equally effective** for patency (one RCT plus a retrospective series); for proximal obstruction the data conflict between plastic and metal inside the original SEMS, and ESGE 2026 makes no recommendation — ESGE 2017 had advised replacing a plastic stent with a SEMS and inserting a plastic stent or a new SEMS inside a blocked SEMS ([[esge-2026-biliary-strictures]])
+> [!pearl] 14.6 mg/dL is a trial exclusion, not physiology
+> The pivotal randomized trial showing harm from routine preoperative drainage (serious adverse events 74% vs 39% with early surgery; plastic stents) excluded patients with bilirubin above 14.6 mg/dL — so its conclusion does not apply to them ([[acg-2023-biliary-strictures]]).
+
+**Unresectable or borderline resectable:**
+
+- **Endoscopic over surgical or percutaneous drainage** for primary decompression of inoperable disease ([[esge-2026-biliary-strictures]], strong, moderate)
+- **ACG Rec 6:** **SEMS over PS** (strong, moderate) — longer patency, less cholangitis, fewer chemotherapy interruptions, better quality of life
+- Target: bilirubin low enough for chemotherapy, typically **~2.5–3.5 mg/dL** ([[acg-2023-biliary-strictures]])
+- **ACG Key Concept 7:** **confirm malignancy before placing a uSEMS** — it embeds permanently; in benign disease that means recurrent occlusion, cholangitis, secondary biliary cirrhosis, and difficult or impossible removal
+- **ACG Key Concept 8:** potential pancreaticoduodenectomy candidate receiving a uSEMS → proximal end **≥1.5 cm below the biliary confluence** (leaves duct for the anastomosis)
+- **ACG Rec 7:** insufficient evidence for **uSEMS vs fcSEMS** — similar patency; fcSEMS trades less ingrowth for more overgrowth, sludge and migration. Favor uSEMS if the cystic duct takeoff cannot be avoided (cholecystitis after SEMS 5%–10%)
+  - ESGE 2026 differs: favors **partially covered SEMS** for palliative distal drainage (body text, conditional, low)
+- Primary EUS-guided drainage instead of ERCP: [[eus-guided-biliary-drainage]]
 
 ### Perihilar Stricture
 
-#### Drainage Goals
+**Whether to drain**
+- Malignant perihilar stricture, asymptomatic, declined or ineligible for further treatment → palliative drainage **not mandatory**; decide case by case after discussing benefits and risks ([[acg-2023-biliary-strictures]] Key Concept 9)
+- Preoperative: ESGE 2026 advises **against routine preoperative drainage** in malignant hilar obstruction — indication and route set by a multidisciplinary team (conditional, low); drainage indications include severe jaundice, cholangitis, or a predicted future liver remnant **≤30%** ([[esge-2026-biliary-strictures]])
 
-- Goal is to drain **>50%, and ideally ≥70%, of the viable nonatrophic liver volume** for proven malignant **Bismuth II–IV** strictures — a **volumetric sectorial approach**, not simply unilateral vs bilateral (Conditional, Low — [[esge-2026-biliary-strictures]]; ACG 2023 set the target at >50%)
-- **Multimodal:** use [[eus-guided-biliary-drainage|EUS-BD]] and/or PTBD as complements to ERCP to reach the target
-- **How to compute it:** segments drained ÷ nonatrophic, nonresected segments present. Plan from MRCP (or three-dimensional CT volumetry), noting whether tumor infiltration separates the sectors
-- Sectors to identify on preprocedural imaging: right anterior (segments V, VIII), right posterior (segments VI, VII), and left (segments II, III) — note for each whether tumor infiltration separates it ([[esge-2026-biliary-strictures]]). Each sector contributes roughly one-third (~30%) of hepatic volume ([[acg-2023-biliary-strictures]])
-- Avoid opacifying or stenting atrophic segments — no functional benefit and increases cholangitis risk
-- Administer **[[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]]** when incomplete or slow drainage of contrast is anticipated
-- **Drain in a high-volume center with a hepatobiliary multidisciplinary team (MDT)** (Strong, Moderate — [[esge-2026-biliary-strictures]])
+**Who and how** ([[acg-2023-biliary-strictures]] Key Concept 10)
+- Advanced biliary endoscopy — only endoscopists with sufficient training/experience. ESGE 2026: drain in **high-volume centres with a hepatobiliary multidisciplinary team** (strong, moderate)
+- Review CT or MRI/[[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]] **before** ERCP; plan to:
+  - Drain **≥2 sectors**, including the likely future liver remnant in a resection candidate
+  - Avoid opacifying areas unlikely to be stented, and **atrophic** sectors (no benefit, cholangitis risk)
+  - Drain every substantive ductal system that received contrast
+- Careful contrast and fluoroscopy use; **[[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]]** when drainage of contrast is slow or incomplete
 
-#### ERCP vs PTBD
+**How much: volumetric sectorial drainage** ([[acg-2023-biliary-strictures]] Key Concept 11)
+- Goal: drain **>50% of the nonatrophic liver** — think in sectors, not unilateral vs bilateral
+- >50% needs **at least 2 nonatrophic sectors** (one stent across both right sectors, 2 stents in one lobe, or bilateral stents)
+- ESGE 2026 sets a higher bar: >50%, **ideally ≥70%**, of viable nonatrophic volume for proven malignant Bismuth II–IV strictures (conditional, low)
 
-- **Preoperative: ERCP over PTBD** (Strong, Moderate — [[esge-2026-biliary-strictures]]). The RCT in potentially resectable perihilar cholangiocarcinoma was **stopped early for higher mortality with PTBD (41% vs 11%)**; PTBD also carries more implantation metastases
-- **Palliative:** ERCP for **Bismuth I–II**; for **Bismuth III–IV**, ERCP or ERCP + EUS-BD is preferable to **primary** PTBD, with complementary PTBD where needed (Conditional, Very low). This reverses the 2018 ESGE position, which named PTBD first for Bismuth III–IV
-- **Against routine preoperative drainage** in malignant hilar obstruction — indication and route decided by the MDT (Conditional, Low). Drain for severe jaundice, cholangitis, or a predicted **future liver remnant ≤30%**
-- ACG 2023 found **insufficient evidence** to prefer either modality and advised individualizing ([[acg-2023-biliary-strictures]]); ESGE 2026 is newer and takes the page
-- Perihilar ERCP is an **advanced biliary endoscopy skill** — should only be performed by endoscopists with appropriate experience
+| Sector | Segments | Share of liver volume |
+|---|---|---|
+| Right anteromedial | V, VIII | ~30% |
+| Right posterolateral | VI, VII | ~30% |
+| Left | II, III | ~30% |
+| — | I, IV | ~10% combined |
 
-#### Stent Type for Malignant Perihilar Stricture
+**Route: ERCP vs PTBD**
+- **ACG Rec 8:** insufficient evidence to recommend ERCP vs PTBD, preoperative or palliative — individualize to local practice and patient preference (randomized controlled trials [RCTs] total 108 patients; observational data conflict)
+- ESGE 2026 differs: **ERCP over PTBD preoperatively** (strong, moderate), citing the resectable-cholangiocarcinoma trial stopped early for higher mortality with PTBD; palliative ERCP for Bismuth I–II, ERCP ± EUS-guided drainage over primary PTBD for Bismuth III–IV (conditional, very low)
 
-- **Either PS or uSEMS** for proven malignant hilar obstruction (Conditional, Moderate — [[esge-2026-biliary-strictures]]):
-  - **PS while the optimal drainage strategy is undefined**, or outside an expert center — replaceable, keeps options open
-  - **uSEMS in an expert center** once disease is biopsy-proven and unresectable and complete drainage is predicted, to cut revisional procedures; weigh expected survival
-- ACG 2023 found **insufficient evidence** to prefer PS vs uSEMS (Rec 9)
-- uSEMS: longer patency; cannot be removed — makes future endoscopic reintervention difficult
-- PS: replaceable. Where adjuvant endobiliary ablation (photodynamic therapy [PDT] or RFA) is planned, Rec 10 pairs the ablation with **plastic** stent placement — that recommendation is written for PS, not uSEMS
-- If uSEMS chosen: **prove effective drainage with plastic stents first** before committing — inadequate drainage after uSEMS placement is difficult to correct endoscopically
+**Stent type**
+- **ACG Rec 9:** insufficient evidence to recommend PS vs uSEMS
+  - uSEMS: longer patency, but cannot be removed — later endoscopic reintervention is hard and many patients outlive the stent
+  - PS: replaceable; favored when intraductal ablation is planned (applied at scheduled PS exchanges)
+  - ESGE 2026 adds a conditional rule (moderate): PS while the drainage strategy is undefined; uSEMS in expert centres to reduce revisions, by expected survival and the likelihood of complete drainage
 
-#### Endobiliary Ablation (Unresectable Perihilar CCA)
+> [!pitfall] Prove the drainage with plastic first
+> Choosing metal for a Bismuth II–IV stricture: place PS first to confirm the stent positions capture enough liver volume, then convert to uSEMS. Inadequate initial drainage occurs in up to 40%, and uSEMS cannot be repositioned ([[acg-2023-biliary-strictures]] Key Concept 12).
 
-- **Population (Rec 10):** malignant perihilar stricture due to cholangiocarcinoma, **not a candidate for resection or transplantation**
-- **PDT or RFA plus plastic stent preferred over plastic stent alone** (Conditional, Low evidence) — survival advantage ~13–14 months in PDT RCTs; meta-analyses support both PDT and RFA
-- PDT: requires systemic photosensitizer; mandates 4–6 weeks sun avoidance post-procedure; photosensitizers not FDA-approved for CCA
-- RFA: FDA-approved; easier to apply; risk of hemobilia (~4%) and abdominal pain
-- Initiate after multidisciplinary confirmation of inoperability
-
-#### Asymptomatic Malignant Perihilar Stricture (Declined or Ineligible for Further Treatment)
-
-- Palliative drainage is **not mandatory** — balance potential QOL/survival benefits against procedural risk and healthcare burden; decide case by case
+**Endobiliary ablation**
+- **ACG Rec 10:** perihilar cholangiocarcinoma, **not a candidate for resection or transplantation** → **photodynamic therapy (PDT) or RFA plus PS** over PS alone (conditional, low)
+  - PDT: avoid sunlight 4–6 weeks; photosensitizers not US Food and Drug Administration (FDA)-approved for cholangiocarcinoma. RFA: FDA-approved, easier; abdominal pain, hemobilia ~4%
+  - Start only after multidisciplinary confirmation of inoperability
 
 ### Post–Liver Transplant Biliary Stricture
 
-Biliary strictures are a common adverse outcome after [[liver-transplantation|liver transplantation]] (5–15% in deceased-donor liver transplantation [DDLT], higher in living-donor liver transplantation [LDLT]) and cause morbidity ranging from asymptomatic enzyme elevation to cholangitis, allograft rejection, and graft failure. The ASGE 2023 guideline ([[asge-2023-post-transplant-biliary-strictures]]) addresses diagnosis and drainage; all four recommendations are **conditional**. The guideline applies to **unaltered (duct-to-duct) foregut anatomy** — Roux-en-Y hepaticojejunostomy recipients (e.g. some [[primary-sclerosing-cholangitis|PSC]] patients) often cannot undergo conventional duodenoscope ERCP.
+- Suspect with elevated liver enzymes, conjugated hyperbilirubinemia and biliary dilation; consequences range from asymptomatic enzyme elevation to cholangitis and allograft failure ([[asge-2023-post-transplant-biliary-strictures]])
+- ASGE 2023 covers **unaltered (duct-to-duct) anatomy**; all 4 recommendations are conditional
 
-#### Anastomotic vs Non-Anastomotic — distinction drives management
-
-| Feature | Anastomotic stricture | Non-anastomotic stricture (ischemic cholangiopathy) |
+| | Anastomotic | Nonanastomotic |
 |---|---|---|
-| Location | Focal, at the duct-to-duct anastomosis | Diffuse intrahepatic ± extrahepatic; often near/above the bifurcation |
-| Timing | Earlier; more amenable to endoscopy | Later; progressive |
-| Mechanism | Ischemia/fibrosis at the join, surgical technique | Hepatic artery insufficiency, prolonged cold ischemia, donation after circulatory death (DCD) grafts, ABO incompatibility |
-| Endoscopic outlook | Good — ERCP with dilation + stent | Poorer — may need PTBD or retransplantation |
-| cSEMS suitability | Suitable (extrahepatic, away from bifurcation) | Often **unsuitable** — intrahepatic or near-bifurcation involvement precludes cSEMS |
+| Origin | Duct-to-duct anastomosis (extrahepatic) | Ischemic cholangiopathy ([[esge-2026-biliary-strictures]]) |
+| Stent | **cSEMS** over MPS (ASGE Rec 2) | MPS with balloon dilation if needed (ESGE 2026; no US recommendation) |
 
-#### Diagnosis — MRCP first (Rec 3)
+**Diagnosis — ASGE Rec 3:** **MRCP** as the diagnostic test (conditional, moderate to high). **High pretest probability** of stricture or cholangitis → straight to ERCP. Test performance: [[mri-mrcp#Test Performance]].
 
-- The ASGE suggests **[[mri-mrcp|MRCP]] as the diagnostic test** for a suspected post-LT stricture (Conditional, Moderate–High evidence). *Pooled sensitivity, specificity, accuracy and predictive values against ERCP: [[mri-mrcp#Test Performance]].*
-- **High pretest probability** of stricture or cholangitis → proceed directly to [[ercp]] without diagnostic MRCP. Individual clinical scenarios dictate utility.
+**Route — ASGE Rec 1:** **ERCP over PTBD** as initial therapy (conditional, very low) — PTBD carried 8.47× adjusted odds of allograft failure and more procedures (6.1 vs 2.5); no difference in technical success, adverse events or mortality
+- Prefer ERCP: drains hard for caregivers, dislodgement risk, multiple intrahepatic strictures in different lobes, little biliary dilation
+- Prefer PTBD: difficult endoscopic access (including altered anatomy), or higher anesthesia risk
+- After **Roux-en-Y hepaticojejunostomy** (outside ASGE's evidence review), ESGE 2026's general altered-anatomy recommendation applies: endoscopic over percutaneous drainage, PTBD second line (conditional, low)
 
-#### ERCP first, PTBD second (Rec 1)
+**Stent — ASGE Rec 2:** **cSEMS instead of MPS** for initial therapy of extrahepatic strictures (conditional, low to moderate)
+- 4 RCTs, 205 patients: equal resolution and recurrence; cSEMS needed ~2 fewer procedures and cost less ($8288 vs $19,580)
+- In the trials, cSEMS was removed after **3–6 months**; MPS exchanged until resolution
+- **Cholangiographic exclusions:** intrahepatic strictures, or an anastomotic stricture just below the bifurcation, may preclude cSEMS. The panel's preference assumes a SEMS long enough to bridge the stricture
+- ESGE 2026 differs: MPS **or** fcSEMS, the fcSEMS only **>2 cm distal to the main hepatic confluence** (conditional, low), noting 5-year recurrence 36% with transpapillary fcSEMS vs 7% with MPS in one trial. Detail and nonanastomotic patterns: [[liver-transplantation]]
 
-- The ASGE suggests **[[ercp|ERCP]] over PTBD as initial therapy** (Conditional, Very Low evidence). PTBD carried 8.47× higher adjusted odds of allograft failure, longer hospitalization, more nursing-home disposition, and higher cost; ERCP needed fewer procedures (2.5 vs 6.1). No difference in technical success, composite adverse events (AEs), or mortality.
-- **Prefer ERCP** when percutaneous drains are hard for caregivers to manage, drains risk dislodgement, multiple intrahepatic strictures span different lobes, or there is insufficient biliary dilation for percutaneous access.
-- **Prefer PTBD** when anesthesia carries increased risk, or endoscopy has failed.
-  - ⚠ ASGE 2023 also allowed PTBD first-line in Roux-en-Y anatomy by center expertise. [[esge-2026-biliary-strictures|ESGE 2026]] is newer and reverses that: **after Roux-en-Y hepaticojejunostomy, endoscopic drainage over percutaneous** for its better safety profile, with **PTBD second-line** for benign and malignant strictures alike (conditional, low). *Which endoscopic route, by reconstruction and etiology: [[eus-guided-biliary-drainage]].*
-
-#### Stent strategy for an anastomotic stricture
-
-- **Either MPS or a temporary fcSEMS** for an extrahepatic (anastomotic, duct-to-duct) stricture — the **fcSEMS only when the stricture is >2 cm distal to the main hepatic confluence** (Conditional, Low — [[esge-2026-biliary-strictures]]). fcSEMS is usually **10 mm** (8 mm where the anatomy demands) for **6 months**; MPS are exchanged every 3–4 months for 1 year.
-  - ⚠ **This supersedes ASGE 2023**, which suggested **cSEMS instead of MPS** (Conditional, Low–Moderate) and pulled it at a fixed **3–6-month** dwell. ESGE 2026 is the newer tier-1 source and governs.
-- **Why ESGE will not pick a winner:** the 1–2-year equivalence reverses at 5 years — **36% anastomotic-stricture recurrence with a transpapillary fcSEMS vs 7% with MPS** in the one RCT with that follow-up (51% in a single-arm series; an intraductal antimigration fcSEMS narrowed it to 33.3% vs 28.6%) ([[esge-2026-biliary-strictures]]).
-- **The short-term case for cSEMS** (4 RCTs, 205 patients — [[asge-2023-post-transplant-biliary-strictures]]): **equivalent resolution and recurrence**, but **fewer ERCPs** (mean ~1.86 fewer), fewer days to resolution (~105 fewer), fewer stents per patient (~10.6 fewer), and **lower cost** ($8288 vs $19,580). Most common AE was stent migration (no difference between groups). Indirect evidence links cSEMS to post-ERCP pancreatitis.
-- **Technique:** ERCP with balloon **dilation** of the stricture, then stent placement. MPS are exchanged serially through the point of resolution.
-- **Favor plastic** when cholangiography shows intrahepatic strictures or an anastomotic stricture just below the bifurcation. Non-anastomotic ischemic cholangiopathy is generally not a cSEMS target.
-- **Sequential stent addition** is a valid MPS variant — add plastic stents at each ERCP without removing the previous ones. Equal resolution, recurrence and AEs (no excess cholangitis), with shorter procedure and fluoroscopy time and lower cost.
-- Refractory anastomotic strictures after endoscopy → PTBD, then surgical revision.
-
-#### Non-anastomotic strictures (ischemic cholangiopathy)
-
-- Initial management: **ERCP + dilation/stenting** if anatomically amenable; **PTBD** if endoscopy fails or disease progresses. ESGE 2026: **MPS together with balloon dilation if needed** — selective cannulation of intrahepatic radicles, **dilation commonly to 4–6 mm**, then MPS, exchanged every 3–4 months over 1 year (or continued until resolution, with no fixed timeframe).
-- **Outlook is poor and should be stated up front:** resolution 41%–60% short-term, falling to **21% at 1–8 years**; cholangitis during the stent program in up to 74%. Four cholangiographic patterns — **confluence-dominant** (manageable with MPS), **minor form** (rarely needs a stent), **diffuse necrosis** and **multifocal progressive** (stent-dependent; retransplantation almost always needed). Endoscopy is often a **bridge to retransplantation** ([[esge-2026-biliary-strictures]]).
-- Irreversible symptomatic biliary disease or progressive ischemic cholangiopathy → **retransplantation**.
-
-#### Periprocedural antibiotics during elective ERCP (Rec 4)
-
-- The ASGE suggests **periprocedural antibiotics** during elective ERCP when **complete biliary drainage is technically challenging** — ischemic cholangiopathy, multiple strictures, failure of stenting, or contrast injected across a stricture that could not be dilated/stented (Conditional, Very Low evidence).
-- Patients with cholangitis are **excluded** — they already require antibiotics per existing guidelines.
-- Otherwise, antibiotics are not routinely required (pooled infection rate ~1.1%; two studies showed no benefit). Weigh against multidrug-resistance risk and fluoroquinolone AEs (QTc prolongation, tendon rupture, CYP3A4 inhibition raising [[tacrolimus]] levels). Individualize with the patient and transplant team.
+**Antibiotics — ASGE Rec 4:** elective ERCP where complete drainage is technically challenging (ischemic cholangiopathy, multiple strictures, failed stenting) → **periprocedural antibiotics** over none (conditional, very low)
+- Excludes cholangitis (already treated). Otherwise not routine — infection rate 1.1%; decide with patient and transplant team. Fluoroquinolones can raise [[tacrolimus]] levels
 
 ### Failed ERCP
 
-- **Malignant stricture after failed or unfeasible ERCP → EUS-BD over PTBD** (**Strong**, Moderate evidence — [[esge-2026-biliary-strictures]]; ACG 2023 graded the same direction Conditional, Very Low). **PTBD only when EUS-BD fails or is not feasible.**
-  - **Duodenal stricture present → EUS-HGS.** No duodenal stricture → **either EUS-HGS or EUS-CDS** — above a duodenal stricture an EUS-CDS obstructs from food impaction
-- **Malignant stricture, accessible papilla, no duodenal stricture → EUS-guided transmural drainage over PTBD** (Conditional, Low — [[esge-2026-biliary-strictures]])
-- **Benign stricture after failed ERCP → rendezvous over transmural drainage** (Conditional, Low) — it preserves the anatomy. Percutaneous rendezvous is a comparable alternative; the evidence does not favor the EUS route over it
-- Requires substantial endoscopist experience — adverse events including fatalities reported, particularly earlier in the learning curve
-- **Before any of this, repeat the ERCP** — waiting at least 2 days and optimizing the attempt is the reasonable first alternative in a non-urgent setting; the success rate and the failure-rate benchmarks are on [[ercp]]
-- *Route selection, outcomes, adverse events and the altered-anatomy pathways: see [[eus-guided-biliary-drainage]].*
+- **Repeat ERCP** on a subsequent day (same or different endoscopist) succeeds in most cases — reasonable when decompression is not urgent ([[acg-2023-biliary-strictures]])
+- **ACG Rec 11:** ERCP indicated but unsuccessful or impossible → **EUS-guided biliary access/drainage over PTBD** (fewer adverse events), by an endoscopist with substantial interventional EUS experience (conditional, very low)
+  - Technical success ~90%; adverse events 15%–20%; severe and fatal events reported, especially early in the learning curve
+  - ESGE 2026: EUS-BD over PTBD **strong, moderate** when the papilla is inaccessible (failed or unfeasible ERCP); with an accessible papilla and no duodenal stricture, EUS-guided transmural drainage over PTBD is only conditional, low
+- Route choice (choledochoduodenostomy vs hepaticogastrostomy, rendezvous) and altered anatomy: [[eus-guided-biliary-drainage]]
 
 ---
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[bile-duct-injury]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
+[[cholangiocarcinoma]], [[pancreatic-cancer]], [[chronic-pancreatitis]], [[primary-sclerosing-cholangitis]], [[igg4-related-cholangitis]], [[bile-duct-injury]], [[liver-transplantation]], [[choledocholithiasis]], [[acute-cholangitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[eus-guided-biliary-drainage]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[intraductal-ultrasound]], [[mri-mrcp]], [[antibiotic-prophylaxis-endoscopy]]
 
 ---
 

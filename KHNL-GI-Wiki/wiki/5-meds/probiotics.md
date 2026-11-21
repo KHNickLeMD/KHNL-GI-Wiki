@@ -17,7 +17,7 @@ Live microorganisms that, when administered in adequate amounts, confer a health
 - [[#AGA 2020 Recommendations by Indication]]
   - [[#Qualifiers the Guideline Attaches]]
 - [[#C difficile — Probiotics Not Advised (AGA 2026)]]
-- [[#SIBO — Probiotics Not Recommended (ACG 2020)]]
+- [[#SIBO — Insufficient Data for Probiotics (ACG 2020)]]
 - [[#Evidence Behind Each Indication]]
 - [[#Dose and Duration]]
 - [[#Safety and Scope Limits]]
@@ -52,7 +52,7 @@ The American Gastroenterological Association (AGA) 2020 guideline ([[aga-2020-pr
 - **[[acg-2021-cdiff|American College of Gastroenterology (ACG) 2021]]** recommends against probiotics for primary prevention (conditional, moderate evidence) and for secondary prevention (strong, very low evidence).
 - **What AGA 2026 advises instead (BPA 12):** a healthy, varied diet with fruits and vegetables, rich in **both soluble and insoluble** fiber — a low-fiber diet after antibiotics prolongs susceptibility to CDI. Avoid ultra-processed foods; do not prescribe bland or clear-liquid diets during CDI. For established recurrent CDI the effective intervention is [[fmt|fecal microbiota–based therapy]], not probiotics.
 
-## SIBO — Probiotics Not Recommended (ACG 2020)
+## SIBO — Insufficient Data for Probiotics (ACG 2020)
 
 Not covered by the AGA guideline; per [[acg-2020-sibo]] (key concepts, expert consensus — not GRADE-rated):
 
@@ -76,7 +76,7 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]] (key concepts, expert co
 > Across the 8 questions there was mostly "either insufficient evidence… or a significant knowledge gap." For IBS, 55 trials in 5301 patients tested **44 different strains or combinations**, so most rest on a **single trial** — and registered protocols with no publication raise publication-bias concern. The exception is pediatric acute gastroenteritis, where two large North American trials were genuinely **negative** ([[aga-2020-probiotics-technical-review]]).
 
 - **Pouchitis — small base, and the product may not be obtainable.** The whole 8-strain evidence base is **193 subjects**. Maintenance of chronic pouchitis remission at 9–12 mo: relative risk (RR) 20.24 (95% CI 4.28–95.81), Low CoE. Prevention of a first acute episode: RR 1.29 (95% CI 1.03–1.61), Very Low CoE, one of the two trials open-label. **Commercial availability has been in question** (ongoing litigation between manufacturer and patent holder), and **no other formulation has been tested as rigorously** — so substituting another 8-strain product is not evidence-based. Benefit in pouches created for [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] or other intestinal disorders, and in children, is unknown.
-- **NEC — the effect sizes belong to specific strains.** Reduced **all-cause mortality** on moderate/high-quality evidence only with *Lactobacillus* spp + *Bifidobacterium* spp combinations, including the 4-strain *L acidophilus* + *B bifidum* + *B animalis* subsp *lactis* + *B longum* subsp *longum*: OR 0.56 (95% CI 0.39–0.80). Severe NEC (Bell stage ≥II): *B animalis* subsp *lactis* OR 0.31, *L reuteri* OR 0.55, *L rhamnosus* OR 0.44. Combinations with the **largest** point estimates sit on low/very low evidence — a research priority, not a basis for practice.
+- **NEC — the effect sizes belong to specific strains.** Reduced **all-cause mortality** on moderate/high-quality evidence with the group of *Lactobacillus* spp + *Bifidobacterium* spp combinations (including the 4-strain *L acidophilus* + *B bifidum* + *B animalis* subsp *lactis* + *B longum* subsp *longum*) or single-strain *B animalis* subsp *lactis*, *L reuteri* or *L rhamnosus*: OR 0.56 (95% CI 0.39–0.80). Severe NEC (Bell stage ≥II): *B animalis* subsp *lactis* OR 0.31, *L reuteri* OR 0.55, *L rhamnosus* OR 0.44. Combinations with the **largest** point estimates sit on low/very low evidence — a research priority, not a basis for practice.
 
 ## Dose and Duration
 

@@ -179,7 +179,7 @@ Nonabsorbable disaccharide. Mechanism is described as controversial ([[acg-2026-
 ## Diagnostic Use — Breath Testing Substrate
 
 - **10 g lactulose** with ~250 mL water is the standardized lactulose dose for hydrogen/methane breath testing ([[acg-2020-sibo]]); glucose 75 g is the alternative substrate.
-- Performance for [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]: **sensitivity 31–68%, specificity 44–100%**, with a high false-positive rate from accelerated colonic fermentation — lactulose over-calls relative to glucose or culture.
+- Performance for [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]: **sensitivity 31–68%, specificity 44–100%**, with a high false-positive rate from accelerated colonic fermentation — lactulose breath testing yields a higher positive rate than glucose breath testing or culture.
 - Also the substrate option for diagnosing [[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]] in symptomatic patients with constipation. Protocol and thresholds live on [[small-intestinal-bacterial-overgrowth]].
 
 ---

@@ -95,7 +95,7 @@ quality_reviewed: 2026-11-13
 - Goals: prevent dehydration, correct electrolytes, support maternal (and thereby fetal) nutrition; treatment guided by symptom severity. Multidisciplinary — obstetrics, nutrition, psychology, GI, and mental health (anxiety, depression).
 - **Vitamin B1 (thiamine) 100 mg/day for ≥7 days**, then 50 mg/day until adequate oral intake — prevents refeeding syndrome and Wernicke encephalopathy.
 - Severe symptoms → hospitalization for IV hydration and replacement of electrolytes, vitamins, and nutrients; **[[nutrition-in-hospitalized-patients|enteral or parenteral nutrition]]** if weight loss/symptoms persist.
-- **Methylprednisolone — last resort:** 16 mg IV every 8 hours for up to 3 days, then taper over 2 weeks to the lowest effective dose, maximum duration 6 weeks; reduces rehospitalization. **Avoid before 10 weeks of gestation** (slight increase in cleft palate reported — data conflicting; use with caution in the 1st trimester).
+- **Methylprednisolone — last resort:** 16 mg IV every 8 hours for up to 3 days, then taper over 2 weeks to the lowest effective dose, maximum duration 6 weeks; reduces rehospitalization. **Use with caution in the 1st trimester** — a slight increase in cleft palate reported when given before 10 weeks of gestation; data conflicting.
 - No significant efficacy difference among metoclopramide, ondansetron, and promethazine in HG (Cochrane review of 25 studies).
 - European Association for the Study of the Liver (EASL) guidance, as relayed by AGA 2024: doxylamine + pyridoxine and phenothiazines first-line for HG, metoclopramide and ondansetron second-line; **withdraw the drug if extrapyramidal adverse effects appear** (phenothiazines, metoclopramide). ([[aga-2024-pregnancy-gi-liver]])
 

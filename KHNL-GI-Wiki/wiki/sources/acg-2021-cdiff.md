@@ -3,7 +3,8 @@ title: "ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides diffici
 category: source
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2021 Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections.pdf"
 ---
@@ -32,7 +33,7 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 
 **Diagnosis**
 
-- Test only patients with ≥3 unformed stools in 24 hours (do NOT test formed stool)
+- Key Concept 1 (ungraded): test patients with ≥3 unformed stools in 24 hours; testing formed stool is rarely clinically indicated (epidemiologic exceptions)
 - Preferred: two-step algorithm — highly sensitive test first (NAAT or glutamate dehydrogenase [GDH]), then specific toxin enzyme immunoassay (EIA)
 - If both positive: CDI confirmed. If both negative: CDI unlikely. Discordant (NAAT+/toxin−): clinical judgment required
 - NAAT alone risks over-diagnosing CDI in colonized patients; toxin EIA alone risks under-diagnosis
@@ -60,27 +61,27 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 **Treatment — Fulminant CDI**
 
 - Vancomycin 500 mg PO every 6 hours (q6h) × first 48–72 hours (strong recommendation); if improving, step down to 125 mg q6h for additional 10 days
-- Add intravenous (IV) metronidazole 500 mg every 8 hours (q8h) (conditional) — particularly if ileus impairs oral drug delivery
+- Add intravenous (IV) metronidazole 500 mg every 8 hours (q8h) can be considered (conditional, very low) — narrative: may be particularly helpful if ileus impairs oral drug delivery
 - If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h (conditional)
 - Adequate volume resuscitation, intensive care unit (ICU) monitoring, early surgical consultation
 - If no improvement at 48–72 hours: reassess with multidisciplinary team
 - Surgery for refractory cases: total colectomy with end ileostomy + stapled rectal stump OR diverting loop ileostomy with colonic lavage + intraluminal vancomycin (10 days postoperative)
-- FMT should be considered after 48–72 hours of maximal medical therapy failure, especially for poor surgical candidates; sequential FMT protocol every 3–5 days until pseudomembrane resolution
+- Rec 11: FMT should be considered for severe and fulminant CDI refractory to antibiotics, particularly in poor surgical candidates (strong, low) — narrative: after 48–72 hours of maximal medical therapy failure; sequential FMT protocol every 3–5 days until pseudomembrane resolution
 
 **Treatment — First Recurrent CDI**
 
 - Tapering/pulsed-dose vancomycin if initial therapy was fidaxomicin, vancomycin, or metronidazole (strong recommendation, very low quality evidence)
 - Fidaxomicin 200 mg BID × 10 days if initial course was vancomycin or metronidazole (conditional, moderate quality)
-- Metronidazole should NOT be used for recurrent CDI; limit to one lifetime course due to neurotoxicity risk
+- Metronidazole should not be used for recurrent CDI (narrative, ungraded); limit metronidazole to 1 course because of neurotoxicity with prolonged or repeated use
 
 **Prevention of Recurrence (2nd or further recurrence)**
 
 - FMT: recommended for second or further recurrence (strong recommendation, moderate quality)
 - Preferred delivery routes: [[colonoscopy]] or oral capsules (both strong recommendations); enema if others unavailable (conditional)
 - Repeat FMT if recurrence within 8 weeks of initial FMT (conditional)
-- Suppressive oral vancomycin 125 mg once daily: for patients not FMT candidates or post-FMT failure (conditional)
-- Oral vancomycin prophylaxis (OVP) 125 mg once daily during subsequent systemic antibiotic use in high-risk patients (age ≥65, severe CDI within past 3 months, significant immunocompromise); typically continued until 5 days after antibiotics complete (conditional)
-- Bezlotoxumab (single IV infusion during anti-CDI therapy): for high-risk recurrence patients — age ≥65 with ≥1 of: second episode within 6 months, immunocompromised, or severe CDI. Number needed to treat (NNT)=10 overall; NNT=6 for age ≥65 with ≥1 prior episode in past 6 months. Avoid in congestive heart failure (CHF).
+- Suppressive oral vancomycin 125 mg once daily: recurrent CDI in patients not FMT candidates, relapsed after FMT, or requiring ongoing or frequent antibiotics (conditional)
+- Oral vancomycin prophylaxis (OVP) 125 mg once daily during subsequent systemic antibiotic use in high-risk patients — aged ≥65 or significantly immunocompromised, **and** hospitalized for severe CDI within the past 3 months; typically continued until 5 days after antibiotics complete (conditional)
+- Bezlotoxumab (single IV infusion during anti-CDI therapy): for high-risk recurrence patients — age ≥65 with ≥1 of: second episode within 6 months, immunocompromised, or severe CDI. Number needed to treat (NNT)=10 overall; NNT=6 for the age ≥65 subgroup and for those with ≥1 CDI episode within the past 6 months. Avoid in congestive heart failure (CHF).
 
 **Prevention — Probiotics**
 
@@ -99,38 +100,42 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Diagnosis** | | |
-| Use two-step testing algorithm (NAAT or GDH, then toxin EIA) for CDI diagnosis | Strong | Moderate |
-| Do NOT test asymptomatic patients or perform test-of-cure after treatment | Strong | Moderate |
-| **Treatment — Non-Severe Initial CDI** | | |
-| Vancomycin 125 mg PO QID × 10 days | Strong | Moderate |
-| Fidaxomicin 200 mg PO BID × 10 days | Strong | Moderate |
-| **Treatment — Severe Initial CDI** | | |
-| Vancomycin 125 mg PO QID × 10 days | Strong | Moderate |
-| Fidaxomicin 200 mg PO BID × 10 days | Conditional | Moderate |
-| Do NOT use metronidazole for severe CDI | Strong | Moderate |
-| **Treatment — Fulminant CDI** | | |
-| Vancomycin 500 mg PO q6h for first 48–72 hours | Strong | Low |
-| Add IV metronidazole 500 mg q8h if ileus impairs oral delivery | Conditional | Low |
-| Add vancomycin enemas 500 mg q6h if ileus present | Conditional | Low |
-| **First Recurrent CDI** | | |
-| Tapering/pulsed-dose vancomycin for first recurrence | Strong | Very Low |
-| Fidaxomicin if initial course was vancomycin or metronidazole | Conditional | Moderate |
-| Do NOT use metronidazole for recurrent CDI | Strong | Low |
-| **Prevention of Further Recurrence** | | |
-| FMT for second or further CDI recurrence | Strong | Moderate |
-| FMT by colonoscopy or oral capsules (preferred delivery routes) | Strong | Moderate |
-| FMT by enema if other routes unavailable | Conditional | Low |
-| Suppressive oral vancomycin 125 mg daily for patients not FMT candidates | Conditional | Very Low |
-| Oral vancomycin prophylaxis during subsequent antibiotics in high-risk patients | Conditional | Very Low |
-| Bezlotoxumab for high-risk recurrence patients (avoid in CHF) | Conditional | Moderate |
-| **Probiotics** | | |
-| Against probiotics for primary CDI prevention | Conditional | Moderate |
-| Against probiotics for secondary CDI prevention | Strong | Very Low |
-| **PPIs** | | |
-| Do NOT routinely discontinue PPIs in CDI patients with appropriate indication | Strong | Low |
+All 23 graded recommendations, numbered as in the guideline's Table 2 (p. 1126). Strength and quality as printed; several "We suggest" statements carry a strong grade, as printed. Key Concepts 1–8 (Table 3) are ungraded.
+
+| # | Recommendation (condensed) | Strength | Quality |
+|---|---|---|---|
+| **Prevention** | | | |
+| 1 | Against probiotics for prevention of CDI in patients being treated with antibiotics (primary prevention) | Conditional | Moderate |
+| 2 | Against probiotics for prevention of CDI recurrence (secondary prevention) | Strong | Very low |
+| **Diagnosis** | | | |
+| 3 | Testing algorithms should include both a highly sensitive and a highly specific modality, to distinguish colonization from active infection | Conditional | Low |
+| **Treatment** | | | |
+| 4 | Initial nonsevere CDI: oral vancomycin 125 mg 4 times daily × 10 d | Strong | Low |
+| 5 | Initial nonsevere CDI: oral fidaxomicin 200 mg twice daily × 10 d | Strong | Moderate |
+| 6 | Initial nonsevere CDI in low-risk patients: oral metronidazole 500 mg 3 times daily × 10 d may be considered | Strong | Moderate |
+| 7 | Severe CDI, initial therapy: vancomycin 125 mg 4 times daily × 10 d | Strong | Low |
+| 8 | Severe CDI, initial therapy: fidaxomicin 200 mg twice daily × 10 d | Conditional | Very low |
+| 9 | Fulminant CDI: adequate volume resuscitation + oral vancomycin 500 mg every 6 h for the first 48–72 h | Strong | Very low |
+| 9 (cont.) | Fulminant CDI: combination with parenteral metronidazole 500 mg every 8 h can be considered | Conditional | Very low |
+| 10 | Ileus: adding vancomycin enemas (500 mg every 6 h) may be beneficial | Conditional | Very low |
+| 11 | Suggest FMT be considered for severe and fulminant CDI refractory to antibiotics, particularly in poor surgical candidates | Strong | Low |
+| 12 | Suggest tapering/pulsed-dose vancomycin for a first recurrence after an initial course of fidaxomicin, vancomycin, or metronidazole | Strong | Very low |
+| 13 | Fidaxomicin for a first recurrence after an initial course of vancomycin or metronidazole | Conditional | Moderate |
+| **Prevention of recurrence** | | | |
+| 14 | FMT for a second or further recurrence, to prevent further recurrences | Strong | Moderate |
+| 15 | FMT delivered by colonoscopy, or by capsules, for recurrent CDI | Strong (each) | Moderate (each) |
+| 15 (cont.) | Suggest delivery by enema if other methods are unavailable | Conditional | Low |
+| 16 | Suggest repeat FMT for a recurrence within 8 wk of an initial FMT | Conditional | Very low |
+| 17 | Recurrent CDI and not an FMT candidate, relapsed after FMT, or requiring ongoing/frequent antibiotics: suppressive oral vancomycin may be used | Conditional | Very low |
+| 18 | Oral vancomycin prophylaxis may be considered during subsequent systemic antibiotics in patients with prior CDI at high risk of recurrence | Conditional | Low |
+| 19 | Suggest bezlotoxumab be considered for prevention of recurrence in patients at high risk of recurrence | Conditional | Moderate |
+| 20 | Suggest against discontinuing antisecretory therapy in CDI when there is an appropriate indication | Strong | Very low |
+| **Special populations** | | | |
+| 21 | C. difficile testing in inflammatory bowel disease (IBD) presenting with an acute flare with diarrhea | Strong | Low |
+| 22 | Suggest vancomycin 125 mg by mouth 4 times daily for a minimum of 14 d in IBD with CDI | Strong | Very low |
+| 23 | FMT should be considered for recurrent CDI in IBD | Strong | Very low |
+
+Ungraded (narrative, not numbered): metronidazole should not be used for severe CDI (inferior to vancomycin) and, it is reasoned, not for recurrent CDI; routine test-of-cure in asymptomatic patients after treatment is not recommended.
 
 ## Relevance to Wiki
 
@@ -141,7 +146,7 @@ Primary source for [[clostridioides-difficile]] disease script. Defines severity
 - Optimal dosing of vancomycin in fulminant CDI (high-dose 500 mg vs. 125 mg q6h) is expert opinion only — no randomized controlled trial (RCT) data; the guideline acknowledges evidence justifying higher doses is lacking
 - Benefit of IV metronidazole added to oral vancomycin in fulminant CDI is debated (single retrospective study supporting it vs. multicenter retrospective showing no benefit)
 - Role of vancomycin enemas in ileus is theoretical; one retrospective case-control failed to show mortality benefit
-- FMT safety signal: case of fatal extended-spectrum beta-lactamase (ESBL)-producing E. coli bacteremia from donor stool; careful donor screening required
+- FMT safety signal: 2 patients with extended-spectrum beta-lactamase (ESBL)-producing E. coli bacteremia after FMT from the same donor, one of whom died; careful donor screening required
 - Bezlotoxumab and CHF: higher rates of serious adverse events and death in CHF subgroup — mechanism unclear; avoid in CHF
 - Suppressive vancomycin and OVP data are largely from small, retrospective, single-center studies; prospective RCTs needed
 

@@ -45,8 +45,8 @@ quality_reviewed: 2026-11-15
 | Global IBS-D symptoms | Recommended (Rec 20) | **Strong / moderate** | [[acg-2020-ibs\|ACG 2020]] |
 | IBS-D, initial treatment | Suggested (Rec 2a) | Conditional / moderate | [[aga-2022-ibs-d\|AGA 2022]] |
 | IBS-D, **recurrent symptoms after an initial response** | Retreatment suggested (Rec 2b) | Conditional / moderate | [[aga-2022-ibs-d\|AGA 2022]] |
-| Symptomatic SIBO | Antibiotics to eradicate overgrowth and resolve symptoms; rifaximin is the **best-studied non-absorbable** agent | Conditional / low (antibiotics); summary statement (rifaximin) | [[acg-2020-sibo\|ACG 2020]] |
-| [[intestinal-methanogen-overgrowth\|Intestinal methanogen overgrowth (IMO)]] | Rifaximin **+ neomycin** more effective than either alone | Summary statement | [[acg-2020-sibo\|ACG 2020]] |
+| Symptomatic SIBO | Antibiotics to eradicate overgrowth and resolve symptoms; rifaximin is the **best-studied non-absorbable** agent | Conditional / low (antibiotics); rifaximin point is guideline text, ungraded | [[acg-2020-sibo\|ACG 2020]] |
+| [[intestinal-methanogen-overgrowth\|Intestinal methanogen overgrowth (IMO)]] | Rifaximin **+ neomycin** more effective than either alone (one retrospective chart review) | Guideline text, ungraded | [[acg-2020-sibo\|ACG 2020]] |
 | Traveler's diarrhea | One of the empiric antibiotic regimens (Table 4) | — | [[acg-2016-acute-diarrhea\|ACG 2016]] |
 | Traveler's diarrhea — chemoprophylaxis | Antibiotic chemoprophylaxis has moderate-to-good effectiveness and **may be considered in high-risk groups for short-term use** (Rec 18) | **Strong / high** | [[acg-2016-acute-diarrhea\|ACG 2016]] |
 

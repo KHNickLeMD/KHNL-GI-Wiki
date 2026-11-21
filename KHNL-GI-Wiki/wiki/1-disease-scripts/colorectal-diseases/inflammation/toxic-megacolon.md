@@ -106,7 +106,7 @@ Underlying etiologies of toxic megacolon named in the guidelines:
 
 **Fulminant CDI substrate:**
 - **[[cdiff-antibiotics|Vancomycin]] 500 mg by mouth (PO) q6h** × first 48–72 h; if improving, step down to **125 mg q6h × additional 10 days**.
-- **Add IV metronidazole 500 mg q8h** (conditional) — particularly if ileus impairs oral drug delivery.
+- **IV metronidazole 500 mg q8h can be added** (conditional, very low) — may be particularly helpful if ileus impairs oral drug delivery.
 - **If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h** (conditional).
 - Reassess at 48–72 h with the multidisciplinary team if no improvement.
 - **[[fmt|fecal microbiota transplantation (FMT)]]** for severe/fulminant CDI **refractory to antibiotic therapy**, particularly in **poor surgical candidates** *(strong recommendation, low quality)* — sequential protocol until pseudomembrane resolution.
