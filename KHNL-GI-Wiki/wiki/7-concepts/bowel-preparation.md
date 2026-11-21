@@ -3,8 +3,8 @@ title: "Bowel Preparation"
 category: concept
 tags: [bowel-prep, colonoscopy, split-dose, peg, simethicone, preparation-quality, bbps, crc-screening, colorectal]
 created: 2026-10-15
-updated: 2026-10-30
-sources: [usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, aga-2021-colonoscopy-quality]
+updated: 2026-11-21
+sources: [usmstf-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, aga-2021-colonoscopy-quality, gerard-2013-chicago-bowel-preparation-scale, halphen-2013-harefield-cleansing-scale]
 ---
 
 # Bowel Preparation
@@ -174,7 +174,40 @@ Everything below applies to **ambulatory patients at low risk for inadequate pre
 - **0** — unprepared segment, stool cannot be cleared
 - **Examination aborted for inadequate preparation → score the unseen proximal segments 0.**
 
-- The **Ottawa** (0–14) and **Aronchick** (1–5) scales are **not recommended for clinical practice** — Ottawa scores the preparation before washing and suctioning, Aronchick is a global rating that penalises retained fluid and reproduces poorly in the distal colon. The Harefield and Chicago scales are also in use; none of the documents above reproduces their criteria.
+- The **Ottawa** (0–14) and **Aronchick** (1–5) scales are **not recommended for clinical practice** — Ottawa scores the preparation before washing and suctioning, Aronchick is a global rating that penalises retained fluid and reproduces poorly in the distal colon.
+
+**Chicago Bowel Preparation Scale (BPS)** — single-centre validation study, not a guideline ([[gerard-2013-chicago-bowel-preparation-scale]]):
+- Same 3 segments (right = cecum → mid-hepatic flexure; transverse → mid-splenic flexure; left → distal rectum); each scored **0, 5, 10, 11 or 12**; total **0–36** (Table 1):
+
+| Segment score | Descriptor |
+|---|---|
+| **0** | Stool cannot be cleared — **>15%** of mucosa not seen |
+| **5** | **Up to 15%** of mucosa not seen after cleaning |
+| **10** | Minor residual material after cleaning, mucosa generally well seen |
+| **11** | Entire mucosa well seen **after cleaning** |
+| **12** | Entire mucosa well seen **without washing** (suctioning of liquid allowed) |
+
+- **Fluid score** (whole colon, injected fluid excluded) reported **separately, not added to the total**: 0 = ≤50 cc · 1 = 51–150 cc · 2 = 151–300 cc · 3 = >300 cc. So the Chicago total, like the BBPS, adds no points for retained fluid.
+- **Total ≥25** is only possible with **≥95%** of mucosa seen (the study's adequacy definition); **≤24** always means <95% — except that **15–22** can rarely still be adequate (Methods, Table 2).
+- Table 2 bands: any segment 0 → 0–24, poor · two or three segments 5 → 15–22, usually poor · one segment 5 → 25–29, fair (adequate) to good · all 10–12 → 30–36, good to outstanding.
+- Inter-rater kappas for Chicago were "generally higher" than Ottawa/Boston (0.624–0.702), but no difference was significant.
+- ⚠ The study's "adequate" (≥95% of mucosa seen; a segment scored 5 can still count) is **not** the guideline segment rule below, and "fair" alone is not an adequacy statement — **use the BBPS segment rule**.
+
+**Harefield Cleansing Scale (HCS)** — retrospective validation study by Norgine-affiliated authors, not a guideline ([[halphen-2013-harefield-cleansing-scale]]):
+- **5 segments** (rectum, sigmoid, descending, transverse, ascending/cecum), each scored **0–4** (Figure 1):
+
+| Segment score | Descriptor |
+|---|---|
+| **4** | Empty and clean |
+| **3** | Clear liquid |
+| **2** | Brown liquid / fully removable semi-solid stools |
+| **1** | Semi-solid, only partially removable stools |
+| **0** | Irremovable, heavy, hard stools |
+
+- **Grade:** A = all segments 3 or 4 · B = ≥1 segment scored 2 · C = ≥1 segment scored 1 · D = ≥1 segment scored 0. **A/B = successful, C/D = unsuccessful**; sum score 0–20.
+- Scored **after cleaning**, but **grade A requires full visualization without cleaning**; "successful" needs **100%** of mucosa seen in all 5 segments after washing and suctioning.
+- Against the Aronchick scale: AUC 0.945; segment cut-off 2 → sensitivity 99%, specificity 83%. Interrater intraclass correlation only 0.457 ("fair").
+- ⚠ No conversion to BBPS is given — **use the BBPS segment rule** for adequacy.
 
 ### Adequacy Cut-Points and Wording
 
@@ -291,3 +324,5 @@ Odds ratios (ORs) for an inadequate preparation:
 2. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
 3. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
 4. [[aga-2021-colonoscopy-quality|AGA 2021 Clinical Practice Update on Strategies to Improve Quality of Screening and Surveillance Colonoscopy]]
+5. [[gerard-2013-chicago-bowel-preparation-scale|Validation of a New Bowel Preparation Scale for Measuring Colon Cleansing for Colonoscopy: The Chicago Bowel Preparation Scale (2013)]]
+6. [[halphen-2013-harefield-cleansing-scale|Validation of the Harefield Cleansing Scale: a tool for the evaluation of bowel cleansing quality in both research and clinical practice (2013)]]

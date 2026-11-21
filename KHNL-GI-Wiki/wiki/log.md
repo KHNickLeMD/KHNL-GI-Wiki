@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-21] lint | 06:00 pass — daily fetch, ingest by budget
+
+**Scope:** backlog mode, $25 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**Daily fetch:** nothing qualified — every remaining `needed-sources.md` row is 🔒 (Eckardt 1992, WHO 5th ed.) or 🌐 (CDC, NIH OI guidelines); the "In `raw/`" rows need ingest, not download. Downloaded nothing.
+
+**Pick order:** every uningested file is a Nick drop (none in `/repo/.fetched-files`); picked the two bowel-prep scale papers first — short, and they close a named decision gap on [[bowel-preparation]] (`needed-sources.md` "In `raw/`" row).
+
+**`[[gerard-2013-chicago-bowel-preparation-scale]]` — new source (Gerard et al, Chicago Bowel Preparation Scale validation, Clin Transl Gastroenterol 2013;4:e43), fully ingested.** Tier 2 primary validation study; CC BY-NC-SA 3.0 (only figure = inter-rater scatter plots, not captured — no decision content).
+- *Extract* (fresh agent, pp. 2–5, 7, 9 rendered): Table 1 segment and fluid scores, segment landmarks, modified scale (11/12 → 11, max 33), ≥25 / ≤24 design cut-off with the 15–22 exception, Table 2 bands, Tables 3–5 and Table 4a–c statistics, limitations; two printed inconsistencies noted (Table 4b CI; n = 300 vs 298).
+- *Gate:* 0 ABSENT/OTHER; 2 NOMATCH (own comparison lines, confirmed on rendered pp. 2–3 and ACG 2025 p. 19); 14 SIGN read off rendered pp. 2–5, 7.
+- *Independent check* (fresh agent, ~120 claims): 0 management, 2 minor — invented "Chicago 5 = Boston grade 1" equivalence removed from the contradiction line (paper's only mapping, Boston 3 = Chicago 11–12, added); "1 of 591 colons graded adequate yet scored 15–22" (not "of adequate colons"). Both fixed. `verified: 2026-11-21` set.
+- *Propagation:* [[bowel-preparation]] → *Preparation Quality Scales*: Chicago BPS score table, fluid score, ≥25/≥95% cut-off with 15–22 exception, Table 2 bands, ⚠ that the study's "adequate" is not the guideline segment rule. Replaces "none of the documents reproduces their criteria" for Chicago.
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH; 3 SIGN = Table 1/Methods signs read above. Pre-existing flags elsewhere on the page untouched (ABSENT L51, L214, L284; NOMATCH L139, L140, L214) — left for the page's Quality review.
+- *Independent check of changed lines* (fresh agent, 26 claims): 1 minor — Chicago kappas were "generally higher", not highest everywhere (Boston higher for transverse). Fixed on the page **and the same overstatement on the source page Summary** (fix every copy). Borderline "one segment allowed at 5" reworded. Page carries no `verified:` → no stamp.
+- `index.md`: source row added; bowel-preparation row 3 → 5 sources, Chicago added, a "coverage-gap queue item 28, cleared" status note removed. `needed-sources.md`: Gerard removed from the scale row (Halphen remains).
+- *Cards:* none — primary study (not tier 1) and [[bowel-preparation]] not verified.
+- `ingest: partial` removed.
+
+**`[[halphen-2013-harefield-cleansing-scale]]` — new source (Halphen et al, Validation of the Harefield Cleansing Scale, Gastrointest Endosc 2013;78:121–31), fully ingested.** Tier 2 retrospective validation study (Norgine-affiliated authors); © ASGE, not CC → no figure capture (Figure 1 scale recreated as tables).
+- *Extract* (fresh agent, Figure 1, Tables 1–7, Figures 2–3 rendered): 5-segment 0–4 descriptors, A–D grade rule with A/B successful, "grade A only without cleaning" and 100%-visualization rules, Aronchick comparator table, ROC/correlation/reliability/test-retest/ADR results; 6 printed inconsistencies listed.
+- *Gate:* 2 ABSENT (AUC 0.9448 printed only inside Figure 3; "Twenty-seven" in words — both confirmed on rendered pp. 6, 8); 1 ABSENT (own arithmetic) reworded; 3 NOMATCH (comparison lines); 16 SIGN read off rendered pp. 1, 3, 5, 6.
+- *Independent check* (fresh agent, ~115 claims): 0 management, 2 minor — Table 6 discordance direction (text says 25 successful by investigators/unsuccessful by experts; Table 6 cells give the reverse — confirmed by the main thread on rendered p. 128, added to printed inconsistencies); "300 successful" is per scale, not by both. Both fixed. `verified: 2026-11-21` set.
+- *Propagation:* [[bowel-preparation]] → *Preparation Quality Scales*: HCS segment table, A–D grade rule, scoring-after-cleaning rules, AUC/sensitivity/specificity/ICC, ⚠ no BBPS conversion. Last "none of the documents reproduces its criteria" sentence removed.
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH; SIGN (≥ in grade rule) = Figure 1, rendered p. 123.
+- *Independent check of changed lines* (fresh agent, 24 claims): 0 findings. Page carries no `verified:` → no stamp.
+- `index.md`: source row added; bowel-preparation row 5 → 6 sources. `needed-sources.md`: scale row removed (both files ingested).
+- *Cards:* none — primary study and page not verified.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-21] lint | Quality review — release sweep, second run (manual, $40 budget)
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`, worked from the top by budget. [[gallbladder-cancer]] (NCCN) and [[liver-disease-in-pregnancy]] (blocked on the [[aasld-2021-reproductive-liver]] re-extraction) skipped for the reasons in the previous entry.
