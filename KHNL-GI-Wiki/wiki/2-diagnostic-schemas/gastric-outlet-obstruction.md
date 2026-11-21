@@ -3,7 +3,7 @@ title: "Gastric Outlet Obstruction"
 category: diagnostic-schema
 tags: [gastric-outlet-obstruction, goo, gooss, enteral-stent, gastrojejunostomy, eus-ge, lams, palliation, peptic-ulcer-disease, pancreatic-cancer]
 created: 2026-09-02
-updated: 2026-11-10
+updated: 2026-11-21
 sources: [i-eus-2026-eus-gastroenterostomy, aga-2021-malignant-alimentary-tract-obstruction, asge-2021-gastroduodenal-obstruction, jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
 ---
 
@@ -43,6 +43,8 @@ The standardized food-intake instrument used to define eligibility, measure resp
 | **2** | **Soft solids** ← threshold for "able to eat"; the primary endpoint in both trials |
 | **3** | Almost complete diet |
 | **4** | Full diet |
+
+*Five-level scale as printed in [[jeurnink-2010-sustent-goo|SUSTENT]]. [[kastelijn-2023-enduro-protocol|ENDURO]] prints a four-level version — 0 no oral intake, 1 liquids only, 2 soft solids, **3 low-residue or full diet** (no score 4); the GOOSS 0–1 entry and GOOSS ≥2 success thresholds are the same in both.*
 
 ---
 

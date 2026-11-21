@@ -3,9 +3,12 @@ title: "Endoscopic ultrasonography-guided gastroenterostomy versus surgical gast
 category: source
 tags: [gastric-outlet-obstruction, eus, lams, gastrojejunostomy, palliation, protocol, rct]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-11-21
 sources: []
-raw: "GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ.pdf"
+raw:
+  - "GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ.pdf"
+  - "GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ - Additional File 3.pdf"
+verified: 2026-11-21
 ---
 
 > **⚠ This source is a STUDY PROTOCOL, not a results paper.** It reports no outcomes. ENDURO cannot be cited for the efficacy or safety of endoscopic ultrasound (EUS)-guided gastroenterostomy. What it legitimately supplies is trial design, eligibility, standardized procedural technique, and outcome definitions.
@@ -41,18 +44,20 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 | Inclusion | Exclusion |
 |---|---|
 | Adult, **symptomatic** malignant GOO — nausea, vomiting, and/or inability to eat | Radiological or clinical suspicion of **other strictures/obstructions distal to the ligament of Treitz**, with small-intestinal dilation/ileus |
-| **Gastric Outlet Obstruction Scoring System (GOOSS) score 0 (no oral intake) or 1 (liquids only)** | |
-| Obstruction from **irresectable or metastatic** malignancy, no curative option | |
-| Radiologically or endoscopically **confirmed** GOO | |
-| Obstruction located from the **pyloric region to the third part of the duodenum** | |
-| **Both** SGJ and EUS-GE technically and clinically feasible | |
+| **Gastric Outlet Obstruction Scoring System (GOOSS) score 0 (no oral intake) or 1 (liquids only)** | Cancer extending into the **distal stomach or corpus**, or around the ligament of Treitz |
+| Obstruction from **irresectable or metastatic** malignancy, no curative option | Duodenal tube feeding **not tolerated** despite adequate tube position |
+| Radiologically or endoscopically **confirmed** GOO | **Altered anatomy** after previous gastric, periampullary or duodenal surgery |
+| Obstruction located from the **pyloric region to the third part of the duodenum** | **Previous SGJ** as palliation for the same condition |
+| **Both** SGJ and EUS-GE technically and clinically feasible | Unable to undergo surgery or upper endoscopy because of severe comorbidities (incl. **large-volume ascites**) |
+| Able to give written informed consent | World Health Organization (WHO) performance status **4** (in bed 100% of time) |
+| | Uncorrectable coagulopathy — international normalized ratio (INR) **>1.5** or platelets **<50 × 10⁹/L** |
+
+*Eligibility: main protocol, p. 3.*
 
 **Endpoints:**
-- **Primary:** time to tolerate at least **soft solids (GOOSS ≥2)**.
-- **Co-primary:** proportion of patients with **persisting or recurring GOO symptoms requiring a reintervention**.
-- **Secondary:** technical success, clinical success, quality of life, gastroenterostomy dysfunction, reintervention and time to reintervention, adverse events, time to start chemotherapy, length of stay, readmission, weight, survival, costs. *(Precise definitions of technical and clinical success are in the article's Additional file 3.)*
-- **Sample size:** powered on an assumed median time to GOOSS ≥2 of **3 days after SGJ versus 1 day after EUS-GE** (from a retrospective study) — 21 per arm for 90% power, two-sided alpha 0.05, 6-month follow-up; total inflated to 96 to serve the co-primary endpoint.
-- **Stratified by World Health Organization (WHO) performance status**, deliberately **not** by centre (would compromise allocation concealment, and some patients transfer for EUS-GE).
+- Two co-primary endpoints (1a time to soft solids, 1b persistent/recurrent GOO symptoms requiring reintervention) and secondary endpoints 2–14 — definitions in [[#Endpoint Definitions (Additional File 3)]].
+- **Sample size:** powered on an assumed median time to GOOSS ≥2 of **3 days after SGJ versus 1 day after EUS-GE** (from a retrospective study) — 21 per arm for 90% power, two-sided alpha 0.05, 6-month follow-up. Co-primary (reintervention) non-inferiority: reintervention risk **15%** in both arms, non-inferiority margin **20%**, one-sided alpha 0.05, 80% power → **44 per group**, sufficient for both endpoints; + 10% drop-out → **96 total (48 per group)** (pp. 5–6).
+- **Stratified by WHO performance status**, deliberately **not** by centre (would compromise allocation concealment, and some patients transfer for EUS-GE).
 
 **EUS-GE technique (protocolized):**
 - **Preferentially performed by two advanced endoscopists**; deep sedation with propofol.
@@ -64,7 +69,7 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 
 **SGJ technique (protocolized):**
 - **Laparoscopic**, antecolic **side-to-side** gastrojejunostomy, **without Roux-en-Y** reconstruction; anastomosis on the anterior or posterior stomach depending on tumour location (antrum, or antrum/corpus).
-- Created with a **60-mm stapler**, closed with a 3-0 barbed suture or equivalent.
+- Created with a **60-mm stapler**, closed with a 3–0 V-loc suture (Medtronic) or similar wound-closure device.
 - **Biliary limb (bile duct to gastrojejunostomy) must be at least 50 cm.**
 - A surgical feeding jejunostomy is **not** routinely constructed; a tattoo may mark the efferent limb to guide later nasojejunal tube placement. All patients receive a nasogastric tube post-operatively.
 - No learning curve assumed — SGJ is a routine procedure, performed in centres experienced in upper gastrointestinal or hepatopancreatobiliary surgery.
@@ -80,6 +85,50 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 
 ---
 
+## Endpoint Definitions (Additional File 3)
+
+**Gastric Outlet Obstruction Scoring System (GOOSS)** — instrument for oral intake in endpoints 1a, 1b, 3 and 4 (Additional File 3, Table 1; same scale as main protocol Table 2):
+
+| Score | Ability of oral intake |
+|---|---|
+| 0 | No oral intake possible |
+| 1 | Only liquid intake possible |
+| 2 | Ability to eat soft solids |
+| 3 | Ability to eat a low-residue or full diet |
+
+**Primary endpoints:**
+
+| # | Endpoint | Definition (Additional File 3) |
+|---|---|---|
+| 1a | Time to oral intake of soft solids | Days until the patient tolerates **soft solids without vomiting** (GOOSS ≥2, main protocol 1a); **day of intervention = day 0** |
+| 1b | Persistent or recurrent GOO symptoms requiring reintervention | **Any new intervention** after EUS-GE or SGJ aimed at improving or restoring nutritional intake, for persistent or recurrent obstructive symptoms (e.g. nausea, vomiting, inability to tolerate oral intake — **GOOSS 0–1**) |
+
+- **Reinterventions counted under 1b** (Additional File 3, endpoint 1b):
+  - **Endoscopic** — evaluate/treat anastomotic dysfunction (remove impacted food or tissue overgrowth; second LAMS after migration of the first), or create an alternative route for food (enteral stent, percutaneous jejunostomy, venting gastrostomy, oral feeding tube)
+  - **Surgical** — treat gastroenteric anastomosis dysfunction or create an alternative route for food (e.g. percutaneous jejunostomy)
+  - **Radiologic** — treat GOO symptoms (e.g. percutaneous gastrostomy or jejunostomy)
+  - **Initiation of total parenteral nutrition**
+
+**Secondary endpoints:**
+
+| # | Endpoint | Definition (Additional File 3) |
+|---|---|---|
+| 2 | Technical success | Gastroenterostomy created by the **allocated technique** (EUS-GE or SGJ). A second Hot AXIOS stent placed stent-in-stent **in the same procedure** after a failed first attempt still counts as success. Any additional technique, modality or different stent type (e.g. self-expandable metallic stent) = **technical failure** |
+| 3 | Clinical success | Relief of symptoms **and** tolerating soft solids (**GOOSS ≥2**) without vomiting |
+| 4 | Gastroenterostomy dysfunction | Recurrent obstructive symptoms (**GOOSS 0–1**) from recurrent GOO **at the gastroenterostomy site** after initial clinical success, **confirmed endoscopically or radiographically** |
+| 5 | Reintervention | Any radiologic, endoscopic or surgical intervention needed after EUS-GE or SGJ for an **adverse event, persistent or recurrent obstructive symptoms**; includes an alternative nutrition route (nasal feeding tube, percutaneous gastrostomy or jejunostomy, parenteral nutrition) |
+| 6 | Time to reintervention | Days from EUS-GE/SGJ to reintervention for persistent or recurrent GOO symptoms (nausea, vomiting, inability to tolerate oral intake) |
+| 7 | Adverse events (AEs) | American Society for Gastrointestinal Endoscopy (ASGE) lexicon: an event that prevents completion of the planned procedure and/or results in hospital admission, prolonged stay, another procedure (needing sedation/anesthesia), or subsequent medical consultation. Severity by **Clavien-Dindo**; **severe = ≥3B** |
+| 8 | Quality of life | European Organisation of Research and Treatment for Cancer (EORTC) QLQ-C30 core questionnaire + disease-specific EORTC QLQ-STO22 module (gastric complaints); EQ-5D-3L for cost-effectiveness analysis |
+| 9 | Time to start chemotherapy | Days after EUS-GE/SGJ until chemotherapy starts (if applicable) |
+| 10 | Length of hospital stay | Days from EUS-GE/SGJ to discharge; if transferred back to the referring hospital, the final discharge date there is used |
+| 11 | Readmission | Number and duration of readmissions **within 30 days** after EUS-GE/SGJ |
+| 12 | Weight | Weight in kilograms, **baseline vs one month** after EUS-GE/SGJ |
+| 13 | Survival | Days after EUS-GE/SGJ until death; cause of death recorded |
+| 14 | Costs | Intramural costs of EUS-GE/SGJ from hospital records, linked to Dutch unit costs; economic outcomes = Quality Adjusted Life Years (QALY) and Incremental Cost Effectiveness Ratios (ICERs) |
+
+---
+
 ## Relevance to Wiki
 
 - Supplies the **procedural detail and post-procedure management rules** on the new [[gastric-outlet-obstruction]] page — EUS-GE and laparoscopic SGJ technique, the 6-week no-re-endoscopy rule, the day-5 feeding-tube trigger, and the definition of persistent versus recurrent obstruction.
@@ -90,8 +139,12 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 ---
 
 ## Contradictions / Open Questions
+- **GOOSS versions differ between the two trials.** ENDURO (main protocol Table 2; Additional File 3) scores 0–3, with 3 = low-residue or full diet; [[jeurnink-2010-sustent-goo|SUSTENT]] scores 0–4 (3 = almost complete diet, 4 = full diet). Entry (0–1) and success (≥2) thresholds coincide.
 
 - **The comparative question is open.** ENDURO exists precisely because the EUS-GE-versus-surgery question is unanswered, and it reports nothing; EUS-GE cannot be called superior, equivalent, or inferior to surgical gastrojejunostomy until the results are published.
 - **The trial's own power assumption is not evidence.** The "3 days SGJ versus 1 day EUS-GE" figure is a planning assumption drawn from a retrospective study, used to size the trial. It must not be quoted as an observed result.
 - **No society guideline covers malignant GOO palliation.** The "<2 months → stent, ≥2 months → surgery" rule rests on a tier-2 RCT ([[jeurnink-2010-sustent-goo]]) and this protocol's background restatement of it, **not** on a tier-1 source.
+- **Secondary-endpoint numbering differs between the two files.** Main protocol (Outcomes): 4 quality of life, 5 gastroenterostomy dysfunction, 6 reintervention, 7 time to reintervention, 8 adverse events. Additional File 3: 4 gastroenterostomy dysfunction, 5 reintervention, 6 time to reintervention, 7 adverse events, 8 quality of life. Endpoints 2–3 and 9–14 match. This page uses the Additional File 3 numbers.
+- **Two definitions of persistent obstruction.** Endpoint 1b (both files) counts obstructive symptoms "such as nausea, vomiting and inability to tolerate oral intake (GOOSS 0–1)"; the main protocol's post-procedure care section adds a vomiting threshold — nausea, vomiting >2 times in 24 h, inability to tolerate at least soft solid oral intake.
+- **Adverse-event wording differs slightly.** Additional File 3 adds "(needing sedation/anesthesia)" after "another procedure" in the ASGE lexicon quote and calls Clavien-Dindo ≥3B "severe"; the main protocol calls Clavien-Dindo 3B or higher a serious adverse event.
 - **Tension with the older trial's comparator:** SUSTENT's surgical arm was 16/18 **open** gastrojejunostomy, while ENDURO standardizes a **laparoscopic** SGJ. The surgical penalty in time-to-eating and length of stay observed in 2010 likely overstates what a modern laparoscopic bypass costs.

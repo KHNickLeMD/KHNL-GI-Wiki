@@ -26,7 +26,6 @@ These documents are **already in `raw/`** at the path shown (each checked with `
 | *GI Guidelines/Other/ASCO 2021 Management of Immune-Related Adverse Events with ICI Therapy (Schneider).pdf* | new source page — [Schneider 2021](https://doi.org/10.1200/JCO.21.01440) | MMF / azathioprine / tacrolimus doses in ICI hepatitis; taper endpoints | [[immune-checkpoint-inhibitor-hepatitis]] |
 | *GI Guidelines/Other/ASPEN-SCCM 2016 Nutrition Support Therapy in the Adult Critically Ill Patient (McClave).pdf* | new source page — [McClave 2016](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
 | *GI Guidelines/ASGE/ASGE 2020 Endoscopic Removal of Colorectal Lesions - Appendix 4a DOPyS.pdf* and *…Appendix 4b CSPAT.pdf* | add to [[usmstf-2020-endoscopic-removal]] | DOPyS and CSPAT item lists | [[polypectomy]] |
-| *GI RCTs/2023 ENDURO Trial EUS GJ vs Surgical GJ - Additional File 3.pdf* | add to [[kastelijn-2023-enduro-protocol]] | primary/secondary endpoint definitions, incl. the GOOSS table | [[kastelijn-2023-enduro-protocol]], [[eus-gastroenterostomy]] |
 
 ## Scores and classification instruments (primary papers)
 

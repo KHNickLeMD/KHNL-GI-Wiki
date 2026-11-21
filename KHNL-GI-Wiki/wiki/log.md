@@ -49,6 +49,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — RCT, and the page is not verified. Card file has no note on the corrected denominator.
 - `ingest: partial` removed.
 
+**`[[kastelijn-2023-enduro-protocol]]` + Additional File 3 (ENDURO endpoint definitions) — supplement ingested into the existing protocol source page; whole page now verified.**
+- *Extract* (fresh agent, supplement pp. 1–2 rendered): `raw:` made a two-file list; new section *Endpoint Definitions (Additional File 3)* — GOOSS table, co-primary 1a/1b (incl. the 4 reintervention types), secondary 2–14; old endpoint bullets merged into it; 4 supplement-vs-protocol differences in Contradictions (secondary-endpoint numbering, persistent-GOO definition, adverse-event wording, day 0).
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH; 4 SIGN read off rendered pages (GOOSS ≥2, Clavien-Dindo ≥3B, vomiting >2 in 24 h).
+- *Independent check of the whole page* (fresh agent, ~85 claims, both files + SUSTENT): 0 management, 3 minor — eligibility table listed 1 of 8 exclusions (7 added + informed-consent inclusion, from main protocol p. 3); "inflated to 96" corrected to the separate co-primary non-inferiority calculation (15% risk, 20% margin, 44/group, + 10% drop-out → 96); "barbed" suture (not in source) → V-loc 3–0. All fixed. `verified: 2026-11-21` set (first verification of this source page).
+- *Fix every copy:* "barbed"/"inflated to 96" — no other copy in `wiki/` or the deck.
+- *Propagation:* new conflict surfaced — ENDURO's GOOSS has 4 levels (3 = low-residue or full diet) while [[jeurnink-2010-sustent-goo|SUSTENT]]'s, shown on [[gastric-outlet-obstruction]], has 5 (3 almost complete, 4 full diet). Note under the GOO page's GOOSS table + Contradictions bullet on the ENDURO page. Endpoint definitions themselves not propagated (trial-design detail; GOO/EUS-GE pages already carry the decision-relevant GOOSS thresholds and day-5 rule).
+- *Gate:* new GOO line 0 flags (pre-existing GOO flags — ABSENT L182, 9 NOMATCH — left for its Quality review). *Independent check of the changed lines* (fresh agent): 0 findings. GOO page not verified → no stamp.
+- `index.md`: ENDURO row extended. `needed-sources.md`: ENDURO row removed.
+- *Cards:* none (protocol, not tier 1).
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-21] lint | Quality review — release sweep, second run (manual, $40 budget)
