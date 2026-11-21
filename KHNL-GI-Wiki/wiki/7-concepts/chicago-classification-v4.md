@@ -4,7 +4,7 @@ category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
 updated: 2026-11-21
-sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing, bredenoord-2021-egjoo-technical-review, kahrilas-2021-ccv4-egj-barrier-metrics]
+sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing, bredenoord-2021-egjoo-technical-review, kahrilas-2021-ccv4-egj-barrier-metrics, fox-2021-ccv4-standard-hrm-protocol]
 ---
 
 ## Contents
@@ -151,7 +151,11 @@ Abnormal median IRP (CC v4.0 Table 1):
 | **RDC** | 200 mL water, as fast as possible through a straw | Absent body contractility (DCI <100) with complete deglutitive LES inhibition during RDC and no major motility disorder post-RDC |
 | **Solid test swallow** | 10 × ~1 cm³ soft solid (bread, soft-boiled rice, marshmallow) | >20% of pharyngeal swallows followed by an effective contraction (DCI >1,000) without a >5 cm break |
 
-**Outflow-obstruction criteria on provocation** (Medtronic software): IRP **>12 mmHg** over the first 30 s of the RDC, **and/or** panesophageal pressurization **>20 mmHg** during RDC (Low GRADE, Conditional); IRP **>25 mmHg** with solid swallows. These are *supportive*, not required, for [[esophagogastric-junction-outflow-obstruction|EGJOO]].
+**Outflow-obstruction criteria on provocation:** IRP **>12 mmHg** (Medtronic software) over the first 30 s of the RDC **and** panesophageal pressurization **>20 mmHg** during RDC (Low GRADE, Conditional); IRP **>25 mmHg** (Medtronic) with solid swallows. These are *supportive*, not required, for [[esophagogastric-junction-outflow-obstruction|EGJOO]].
+
+**Solid swallows and test meal — CC v4.0 protocol technical review** ([[fox-2021-ccv4-standard-hrm-protocol]]):
+- **Single solid swallows:** ≥5 (10 preferred) 1–2 cm cubes, ≥30 s apart. Effective contraction = **DL >4.5 s, break <3 cm, DCI >1000 mmHg·cm·s**; **<20% effective = IEM for solids**. ⚠ The main document's table allows a break up to 5 cm (row above) — a 3–5 cm break is effective by one and ineffective by the other; the review also requires DL >4.5 s and counts ≥20% (main document >20%) as normal.
+- **Solid test meal** (not routine — when wet swallows and other provocation leave symptoms unexplained, or findings are inconclusive and/or do not guide management): 200 g, **maximum 8 min**; not finished = abnormal. **≥2 swallows with IRP >25 mmHg** (Medtronic) = abnormal EGJ function · **≥2 with DL <4.5 s** = spasm · **≥2 with DCI >8000 mmHg·s·cm** = hypercontractile · **>80% ineffective** = IEM.
 
 ---
 
@@ -268,3 +272,4 @@ The aim is **specificity** — fewer clinically irrelevant diagnoses, and less c
 2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 3. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]
 4. [[kahrilas-2021-ccv4-egj-barrier-metrics|Chicago Classification Update (v4.0): Technical Review of High-Resolution Manometry Metrics for EGJ Barrier Function]]
+5. [[fox-2021-ccv4-standard-hrm-protocol|Chicago classification version 4.0© technical review: Update on standard high-resolution manometry protocol for the assessment of esophageal motility]]

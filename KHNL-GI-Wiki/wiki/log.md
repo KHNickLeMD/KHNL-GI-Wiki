@@ -35,6 +35,24 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — page not verified; its card file has no EGJ-metric notes to correct.
 - `ingest: partial` removed.
 
+**`[[fox-2021-ccv4-standard-hrm-protocol]]` — new source (Chicago Classification v4.0 technical review: standard HRM protocol, Fox et al, Neurogastroenterol Motil 2021), fully ingested.** Sibling of the file above; © Wiley, not CC.
+- *Extract* (fresh agent, pp. 3, 5–7, 9–10, 12–13 rendered): Box 1, Table 1 and the five "CC4 recommendation" subsections (§2.3.1, 2.5.1–2.8.1; labels the wiki's except §2.3.1's own 1/2). This PDF prints no agreement/strength/evidence levels (they are in supplementary Table S1, not on file — no `needed-sources` row: a supplement, no confirmed link). Provocative-test criteria table; Figure 9 protocol flow redrawn as one role-class Mermaid with 4-line caption; internal inconsistencies (5 vs 5–10 ml; ≥30 vs >30 s baseline) listed.
+- *Gate:* 3 ABSENT (main-document values quoted in Contradictions), 1 NOMATCH (numbering note); 27 SIGN lines read off rendered pages by the extractor, re-read by the verifier.
+- *Independent check* (fresh agent, ~150 claims, both PDFs): **1 management** — the Contradictions line reported the main document's RDC criterion as IRP >12 mmHg "and/or" pressurization >20 mmHg; the main document (p. 5, re-read here) joins them with **"and"**. Fixed, with the difference stated (Fox makes pressurization supportive). `verified: 2026-11-21` set.
+- *Fix every copy:* the same "and/or" on [[chicago-classification-v4]] (provocation criteria line) → "and"; [[chicago-v4-2021-esophageal-dysmotility]] already correct; no other copy in `wiki/`.
+- *Propagation* (lean, budget): [[chicago-classification-v4]] → new block under the provocation table: single solid swallows (≥5, 1–2 cm, ≥30 s apart; effective = DL >4.5 s, break <3 cm, DCI >1000; <20% effective = IEM for solids) with a ⚠ on the main document's >5 cm break, and the solid test meal (200 g, ≤8 min; ≥2-swallow criteria for abnormal EGJ function, spasm, hypercontractility; >80% ineffective = IEM).
+- *Gate:* new lines 0 flags. *Independent check of changed lines* (fresh agent, 33 claims): 0 management, 3 minor — Medtronic qualifier scoped to IRP only (two places), test-meal indication adds "do not guide management"; ⚠ comparison extended (Fox also requires DL >4.5 s; ≥20% vs >20%). All fixed. Page not verified → no stamp.
+- **Not propagated (budget):** Table 1 required/optional tests by starting position, MRS augmentation criteria, RDC ≥100 ml minimum and RDC-IRP >8 mmHg sensitivity point, reporting rules — all on the verified source page for the next pass ([[chicago-classification-v4]], [[high-resolution-manometry]]).
+- `index.md`: source row added; chicago-classification-v4 row 4 → 5 sources. `needed-sources.md`: CC v4.0 technical-review row removed (both files now ingested).
+- *Cards:* none — page not verified.
+- `ingest: partial` removed.
+
+**Nothing qualified / did not run:**
+- No fourth file: ~$3.5 left would not cover another extract + verify. Stopped at a clean point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*, card dedup and `{at:}` backfill: not run in this budget. Daily fetch: not this pass's job (06:00 only).
+
+**Backlog status:** backlog mode stays **ON**. Uningested US tier-1/2 still on file: ACIP 2020 hepatitis A (~30k words), ASGE 2026 research quality measures (Elmunzer), ASCO 2021 irAE, ASPEN-SCCM 2016, Halphen/Gerard bowel-prep scale papers, Jeppesen 2012 STEPS, ENDURO Additional File 3. NCCN skipped (EULA); lectures gated.
+
 ---
 
 ## [2026-11-20] lint | Quality review sweep — second run (manual, $40 budget)
