@@ -4,10 +4,12 @@ category: disease-script
 tags: [hiatal-hernia, paraesophageal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, gastric-volvulus]
 created: 2026-08-29
 updated: 2026-11-21
+quality_reviewed: 2026-11-21
+verified: 2026-11-21
 sources: [sages-2024-hiatal-hernia-surgery, sages-2013-hiatal-hernia, asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery, afs-2022-egj-integrity-classification, bredenoord-2021-egjoo-technical-review]
 ---
 
-*Herniation of the stomach through the diaphragmatic hiatus. Two different problems: the **sliding (type I)** hernia is repaired only as part of a [[gerd|gastroesophageal reflux disease (GERD)]] operation, where its size and the [[reflux-testing|Hill grade]] select the procedure; the **paraesophageal (types II–IV)** hernia is repaired for its own symptoms and complications.*
+*Herniation of the stomach through the diaphragmatic hiatus. Two different problems: the **sliding (type I)** hernia is rarely repaired without [[gerd|gastroesophageal reflux disease (GERD)]] (exception: hernias found at bariatric operations) and is usually repaired as part of a GERD operation, where its size and the [[reflux-testing|Hill grade]] select the procedure; the **paraesophageal (types II–IV)** hernia is repaired for its own symptoms and complications.*
 
 ## Contents
 - [[#Assessment]]
@@ -129,7 +131,7 @@ An anatomic diagnosis, made at endoscopy or imaging. **The four types are define
 A sliding hernia is repaired for its reflux: **when a type I hernia is repaired, a fundoplication must be performed** (Guideline 13, ⊕⊕, weak, [[sages-2013-hiatal-hernia]]). Full selection table on **[[antireflux-surgery]]**; TIF criteria and technique on **[[transoral-incisionless-fundoplication]]**.
 
 - **A large hiatal hernia supports [[antireflux-surgery|antireflux surgery]]** by an experienced surgeon in patients with objective GERD — alongside LA grade C/D esophagitis and persistent troublesome symptoms (Strong / Moderate, [[acg-2021-gerd]]).
-- **Hernia ≤2 cm + Hill I or II** → TIF 2.0 evaluation (Conditional / Low, [[asge-2024-gerd]]).
+- **Confirmed GERD + hernia ≤2 cm + Hill I or II**, meeting TIF criteria (chronic GERD or PPI use ≥6 mo, refractory or regurgitation-predominant GERD, or wish to avoid long-term PPI) → TIF 2.0 evaluation (Conditional / Low, [[asge-2024-gerd]]).
 - **Hernia >2 cm + Hill III or IV** → cTIF — laparoscopic hernia repair, then TIF in the same anesthetic — evaluated in multidisciplinary review (Conditional / Very Low, [[asge-2024-gerd]]); or LARS ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **cTIF target = 2–3 cm of intra-abdominal esophagus**, not a hernia-size cutoff; not obtainable → **do not perform the TIF** ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **PEH** → relative contraindication to TIF with the EsophyX device ([[afs-2023-transoral-incisionless-fundoplication]]).
@@ -167,7 +169,7 @@ flowchart TD
 **The numbers behind watchful waiting** ([[sages-2013-hiatal-hernia]]):
 - Asymptomatic → symptomatic PEH **≈ 14% per year**; acute symptoms **requiring emergency surgery <2% per year**.
 - **Emergency repair mortality 0–5.4%** in recent reports; average for emergency hiatal hernia surgery **~17%**.
-- **Age ≥65:** decision modelling suggests elective repair of a completely asymptomatic PEH may **decrease** quality-adjusted life expectancy → repair reserved for **gastric outlet obstruction symptoms, severe reflux or anemia, or possible strangulation**.
+- **Completely asymptomatic PEH:** decision modelling suggests repair be reserved for **gastric outlet obstruction symptoms, severe reflux or anemia, or possible strangulation**; at **age ≥65**, elective repair may **decrease** quality-adjusted life expectancy.
 - **Only hernias with the fundus above the diaphragm (PEH) are at risk of obstruction.**
 
 ### Paraesophageal (type II–IV) hernia — the surgical questions
@@ -241,7 +243,7 @@ All from [[sages-2013-hiatal-hernia]]:
 
 ## Sources
 
-1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+1. [[asge-2024-gerd|ASGE 2025: Diagnosis and Management of GERD]]
 2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 3. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 4. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

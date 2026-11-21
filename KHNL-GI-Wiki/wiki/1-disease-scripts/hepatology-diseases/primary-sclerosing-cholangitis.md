@@ -4,7 +4,9 @@ category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
 updated: 2026-11-21
-sources: [aasld-2022-psc, acg-2015-psc, aga-2019-psc-cancer-surveillance, asge-2025-ibd-endoscopy-consensus, acg-2026-preventive-care-cirrhosis, baveno-viii-2026-portal-hypertension, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis, sru-2022-gallbladder-polyps]
+quality_reviewed: 2026-11-21
+verified: 2026-11-21
+sources: [aasld-2022-psc, acg-2015-psc, aga-2019-psc-cancer-surveillance, asge-2025-ibd-endoscopy-consensus, acg-2026-preventive-care-cirrhosis, ecco-2024-eim-ibd, esge-2026-biliary-strictures, easl-2025-autoimmune-hepatitis, sru-2022-gallbladder-polyps]
 ---
 
 ## Contents
@@ -166,7 +168,6 @@ flowchart TD
   - AIH/PSC variant treatment: [[autoimmune-hepatitis]]
 - **[[portal-hypertension|Portal hypertension]] / [[cirrhosis]]:** managed as in other chronic liver disease
   - Varix screening per GS 17 ([[#Diagnostics]]): Baveno VI criteria had 0% false negatives for varices needing treatment in 80 PSC patients with compensated cirrhosis; 30% of esophagogastroduodenoscopies avoidable
-  - [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]], a non-US consensus, uses a different rule (no screening on a [[nonselective-beta-blockers|nonselective beta-blocker]]; spleen stiffness option) and notes LS cut-offs are less reliable in PSC with dominant strictures; the AASLD PSC rule stands here — Baveno VIII thresholds on [[portal-hypertension]]
   - [[porto-sinusoidal-vascular-disorder|Noncirrhotic portal hypertension]] and infected [[tips|transjugular intrahepatic portosystemic shunt]] occur rarely
 - Hepatitis A and B vaccination if not immune; alcohol abstinence counseling in cirrhosis
 
@@ -255,7 +256,7 @@ flowchart TD
 
 - Risk 5–12× general population, **4–5× IBD without PSC**; endoscopically invisible dysplasia more frequent; low-grade dysplasia progresses faster. Children develop CRC at rates similar to adults (5% at 10 years); 5% of children with PSC and no known IBD have quiescent colitis → ileocolonoscopy at diagnosis includes children
 - Chromoendoscopy when only standard-definition (640×480 pixels) colonoscopy is available; biopsy-proven invisible low-grade dysplasia → high-definition colonoscopy with chromoendoscopy
-- [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] (newer, ungraded consensus): **yearly** colonoscopy in PSC with UC or large-bowel Crohn's, regardless of IBD extent and duration, with narrow-band imaging or chromoendoscopy **and** targeted plus random biopsies (invisible nonconventional dysplasia). Take the annual interval. Technique and interval grid: [[ulcerative-colitis#Colorectal Cancer Surveillance]]
+- [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] (newer, ungraded consensus): **yearly** colonoscopy in PSC with UC or large-bowel Crohn's, regardless of IBD extent and duration, with narrow-band imaging or chromoendoscopy **and** mucosal biopsy sampling (Seattle-protocol random biopsies likely add value to targeted sampling in PSC). Take the annual interval. Technique and interval grid: [[ulcerative-colitis#Colorectal Cancer Surveillance]]
 
 > [!pitfall] CA 19-9 alone never diagnoses CCA
 > Up to one-third of PSC patients with a raised CA 19-9 have no cancer, and up to 10% of people cannot make it (GS 32, [[aasld-2022-psc]]).
@@ -332,8 +333,7 @@ flowchart TD
 3. [[aga-2019-psc-cancer-surveillance|AGA Clinical Practice Update on Surveillance for Hepatobiliary Cancers in Patients With Primary Sclerosing Cholangitis: Expert Review (2019)]]
 4. [[asge-2025-ibd-endoscopy-consensus|Endoscopic diagnosis and management of adult inflammatory bowel disease: a consensus document from the American Society for Gastrointestinal Endoscopy IBD Endoscopy Consensus Panel (2025)]]
 5. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
-6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-7. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
-8. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
-9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
-10. [[sru-2022-gallbladder-polyps|Management of Incidentally Detected Gallbladder Polyps: Society of Radiologists in Ultrasound Consensus Conference Recommendations (2022)]]
+6. [[ecco-2024-eim-ibd|ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease (2024)]]
+7. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+8. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
+9. [[sru-2022-gallbladder-polyps|Management of Incidentally Detected Gallbladder Polyps: Society of Radiologists in Ultrasound Consensus Conference Recommendations (2022)]]
