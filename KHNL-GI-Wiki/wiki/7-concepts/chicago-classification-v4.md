@@ -3,8 +3,8 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-11-13
-sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing, bredenoord-2021-egjoo-technical-review]
+updated: 2026-11-21
+sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing, bredenoord-2021-egjoo-technical-review, kahrilas-2021-ccv4-egj-barrier-metrics]
 ---
 
 ## Contents
@@ -222,14 +222,30 @@ The aim is **specificity** — fewer clinically irrelevant diagnoses, and less c
 
 ## EGJ Metrics (Descriptive, Not Diagnostic)
 
-- **EGJ-contractile integral (EGJ-CI):** referenced to intragastric pressure, expressed in mmHg·cm. **<25 mmHg·cm** was *suggested* as hypotensive EGJ — explicitly **not met with agreement** in CC v4.0, so it is not a consensus threshold.
-- **LES–crural diaphragm (CD) separation:** scored as the distance between the **center of the crural diaphragm and the LES signal during inspiration** (at expiration if obscured). *CC v4.0 gives no numeric cut-off* — do not quote one.
-- **Respiratory inversion point (RIP):** the axial location where the inspiratory pressure change flips from an inspiratory *increase* (intra-abdominal) to an inspiratory *decrease* (intrathoracic).
-- **EGJ morphology — 3 subtypes** (define the EGJ complex from LES-CD separation + RIP location; Low GRADE, Conditional):
-  1. Normal — CD superimposed on LES, RIP proximal to the complex
-  2. LES-CD separation with RIP proximal to the **CD**
-  3. LES-CD separation with RIP proximal to the **LES**
-  - ⚠ No consensus on the naming scheme (I/II/III vs A/C/B); both are acceptable.
+*EGJ barrier metrics for [[gerd|gastroesophageal reflux disease (GERD)]]; statements with agreement, strength and evidence level are from the CC v4.0 EGJ technical review ([[kahrilas-2021-ccv4-egj-barrier-metrics]]).*
+
+- **Where to measure:** quiet respiration in the baseline recording, in a segment relatively free of swallows and artifacts (Strong, 95%).
+- **EGJ-contractile integral (EGJ-CI):** referenced to intragastric pressure, expressed in mmHg·cm (Strong, 86%). Distal contractile integral box over the LES and CD for **exactly three respiratory cycles**, divided by the duration of those cycles. Best validated metric of EGJ contractile vigor; within a laboratory, the lower the value, the more severe the EGJ dysfunction.
+  - **No firm abnormality threshold** — each laboratory must establish its own normal range ([[kahrilas-2021-ccv4-egj-barrier-metrics]]). **<25 mmHg·cm** was *suggested* as hypotensive EGJ in the main CC v4.0 document but **not met with agreement** ([[chicago-v4-2021-esophageal-dysmotility]]).
+  - No consensus on excluding the CD from the computation when LES-CD separation is >2 cm.
+- **LES–crural diaphragm (CD) separation:** scored as the distance between the **center of the crural diaphragm and the LES signal during inspiration** (at expiration if obscured) (Strong, 91%). **>1 cm is suggestive, but still inconclusive, of hiatus hernia**; there is **no agreement on the separation threshold that defines hiatal hernia**.
+- **Respiratory inversion point (RIP):** the axial location where the inspiratory pressure change flips from an inspiratory *increase* (intra-abdominal) to an inspiratory *decrease* (intrathoracic) (Strong, 95%, Very Low). Normal state (subtype 1) → RIP at the proximal margin of the LES-CD complex (Strong, 88%, Low).
+- **EGJ morphology — 3 subtypes** (Conditional, 80%, Low). The main document grades "define the EGJ complex from LES-CD separation and RIP location" Low GRADE, Conditional, and lists the subtypes ungraded:
+
+| Subtype | Technical review criteria | Main CC v4.0 wording |
+|---|---|---|
+| 1 | No hiatal hernia: LES-CD separation **<1 cm** | Normal — CD superimposed on LES, RIP proximal to the complex |
+| 2 | Hiatal hernia (text: *indeterminant*), distal RIP: separation **>1 cm**, RIP **between the LES and CD** | LES-CD separation with RIP proximal to the **CD** |
+| 3 | Hiatal hernia, proximal RIP: separation **>1 cm** (text: *complete* separation), RIP **proximal to the LES** | LES-CD separation with RIP proximal to the **LES** |
+
+*EGJ morphology subtypes on high-resolution manometry*
+*Source: table of the CC v4.0 EGJ technical review §3 #4 and Table 2, beside the main CC v4.0 document's subtype list*
+*[[kahrilas-2021-ccv4-egj-barrier-metrics|CC v4.0 Technical Review: HRM Metrics for EGJ Barrier Function]] · [[chicago-v4-2021-esophageal-dysmotility|CC v4.0 main document]]*
+*EGJ = esophagogastric junction · LES = lower esophageal sphincter · CD = crural diaphragm · RIP = respiratory inversion point · CC = Chicago Classification*
+
+- With hiatus hernia, the RIP can sit either between the LES and CD or proximal to the LES (Conditional, 81%, Low). **LES-CD separation >3 cm → RIP location can be unreliable**; these patients usually have an incompetent EGJ (Conditional, 81%, Low).
+- ⚠ No consensus on the subtype naming scheme (I/II/III vs A/C/B); both are acceptable ([[chicago-v4-2021-esophageal-dysmotility]]). The technical review found no reason to separate the Lyon consensus's type II from type III.
+- **Intragastric pressure:** measured during quiet respiration in the baseline segment, preferably the one used for the EGJ-CI (Strong, 95%). On average **8 mmHg** ≈ waist circumference 36 inches or body mass index (BMI) about 30 kg/m² — a suggested indicator of abdominal obesity; **no consensus** on a value that is conclusive evidence of abnormality ([[kahrilas-2021-ccv4-egj-barrier-metrics]]).
 
 ---
 
@@ -251,3 +267,4 @@ The aim is **specificity** — fewer clinically irrelevant diagnoses, and less c
 1. [[chicago-v4-2021-esophageal-dysmotility|Esophageal Motility Disorders on High-Resolution Manometry: Chicago Classification Version 4.0]]
 2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
 3. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]
+4. [[kahrilas-2021-ccv4-egj-barrier-metrics|Chicago Classification Update (v4.0): Technical Review of High-Resolution Manometry Metrics for EGJ Barrier Function]]

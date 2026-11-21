@@ -24,6 +24,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* no new cards (page not verified). Existing card file corrected in place (`page_updated:` left): e90001 (60 min is now the guideline's), e9000e ("some" AERs), e9000f (patient added → five recipients), e9000a/e9000b relabelled from "MSTF 2016" to the multisociety guideline.
 - `ingest: partial` removed.
 
+**`[[kahrilas-2021-ccv4-egj-barrier-metrics]]` — new source (Chicago Classification v4.0 technical review: HRM metrics for EGJ barrier function, Kahrilas et al, Neurogastroenterol Motil 2021), fully ingested.** CC v4.0 working-group consensus (RAM voting + GRADE); © Wiley, not CC → no figure capture. Picked from the `needed-sources.md` row naming files already in `raw/`.
+- *Extract* (fresh agent, pp. 2–8 rendered): all **9** accepted statements (Table 2 numbers none; text numbering restarts per section — §3 #1–7, §4 #1, §4.2 #1 used as labels) with agreement %, strength and level of evidence as printed; text-vs-Table 2 wording differences for subtypes 2–3 shown side by side; Figure 1 EGJ-CI worked examples and Table 1 (patients vs controls) recreated; no decision algorithm.
+- *Gate:* 10 ABSENT (9 Figure-1 values that exist only in the image + one split "44"), 3 OTHER (the "not in the main document" comparison line), 4 NOMATCH (own comparison lines, figure value) — all confirmed on rendered pp. 3, 7; Table 2 signs (<1 / >1 / >3 cm) read off rendered p. 8 by the main thread.
+- *Independent check* (fresh agent, ~120 claims + main CC v4.0 PDF p. 13): 0 management, 2 minor — §1 → §2 locator; "do not explain" → "are unlikely to explain" between-center differences. Both fixed. `verified: 2026-11-21` set.
+- *Propagation* (from the verified source page): [[chicago-classification-v4]] → *EGJ Metrics* rebuilt: measurement segment, EGJ-CI method and "no firm threshold — each lab sets its own normal range" beside the main document's unagreed <25 mmHg·cm, LES-CD separation (>1 cm suggestive but inconclusive of hiatus hernia; no agreed hernia threshold), RIP definition and >3 cm caveat, a subtype table (technical-review criteria beside the main document's wording, 4-line caption), intragastric pressure. Replaces the page's "CC v4.0 gives no numeric cut-off — do not quote one" (true of the main document only; no other copy in `wiki/`).
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH; SIGN lines = the Table 2 signs read above (pre-existing L127/L150/L201 flags untouched).
+- *Independent check of changed lines* (fresh agent, 28 claims, both PDFs): 2 minor — ">3 cm → RIP *can be* unreliable" hedge restored; the main document's Low/Conditional grade belongs to "define the EGJ complex by LES-CD separation and RIP", the subtype list itself is ungraded. Both fixed. Page carries no `verified:` → no stamp.
+- `index.md`: source row added; chicago-classification-v4 row (stale 2 → 4 sources). `needed-sources.md`: Kahrilas removed from the CC v4.0 technical-review row (Fox remains).
+- *Cards:* none — page not verified; its card file has no EGJ-metric notes to correct.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-20] lint | Quality review sweep — second run (manual, $40 budget)
