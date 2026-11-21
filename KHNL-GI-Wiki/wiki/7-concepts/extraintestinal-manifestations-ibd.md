@@ -39,13 +39,10 @@ Entities with their own pages are linked out; this page carries the framework, t
 
 | Category | Definition | Named examples |
 |---|---|---|
-| **Classical** | Inflammatory process occurring at a **distant site** | Erythema nodosum, pyoderma gangrenosum, episcleritis, uveitis, peripheral and axial spondyloarthropathy, [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]] |
-| **Associations** | Association with **other immune-mediated disorders** | Multiple sclerosis, interstitial lung disease, bronchiectasis, ischaemic heart disease, myocarditis, pericarditis, cerebrovascular accident |
-| **Complications** | Complications of **systemic inflammation** | Venous thromboembolism (VTE), anaemia, osteoporosis, fatigue |
-| **Treatment** | **Side effects of IBD therapy** | Pancreatitis, drug-induced skin lesions, drug-induced liver injury |
-
-> [!pearl] The category tells you whether treating the gut is the treatment
-> Reactive and classical EIMs such as erythema nodosum track intestinal disease activity and resolve when it is controlled. Associations (multiple sclerosis, bronchiectasis) and treatment-related manifestations do not — chasing the bowel will not fix them ([[ecco-2024-eim-ibd]]).
+| **Classical** | Inflammatory process occurring at a **distant site** | Uveitis, scleritis, episcleritis, oral manifestations, [[primary-sclerosing-cholangitis\|primary sclerosing cholangitis (PSC)]], [[autoimmune-hepatitis\|autoimmune hepatitis (AIH)]], spondyloarthropathy (axial/non-axial), pyoderma gangrenosum, erythema nodosum, Sweet syndrome |
+| **Associations** | Association with **other immune-mediated disorders** | Multiple sclerosis, interstitial lung disease, bronchiectasis, myocarditis |
+| **Complications** | Complications of **systemic inflammation** | Cerebrovascular accident, ischaemic heart disease, fatigue, anaemia, venous thromboembolism (VTE) |
+| **Treatment** | **Side effects of IBD therapy** | Pericarditis, pancreatitis, psoriasiform rash, osteoporosis |
 
 ---
 
@@ -230,7 +227,7 @@ Diagnostic criteria, monitoring intervals, retreatment thresholds and the route-
 | **Episcleritis** | **Topical lubricants and cool compresses** *[EL4]*; topical NSAIDs and corticosteroids if symptoms persist despite controlling the IBD |
 
 - **Uveitis should be jointly managed by a gastroenterologist and a specialized ophthalmologist on an urgent basis** (Statement 29). **There is currently no trial evidence for non-TNFα-antagonist biologics or small molecules in IBD-associated uveitis.**
-- Uveitis/iritis prevalence **11.1%** (205/1840) in the prospective Swiss IBD Cohort Study.
+- Uveitis/iritis prevalence **11.1%** (205/1840) in Crohn's disease and 5.6% (80/1426) in UC in the prospective Swiss IBD Cohort Study.
 - Scleritis occurs in **<1%** of IBD cases (incidence ~2.8 per 100 000 person-years); CD carries an over three-fold (odds ratio 3.6, *p* < 0.001) and UC an over two-fold (odds ratio 2.2, *p* < 0.001) increased risk.
 
 > [!pitfall] Eye pain that prevents sleep is an urgent referral

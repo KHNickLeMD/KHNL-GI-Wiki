@@ -3,7 +3,8 @@ title: "ACG 2021 Clinical Guideline: Diagnosis and Management of GERD"
 category: source
 tags: [gerd, reflux, esophageal, ppi, barrett, antireflux-surgery, tif, msa, extraesophageal]
 created: 2026-05-16
-updated: 2026-09-24
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2021 Diagnosis and Management of Gastroesophageal Reflux Disease.pdf"
 ---
@@ -29,7 +30,7 @@ A substantial section addresses extraesophageal manifestations ([[laryngopharyng
 
 ## Recommendations
 
-Verbatim from Table 1 unless noted; section numbering is the guideline's own (each section restarts at 1).
+Verbatim from Table 1 or the body text (body wording used where they differ); section numbering is the guideline's own (each section restarts at 1).
 
 ### Diagnosis of GERD
 
@@ -38,7 +39,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 | 1 | For patients with classic GERD symptoms of heartburn and regurgitation who have no alarm symptoms, we recommend an 8-wk trial of empiric PPIs once daily before a meal. | Strong | Moderate |
 | 2 | We recommend attempting to discontinue the PPIs in patients whose classic GERD symptoms respond to an 8-wk empiric trial of PPIs. | Conditional | Low |
 | 3 | We recommend diagnostic endoscopy, ideally after PPIs are stopped for 2–4 weeks, in patients whose classic GERD symptoms do not respond adequately to an 8-week empiric trial of PPIs or whose symptoms return when PPIs are discontinued. *(text only — not carried in Table 1)* | Strong | Low |
-| 4 | In patients with chest pain who have had adequate evaluation to exclude heart disease, objective testing for GERD (endoscopy and/or reflux monitoring) is recommended. | Conditional | Low |
+| 4 | In patients with chest pain without heartburn who have had adequate evaluation to exclude heart disease, objective testing for GERD (endoscopy and/or reflux monitoring) is recommended. | Conditional | Low |
 | 5 | We do not recommend the use of a barium swallow solely as a diagnostic test for GERD. | Conditional | Low |
 | 6 | We recommend endoscopy as the first test for evaluation of patients presenting with dysphagia or other alarm symptoms (weight loss and GI [gastrointestinal] bleeding) and for patients with multiple risk factors for Barrett's esophagus. | Strong | Low |
 | 7 | In patients for whom the diagnosis of GERD is suspected but not clear, and endoscopy shows no objective evidence of GERD, we recommend reflux monitoring be performed off therapy to establish the diagnosis. | Strong | Low |
@@ -119,7 +120,8 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 
 - It is important to stop PPI therapy in patients whose off-therapy reflux testing is negative, unless another indication for continuing PPIs is present.
 - Esophageal manometry should be considered as part of the evaluation for refractory GERD in patients with a normal endoscopy and pH monitoring study and for patients being considered for surgical or endoscopic treatment.
-- If not already performed off PPIs, we recommend diagnostic upper endoscopy with esophageal biopsies after discontinuing PPI therapy, ideally for 2 to 4 wk.
+- If not already performed off PPIs, we recommend diagnostic upper endoscopy with esophageal biopsies after discontinuing PPI therapy, ideally for 2 to 4 wk; biopsies even if endoscopy shows normal mucosa.
+- We recommend high-resolution esophageal manometry in refractory GERD if reflux monitoring and endoscopy are unrevealing (body-text key concept 4).
 - For patients with PPI-refractory symptoms who have a normal pH monitoring test OFF PPIs or a normal impedance-pH monitoring test ON PPIs (including a negative SI [symptom index] and SAP [symptom association probability]), we recommend discontinuation of PPIs unless there is an indication for PPI therapy other than the refractory symptoms.
 
 **Surgical and endoscopic therapy**
@@ -189,7 +191,7 @@ Verbatim from Table 1 unless noted; section numbering is the guideline's own (ea
 
 - **TIF hiatal hernia threshold:** ACG 2021 excludes hiatal hernias >2 cm (consistent with ASGE 2024), but predates the cTIF data reviewed in ASGE 2024, which stratifies by hernia size more granularly.
 - **Stretta:** ACG 2021 makes a conditional, low-evidence statement that it *cannot* be recommended as an alternative to medical or surgical antireflux therapy — it is a graded statement, not a silence. ASGE 2024 similarly does not recommend Stretta for most patients.
-- **Table 1 vs text:** Table 1 omits the diagnostic-endoscopy recommendation that appears as Diagnosis #3 in the text, and softens "We recommend against" (text, Diagnosis #8) to "We suggest against" while retaining the strong/low grade.
+- **Table 1 vs text:** Table 1 omits the diagnostic-endoscopy recommendation that appears as Diagnosis #3 in the text, and softens "We recommend against" (text, Diagnosis #8) to "We suggest against" while retaining the strong/low grade. Table 1 also says "recommend" where the text says "suggest" for Refractory #2–4 and Surgical #3 (conditional in both).
 - **Salivary pepsin:** not recommended for evaluation of extraesophageal reflux symptoms; the guideline attributes this to difficulty distinguishing patients from normal controls.
 
 ## See Also

@@ -3,7 +3,8 @@ title: "ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel 
 category: source
 tags: [ibd, extraintestinal-manifestations, vte, anemia, psc, spondyloarthritis, erythema-nodosum, pyoderma-gangrenosum, uveitis, osteoporosis, ecco]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/Other/ECCO 2024 Extraintestinal Manifestations in IBD (Gordon).pdf"
 ---
@@ -18,9 +19,9 @@ raw: "GI Guidelines/Other/ECCO 2024 Extraintestinal Manifestations in IBD (Gordo
 
 ## Summary
 
-ECCO's guideline on extraintestinal manifestations (EIMs) of inflammatory bowel disease (IBD) — **32 numbered consensus statements** (several with lettered sub-parts: 2.1–2.2, 5.1–5.3, 6.1–6.4), each carrying an **evidence level EL1–EL5** and a **consensus percentage** from the voting round. The document deliberately covers both the classical EIMs and the systems a gastroenterologist is expected to monitor rather than treat.
+ECCO's guideline on extraintestinal manifestations (EIMs) of inflammatory bowel disease (IBD) — **32 numbered consensus statements** (several with lettered sub-parts: 2.1–2.2, 5.1–5.3, 6.1–6.4), each carrying an **evidence level EL1–EL5** and a **consensus percentage** from the voting round. Venous thromboembolism and anaemia are included although whether they are strictly EIMs is debated, because they carry a considerable health burden.
 
-Its organising framework divides EIMs into **four categories**: **Classical** (an inflammatory process occurring at a distant site), **Associations** (other immune-mediated disorders that co-occur), **Complications** (consequences of systemic inflammation), and **Treatment** (side effects of IBD therapy). The distinction matters because it predicts whether controlling the bowel disease will control the manifestation.
+Its organising framework divides EIMs into **four categories**: **Classical** (an inflammatory process occurring at a distant site), **Associations** (other immune-mediated disorders that co-occur), **Complications** (consequences of systemic inflammation), and **Treatment** (side effects of IBD therapy).
 
 Content spans thromboembolism and cardiovascular risk, anaemia (the most detailed section, with explicit diagnostic criteria, monitoring intervals and retreatment thresholds), pulmonary disease, hepatobiliary disease including primary sclerosing cholangitis (PSC) and autoimmune hepatitis (AIH), pancreatitis, metabolic bone disease, axial and peripheral spondyloarthropathy, cutaneous manifestations, ear-nose-throat, ocular manifestations, neurological manifestations, and fatigue.
 
@@ -32,10 +33,10 @@ This is a **European** guideline. Where a United States society guideline alread
 
 | Category | Definition | Examples named |
 |---|---|---|
-| **Classical** | Inflammatory process occurring at distant sites | Erythema nodosum, pyoderma gangrenosum, episcleritis, uveitis, peripheral and axial spondyloarthropathy, PSC, AIH |
-| **Associations** | Associations with other immune-mediated disorders | Multiple sclerosis, interstitial lung disease, bronchiectasis, ischaemic heart disease, myocarditis, pericarditis, cerebrovascular accident |
-| **Complications** | Complications of systemic inflammation | Venous thromboembolism, anaemia, osteoporosis, fatigue |
-| **Treatment** | Side effects of IBD therapy | Pancreatitis, drug-induced skin lesions, drug-induced liver injury |
+| **Classical** | Inflammatory process occurring at distant sites | Uveitis, scleritis, episcleritis, oral manifestations, PSC, AIH, spondyloarthropathy (axial/non-axial), pyoderma gangrenosum, erythema nodosum, Sweet syndrome |
+| **Associations** | Associations with other immune-mediated disorders | Multiple sclerosis, interstitial lung disease, bronchiectasis, myocarditis |
+| **Complications** | Complications of systemic inflammation | Cerebrovascular accident, ischaemic heart disease, fatigue, anaemia, venous thromboembolism |
+| **Treatment** | Side effects of IBD therapy | Pericarditis, pancreatitis, psoriasiform rash, osteoporosis |
 
 ### Statements 1–4 — Thromboembolism and cardiovascular disease
 
@@ -97,7 +98,7 @@ This is a **European** guideline. Where a United States society guideline alread
 
 27. **Aural and nasal manifestations in IBD are very rare and there is not sufficient evidence to recommend any specific treatment** *[EL5]*. *[consensus 94%]* — all information rests on case reports, series and expert opinion. In an ECCO CONFER project of 22 cases of concomitant **Cogan's syndrome** and IBD, immunomodulatory maintenance and even TNFα antagonists did **not** prevent disease onset, and IBD activity did not appear to trigger it.
 28. **Ocular manifestations associated with IBD are relatively frequent. The most frequent is anterior uveitis.** Less frequent: **episcleritis, conjunctivitis, scleritis, optic neuritis, ischaemic optic neuropathy, other uveitis subtypes, central retinal vein occlusion, and orbital inflammation or myositis** *[EL3]*. *[consensus 100%]*
-29. **The choice of therapy for IBD-associated uveitis depends on the type of uveitis and the underlying IBD activity. Topical corticosteroid drops are recommended first-line for anterior uveitis. Intravitreal or systemic corticosteroids, with or without second-line steroid-sparing agents, may be required for intermediate, posterior and panuveitis. Adalimumab or infliximab are recommended as third-line treatment when sight-threatening ocular inflammation persists and/or there is active underlying IBD** *[EL4]*. **There is currently no trial evidence regarding the efficacy of non-TNFα-antagonist biologics and small molecules for IBD-associated uveitis. Uveitis should be jointly managed by a gastroenterologist and a specialized ophthalmologist on an urgent basis.** *[consensus 97%]* — uveitis/iritis prevalence **11.1% (205/1840)** in the prospective Swiss IBD Cohort Study.
+29. **The choice of therapy for IBD-associated uveitis depends on the type of uveitis and the underlying IBD activity. Topical corticosteroid drops are recommended first-line for anterior uveitis. Intravitreal or systemic corticosteroids, with or without second-line steroid-sparing agents, may be required for intermediate, posterior and panuveitis. Adalimumab or infliximab are recommended as third-line treatment when sight-threatening ocular inflammation persists and/or there is active underlying IBD** *[EL4]*. **There is currently no trial evidence regarding the efficacy of non-TNFα-antagonist biologics and small molecules for IBD-associated uveitis. Uveitis should be jointly managed by a gastroenterologist and a specialized ophthalmologist on an urgent basis.** *[consensus 97%]* — uveitis/iritis prevalence **11.1% (205/1840) in Crohn's disease and 5.6% (80/1426) in UC** in the prospective Swiss IBD Cohort Study.
 30. **Early use of oral NSAIDs and consideration of systemic corticosteroids is recommended for scleritis. Steroid-sparing agents, including TNFα antagonists, may be used in refractory cases or when corticosteroid response is incomplete** *[EL4]*. **Topical lubricants and cool compresses are recommended for episcleritis; topical NSAIDs and corticosteroids should be considered if symptoms persist despite controlling IBD** *[EL4]*. ⚠ **Patients with symptoms suggestive of scleritis, in particular eye pain preventing sleep, should be urgently referred to an ophthalmologist**, as correct classification and management impact severity and prognosis *[EL4]*. *[consensus 100%]* — scleritis occurs in **<1%** of IBD cases (incidence ~2.8 per 100 000 person-years); CD carries an over three-fold (odds ratio 3.6, *p* < 0.001) and UC an over two-fold (odds ratio 2.2, *p* < 0.001) increased risk.
 
 ### Statements 31–32 — Neurological and fatigue
@@ -125,7 +126,7 @@ Figure 1 is a whole-body schematic of EIMs by category, adapted from Hedin et al
 
 ## Contradictions / Open Questions
 
-- **NSAIDs in IBD.** ECCO 2024 finds **no** evidence of an association between NSAID use and UC flare *[EL1]* and only a potential association with CD flare, recommending case-by-case decisions and permitting short-course COX-2 inhibitors. This is a notably more permissive stance than the blanket NSAID avoidance often taught; ECCO's own meta-analysis (13 studies, 6276 participants) found neither relative risk reached significance.
+- **NSAIDs in IBD.** ECCO 2024 finds **no** evidence of an association between NSAID use and UC flare *[EL1]* and only a potential association with CD flare, recommending case-by-case decisions and permitting short-course COX-2 inhibitors. ECCO's own meta-analysis (13 studies, 6276 participants) found neither relative risk reached significance.
 - **Ursodeoxycholic acid dose in PSC-IBD.** The document reports directly conflicting data on colorectal-cancer risk — medium–low dose (<25 mg/kg/day) associated with **reduced** neoplasia risk in some studies, higher dose with **higher** risk and more adverse events in others, and no difference in still others — and does not resolve it.
 - **Myocarditis attribution.** Whether the increased myocarditis risk is driven by IBD itself or by mesalazine and TNFα antagonists **remains undetermined on the available data**; pericarditis, by contrast, is described as almost universally therapy-driven.
 - **European versus US guidance.** This is an ECCO document. On iron deficiency anaemia, PSC and AIH the wiki follows [[aga-2024-ida-management|AGA 2024]], [[aasld-2022-psc|AASLD 2022]] and [[aasld-2020-autoimmune-hepatitis|AASLD 2020]] respectively; ECCO's contribution on those pages is restricted to the IBD-specific criteria and intervals those documents do not supply.

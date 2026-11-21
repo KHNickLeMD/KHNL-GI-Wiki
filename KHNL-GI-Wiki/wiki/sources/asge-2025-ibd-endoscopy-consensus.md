@@ -3,7 +3,8 @@ title: "ASGE 2025: Endoscopic Diagnosis and Management of Adult Inflammatory Bow
 category: source
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, surveillance, dysplasia, pouchitis, stricture, consensus, asge]
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2025 Endoscopic Diagnosis and Management of Adult IBD Consensus (Shen).pdf"
 ---
@@ -22,7 +23,7 @@ An ASGE-convened panel of 14–15 voting experts in inflammatory bowel disease (
 
 **Methodology — read this before quoting any statement.** This is a **modified Delphi consensus, not a GRADE guideline.** There is **no systematic review, no certainty-of-evidence rating and no recommendation strength.** The only quantitative attribute each statement carries is the **percentage of panelists voting "agree" or "strongly agree"**; a statement was accepted when that exceeded **80%**, excluding "neutral" and "do not have expertise" votes (those were not counted in the denominator). Three voting rounds were used, with virtual meetings on 2 and 10 October 2023 to discuss statements that had not reached consensus, plus an additional May 2024 survey on the ulcerative colitis (UC) surveillance interval. Statement numbering below is the **document's own**.
 
-**38 statements achieved consensus** (Table 1). **17 statements did not** (Table 2) and are published separately — several of them are positions commonly assumed to be settled practice, so the failure to reach consensus is itself informative.
+**38 statements achieved consensus** (Table 1). **17 statements did not** (Table 2, explained in the text) — several of them are positions commonly assumed to be settled practice, so the failure to reach consensus is itself informative.
 
 The document positions endoscopy as the reference standard for disease activity (symptom scores correlate poorly with endoscopic inflammation, especially in Crohn's disease [CD]), formalizes biopsy density and site rules, and stratifies dysplasia surveillance for the colon, the diverted large bowel and the ileal pouch separately.
 
@@ -143,14 +144,14 @@ Supporting detail:
 
 These are published as *not* agreed. Several are positions a reader may assume are standard, so the non-consensus is the finding.
 
-1. NSAIDs and other inflammation-inducing agents should be **held for 4 wk** before ileocolonoscopy in known IBD. *(The general "avoid before diagnostic ileocolonoscopy" statement 3 did pass; the 4-week hold did not.)*
+1. NSAIDs and other inflammation-inducing agents should be **held for ≥4 wk** before ileocolonoscopy in known IBD. *(The general "avoid before diagnostic ileocolonoscopy" statement 3 did pass; the ≥4-week hold did not.)*
 2. **Sodium phosphate–based bowel preparation should be avoided; polyethylene glycol–based preparation preferred.**
 3. A **jumbo biopsy sample** is preferred for primary or anastomotic strictures in patients at risk for dysplasia (long IBD duration, concurrent PSC, or bowel resection for neoplasia).
 4. Onsite use of IUS is **encouraged** (including for lymphadenopathy). *(The weaker "can be considered, where available" version — statement 8 — passed.)*
 5. Diagnostic or therapeutic **push or device-assisted enteroscopy** is recommended in suspected small-bowel CD when ileocolonoscopy and small-bowel imaging are infeasible or inconclusive.
 6. **Ileoscopy through the stoma every 1–3 y** in CD patients with **permanent** fecal diversion. *(Ileoscopy before closure of a *temporary* diversion — statement 19 — passed.)*
 7. Periodic surveillance for **glandular or squamous cell neoplasia in perianal CD** (endoscopic biopsy, anal smears, examination under anesthesia), especially in longstanding CD, human papillomavirus or HIV.
-8. **Avoid direct biopsy of lesions highly suspicious for dysplasia** when EMR/ESD is imminent (to avoid fibrosis), biopsying and tattooing adjacent mucosa instead.
+8. **Direct biopsy of lesions highly suspicious for dysplasia may be avoided** when EMR/ESD is planned shortly (to reduce the difficulty of the anticipated resection), biopsying and tattooing adjacent mucosa instead.
 9. Endoscopic evaluation of a **strictureplasty site** should include inlet, lumen and outlet.
 10. A **bypassed bowel segment** (eg, strictured duodenum with gastrojejunostomy) should be endoscopically surveyed **every 3 y** for malignancy.
 11. **Yearly** surveillance biopsy to exclude glandular or squamous cell dysplasia in **chronic (>5 y) perianal CD.**
@@ -163,7 +164,7 @@ These are published as *not* agreed. Several are positions a reader may assume a
 
 ### Figures
 
-Four endoscopic figure sets accompany the statements, each illustrating a visual grading scheme or phenotype:
+Five endoscopic figure sets accompany the statements, each illustrating a visual grading scheme or phenotype:
 - **Fig. 1** — SES-CD ulcer subscore 0–3 (0 none; 1 aphthous 0.1–0.5 cm; 2 large 0.5–2 cm; 3 very large >2 cm).
 - **Fig. 2** — Mayo Endoscopic Subscore 0–3.
 - **Fig. 3** — modified Rutgeerts score i0, i1, i2a, i2b, i3, i4.

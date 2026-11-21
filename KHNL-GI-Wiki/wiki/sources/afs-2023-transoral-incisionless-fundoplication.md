@@ -3,7 +3,8 @@ title: "American Foregut Society White Paper on Transoral Incisionless Fundoplic
 category: source
 tags: [gerd, tif, ctif, esophyx, fundoplication, antireflux-surgery, hiatal-hernia, hill-classification, gastroesophageal-flap-valve, foregut, white-paper]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AFS/AFS 2023 Transoral Incision Fundoplication.pdf"
 ---
@@ -106,7 +107,8 @@ On efficacy, the paper's honest summary is a trade: with no head-to-head compari
 
 - Single-use **EsophyX Z+** device; **general anesthesia**; left lateral, supine, or modified left lateral position. Requires **2 proceduralists** (or 1 proceduralist plus a helper) — one handles the device, one the endoscope.
 - **Diagnostic esophagogastroduodenoscopy (EGD) first** — determine presence/absence of esophagitis, exclude strictures or webs that would prevent safe passage, measure anatomical landmarks, and **document the Hill Grade**.
-- **Empiric dilation** to aid device passage: **57–60 Fr (18–20 mm) Savary-Gilliard dilator** over a wire, or an **18–20 mm through-the-scope (TTS) hydrostatic balloon** at the upper esophageal sphincter.
+- *(Indication, Conclusions)* TIF offers a nonsurgical option for **recurrent GERD without recurrent hiatal hernia**, avoiding the higher risk of redo fundoplication.
+- **Empiric dilation** (optional — some endoscopists) to aid device passage: **57–60 Fr (18–20 mm) Savary-Gilliard dilator** over a wire, or an **18–20 mm through-the-scope (TTS) hydrostatic balloon** at the upper esophageal sphincter.
 - **Lubrication:** mineral oil or Endo Lube on the scope, device channel, stylet port, and helical retractor — **avoid standard lubricant** on these (standard lubricant is used only on the device tip before oral insertion).
 - **Insufflation: CO₂ only, set to 15 mmHg. Air insufflation is discouraged.**
 - Scope kept in **retroflexion** throughout, with direct visualization of the device at all times.
@@ -119,6 +121,8 @@ On efficacy, the paper's honest summary is a trade: with no head-to-head compari
 
 ### Technical aspects of cTIF
 
+- The suction and push-off-the-diaphragm maneuver is still required in cTIF.
+
 - Indicated when hiatal hernia is **>2 cm in length or >2 cm transverse hiatal diameter**. The hernia must be repaired with reduction of intrathoracic stomach back into the abdomen **prior to** the TIF.
 - **Hiatal hernia size limits have not been defined from randomized controlled trials.** Published cTIF series span hernias of **3 cm+** (Ihde 2011), **2–5 cm** (Janu 2019), and **all sizes up to 8 cm** (Choi 2021, dividing short gastrics and ensuring **3 cm of intra-abdominal esophageal segment**). *"It appears that cTIF can be safely performed for a wide range of hiatal hernia sizes."* The **primary objective is attaining adequate intra-abdominal esophageal length**, not a specific hernia size cutoff.
 - **Dissection as high in the mediastinum as possible** is crucial, to obtain **2–3 cm of intra-abdominal esophageal length**.
@@ -129,6 +133,8 @@ On efficacy, the paper's honest summary is a trade: with no head-to-head compari
 - Can be done by a single surgeon performing both, or as a **gastroenterologist–foregut surgeon collaboration**.
 
 ### Postoperative care
+
+- Monitor for recurrent bleeding, particularly in the early postoperative period.
 
 | Element | Protocol |
 |---|---|
@@ -162,7 +168,7 @@ Data presented are restricted to studies meeting: TIF 2.0 technique, randomized 
 | RCT | n / centers | Key results |
 |---|---|---|
 | **RESPECT** (Hunter et al.) | 129, 8 US centers; TIF + placebo (n=87) vs sham + PPI (n=42) | At 6 mo TIF eliminated regurgitation in **67%**; **28%** of TIF group resumed PPI; **77%** healed esophagitis; % acid exposure time (AET) improved after TIF, **no improvement after sham on any measure**; 7 adverse events in TIF vs 1 in sham |
-| **Håkansson et al.** | 44, 5 European centers; TIF (n=22) vs sham (n=22) | At 6 mo **59% of TIF remained in remission off PPI** vs no improvement in sham; **80% of TIF Hill grade I–II** (no change in sham); **69% of TIF normalized AET vs 20% sham**; 20 adverse events in TIF vs 7 sham; dysphagia 4 TIF vs 2 sham (P = not significant [NS]) |
+| **Håkansson et al.** | 44, 5 European centers; TIF (n=22) vs sham (n=22) | At 6 mo **59% of TIF remained in remission off PPI**; **80% of TIF Hill grade I–II** (no change in sham); **69% of TIF normalized AET vs 20% sham**; 20 adverse events in TIF vs 7 sham; dysphagia 4 TIF vs 2 sham (P = not significant [NS]) |
 | **Trad et al.** (crossover) | 63, 7 US centers; TIF vs high-dose PPI | 6 mo post-TIF **65% elimination of symptoms**; **71% of crossover patients off PPI** at 6 mo, **82% off PPI at 12 mo**; **100% esophagitis healed at 12 mo**; AET normalization/decrease **52% on high-dose PPI → 33% after TIF off PPI** (P = .388); 12 mo **45% normalized AET**; **no adverse events** |
 | **TEMPO at 5 years** (Trad et al.) | 44, 7 US centers | **86% elimination of troublesome regurgitation**; **80% elimination of troublesome atypical symptoms**; no significant difference between 1, 3, and 5 years; **patient satisfaction 70%**; PPI status at 5 y — **46% off PPI, 34% on daily PPI, 20% as needed (PRN)**; **no severe adverse events** |
 
@@ -182,7 +188,7 @@ Data presented are restricted to studies meeting: TIF 2.0 technique, randomized 
 
 - **[[antireflux-surgery]]** — primary target. Supplies what the GERD guidelines omit: the EsophyX relative-contraindication list, the TIF-specific preoperative workup (notably **manometry only if dysphagia**, which differs from pre-LNF practice), the technical safety landmarks, the cTIF intra-abdominal-length hard stop, and the full postoperative protocol.
 - **[[gerd]]** — reinforces the eligibility gate already on the page (objective GERD confirmation, hernia size, Hill grade, multidisciplinary team [MDT] review) and adds the "hernia is bigger at laparoscopy than at endoscopy" caution.
-- **[[reflux-testing]]** / **[[ambulatory-reflux-monitoring]]** — the **96-hour wireless pH off PPI > 48 h > 24-h catheter** yield statement; LA grade A/B and short-segment Barrett's require formal objective testing because of inter-observer variability; LA C/D and long-segment Barrett's obviate it.
+- **[[reflux-testing]]** / **[[ambulatory-reflux-monitoring]]** — the **96-hour wireless pH off PPI** yield statement (higher than 48 h and 24-h catheter testing); LA grade A/B and short-segment Barrett's require formal objective testing because of inter-observer variability; LA C/D and long-segment Barrett's obviate it.
 - **[[high-resolution-manometry]]** / **[[flip-panometry]]** — FLIP as an acceptable alternative to routine HRM for pre-TIF achalasia/EGJOO screening; TIF's lower dysphagia risk in IEM.
 - **[[hiatal-hernia]]** — the 2 cm axial-length and 2 cm transverse-diameter thresholds and the endoscopy-underestimates-size caution.
 - **[[barretts-esophagus]]** — explicit statement that TIF efficacy after endoscopic eradication is **not yet defined**.

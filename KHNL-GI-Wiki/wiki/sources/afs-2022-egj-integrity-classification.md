@@ -3,7 +3,8 @@ title: "The American Foregut Society White Paper on the Endoscopic Classificatio
 category: source
 tags: [gerd, hiatal-hernia, egj, flap-valve, hill-grade, afs, upper-endoscopy, classification]
 created: 2026-10-28
-updated: 2026-10-31
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AFS/AFS 2022 Endoscopic Classification of EGJ Integrity (Nguyen).pdf"
 ---
@@ -25,11 +26,11 @@ raw: "GI Guidelines/AFS/AFS 2022 Endoscopic Classification of EGJ Integrity (Ngu
 
 The **Hill grade** has been, since 1996, the endoscopic classification of the **antireflux barrier (ARB)**, scoring the **gastroesophageal flap valve (GEFV)** on a 4-point scale from the retroflexed view. Its uptake has been limited by subjectivity and by the perception that it is not clinically relevant. With endoscopic antireflux therapy now a live option, the AFS convened a working group to revise it.
 
-The group's central conclusion is that the Hill grade **measures the wrong thing, or at least too little of it**: all components of the ARB — the **lower esophageal sphincter (LES) and its sling fibers, the crural diaphragm, and the flap valve** — contribute to **esophagogastric junction (EGJ) integrity**, and they are anatomically interdependent. A sliding hiatal hernia necessarily implies loss of intra-abdominal esophageal length and loss of a functioning flap valve, so a classification that grades the valve while treating the hiatus as an afterthought cannot be reproducible.
+The group's central conclusion is that a **more comprehensive** scheme than the Hill grade is needed: all components of the ARB — the **lower esophageal sphincter (LES) and its sling fibers, the crural diaphragm, and the flap valve** — contribute to **esophagogastric junction (EGJ) integrity**, and all 3 variables are integrally related. A sliding hiatal hernia implies loss of intra-abdominal esophageal length and of a functioning flap valve.
 
 The proposed **AFS endoscopic classification of EGJ integrity** replaces visual impression with three measured parameters, the **LDF components** — hiatal hernia axial **L**ength in cm, hiatal aperture **D**iameter in cm, and **F**lap valve present or absent. These stratify EGJ integrity from **grade 1 (intact)** through **grades 2–4 (partial, moderate and complete disruption)**, each of grades 2–4 carrying loss of a functioning flap valve. Hill grades 1 and 2 — both "normal" — collapse into a single AFS grade 1, freeing three grades to describe degrees of disruption.
 
-The paper also stipulates the **endoscopic methodology** the grade depends on, which the Hill classification never specified: without adequate insufflation and retroflexed provocative maneuvers, the EGJ is **systematically under-graded**. The classification is explicitly **unvalidated** — the stated future directions are validation studies against the presence and severity of gastroesophageal reflux disease (GERD), and extension to the post-intervention valve.
+The paper also stipulates the **endoscopic methodology** the grade depends on, which the Hill classification never specified: without adequate insufflation and retroflexed provocative maneuvers, the EGJ can **often be under-graded**, contributing to interobserver variability. The classification is explicitly **unvalidated** — the stated future directions are validation studies against the presence and severity of gastroesophageal reflux disease (GERD), and extension to the post-intervention valve.
 
 ---
 
@@ -90,7 +91,8 @@ Working-group survey identified 6 contributing factors; **3 rose to the top** (F
 ### The two grading rules that decide the grade
 
 - **The final grade reflects the parameter showing the *greatest* degree of disruption.** The paper's own worked example: axial length **1.5 cm** (grade 3) with a hiatal aperture of **4 cm** (grade 4) → **the final grade is 4**.
-- **Any axial hiatal hernia length at all makes the lowest possible grade a 3.** Once there is enough gap for a sliding hiatal hernia, the intra-abdominal esophagus and the flap valve are lost — so "hiatal hernia present with a normal-looking flap valve" is **not a possible AFS grade**, though it is routinely documented under the Hill system.
+- Grade 3 = hiatal axial length up to 2 cm **or** an enlarged hiatal aperture of 2–3 cm; the flap valve is either intact (green) or disrupted (red), without gradation.
+- **Any axial hiatal hernia length at all makes the lowest possible grade a 3.** Once there is enough gap for a sliding hiatal hernia, the intra-abdominal esophagus and the flap valve are lost — so "hiatal hernia present with a normal-looking flap valve" is **not a possible AFS grade**, though some endoscopists document an axial hernia length together with a Hill grade I flap valve.
 
 ### Grade-by-grade detail
 
@@ -149,7 +151,7 @@ Working-group survey identified 6 contributing factors; **3 rose to the top** (F
 
 - **No contradiction with [[afs-2024-ge-valve-after-antireflux-surgery]]** — the 2024 white paper describes the **post-surgical** valve and explicitly defers to this paper for the native-valve hiatus grade. The two are complementary halves of one scheme by an overlapping author group.
 - **Grade notation differs between the two AFS papers.** This 2022 paper uses **Arabic numerals** throughout ("AFS hiatus grade 1"); the 2024 paper writes **"AFS hiatus grades II, III, or IV"** in places. Same four strata — a typographic inconsistency within the society's own output, not a disagreement.
-- **Relationship to the Hill grade is a revision, not a contradiction.** Hill grades 1 and 2 both map to AFS grade 1; AFS grade 2 has no Hill equivalent; Hill 3 ≈ AFS 3. ⚠ The two scales are **not interconvertible at the top end** — a Hill grade documented alongside an axial hernia length is a combination the AFS scheme forbids.
+- **Relationship to the Hill grade is a revision, not a contradiction.** Hill grades 1 and 2 both map to AFS grade 1; AFS grade 2 has no Hill equivalent; Hill 3 ≈ AFS 3. ⚠ A **Hill grade I** valve documented alongside an axial hernia length is a combination the AFS scheme forbids.
 - **The classification is unvalidated.** The paper states this itself and makes validation its first future direction; [[afs-2023-transoral-incisionless-fundoplication]] independently says it should not drive procedure selection until validated in independent studies. The wiki therefore carries it as **reporting nomenclature, not a selection criterion**.
 - **Decision thresholds on the wiki still belong to the Hill grade.** The TIF/surgery routing rule on [[antireflux-surgery]] is stated as *hiatal hernia ≤2 cm with Hill I/II versus >2 cm with Hill III/IV* ([[asge-2024-gerd]]). **This paper supplies no AFS-based procedure-selection threshold**, so none was created.
 - **Figures.** Figure 5 (the grade-by-grade photographs and schematics) and Figure 3 (the insufflation/provocative-maneuver sequence) are embedded on [[reflux-testing]]. Figures 1 (Hill grades) and 4 (flap-valve nomenclature) are carried as tables and text only.

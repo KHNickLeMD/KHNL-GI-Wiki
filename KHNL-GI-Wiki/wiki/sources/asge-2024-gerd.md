@@ -3,18 +3,19 @@ title: "ASGE 2024: Diagnosis and Management of GERD"
 category: source
 tags: [gerd, reflux, esophageal, asge]
 created: 2026-05-15
-updated: 2026-09-29
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *VideoGIE* 2025;10:81–137.](https://doi.org/10.1016/j.vgie.2024.10.001)
+- **Article:** [Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *Gastrointest Endosc* 2025;10:81–137 (published in VideoGIE).](https://doi.org/10.1016/j.vgie.2024.10.001)
 - **DOI:** [10.1016/j.vgie.2024.10.001](https://doi.org/10.1016/j.vgie.2024.10.001)
 - **Authors:** Desai M, Ruan W, Thosani NC, et al. (ASGE Standards of Practice Committee)
 - **Year:** 2025 (online ahead of print 2024; the page slug `asge-2024-gerd` predates the final citation and is retained to avoid breaking inbound links — **treat this as a 2025 guideline** when applying source-priority rules)
-- **Journal/Publisher:** *VideoGIE* 2025;10:81–137
+- **Journal/Publisher:** printed citation *Gastrointest Endosc* 2025;10:81–137; page footers and DOI are VideoGIE
 - **Type:** guideline (ASGE Standards of Practice Committee, GRADE)
 
 - Prepared by: ASGE Standards of Practice Committee
@@ -38,9 +39,9 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 ### Endoscopy Indications (Q1)
 
 - **Strong, moderate evidence**: Upper endoscopy recommended for alarm symptoms — dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia
-- **Conditional, low evidence**: Endoscopy suggested for [[barretts-esophagus|Barrett's esophagus (BE)]] risk factors (family history of BE/esophageal adenocarcinoma [EAC]; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
-- **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the American Society for Gastrointestinal Endoscopy (ASGE) 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG
-- **Post-POEM, conditional, very low**: Endoscopy if symptomatic GERD; best practice advice to consider periodic endoscopy even if asymptomatic given high GERD rate (~19–29% esophagitis pooled); BE rate very low (1/2342 patients at 36 months in one meta-analysis)
+- **Conditional, low evidence**: Endoscopy suggested for [[barretts-esophagus|Barrett's esophagus (BE)]] risk factors (family history of BE/esophageal adenocarcinoma [EAC]; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms (poor weight gain, unexplained anemia, concern for GI bleeding, recurrent pneumonia, regurgitation and/or vomiting)
+- **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the American Society for Gastrointestinal Endoscopy (ASGE) 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG; if BE is detected, ASGE recommends follow-up per existing BE surveillance guidelines
+- **Post-POEM, conditional, very low**: Endoscopy if symptomatic GERD; best practice advice to consider periodic endoscopy even if asymptomatic given high GERD rate (pooled de novo GERD 19%, esophagitis 29.4%); BE rate very low (1/2342 patients at 36 months in one meta-analysis)
 
 ### High-Quality Endoscopy Reporting (Q2)
 
@@ -63,7 +64,7 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 
 ### PPI Therapy (Q4)
 
-- **Strong, moderate evidence**: PPIs at lowest dose for shortest duration while discussing long-term management
+- **Strong, moderate evidence**: symptomatic, confirmed GERD with predominant heartburn → PPIs at lowest dose for shortest duration while discussing long-term management
 - PPI vs placebo: odds ratio (OR) 4.2 for symptom relief (95% confidence interval [CI] 3.25–5.48); OR 11.4 for esophagitis healing (95% CI 8.17–16.3) — Zhang 2017 network meta-analysis, 98 RCTs, ~46,000 patients
 - PPI safety (Moayyedi 2019 large RCT, n=17,598, mean 3-year follow-up): no significant increase in all-cause mortality, cardiovascular events, chronic kidney disease, C. diff, pneumonia, fractures, or dementia; only confirmed adverse event is modest increase in enteric infections (OR 1.33)
 - **Conditional, very low evidence**: Test CYP2C19 polymorphism in suboptimal PPI responders; rapid metabolizers have OR 1.6 for PPI refractoriness
@@ -97,7 +98,7 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 
 ### Novel Endoscopic Therapies
 
-- GERDx (endoscopic full-thickness plication [EFTP]), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; panel declined to recommend
+- GERDx (endoscopic full-thickness plication [EFTP]), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; no recommendation for or against
 - MUSE: serious adverse event rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
 - ARMS: clinical response 80.1%; dysphagia/stricture 11.4% — RCT underway
 - Pediatric patients (separate *Other Considerations* section): no recommendation for or against endoscopic antireflux therapy; considered investigational use only in the setting of a research study
@@ -108,7 +109,7 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 |---|---|---|
 | **Endoscopy Indications** | | |
 | Perform upper endoscopy for alarm symptoms (dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia) | Strong | Moderate |
-| Consider endoscopy for Barrett's esophagus risk factors (family history BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) | Conditional | Low |
+| Consider endoscopy for Barrett's esophagus risk factors (family history BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity), and for infants/children with suggestive symptoms | Conditional | Low |
 | Post-sleeve gastrectomy: perform endoscopy if symptomatic; consider asymptomatic screening at 3 years then every 5 years | Conditional | Very Low |
 | Post-POEM: perform endoscopy if symptomatic GERD; consider periodic endoscopy even if asymptomatic | Conditional | Very Low |
 | **High-Quality Endoscopy Reporting** | | |
@@ -116,7 +117,7 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 | **Lifestyle Modifications** | | |
 | Recommend weight loss, smoking cessation, head of bed elevation, and avoiding meals within 3 hours of bedtime | Strong | Low |
 | **PPI Therapy** | | |
-| Use PPIs at lowest dose for shortest duration while discussing long-term management | Strong | Moderate |
+| Symptomatic, confirmed GERD with predominant heartburn: PPIs at lowest dose for shortest duration while discussing long-term management | Strong | Moderate |
 | Consider testing CYP2C19 polymorphism in suboptimal PPI responders | Conditional | Very Low |
 | **TIF 2.0 (Transoral Incisionless Fundoplication)** | | |
 | Evaluate for TIF 2.0 in confirmed GERD with hiatal hernia <=2 cm and Hill grade I or II in patients with chronic GERD >=6 months, long-term PPI use, refractory GERD, regurgitation-predominant GERD, or preference to avoid long-term PPI | Conditional | Low |
@@ -136,14 +137,14 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf"
 
 ## Contradictions / Open Questions
 
-- TIF vs PPI on AET: TIF better vs sham but not better than PPI for AET normalization — raises questions about mechanism of symptom benefit
-- RCT heterogeneity for TIF is high; multiple device iterations (TIF 1.0 through 2.0) and techniques over the study period confound pooled estimates
+- TIF vs PPI on AET: AET not lower with TIF vs PPI (pooled MD 2.61); AET normalization vs PPI and/or sham not significant (RR 1.62) — raises questions about mechanism of symptom benefit
+- RCT heterogeneity for TIF is high; multiple device iterations and techniques (review limited to TIF 2.0) over the study period confound pooled estimates
 - cTIF evidence is entirely observational with only one ongoing RCT; positioning relative to LNF is not yet defined
 - Stretta: RCT data show no significant benefit, but cohort data suggest modest benefit — discrepancy likely due to small RCT sample sizes and high risk of bias
-- PCABs (vonoprazan): data emerging after guideline evidence cutoff; positioning relative to PPIs will require guideline update
+- PCABs (vonoprazan): data emerging after guideline evidence cutoff; likely to be used as data evolve
 - CYP2C19 testing: principle endorsed but not widely implemented; real-world utility unclear
-- Long-term PPI safety: prospective RCT data reassuring for most outcomes studied, but observational associations with dementia, gastric cancer persist (very low certainty); creates patient anxiety
-- Next guideline update anticipated ~2029 or sooner if significant new data (e.g., cTIF RCT results)
+- Long-term PPI safety: prospective RCT data reassuring for most outcomes studied, dementia (PPI use >5 y) shows no association (low certainty); gastric cancer association very low certainty; creates patient anxiety
+- ASGE guidelines are reviewed approximately every 5 years, or sooner if new data may influence a recommendation
 
 ## See Also
 

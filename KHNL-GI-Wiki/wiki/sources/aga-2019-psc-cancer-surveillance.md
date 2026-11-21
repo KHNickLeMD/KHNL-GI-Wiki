@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Surveillance for Hepatobiliary Cancers i
 category: source
 tags: [psc, cholangiocarcinoma, gallbladder-cancer, gallbladder-polyp, hepatocellular-carcinoma, surveillance, ca-19-9, mrcp, ercp, dominant-stricture, aga, clinical-practice-update]
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2019 CPU Hepatobiliary Cancer Surveillance in PSC.pdf"
 ---
@@ -62,7 +63,7 @@ The operative content is the shape of the surveillance program: **cross-sectiona
 
 For the gallbladder, the update converts a size threshold into a decision: the risk of cancer rises in **polyps >8 mm**, and cholecystectomy is decided on polyp size *and* growth *and* the patient's clinical status — because PSC patients tolerate cholecystectomy poorly (40% early postoperative complications in one series, worst with advanced liver disease). For HCC it confines surveillance to **PSC with [[cirrhosis]]**, at the standard 6-month interval, while noting HCC has never been shown to be common in PSC cirrhosis.
 
-The update is candid about competing risks: the same patient may be progressing toward liver failure, and CCA may preclude the only effective therapy for PSC — [[liver-transplantation|liver transplantation]]. That framing is why every recommendation is "should be considered" rather than mandated.
+The update is candid about competing risks: the same patient may be progressing toward liver failure, and CCA may preclude the only effective therapy for PSC — [[liver-transplantation|liver transplantation]]. Wording varies by statement: BPA 1 "should be considered"; BPAs 2, 4 and 8 "should"; BPAs 3 and 6 "should not".
 
 ## Key Findings / Claims
 
@@ -137,7 +138,7 @@ The update is candid about competing risks: the same patient may be progressing 
   - **There are no data on the ability of MRI to identify gallbladder polyps.**
 - Dysplasia and cancer in resected gallbladders: of 53 PSC gallbladder specimens, **2 high-grade and 7 low-grade dysplasia without masses**; among 72 cholecystectomies performed before or during LT in PSC, **37% contained dysplasia and 14% adenocarcinoma**.
 - Size–histology relationship in that small series: **polyps <0.8 cm contained no dysplasia**, and **lesions <1.2 cm contained no carcinoma**. Pooled with other literature (52 cases), a **0.8-cm cut-off for any lesion found on US gave sensitivity 96% and specificity 53% for neoplasia detection**.
-- **Annual US screening** is advised for gallbladder mass lesions, because of high malignancy risk in gallbladder mass lesions and 5%–10% 5-year survival.
+- **Annual US screening** advised for patients with PSC, because of the high malignancy risk in gallbladder mass lesions and 5%–10% 5-year survival of gallbladder cancer.
 - Surgical risk: **40% of PSC patients in one series had early postoperative complications after cholecystectomy, especially with more severe liver disease.**
 - Society divergence documented by the update: EASL and American Association for the Study of Liver Diseases (AASLD) PSC guidelines recommend cholecystectomy in PSC **regardless of gallbladder lesion size**; the American College of Gastroenterology (ACG) suggests cholecystectomy for **polyps >8 mm**; other societies concluded data are insufficient to support cholecystectomy in all PSC patients with gallbladder polyps. "Guidelines should be applied cautiously to individual circumstances, and with consideration of benefits and risks."
 
@@ -165,7 +166,7 @@ flowchart TD
     G2 --> E
 ```
 
-*Algorithm — surveillance for hepatobiliary cancers in PSC, recreated from Figure 1. ([[aga-2019-psc-cancer-surveillance]])*
+*Algorithm — surveillance for hepatobiliary cancers in PSC, recreated from Figure 1; HCC modality/interval added from BPA 8. ([[aga-2019-psc-cancer-surveillance]])*
 
 ## Relevance to Wiki
 
@@ -182,6 +183,6 @@ flowchart TD
 - **Age threshold for starting surveillance.** This update: **no surveillance below age 20**. [[aasld-2022-psc]]: no surveillance below age **18**. AASLD 2022 governs.
 - **Surveillance modality.** This update permits **US, CT, or MRI**; [[aasld-2022-psc]] specifies **MRI/MRCP** as the surveillance modality. AASLD 2022 governs; note this update's own text says MRI is preferred by many experts.
 - **Cholecystectomy for gallbladder polyps in PSC.** Three positions coexist in the wiki's sources: cholecystectomy **regardless of size** ([[asge-2013-biliary-neoplasia]], and the EASL/AASLD PSC guidelines cited by this update); **>8 mm** ([[acg-2015-psc]], this update, [[aasld-2022-psc]]); and insufficient data. The **>8 mm** threshold is the wiki's assertion, from the newest guidance ([[aasld-2022-psc]]).
-- **Gallbladder polyp follow-up interval.** This update says **annual** US for gallbladder mass lesions and does not specify a repeat interval for a sub-8-mm polyp beyond the 6–12-month surveillance cycle; [[aasld-2022-psc]] specifies **US every 6 months** for polyps ≤8 mm. AASLD 2022 governs.
+- **Gallbladder polyp follow-up interval.** This update says **annual** US screening (gallbladder) for patients with PSC and does not specify a repeat interval for a sub-8-mm polyp beyond the 6–12-month surveillance cycle; [[aasld-2022-psc]] specifies **US every 6 months** for polyps ≤8 mm. AASLD 2022 governs.
 - **Effect size of surveillance on survival.** Both this update and [[aasld-2022-psc]] cite the same 68%-vs-20% 5-year survival comparison; the *P* values printed differ between the two documents.
 - **Open question in the source itself:** no validated risk-stratification tool exists to individualize CCA surveillance in PSC, and no prospective surveillance trial has been done. The optimal imaging modality for gallbladder polyps in PSC is unknown, with no MRI data at all.

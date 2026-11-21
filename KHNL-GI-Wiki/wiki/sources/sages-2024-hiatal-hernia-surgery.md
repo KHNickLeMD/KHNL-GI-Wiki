@@ -3,7 +3,8 @@ title: "SAGES 2024: Guidelines for the Surgical Treatment of Hiatal Hernias"
 category: source
 tags: [hiatal-hernia, paraesophageal-hernia, fundoplication, mesh, roux-en-y-gastric-bypass, gastric-volvulus, antireflux-surgery, sages]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/SAGES/SAGES 2024 Surgical Treatment of Hiatal Hernias (Daly).pdf"
 ---
@@ -38,7 +39,7 @@ Hiatal hernia is closely associated with [[gerd|gastroesophageal reflux disease 
 
 ### The four recommendations, exactly as graded
 
-| KQ | Question (adults, type II/III/IV) | What the panel said | Basis |
+| KQ | Question (adults, type II/III/IV; KQ1 = candidates for mesh) | What the panel said | Basis |
 |---|---|---|---|
 | **1** | Mesh versus no mesh during repair | **The panel decided not to make an evidence-based recommendation for or against mesh.** | Evidence equivocal; deferred |
 | **2** | Repair versus continued surveillance for an **asymptomatic** hernia | **No evidence-based recommendation possible — expert opinion only:** select asymptomatic patients **may be offered** repair, against stated criteria | Expert opinion (no literature on truly asymptomatic patients managed either way) |
@@ -62,8 +63,8 @@ Ten RCTs informed the question; the main limitation was that **studies were ofte
 
 - **Step one is to establish the patient is truly asymptomatic.** Many patients referred for an "asymptomatic" hiatal hernia are in fact suffering **non-gastrointestinal symptoms secondary to the hernia** — the panel names **shortness of breath, exercise intolerance, and abnormal echocardiogram findings**. Where these cannot be reasonably attributed to a comorbid process, **the patient can be considered symptomatic and offered repair if medically fit**.
 - Presenting symptoms in a 270-patient series undergoing repair: **anemia 24%–57%**, **dyspnea 21%–67%**, **chest pain 40%–60%**.
-- **Symptom report and objective reflux often disagree.** The panel cites the Lyon consensus: a **history taken by a gastroenterologist has a sensitivity of 70% and a specificity of 67%** for GERD against pH monitoring or endoscopy. Surgical repair can prevent progression and the complications of reflux disease and/or the hernia itself. **Micro-aspiration is another potential sequela of an untreated hiatal hernia, and endoscopy is a good diagnostic test for both.**
-- **Patients with objective evidence of reflux or findings of micro-aspiration can be offered repair if medically fit.** Certain populations are at such high risk of micro-aspiration complications that **repair can be offered even without objective findings — lung transplant patients are the named example**.
+- **Symptom report and objective reflux often disagree.** The panel cites the Lyon consensus: a **history taken by a gastroenterologist has a sensitivity of 70% and a specificity of 67%** for GERD against pH monitoring or endoscopy. Surgical repair can potentially prevent progression and the complications of reflux disease and/or the hernia itself. **Micro-aspiration is another potential sequela of an untreated hiatal hernia, and endoscopy is a good diagnostic test for both.**
+- **Patients with objective evidence of reflux or findings of micro-aspiration can be offered repair if medically fit** (the Conclusion: "should be offered repair in the appropriate setting"). Certain populations are at such high risk of micro-aspiration complications that **repair can be offered even without objective findings — lung transplant patients are the named example**.
 - **Where there is no objective evidence of reflux or micro-aspiration**, the management is controversial and **there are no strong data**. Required: a thorough discussion of the potential to develop an **acute gastric volvulus**, and a frank discussion of the **inability to predict who is at high risk** for it — though the panel does consider **pre-existing organo-axial rotation a concerning feature**.
 - **If the workup is unrevealing and the patient understands and accepts the volvulus risk, watchful waiting is reasonable.** Three modelling studies exist: two found overall benefit favouring watchful waiting (acknowledging a proportion will cross over to surgery), the third found quality of life favoured operative intervention. The panel discounted all three — they are models, built on **symptomatic** populations, so **if anything the theoretical benefit of watchful waiting is greater still in an asymptomatic one**.
 - **Age alone must not disqualify a patient from operative management** (health-equity consideration); decide on **operative risk and the individual's values**.
@@ -86,7 +87,7 @@ In a patient **without obesity** with a recurrent type II/III/IV hernia:
   - **Short esophagus**
   - **[[gastroparesis|Gastroparesis]]**
   - **Previous complicated hiatal hernia repair with fundoplication leaving poor quality tissue of the fundus**
-  - **Multiple recurrent hiatal hernia failures by an expert** — i.e. failure of a prior attempt by an expert surgeon
+  - **Multiple recurrent hiatal hernia failures by an expert** (the Conclusion frames conversion after a failed prior attempt by an expert surgeon in the setting of these criteria)
 - **Such patients should be evaluated in a multidisciplinary fashion before proceeding with RYGB.**
 
 ### Definitions the guideline sets for its own outcomes
@@ -112,7 +113,7 @@ In a patient **without obesity** with a recurrent type II/III/IV hernia:
 ## Contradictions / Open Questions
 
 - **Mesh is unresolved by design.** Anyone looking for a position will not find one here; the document is explicit that the necessary evidence is simply lacking. **Do not convert this into a recommendation against mesh on a later pass** — the panel considered and rejected exactly that.
-- **No size threshold anywhere.** The guideline gives **no hernia size at which repair becomes indicated**, and names no body mass index threshold for pre-repair weight loss. These are stated research gaps, not omissions to be filled from elsewhere.
+- **No size threshold anywhere.** The guideline gives **no hernia size at which repair becomes indicated**, and names no body mass index threshold for pre-repair weight loss. Repair is offered after a patient–surgeon discussion of future complication and symptom risk, taking into consideration hernia size and the patient's condition; once a hernia is confirmed truly asymptomatic, discuss the potential benefits of further workup.
 - **Partial versus complete fundoplication rests on indirect evidence** from GERD patients without hiatal hernia. The panel calls it reasonable to apply; it is not tested in this population.
 - **No way to predict who will develop gastric volvulus.** The panel says so plainly and names only organo-axial rotation as a concerning feature. Any risk estimate on the wiki must come from elsewhere.
-- **Relationship to the SAGES 2013 guideline:** this is explicitly a **complement** to it, not a replacement — it answers four questions, where the 2013 guideline is broader. Where both speak, 2024 is newer and governs; where only 2013 speaks, 2013 still stands.
+- **Relationship to the SAGES 2013 guideline:** this is explicitly a **complement** to it, not a replacement — it answers four questions, where the 2013 guideline is broader. On this site, 2024 governs where both speak and 2013 fills the rest.

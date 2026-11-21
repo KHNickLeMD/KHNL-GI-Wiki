@@ -3,7 +3,8 @@ title: "SAGES 2013 Guidelines for the Management of Hiatal Hernia"
 category: source
 tags: [hiatal-hernia, paraesophageal-hernia, gastric-volvulus, antireflux-surgery, fundoplication, mesh, collis-gastroplasty, gastropexy, sages, guideline]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/SAGES/SAGES 2013 Management of Hiatal Hernia (Kohn).pdf"
 ---
@@ -19,7 +20,7 @@ raw: "GI Guidelines/SAGES/SAGES 2013 Management of Hiatal Hernia (Kohn).pdf"
 
 ## Summary
 
-The **broad SAGES hiatal hernia document** — 28 graded statements covering definitions, diagnosis, indications for surgery, operative approach, sac excision, mesh, fundoplication, short esophagus, gastropexy, postoperative care, revisional surgery and pediatrics. [[sages-2024-hiatal-hernia-surgery|SAGES 2024]] answers only four focused questions and explicitly **complements rather than replaces** this document, so the 2013 guideline remains the source for everything the 2024 one does not address: the type I–IV anatomy, the natural history numbers behind watchful waiting, the operative steps, and the whole pediatric section.
+The **broad SAGES hiatal hernia document** — 28 statements (27 graded) covering definitions, diagnosis, indications for surgery, operative approach, sac excision, mesh, fundoplication, short esophagus, gastropexy, postoperative care, revisional surgery and pediatrics. [[sages-2024-hiatal-hernia-surgery|SAGES 2024]] answers only four focused questions and explicitly **complements rather than replaces** this document, so the 2013 guideline remains the source for everything the 2024 one does not address: the type I–IV anatomy, the natural history numbers behind watchful waiting, the operative steps, and the whole pediatric section.
 
 Its central decisions are the two that separate a sliding hernia from a paraesophageal one. **A type I hernia is not itself an indication for repair** — [[gerd|gastroesophageal reflux disease (GERD)]] is, and the hernia is simply repaired as part of that operation. **A symptomatic paraesophageal hernia (PEH) is repaired**, with the strongest evidence rating in the document when obstructive symptoms or volvulus are present. Between those sits the asymptomatic PEH, where this guideline had already stepped away from the old "repair all PEH electively" dictum: the progression rate from asymptomatic to symptomatic is about **14% per year**, the annual risk of needing emergency surgery is probably **under 2%**, and decision modelling suggests elective repair in a completely asymptomatic patient **aged 65 or older may actually reduce quality-adjusted life expectancy**.
 
@@ -58,7 +59,7 @@ Numbered **by the document itself** (Summary, pp. 4421–2). Quality of evidence
 
 | # | Statement | Grade |
 |---|---|---|
-| 7 | **Treat postoperative nausea and vomiting aggressively** to minimize poor outcomes. | ⊕, strong |
+| 7 | **Treat postoperative nausea and vomiting aggressively** to minimize poor outcomes. | ⊕⊕, strong |
 
 **Technical considerations — approach**
 
@@ -166,7 +167,7 @@ Numbered **by the document itself** (Summary, pp. 4421–2). Quality of evidence
 - **A retrocardiac air–fluid level on chest X-ray is pathognomonic** for a paraesophageal hernia.
 - **Contrast study** gauges size and reducibility, localizes the GEJ relative to the hiatus, and may raise suspicion of a **short esophagus** before the operation. **Avoid ionic water-soluble contrast** in PEH with acute gastric outlet obstruction — aspiration pneumonitis risk.
 - **Computed tomography** is most useful urgently, for suspected complications of a volvulized PEH and for assessing herniated organs.
-- **Manometry:** catheter placement across the lower esophageal sphincter and below the diaphragm **can be difficult in PEH**; a contrast swallow showing normal motility may substitute. A motility study **is** critical before antireflux surgery for a *sliding* hernia, to position the pH probe correctly.
+- **Manometry:** catheter placement across the lower esophageal sphincter and below the diaphragm **can be difficult in PEH**; a contrast swallow showing normal motility may substitute. A motility study **is** critical to position the pH probe above the lower esophageal sphincter in a *sliding* hernia with reflux symptoms.
 - **pH testing** has limited role in diagnosing the hernia but is needed to confirm pathologic acid exposure before operating on a type I hernia — unless erosive esophagitis or [[barretts-esophagus|Barrett's esophagus]] is already seen endoscopically.
 
 **Mesh — the three randomized trials (Table 1)**

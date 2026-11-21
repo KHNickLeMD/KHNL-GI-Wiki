@@ -3,7 +3,8 @@ title: "ACG 2020: Clinical Use of Esophageal Physiologic Testing"
 category: source
 tags: [esophageal, hrm, manometry, reflux-testing, ambulatory-monitoring, flip, barium, gerd, dysphagia, atypical-symptoms, extraesophageal, rumination, belching]
 created: 2026-05-19
-updated: 2026-09-30
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2020 Clinical Use of Esophageal Physiologic Testing.pdf"
 ---
@@ -52,7 +53,7 @@ This American College of Gastroenterology (ACG) guideline describes the performa
 
 It is organized around **3 symptom categories**: obstructive symptoms ([[dysphagia]] and regurgitation), esophageal reflux symptoms (heartburn, regurgitation, chest pain), and extraesophageal or atypical symptoms (cough, hoarseness, globus, belching, rumination). The authors developed population, intervention, comparator, and outcome (PICO) questions within each category; a librarian performed the searches; and 2 formally trained GRADE methodologists evaluated the quality of supporting evidence.
 
-Two framing principles run through the document. First, **no test should be performed without a proper clinical history and without understanding of what the test will provide toward the patient's diagnosis and/or management**. Second, **esophagoscopy (with biopsies) is an important first step and should be performed before ordering esophageal physiologic studies** — esophagoscopy has very low yield as a test of esophageal physiology and motor pathophysiology but is essential for excluding structural or mechanical lesions. Figure 1 routes patients by dominant symptom category from that endoscopy onward.
+Two framing principles run through the document. First, **no test should be performed without a proper clinical history and without understanding of what the test will provide toward the patient's diagnosis and/or management**. Second, in obstructive symptoms, **esophagoscopy (with biopsies) is an important first step and should be performed before ordering esophageal physiologic studies** — esophagoscopy has very low yield as a test of esophageal physiology and motor pathophysiology but is essential for excluding structural or mechanical lesions. Figure 1 routes patients by dominant symptom category from that endoscopy onward.
 
 For obstructive symptoms, HRM is strongly recommended over conventional line tracing manometry (CM); provocative maneuvers and a barium tablet are conditional additions; and FLIP is positioned as complementary to HRM, not a replacement. For esophageal reflux symptoms, ambulatory reflux monitoring is preferred over [[gerd|gastroesophageal reflux disease (GERD)]] questionnaires, over assessment of response to a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] trial, and over [[upper-endoscopy|upper endoscopy]] alone for a conclusive GERD diagnosis — performed **off** antisecretory therapy in unproven GERD and **on** PPI (pH impedance) in proven GERD. For extraesophageal symptoms, pH impedance monitoring off acid suppression is strongly recommended over laryngoscopy. The authors close by noting that the existing evidence base for esophageal function testing is of **very low GRADE quality**, yet these tests remain integral to evaluating symptoms that persist without an endoscopic explanation.
 
@@ -88,7 +89,7 @@ Definitions as printed:
 
 ## Recommendations
 
-Text below is the wording of the numbered recommendation boxes. The summary tables (Tables 2–4) word Recommendation 1 and the unnumbered FLIP statement as *"We suggest…"* rather than *"We recommend…"*; the grades are identical in both places.
+Text below is the wording of the numbered recommendation boxes. The summary tables (Tables 2–4) word almost every statement *"We suggest…"* (only Recommendations 2 and 13 read *"We recommend…"* there); the grades are identical in both places.
 
 ### Obstructive Symptoms — Recommendations 1–4
 
@@ -176,7 +177,8 @@ flowchart TD
     R --> R1["Unproven GERD — test OFF PPI<br/>pH impedance / wireless pH / catheter pH"]
     R --> R2["Proven GERD — test ON PPI<br/>pH impedance"]
 
-    C --> M["High-resolution manometry / high-resolution impedance manometry<br/>diagnose major motor disorders<br/>assess peristaltic performance before antireflux surgery<br/>determine pathophysiology of reflux<br/>diagnose rumination and supragastric belching"]
+    R1 --> M["High-resolution manometry / high-resolution impedance manometry<br/>diagnose major motor disorders<br/>assess peristaltic performance before antireflux surgery<br/>determine pathophysiology of reflux<br/>diagnose rumination and supragastric belching"]
+    R2 --> M
     D --> M
     E --> M
 
@@ -184,8 +186,8 @@ flowchart TD
     M --> P2["Provocative HRM: obstructive<br/>rapid drink challenge, standardized test meal<br/>to evaluate for outflow obstruction"]
     M --> P3["Provocative HRM: atypical<br/>postprandial monitoring to diagnose<br/>rumination and supragastric belching"]
 
-    M --> BA["Barium radiography<br/>alternative or complementary approach to diagnosis of motor disorders<br/>follow-up after treatment of major motor disorders"]
-    M --> FL["FLIP<br/>alternative or complementary approach to diagnosis of motor disorders<br/>follow-up after treatment of major motor disorders"]
+    P2 --> BA["Barium radiography<br/>alternative or complementary approach to diagnosis of motor disorders<br/>follow-up after treatment of major motor disorders"]
+    BA --> FL["FLIP<br/>alternative or complementary approach to diagnosis of motor disorders<br/>follow-up after treatment of major motor disorders"]
 ```
 
 Points the figure legend makes explicitly:
@@ -207,8 +209,8 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 | Distal esophageal AET | **>6%** | Lyon consensus proposal — considered **pathologic**. Based on existing normative data and expert consensus |
 | Distal esophageal AET | **4%–6%** | Lyon consensus proposal — considered **borderline**, with the need for additional GERD evidence to confirm pathologic GERD |
 | Distal esophageal AET | **~4.0%** | The threshold "many studies used… to designate GERD" |
-| AET | **>4.0%** (off PPI) | Predicted PPI response (683 patients with suspected GERD, retrospective); predicted symptom improvement with PPI (128 patients tested off PPI); with RSA using impedance-detected reflux events, predicted treatment success before medical or surgical antireflux management (187 subjects) |
-| AET | **>4.2%** | Objective GERD diagnosis criterion (with erosive esophagitis) in a prospective study of 366 patients — 88% reported symptom relief with PPI |
+| AET | **>4.0%** | Predicted PPI response, as did a positive symptom index (683 patients with suspected GERD, retrospective); predicted symptom improvement with PPI (128 patients tested off PPI); with RSA using impedance-detected reflux events, predicted treatment success before medical or surgical antireflux management (187 subjects) |
+| AET | **>4.2%** | Objective GERD diagnosis criterion (with erosive esophagitis) in a prospective study — 88% reported symptom relief with PPI |
 | AET | **>5.5%** | "Abnormal AET" as used in the 2-week PPI-test analysis and in the 471-patient prolonged wireless pH cohort |
 | AET | **>6.3%** (off PPI) | Reference standard against which GERDQ ≥8 was scored |
 | AET | **total ≥5.5%, supine ≥6.9%, upright ≥6.7%** | GERD definition (with reflux esophagitis on esophagogastroduodenoscopy [EGD] or positive SAP) in the 169-patient GERDQ ≥9 study |
@@ -257,6 +259,8 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 - **Endoscopy.** High specificity but low sensitivity. Among **696 patients** undergoing EGD for suspected GERD symptoms, those without reflux esophagitis were more likely to be on PPI therapy than those with erosive esophagitis (53% vs 29%; univariate odds ratio 2.75, P < 0.001; multivariate odds ratio 3.19, P < 0.001). Among over **700 patients** with a partial response to PPI therapy, only **20%–30%** had esophageal mucosal breaks on EGD. A good-quality EGD is nevertheless essential before further evaluation.
 - **Unproven GERD.** Symptoms, PPI response, and low-grade erosive esophagitis (Los Angeles [LA] grades A and B) on endoscopy are **insufficient conclusive evidence for GERD** and do not always correlate with abnormal reflux burden off PPI. Most patients not responding to PPI, and **as many as half of patients referred for invasive GERD management, will not have pathologic reflux evidence** on ambulatory reflux monitoring.
 - **Proven GERD.** Advanced grade erosive esophagitis and confirmed [[barretts-esophagus|Barrett's esophagus]] constitute conclusive evidence for GERD; reflux testing in these settings can be performed **on** therapy. Escalation benefits patients with proven GERD who continue to have abnormal pH impedance metrics on submaximal or maximal medical antireflux therapy. Of 39 patients with refractory symptoms tested both on and off therapy, weakly acid reflux episodes were more frequently encountered **on** therapy in patients with abnormal AET off therapy. Abnormal pH impedance on once-a-day PPI normalized with maximal PPI therapy in **71.1% of 45 patients**; **89% of 38 patients** with refractory symptoms and abnormal pH impedance metrics on maximal PPI improved with laparoscopic fundoplication.
+- **Invasive antireflux therapy in proven GERD on maximal PPI:** expert esophagologists recommend it only with **conclusive evidence of GERD** — abnormal reflux burden with or without hiatal hernia, or regurgitation with positive symptom–reflux association and a large hiatus hernia.
+- Negative reflux monitoring (physiologic AET and negative symptom–reflux association) may point to non-GERD processes and predicts poor response to antireflux treatment; pH impedance (vs pH alone) moves some diagnoses from functional heartburn to reflux hypersensitivity.
 - **Prolonged wireless pH monitoring.** In a cohort of 471 patients, **56%** of patients with heartburn evaluated with prolonged wireless pH monitoring off PPI had abnormal AET >5.5%; the presence of a hiatus hernia and body mass index >25 were predictors of abnormal AET. Diagnosis may shift to nonerosive reflux disease from [[functional-heartburn|functional heartburn]] when additional days' data are taken into consideration. Wireless pH monitoring is particularly useful when the transnasal catheter is not tolerated or yields a negative result despite high suspicion of GERD, but it is **expensive**, limiting availability in many countries.
 - **Reflux phenotyping by AET + RSA** (cohort of nearly 100 patients who underwent pH impedance monitoring off PPI): abnormal AET + positive RSA = **strong evidence for GERD**; abnormal AET + negative RSA = **good evidence**; normal AET + positive RSA = **reflux hypersensitivity**; normal AET + negative RSA = **no evidence**. Symptomatic outcomes with antireflux therapy were best with strong or good evidence for GERD on testing, and poorest with physiologic AET and negative RSA. **RSA alone has modest performance characteristics** in predicting reflux management outcome and is subject to accuracy of symptom reporting; RSA is best used as an **adjunctive measure to complement AET**.
 - **AET and treatment outcome.** "Distal esophageal AET is a cardinal reflux metric that predicts **GERD treatment outcome**." Separately, abnormal AET and RSA **also predict treatment success from ARS** — in 187 subjects referred for pH impedance before medical or surgical antireflux management, AET >4%, RSA with impedance-detected reflux events, and testing performed off PPI predicted treatment success; in 33 patients who underwent laparoscopic fundoplication, the **only** predictor of successful postoperative outcome was **positive RSA on pH impedance performed on PPI therapy**.
@@ -302,7 +306,7 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 - FLIP is a **Food and Drug Administration (FDA)-approved** measurement tool used to measure simultaneous pressure, cross-sectional area (CSA), and distensibility in the esophagus.
 - Commercially available since 2009, but **limited penetrance into clinical settings outside of specialized centers** — because of a lack of standardized protocols, lack of data analysis methodology, and paucity of data supporting utility in general practice.
 - In a study comparing esophageal motility assessed using FLIP topography to HRM in patients with dysphagia, FLIP was **well-tolerated and accurately detected major motility disorders including achalasia**.
-- FLIP topography enhanced the evaluation of esophageal function in **nonobstructive dysphagia** by detecting an abnormal response to esophageal distension in **50%** of patients diagnosed with ineffective esophageal motility in one study.
+- FLIP topography enhanced the evaluation of esophageal function in **nonobstructive dysphagia** by detecting an abnormal response to esophageal distension in **50%** of patients diagnosed with ineffective esophageal motility or a normal HRM study in one study.
 - FLIP can **characterize achalasia subtypes** by detecting nonocclusive esophageal contractions not observed with HRM; such contractility was detected to varying degrees in each of the achalasia subtypes, allowing additional subclassification.
 - **EGJ distensibility measured using FLIP can diagnose achalasia in patients with clinically suspected achalasia but manometrically normal EGJ relaxation** — a known caveat for the use of integrated relaxation pressure alone in excluding achalasia. FLIP can thus identify an obstructive element in major disorders presenting with dysphagia despite a normal integrated relaxation pressure, but **is not intended to replace HRM** in the characterization of motor disorders.
 - **The value of FLIP lies in** the identification of achalasia or esophageal outflow obstruction in patients with borderline manometric findings, or in patients with obstructive symptoms despite management of esophageal outflow obstruction.
@@ -317,7 +321,7 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 - **PSPW index.** After a reflux episode, a primary swallow — the postreflux swallow-induced peristaltic wave — is often seen in healthy individuals, bringing saliva for neutralization of esophageal mucosal acidification and serving as a marker of esophageal chemical clearance. The PSPW index is lower in erosive or nonerosive GERD compared with functional heartburn or healthy controls. Data from a single research group suggest PSPW measurements might **outperform AET and MNBI** in predicting PPI responsiveness in endoscopy-negative heartburn; these data need to be **replicated by other investigators**, and further research is needed before widespread use.
 - **Mucosal impedance.** The clinical use of a balloon-mounted MI probe ("mucosal integrity") may help elucidate whether MI measurements can predict esophageal symptom management better than the current paradigms; this tool recently received FDA approval.
 
-**Conclusions as printed.** Esophageal presentations, patient self-report questionnaire information, and even empiric therapeutic trials are **not always predictive of esophageal disorders with high certainty**. The overall goal of esophageal physiologic testing should be to identify unique characteristics about each symptomatic patient that will allow delivery of precision, personalized management. **A major setback is that existing esophageal manometry research evaluating the value of esophageal function tests has very low quality of evidence.** Despite low GRADE quality and conditional recommendations, esophageal physiologic testing options form an integral part of patient evaluation in the setting of esophageal symptoms that persist without objective evidence of etiology or pathophysiology on endoscopy.
+**Conclusions as printed.** Esophageal presentations, patient self-report questionnaire information, and even empiric therapeutic trials are **not always predictive of esophageal disorders with high certainty**. The overall goal of esophageal physiologic testing should be to identify unique characteristics about each symptomatic patient that will allow delivery of precision, personalized management. **A major setback is that existing esophageal research evaluating the value of esophageal function tests has very low quality of evidence.** Despite low GRADE quality and conditional recommendations, esophageal physiologic testing options form an integral part of patient evaluation in the setting of esophageal symptoms that persist without objective evidence of etiology or pathophysiology on endoscopy.
 
 ---
 
@@ -337,7 +341,7 @@ Every cut-point printed in the document, with the qualifier that makes it usable
 
 ## Contradictions / Open Questions
 
-- **Internal wording inconsistency.** Recommendation 1 and the unnumbered FLIP statement are printed as *"We recommend…"* in the recommendation boxes but as *"We suggest…"* in Table 2. The GRADE labels are the same in both places (conditional, very low; and conditional, low).
+- **Internal wording inconsistency.** Tables 2–4 word almost every statement *"We suggest…"* (only Recommendations 2 and 13 *"We recommend…"*), whatever the wording of the recommendation boxes. The GRADE labels are the same in both places (conditional, very low; and conditional, low).
 - **The unnumbered FLIP recommendation.** It carries a full GRADE strength and quality and is listed alongside the graded statements in Table 2, yet it is the only such statement without a recommendation number, and it is printed inside a Key concept box.
 - **AET cut-points.** The document reports the Lyon consensus proposal of **AET >6% pathologic** and **AET 4%–6% borderline**, and separately notes that many studies used approximately **4.0%** to designate GERD. It **does not state a "<4% = physiologic" cut-point**; "physiologic AET" appears only as a phenotype label, never with a number. Lyon Consensus 2.0 ([[lyon-2024-gerd-diagnosis]]) is the later and higher-priority framework for the diagnostic thresholds.
 - **AET and outcome.** The "cardinal reflux metric" sentence is about **GERD treatment outcome** generally. The ARS-specific claim is a separate statement (Recommendation 11 and the 187-subject and 33-patient studies) — the two should not be merged.

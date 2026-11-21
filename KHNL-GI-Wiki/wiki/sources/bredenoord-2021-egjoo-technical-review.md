@@ -3,7 +3,8 @@ title: "Esophagogastric Junction Outflow Obstruction — Chicago Classification 
 category: source
 tags: [egjoo, esophageal-motility, hrm, chicago-classification, dysphagia, foregut]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Technical Review EGJ Outflow Obstruction (Bredenoord).pdf"
 ---
@@ -92,7 +93,7 @@ Impedance studies (Jodorkovsky, Jain, Zheng) consistently show an elevated IRP a
 - **Avoid invasive irreversible treatment.** Two reasons: it does not help when symptoms are functional, and myotomy or pneumatic dilation **alters the IRP, making it much harder to prove later that achalasia has developed**.
 - **Expectative management carries little potential for harm** and is the best option when symptoms are mild.
 - **If intervention is demanded** by very severe symptoms and strong patient preference, **botulinum toxin injection is probably the best option — safe, reversible, and it allows 6–12 months of waiting before re-analysis.** Reported relief from a single injection: **55% at 1 year, 50% at 1.5 years** (Porter), more prolonged than in achalasia when repeat injections were given on demand.
-- **Pneumatic dilation** can be performed where there are very strong indications that symptoms are obstructive — stasis on timed barium esophagram, impaired LES distensibility on FLIP, or progression of manometric abnormalities. Clayton reported a **67% symptomatic response** in a selected retrospective series; Blonski's group reported 67% symptomatic improvement after pneumatic dilation of EGJOO patients with obstruction on timed barium esophagram.
+- **Pneumatic dilation** can be performed where there are very strong indications that symptoms are obstructive — stasis on timed barium esophagram, impaired LES distensibility on FLIP, or progression of manometric abnormalities. Clayton reported a **67% symptomatic response** in a selected retrospective series; Blonski's group reported 67% symptomatic improvement after pneumatic dilation of EGJOO patients with obstruction on timed barium esophagram (both cite the same reference). Van Hoeij: botulinum toxin effective in all treated patients, pneumatic dilation in only 33%.
 - **Sham response is 40%** — that is the benchmark any uncontrolled treatment series must beat.
 
 ### Timed barium esophagram — the evidence is mixed
@@ -100,6 +101,17 @@ Impedance studies (Jodorkovsky, Jain, Zheng) consistently show an elevated IRP a
 - Blonski: timed barium esophagram separates untreated achalasia from the heterogeneous EGJOO group (27% of whom had abnormal study/tablet findings) and from non-achalasia, but does **not** separate EGJOO from non-achalasia. The abnormal-TBE EGJOO pattern was retention at 1 min but not at 5 min, plus tablet retention.
 - Triggs: 30% (47/155) of manometric EGJOO had radiologic evidence of EGJOO; 52% (119/155) had symptomatic dysphagia.
 - van Hoeij: barium retention did **not** predict treatment response or progression.
+
+### Diagnostic algorithm (Figure 6)
+
+| Step | If no | If yes |
+|---|---|---|
+| Elevated median IRP (supine and upright) → peristalsis present? | Achalasia | Next step |
+| Elevated intrabolus pressure? | No EGJOO — discard elevated IRP | Next step |
+| Dysphagia and/or chest pain? | No EGJOO — discard elevated IRP | Next step |
+| Abnormal TBE and/or endoflip and/or pharmacologic provocation? | **Inconclusive** EGJOO — refrain from definite therapy; consider repeating tests in 6–12 months if symptoms persist | **Conclusive** diagnosis of EGJOO |
+
+- Opioid analgesics are associated with impaired LES relaxation causing functional EGJ outflow obstruction; crural diaphragm function also contributes.
 
 ## Relevance to Wiki
 
@@ -111,9 +123,10 @@ Impedance studies (Jodorkovsky, Jain, Zheng) consistently show an elevated IRP a
 
 ## Contradictions / Open Questions
 
-- **Timed barium esophagram's value is contested within this document.** Blonski found it cannot separate EGJOO from non-achalasia, and van Hoeij found retention did not predict treatment response or progression; Triggs found 30% had radiologic EGJOO and the same group reported 67% symptomatic improvement after pneumatic dilation of EGJOO patients with TBE obstruction. CCv4.0 nonetheless makes an abnormal TBE (preferably with tablet) one of the two acceptable supportive tests.
+- **Timed barium esophagram's value is contested within this document.** Blonski found it cannot separate EGJOO from non-achalasia, and van Hoeij found retention did not predict treatment response or progression; Blonski's group also reported 67% symptomatic improvement after pneumatic dilation of EGJOO patients with TBE obstruction; Triggs found 30% had radiologic EGJOO. CCv4.0 nonetheless makes an abnormal TBE (preferably with tablet) a supportive test.
+- **Which supportive tests count is inconsistent within the document.** The Table 1 statement and section 5.1.2 name TBE and/or FLIP; the Abstract and the Figure 6 algorithm also accept **pharmacologic provocation** (statement 5.3.2: abnormal EGJ function after pharmacologic provocation supports the diagnosis, conditional).
 - **Whether CT and EUS are needed in presumed idiopathic EGJOO is unresolved** — Liu, DeLay and Okeke found no yield; Krishnan found an anatomic etiology in 3/23. The document calls the literature contradictory.
 - **Every published EGJOO study is retrospective**, using measurements made for clinical care, so the evidence base cannot answer what "meaningful" EGJOO is or what IBP adds.
 - **No numeric cut-off is given for an abnormal timed barium esophagram** in this document or in CCv4.0.
 - The document's **Table 1 wording of statement 5.3.3** ("EGJOO should be described in the context of the pattern of peristalsis…") and its **section 5.3.3 wording** ("a manometric diagnosis of EGJOO can be seen without a disorder of peristalsis, or can coexist with disorders of peristalsis…") differ in emphasis; both are recorded above.
-- **Figures.** Not open access (© 2021 John Wiley & Sons Ltd), so no figure is embedded. Figure 6 is the EGJOO diagnostic algorithm; Figures 1–5 are manometry plots illustrating secondary structural EGJOO, pressure drift, catheter impingement, the supine-to-upright change in contractile phenotype, and the three rapid-drink-challenge patterns.
+- **Figures.** Not open access (© 2021 John Wiley & Sons Ltd), so no figure is embedded. Figures 1–5 are manometry plots illustrating secondary structural EGJOO, pressure drift, catheter impingement, the supine-to-upright change in contractile phenotype, and the three rapid-drink-challenge patterns.

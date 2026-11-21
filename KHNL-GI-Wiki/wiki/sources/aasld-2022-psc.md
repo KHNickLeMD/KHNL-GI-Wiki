@@ -3,7 +3,8 @@ title: "AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Chola
 category: source
 tags: [psc, cholangiocarcinoma, biliary, ibd, liver-transplant, dominant-stricture, igg4, udca, fish, mrcp]
 created: 2026-05-28
-updated: 2026-09-15
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2022 Primary Sclerosing Cholangitis.pdf"
 ---
@@ -31,10 +32,10 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 ### Epidemiology
 
-- PSC prevalence: 1–1.5 cases/100,000 person-years; 6–16/100,000 person-years prevalence (northern Europe/North America)
+- PSC incidence ~1–1.5 cases/100,000 person-years; prevalence 6–16/100,000 (northern Europe/North America)
 - Peak incidence age 25–45, median age at diagnosis 36–39 years
 - Men account for ~2/3 of PSC patients overall; male predominance less pronounced without IBD
-- ≥70–80% of PSC patients have concurrent IBD (mostly [[ulcerative-colitis|ulcerative colitis (UC)]]/indeterminate colitis); ~1/3 [[crohns-disease|Crohn's]]
+- ≥70–80% of PSC patients have concurrent IBD (two thirds [[ulcerative-colitis|ulcerative colitis (UC)]]; one third [[crohns-disease|Crohn's]] or indeterminate colitis)
 - PSC-[[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] overlap: ~35% of children, ~5% of adults
 - Median time to death or [[liver-transplantation|LT]]: 9 years (referral center) to ≥21 years (population-based)
 
@@ -55,16 +56,16 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - ERCP should be avoided for diagnosis (serious complications, not needed when MRCP available)
 - Equivocal MRI → experienced center ± repeat 3D MRCP or liver biopsy
 - Liver biopsy not required for typical PSC on MRCP; should be considered for small-duct PSC or AIH overlap concern
-- IgG4: Up to 15% of PSC patients have elevated IgG4; high-titer IgG4 >5.6 g/L or IgG4/IgG1 ratio <0.24 can be used for IgG4-SC distinction
+- IgG4: Up to 15% of PSC patients have elevated IgG4; high-titer IgG4 >5.6 g/L can be used for IgG4-SC distinction; an IgG4/IgG1 ratio <0.24 can exclude IgG4-SC when serum IgG4 is 1.4–2.8 g/L
 - ALP elevated in ~75%; elevated aminotransferases common and do not suggest AIH overlap unless predominant or >5× upper limit of normal (ULN)
 
 ### Natural History and Prognosis
 
-- Small-duct PSC: 23% progress to large-duct disease over 5–14 years; better prognosis (lower [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] risk, longer LT-free survival)
-- Dominant strictures present in up to 50% of patients; ~40% develop dominant strictures over disease course
+- Small-duct PSC: 23% progress to large-duct disease over 5–14 years; better prognosis (longer time until cirrhosis, lower risk of hepatobiliary malignancy)
+- Dominant strictures present in up to 50% of patients; up to 45% develop dominant strictures
 - Candida in bile = poor prognostic sign; bacterial cholangitis occurs in ~6% at diagnosis, ~40% during disease course
 - CCA risk: 160–400× general population; cumulative 6%/14%/20% at 10/20/30 years; 2.5% in first year after PSC diagnosis, then 1–1.5%/year
-- [[colorectal-cancer|colorectal cancer (CRC)]] risk in PSC-IBD: 5–12× general population, 3–5× IBD-without-PSC; 5-year CRC incidence 7%, 10-year 9% (recent data)
+- [[colorectal-cancer|colorectal cancer (CRC)]] risk in PSC-IBD: 5–12× general population, 4–5× IBD-without-PSC; 5-year CRC incidence 7%, 10-year 9% (recent data)
 - Gallbladder cancer: 9–78× general population; gallbladder polyps present in 6–16% of PSC patients
 
 ### Prognostic Models (Table 3)
@@ -100,14 +101,14 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - ERCP indications: relevant strictures with cholangitis, pruritus, unexplained weight loss, worsening liver function tests (LFTs), rising CA 19-9, recurrent bacterial cholangitis, or progressive bile duct dilation
 - MRI/MRCP should generally precede ERCP to clarify need for intervention
 - Intraductal tissue sampling (brushings + biopsy for cytology and fluorescence in situ hybridization [FISH]) required for relevant strictures
-- Antimicrobial prophylaxis should be administered periprocedurally for all PSC patients undergoing ERCP
+- Antimicrobial prophylaxis should be administered periprocedurally for PSC patients undergoing ERCP, unless already on antimicrobial therapy covering biliary tract flora
 - Balloon dilation ± stenting left to multidisciplinary/endoscopist discretion; balloon dilation should not exceed diameter of bile ducts immediately flanking the stricture
 - Plastic stent, if placed, should be removed within 4 weeks
-- Periprocedure rectal indomethacin 100 mg + aggressive lactated Ringer's (LR) hydration should be considered for post-ERCP pancreatitis prophylaxis
+- Periprocedure rectal indomethacin 100 mg + periprocedural lactated Ringer's (LR) i.v. solution should be considered for post-ERCP pancreatitis prophylaxis
 
 ### CCA Surveillance
 
-- Annual MRI/MRCP ± serum CA 19-9 recommended for all PSC patients ≥18 years or with large-duct PSC
+- Annual MRI/MRCP ± serum CA 19-9 recommended for PSC patients ≥18 years with large-duct PSC (not recommended under 18 or with small-duct PSC)
 - Surveillance NOT recommended for patients <18 years or with small-duct PSC
 - Intraductal tissue sampling (cytology + FISH) should be routinely performed during ERCP for relevant strictures
 - FISH polysomy = 5+ cells with gains in ≥2 probes → 93% sensitivity / 100% specificity with pancreaticobiliary probe set
@@ -115,12 +116,12 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - FISH polysomy + CA 19-9 ≥129 U/ml = high likelihood of CCA even without a mass lesion
 - CA 19-9 alone should NOT be used to diagnose CCA
 - MRI/MRCP superior to ultrasound (US) for CCA surveillance in asymptomatic PSC (sensitivity 89%/specificity 75% vs. US sensitivity 57%/specificity 94%)
-- Cholangioscopy: not explicitly addressed as routine surveillance modality; FISH analysis best tool for cytologically indeterminate strictures
+- FISH polysomy: enhanced sensitivity and similar specificity vs conventional cytology for CCA detection
 
 ### Gallbladder Surveillance
 
 - Gallbladder polyps ≤8 mm: monitor with US every 6 months
-- Gallbladder polyps >8 mm: cholecystectomy recommended (preferably at experienced center in advanced disease); accounts for 40% risk of perioperative hepatic decompensation in advanced PSC
+- Gallbladder polyps >8 mm: cholecystectomy should be considered (weighed against US monitoring; experienced center in advanced disease); reported 40% risk of postoperative complications after cholecystectomy in advanced PSC
 - US has 84%/96% sensitivity/specificity for gallbladder polyps
 
 ### CRC Surveillance (PSC-IBD)
@@ -157,10 +158,10 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 - Indications: end-stage liver disease with complications of cirrhosis/portal hypertension, intractable pruritus, recurrent bacterial cholangitis, early-stage hepatobiliary cancers
 - PSC accounts for ~5% of all LTs in the United States
 - Model for End-Stage Liver Disease (MELD) exception criteria for PSC:
-  - Recurrent bacterial cholangitis: ≥2 hospital admissions in 1 year for acute cholangitis with documented bloodstream infection or sepsis with hemodynamic instability requiring vasopressors
-  - CCA by protocol criteria (CA 19-9 >100 U/ml without cholangitis/aneuploidy, malignant-appearing stricture + suspicious cytology/FISH polysomy, or perihilar mass with CCA imaging features) — qualifying for neoadjuvant protocol; must have CCA <3 cm radial diameter and no intrahepatic/extrahepatic metastasis; MELD score must be ≥20 for exception points
+  - Recurrent bacterial cholangitis (PSC with cirrhosis): ≥2 hospital admissions in 1 year for acute cholangitis with documented bloodstream infection or sepsis with hemodynamic instability requiring vasopressors
+  - CCA by protocol criteria (malignant-appearing stricture + cytology/biopsy, CA 19-9 >100 U/ml in the absence of cholangitis, aneuploidy, or hilar mass <3 cm radial diameter) — qualifying for neoadjuvant protocol; must have CCA <3 cm radial diameter and no intrahepatic/extrahepatic metastasis; predictors of pretransplant dropout: CA 19-9 ≥500 U/ml, tumor radial diameter ≥3 cm, MELD ≥20
 - Living donor LT is an option; does not appear to increase recurrent PSC (rPSC) risk
-- Roux-en-Y choledochojejunostomy = preferred biliary reconstruction (reduces rPSC); duct-to-duct may be considered if bile duct appears normal at LT without high-grade dysplasia (HGD)
+- Roux-en-Y choledochojejunostomy = preferred biliary reconstruction (risk of strictures and CCA in the remnant duct); some centers use duct-to-duct if the bile duct appears normal or in the absence of high-grade dysplasia (HGD) at LT
 
 ### Recurrent PSC (rPSC)
 
@@ -342,7 +343,7 @@ The guidance also introduces comprehensive coverage of [[cholangiocarcinoma]] (i
 
 ## Contradictions / Open Questions
 
-- **UDCA:** ACG 2015 recommended strongly against ALL doses of UDCA ≥28 mg/kg/d; AASLD 2022 maintains that prohibition but softens the position on 13–23 mg/kg/d (can be considered), representing a meaningful nuance update
+- **UDCA:** ACG 2015 recommended strongly against UDCA >28 mg/kg/d; AASLD 2022 maintains that prohibition but softens the position on 13–23 mg/kg/d (can be considered), representing a meaningful nuance update
 - **Oral vancomycin:** Prior enthusiasm (especially pediatric) not supported — insufficient evidence; pediatric retrospective data (264 patients, PPSC [Pediatric PSC] Consortium) showed no benefit over observation
 - **CCA surveillance:** No prospective RCT data on surveillance impact on outcomes; guidance based on observational data and expert consensus
 - **LT for iCCA:** Emerging data from multicenter cohorts showing feasibility; current guidance limits to research protocols

@@ -3,7 +3,8 @@ title: "ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis"
 category: source
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant]
 created: 2026-05-19
-updated: 2026-09-28
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2015 Primary Sclerosing Cholangitis.pdf"
 ---
@@ -19,9 +20,9 @@ raw: "GI Guidelines/ACG/ACG 2015 Primary Sclerosing Cholangitis.pdf"
 
 ## Summary
 
-First American College of Gastroenterology (ACG) clinical guideline for primary sclerosing cholangitis (PSC), a chronic cholestatic biliary disease defined by beading and stricture formation of intra- and/or extrahepatic bile ducts not ascribable to another cause. Diagnosis of exclusion; strong [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] association (up to 80% of PSC patients, possibly as high as 90% when rectosigmoid biopsies are routinely taken), with elevated risks of [[cholangiocarcinoma]] (CCA), gallbladder cancer, [[colorectal-cancer|colorectal cancer (CRC)]] in PSC-IBD, hepatobiliary failure, fat-soluble vitamin deficiency, and metabolic bone disease. Magnetic resonance cholangiopancreatography (MRCP) is the preferred method of cholangiography for suspected PSC; [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] is reserved for tissue sampling or therapeutic dilation of dominant strictures. There is no established medical therapy — ursodeoxycholic acid (UDCA) in doses >28 mg/kg/day is harmful and is recommended against (strong recommendation, high quality of evidence). [[liver-transplantation|Liver transplantation]] is the definitive treatment for decompensated cirrhosis.
+American College of Gastroenterology (ACG) clinical guideline for primary sclerosing cholangitis (PSC), a chronic cholestatic biliary disease defined by beading and stricture formation of intra- and/or extrahepatic bile ducts not ascribable to another cause. Diagnosis of exclusion; strong [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] association (up to 80% of PSC patients, possibly as high as 90% when rectosigmoid biopsies are routinely taken), with elevated risks of [[cholangiocarcinoma]] (CCA), gallbladder cancer, [[colorectal-cancer|colorectal cancer (CRC)]] in PSC-IBD, hepatobiliary failure, fat-soluble vitamin deficiency, and metabolic bone disease. Magnetic resonance cholangiopancreatography (MRCP) is the preferred method of cholangiography for suspected PSC; [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] is reserved for tissue sampling or therapeutic dilation of dominant strictures. There is no established medical therapy — ursodeoxycholic acid (UDCA) in doses >28 mg/kg/day is harmful and is recommended against (strong recommendation, high quality of evidence). [[liver-transplantation|Liver transplantation]] is the definitive treatment for decompensated cirrhosis.
 
-The guideline carries 24 sequentially numbered recommendations, each with a GRADE strength (strong / conditional / weak) and quality of evidence (high / moderate / low / very low), collected in its Summary of Recommendations and repeated section by section.
+The guideline carries 24 sequentially numbered recommendations, each with a strength (strong / conditional / weak) and quality of evidence (high / moderate / low / very low), collected in its Summary of Recommendations and repeated section by section.
 
 ## Key Findings / Claims
 
@@ -35,7 +36,7 @@ The guideline carries 24 sequentially numbered recommendations, each with a GRAD
 
 **Biochemistry and autoantibodies**
 
-- Cholestatic profile with predominant elevation of alkaline phosphatase (ALP); aminotransferases often only modestly elevated. Some patients with PSC have normal serum ALP.
+- Cholestatic profile with predominant elevation of alkaline phosphatase (ALP); aminotransferases often only modestly elevated. Many patients with PSC may have normal serum ALP.
 - Elevated serum immunoglobulin G4 (IgG4) in ~10% of PSC patients; marked elevations defined as >140 mg/dL. IgG4-associated disease, unlike typical PSC, responds to corticosteroids.
 - Antimitochondrial antibody (AMA) characteristic of primary biliary cirrhosis is not found in PSC. Anti-smooth muscle, antinuclear, and antineutrophil cytoplasmic antibodies occur (>50% in some series) but are not specific.
 
@@ -54,7 +55,7 @@ The guideline carries 24 sequentially numbered recommendations, each with a GRAD
 | Primary biliary cirrhosis |
 | Papillary tumors |
 
-*Secondary sclerosing cholangitis most often arises from prior biliary surgery, choledocholithiasis, bacterial cholangitis, intra-arterial floxuridine, or HIV/AIDS-related cholangiopathy.*
+*Secondary sclerosing cholangitis may arise from prior biliary surgery and cholangiolithiasis; other disorders that cause biliary strictures include bacterial cholangitis, intra-arterial floxuridine and AIDS-related cholangiopathy.*
 
 **Medical treatment**
 
@@ -122,7 +123,7 @@ The guideline carries 24 sequentially numbered recommendations, each with a GRAD
 
 ## Recommendations
 
-Verbatim, with the guideline's own numbering and GRADE labels (Summary of Recommendations, pp. 655).
+Verbatim, with the guideline's own numbering and strength/quality labels (Summary of Recommendations, pp. 655).
 
 | # | Recommendation | Strength | Quality of evidence |
 |---|---|---|---|
@@ -158,10 +159,10 @@ Verbatim, with the guideline's own numbering and GRADE labels (Summary of Recomm
 
 ## Contradictions / Open Questions
 
-- Optimal interval and modality for CCA surveillance are unsettled; CA 19-9 has limited predictive value in both directions.
+- CCA surveillance (6–12-month cross-sectional imaging + CA 19-9) rests on expert opinion (conditional, very low quality).
 - Oral vancomycin has case-series support only; no RCT of antibacterial therapy has been performed.
 - Low-dose UDCA (8–13 mg/kg/day) showed possible benefit against colonic neoplasia in meta-analysis with significant heterogeneity, while the guideline makes no recommendation for UDCA at any dose for hepatic benefit.
-- IgG4 elevation overlaps between PSC (mild increases common) and IgG4-associated sclerosing cholangitis (marked elevations >140 mg/dL); the distinction is not fully standardized.
+- IgG4 elevation overlaps between PSC (mild increases common) and IgG4-associated sclerosing cholangitis (marked elevations >140 mg/dL).
 - Recommendation 15 (repeat colonoscopy every 3–5 y without prior colitis) is graded weak/low and is stated as what "some advocate" rather than as guideline practice.
 - Endoscopic therapy for dominant strictures rests on retrospective series; one retrospective study of 125 patients found no significant difference in cholestasis 1 year after cholangiography between patients with and without dominant strictures.
 
