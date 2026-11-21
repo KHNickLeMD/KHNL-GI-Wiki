@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Se
 category: source
 tags: [fmt, fecal-microbiota, c-difficile, ulcerative-colitis, crohns, ibs, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-11-21
 sources: []
+verified: 2026-11-21
 raw: "GI Guidelines/AGA/AGA 2024 Fecal Microbiota-Based Therapies.pdf"
 ---
 
@@ -12,7 +13,9 @@ raw: "GI Guidelines/AGA/AGA 2024 Fecal Microbiota-Based Therapies.pdf"
 
 ## Bibliographic Info
 
-- **Article:** [AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2024.01.008)
+- **Article:** [Peery AF, Kelly CR, Kao D, et al. AGA Clinical Practice Guideline on Fecal Microbiota–Based Therapies for Select Gastrointestinal Diseases. Gastroenterology 2024;166:409–434.](https://doi.org/10.1053/j.gastro.2024.01.008)
+- **Authors:** Anne F. Peery, Colleen R. Kelly, Dina Kao, Byron P. Vaughn, Benjamin Lebwohl, Siddharth Singh, Aamer Imdad, Osama Altayar
+- **Licence:** "© 2024 by the AGA Institute" — not open access
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2024.01.008](https://doi.org/10.1053/j.gastro.2024.01.008)
@@ -22,13 +25,13 @@ raw: "GI Guidelines/AGA/AGA 2024 Fecal Microbiota-Based Therapies.pdf"
 
 ## Summary
 
-This American Gastroenterological Association (AGA) guideline defines where fecal microbiota-based therapies (conventional fecal microbiota transplantation [FMT] and FDA-approved live biotherapeutics) have a role. The clearest indication is **recurrent [[clostridioides-difficile]] infection (CDI)**; use is discouraged outside trials for inflammatory bowel disease (IBD) and irritable bowel syndrome (IBS), and contraindicated in **severely immunocompromised** patients.
+This American Gastroenterological Association (AGA) guideline defines where fecal microbiota-based therapies (conventional fecal microbiota transplantation [FMT] and FDA-approved live biotherapeutics) have a role. The clearest indication is **recurrent [[clostridioides-difficile]] infection (CDI)**; use is discouraged outside trials for inflammatory bowel disease (IBD) and irritable bowel syndrome (IBS), and suggested against (conditional, very low certainty) in **severely immunocompromised** patients.
 
 ---
 
 ## Recommendations
 
-Table 1 — full recommendation statements with certainty of evidence (verbatim), with the guideline's implementation considerations.
+Table 1 — full recommendation statements with certainty of evidence (verbatim), with the guideline's implementation considerations. Considerations for Recs 1–2 are specific to **nonsevere, nonfulminant recurrent CDI in the outpatient setting**.
 
 **1.** In immunocompetent adults with recurrent *C difficile* infection, the AGA **suggests the use of fecal microbiota–based therapies upon completion of standard of care antibiotics over no fecal microbiota–based therapies**. *(Conditional recommendation, low certainty evidence)*
 > *Diagnosis of recurrent CDI:*
@@ -44,7 +47,7 @@ Table 1 — full recommendation statements with certainty of evidence (verbatim)
 > *How to administer:*
 > - Given upon completion of a course of standard of care antibiotics — these therapies prevent recurrence, they are not CDI treatment.
 > - Suppressive anti-CDI antibiotics (eg, vancomycin) should bridge standard of care antibiotics until the therapy is given.
-> - Ideally antibiotics should be **stopped 1–3 days before conventional FMT**; if a bowel purge is given, FMT can be given 1 day after stopping antibiotics; if no bowel purge, 3 days off antibiotics.
+> - Ideally antibiotics should be **stopped 1–3 days before conventional FMT**; if a bowel purge is given, FMT can be given 1 day after stopping antibiotics; if no bowel purge, 3 days off antibiotics. Rarely, patients recur within 1–2 days of stopping CDI antibiotics — weigh this when setting the window. For the two FDA-approved products, follow the package insert.
 > - Conventional FMT should be performed with appropriately screened donor stool, and can be delivered via multiple routes — there is insufficient evidence to recommend a specific route.
 >
 > *Alternatives:* A vancomycin taper, tapered-pulsed fidaxomicin, or bezlotoxumab are reasonable alternatives.
@@ -54,14 +57,17 @@ Table 1 — full recommendation statements with certainty of evidence (verbatim)
   In **severely immunocompromised** adults with recurrent *C difficile* infection, the AGA **suggests against the use of fecal microbiota–based therapies** upon completion of standard of care antibiotics over no fecal microbiota–based therapies. *(Conditional recommendation, very low certainty of evidence)*
 > - **Severely immunocompromised** includes patients receiving active cytotoxic therapy for solid tumors and hematologic malignancies, patients who have received chimeric antigen receptor T-cell therapy or hematopoietic cell transplant (only when neutropenic), any neutropenia, patients with severe primary immunodeficiency, patients with advanced or untreated HIV [human immunodeficiency virus] infection (CD4 counts <200/mm³, AIDS [acquired immunodeficiency syndrome]-defining illness without immune reconstitution, or clinical manifestations of symptomatic HIV).
 > - **Mildly or moderately immunocompromised** adults are patients who are immunocompromised but do not meet the definition of severe.
-> - Insufficient evidence to recommend fecal microbiota spores live-brpk or fecal microbiota live-jslm in immunocompromised adults; special donor testing may be necessary.
+> - Rec 1 implementation considerations apply to mildly or moderately immunocompromised adults, except the two FDA-approved products (fecal microbiota spores live-brpk, fecal microbiota live-jslm) — insufficient evidence for them in immunocompromised adults.
+> - Conventional FMT with appropriately screened donor stool; special testing may be necessary.
 
 **3.** In adults **hospitalized with severe or fulminant *C difficile* infection not responding to antimicrobial therapy**, the AGA **suggests the use of conventional fecal microbiota transplant over no fecal microbiota transplant**. *(Conditional recommendation, very low certainty of evidence)*
 > - **Severe CDI** is defined as CDI with a leukocyte count ≥15 × 10⁹ cells/L and/or creatinine ≥1.5 mg/dL. **Fulminant CDI** presents as severe disease with shock, ileus, or megacolon.
 > - FMT should be considered in hospitalized patients not responding to standard of care antibiotics, generally **within 2–5 days** after initiating CDI treatment.
+> - Multidisciplinary care (critical care, surgery, gastroenterology, infectious disease) required.
 > - FMT is **not advised** in patients with a bowel perforation, obstruction, or those who are severely immunocompromised.
+> - No evidence for the FDA-approved products as adjuvant treatment in severe or fulminant CDI; insufficient evidence for FMT via enema or capsules.
 > - A bowel purge may not be feasible or safe; in these cases FMT should be performed without bowel preparation. **First dose should be delivered via colonoscopy or flexible sigmoidoscopy**; nasoenteric administration is discouraged (fecal aspiration risk).
-> - Most patients will need **repeat FMT** (generally every 3–5 days). Anti-CDI antibiotics may need to be continued after FMT; after resolution of colitis, suppressive vancomycin should be continued at discharge with a final fecal microbiota–based therapy as an outpatient.
+> - Response: monitor stool output, white blood cell count and C-reactive protein. Most patients will need **repeat FMT** (generally every 3–5 days). Anti-CDI antibiotics may need to be continued after FMT; after resolution of colitis, suppressive vancomycin should be continued at discharge with a final fecal microbiota–based therapy as an outpatient.
 > - *Alternative:* colectomy is often considered for severe CDI not responding to antibiotics, or fulminant CDI.
 
 **4.** In adults with [[ulcerative-colitis|ulcerative colitis]], the AGA **suggests against the use of conventional fecal microbiota transplant, except in the context of clinical trials**. *(Conditional recommendation, very low certainty of evidence)*

@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Management of Pouchitis and Inflammator
 category: source
 tags: [pouchitis, ipaa, ulcerative-colitis, ibd, antibiotics, probiotics, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf"
 ---
@@ -12,7 +12,8 @@ raw: "GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf"
 
 ## Bibliographic Info
 
-- **Article:** [AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2023.10.015)
+- **Article:** [Barnes EL, Agrawal M, Syal G, et al. AGA Clinical Practice Guideline on the Management of Pouchitis and Inflammatory Pouch Disorders. Gastroenterology 2024;166:59–85.](https://doi.org/10.1053/j.gastro.2023.10.015)
+- **Authors:** Edward L. Barnes, Manasi Agrawal (co-first), Gaurav Syal, Ashwin N. Ananthakrishnan, Benjamin L. Cohen, John P. Haydek, Elie S. Al Kazzi, Samuel Eisenstein, Jana G. Hashash, Shahnaz S. Sultan, Laura E. Raffals, Siddharth Singh
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
 - **DOI:** [10.1053/j.gastro.2023.10.015](https://doi.org/10.1053/j.gastro.2023.10.015)
@@ -22,25 +23,49 @@ raw: "GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf"
 
 ## Summary
 
-This American Gastroenterological Association (AGA) guideline addresses prevention and treatment of pouchitis and inflammatory pouch disorders after **ileal pouch–anal anastomosis (IPAA)**, the usual surgical endpoint for [[ulcerative-colitis]]. Management is staged by pattern: intermittent, chronic antibiotic-dependent, chronic antibiotic-refractory, and Crohn's-like disease of the pouch. It extends [[inflammatory-bowel-disease]] care into the postsurgical pouch.
+This American Gastroenterological Association (AGA) guideline addresses prevention and treatment of pouchitis and inflammatory pouch disorders after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA)** for [[ulcerative-colitis]]. Management is staged by pattern: intermittent, chronic antibiotic-dependent, chronic antibiotic-refractory, and Crohn's-like disease of the pouch. It extends [[inflammatory-bowel-disease]] care into the postsurgical pouch.
 
 ---
 
 ## Key Recommendations
 
-- **Rec 1:** **No recommendation** for/against **probiotics for primary prevention** of pouchitis after IPAA.
-- **Rec 2:** Suggests **against antibiotics for primary prevention** of pouchitis.
-- **Rec 3:** For **intermittent** pouchitis symptoms, use **antibiotics**.
-- **Rec 4:** To prevent **recurrence after antibiotic response**, suggests **probiotics**.
-- **Rec 5:** For **chronic antibiotic-dependent pouchitis**, use **chronic antibiotics**.
-- **Rec 6:** For **chronic antibiotic-refractory pouchitis**, use **advanced immunosuppressive (biologic/small-molecule) therapy**.
-- **Crohn's-like disease of the pouch:** corticosteroids (then advanced therapy); **cuffitis** → topical mesalamine/steroids.
+Table 3 numbering and grades (13 recommendations; all in patients with UC after IPAA). The abstract says "9 conditional recommendations"; the document numbers 13 — 10 conditional, 3 "no recommendation".
+
+**Prevention**
+- **Rec 1:** **No recommendation** for or against **probiotics for primary prevention** of pouchitis *(no recommendation, knowledge gap)*.
+- **Rec 2:** Suggests **against antibiotics for primary prevention** *(conditional, very low)*.
+
+**Infrequent pouchitis**
+- **Rec 3:** Suggests **antibiotics** for infrequent symptoms of pouchitis *(conditional, very low)*.
+  - Ciprofloxacin and/or metronidazole preferred; typically **2–4 weeks**.
+  - No response to one antibiotic → a combination may be more effective; oral vancomycin is an alternative after nonresponse or with allergy/intolerance.
+- **Rec 4:** **No recommendation** for or against **probiotics for treatment** of infrequent episodes *(no recommendation, knowledge gap)*.
+
+**Recurrent, antibiotic-responsive pouchitis**
+- **Rec 5:** Suggests **probiotics to prevent recurrence** *(conditional; very low in Table 3, low in the recommendation box)*. Patients with infrequent recurrences, or for whom long-term probiotics are a burden, may reasonably choose no preventive treatment. Trials used the De Simone multistrain formulation.
+
+**Chronic antibiotic-dependent pouchitis** (responds to antibiotics, relapses shortly after stopping)
+- Pouchoscopy to confirm inflammation and rule out alternative causes (both recs).
+- **Rec 6:** Suggests **chronic antibiotic therapy** *(conditional, very low)* — lowest effective dose (e.g., ciprofloxacin 500 mg daily or 250 mg twice daily) with gaps (about 1 week per month), or cycling ciprofloxacin, metronidazole and vancomycin every 1–2 weeks, to reduce resistance.
+- **Rec 7:** Suggests **advanced immunosuppressive therapies** *(conditional; low certainty for vedolizumab, very low for others)* — therapies approved for UC or Crohn's disease (CD), e.g., tumor necrosis factor (TNF)-α antagonists, vedolizumab.
+
+**Chronic antibiotic-refractory pouchitis** (inadequate response to antibiotics)
+- **Rec 8:** Suggests **advanced immunosuppressive therapies** *(conditional; low [vedolizumab] to very low [others])*.
+- **Rec 9:** Suggests **corticosteroids** *(conditional, very low)* — controlled ileal-release budesonide preferred; short duration (<8–12 weeks), with steroid-sparing therapy for long-term use.
+- **Rec 10:** **No recommendation** for or against **mesalamine** *(no recommendation, knowledge gap)*; sulfasalazine may help infrequent episodes, effect in this group unknown.
+
+**Crohn's-like disease of the pouch** (two parallel recommendations; no order stated)
+- **Rec 11:** Suggests **corticosteroids** *(conditional, very low)* — ileal-release budesonide preferred; short duration (<8 weeks).
+- **Rec 12:** Suggests **advanced immunosuppressive therapies** *(conditional, very low)* — therapies approved for UC or CD.
+
+**Cuffitis**
+- **Rec 13:** Suggests **UC-approved therapies, including topical mesalamine and topical corticosteroids** *(conditional, very low)* — topical first line (mesalamine or corticosteroid suppositories, corticosteroid ointment to the cuff); refractory → UC-approved immunosuppressive therapies.
 
 ---
 
 ## Clinical Relevance
 
-Provides a stepwise antibiotic-first algorithm with escalation to biologics for refractory disease, distinguishing pouchitis subtypes that drive therapy. Essential for post-colectomy [[ulcerative-colitis]] patients and overlaps with biologic selection principles in the inflammatory bowel disease (IBD) pharmacologic guidelines.
+Recommendations organized by pouchitis phenotype — antibiotics for infrequent pouchitis, probiotics or chronic antibiotics or advanced therapies for recurrent disease, advanced therapies or steroids when antibiotic-refractory. Essential for post-colectomy [[ulcerative-colitis]] patients.
 
 ---
 
