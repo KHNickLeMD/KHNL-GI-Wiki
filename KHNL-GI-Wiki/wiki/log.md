@@ -60,6 +60,24 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none (protocol, not tier 1).
 - `ingest: partial` removed.
 
+**`[[asge-2026-endoscopic-research-quality]]` — new source (Elmunzer et al, ASGE Society Document: Quality Measures in Endoscopic Research, GIE 2026;104:521–531), fully ingested.** Tier 1 society document, but research methodology — not clinical guidance; © Elsevier/ASGE, no figures.
+- *Extract* (fresh agent, Tables 1–2 rendered): all **9** measures (numbered 1–9 in Table 1; ungraded, "unanimous consensus" — no strength/target printed), Table 2 reporting-guideline map, blinding levels, data-integrity steps, DSMB duties, methods; internal "see measure 7" vs measure 6 cross-reference error noted.
+- *Gate:* 0 ABSENT/OTHER (an OTHER and an ABSENT fixed during extraction by splitting a cross-source bullet), 4 NOMATCH (summary lines, checked by hand), 0 SIGN (P = .016 confirmed on rendered p. 523).
+- *Independent check* (fresh agent, ~120 claims): all 9 measures present, none merged or invented; 1 minor — IGCLC 2020 gives "by age 80" only for the Hansford 70%/56% estimate; Roberts 42%/33% has no age. Fixed on the source page, **and the origin of the error fixed on [[hereditary-diffuse-gastric-cancer]]** (Severity table header "Gastric cancer by age 80" covered both rows → age qualifier moved to the Hansford row; [[igclc-2020-hdgc]] already correct; page not verified → no restamp). `verified: 2026-11-21` set.
+- *Propagation:* nothing qualified — no clinical recommendation; its CDH1 lifetime-risk figures are a study-design illustration and do not override the IGCLC guideline numbers (surfaced in the source page's Contradictions).
+- `index.md`: source row added (ASGE).
+- *Cards:* none (no clinical content).
+- `ingest: partial` removed.
+
+**Nothing qualified / did not run:**
+- *DOPyS/CSPAT appendices* (`needed-sources.md` row): already listed in [[asge-2020-endoscopic-removal]]'s `raw:` but their item lists are not on the page; that source page is unverified (34-recommendation verification needed first) — not started this budget.
+- No sixth file: ~$5 left would not cover another extract + verify (remaining backlog = ACIP 2020 hepatitis A ~30k words, ASCO 2021 irAE ~46k, ASPEN-SCCM 2016 ~45k). Stopped at a clean point.
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. *Quality review*, card dedup and `{at:}` backfill: not run in this budget.
+
+**Backlog status:** backlog mode stays **ON**. Uningested US tier-1/2 still on file: ACIP 2020 hepatitis A, ASCO 2021 irAE, ASPEN-SCCM 2016, ASGE 2020 DOPyS/CSPAT appendices (content not yet on their source page). NCCN skipped (EULA); lectures gated (61 transcripts await Nick's selection by name). Many non-US consensus files in `raw/` have no `raw:` back-reference on any source page — older pages predate the `raw:` field, so this is not proof they are uningested; audit by title, not by `raw:`.
+
+**Cards:** none written this pass (all five files are primary studies, a protocol, or non-clinical; no touched topic page is verified).
+
 ---
 
 ## [2026-11-21] lint | Quality review — release sweep, second run (manual, $40 budget)

@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, ctnna1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-11-06
+updated: 2026-11-21
 sources: [igclc-2020-hdgc, acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gastric-cancer-screening]
 ---
 
@@ -70,10 +70,10 @@ sources: [igclc-2020-hdgc, acg-2015-hereditary-gi-cancer, nccn-2026-gastric-canc
 
 Penetrance is **strongly influenced by how the families were ascertained**, so IGCLC 2020 gives a range rather than one number ([[igclc-2020-hdgc]]):
 
-| Estimate | Gastric cancer by age 80, male | Female | Families ascertained by |
+| Estimate | Gastric cancer risk, male | Female | Families ascertained by |
 |---|---|---|---|
-| Hansford et al. | **70%** | **56%** | all met the **2010** criteria |
-| Roberts et al. | **42%** | **33%** | only **37%** met the **2015** criteria |
+| Hansford et al. (cumulative by age 80) | **70%** | **56%** | all met the **2010** criteria |
+| Roberts et al. (penetrance; no age stated) | **42%** | **33%** | only **37%** met the **2015** criteria |
 
 - **Female breast cancer risk 39–55%** across studies, and converging.
 - **Do not assume the historical risk equals the risk faced by younger generations** — genetic background and lifestyle drive much of the variation.
