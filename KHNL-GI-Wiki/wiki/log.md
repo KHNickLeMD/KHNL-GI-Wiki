@@ -38,6 +38,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — primary study and page not verified.
 - `ingest: partial` removed.
 
+**`[[jeppesen-2012-steps-teduglutide]]` — new source (Jeppesen et al, Teduglutide reduces need for parenteral support among patients with SBS with intestinal failure, Gastroenterology 2012;143:1473–1481.e3), fully ingested.** Tier 2 phase 3 RCT (NCT00798967; the paper itself does not use the name "STEPS"); © AGA Institute, not CC → no figure capture.
+- *Extract* (fresh agent, pp. 1–6 and 12 rendered): Table 1 + Supplementary Table 1 eligibility, optimization/stabilization rules, dose and randomization, Table 2 weaning algorithm, Table 3 baseline, efficacy table (primary, volume, days off, FCE, citrulline, weight), Figure 2 bar labels as a table, safety summary + Supplementary Table 2; printed inconsistencies listed.
+- *Gate:* 5 ABSENT ("132" printed in words; 3 Figure 2 bar labels image-only; label n = 59 → attribution added), 4 NOMATCH (image-only Supplementary Figure 1; own comparison lines); 29 SIGN read off rendered pp. 1–6, 12.
+- *Independent check* (fresh agent, ~185 claims): 0 management, 2 minor — Supplementary Table 1 IBD-on-chronic-immunosuppression exclusion added; the "FCE 4.4 vs 5.4" printed-inconsistency claim reframed (Discussion figure's study is ambiguous). Both fixed. `verified: 2026-11-21` set.
+- *Propagation:* [[glp-2-agonists]] → *Efficacy*: denominator fix (≥1 fewer infusion day **21/39 vs 9/39**, the table header had claimed n = 43 — a pre-existing error, now corrected; no other copy in `wiki/` or the card file), primary endpoint wording (20%–100%, maintained at wk 24), "none completely weaned at wk 24", trial eligibility, Table 2 weaning algorithm as a table, drug-related SAEs. [[short-bowel-syndrome]] left as is (teduglutide detail lives on the drug page).
+- *Gate:* 0 ABSENT/OTHER/NOMATCH; 6 new SIGN lines = Table 1/2 signs read off rendered pp. 2–3.
+- *Independent check of changed lines* (fresh agent, 22 claims): 0 management, 1 minor — "(week 2)" qualifier on the ≥10% increase row restored; colonoscopy-requirement locator (Methods, not Table 1). Both fixed. Page has `quality_reviewed` but no `verified:` → no stamp.
+- `index.md`: source row added; glp-2-agonists row 4 → 5 sources.
+- *Cards:* none — RCT, and the page is not verified. Card file has no note on the corrected denominator.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-21] lint | Quality review — release sweep, second run (manual, $40 budget)

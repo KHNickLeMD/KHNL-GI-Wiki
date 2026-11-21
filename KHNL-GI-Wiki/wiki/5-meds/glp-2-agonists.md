@@ -3,8 +3,8 @@ title: "GLP-2 Agonists (Teduglutide)"
 category: med
 tags: [glp-2, teduglutide, short-bowel-syndrome, intestinal-failure, parenteral-nutrition, high-ostomy-output]
 created: 2026-07-22
-updated: 2026-11-12
-sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2022-short-bowel-syndrome, gattex-2025-teduglutide-label]
+updated: 2026-11-21
+sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2022-short-bowel-syndrome, gattex-2025-teduglutide-label, jeppesen-2012-steps-teduglutide]
 quality_reviewed: 2026-11-12
 ---
 
@@ -108,13 +108,27 @@ Adults, reactions ≥10% on teduglutide in the two 24-wk placebo-controlled tria
 
 ## Efficacy
 
-Adults — pivotal 24-wk placebo-controlled trial, parenteral support measured as weekly PN/IV volume:
+Adults — pivotal 24-wk placebo-controlled trial, parenteral support measured as weekly PN/IV volume ([[gattex-2025-teduglutide-label]], [[jeppesen-2012-steps-teduglutide]]):
 
-| Endpoint | Teduglutide 0.05 mg/kg/d (n=43) | Placebo (n=43) |
+| Endpoint | Teduglutide 0.05 mg/kg/d | Placebo |
 |---|---|---|
-| ≥20% reduction in weekly parenteral support at wk 20 **and** 24 (primary) | 63% (27/43) | 30% (13/43) |
-| Mean reduction in weekly parenteral support | 4.4 L/wk (baseline 12.9 L/wk) | 2.3 L/wk (baseline 13.2 L/wk) |
-| ≥1 fewer infusion day per week | 54% | 23% |
+| 20%–100% reduction in weekly parenteral support at wk 20 **and** maintained at wk 24 (primary) | 63% (27/43) | 30% (13/43) |
+| Mean reduction in weekly parenteral support at wk 24 | 4.4 L/wk (baseline 12.9 L/wk) | 2.3 L/wk (baseline 13.2 L/wk) |
+| ≥1 fewer infusion day per week at wk 24 | 54% (21/39) | 23% (9/39) |
+| Completely weaned at wk 24 | 0 | 0 |
+
+- **Who was enrolled** ([[jeppesen-2012-steps-teduglutide]], Table 1 and Methods): adults with SBS after major intestinal resection, parenteral support **≥3 times weekly for ≥12 continuous months**; excluded cancer within **5 y**, body mass index **<15 kg/m²**, IBD immunosuppressant started or changed within **3 mo** or a biologic within **6 mo**; patients with a colon had a baseline colonoscopy.
+- **How support was cut in the trial** (Table 2) — after parenteral support optimization (target urine **1.0–2.0 L/d**) and 4–8 weeks of stability, 48-hour urine output was checked at each visit:
+
+| 48-hour urine output vs baseline | Parenteral support action |
+|---|---|
+| **<1.0 L/d** or below target | Increase by **≥10%** (week 2) or back to the previous level |
+| **≥1.0 L/d** but below baseline | Increase if dehydrated or underfed; otherwise maintain |
+| **0% to <10%** rise | Maintain |
+| **≥10%** rise | Reduce by **≥10%** of the stabilized baseline (**maximum 30%**) |
+
+  - 1 week after each cut: repeat 48-hour urine, dehydration signs, weight, hematocrit, creatinine, blood urea nitrogen, urine sodium → not tolerated → back to the last tolerated volume.
+- **Serious adverse events judged drug-related:** acute cholecystitis and small intestinal stenosis (1 each, both resolved); no deaths in 24 weeks.
 
 - **30 mo (open-label extension, 30 completers):** mean reduction **7.55 L/wk (66%)**; **28/30 (93%)** achieved ≥20% reduction; **10 patients came off parenteral support entirely**, after 1.2–15.5 y of dependence.
 - **Children, 24 wk (n=26 at 0.05 mg/kg/d):** **69%** achieved ≥20% reduction in parenteral support, **38%** dropped ≥1 infusion day/wk, **12%** achieved enteral autonomy; mean change −23 mL/kg/d (−42%).
@@ -131,3 +145,4 @@ Adults — pivotal 24-wk placebo-controlled trial, parenteral support measured a
 2. [[aga-2023-ostomies|AGA 2023 Clinical Practice Update on Management of Ostomies]]
 3. [[aga-2022-short-bowel-syndrome|AGA Clinical Practice Update on Management of Short Bowel Syndrome: Expert Review (2022)]]
 4. [[gattex-2025-teduglutide-label|GATTEX (Teduglutide) for Injection — FDA Prescribing Information (Takeda, revised 9/2025)]]
+5. [[jeppesen-2012-steps-teduglutide|Teduglutide Reduces Need for Parenteral Support Among Patients With Short Bowel Syndrome With Intestinal Failure (2012)]]
