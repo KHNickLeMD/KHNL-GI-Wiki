@@ -4,6 +4,8 @@ category: advanced-procedure
 tags: [heller-myotomy, lhm, achalasia, myotomy, fundoplication, motility, foregut]
 created: 2026-06-10
 updated: 2026-11-21
+quality_reviewed: 2026-11-21
+verified: 2026-11-21
 sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -61,7 +63,7 @@ Laparoscopic Heller myotomy (LHM) is the surgical myotomy of the lower esophagea
 
 > **[[acg-2020-achalasia|ACG 2020]] Rec 7:** *"We recommend that myotomy with fundoplication is superior to myotomy without fundoplication in controlling distal esophageal acid exposure."* (Strong; Moderate)
 
-- **GERD falls with a wrap under every approach** (table above). Without fundoplication, post-myotomy reflux runs ~30% or higher on pH testing or endoscopy, so Heller myotomy is nearly always paired with one ([[sages-2024-poem]]).
+- **GERD falls with a wrap** after thoracotomy, laparotomy and laparoscopy; no study has added fundoplication after thoracoscopic myotomy (table above). Without fundoplication, post-myotomy reflux runs ~30% or higher on pH testing or endoscopy, so Heller myotomy is nearly always paired with one ([[sages-2024-poem]]).
 - **Double-blind randomized controlled trial (RCT), myotomy ± Dor:** abnormal acid exposure on pH monitoring **47% without vs 9% with** fundoplication — **relative risk (RR) 0.11 (95% confidence interval [CI] 0.02–0.59)**. Its 11-year follow-up: similar patient-reported reflux symptom control in both arms. ACG concludes the benefit is sustained long term; evidence limited by study heterogeneity ([[acg-2020-achalasia]]).
 
 > **ACG Rec 8:** suggest **either Dor or Toupet** fundoplication to control acid exposure after surgical myotomy (Conditional; Moderate).
@@ -192,8 +194,8 @@ Laparoscopic Heller myotomy (LHM) is the surgical myotomy of the lower esophagea
 - **Evaluate first:** TBE is the first-line test (ACG Rec 17, [[#Overview]]); AGA adds repeat [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] and HRM ([[aga-2024-poem-advances]]).
 - **Mechanisms:** incomplete myotomy, scarring, anatomic distortion; after LHM, also tight wrap or wrap herniation ([[acg-2020-achalasia]]).
 
-> [!pitfall] Counsel from the randomized number
-> Uncontrolled salvage-POEM series report far higher success than the only RCT after failed LHM — quote the RCT arm when counseling (table below; [[aga-2024-poem-advances]], [[acg-2020-achalasia]]).
+> [!pearl] Salvage after failed LHM is a shared decision
+> The only RCT after failed LHM found POEM 62% vs PD 27% success; choose by shared decision-making weighing the cause of failure, local expertise, patient characteristics and preferences (table below; [[aga-2024-poem-advances]]).
 
 ### Salvage Options After Failed LHM
 

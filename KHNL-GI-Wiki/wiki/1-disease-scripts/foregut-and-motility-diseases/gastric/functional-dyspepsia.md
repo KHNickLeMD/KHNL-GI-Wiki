@@ -4,6 +4,8 @@ category: disease-script
 tags: [functional-dyspepsia, dyspepsia, dgbi, stomach, foregut, rome-v, neuromodulators]
 created: 2026-10-18
 updated: 2026-11-21
+quality_reviewed: 2026-11-21
+verified: 2026-11-21
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-gastroduodenal-disorders, rome-v-2026-dgbi, aga-2021-chronic-gi-pain-dgbi, acg-2022-gastroparesis, acg-2024-hp-treatment]
 ---
 
@@ -48,7 +50,7 @@ Functional dyspepsia (FD) = dyspeptic symptoms (postprandial fullness, early sat
 >
 > **Must also fulfill criteria for postprandial distress syndrome (PDS) or epigastric pain syndrome (EPS), or both** — see Classification / Typing below.
 
-**Clinic vs research threshold.** Rome V's **Rome Clinical Criteria** keep the qualitative features and require symptoms **bothersome** enough to seek care or interfere with daily activity and quality of life, but permit a **lower frequency** than the research criteria and replace the 6-month duration with a suggested **8 weeks** — aimed at the ~one-quarter of people with gastrointestinal (GI) symptoms below Rome thresholds, who still have poorer quality of life ([[rome-v-2026-dgbi]]).
+**Clinic vs research threshold.** Rome V's **Rome Clinical Criteria** keep the qualitative features and require symptoms **bothersome** enough to seek care or interfere with daily activity and quality of life, but permit a **lower frequency** than the research criteria and replace the 6-month duration with a suggested **8 weeks** — aimed at the subdiagnostic group — about one-fourth of the worldwide population, with gastrointestinal (GI) symptoms that do not meet Rome criteria — who still have poorer quality of life ([[rome-v-2026-dgbi]]).
 
 ### Severity Assessment
 
