@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-21] lint | Manual pass — ingest by budget
+
+**Scope:** backlog mode, $25 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status` clean — no untracked files under `raw/`. Nothing to commit.
+
+**`[[multisociety-2021-endoscope-reprocessing]]` — new source (Day et al, Multisociety guideline on reprocessing flexible GI endoscopes and accessories, GIE 2021;93:11–33.e6 + erratum 2021;94:1019), fully ingested.** US tier-1 multisociety guideline that supersedes the 2016 update the wiki was built on; © ASGE, not CC → no figure capture.
+- *Extract* (fresh agent, tables and sign-bearing pages rendered): all **85** Table 2 recommendations (unnumbered; rows 1–85 the wiki's, under Table 2's headings) + **5** text-only conditional statements (S1–S5), strength and quality as printed, 6 GRADE statements marked; Spaulding, disinfection levels, repeat-HLD/EtO and storage-time tables recreated; 2016-vs-2021 change table checked against the 2016 PDF; erratum captured. No source algorithm (figures are Spaulding + forest plots).
+- *Gate:* 0 ABSENT/OTHER; 3 NOMATCH (own summary line; 2016-side rows checked on the 2016 PDF); 8 SIGN lines — storage-time ORs (<7 vs ≥7 / ≥14 days) and ATP thresholds read off rendered pp. 25–26 by the main thread, the rest by the extractor.
+- *Independent check* (fresh agent, ~330 claims, both PDFs): all 90 recommendation rows supported; 1 management + 6 minor in the framing, all confirmed and fixed — the change table lacked the soiled-scope transport change (2016 #3 allowed an open container to an adjacent room; 2021 requires fully enclosed containers); concentration testing now scoped to manual HLD; 4 more 2016 recommendations without a 2021 counterpart; EtO conclusion hedge ("limited data suggest") restored in two places; storage-time caption (each OR from a 2–4-study subset, not all 8); an overstated Spaulding "contradiction" removed; Appendix 2 locator; "Recommend = strong" mapping corrected (the 6 conditional GRADE statements sit under "Recommend." headings). `verified: 2026-11-21` set.
+- *Propagation* (from the verified source page): [[endoscope-reprocessing]] rebuilt on 2021 — operative-rules-by-phase table with strength/quality per cell; superseded 2016 rules replaced (vertical-only storage, mandatory alcohol flush, sterile-water fill, "AER advisable", "most AERs", eyewash placement, open container to adjacent room, stand-alone concentration testing, four-party reporting); the "60 minutes is only the AGA commentary's figure" bullet corrected; reprocessing flowchart redrawn new-style (role classes, 4-line caption, built from the guideline's stated order); supplemental-measures table with the repeat-HLD/EtO/culture GRADE conclusions; ATP numbers; storage-time OR table; single-use endoscopes, COVID-19. Body 3,096 → ~2,425 words.
+- *Gate:* 0 ABSENT/OTHER; 3 NOMATCH (condensed multi-row cells, checked).
+- *Independent check of the rewritten page* (fresh agent, ~150 claims, all 5 raw files): 0 management, 5 minor — fixed: "linear" → "some" ultrasound endoscopes (AGA 2016); delayed infection limited to the resistant cases; ">250" infections; strength brackets on three cells split so they cover only their own clause; "contamination may be unavoidable / rapid containment" re-credited to AGA 2017. Eyewash 2016→2021 change noted inline. Page carries no `verified:` (its 4 older source pages are unverified) → no stamp.
+- Other pages grepped for stale reprocessing rules: none ([[upper-endoscopy]] and [[bowel-preparation]] simethicone lines already agree with 2021).
+- `index.md`: source row added; endoscope-reprocessing row rewritten (2 → 5 sources); mstf-2016 row marked superseded; a false "MSTF 2016 not in raw/" maintainer note removed from the aga-2017 commentary row.
+- *Cards:* no new cards (page not verified). Existing card file corrected in place (`page_updated:` left): e90001 (60 min is now the guideline's), e9000e ("some" AERs), e9000f (patient added → five recipients), e9000a/e9000b relabelled from "MSTF 2016" to the multisociety guideline.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-20] lint | Quality review sweep — second run (manual, $40 budget)
 
 **Scope:** *Quality review* step only, queue from `review-queue.py --pages 10`, one subagent per page; unverified source pages verified first.
