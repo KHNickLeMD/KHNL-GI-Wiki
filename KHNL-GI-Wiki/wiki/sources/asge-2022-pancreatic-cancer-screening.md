@@ -3,7 +3,8 @@ title: "ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Ge
 category: source
 tags: [pancreatic-cancer, screening, genetics, brca, eus, mri, asge, guideline, hereditary-cancer]
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2022 Pancreatic Cancer Screening (Genetic Risk).pdf"
 ---
@@ -28,7 +29,7 @@ The panel made conditional recommendations (low to very low quality of evidence)
 
 ## Key Findings / Claims (Complete Recommendation List — verbatim/near-verbatim)
 
-**How the document labels its own recommendations.** It numbers them itself — Recommendations 1, 2, 3a, 3b, 4, 5, 6 — each boxed in the text and collected in Table 1 (Summary of recommendations). Grades below are the document's own wording. Three clinical questions were posed in the GRADE format (Questions 1, 2, and 3a/3b); frequency (Question 4) and starting age (Question 5) were addressed in a **non-GRADE format**, yet their boxed recommendations and Table 1 still carry *(conditional recommendation, very low quality of evidence)*. **Recommendation 6 (the starting ages) carries no grade at all** and is the only one phrased "we recommend." Per the Methods: stronger recommendations are typically stated as "we recommend…," weaker recommendations are indicated by phrases such as "we suggest…."
+**How the document labels its own recommendations.** It numbers them itself — Recommendations 1, 2, 3a, 3b, 4, 5, 6 — Recs 1–5 boxed in the text; Rec 6 (starting ages) appears only in Table 1 (Summary of recommendations), which collects all of them. Grades below are the document's own wording. Three clinical questions were posed in the GRADE format (Questions 1, 2, and 3a/3b); frequency (Question 4) and starting age (Question 5) were addressed in a **non-GRADE format**, yet their boxed recommendations and Table 1 still carry *(conditional recommendation, very low quality of evidence)*. **Recommendation 6 (the starting ages) carries no grade at all** and is the only one phrased "we recommend." Per the Methods: stronger recommendations are typically stated as "we recommend…," weaker recommendations are indicated by phrases such as "we suggest…."
 
 **Outcome definitions used throughout** (these define what counts as a positive screen):
 - **Yield of screening** = detection of any high-risk lesion, pancreatic cancer, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia (PanIN).
@@ -82,7 +83,7 @@ The panel made conditional recommendations (low to very low quality of evidence)
 - BRCA1/2 germline pathogenic variants affect up to 7% of all patients diagnosed with pancreatic cancer; ~2 of 3 BRCA-associated pancreatic cancers would be missed if screening were limited to those with a family history — hence the panel did **not** require a family history of pancreatic cancer for BRCA1/2 carriers to be screened.
 - **Basis for annual screening (Question 4):** no study assessed patient outcomes by screening frequency. Of the 25 included studies, 9 reported screening intervals, of which **8 screened annually or sooner**. Two tumor-progression models (one from mean age differences between early- and advanced-tumor patients, one from imaging done before diagnosis) both predicted that progression from localized to advanced stage could occur **within 1 year**.
 - Age-to-start logic: screening starts ~1 standard deviation below mean age of cancer diagnosis for that population; for conditions with ≥10 RR (Peutz-Jeghers, FAMMM) screening starts 2 standard deviations below mean age.
-- BRCA-deficient/homologous-recombination-deficient tumors respond to platinum-based chemotherapy and poly(ADP-ribose) polymerase (PARP) inhibitors (eg, maintenance olaparib), supporting screening in this population.
+- BRCA-deficient/homologous-recombination-deficient tumors respond to platinum-based chemotherapy and poly(ADP-ribose) polymerase (PARP) inhibitors, supporting screening in this population.
 - EUS was more sensitive than MRI at detecting small solid lesions in 2 studies (almost all solid cancers found only by EUS), though differences in pooled high-risk-lesion yield between EUS and MRI did not reach significance.
 - **Threshold for "high risk":** lifetime risk of pancreatic cancer **>5%** *or* RR **>5** — proposed elsewhere as the threshold for identifying high-risk individuals and **adopted by this panel**. Also found to be cost-effective at that level of risk.
 - **Who the guideline explicitly does *not* endorse screening for** (stated under Question 5, ungraded):

@@ -63,7 +63,7 @@ Rome V places three adult entities under **B2 — nausea and vomiting disorders*
 > 5. **Predominant nausea or persistent vomiting associated with delayed gastric emptying should prompt a diagnosis of [[gastroparesis]]**
 
 - **Changed from Rome IV:** frequency is now **≥2 nausea days weekly, with or without ≥1 weekly vomiting episode**.
-- **Treatment is thinly evidenced.** Antagonists of histamine-1, dopamine-2 and 5-hydroxytryptamine-3 receptors and agonists of cannabinoid CB₁ receptors have antiemetic action; tricyclic antidepressants and psychological measures benefit some patients; limited data support ginger, herbal remedies and electroacupuncture.
+- **Treatment is thinly evidenced.** Antagonists of histamine-1, dopamine-2, 5-hydroxytryptamine-3 and neurokinin-1 receptors and agonists of cannabinoid CB₁ receptors have antiemetic action; tricyclic antidepressants and psychological measures benefit some patients; limited data support ginger, herbal remedies and electroacupuncture.
 - Delayed gastric emptying correlates poorly with symptom severity, and emptying rate is labile — **more than one third of patients switch emptying-rate group by 48 weeks**.
 
 ---

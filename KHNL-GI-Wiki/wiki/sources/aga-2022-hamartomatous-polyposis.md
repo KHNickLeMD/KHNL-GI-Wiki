@@ -3,7 +3,8 @@ title: "US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndro
 category: source
 tags: [peutz-jeghers, juvenile-polyposis, pten-cowden, hamartomatous-polyposis, hereditary-mixed-polyposis, surveillance, guideline, usmstf, grade]
 created: 2026-06-04
-updated: 2026-09-08
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 GI Hamartomatous Polyposis Syndromes (MSTF).pdf"
 ---
@@ -119,13 +120,13 @@ All 14 statements below are reproduced **verbatim** from the source's Table 1, w
 **Table 1 closing NOTE (verbatim):**
 > Specific circumstances may merit modification of the recommendations. In cases where very-early-onset cancers develop, the above statements may be modified to start surveillance 10 years earlier than the youngest cancer diagnosis in the family.
 
-**What is *not* a graded recommendation.** Breast, gynaecologic, testicular, lung, thyroid, endometrial, renal, and skin surveillance appear only as **narrative consensus text** citing other expert groups — they are outside the 14 graded statements, and the USMSTF column of Table 4 is blank (`—`) for every one of them. The task force states it "reserved our management recommendations to" gastroenterology and GI malignancy "and defer to other expert groups' recommendations for other cancers (which are reviewed here)." Cite these as *reported by* the USMSTF, not as USMSTF recommendations.
+**What is *not* a graded recommendation.** Breast, gynaecologic, testicular, lung, thyroid, endometrial, renal, and skin surveillance appear only as **narrative consensus text** citing other expert groups — they are outside the 14 graded statements, and Table 4 either has no row for them (lung) or a blank (`—`) USMSTF column. The task force states it "reserved our management recommendations to" gastroenterology and GI malignancy "and defer to other expert groups' recommendations for other cancers (which are reviewed here)." Cite these as *reported by* the USMSTF, not as USMSTF recommendations.
 
 ---
 
 ## Table 4 — Surveillance Guidelines in Hamartomatous Polyposis Syndromes
 
-Reproduced from the source (p. 2072). Cells are **age of initiation — interval**; `—` means the source prints no value. **The USMSTF column is headed "USMSTF 2020" in the published table; this is a typo — the document is the 2022 statement.**
+Reproduced from the source (p. 2072). Cells are **age of initiation — interval**; `—` means the source prints no value. **The USMSTF column is headed "USMSTF 2020" in the published table, although the document is the 2022 statement.**
 
 **JPS**
 
@@ -257,7 +258,7 @@ General-population risks are **Surveillance, Epidemiology, and End Results (SEER
 - **Annual history, physical, and complete blood count (CBC) from age 12–15 in *SMAD4* carriers**, for bleeding/anaemia from intestinal telangiectasias.
 - **Colectomy + ileorectal anastomosis** for CRC, endoscopically unmanageable colon polyp burden, or uncontrolled anaemia from colonic bleeding; also reserved for **persistent blood loss causing severe anaemia or hypoalbuminemia**. **Proctocolectomy** for rectal cancer or advanced rectal polyp burden. The decision **should be reviewed with gastroenterologists and surgeons with expertise in hereditary polyposis**.
 - **Gastrectomy (partial or complete)** in adults for: [[gastric-adenocarcinoma|gastric cancer]], high-grade dysplasia, inability to adequately survey or endoscopically control polyposis, persistent anaemia or GI bleeding from gastric polyposis or [[angioectasia]], symptoms of [[gastric-outlet-obstruction|gastric outlet obstruction]], or protein-losing gastropathy.
-- **[[hereditary-hemorrhagic-telangiectasia|JPS–HHT overlap]]:** HHT occurs in ~**15%–81%** of *SMAD4* carriers. Per HHT Foundation International — brain AVM screening at diagnosis with **at least 1 follow-up MRI at puberty**; lung AVM screening at diagnosis then **every 3–5 years** with pulse oximetry ± transthoracic contrast echocardiogram; in adulthood **annual haemoglobin or haematocrit for all patients older than 35**; transthoracic contrast echo at diagnosis, **within 5 years preceding planned pregnancy**, after pregnancy, and otherwise **every 5–10 years**; **brain MRI with and without contrast at birth or at the time of diagnosis**. Consider referral to an HHT Center of Excellence.
+- **[[hereditary-hemorrhagic-telangiectasia|JPS–HHT overlap]]:** HHT occurs in ~**15%–81%** of *SMAD4* carriers. Per HHT Foundation International — children with possible or confirmed HHT: brain AVM screening at diagnosis with **at least 1 follow-up MRI at puberty**; lung AVM screening at diagnosis then **every 3–5 years** with pulse oximetry ± transthoracic contrast echocardiogram; in adulthood **annual haemoglobin or haematocrit for all patients older than 35**; transthoracic contrast echo at diagnosis, **within 5 years preceding planned pregnancy**, after pregnancy, and otherwise **every 5–10 years**; **brain MRI with and without contrast at birth or at the time of diagnosis**. Consider referral to an HHT Center of Excellence.
 - **Juvenile polyposis of infancy:** presents in the **first 2 years of life** with diarrhoea, abdominal pain, rectal bleeding, refractory anaemia, hypoalbuminemia, enteropathy; caused by a **large 10q23 deletion encompassing *PTEN* and *BMPR1A***; frequency ~**1 in 1,000,000**.
 - **Chemoprevention: none.** No known effective chemoprevention strategy exists for polyposis in JPS.
 
@@ -298,7 +299,7 @@ Wiki pages built on or citing this source:
 ## Contradictions / Open Questions
 
 - **PHTS colonoscopy — the guideline names its own disagreement.** [[acg-2015-hereditary-gi-cancer|ACG 2015]] recommends starting at **age 15**; this statement starts at **35** with intervals ≤5 y, stating "Recent evidence suggesting later onset of significant colon cancer risk informed our recommendations." Same tier, newer publication → the 2022 position governs [[cowden-syndrome]]. Note it is a **later start with a longer maximum interval**, i.e. the older ACG schedule is the more intensive of the two.
-- **PJS pancreatic surveillance start age — three positions.** CAPS consortium **q1–2 y from 40**; NCCN **30–35** (as reported in this document); USMSTF **annual from 35**. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] agrees on 35 but adds the qualifier this statement omits — *or 10 years earlier than the youngest affected relative*.
+- **PJS pancreatic surveillance start age — three positions.** CAPS consortium **q1–2 y from 40**; NCCN **30–35** (as reported in this document); USMSTF **annual from 35**. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] agrees on 35, *or 10 years earlier than the youngest affected relative*; this statement allows a similar shift only through the Table 1 NOTE (start 10 years earlier than the youngest cancer diagnosis when very-early-onset cancers occur).
 - **R14 vs the body text disagree on the early-start trigger.** Table 1/R14 says start "**10 years younger than age of any relative with colorectal cancer**"; the narrative says start 10 years before the earliest known family colon cancer **only "if a close relative has had colon cancer before age 40 years."** The graded statement (R14) has no age-40 gate; both versions are given on the syndrome pages.
 - **The USMSTF declines to recommend on fasting glucose / HbA1c** with PJS pancreatic surveillance, pending definitive data — a non-recommendation, and must not be rendered as a recommendation either for or against.
 - **The clinical diagnostic criteria for Cowden's syndrome are not reproduced.** This statement points to the NCCN website; the weighted major/minor criteria are in the NCCN Genetic/Familial High-Risk Assessment guideline, not here.

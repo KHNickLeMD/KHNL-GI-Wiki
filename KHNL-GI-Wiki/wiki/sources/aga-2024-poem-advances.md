@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy 
 category: source
 tags: [poem, achalasia, egjoo, esophageal-motility, spastic-esophageal-disorders, gerd, myotomy, aga, cpu]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU Advances in POEM.pdf"
 ---
@@ -47,14 +48,16 @@ Supporting data points:
 - POEM superior to PD and noninferior to LHM in separate multicenter RCTs.
 - Type III achalasia best palliated by myotomy tailored to the proximal extent of esophageal body spasm; POEM allows unlimited proximal extension (long-term data on "long myotomies" limited).
 - EGJOO defined (Chicago v4.0): elevated median integrated relaxation pressure (IRP) in **both supine and upright** positions + elevated intrabolus pressure in ≥20% of supine swallows. EGJOO in isolation is not pathognomonic; causes include obesity, obstructive hiatal hernia, GERD, external compression, submucosal masses, opiates, and manometric artifact.
+- EGJOO and other nonachalasia spastic disorders: less invasive alternatives (medical therapy, botulinum toxin injection, endoscopic dilation) should be exhausted first ("strongly suggest"); confirmatory testing (impedance planimetry, timed barium esophagram, pH study) to exclude GERD and document symptomatic delayed emptying is mandatory.
 - POEM for EGJOO long-term success ~80%–85% (lower than classic achalasia subtypes); studies limited by disease rarity.
 - Antibiotics: RCT (n=124) single-dose vs short-course prophylaxis showed no difference in inflammation markers, transient bacteremia, or infectious sequelae at day 5. No data support routine antifungal prophylaxis; incidental esophageal candidiasis → full antifungal course (usually 14–21 days), does not preclude POEM.
-- Tunnel: anterior (2 o'clock) vs posterior (5 o'clock); meta-analysis (18 studies, 1247 patients) no difference in clinical success, adverse events, or post-POEM reflux (posterior shorter procedure time). For prior surgery (LHM/POEM), choose the approach opposite the prior surgery site (fibrosis).
+- Tunnel: anterior (2 o'clock) vs posterior (5 o'clock); RCTs and a meta-analysis (18 studies, 1247 patients) no difference in clinical success, adverse events, or post-POEM reflux (posterior shorter procedure time). For prior surgery (LHM/POEM), choose the approach opposite the prior surgery site (fibrosis).
 - Myotomy length: original Inoue technique 7–8 cm esophageal + 2–3 cm gastric; extending just 1–2 cm beyond the LES may normalize esophagogastric junction (EGJ) distensibility without added reflux risk. RCT of short (<5 cm) vs long (6–10 cm) esophageal myotomy in types I/II found similar efficacy, safety, and GERD, with shorter procedure time for short myotomy. Long myotomy may predispose to **blown-out myotomy**.
-- Post-POEM GERD: abnormal acid exposure **41%–56%**; esophagitis **41%–65%**; ~one-quarter asymptomatic (symptoms alone insufficient). Empiric acid suppression in immediate healing period, continued ≥3–6 months until re-evaluation.
-- Objective reflux testing generally 6–12 months post-POEM. Off-PPI pH testing if GERD in question; on-PPI testing if GERD already established or esophagitis Los Angeles (LA) grade **B or higher**. PPI should be taken 30–60 min before meals; alginates for mild/breakthrough; potassium-competitive acid blockers (e.g., vonoprazan) a possible future preferred option for difficult erosive esophagitis. Small number need antireflux procedure (endoscopic/surgical fundoplication).
+- Same-day discharge (authors' opinion; no standardized criteria exist): only if no intraprocedural issues, tolerating oral fluids, and minimal nausea/pain manageable with oral medication; contact within 24–48 h ("strongly suggest"). Retrospective series: same-day discharge achieved in 62%–79%.
+- Post-POEM GERD: abnormal acid exposure **41%–56%**; esophagitis **41%–65%**; ~one-quarter asymptomatic (symptoms alone insufficient). Empiric acid suppression should be strongly considered in all patients; most expert centers start it in the immediate healing period and continue ≥3–6 months.
+- Follow-up endoscopy and/or pH monitoring should be strongly considered in all patients; objective reflux testing generally 6–12 months post-POEM. Off-PPI pH testing if GERD in question; on-PPI testing if GERD already established or esophagitis Los Angeles (LA) grade **B or higher**. PPI should be taken 30–60 min before meals; alginates for mild/breakthrough; potassium-competitive acid blockers a possible future preferred alternative to PPIs for difficult erosive esophagitis. Small number need antireflux procedure (endoscopic/surgical fundoplication).
 - Reflux esophagitis and abnormal acid exposure **decrease over time** post-POEM (ongoing LES healing/remodeling) → stepwise evaluation favored.
-- Esophageal cancer risk: cohort of 9314 patients — achalasia patients had **5-fold higher risk** (hazard ratio [HR] 4.6; 95% confidence interval [CI] 2.3–9.2) vs non-achalasia; supports (but does not routinely endorse) endoscopic surveillance.
+- Esophageal cancer risk: cohort of 9314 patients — achalasia patients had **5-fold higher risk** (hazard ratio [HR] 4.6; 95% confidence interval [CI] 2.3–9.2) vs non-achalasia; supports (but does not routinely endorse) endoscopic surveillance. Endoscopic surveillance should be strongly considered for all patients post-POEM; intervals not established.
 - Failed initial myotomy: ~10%–15% of achalasia patients have persistent/recurrent symptoms; comprehensive re-evaluation (repeat esophagogastroduodenoscopy [EGD], HRM, timed barium esophagram [TBE]). One RCT of PD vs POEM after failed LHM: POEM **62% vs PD 27%** success, no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events.
 
 ## Relevance to Wiki

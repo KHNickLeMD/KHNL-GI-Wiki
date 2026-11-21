@@ -138,7 +138,7 @@ Neither source gives CHS-specific antiemetic doses; the dosed abortive and suppo
 
 | Preventive agent | Dose | What the sources say |
 |---|---|---|
-| **Tricyclic antidepressant (TCA)** — amitriptyline | Start **25 mg at bedtime**; titrate in increments **each week** to the minimal effective dose, **75–100 mg at bedtime**, monitoring efficacy and adverse effects closely | **Rome V 2026: CHS responds poorly to preventive TCA therapy.** The 2024 CPU makes amitriptyline plus cessation counseling the long-term mainstay and reports it efficacious in **~70%** with minor adverse events — the newer consensus is the less optimistic one |
+| **Tricyclic antidepressant (TCA)** — amitriptyline | Start **25 mg at bedtime**; titrate in increments **each week** to the minimal effective dose, **75–100 mg at bedtime**, monitoring efficacy and adverse effects closely | The 2024 AGA CPU (US — governs) makes amitriptyline plus cessation counseling the long-term mainstay and reports it efficacious in **~70%** with minor adverse events. ⚠ Rome V 2026 (international) states CHS **responds poorly to preventive TCA therapy** |
 | **Olanzapine** | Dose not given by either source | Effective prophylaxis in **one small series** ([[rome-v-2026-gastroduodenal-disorders]]) |
 
 - **Psychiatric co-management** with psychology/psychiatry for refractory disease or extensive psychiatric comorbidity; combining evidence-based psychosocial intervention with pharmacotherapy may be necessary.

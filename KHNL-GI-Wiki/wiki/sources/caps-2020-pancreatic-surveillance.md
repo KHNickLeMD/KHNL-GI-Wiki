@@ -3,7 +3,8 @@ title: "CAPS 2020: Management of Patients with Increased Risk for Familial Pancr
 category: source
 tags: [pancreatic-cancer, surveillance, screening, genetics, brca, cdkn2a, peutz-jeghers, eus, mri-mrcp, ipmn, panin, consensus]
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/Other/CAPS 2020 Familial Pancreatic Cancer Surveillance (Goggins).pdf"
 ---
@@ -23,9 +24,9 @@ The CAPS Consortium's update of its 2013 consensus, and **the document the wiki 
 
 **76 experts from 11 countries** — 37 gastroenterologists, 16 surgeons, 7 pathologists, 6 radiologists, 5 geneticists, 3 oncologists, 2 epidemiologists — voted in two Delphi rounds, with **consensus defined as ≥75% agreement or disagreement**. **55 statements reached consensus.** Each carries an agreement percentage and a GRADE-derived action grade: **1 = "definitely do it" (strong) · 2 = "probably do it" (weak) · 3 = no recommendation · 4 = "probably don't do it" (weak) · 5 = "definitely don't do it" (strong).**
 
-The operative content is what makes it worth ingesting. **A solid lesion is resected at ≥10 mm (91.2%, grade 1) or ≥5 mm (77.9%, grade 1)**, but resecting *regardless of size* was voted down (64.7%, **grade 4 — probably don't**). **EUS-FNA is for solid lesions ≥5 mm, cystic lesions with worrisome features, and asymptomatic main-pancreatic-duct strictures**; **CT is reserved for solid lesions and for a duct stricture without a mass** — not for routine surveillance, where it was graded 4 and abdominal ultrasound graded 5. An **IPMN in a high-risk individual is resected for any of six features**, each graded 1, including a **main duct ≥10 mm**. And the intervals the AGA ladder left unspecified are given numbers: **12 months** for nothing or low-risk findings, **3 months** for a solid lesion or duct stricture not going to surgery, **3–6 months** for a CDKN2A carrier with a concerning-but-not-operative finding.
+The operative content is what makes it worth ingesting. **A solid lesion is resected at ≥10 mm (91.2%, grade 1) or ≥5 mm (77.9%, grade 1)**, but resecting *regardless of size* was voted down (64.7%, **grade 4 — probably don't**). **EUS-FNA is for solid lesions ≥5 mm, cystic lesions with worrisome features, and asymptomatic main-pancreatic-duct strictures**; **CT is reserved for solid lesions and for a duct stricture without a mass** — not for routine surveillance, where it was graded 4 and abdominal ultrasound graded 5. An **IPMN in a high-risk individual is resected for any of six features**, each graded 1, including a **main duct ≥10 mm**. And the intervals the AGA ladder left unspecified are given numbers: **12 months** for nothing or low-risk findings, **6 months** for a cystic lesion with a lower-risk feature (≥3 cm, main duct 5–9 mm, lymphadenopathy, raised CA19-9, growth ≥5 mm/2 years) without suspicion of malignancy, **3 months** for a solid lesion or duct stricture not going to surgery, **3–6 months** for a CDKN2A carrier with a concerning-but-not-operative finding.
 
-⚠ **Two scope limits.** First, **the paper prints only part of its own consensus** — Tables 1–2 carry the eligibility criteria and statements 1–28; the full set of 55 voted statements lives in **online supplementary table S2, which is not in `raw/`**. Second, **CAPS 2020 is older than [[asge-2022-pancreatic-cancer-screening|ASGE 2022]]**, and where they disagree — notably on whether BRCA1/2 and PALB2 carriers need a family history, and on the Peutz-Jeghers start age — ASGE governs the wiki page.
+⚠ **Two scope limits.** First, Tables 1–2 summarise the statements that reached consensus; **online supplementary table S2** (not ingested) holds all voting statements and results, including those that did not reach consensus, and is the source of several positions quoted in the body text. Second, **CAPS 2020 is an international consensus, older than the US [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] guideline**, and where they disagree — notably on whether BRCA1/2 and PALB2 carriers need a family history, and on the Peutz-Jeghers start age — ASGE governs the wiki page.
 
 ## Key Findings / Claims
 
@@ -67,7 +68,7 @@ Each row is a separate consensus statement with its own agreement and grade. *FD
 | **3 (alt).** PJS — begin at age 30 (14.9%) or 35 (17.9%) | — | **4 — probably don't** |
 | **4.** **New-onset diabetes in a high-risk individual → initiate screening regardless of age** | 82.4% | 2 |
 
-- **Table 3 summary start ages:** familial kindred without a mutation **50 or 55**; **CDKN2A and Peutz-Jeghers age 40**; **BRCA2, ATM, PALB2, BRCA1, MLH1/MSH2 age 45 or 50**, or 10 y younger than the youngest affected relative.
+- **Table 3 summary start ages:** familial kindred without a mutation **50 or 55** (*consensus on when to start was not reached*); **CDKN2A** age 40 (*literature-based recommendation*) and **Peutz-Jeghers** age 40; **BRCA2, ATM, PALB2, BRCA1, MLH1/MSH2 age 45 or 50**, or 10 y younger than the youngest affected relative.
 - ⚠ **No consensus was reached on the age to *stop* surveillance.**
 - **No consensus** that the start age should be modified for smokers; smoking's relative risk is not high enough to justify surveillance by itself.
 
@@ -97,6 +98,27 @@ Each row is a separate consensus statement with its own agreement and grade. *FD
 | **13.** New-onset diabetes in a high-risk individual under surveillance | **immediate investigation** | 90.3% | 2 |
 | **14.** **Smoking status does not change the interval** | — | 76.8% | 2 |
 
+**Figure 2 — decision flow-chart, redrawn as a table.** Percentages = agreement printed on the figure.
+
+| Finding on surveillance | Next step |
+|---|---|
+| **No concerning abnormality:** normal pancreas (90%) · minor signs of chronic pancreatitis (89%) · cysts without worrisome features (89%) · non-functioning neuroendocrine tumour <10 mm (83%) | **Follow-up 12 months** |
+| **Concerning abnormality:** cyst with a worrisome feature (84%) · solid lesion ≥5 mm (90%) · main-duct stricture and/or dilation ≥6 mm without a mass (78%) | **FNA** |
+| **Concerning abnormality:** solid lesion, any size (96%) · main-duct stricture and/or dilation ≥6 mm without a mass (87%) | **CT** |
+| **After FNA/CT, no suspicion of malignancy — cystic lesion with one of:** size ≥3 cm · main duct 5–9 mm · lymphadenopathy · increased serum CA19-9 · growth ≥5 mm/2 years | **Follow-up 6 months** |
+| **After FNA/CT, no suspicion of malignancy:** solid lesion <5 mm or of uncertain significance (91%) · solid lesion with main-duct dilation 5–9 mm · main-duct stricture and/or dilation ≥6 mm without a mass (99%) | **Follow-up 3 months** |
+| **Suspicion of malignancy — solid lesion:** ≥5 mm (78%) · ≥10 mm (91%) · with main-duct stricture and/or dilation ≥10 mm (81%) · positive FNA | **Surgical resection** |
+| **Suspicion of malignancy — cystic lesion with:** mural nodule (91%) · enhanced solid component (97%) · symptoms: pancreatitis, jaundice, pain (96%) · thickened or enhanced cyst walls (76%) · abrupt main-duct calibre change with distal atrophy (91%) · main duct ≥10 mm (97%) · positive FNA | **Surgical resection** |
+
+*Management of pancreatic abnormalities found during surveillance of high-risk individuals*
+*Source: redrawn from Figure 2 of the CAPS 2020 consensus*
+*[[caps-2020-pancreatic-surveillance|CAPS 2020 Familial Pancreatic Cancer Surveillance]]*
+*FNA = fine-needle aspiration · CT = computed tomography · CA19-9 = carbohydrate antigen 19-9*
+
+- Figure 2 surveillance agreement: baseline MRI/MRCP 92%, EUS 87%, fasting glucose and/or HbA1c 76%; follow-up MRI/MRCP 90%, EUS 90%, glucose/HbA1c 76%, **serum CA19-9 if concerning abnormalities 77%**.
+- **No consensus** that resection is indicated for less worrisome lesions, such as a suspected IPMN of 2 cm or with mild main-duct dilation (text).
+- Solid lesions of indeterminate pathology **>5 mm** should undergo resection if further evaluation gives no definitive preoperative diagnosis (text).
+
 ### What a finding triggers (statements 15–22)
 
 | Finding | Action | Agreement | Grade |
@@ -105,6 +127,7 @@ Each row is a separate consensus statement with its own agreement and grade. *FD
 | **16.** Solid lesion detected | **CT** | 95.7% | **1** |
 | **17.** Solid lesion — EUS-FNA **always** | | 70.1% | 2 |
 | **17.** Solid lesion — EUS-FNA **if ≥5 mm** | | 19.4% | **1** |
+| **17.** Solid lesion — EUS-FNA **if ≥10 mm** | | 4.5% | **1** |
 | **17.** Solid lesion — EUS-FNA **never** (6.0%) | | — | **5** |
 | **18.** Solid lesion of uncertain significance, **not** referred for surgery | **repeat imaging after 3 months** | 91.2% | **1** |
 | **19.** Chronic-pancreatitis-like abnormalities | **use standardised nomenclature** | 98.6% | 2 |
@@ -143,9 +166,9 @@ Each row is a separate consensus statement with its own agreement and grade. *FD
 
 ## Contradictions / Open Questions
 
-- ⚠ **Family history for BRCA1/2 and PALB2 — the live disagreement.** CAPS 2020 **requires** an affected first-degree relative (or two affected relatives of any degree for BRCA2) before surveillance. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] requires **none** — screen all carriers — on the reasoning that only 33% of BRCA carriers who developed pancreatic cancer had an affected first- or second-degree relative. **ASGE 2022 is newer in the same tier and governs [[pancreatic-cancer-screening]];** CAPS's position is recorded there, because the older rule is still in wide use. CAPS itself notes that the risk in ATM/BRCA/PALB2 carriers **without** a family history "is not well defined" and that more evidence is needed.
-- ⚠ **Peutz-Jeghers start age: CAPS 40 vs [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] 35** (and [[acg-2015-hereditary-gi-cancer|ACG 2015]]'s table says 30). ASGE 2022 governs the page by publication date; all three are visible.
+- ⚠ **Family history for BRCA1/2 and PALB2 — the live disagreement.** CAPS 2020 **requires** an affected first-degree relative (or two affected relatives of any degree for BRCA2) before surveillance. [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] requires **none** — screen all carriers — on the reasoning that only 33% of BRCA carriers who developed pancreatic cancer had an affected first- or second-degree relative. **ASGE 2022 (US, newer) governs [[pancreatic-cancer-screening]];** CAPS's position is recorded there, because the older rule is still in wide use. CAPS itself notes that the risk in ATM/BRCA/PALB2 carriers **without** a family history "is not well defined" and that more evidence is needed.
+- ⚠ **Peutz-Jeghers start age: CAPS 40 vs [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] 35** (and [[acg-2015-hereditary-gi-cancer|ACG 2015]]'s table says 30). US guidelines govern the page over the international CAPS consensus; ASGE 2022 is the newest US source. All three are visible.
 - ⚠ **BRCA1 is the one row CAPS declines to settle** — the family-history criterion reached only 69.6%, below the 75% threshold, so it is **graded 3, no recommendation**. Surveillance of BRCA1 carriers itself did reach consensus. The wiki should not state a CAPS family-history rule for BRCA1.
 - ⚠ **Alternating MRI/MRCP and EUS: no consensus on if or how.** Table 3 lists alternation as the follow-up strategy but the document says explicitly that **no consensus was reached**. A European study found no significant difference in yield between annual MRI with EUS and limiting EUS to every third year, but it was underpowered. The wiki must not print an alternation schedule.
 - ⚠ **No consensus on when to stop surveillance.** [[aga-2020-pancreas-cancer-screening|AGA 2020]]'s stop rule remains the only one in the corpus and is unchallenged by this document.
-- ⚠ **The document prints only part of its own consensus.** Tables 1–2 carry the eligibility criteria and statements 1–28; **the full set of 55 voted statements is in online supplementary table S2, which is not in `raw/`.** Several positions cited in the body text — surveillance for BRCA1 carriers, hereditary pancreatitis at age 40 or 20 years post-attack, the non-consensus on testing every new pancreatic cancer patient — come from that supplement as quoted in the body, and are recorded here as such. **Statements captured above are the ones the document itself prints.**
+- ⚠ **Supplementary table S2 is not ingested.** Tables 1–2 summarise the statements that reached consensus; S2 holds all voting statements and results. Several positions cited in the body text — surveillance for BRCA1 carriers, hereditary pancreatitis at age 40 or 20 years post-attack, the non-consensus on testing every new pancreatic cancer patient — come from that supplement as quoted in the body, and are recorded here as such. **Statements captured above are the ones the document itself prints.**

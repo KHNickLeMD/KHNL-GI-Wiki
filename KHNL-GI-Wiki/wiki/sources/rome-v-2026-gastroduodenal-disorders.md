@@ -3,7 +3,8 @@ title: "Gastroduodenal Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, functional-dyspepsia, nausea, vomiting, belching, rumination, cyclic-vomiting, cannabinoid-hyperemesis]
 created: 2026-11-05
-updated: 2026-11-16
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/Other/Rome V 2026 Gastroduodenal Disorders (Tornblom).pdf"
 ---
@@ -100,7 +101,7 @@ This subdivision requires further research; provisional criteria were developed 
 - **Proton pump inhibitors (PPIs)** are generally the recommended first-line treatment for patients who remain symptomatic after *H. pylori* eradication or who are *H. pylori*-negative: a **standard once-daily dose for 4 to 8 weeks, discontinued if improvement is insufficient, without a dose-escalation strategy**. PPIs beat placebo for global FD symptoms, **number needed to treat 11**, but the evidence within FD subgroups is limited and **PPIs may be less effective for PDS symptoms**.
 - **Histamine-2 receptor blockers** have a number needed to treat of 7, but study quality is low and gastroesophageal reflux disease (GERD) was likely included; most guidelines suggest PPI rather than H2 blockers first-line, except the National Institute for Health and Care Excellence guidelines, which propose both.
 - **Prokinetics** — number needed to treat **12** when cisapride is excluded. Tegaserod showed benefit in female patients. **Itopride** (combined dopamine-2 antagonist and cholinesterase inhibitor) significantly increased responders in PDS–EPS overlap. **Acotiamide** enhances gastric accommodation and emptying, is well tolerated and is **most effective for PDS**.
-- **Neuromodulators** — number needed to treat **6**, with the benefit limited to **tricyclic antidepressants (TCAs) and antipsychotics such as levosulpiride** (which also exerts prokinetic activity). Longest duration studied: **12 weeks**. Adverse events and withdrawals were significantly higher than with psychotropic drugs generally. **Two studies of selective serotonin reuptake inhibitors in FD were negative.** Amitriptyline's effect on pain may be more useful in EPS.
+- **Neuromodulators** — number needed to treat **6**, with the benefit limited to **tricyclic antidepressants (TCAs) and antipsychotics such as levosulpiride** (which also exerts prokinetic activity). Longest duration studied: **12 weeks**. Adverse events and adverse events leading to withdrawal were significantly higher among those taking psychotropic drugs. **Two studies of selective serotonin reuptake inhibitors in FD were negative.** Amitriptyline's effect on pain may be more useful in EPS.
 - **Mirtazapine** improved early satiation scores and nutrient tolerance vs placebo, with weight recovery, better quality of life and a GI-specific anxiety score.
 - **Tandospirone** (5-hydroxytryptamine-1A agonist) improved the abdominal symptom score, overall dyspeptic severity, postprandial fullness, early satiation and upper abdominal bloating; it increased gastric accommodation and delayed emptying of liquids. Meta-analysis: FD treated with **5-HT₄ or 5-HT₁A agonists improved significantly more than placebo**.
 - **Herbal therapies** with trial support: STW 5 and STW 5-II, peppermint oil plus caraway oil, the Japanese KAMPO preparation **rikkunshito**, ZhiZhu KuangZhong (PDS), Biling Weitong granules (EPS pain severity).
@@ -116,7 +117,7 @@ This subdivision requires further research; provisional criteria were developed 
 
 > Must include **all** of the following:
 > 1. **Bothersome** (severe enough to affect usual activities) **nausea occurring at least 2 days per week**, with or without **1 or more vomiting episodes per week**
-> 2. Self-induced vomiting, eating disorders and regurgitation are excluded as a cause of vomiting
+> 2. Self-induced vomiting, eating disorders, regurgitation, or rumination are excluded as a cause of vomiting
 > 3. No evidence of structural, systemic, or metabolic disease likely to explain the symptoms on routine investigations
 > 4. **Symptoms predominantly due to PDS exclude the diagnosis**
 > 5. **Predominant nausea or persistent vomiting associated with delayed gastric emptying should prompt a diagnosis of gastroparesis**
@@ -125,7 +126,7 @@ This subdivision requires further research; provisional criteria were developed 
 
 - **Change from Rome IV:** frequency changed to **≥2 nausea days weekly, with or without ≥1 weekly vomiting episode**.
 - Evaluation is dictated by the clinical presentation. **Bilious vomiting, abdominal tenderness, abnormal neurologic findings, or worsening vomiting warrants evaluation.** Blood work excludes electrolyte abnormalities and metabolic disease; endoscopy or imaging evaluates for organic disease.
-- **Treatment:** scant investigation. Antagonists of histamine-1, dopamine-2 and 5-HT₃ receptors, and agonists of cannabinoid CB₁ receptors, exhibit antiemetic action. TCAs and psychological measures benefit some patients. Limited data support ginger, herbal remedies and electroacupuncture.
+- **Treatment:** scant investigation. Antagonists of histamine-1, dopamine-2, 5-HT₃ and neurokinin-1 receptors, and agonists of cannabinoid CB₁ receptors, exhibit antiemetic action. TCAs and psychological measures benefit some patients. Limited data support ginger, herbal remedies and electroacupuncture.
 
 ### B2b. Diagnostic criteria for cyclic vomiting syndrome
 
@@ -216,6 +217,8 @@ This subdivision requires further research; provisional criteria were developed 
 - Mechanism: most rumination events begin with an **intra-abdominal pressure elevation from voluntary abdominal contraction** moving gastric contents into the esophagus. A subset has **secondary rumination** — gastric contents enter the esophagus *before* abdominal straining begins, so the patient perceives a spontaneous reflux episode and strains in response. A third type is **immediately preceded by a supragastric belch**.
 - Prevalence **3.1%** overall, more common in women (54.5% vs 45.5%), mean age 44.5 years; **up to 12.8%** in patients presenting for evaluation of gastric symptoms. Occurs in males and females of all ages and levels of cognitive function.
 - Commonly **misdiagnosed as GERD, gastroparesis, unexplained vomiting, or an eating disorder**.
+- **Testing (equivocal cases):** combined esophageal pH-impedance monitoring + manometry is the gold standard, performed **after a meal**; pH-impedance alone almost cannot separate rumination from reflux (no abdominal pressure data). Proximal regurgitation events are driven by an abdominal pressure peak >30 mm Hg. Pathologic reflux on pH testing or esophagitis on endoscopy does **not** exclude rumination.
+- **Treatment:** behavioral modification, most often **diaphragmatic breathing** — eliminates rumination in 30%–66% and reduces it in 20%–55% (case series); also may help secondary rumination; biofeedback (manometric images or abdominal/intercostal electromyography) can enhance it. **Baclofen** reduced postprandial episodes more than placebo. **PPIs** suppress heartburn and protect the mucosa but can **prolong rumination** (blunt the meal acidification that terminates events). Nissen fundoplication improved a small series unresponsive to behavioral approaches.
 
 ## Relevance to Wiki
 
@@ -231,9 +234,9 @@ This subdivision requires further research; provisional criteria were developed 
 ## Contradictions / Open Questions
 
 - **PDS vs EPS assignment:** Rome V moves postprandial epigastric pain into PDS; Rome IV placed it in EPS. Pages written against Rome IV will assign some patients to the wrong subtype.
-- **Gastroparesis vs PDS with delayed gastric emptying:** Rome V reserves "gastroparesis" for predominant nausea or recurrent vomiting, so a patient with postprandial fullness and delayed emptying is **not** labelled gastroparetic here. US gastroparesis guidelines define the entity by delayed emptying with compatible symptoms.
+- **Gastroparesis vs PDS with delayed gastric emptying:** Rome V reserves "gastroparesis" for predominant nausea or recurrent vomiting, so a patient with postprandial fullness and delayed emptying is **not** labelled gastroparetic here. For the US definition see [[gastroparesis]].
 - **Celiac serology in dyspepsia:** Rome V does not recommend routine testing, citing low yield.
 - **CNVS frequency threshold** changed from Rome IV; pages quoting the older threshold are stale.
 - **Inability to belch is numbered twice within Rome V.** The classification list in [[rome-v-2026-dgbi|Rome V's overview]] gives it as **B3c** (a belching-disorder subtype); this chapter's own criteria box gives it as **B4** (a standalone gastroduodenal disorder). Both labels refer to the same criteria. [[abdominal-bloating-and-distention]] states both and codes neither into its heading.
-- **Preventive tricyclic therapy in CHS:** this chapter states CHS **responds poorly to preventive TCA therapy**, whereas [[aga-2024-chs|AGA 2024]] makes cannabis cessation plus amitriptyline (75–100 mg at bedtime; ~70% efficacious in observational experience) the long-term mainstay. Rome V is newer and governs.
+- **Preventive tricyclic therapy in CHS:** this chapter states CHS **responds poorly to preventive TCA therapy**, whereas [[aga-2024-chs|AGA 2024]] makes cannabis cessation plus amitriptyline (75–100 mg at bedtime; ~70% efficacious in observational experience) the long-term mainstay. AGA 2024 (US) governs — US guidelines beat non-US consensus regardless of date.
 - **CHS as a distinct entity is debated** — whether it is a subtype of CVS or distinct; up to 80% of CVS patients use cannabis to relieve symptoms and likely do not have CHS.

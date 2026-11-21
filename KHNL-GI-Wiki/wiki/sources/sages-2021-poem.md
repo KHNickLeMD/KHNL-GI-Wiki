@@ -3,12 +3,13 @@ title: "SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for th
 category: source
 tags: [poem, achalasia, heller-myotomy, pneumatic-dilation, gerd, myotomy, motility, sages]
 created: 2026-06-10
-updated: 2026-10-08
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/SAGES/SAGES 2021 POEM for Achalasia.pdf"
 ---
 
-> ⚠ **Superseded — read as a record of the 2021 document, not as current practice.** This is the original Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) peroral endoscopic myotomy (POEM) guideline. It is updated by [[sages-2024-poem|SAGES Guideline Update: POEM for Achalasia (2024)]]; where the two differ, the 2024 update governs. The 2021 document remains the only one of the pair that addresses pediatric patients and achalasia subtype III explicitly.
+> ⚠ **Superseded — read as a record of the 2021 document, not as current practice.** This is the original Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) peroral endoscopic myotomy (POEM) guideline. It is updated by [[sages-2024-poem|SAGES Guideline Update: POEM for Achalasia (2024)]]; where the two differ, the 2024 update governs. The 2024 update found no new pediatric data, so the 2021 recommendations remain the SAGES statement for children.
 
 ## Contents
 - [[#Bibliographic Info]]
@@ -34,7 +35,7 @@ This SAGES guideline used the Grading of Recommendations Assessment, Development
 
 Strength vocabulary is GRADE's: **"the guideline panel recommends" = strong**, **"the guideline panel suggests" = conditional**. Certainty of evidence is reported separately for each statement. Final recommendations required ≥70% panel agreement.
 
-Headline: a **strong recommendation for POEM over PD** (moderate certainty), with a **separate conditional recommendation** that for the subgroup particularly concerned about continued postoperative proton pump inhibitor (PPI) use, either POEM or PD may be chosen jointly. POEM vs HM was judged a balanced trade-off — the panel unanimously agreed the balance of effects favored neither — so for **types I and II either POEM or laparoscopic Heller myotomy** is acceptable by shared decision-making (conditional, very low certainty). For **type III no evidence-based recommendation was possible**; the panel favored POEM **as expert opinion only**, because a longer myotomy can be performed endoscopically. The defining trade-off preserved here: **POEM has no inherent anti-reflux component, so post-POEM reflux is its main downside versus Heller-plus-fundoplication.**
+Headline: a **strong recommendation for POEM over PD** (moderate certainty), with a **separate conditional recommendation** that for the subgroup particularly concerned about continued postoperative proton pump inhibitor (PPI) use, either POEM or PD may be chosen jointly. POEM vs HM was judged a balanced trade-off — the panel unanimously agreed the balance of effects favored neither — so for **types I and II either POEM or laparoscopic Heller myotomy** is acceptable by shared decision-making (conditional, very low certainty). For **type III no evidence-based recommendation was possible**; the panel favored POEM **as expert opinion only**, because a longer myotomy can be performed endoscopically. The defining trade-off: **POEM leads to greater postoperative reflux (at least in the first 2 years) — reflux esophagitis was the only undesirable effect identified versus Heller myotomy with fundoplication.**
 
 ## The Four Recommendations
 Grouped by key question, as the document numbers them (1 and 2 within each question — there is no continuous 1–4 numbering in the source). Strength and certainty are the document's own wording.
@@ -59,18 +60,20 @@ The conclusion paragraph for key question 1 states the comparator as laparoscopi
 
 ```mermaid
 flowchart TD
-    A["Achalasia — adults and children"] --> B["POEM vs Heller myotomy"]
+    A(["Achalasia — adults and children"]) --> B["POEM vs Heller myotomy"]
     A --> C["POEM vs pneumatic dilatation"]
-    B --> D["Type I and II"]
-    B --> E["Type III"]
-    D --> F["POEM = HM<br/>(conditional, very low certainty)"]
-    E --> G["POEM > HM<br/>(expert opinion)"]
-    C --> H["POEM > PD<br/>(strong, moderate certainty)"]
-    H --> I["Unless patient concerned<br/>about continued PPI use"]
-    I --> J["POEM = PD<br/>(conditional, very low certainty)"]
+    B -- "Type I and II" --> F(["POEM or HM<br/>(conditional, very low certainty)"])
+    B -- "Type III" --> G(["POEM over HM<br/>(expert opinion)"])
+    C --> H(["POEM over PD<br/>(strong, moderate certainty)"])
+    C -- "Patient particularly concerned<br/>about continued PPI use" --> J(["POEM or PD<br/>(conditional, very low certainty)"])
+    class A start
+    class B,C test
+    class F,G,H,J act
 ```
-
-*Figure 1 — the guideline's visual abstract, redrawn: the four recommendations as a decision tree. ([[sages-2021-poem]])*
+*The four SAGES 2021 POEM recommendations as a decision tree*
+*Source: redrawn from the guideline's visual abstract*
+*[[sages-2021-poem|SAGES 2021 POEM for Achalasia]]*
+*POEM = peroral endoscopic myotomy · HM = Heller myotomy · PD = pneumatic dilatation · PPI = proton pump inhibitor*
 
 ## Evidence Base
 
@@ -83,7 +86,7 @@ flowchart TD
 - **Key question 2 (POEM vs PD):** 8 studies; **1 RCT** plus **5 predominantly high-risk-of-bias observational studies**. Overall certainty: **moderate**.
   - POEM superior in nearly all desirable effects: symptom resolution by Eckardt score at 2 years (1 RCT, 126, RR 1.71, CI 1.34–2.17, 38.5% more); short-term Eckardt at 0–6 months (6 observational, 471, mean difference 0.7 lower); need for retreatment for failure of symptom relief (1 RCT, 126, RR 0.19, CI 0.08–0.47); treatment-related serious adverse events (1 RCT, 126, RR 0.33); disease-specific quality of life (1 RCT, 92, mean difference 0).
   - Harms, both proxies for postoperative reflux: **PPI use at 2 years** (1 RCT, 92, RR 2.01, CI 0.97–4.16, 20.8% more) and **patient-reported short-term reflux symptoms** (3 observational, 164, RR 2.67, CI 1.02–7.0).
-  - **Esophagitis was dropped as a critical outcome** — an absolute effect could not be calculated because the PD group had no esophagitis events and no observational data were available. The panel believed POEM does likely raise esophagitis risk but could not gauge the degree.
+  - **Esophagitis was removed from the evidence analysis** (inadequate evidence), though still considered a critical outcome — an absolute effect could not be calculated because the PD group had no esophagitis events and no observational data were available. By expert opinion it likely favored PD, but not enough to outweigh POEM's large benefits.
 - **Subtype distribution.** Studies often did not report subtype or did not stratify outcomes by it, precluding subgroup analysis. Among those that did, types I or II predominated — **averages of 70%–100% types I or II in 16 of 18 studies** — with only one study reporting predominantly type III. Recommendations therefore apply best to types I and II.
 - **Follow-up** was short (up to 2 years) and used explicitly as a **proxy** for 5-, 10- and 15-year outcomes.
 
@@ -98,7 +101,7 @@ flowchart TD
 - Foundational source for [[poem]] (previously sourced only from the [[sages-2024-poem|2024 update]]) and for the treatment section of [[achalasia]]: anchors the strong POEM-over-PD recommendation, the POEM-or-Heller equivalence for subtypes I/II, the POEM-favored stance for subtype III, and the post-POEM GERD trade-off. Added additively to both pages' Sources; current positioning continues to reflect the 2024 update.
 
 ## Contradictions / Open Questions
-- No direct contradiction with [[sages-2024-poem|SAGES 2024]]; the 2024 document refines and updates these same recommendations with newer evidence. Long-term (5–10 year) comparative durability and optimal reflux-mitigation strategy after POEM remain open questions flagged by the panel.
+- No direct contradiction with [[sages-2024-poem|SAGES 2024]]; the 2024 document refines and updates these same recommendations with newer evidence. Long-term outcomes (follow-up up to 2 years was used as a proxy for 5-, 10- and 15-year outcomes; surveillance past 10 years is needed) and optimal reflux-mitigation strategy after POEM remain open questions flagged by the panel.
 
 ## See Also
 [[poem]], [[achalasia]], [[gerd]], [[heller-myotomy]], [[high-resolution-manometry]]

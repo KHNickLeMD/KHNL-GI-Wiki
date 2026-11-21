@@ -77,7 +77,7 @@ Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bil
 
 Routes into the diagnosis sourced from the GI/hepatology guidelines:
 
-- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|juvenile polyposis syndrome (JPS)]]–HHT overlap. Every *SMAD4* carrier must be screened for HHT, **including a cardiovascular exam** ([[acg-2015-hereditary-gi-cancer]]) — the test-by-test protocol is under [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]. JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
+- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|juvenile polyposis syndrome (JPS)]]–HHT overlap. In *SMAD4* carriers, screening for HHT **including a cardiovascular examination should be considered** (conditional; [[acg-2015-hereditary-gi-cancer]]) — the test-by-test protocol is under [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]. JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
 - **Via clinical signs of LVM** — audible **bruit** and/or palpable **thrill** over the liver, and/or abnormal liver tests (typically ↑**alkaline phosphatase**, occasionally ↑bilirubin and/or aminotransferases). These findings are what convert a "don't screen" patient into a "do image" patient (see [[#Diagnostics]])
 
 ### Severity Assessment

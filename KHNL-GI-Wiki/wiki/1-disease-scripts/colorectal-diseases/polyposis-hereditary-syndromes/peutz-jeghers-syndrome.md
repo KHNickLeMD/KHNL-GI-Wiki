@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-10-26
+updated: 2026-11-21
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2022-pancreatic-cancer-screening, caps-2020-pancreatic-surveillance]
 ---
 
@@ -25,60 +25,83 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-
 
 ### Establishing the Diagnosis
 
-Peutz-Jeghers syndrome (PJS) is an autosomal-dominant hamartomatous polyposis syndrome caused by germline mutations in the **STK11** (also called LKB1) tumor suppressor gene on chromosome 19p [[acg-2015-hereditary-gi-cancer]].
+- Peutz-Jeghers syndrome (PJS): autosomal-dominant hamartomatous polyposis; germline **STK11** (LKB1) variant, chromosome 19p [[acg-2015-hereditary-gi-cancer]]
+- Incidence 1 in 50,000–200,000 births; ~25% of new cases are de novo [[acg-2015-hereditary-gi-cancer]]
+- Childhood: labial pigmentation, gastrointestinal (GI) bleeding, intussusception · adulthood: multiple cancers [[aga-2022-hamartomatous-polyposis]]
 
-**Incidence**: 1 in 50,000–200,000 live births; ~25% of newly diagnosed PJS cases represent de novo mutations.
+**Refer for genetic evaluation — any one of** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]])*:
 
-**Who to refer for genetic evaluation — any one of the following** *(Strong, low quality — [[aga-2022-hamartomatous-polyposis|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2022]] R2)*:
+1. **≥2 histologically confirmed Peutz-Jeghers (PJ) polyps**
+2. **Any number** of PJ polyps + **family history of PJS in a first-degree relative**
+3. **Characteristic mucocutaneous pigmentation** + family history of PJS
+4. **Any number** of PJ polyps + the **characteristic mucocutaneous pigmentation**
 
-1. **≥2 histologically confirmed Peutz-Jeghers polyps**
-2. **Any number** of Peutz-Jeghers (PJ) polyps in someone with a **family history of PJS in a first-degree relative**
-3. **Characteristic mucocutaneous pigmentation** in someone with a family history of PJS
-4. **Any number** of PJ polyps in someone with the **characteristic mucocutaneous pigmentation**
+- Any hamartomatous polyposis: refer if **≥2 lifetime hamartomatous polyps**, family history of hamartomatous polyps, or a syndrome-associated cancer in a **first- or second-degree relative**; test with a **multigene panel** *(Strong, low — USMSTF 2022)*
+- [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] used a looser trigger: perioral/buccal pigmentation and/or ≥2 characteristic hamartomatous polyps and/or family history of PJS
 
-- General referral trigger for *any* hamartomatous polyposis syndrome: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel** *(R1; Strong, low)*
-- **Organs to survey** *(R3; Strong, low)*: breast, small bowel, colon, stomach, pancreas, ovaries, testes, and lungs — via a **multidisciplinary** approach
-- [[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]] used the looser trigger of perioral/buccal pigmentation and/or ≥2 characteristic hamartomatous polyps and/or a family history of PJS; the 2022 criteria above are the newer statement and govern this page
+**Mucocutaneous pigmentation** [[acg-2015-hereditary-gi-cancer]]:
 
-**Mucocutaneous pigmentation**:
+- Melanin spots 1–5 mm; >95% of patients; perioral area and buccal mucosa most common (94%)
+- Lip spots cross the vermilion border; darker and more densely clustered than common freckles
+- Also face, forearms, digits, palms, soles, perianal area; rarely intestinal mucosa
+- Appear in infancy; may fade with age, less so on buccal mucosa
 
-- Melanin pigment spots 1–5 mm in diameter; present in >95% of patients
-- Most common in perioral area and buccal mucosa; also lips, forearms, digits, palms, soles, perianal area
-- Lip spots cross the vermilion border (unlike common freckles); darker and more densely clustered
-- Pigmentation appears in infancy and may fade with age, but buccal mucosa spots persist
+**GI polyps**:
 
-**Gastrointestinal (GI) polyps**:
+- Polyposis in 88–100%; mostly small bowel (60–90%) and colon (50–64%) [[aga-2022-hamartomatous-polyposis]] — ACG 2015 gave small bowel 96%, colon 27%, stomach 24%, rectum 24%
+- Number 1–100; size 0.1–3 cm; growth begins by age 10 in 33%; 68% symptomatic (bleeding, pain, intussusception, obstruction) by age 18 [[aga-2022-hamartomatous-polyposis]]
+- Histology: nondysplastic; normal epithelium of the host segment; arborizing bands of muscularis mucosae extending into branching fronds [[acg-2015-hereditary-gi-cancer]]
+- Adenoma and cancer may occur within PJ polyps [[acg-2015-hereditary-gi-cancer]]
 
-- Histologically distinct hamartomatous polyps in 88–100% of patients
-- Polyps are nondysplastic; have normal overlying epithelium specific to the GI segment in which found; arborizing growth pattern with muscularis mucosae extending into branching fronds
-- Epithelial infolding may cause pseudoinvasion (can be misdiagnosed as cancer)
-- Adenoma and cancer **may** occur within PJS polyps (no frequency given by the source)
-- Polyp distribution by segment: small bowel 96%, stomach 24%, colon 27%, rectum 24%
-- Polyp sizes range from 0.1 to 3 cm; polyp growth begins in first decade but symptoms typically appear in second or third decade
+> [!pitfall] Pseudoinvasion is not cancer
+> Epithelial infolding in PJ polyps can mimic invasion and lead to an incorrect diagnosis of cancer ([[acg-2015-hereditary-gi-cancer]]).
 
-**Genetic testing**: STK11 gene sequencing + deletion/duplication analysis; up to 94% of PJS families have mutations, **up to a third of which are large deletions**; no clear genotype-phenotype correlations [[acg-2015-hereditary-gi-cancer]].
+**Genetic testing**:
+
+- Test for STK11 variants [[acg-2015-hereditary-gi-cancer]]; up to 94% of PJS families have one
+- Large deletions: up to a third ([[acg-2015-hereditary-gi-cancer|ACG 2015]]) · ~15% ([[aga-2022-hamartomatous-polyposis|USMSTF 2022]]); some are Alu-mediated deletions/inversions — the testing platform must detect these
+- Genotype–phenotype: ACG 2015 found no correlation with variant location; USMSTF 2022 reports **missense variants → later symptom onset**
 
 ### Severity Assessment — Cancer Risks
 
-Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age 40), 32% (age 50), 63% (age 60), 81% (age 70) [[acg-2015-hereditary-gi-cancer]].
+```mermaid
+xychart-beta
+    title "Cumulative incidence of any cancer in PJS"
+    x-axis "Age (years)" [20, 30, 40, 50, 60, 70]
+    y-axis "Cumulative incidence (%)" 0 --> 100
+    line [2, 5, 17, 31, 60, 85]
+```
+*Cumulative incidence of any cancer by decade of age in Peutz-Jeghers syndrome*
+*Source: data from 419 PJS cases (297 with a confirmed STK11 variant), cited in USMSTF 2022*
+*[[aga-2022-hamartomatous-polyposis|USMSTF 2022 GI Hamartomatous Polyposis Syndromes]]*
+*PJS = Peutz-Jeghers syndrome*
 
-| Cancer Site | General Population Risk | PJS Risk | Average Age of Diagnosis |
+- Same risks with a clinical diagnosis and no detectable STK11 variant [[aga-2022-hamartomatous-polyposis]]
+- ACG 2015 cited an earlier estimate: 1%, 3%, 19%, 32%, 63%, 81% at ages 20–70 [[acg-2015-hereditary-gi-cancer]]
+
+| Cancer site | General population lifetime risk | PJS lifetime risk | Mean age at diagnosis (y) |
 |---|---|---|---|
-| [[colorectal-cancer\|Colorectal]] | 4.8% | 39% | 42–46 |
+| [[colorectal-cancer\|Colorectal]] | 4.3% | 39% | 42–46 |
 | Stomach | <1% | 29% | 30–40 |
 | Small bowel | <1% | 13% | 37–42 |
-| Pancreas | 1.5% | 11–36% | 41–52 |
-| Breast (F) | 12.4% | 32–54% | 37–59 |
-| Ovarian (mostly sex cord tumor with annular tubules (SCTAT)) | 1.6% | 21% | 28 |
-| Uterus | 2.7% | 9% | 43 |
-| Cervix (adenoma malignum) | <1% | **10–23%** (USMSTF 2022; ACG 2015 listed 10%) | 34–40 |
-| Testicular (**Sertoli cell tumor**) | <1% | 9% | **6–9** |
-| Lung | 6.9% | 7–17% | 47 |
+| Breast (women) | 12.9% | 32–54% | 37–59 |
+| Ovarian (mostly sex cord tumor with annular tubules [SCTAT]) | 1.2% | 21% | 28 |
+| Cervix (adenoma malignum) | <1% | 10–23% | 34–40 |
+| Uterus | 3.1% | 9% | 43 |
+| [[pancreatic-cancer\|Pancreas]] | 1.7% | 11–36% | 41–52 |
+| Testicular (Sertoli cell tumor) | <1% | 9% | 6–9 |
+| Lung | 6.3% | 7–17% | 47 |
 
-- SCTAT = sex cord tumor with annular tubules; **almost all women with PJS develop SCTAT and ~20% become malignant**. Testicular Sertoli cell tumours present as a mass and may cause gynecomastia/hyperestrogenism or accelerated growth; **10–20% of benign Sertoli cell tumors become malignant**
-- PJS carries the **highest relative risk of [[pancreatic-cancer|pancreatic cancer]] of any hereditary syndrome (up to 132-fold)**; 95% of PJS pancreatic cancers occur after age 24
-- Cumulative **lung** cancer risk exceeds **5% by age 55**; the relative risk is comparable to a >30-pack-year smoker who quit 10–15 years ago, but has never been adjusted for smoking status [[aga-2022-hamartomatous-polyposis]]
-- Female **breast** lifetime risk is **32–54%** in *both* guidelines ([[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 7 and [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] Table 3); USMSTF notes this overlaps the band conferred by [[brca-pathogenic-variants|BRCA1/BRCA2]] pathogenic variants (**40–85%** lifetime). *(ACG's narrative text prints "24–54%", inconsistent with its own Table 7 — the tabulated 32–54% is what both guidelines assert.)*
+*Lifetime cancer risk by site in Peutz-Jeghers syndrome*
+*Source: Table 3 of USMSTF 2022*
+*[[aga-2022-hamartomatous-polyposis|USMSTF 2022 GI Hamartomatous Polyposis Syndromes]]*
+*SCTAT = sex cord tumor with annular tubules*
+
+- ACG 2015 (Tables 5 and 7) gives the same PJS risks and ages, except cervix **10%** [[acg-2015-hereditary-gi-cancer]]
+- **Breast:** both guidelines' narrative text prints **24–54%**; risk overlaps [[brca-pathogenic-variants|BRCA1/BRCA2]] carriers (40–85%) [[aga-2022-hamartomatous-polyposis]]
+- **Ovary/testis:** almost all women develop SCTAT, ~20% become malignant; 10–20% of benign Sertoli cell tumors become malignant [[acg-2015-hereditary-gi-cancer]]. Sertoli cell tumors present as testicular masses; may cause gynecomastia, hyperestrogenism, accelerated height growth [[aga-2022-hamartomatous-polyposis]]
+- **Pancreas:** relative risk (RR) up to **132-fold** [[acg-2015-hereditary-gi-cancer]]; highest RR of the pancreatic cancer syndromes **except hereditary pancreatitis**; 95% of cases after age 24 [[aga-2022-hamartomatous-polyposis]]
+- **Lung:** cumulative risk >5% by age 55; RR similar to a >30 pack-year smoker who quit 10–15 years ago; never adjusted for smoking status [[aga-2022-hamartomatous-polyposis]]
 
 ---
 
@@ -86,12 +109,21 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 *Workup: see [[colorectal-polyposis]].*
 
-- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
-- **[[familial-adenomatous-polyposis]]** — adenomatous polyps, not hamartomas; APC gene
-- **[[cowden-syndrome]]** — PTEN hamartomas; macrocephaly; no mucocutaneous pigmentation
-- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome]]** — mixed juvenile–adenomatous–hyperplastic polyps; GREM1 duplication
-- **Bannayan-Riley-Ruvalcaba syndrome** — PTEN; genital lentigines, macrocephaly, lipomas; allelic to Cowden
-- Sporadic gastric juvenile/hamartomatous polyps
+| Syndrome | Gene | Polyps | Distinguishing features |
+|---|---|---|---|
+| **PJS** | STK11 | PJ polyps — broad bands of mucosal smooth muscle | Labial pigmentation; childhood bleeding/intussusception |
+| [[juvenile-polyposis-syndrome\|Juvenile polyposis syndrome]] | SMAD4 or BMPR1A | Juvenile polyps — inflammatory infiltrate, cystic dilated glands, no smooth muscle core | Childhood bleeding, anemia; adult colorectal and gastric cancer |
+| [[cowden-syndrome\|Cowden syndrome]] | PTEN | Hyperplastic, juvenile-like, ganglioneuromas, lipomas, adenomas | Mucocutaneous lesions, macrocephaly; multiple adult cancers |
+| Bannayan-Riley-Ruvalcaba syndrome | PTEN | As Cowden | Pediatric; macrocephaly, developmental delay, pigmented macules of toes and glans penis |
+| [[hereditary-mixed-polyposis-syndrome\|Hereditary mixed polyposis syndrome]] | GREM1 duplication | Mixed adenomatous, hyperplastic, inflammatory features | Colonic polyposis and colorectal cancer risk |
+
+*Hamartomatous polyposis syndromes compared*
+*Source: built from Table 2, Figure 1 and syndrome text of USMSTF 2022, and ACG 2015 juvenile polyp histology*
+*[[aga-2022-hamartomatous-polyposis|USMSTF 2022]] · [[acg-2015-hereditary-gi-cancer|ACG 2015]]*
+*PJS = Peutz-Jeghers syndrome · PJ = Peutz-Jeghers*
+
+- [[familial-adenomatous-polyposis|Familial adenomatous polyposis]] — adenomatous, not hamartomatous, polyps [[acg-2015-hereditary-gi-cancer]]
+- Solitary juvenile polyp — most juvenile polyps are solitary and sporadic, in infants and children [[aga-2022-hamartomatous-polyposis]]
 
 ---
 
@@ -99,16 +131,25 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 ### Endoscopic and Imaging Evaluation
 
-**Luminal surveillance — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]** (the newer of the two guidelines; it replaces ACG 2015's "start at 8, then q3y" for all three luminal sites):
+**Luminal surveillance — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]** (supersedes ACG 2015 Table 10: all three sites from age 8; polyps → every 3 years; none → restart at 18, then every 3 years):
 
-| Site | Baseline | If polyps at baseline | If **no** polyps at baseline | Strength |
+| Site | Baseline | Polyps at baseline | No polyps at baseline | Strength |
 |---|---|---|---|---|
-| **Small bowel** — video [[capsule-endoscopy\|capsule endoscopy]] **or** magnetic resonance (MR) enterography | **Ages 8–10** (earlier if symptomatic) | Continue surveillance | **Resume at age 18** | Strong, low *(R4)* |
-| **Small bowel in adulthood** | — | **Every 2–3 years, lifelong** — driven by intussusception risk, not cancer risk alone | Same | Strong, low *(R4)* |
-| **Stomach/duodenum — [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]]** | **Ages 8–10** (can be done at the time of capsule placement, or if magnetic resonance enterography (MRE) shows polyps) | **Every 2–3 years** | Repeat at **age 18** (sooner if symptoms), **then every 3 years** | Weak, very low *(R5)* |
-| **Colon — [[colonoscopy\|colonoscopy]]** | Initiation age **uncertain**; start **at the same time as EGD** | **Every 2–3 years** | Repeat at **age 18** (sooner if symptoms), **then every 3 years** | Weak, very low *(R5)* |
+| **Small bowel** — video [[capsule-endoscopy\|capsule endoscopy]] (VCE) or magnetic resonance enterography (MRE) | **Ages 8–10**; earlier if symptomatic | Individualize by polyp size and location | **Resume at 18** | Strong, low |
+| **Small bowel, adulthood** | — | **Every 2–3 years, lifelong** (intussusception risk) | Same | Strong, low |
+| **Stomach/duodenum** — [[upper-endoscopy\|esophagogastroduodenoscopy (EGD)]] | **Ages 8–10**; can be done at capsule placement or if MRE shows polyps | **Every 2–3 years** | **Age 18** (sooner if symptoms), **then every 3 years** | Weak, very low |
+| **Colon** — [[colonoscopy]] | Start age uncertain; **same time as EGD** | **Every 2–3 years** | **Age 18** (sooner if symptoms), **then every 3 years** | Weak, very low |
 
-- MR enterography is accurate for detecting polyps ≥15 mm and gives more reproducible size assessment than [[capsule-endoscopy|capsule endoscopy]]; computed tomography (CT) enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic [[acg-2015-hereditary-gi-cancer]]
+*Luminal surveillance schedule in Peutz-Jeghers syndrome*
+*Source: built from the USMSTF 2022 small-bowel and colon/stomach/duodenum recommendations and narrative*
+*[[aga-2022-hamartomatous-polyposis|USMSTF 2022 GI Hamartomatous Polyposis Syndromes]]*
+*VCE = video capsule endoscopy · MRE = magnetic resonance enterography · EGD = esophagogastroduodenoscopy*
+
+> [!pearl] Small-bowel surveillance is about intussusception
+> Adult small-bowel imaging continues every 2–3 years for life because of intussusception risk ([[aga-2022-hamartomatous-polyposis]]).
+
+- **Modality:** VCE detects small-bowel polyps with greater sensitivity than MRE and is an alternative for patients who cannot undergo MRE; VCE findings may not predict future obstruction [[aga-2022-hamartomatous-polyposis]]
+- Computed tomography (CT) enterography detects polyps, particularly ≥1 cm, but repeated X-ray exposure is problematic [[acg-2015-hereditary-gi-cancer]]
 
 **[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **[[mri-mrcp|magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP)]] or [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] annually starting at age 35** *(Weak, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R7)*:
 

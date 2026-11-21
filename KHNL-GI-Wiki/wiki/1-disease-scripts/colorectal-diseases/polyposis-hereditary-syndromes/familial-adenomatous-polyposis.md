@@ -241,7 +241,6 @@ Familial adenomatous polyposis (FAP) is caused by a germline pathogenic variant 
 
 - Risk factors: family history of desmoid, female sex, an *APC* GPV **3′ of codon 1,399**, and **IPAA carrying a higher risk than IRA**
 - 5- and 10-year cumulative risk of postoperative desmoid formation after IRA or IPAA: **5%–15%**
-- First-line medical therapy **nonsteroidal anti-inflammatory drugs (sulindac) ± tamoxifen**; chemotherapy second line; **surgery is a last resort** (high recurrence, risk of bowel and vascular injury) ([[acg-2015-hereditary-gi-cancer]])
 
 **Thyroid cancer** — CMTC accounts for 0.16%–0.5% of all thyroid cancers; **up to 43% of CMTC cases are associated with FAP**, and CMTC histology is found in 91% and 17%–73% of FAP-associated thyroid cancers in retrospective and prospective series. Most are multifocal and bilateral, in women, at mean age 25–33 yr.
 

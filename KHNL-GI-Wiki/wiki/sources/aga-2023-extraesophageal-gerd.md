@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on the Diagnosis and Management of Extraeso
 category: source
 tags: [gerd, extraesophageal-reflux, lpr, chronic-cough, asthma, laryngitis, ppi, reflux-testing, ph-impedance]
 created: 2026-07-23
-updated: 2026-11-16
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/AGA/AGA 2023 CPU Extraesophageal GERD.pdf"
 ---
@@ -20,7 +21,7 @@ raw: "GI Guidelines/AGA/AGA 2023 CPU Extraesophageal GERD.pdf"
 
 This AGA Clinical Practice Update (CPU) addresses suspected **extraesophageal reflux (EER)** — laryngitis, chronic cough, asthma, and dental erosions attributed to gastroesophageal reflux disease (GERD). The central problem: **there is no single test that conclusively proves gastroesophageal reflux (GER) causes extraesophageal symptoms**, and 50–60% of patients with EER symptoms do not actually have GERD and will not respond to anti-reflux therapy. Diagnosis therefore rests on a global clinical impression integrating symptoms, endoscopy, reflux monitoring, and treatment response, ideally within a multidisciplinary framework (pulmonology, otolaryngology, dentistry).
 
-Two mechanisms are postulated: the **reflux pathway** (micro-aspiration/direct mucosal injury by acid or non-acid refluxate) and the **reflex pathway** (vagally-mediated airway reactions). Because of the reflex mechanism, symptom improvement on a proton pump inhibitor (PPI) may occur through effects other than acid suppression and should not be taken as proof of GERD.
+Two mechanisms are postulated: the **reflux pathway** (micro-aspiration/direct mucosal injury by acid or non-acid refluxate) and the **reflex pathway** (vagally-mediated airway reactions). Symptom response to a proton pump inhibitor (PPI) suggests reflux as a contributor but should not be taken as confirmation of GERD, because of possible placebo effects.
 
 Key management shifts: consider objective reflux testing **before** starting empiric PPI in patients with EER symptoms but **without** typical GERD symptoms; a single-dose PPI trial titrated up to twice daily is reasonable in those with typical symptoms. After one PPI trial (up to 12 weeks) fails, additional trials of different PPIs are low-yield — pursue objective testing instead. Anti-reflux surgery should only be considered with clear, objectively-defined GERD, and a lack of PPI response predicts lack of surgical response.
 
@@ -60,11 +61,11 @@ Key management shifts: consider objective reflux testing **before** starting emp
 | Reflux composition detected | Acidic, weak-acidic, non-acidic | Acidic | Acidic |
 | Proximal reflux detected? | Yes | Possible | No |
 
-**Figure 1 — algorithm for the evaluation of suspected EER** (recreated on [[extraesophageal-reflux]]): branch on presence of typical GERD symptoms → with typical symptoms, twice-daily PPI for **8–12 weeks**; without typical symptoms, consider non-GI evaluation by ENT, pulmonary, or allergy → endoscopy → ambulatory reflux monitoring off PPI → optimize antireflux regimen → on-therapy reflux testing → antireflux surgery in select patients. Responders should be titrated to the lowest effective PPI dose to avoid long-term use for a placebo effect.
+**Figure 1 — algorithm for the evaluation of suspected EER** (recreated on [[extraesophageal-reflux]]): branch on presence of typical GERD symptoms → with typical symptoms, twice-daily PPI for **8–12 weeks**; without typical symptoms, consider non-GI evaluation by ENT, pulmonary, or allergy → endoscopy → ambulatory reflux monitoring off PPI → optimize antireflux regimen → on-therapy reflux testing → antireflux surgery in select patients. Responders should be titrated to the lowest effective PPI dose and considered for off-therapy endoscopy or reflux testing to support long-term PPI use.
 
 - 50–60% of patients with EER symptoms will not have GERD and will not respond to anti-reflux therapies — the rationale for objective testing before/instead of prolonged empiric PPI.
 - **Empiric PPI trial performs poorly as a diagnostic test:** meta-analysis gives sensitivity **71%–78%** and specificity **41%–54%** in patients with *classic* reflux symptoms; performance in EER is expected to be substantially lower.
-- **Lifestyle measures** supported for EER: avoidance of refluxogenic foods, food avoidance for at least **2–3 hours before recumbency**, head-of-bed elevation, left lateral decubitus sleep position, and weight loss.
+- **Lifestyle measures:** proposed for GERD — avoidance of refluxogenic foods, food avoidance for at least **2–3 hours before recumbency**, head-of-bed elevation, left lateral decubitus sleep position, weight loss. In EER, data on avoiding presumed refluxogenic foods are limited → avoid trigger foods patient by patient.
 - **External upper esophageal sphincter (UES) compression device** applies **20–30 mmHg of cricoid pressure**; symptom improvement rose from 31% (4-week PPI alone) to 55% when the device was added. Not currently widely available.
 - **Gamma-aminobutyric acid type B agonists:** gabapentin or [[baclofen]] reduced capsaicin cough sensitivity and reflux symptoms in suspected reflux-related chronic cough (one RCT), and lesogaberan possibly reduced cough hypersensitivity without reducing total coughs; because of its challenging side-effect profile, **baclofen is not routinely recommended as primary or adjunctive therapy for EER symptoms**.
 - Antireflux surgery for EER: existing data are of generally low quality with **no randomized controlled trials** versus medical therapy. In patients unresponsive to acid suppression, heartburn plus a **high acid-reflux burden (acid exposure time >12%)** may predict response to surgery.

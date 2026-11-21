@@ -3,7 +3,8 @@ title: "San Diego Consensus (2025): Laryngopharyngeal Symptoms and Laryngopharyn
 category: source
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, esophageal-physiology, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/Other/San Diego Consensus 2025 Laryngopharyngeal Reflux.pdf"
 ---
@@ -125,7 +126,7 @@ raw: "GI Guidelines/Other/San Diego Consensus 2025 Laryngopharyngeal Reflux.pdf"
 - Laryngeal hyperresponse (throat clearing, coughing, breath-holding, vocal-fold strain, globus) and hypervigilance/symptom-specific anxiety may contribute to or be the primary cause of LPS — with or without LPRD
 - Survey of 1,217 adults: 16–46% self-identified as "laryngoresponsive"
 - Laryngeal Cognitive Affective Tool (LCAT): validated patient-reported outcome (PRO) instrument identifying elevated hypervigilance/anxiety and likely benefit from behavioral therapy
-- LRT: by voice-specialized SLP; voice techniques + vagal / heart-rate-variability biofeedback + cognitive interventions; precedent in confirmed reflux, isolated cough, inducible laryngeal obstruction / paradoxical vocal fold movement, muscle tension dysphonia
+- LRT: by voice-specialized SLP; voice techniques + vagal / heart-rate-variability biofeedback + cognitive interventions; LRT itself is a novel approach — the precedent (confirmed reflux, isolated cough, inducible laryngeal obstruction / paradoxical vocal fold movement, muscle tension dysphonia) is for SLP interventions generally
 - CBT: for persisting psychological drivers or incomplete relief after LRT or neuromodulation; targets symptom-specific cognitive, emotional, physiological, behavioral processes (not general mental-health disorders); delivered by a mental health professional with health-psychology training
 - Laryngeal involvement does not imply a mental health disorder (Figure 3: cycle of laryngeal hypersensitivity → hyperresponsiveness → hypervigilance/anxiety)
 
@@ -150,7 +151,7 @@ raw: "GI Guidelines/Other/San Diego Consensus 2025 Laryngopharyngeal Reflux.pdf"
 
 ## Recommendations
 
-Table 1 statements, in the document's order (statements are unnumbered). Grading = RAND: **% agreement** that the statement is appropriate (rated ≥7 on a 9-point scale) and **median score**. Statements not reaching ≥80% are in the paper's online supplement (not ingested).
+Table 1 statements, in the document's order (statements are unnumbered). Grading = RAND: **% agreement** that the statement is appropriate (ranked with a score of 7 or greater) and **median score**. Statements not reaching ≥80% are in the paper's online supplement (not ingested).
 
 | Statement | % agree | Median |
 |---|---|---|
@@ -238,8 +239,8 @@ Table 1 statements, in the document's order (statements are unnumbered). Grading
 
 ## Contradictions / Open Questions
 
-- **Response to an empiric trial as evidence:** San Diego 2025 (Table 2) accepts LPS + esophageal reflux symptoms responding to an anti-reflux trial as objective evidence supporting LPRD. [[aga-2023-extraesophageal-gerd|AGA 2023 extraesophageal GERD]] Best Practice Advice 5: improvement on PPI may reflect non-acid mechanisms and should not be regarded as confirmation of GERD. Both tier 1; San Diego 2025 is newer and is what [[laryngopharyngeal-symptoms]] follows — the LPS page notes the AGA caveat.
-- **PPI trial dose and duration:** San Diego 2025 — twice daily × 3 months from the start. AGA 2023 — single-dose PPI, titrating to twice daily, one trial up to 12 weeks. [[aga-2018-extraesophageal-gerd|AGA 2018]] — aggressive acid suppression (twice daily) for 6–8 weeks. San Diego 2025 is newest.
+- **Response to an empiric trial as evidence:** San Diego 2025 (Table 2) accepts LPS + esophageal reflux symptoms responding to an anti-reflux trial as objective evidence supporting LPRD. [[aga-2023-extraesophageal-gerd|AGA 2023 extraesophageal GERD]] Best Practice Advice 5: improvement on PPI may reflect non-acid mechanisms and should not be regarded as confirmation of GERD. Both tier 1; AGA 2023 (US) governs [[laryngopharyngeal-symptoms]] — US guidelines beat non-US consensus regardless of date; the San Diego position is shown beside it.
+- **PPI trial dose and duration:** San Diego 2025 — twice daily × 3 months from the start. AGA 2023 — single-dose PPI, titrating to twice daily, one trial up to 12 weeks. [[aga-2018-extraesophageal-gerd|AGA 2018]] — aggressive acid suppression (twice daily) for 6–8 weeks. AGA 2023 (US) governs the wiki; San Diego is shown as the international alternative.
 - **Endoscopic threshold, internal inconsistency:** Table 1 statement reads ">LA grade B"; the text, Table 2, and Table 3 all say LA grade B, C, or D. The text/tables (LA B–D, consistent with [[lyon-2024-gerd-diagnosis|Lyon 2.0]]) are used on the wiki.
 - **Globus, internal inconsistency:** the text says globus did not reach agreement as an LPS; Table 1 lists "Globus is a laryngopharyngeal symptom that warrants evaluation and management" at 88%. Wiki: not an agreed LPS, but warrants evaluation.
 - **Event-count thresholds:** Table 3 lists >80 distal and >10 proximal reflux events as *supportive* findings, yet the panel did not agree on >80 esophageal / >10 hypopharyngeal events as abnormal cut-offs.

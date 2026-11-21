@@ -3,7 +3,8 @@ title: "ACG and CAG Clinical Guideline: Management of Dyspepsia"
 category: source
 tags: [dyspepsia, functional-dyspepsia, h-pylori, ppi, foregut, guideline, acg, cag]
 created: 2026-05-19
-updated: 2026-10-01
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG CAG 2017 Management of Dyspepsia.pdf"
 ---
@@ -59,7 +60,7 @@ All 14 recommendations as printed in Table 1, with the source's own strength and
 | 14 | "We suggest motility studies for selected patients with FD where gastroparesis is strongly suspected." | Conditional recommendation, very low quality evidence |
 
 - Quality bands are **high / moderate / low / very low**; strength is **strong** ("most patients should receive the recommended course of action") or **conditional** ("many patients will have this recommended course of action but different choices may be appropriate for some patients, and a greater discussion is warranted"). There is no other category.
-- Statements 7, 9 and 13 open "We recommend" yet carry conditional grades; this is the document's own wording.
+- Statements 9 and 13 open "We recommend" yet carry conditional grades; this is the document's own wording (Statement 7 is strong, high quality).
 
 ## Key Findings / Claims
 
@@ -163,7 +164,7 @@ All 14 recommendations as printed in Table 1, with the source's own strength and
 ### Statements 13 and 14 — motility testing in FD
 
 - **Most FD patients have normal gastric emptying (70–80%).** Delayed emptying is found in up to **30%** (scintigraphy or breath tests) but the delay is usually **mild — 10–20% of material remaining at 4 h**.
-- A large, multicenter 4-h solid-phase gastric-emptying trial read at one center found **21%** of patients meeting Rome III criteria for FD had delayed emptying.
+- A large, multicenter 4-h solid-phase gastric-emptying trial read at one center found **21%** of patients meeting Rome II criteria for FD had delayed emptying.
 - **Abnormal gastric accommodation** is present in up to **40%** of FD, but can only be measured accurately with **gastric barostat** or **single-photon emission computed tomography** — neither readily available, and barostat is expensive, invasive and uncomfortable.
 - Delays in gastric emptying are **not accurately related to symptoms**, which is why routine testing is not recommended.
 - **When to test (Statement 14):** a **4-h solid-phase gastric-emptying scan** should be performed in FD patients with **predominant symptoms of severe nausea and vomiting who fail empiric therapy**. Daily or intractable vomiting suggests [[gastroparesis]] rather than FD.
@@ -184,14 +185,14 @@ All 14 recommendations as printed in Table 1, with the source's own strength and
 
 ## Contradictions / Open Questions
 
-- **Age threshold change:** raises the endoscopy threshold to 60 and over, from 55 and over in previous ACG guidance. Not universally adopted — local cancer epidemiology may justify a lower threshold.
+- **Age threshold change:** raises the endoscopy threshold to 60 and over, from 55 and over in previous ACG guidance. The recommendations take a US/Canada viewpoint and may not apply in other countries; the threshold is lowered for higher-risk individuals (see above).
 - **Alarm features:** earlier guidelines mandated endoscopy for any alarm feature at any age; this guideline explicitly declines to do so under 60 while keeping named exceptions (weight loss >20 lb, rapidly progressive dysphagia, feature combinations).
 - **Prevalence-based first-line choice:** contradicts the earlier guidance that PPI should be first line where *H. pylori* prevalence is <15%.
 - **Internal inconsistency on the PPI-in-FD estimate:** the Statement 8 text reports 5,853 patients (2,724/3,916 vs 1,457/1,937) with RR 0.87 (0.82–0.94), while the Table 5 GRADE profile for the same comparison reports 15 trials with 2,332/3,621 vs 1,293/1,777 and RR 0.83 (0.77–0.89). The page asserts the Statement 8 text values, which carry the NNT.
 - **TCA evidence is reused across two populations:** the identical 3-trial dataset supports Statement 6 (uninvestigated, graded low for indirectness) and Statement 9 (FD, graded moderate). There are no antidepressant trials in undiagnosed dyspepsia.
 - **Prokinetic recommendations are largely untestable in practice:** every eligible prokinetic is unavailable in the US, Canada and Europe, and the pooled effect is downgraded for publication bias.
 - **Rome IV → V:** predates Rome V (2026); FD definitions are reasonably stable but gut–brain framing has evolved — see [[disorders-of-gut-brain-interaction]] and [[rome-v-2026-dgbi]].
-- **Numbering quirk:** Statements 7, 9 and 13 are worded "We recommend" but graded conditional. This is as published.
+- **Numbering quirk:** Statements 9 and 13 are worded "We recommend" but graded conditional. This is as published.
 
 ## See Also
 

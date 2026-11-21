@@ -145,7 +145,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, rome-v-2026-gastroduod
 ### EndoFLIP / Pyloric Assessment
 
 - [[flip-panometry|Endoluminal functional lumen imaging probe (EndoFLIP)]] pyloric distensibility index (DI) — characterizes pylorus, may predict G-POEM outcome (Conditional, Very low) ([[acg-2022-gastroparesis]])
-- **DI <10 mm²/mm Hg** ↔ more retention, may predict pyloric-therapy response; DI 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM success (single center)
+- Reduced pyloric distensibility ↔ more retention (no cutoff given); **DI <10 mm²/mm Hg** selected intrapyloric botulinum toxin responders in one study (19/35); DI 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM success (single center)
 
 ---
 
