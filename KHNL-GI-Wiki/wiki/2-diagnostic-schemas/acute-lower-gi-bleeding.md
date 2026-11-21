@@ -366,7 +366,7 @@ Footnotes to the algorithm [[acg-2023-lgib]]:
 
 | Medication | Recommendation After Diverticular Hemorrhage |
 |---|---|
-| Nonaspirin NSAIDs | **Discontinue permanently** (Strong) |
+| Nonaspirin NSAIDs | **Discontinue** after hospitalization for diverticular hemorrhage (Rec 11a, strong, low) |
 | Aspirin — primary prevention | **Suggest discontinuation** (Conditional) |
 | Aspirin — secondary prevention / CVD | **Suggest continuing** (Conditional) — reduces ischemic events and mortality |
 | P2Y12 inhibitors | **Multidisciplinary re-evaluation required** (Strong) — hazard ratio 1.47 for recurrent hemorrhage |

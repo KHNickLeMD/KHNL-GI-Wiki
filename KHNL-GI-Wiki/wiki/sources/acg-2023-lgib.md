@@ -1,9 +1,10 @@
 ---
-title: "ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding"
+title: "Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline (2023)"
 category: source
 tags: [lower-gi-bleeding, lgib, colonoscopy, hemorrhage, diverticular]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-21
+verified: 2026-11-21
 sources: []
 raw: "GI Guidelines/ACG/ACG 2023 Update Management of Patients With Acute Lower Gastrointestinal Bleeding.pdf"
 ---
@@ -79,7 +80,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Most patients unlikely to require reversal; hold VKA at admission for significant bleeding
 - Endoscopic hemostasis is safe and effective at international normalized ratio (INR) ≤2.5
 - Life-threatening LGIB with INR substantially exceeding therapeutic range: suggest reversal
-- **4-factor prothrombin complex concentrate (PCC) preferred over fresh frozen plasma (FFP)**: faster INR reduction; RCT data show PCC superior (90% vs. 75% hemostasis); lower thromboembolic risk; reduced volume overload; decreased mortality vs. FFP
+- **4-factor prothrombin complex concentrate (PCC) preferred over fresh frozen plasma (FFP)** in patients on VKAs for nonvalvular atrial fibrillation stroke prevention who require reversal (Rec 3, conditional, very low): faster INR reduction; RCT data show PCC superior (90% vs. 75% hemostasis); lower thromboembolic risk; reduced volume overload; decreased mortality vs. FFP
 
 **Direct Oral Anticoagulants (DOACs):**
 
@@ -87,7 +88,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Reversal only for life-threatening LGIB not responding to resuscitation + drug cessation
 - **Idarucizumab** for dabigatran; **andexanet alfa** for apixaban and rivaroxaban (if DOAC taken within past 24 hours)
 - PCC not definitively established for factor Xa inhibitor reversal
-- No role for vitamin K, FFP, or cryoprecipitate for DOAC reversal
+- Limited benefit of vitamin K, FFP, or cryoprecipitate for DOAC-related LGIB
 
 ### Antifibrinolytics
 
@@ -119,7 +120,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - **Split-dose preparation preferred** for elective inpatient colonoscopy (adequacy improved from 43% to 86%)
 - Low-volume preparations (1 L same-day PEG) show comparable cleansing to split-dose 4 L in small RCT
 - Unprepared colonoscopy or routine flexible sigmoidoscopy NOT recommended (unless anorectal source known)
-- NG tube for prep delivery: use only when necessary; avoid in aspiration-risk patients
+- NG tube for prep delivery: use only when necessary; perform cautiously in patients with risk factors for aspiration
 
 ### CTA
 
@@ -136,7 +137,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - **Prompt referral to interventional radiology (IR) for transcatheter arteriography (TA) + possible embolization** (Strong recommendation)
 - TA within 90 minutes of positive CTA: 9× more likely to detect extravasation
 - Embolization agents: microcoils, N-butyl cyanoacrylate (NBCA), ethylene-vinyl alcohol copolymer; superselective with microcatheter
-- NBCA embolization: 98% technical success; major complications 4.6% (mostly bowel infarction/ulcer); 30-day rebleeding 15.7%, mortality 12.7%
+- NBCA embolization: one meta-analysis — 98% technical success, major complications 4.6% (mostly bowel infarction/ulcer); a second review (243 patients) — technical success 98.8%, 30-day rebleeding 15.7%, mortality 12.7%
 - Colonoscopy also an option after positive CTA at experienced centers; shorter time to procedure predicts confirmation of bleeding regardless of modality
 
 ### Endoscopic Treatment
@@ -160,7 +161,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 
 - Colonoscopy indicated for ongoing bleeding with hemodynamic compromise
 - 43% of cases do not require endoscopic hemostasis (managed conservatively)
-- Through-the-scope clips: first-line; hemostatic powders: 97% initial hemostasis as monotherapy, combination, or rescue
+- Through-the-scope clips: first-line; hemostatic powders: 97% initial hemostasis in postpolypectomy bleeding; 98% hemostasis as monotherapy, combination, or rescue in a 50-patient multicenter LGIB study
 
 ### Recurrent Bleeding
 
@@ -174,7 +175,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 
 **NSAIDs:**
 
-- Discontinue nonaspirin NSAIDs permanently after diverticular hemorrhage (Strong recommendation)
+- Discontinue nonaspirin NSAIDs after hospitalization for diverticular hemorrhage (Rec 11a, strong, low)
 
 **Aspirin:**
 
@@ -189,7 +190,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 **Anticoagulants:**
 
 - **Resume anticoagulation after LGIB cessation** (Strong recommendation)
-- Resumption decreases thromboembolism and mortality without significantly increasing rebleeding
+- Resumption decreases thromboembolism and mortality; meta-analyses suggest a potentially increased risk of recurrent GI bleeding, while in a diverticular-hemorrhage cohort resumption was not associated with recurrent diverticular hemorrhage (HR 0.98)
 - Optimal timing: within 7 days of bleeding event
 - Discontinuing anticoagulation after diverticular hemorrhage associated with HR 1.93 for ischemic stroke at median 115 days
 
@@ -197,30 +198,28 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Resuscitation and Transfusion** | | |
-| Restrictive transfusion threshold Hgb 7 g/dL for hemodynamically stable LGIB | Strong | Moderate |
-| Threshold of 8 g/dL reasonable for preexisting cardiovascular disease | Conditional | Low |
-| **Anticoagulation Reversal** | | |
-| 4-factor PCC preferred over FFP for life-threatening LGIB with VKA supratherapeutic INR | Strong | Moderate |
-| Idarucizumab for dabigatran reversal; andexanet alfa for apixaban and rivaroxaban reversal | Conditional | Low |
-| **Antifibrinolytics** | | |
-| Tranexamic acid NOT recommended for LGIB | Strong | Moderate |
-| **Colonoscopy** | | |
-| Colonoscopy recommended for most hospitalized LGIB patients | Strong | Moderate |
-| Nonemergent inpatient colonoscopy (not urgent <24 hours) for most LGIB patients | Strong | Moderate |
-| **CTA** | | |
-| CTA as first-line test for hemodynamically significant ongoing hematochezia | Conditional | Moderate |
-| Prompt referral to IR for transcatheter arteriography + possible embolization after positive CTA | Strong | Moderate |
-| **Endoscopic Treatment** | | |
-| Through-the-scope clips, endoscopic band ligation, or coagulation for diverticular hemorrhage | Strong | Low |
-| APC as effective first-line therapy for colonic angioectasias | Conditional | Low |
-| **Antithrombotic Management After Discharge** | | |
-| Discontinue nonaspirin NSAIDs permanently after diverticular hemorrhage | Strong | Low |
-| For secondary cardiovascular prevention: continue aspirin despite increased rebleeding risk | Conditional | Low |
-| Re-evaluate risks/benefits of P2Y12 inhibitors in multidisciplinary setting | Strong | Low |
-| Resume anticoagulation after LGIB cessation (within 7 days); reduces thromboembolism and mortality | Strong | Moderate |
+All recommendations, numbered as in the guideline's Table 1 (p. 209); strength and quality as printed. Key Concepts 1–10 (Table 2) are ungraded.
+
+| # | Recommendation (condensed) | Strength | Quality |
+|---|---|---|---|
+| 1 | Suggest risk stratification tools (e.g., Oakland score ≤8) to identify low-risk patients appropriate for early discharge and outpatient evaluation; supplement, not replace, clinician judgment | Conditional | Low |
+| 2 | Suggest restrictive red blood cell transfusion (threshold hemoglobin 7 g/dL) in hemodynamically stable LGIB | Conditional | Low |
+| 3 | Vitamin K antagonist (VKA): suggest reversal only for life-threatening LGIB with INR substantially exceeding the therapeutic range; for VKA for nonvalvular atrial fibrillation stroke prevention requiring reversal, 4-factor PCC preferred to FFP | Conditional | Very low |
+| 4 | Direct oral anticoagulant: suggest reversal only for life-threatening LGIB not responding to initial resuscitation and cessation; idarucizumab (dabigatran) or andexanet alfa (apixaban, rivaroxaban) if taken within the past 24 hr | Conditional | Very low |
+| 5 | Against antifibrinolytics such as tranexamic acid | Strong | Moderate |
+| 6a | Colonoscopy for most hospitalized patients with LGIB | Strong | Low |
+| 6b | Colonoscopy may not be needed if bleeding has subsided and a high-quality colonoscopy within 12 mo (adequate preparation) showed diverticulosis with no colorectal neoplasia | Conditional | Very low |
+| 7 | Suggest CT angiography as the initial test in ongoing hemodynamically significant hematochezia; low yield in minor LGIB or if bleeding has clinically subsided | Conditional | Low |
+| 8 | CT angiography showing extravasation → prompt referral to interventional radiology for arteriography ± embolization; in specialized centers colonoscopy can also be considered | Strong | Moderate |
+| 9 | Hospitalized LGIB needing colonoscopy: nonemergent inpatient colonoscopy (urgent <24 h has not improved rebleeding or mortality) | Strong | Moderate |
+| 10 | Diverticular stigmata of hemorrhage: through-the-scope clips, endoscopic band ligation, or coagulation | Strong | Moderate |
+| 11a | Discontinue nonaspirin NSAIDs after hospitalization for diverticular hemorrhage | Strong | Low |
+| 11b | Suggest discontinuing aspirin for primary cardiovascular prevention after diverticular hemorrhage | Conditional | Low |
+| 11c | Suggest continuing aspirin after diverticular hemorrhage with established cardiovascular disease | Conditional | Low |
+| 11d | Re-evaluate continuing nonaspirin antiplatelets (e.g., P2Y12 receptor antagonists) in a multidisciplinary setting after diverticular hemorrhage | Strong | Low |
+| 12 | Resume anticoagulation after cessation of LGIB (lowers postbleeding thromboembolism and mortality) | Strong | Moderate |
+
+Not graded (text only): a hemoglobin threshold of 8 g/dL in cardiovascular disease is cited from earlier guidelines (p. 213); argon plasma coagulation is "an effective initial treatment modality" for angioectasias (p. 222); resumption of anticoagulation within 7 days "is typically recommended", though optimal timing is uncertain (p. 223).
 
 ## Relevance to Wiki
 
