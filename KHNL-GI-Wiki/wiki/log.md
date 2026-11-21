@@ -37,7 +37,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Queue after this pass:** [[gallbladder-cancer]] (NCCN — blocked), [[primary-sclerosing-cholangitis]] (7 unverified sources incl. Baveno VIII), [[liver-disease-in-pregnancy]] (blocked on the AASLD 2021 re-extraction), [[hiatal-hernia]] (9 unverified sources), [[pouchitis]] ([[aga-2024-pouchitis]] still owes Tables 4–5 + verification; 5 more unverified), [[hepatitis-c]] (6 unverified sources).
 
-**Status:** 189/375 pages quality-reviewed, 48/375 verified; source pages 95/473 verified (+12 this run).
+**Status:** 189/375 pages quality-reviewed, 48/375 verified; source pages 95/473 verified (+11 this run).
 
 **Cards:** none written (Quality review step only). Card files for the four pages verified this run requeue for card review; carded facts to re-check: PJS surgical management and genotype–phenotype, Heller "recurrent dysphagia" wrap-failure wording, FD Rome II and removed washout intervals, LPR PPI-trial dose (AGA governs).
 
