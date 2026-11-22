@@ -4,6 +4,8 @@ category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -59,7 +61,7 @@ ACG 2016 Table 5 [[acg-2016-nutrition-hospitalized]]:
 | Total | What ACG 2016 cites | Risk |
 |---|---|---|
 | **≤3** | >1,000 patients awaiting major elective surgery: no change in outcome whether or not sufficient nutrition therapy was received | Low |
-| **>3** | Randomized controlled trial (RCT), 132 patients: more aggressive therapy → 30% greater receipt of calories and protein, fewer total complications and re-hospitalizations | High |
+| **>3** | Randomized controlled trial (RCT), 132 patients: more aggressive therapy → 30% greater receipt of calories and protein, fewer total complications and re-hospitalizations | Higher (RCT population; ACG defines "high" as ≥5) |
 | **≥5** | Same elective-surgery cohort: sufficient therapy (>10 kcal/kg/day for 7 days before surgery) → 50% reduction in nosocomial infection and total complications | High |
 
 ### NUTRIC Score
@@ -198,7 +200,7 @@ ACG 2016 Recs 9–14 [[acg-2016-nutrition-hospitalized]]:
 | After major surgery, in a surgical ICU | Immune-modulating formula with arginine + omega-3 fish oil **should be used** (less infection and shorter length of stay; no mortality effect) | 18b — Conditional, Very low |
 | Medical ICU | Arginine + fish-oil immune-modulating formula **not** routinely | 18c — Conditional, Very low |
 | ARDS / acute lung injury | No recommendation on non-arginine anti-inflammatory lipid formulas — seven RCTs conflict | — |
-| Routine use of elemental/semi-elemental, disease-specific (diabetes) or organ-specific (hepatic, renal, pulmonary) formulas | Discouraged | Text, ungraded |
+| Medical ICU: routine use of immune-modulatory, elemental/semi-elemental, disease-specific (diabetes) or organ-specific (hepatic, renal, pulmonary) formulas | Discouraged (standard polymeric formula generally tolerated) | Text, ungraded |
 
 Source: [[acg-2016-nutrition-hospitalized]]. Formula changes for diarrhea: [[#Diarrhea on EN]].
 

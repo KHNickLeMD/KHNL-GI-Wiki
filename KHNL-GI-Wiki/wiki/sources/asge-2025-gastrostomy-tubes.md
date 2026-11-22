@@ -40,6 +40,8 @@ All four from Table 1 (PDF p. 3), with the guideline's own strength and quality-
 | 3 | After PEG → ASGE **recommends** PEG tubes may be used for **feeding early (within 4 h)** over routine delays in initiation | Strong | Moderate (randomized controlled trials); Low (all studies) |
 | 4 | **Malignant dysphagia** needing gastrostomy → ASGE **suggests either transoral pull PEG, transcutaneous direct PEG, or IR-G** | Conditional | Very low |
 
+Rec 4 wording is from the boxed statement in the text (p. 30); the Table 1 version omits "or IR-G".
+
 **Best practice advice (Table 1):**
 - **Rec 1:** transillumination, 1-to-1 indentation and a safe-track needle technique with air aspiration **should be performed** during PEG to reduce colon perforation. Prophylactic antibiotics (e.g., cefazolin) **should be given** at the time of initial gastrostomy to reduce infection.
 - **Rec 2:** PEG may be performed while on antiplatelet medications. Patients on antithrombotics who **restrict blood transfusions** (antibodies or religious beliefs) or are at **high bleeding risk** → continuing antiplatelet and anticoagulant drugs decided by a multidisciplinary discussion with the team and patient. Tightening the PEG bumper for **24 hours and then loosening it may be considered** to tamponade potential bleeding — data limited; avoid excessive tightening (buried bumper).
