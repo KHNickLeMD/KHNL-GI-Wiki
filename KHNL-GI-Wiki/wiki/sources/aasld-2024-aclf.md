@@ -3,7 +3,8 @@ title: "AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure"
 category: source
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, ICU, critical-illness, organ-failure, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-09-20
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2024 Acute-on-Chronic Liver Failure.pdf"
 ---
@@ -164,10 +165,11 @@ Key areas: definition and prognosis (ACLF-specific scores vs. Model for End-Stag
 
 **Terlipressin and respiratory failure in ACLF-3 (GS 25–26):** in the most recent North American hepatorenal syndrome type 1 (HRS1) trial, respiratory failure occurred in **8%** of terlipressin recipients and in **none** of the placebo recipients, and was seen **only** in patients with ACLF-3 by EASL-CLIF criteria; there was also a trend toward more respiratory failure with higher pretreatment albumin volume. This underlies the FDA warning against terlipressin in ACLF-3 with respiratory failure. Norepinephrine is the first drug of choice when AKI is accompanied by shock.
 
-**Terlipressin dosing and response (Table 4):** bolus start **1 mg every 4–6 h**, escalating to a maximum of **12 mg/day** by response, for up to **14 days**; continuous infusion achieves the same efficacy at a lower total daily dose with fewer side effects. Across four RCTs terlipressin + albumin reversed HRS1 in **36–44%**. Predictors of response: baseline bilirubin **≤10 mg/dL**, sCr **≤5 mg/dL**, MAP rise **≥5 mm Hg** on treatment, and lower ACLF grade. Every 1 mg/dL fall in sCr on vasoconstrictor therapy carried a **27% relative** mortality reduction.
+**Terlipressin dosing and response (Terlipressin section; trials in Table 4):** bolus start **1 mg every 4–6 h**, escalating to a maximum of **12 mg/day** by response, for up to **14 days**; continuous infusion achieves the same efficacy at a lower total daily dose with fewer side effects. Across four RCTs terlipressin + albumin reversed HRS1 in **36–44%**. Predictors of response: baseline bilirubin **≤10 mg/dL**, sCr **≤5 mg/dL**, MAP rise **≥5 mm Hg** on treatment, and lower ACLF grade. Every 1 mg/dL fall in sCr on vasoconstrictor therapy carried a **27% relative** mortality reduction.
 
 **LT in ACLF (Table 7 + Figure 5):** selected candidates with three or more organ failures have done well, but need **early** LT; trajectory over the first 72 h to 1 week matters more than any single score. Ventilator support is a **consistent** predictor of suboptimal post-LT outcomes.
-- Likely **absolute** contraindications: lactate **>9 mmol/L**, severe respiratory failure, increasing vasopressor support, severe acute respiratory distress syndrome [ARDS] (PaO₂/FiO₂ **<150**), uncontrolled sepsis.
+- Likely **absolute** contraindications: lactate **>9 mmol/L**, severe respiratory failure, increasing vasopressor support.
+- Likely barriers: hemodynamic instability (progressive or sustained vasopressor requirement), severe acute respiratory distress syndrome [ARDS] (PaO₂/FiO₂ **<150**), uncontrolled sepsis; moderate hypoxemia (PaO₂/FiO₂ **≥150**) may be acceptable.
 - Moderate hypoxemia/respiratory failure with PaO₂/FiO₂ **≥150** may still be acceptable for LT — the ≥150 vs <150 split is the decision point.
 - Other factors treated as contraindications: HE requiring ventilatory support **>72 h**, active gastrointestinal (GI) bleed, hemodynamic instability.
 - Associated with worse post-transplant outcomes in ICU cirrhosis cohorts: severe frailty (Clinical Frailty Scale **≥7**), ongoing/uncontrolled sepsis, leukopenia, MDR organisms, persistent fever, **<72 h** of antibiotics, high-dose norepinephrine.
@@ -176,7 +178,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. Model for End-Stag
 
 **AKI staging behind GS 23–25 (Table 3):** GS 24 and GS 25 are conditional on **Stage 2 or greater** HRS-AKI, and there is **no** recommendation for vasoconstrictors at Stage 1 — so the stage must be assigned before the drug decision. AKI = sCr rise **≥0.3 mg/dL (26.4 µmol/L) in <48 h** or **50% increase** from baseline; baseline = a stable sCr within 3 mo, else the closest stable value, else the admission sCr. Full International Club of Ascites (ICA) staging and the vasoconstrictor-eligibility rule live on [[aki-in-cirrhosis]]. HRS-AKI additionally requires cirrhosis with [[ascites]], Stage 2 or higher AKI, no response after **2 consecutive days** of diuretic withdrawal plus albumin **1 g/kg/day (max 100 g/day)**, absence of shock, no current or recent nephrotoxic drugs, and no parenchymal kidney disease (proteinuria <500 mg/day, <50 red blood cells (RBC)/high-power field (hpf), normal renal ultrasound).
 
-**Palliative care:** A palliative care consult is associated with ~**50%** lower readmission rates, shorter length of stay, and cost saving of ~**$10,000** per patient with end-stage liver disease; in another study it cut readmissions by two-thirds and doubled hospice discharge. LT listing does not preclude palliative care (GS 51). Table 8 quality metrics: all patients with cirrhosis admitted to the ICU or diagnosed with ACLF should receive a palliative care consult irrespective of transplant listing status; surrogate decision-maker identified within 48 h of admission; goals of care documented for anyone ventilated or in the ICU >48 h; palliative care or hospice offered to non-transplant candidates with HRS-AKI not responding to pharmacotherapy.
+**Palliative care:** Palliative care in end-stage liver disease is associated with lower procedure burden and cost saving of ~**$10,000** per patient; a palliative care consult was associated with ~**50%** lower readmission rates, shorter length of stay and inpatient cost savings; in another study it cut readmissions by two-thirds and doubled hospice discharge. LT listing does not preclude palliative care (GS 51). Table 8 quality metrics: all patients with cirrhosis admitted to the ICU or diagnosed with ACLF should receive a palliative care consult irrespective of transplant listing status; surrogate decision-maker identified within 48 h of admission; goals of care discussed for anyone mechanically ventilated >48 h or in the ICU >48 h; palliative care or hospice offered to non-transplant candidates with HRS-AKI not responding to pharmacotherapy.
 
 ## Relevance to Wiki
 
@@ -187,7 +189,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. Model for End-Stag
 
 - No single globally applicable ACLF definition; NACSELD/EASL-CLIF/APASL capture different disease stages
 - Optimal LT selection criteria in ACLF remain undefined; trajectory (stabilization vs. progression) appears more important than a single score cutoff
-- Terlipressin is excluded in ACLF-3 on a respiratory-failure signal from a single North American HRS1 trial (8% vs 0%); the document does not name the trial. Norepinephrine is preferred in shock, but the comparative trials were small and at high risk of methodological bias, and none were conducted specifically in ACLF
+- Terlipressin is excluded in ACLF-3 on a respiratory-failure signal from a single North American HRS1 trial (8% vs 0%); the document does not name the trial. Norepinephrine is preferred in shock, but the comparative trials were small and at high risk of methodological bias, and further studies are needed specifically in ACLF — in one study of AARC-defined ACLF, terlipressin was more effective than norepinephrine in reversing HRS1 and improving 28-day survival
 - Optimal laboratory cut-offs defining hepatic failure in ACLF remain unclear, and how rapid the "acute" deterioration must be is undefined
 - Rifaximin role as add-on to lactulose in ACLF-specific HE warrants further investigation
 

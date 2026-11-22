@@ -79,7 +79,7 @@ All from [[aga-2019-daa-hcc]] unless noted. **Cure lowers de novo [[hepatocellul
 | Active HCC eligible for cure (resection or ablation) | **Defer DAA until HCC treatment is completed** |
 | HCC listed for [[liver-transplantation\|transplant]] | Case by case — median regional wait time, availability of HCV-positive organs, degree of liver dysfunction |
 | Active intermediate/advanced HCC | Insufficient data; weigh tumour burden, liver dysfunction, life expectancy, patient preference |
-| Complete response to HCC therapy | **Do not withhold DAA** — but wait **4–6 months** to confirm durable response (allows 2–3 interim multiphase computed tomography (CT)/magnetic resonance imaging (MRI)) |
+| Complete response to HCC therapy | **Do not withhold DAA** — DAA therapy **can be deferred 4–6 months** to confirm durable response (allows 2–3 interim multiphase computed tomography (CT)/magnetic resonance imaging (MRI)) |
 
 - Rationale for the 4–6 month wait: shorter response-to-DAA intervals correlate with early recurrence (41% vs 23% when treated within 4 months), and one scan cannot confirm response — CT/MRI sensitivity is only **40–50%** for subcentimeter and **60–70%** for 1–2 cm lesions.
 - **Active HCC lowers SVR** — small but statistically significant (adjusted odds ratio [OR] 0.38, 95% CI 0.29–0.48 in the largest cohort). Treating HCV *before* HCC develops is the optimal strategy.

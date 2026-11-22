@@ -156,9 +156,9 @@ flowchart TD
 2. **EUS-CYA + coils over EUS-CYA alone** when feasible — RCT reintervention **20.8% vs 53.8%**, less glue (1.5 vs 3.5 cm³).
 3. **No EUS → DEI.** Lack of expertise **must not delay** care — unstable patients may need radiology or balloon tamponade.
 4. **EUS-I over RTO for initial management** — fewer adverse events (5.1% vs 22%), less worsening ascites (0 vs 15.3%) and esophageal varices (1.7% vs 16.9%), but more GV reintervention (28.8% vs 5.1%); RTO may be more available locally.
-5. **After endoscopic hemostasis → multidisciplinary discussion of pre-emptive TIPS or RTO** — pre-emptive TIPS RCT: free of death/rebleeding at 1 y **77% vs 37%**. Choose by anatomy: **amenable gastrorenal shunt → balloon-occluded retrograde transvenous obliteration (BRTO)**, otherwise TIPS — vs glue alone, rebleeding **2.2% vs 24.4%**, variceal-bleeding mortality 2.2% vs 17.8%; **shunt-related HE → RTO**; **poorly controlled ascites or large high-risk esophageal varices → TIPS ± RTO**. Costs: HE 30% after TIPS, ascites 36% after BRTO (both manageable).
+5. **After endoscopic hemostasis → multidisciplinary discussion of pre-emptive TIPS or RTO** — pre-emptive TIPS RCT: free of death/rebleeding at 1 y **77% vs 37%**. Choose by anatomy: **amenable gastrorenal shunt → balloon-assisted retrograde transvenous obliteration (BRTO)**, otherwise TIPS — vs glue alone, rebleeding **2.2% vs 24.4%**, variceal-bleeding mortality 2.2% vs 17.8%; **shunt-related HE → RTO**; **poorly controlled ascites or large high-risk esophageal varices → TIPS ± RTO**. Costs: HE 30% after TIPS, ascites 36% after BRTO (both manageable).
 
-**Pre-procedure workup, stable patient:** **3-phase CT** (large splenorenal shunt = higher systemic embolization risk) + **transthoracic echo with bubble study** (patent foramen ovale); review with interventional radiology, hepatology and/or transplant surgery [[asge-2026-esophageal-gastric-varices]].
+**Pre-procedure workup, stable patient:** **3-phase CT** (large splenorenal shunt = higher systemic embolization risk) + consider **transthoracic echo with bubble study** (patent foramen ovale); review with interventional radiology, hepatology and/or transplant surgery [[asge-2026-esophageal-gastric-varices]].
 
 **Temporizing at the index endoscopy** ([[aga-2021-bleeding-gastric-varices|AGA 2021]], ungraded):
 

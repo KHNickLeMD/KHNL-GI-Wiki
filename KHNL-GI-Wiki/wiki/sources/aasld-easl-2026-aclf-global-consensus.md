@@ -3,7 +3,8 @@ title: "Acute-on-Chronic Liver Failure: A Global Multisociety Consensus on Defin
 category: source
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, consensus, alcohol-associated-hepatitis, DILI, HBV, liver-transplantation, plasma-exchange, clinical-trials]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD-EASL-APASL-ALEH-SOLDA 2026 ACLF Global Consensus on Definitions.pdf"
 ---
@@ -23,7 +24,7 @@ The core change: **liver failure (international normalised ratio [INR] ≥1.5 an
 
 Management statements cover corticosteroid limits in alcohol-related hepatitis with ACLF, antiviral timing, ICU organ support (sedation, ventilation, fluids, vasopressors, renal replacement, infection screen, viscoelastic testing), time-limited ICU trials with day 3–7 reassessment, and LT candidacy (expected 1-year survival >75–80%). The last section defines regulatory-aligned trial endpoints.
 
-*Statement numbers below follow Appendix 1. The main text numbers statements 58–60 in a different order (resource use / MDRO / 75–80% survival); the content is identical.*
+*Statement numbers below follow Appendix 1 (the main text uses the same numbers).*
 
 ## Key Findings / Claims
 
@@ -138,10 +139,10 @@ Management statements cover corticosteroid limits in alcohol-related hepatitis w
 45. Early baseline assessment of volume, perfusion and cardiac function **including bedside echocardiography** in all critically ill cirrhosis/ACLF (C1). Consider cirrhotic cardiomyopathy (pulmonary oedema risk with fluids).
 46. Shock: **balanced crystalloids**, with human [[albumin]] for **established indications** (large-volume paracentesis, [[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis (SBP)]], HRS-AKI) (B1). Albumin not supported for routine initial resuscitation (pulmonary oedema/fluid overload, esp. 20%).
 47. Hypotensive despite adequate volume → **norepinephrine first-line, target MAP ≥65 mmHg** (B1). Higher targets not beneficial in randomised data.
-48. Escalating norepinephrine → **vasopressin second-line + empiric trial of IV hydrocortisone** (B1). Extracorporeal cytokine removal not recommended.
+48. Escalating norepinephrine → **vasopressin second-line; an empiric trial of IV hydrocortisone should be considered** (B1). Extracorporeal cytokine removal not recommended.
 
 **Renal**
-49. **RRT for HRS-AKI failing pharmacotherapy in patients listed for, or being considered for, LT** (B1).
+49. **RRT should be considered for HRS-AKI failing pharmacotherapy in patients listed for, or being considered for, LT** (B1).
 - HRS-AKI and acute tubular necrosis = a spectrum; no routine pre-emptive RRT; continuous RRT in haemodynamic instability; no routine intraoperative RRT or RRT for hyperammonaemia alone without AKI.
 
 **Infections**
@@ -212,4 +213,3 @@ Management statements cover corticosteroid limits in alcohol-related hepatitis w
 - **Living donor LT** — AASLD/AST 2025 statement 53 urges caution with LDLT at MELD >30; this consensus (Statement 61, C2) sets no MELD limit in ACLF. Tension rather than direct conflict.
 - **Steroids in DILI** — Table 4 lists corticosteroids for immune-mediated and ICI injury; ACG 2021 Rec 9 finds no studies supporting or refuting them outside autoimmune-hepatitis-like features.
 - Grade 1 footnote in the paper's Table 3 says "cardiac and respiratory" where Statement 10 and Table 2 say circulatory and respiratory — read as circulatory.
-- Main-text vs Appendix numbering of Statements 58–60 differs (content identical).

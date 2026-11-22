@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Interaction Between Oral Direct-Acting A
 category: source
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, hepatocellular-carcinoma, HCC, surveillance, SVR, cirrhosis, liver-transplantation]
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2019 CPU Oral DAAs and HCC.pdf"
 ---
@@ -19,9 +20,9 @@ raw: "GI Guidelines/AGA/AGA 2019 CPU Oral DAAs and HCC.pdf"
 
 ## Summary
 
-Addresses the controversy that followed early single-centre reports of unexpectedly high [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] occurrence and recurrence after [[direct-acting-antivirals|direct-acting antiviral (DAA)]] therapy for [[hepatitis-c|hepatitis C virus (HCV)]]. Three questions: does DAA-induced sustained virologic response (SVR) change **incident** HCC risk, does it change **recurrent** HCC risk, and does active HCC change **DAA efficacy** — plus the operative consequences for surveillance and for the timing of antiviral therapy.
+Addresses the controversy that followed early reports of unexpectedly high [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] occurrence and recurrence after [[direct-acting-antivirals|direct-acting antiviral (DAA)]] therapy for [[hepatitis-c|hepatitis C virus (HCV)]]. Three questions: does DAA-induced sustained virologic response (SVR) change **incident** HCC risk, does it change **recurrent** HCC risk, and does active HCC change **DAA efficacy** — plus the operative consequences for surveillance and for the timing of antiviral therapy.
 
-**Occurrence vs recurrence — the directions differ, and so does the evidence quality.** For *incident* (de novo) HCC the signal is clear and **protective**: across >30,000 patients from 5 countries, SVR gave an ~**70% reduction** in HCC risk, evident within 3–6 months and increasing over time; HCC risk in DAA-cured patients was no different from interferon (IFN)-cured patients (hazard ratio [HR] 1.07; 95% confidence interval [CI] 0.55–2.08). The early hepatocarcinogenicity signal is attributed to incidence–prevalence bias (HCC present but missed before DAA start) rather than a DAA effect. For *recurrent* HCC the conclusion is **indeterminate, not reassuring-by-proof**: the update states there are **no conclusive data** in either direction (increased or decreased risk, time to recurrence, or aggressiveness), because the literature is dominated by **single-arm studies** with misclassification of pre-DAA complete response, ascertainment bias, and heterogeneous cohorts — comparator-arm studies show DAA-treated patients do **similar if not better** than untreated/IFN-treated patients, and the authors call for higher-quality data.
+**Occurrence vs recurrence — the directions differ, and so does the evidence quality.** For *incident* (de novo) HCC the signal is clear and **protective**: across >30,000 patients from 5 countries, SVR gave an ~**70% reduction** in HCC risk, evident within 3–6 months and increasing over time; HCC risk in DAA-cured patients was no different from interferon (IFN)-cured patients (hazard ratio [HR] 1.07; 95% confidence interval [CI] 0.55–2.08). The early hepatocarcinogenicity signal may be explained in part by "missed" HCC present before DAA start (incidence–prevalence bias), which the update calls plausible. For *recurrent* HCC the conclusion is **indeterminate, not reassuring-by-proof**: the update states there are **no conclusive data** in either direction (increased or decreased risk, time to recurrence, or aggressiveness), because the literature is dominated by **single-arm studies** with misclassification of pre-DAA complete response, ascertainment bias, and heterogeneous cohorts — comparator-arm studies show DAA-treated patients do **similar if not better** than untreated/IFN-treated patients, and the authors call for higher-quality data.
 
 **Practical consequences.** Absolute HCC risk after SVR remains above the cost-effectiveness threshold in cirrhosis, so **surveillance continues indefinitely** — but it is a different test depending on HCC history: ultrasound ± alpha-fetoprotein (AFP) every 6 months for cirrhosis/advanced fibrosis with no prior HCC, versus dynamic contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) every 3–6 months (never back to ultrasound) for patients with a treated HCC. Surveillance imaging must also be done **before** starting DAAs, to exclude prevalent HCC.
 
@@ -97,10 +98,10 @@ The abstract enumerates twelve statements, but the article's final section is he
 
 ### Timing of DAA after HCC complete response
 
-- Shorter interval between complete response and DAA start is **the most consistent correlate of early recurrence**: higher recurrence when treated within **4 months** (41% vs 23%); protective associations also reported using a **1-year** cutoff (HR 0.31; 95% CI 0.10–0.77) and a **2-year** cutoff (HR 0.34).
-- **Rule: wait at least 4–6 months** after HCC complete response before starting DAA — long enough for **2–3 interim multiphase CT or MRI scans** to confirm durable response.
+- Shorter interval between complete response and DAA start is **one of the most consistent correlates of early recurrence**: higher recurrence when treated within **4 months** (41% vs 23%); protective associations also reported using a **1-year** cutoff (HR 0.31; 95% CI 0.10–0.77) and a **2-year** cutoff (HR 0.34).
+- **It appears prudent to wait at least 4–6 months** after HCC complete response (BPA 11: DAA therapy *can be* deferred 4–6 months) before starting DAA — long enough for **2–3 interim multiphase CT or MRI scans** to confirm durable response.
 - Rationale for waiting is diagnostic, not just immunologic: single **CT/MRI sensitivity for small HCC is 40%–50% for subcentimeter lesions and 60%–70% for 1–2 cm lesions**, so one clear scan does not establish complete response.
-- Counterweight in favour of treating: SVR drives fibrosis regression, improved portal hypertension and liver function — and hepatic decompensation, not tumour, is the major driver of death in HCV cirrhotics with successfully treated early HCC.
+- Counterweight in favour of treating: SVR drives fibrosis regression, improved portal hypertension and liver function — and hepatic decompensation, not tumour, is typically the major driver of death in patients with HCC complete response and untreated HCV infection.
 - **Transplant candidates:** decide case by case — DAA may be beneficial pre-transplant where wait times are long or HCV-positive donor organs scarce; deferral to post-transplant is reasonable where wait times are short or HCV-positive organs plentiful and would otherwise go unused.
 
 ## Relevance to Wiki
@@ -108,7 +109,7 @@ The abstract enumerates twelve statements, but the article's final section is he
 - [[direct-acting-antivirals]] — adds a DAA-and-HCC section: no increase in incident HCC (~70% risk reduction with SVR), pre-treatment surveillance imaging in F3/cirrhosis, the 4–6 month deferral after HCC complete response, deferral until after curative HCC therapy, and reduced SVR with active HCC.
 - [[hepatitis-c]] — adds "known/suspected HCC" as a *timing* decision rather than only a simplified-algorithm exclusion, plus the pre-DAA imaging step and post-SVR absolute risk numbers.
 - [[hcc-surveillance]] — adds the **post-HCC-treatment** surveillance modality/interval (dynamic contrast-enhanced CT or MRI, every 3 months in year 1 then every 6 months, indefinitely, never reverting to ultrasound) and the post-DAA-SVR absolute-risk figures that justify indefinite surveillance in cirrhosis.
-- [[hepatocellular-carcinoma]] — corroborates that HCV eradication does not increase recurrence, and supplies the recurrence-rate denominators (pooled 25.1% at 2 y; background 25%–35% at 1 y / 50%–60% at 2 y after resection or ablation).
+- [[hepatocellular-carcinoma]] — notes there are no conclusive data that DAA therapy increases or decreases recurrence risk, and supplies the recurrence-rate denominators (pooled 25.1% at 2 y; background 25%–35% at 1 y / 50%–60% at 2 y after resection or ablation).
 
 ## Contradictions / Open Questions
 

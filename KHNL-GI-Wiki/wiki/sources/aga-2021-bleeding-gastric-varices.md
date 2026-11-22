@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Bleeding Gastric Varices: 
 category: source
 tags: [gastric-varices, portal-hypertension, variceal-bleeding, cyanoacrylate, brto, tips, cirrhosis, aga, cpu]
 created: 2026-09-06
-updated: 2026-11-01
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU Bleeding Gastric Varices.pdf"
 ---
@@ -20,9 +21,9 @@ raw: "GI Guidelines/AGA/AGA 2021 CPU Bleeding Gastric Varices.pdf"
 
 Bleeding gastric varices (GV) are the uncommon-but-lethal end of portal hypertensive bleeding: GV are present in only 17%–25% of patients with portal hypertension (vs up to 85% for esophageal varices), and bleed less often, but when they bleed the hemorrhage is more severe — greater transfusion requirement and higher mortality — with a 3-year bleeding incidence of 16%–45%. Rates of bleeding and mortality are similar in noncirrhotic and cirrhotic portal hypertension. The update is explicit that the evidence base is weak: no definitive natural-history studies, no prospective trials, only case series, restricted cohorts and a few small randomized trials with significant selection bias. All 12 statements are Best Practice Advice grounded in expert opinion.
 
-The central argument is that GV cannot be managed like esophageal varices, because their vascular anatomy is heterogeneous rather than uniform. Esophageal varices (EV) have consistent anatomy, so band ligation or transjugular intrahepatic portosystemic shunt (TIPS) works universally; GV drain through variable shunts and may bleed at lower portal pressures, often via a left-sided gastrorenal shunt (GRS). This drives the two structural recommendations of the paper: (1) after initial hemostasis, obtain **cross-sectional imaging with portal venous phase contrast** (computed tomography [CT] or magnetic resonance [MR]) to map the vascular anatomy before choosing definitive therapy, and (2) make that choice in a **multidisciplinary discussion** between gastroenterology/hepatology and interventional radiology, at a center resourced for it.
+The central argument is that GV cannot be managed like esophageal varices, because their vascular anatomy is heterogeneous rather than uniform. Esophageal varices (EV) have consistent anatomy, so band ligation or transjugular intrahepatic portosystemic shunt (TIPS) works universally; GV drain through variable shunts and may bleed at lower portal pressures, possibly related to left-sided circulation from a gastrorenal shunt (GRS). This drives the two structural recommendations of the paper: (1) after initial hemostasis, obtain **cross-sectional imaging with portal venous phase contrast** (computed tomography [CT] or magnetic resonance [MR]) to map the vascular anatomy before choosing definitive therapy, and (2) make that choice in a **multidisciplinary discussion** between gastroenterology/hepatology and interventional radiology, at a center resourced for it.
 
-Therapy is then selected by GV location plus vascular anatomy. The authors propose simplifying the Sarin classification to a location-based scheme — **cardiofundal, lesser curve, distal** — and adding variceal size and high-risk stigmata (discolored marks, platelet plugs) to the description, by analogy to the North Italian Endoscopic Club (NIEC) criteria for esophageal varices. Lesser-curve GV extend from esophageal varices and behave like them: band ligation is often definitive. Cardiofundal GV are large and mass-like; band ligation is inferior, and **endoscopic cyanoacrylate injection (ECI) is the only definitive endoscopic therapy**. Endovascularly, balloon-occluded retrograde transvenous obliteration (BRTO) is preferred when a GRS is present and severe portal hypertensive complications are absent; TIPS is preferred when there is significant coronary-vein inflow to the GV or significant comorbid portal hypertensive complications — and TIPS alone is often insufficient for cardiofundal GV, so it should be combined with direct embolization or endovascular sclerosis.
+Therapy is then selected by GV location plus vascular anatomy. The authors propose simplifying the Sarin classification to a location-based scheme — **cardiofundal, lesser curve, distal** — and adding variceal size and high-risk stigmata (discolored marks, platelet plugs) to the description, by analogy to the North Italian Endoscopic Club (NIEC) criteria for esophageal varices. Lesser-curve GV extend from esophageal varices and behave like them: band ligation is often definitive. Cardiofundal GV are large and mass-like; band ligation is inferior, and **endoscopic cyanoacrylate injection (ECI) is the only definitive endoscopic therapy**. Endovascularly, balloon-occluded retrograde transvenous obliteration (BRTO) is the optimal endovascular therapy when a GRS is present, local expertise is available and severe portal hypertensive complications are absent; TIPS may be used when there is significant coronary-vein inflow to the GV or significant comorbid portal hypertensive complications — and TIPS alone is often insufficient for cardiofundal GV, so it should be combined with direct embolization or endovascular sclerosis.
 
 Notably, the update **rejects primary prophylaxis**: endoscopic classification systems should *not* be used to guide primary prophylaxis of GV bleeding, and practice guidelines have not supported any form of primary prophylaxis for GV. Endovascular management is likewise restricted to proven GV bleeding — after or during the first sentinel bleed — never prophylactically.
 
@@ -70,7 +71,7 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 | Timing of endoscopy | After circulatory/respiratory stabilization, **within 12 h of presentation** (as soon as possible). Consider **erythromycin 250 mg IV, 30–120 min before** emergency endoscopy to optimize visualization — **check the QT interval first**. |
 | Setting | Manage acute variceal hemorrhage in an intensive care unit (ICU) or other well-monitored unit. |
 
-*(Doses transcribed as printed; the source's table prints octreotide in "mg" and hemoglobin in "mg/dL", which are typographical errors for µg and g/dL respectively.)*
+*(Doses transcribed as printed; the source's table prints hemoglobin in "mg/dL", a typographical error for g/dL; octreotide is printed in µg.)*
 
 ### Initial endoscopic evaluation and temporizing measures
 - Give a **promotility agent** pre-procedure and use a **therapeutic endoscope or advanced suctioning device** — intragastric blood frequently obscures the cardia/fundus.
@@ -79,7 +80,7 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 - **Alcohol-based sclerotherapy (e.g. ethanolamine)** — marginal initial hemostasis, high early rebleeding, deep ulceration; **not recommended unless no other option**.
 - **Gastric compression balloons** (Sengstaken-Blakemore, Linton-Nachlas) — highly effective temporizing for cardiofundal and lesser curve GV. **Inflate only the gastric balloon** and proceed to definitive therapy as fast as possible — prolonged balloon tension precipitates mucosal breakdown.
 - **ECI is not recommended as a temporizing measure** absent other options — logistics limit its use at the index diagnostic exam, and undefined vascular anatomy (thrombosis, shunting) may affect its result.
-- **Procoagulants (activated factor VII) not recommended** — thrombotic risk, no efficacy data in GV bleeding.
+- **Routine use of procoagulants (activated factor VII) not recommended** — thrombotic risk, no efficacy data in GV bleeding.
 
 ### Definitive endoscopic management — cyanoacrylate injection (ECI)
 - **ECI is the only definitive endoscopic therapy recommended for cardiofundal GV.** Their size and mass-like configuration make band ligation difficult; injection into the deeper submucosal varices is physiologically superior.
@@ -111,12 +112,12 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 
 **BRTO**
 - Conventional BRTO approaches cardiofundal GV with an indwelling occlusive balloon from the systemic veins **via a GRS**. **Up to 85% of cardiofundal GV** are associated with a GRS — a left-sided spontaneous portosystemic shunt draining into the left renal vein.
-- Accelerated variants replace the balloon with permanent hardware — **CARTO** (coil-assisted retrograde transvenous obliteration) and **PARTO** (plug-assisted retrograde transvenous obliteration); physiologically plausible but **not supported by the same volume of data** as conventional BRTO.
+- Accelerated variants replace the balloon with permanent hardware — **CARTO** (coil-assisted retrograde transvenous obliteration) and **PARTO** (plug-assisted transvenous obliteration); physiologically plausible but **not supported by the same volume of data** as conventional BRTO.
 - Efficacy: cessation of active bleeding in **>90%**; intention-to-treat GV rebleed rate consistently **<5%–7% at 1 year**. No adequately sized RCTs.
 - Meta-analysis of TIPS vs BRTO for cardiofundal GV: no difference in initial hemostasis or procedure-related complications, but **BRTO had less rebleeding and less encephalopathy**.
 - **Complications:** post-BRTO bleeding is most commonly from **EV, which are exacerbated after BRTO — up to 30%–35% progress in size**. New/worsened **ascites or hepatic hydrothorax** requiring intervention in ~**15% within 1 year** (present on imaging in **35%–40%**).
 - **Hepatic encephalopathy (HE) improves** after BRTO — incidence **0%–5% at 1 year**; type B (portosystemic-shunt-related) HE is in fact an *indication* for BRTO. Liver synthetic function may improve from increased portal inflow, though no outcome benefit has been demonstrated.
-- **Post-BRTO follow-up:** EUS within **48 h** to confirm obliteration, assess EV exacerbation, and set a new baseline. Unobliterated minimal areas usually thrombose spontaneously within **1–2 months**. Clinic visit + labs + contrast-enhanced CT/MR at **4–6 weeks**, then **3 and 6 months** and as clinically indicated. **Repeat upper endoscopy within 2 weeks if high-risk EV were present at BRTO, within 4–6 weeks if low-risk EV**; treat EV per standard guidelines.
+- **Post-BRTO follow-up:** EUS within **48 h** to confirm obliteration, assess EV exacerbation, and set a new baseline. Unobliterated minimal areas usually thrombose spontaneously within **1–2 months**. Clinic visit + labs + contrast-enhanced CT/MR at **4–6 weeks**; repeat contrast-enhanced CT/MR at **3 and 6 months** and then as clinically indicated. **Repeat upper endoscopy within 2 weeks if high-risk EV were present at BRTO, within 4–6 weeks if low-risk EV**; treat EV per standard guidelines.
 
 ### Primary prophylaxis
 - GV are rare relative to EV and the endoscopic/clinical predictors of bleeding are less robust; available data are heterogeneous in populations, risk factors, and bleeding definitions.

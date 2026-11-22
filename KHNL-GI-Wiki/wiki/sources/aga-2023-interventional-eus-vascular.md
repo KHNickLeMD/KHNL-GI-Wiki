@@ -3,8 +3,9 @@ title: "AGA 2023 Clinical Practice Update on Interventional EUS for Vascular Inv
 category: source
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-11-03
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2023 CPU Interventional EUS for Vascular Investigation & Therapy.pdf"
 ---
 
@@ -25,7 +26,7 @@ raw: "GI Guidelines/AGA/AGA 2023 CPU Interventional EUS for Vascular Investigati
 
 Reviews the evidence for [[interventional-eus-vascular|endoscopic ultrasound (EUS)-guided vascular investigation and therapy]]. The two most widely utilized interventions are **EUS-guided gastric variceal therapy** (coil ± cyanoacrylate glue) and **EUS-guided portosystemic pressure gradient (EUS-PPG) measurement**. Emerging interventions: treatment of ectopic and rectal varices, splenic artery embolization, therapy of arterial bleeding including pseudoaneurysms, and portal venous sampling. Experimental: EUS-guided intrahepatic portosystemic shunt creation.
 
-Bottom line per the authors: **EUS-guided coil injection therapy of gastric varices makes the strongest case for adoption at centers of expertise** — safe, excellent acute hemostasis, low rebleeding, and likely superior to traditional direct endoscopic injection (DEI) of glue, though supporting data are uncontrolled series and small comparative studies and its place relative to interventional radiology (IR) endovascular therapies (balloon-occluded retrograde transvenous obliteration [BRTO], [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]]) is undefined. **EUS-PPG's strongest indication is when there is another reason for endoscopy** (variceal screening, [[liver-biopsy|liver biopsy]]) — a "one-stop shop." Rectal/ectopic variceal therapy, splenic artery embolization, and arterial/pseudoaneurysm therapy rest on small case series; portal vein sampling appears safe but should stay within research protocols. Two prerequisites for clinical utility of any EUS vascular intervention: a vascular target in/near the gastrointestinal (GI) wall favoring endoscopic over percutaneous access, and efficacy/safety comparable or superior to current alternatives.
+Bottom line per the authors: **EUS-guided coil injection therapy of gastric varices makes the strongest case for adoption at centers of expertise** — safe, excellent acute hemostasis, low rebleeding, and likely superior to traditional direct endoscopic injection (DEI) of glue, though supporting data are uncontrolled series and small comparative studies and its place relative to interventional radiology (IR) endovascular therapies (balloon-assisted retrograde transvenous obliteration [BRTO], [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]]) is undefined. **EUS-PPG's strongest indication is when there is another reason for endoscopy** (variceal screening, [[liver-biopsy|liver biopsy]]) — a "one-stop shop." Rectal/ectopic variceal therapy, splenic artery embolization, and arterial/pseudoaneurysm therapy rest on small case series; portal vein sampling appears safe but should stay within research protocols. Two prerequisites for clinical utility of any EUS vascular intervention: a vascular target in/near the gastrointestinal (GI) wall favoring endoscopic over percutaneous access, and efficacy/safety comparable or superior to current alternatives.
 
 ---
 
@@ -36,7 +37,7 @@ Bottom line per the authors: **EUS-guided coil injection therapy of gastric vari
 - Gastric variceal hemorrhage is less prevalent but often more severe than esophageal, with higher mortality; **cardiofundal varices (isolated gastric varices type 1 [IGV1], gastroesophageal varices type 2 [GOV2]** — Sarin criteria per stratum on [[portal-hypertension]]**)** are especially challenging endoscopically (large size, location, clear retroflexed view needed for DEI, inaccurate intravascular needle placement).
 - Advantages of EUS guidance over DEI: injection precision (even during active bleeding with impaired views), expanded options (hemostatic coils), and **real-time Doppler feedback of hemostasis**. At least 1 retrospective comparative study found EUS-guided cyanoacrylate injection superior to DEI.
 - Coils = soft platinum wire with spaced synthetic fibers, borrowed from IR; intravascular placement is postulated to initiate thrombus.
-- **Technique:** intubated, left lateral decubitus; instill and retain 100–200 cm³ water in the fundus to delineate intramural varices from extramural collaterals and perforator veins (trace extramural vessels across the muscularis propria into the varix); 19- or 22-gauge fine-needle aspiration (FNA) needle, transesophageal or transgastric; sequentially place **1–3 coils** (usually Nester or MReye, Cook) as a scaffold, using **Doppler interrogation during placement to gauge how many coils are needed**; when Doppler flow is significantly reduced/near-absent, inject adjunct cyanoacrylate to minimize postprocedure embolic events. Fluoroscopy ± varicealography helpful early in the learning curve but not required. No definitive data on targeting the varix itself vs the perforator vein(s). Other varices can be re-treated as required; the multi-step technique needs trained nurses and technicians.
+- **Technique:** intubated, left lateral decubitus; instill and retain 100–200 cm³ water in the fundus to delineate intramural varices from extramural collaterals and perforator veins (trace extramural vessels across the muscularis propria into the varix); 19- or 22-gauge fine-needle aspiration (FNA) needle, transesophageal or transgastric; sequentially place **1–3 coils** (usually Nester or MReye, Cook) as a scaffold, using **Doppler interrogation during placement to gauge how many coils are needed**; when Doppler flow is significantly reduced/near-absent, adjunct cyanoacrylate can be injected to minimize postprocedure embolic events. Fluoroscopy ± varicealography helpful early in the learning curve but not required. No definitive data on targeting the varix itself vs the perforator vein(s). Other varices can be re-treated as required; the multi-step technique needs trained nurses and technicians.
 - **Outcomes:** 3 retrospective series + 2 small randomized controlled trials (RCTs) — ~99% technical success and bleeding control; rebleeding 0%–16%; adverse events (AEs) 0%–7%.
   - Meta-analysis, any EUS-guided therapy vs DEI: **similar** treatment efficacy (94% vs 91%) **but** higher gastric variceal obliteration (**84% vs 63%, P = .02**). In subgroup analysis, coil + glue had significantly fewer recurrences (5%) than glue or coils alone.
   - Second meta-analysis — **combination coil + glue is the preferred strategy**: hemostasis 96%–98% with 10% AEs, vs glue alone (96%, 21% AEs) and coils alone (90%, 3% AEs).
@@ -80,6 +81,8 @@ Dashes in the original table mean the outcome was not reported, so each range co
 
 ---
 
+**Figures:** open access — "This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)" (PDF p 1). Figures 1 (EUS coil + cyanoacrylate steps) and 2 (EUS-PPG targets) are embedded whole on [[interventional-eus-vascular]].
+
 ## Relevance to Wiki
 
 - Creates [[interventional-eus-vascular]] (procedure page: gastric variceal coil/glue, EUS-PPG, portal vein sampling, emerging/experimental interventions).
@@ -91,6 +94,6 @@ Dashes in the original table mean the outcome was not reported, so each range co
 ## Contradictions / Open Questions
 
 - No formal evidence grading (commentary format); most supporting data are retrospective series and 2 small RCTs.
-- EUS-guided gastric variceal therapy is **not FDA approved**; role vs BRTO/TIPS undefined pending RCTs. This Clinical Practice Update (CPU) positions EUS coil + glue as an expert-center option, not a replacement. **Superseded in part:** the later [[asge-2026-esophageal-gastric-varices|ASGE 2026 varices guideline]] now recommends EUS-guided injection *over* DEI, and coil + cyanoacrylate over cyanoacrylate alone, so [[variceal-upper-gi-bleeding]] carries a graded EUS arm that this CPU could only call promising.
+- EUS-guided gastric variceal therapy is **not FDA approved**; role vs BRTO/TIPS undefined pending RCTs. This Clinical Practice Update (CPU) says EUS coil therapy makes the strongest case for inclusion at centers of expertise, with larger studies needed to define its place. **Superseded in part:** the later [[asge-2026-esophageal-gastric-varices|ASGE 2026 varices guideline]] now recommends EUS-guided injection *over* DEI, and coil + cyanoacrylate over cyanoacrylate alone, so [[variceal-upper-gi-bleeding]] carries a graded EUS arm that this CPU could only call promising.
 - Whether EUS-PPG values are interchangeable with transjugular HVPG thresholds (>5 / ≥10 mm Hg) is unresolved — anesthesia type may shift absolute pressures.
 - Optimal gastric-varix target (intramural varix vs perforator vein), coil number/size, and injectate are unstandardized.

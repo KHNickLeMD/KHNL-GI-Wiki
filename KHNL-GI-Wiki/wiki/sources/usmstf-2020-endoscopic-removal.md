@@ -3,7 +3,8 @@ title: "USMSTF 2020: Endoscopic Removal of Colorectal Lesions"
 category: source
 tags: [colonoscopy, polypectomy, emr, esd, colorectal, crc-prevention, advanced-polypectomy]
 created: 2026-05-07
-updated: 2026-09-08
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/ACG/USMSTF 2020 Endoscopic Removal of Colorectal Lesions.pdf"
 ---
@@ -25,12 +26,12 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ### Lesion Assessment
 
-- Document: location, size (mm), Paris classification for all lesions ≥10mm
+- Document endoscopic descriptors (location, size in mm, morphology) for all lesions (Strong); use the Paris classification (Conditional)
 - Photo document all ≥10mm lesions before removal; suggest photo of post-resection defect
 - Paris 0-IIc (depressed): uncommon (1%–6% of non-polypoid lesions) but highest submucosal invasion (SMI) risk — **27%–35.9%** overall vs **0.7%–2.4%** for flat (0-IIa); **>40%** of small (6–10 mm) 0-IIc lesions contain submucosal invasive cancer; virtually all >20 mm 0-IIc lesions have SMI
 - Granular homogeneous laterally spreading tumor (LST-G-H) lowest SMI risk (**0.5%**, 95% confidence interval [CI] 0.1%–1.0%); **nongranular pseudodepressed LST (LST-NG-PD) highest (31.6%**, 95% CI 19.8%–43.4%)
 - Narrow-band imaging International Colorectal Endoscopic (NICE) type 3 or Kudo Vn = deep (>1000 μm) SMI → cold biopsy + tattoo + surgical referral *(narrative body text — ungraded)*
-- Non-lifting sign = SMI or submucosal fibrosis (prior cautery, colitis) *(narrative body text — ungraded)*
+- Non-lifting sign = SMI or submucosal fibrosis (prior biopsy, cautery, or tattoo) *(narrative body text — ungraded)*
 - Proficiency in image-enhanced endoscopy for optical diagnosis — *Conditional, moderate-quality*; proficiency in recognizing deep SMI — *Strong, moderate-quality*
 
 ### Resection by Lesion Type
@@ -45,17 +46,17 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 | Pedunculated (head ≥20mm or stalk ≥5mm) | Prophylactic ligation (detachable loop or clips) before hot snare |
 
 - Cold forceps: high incomplete resection rates (9–61%); avoid for >2mm lesions
-- Hot biopsy forceps: do NOT use for any polypectomy (high incomplete resection, inadequate specimens, complications)
+- Hot biopsy forceps: do NOT use for diminutive (≤5mm) or small (6–9mm) lesions (high incomplete resection, inadequate specimens, complications)
 
 ### EMR Technique
 
-- Inject-and-cut: preferred; viscous injectant (hydroxyethyl starch, Eleview, ORISE Gel) superior to normal saline for ≥20mm
+- Inject-and-cut: simple, widely used EMR technique; viscous injectant (hydroxyethyl starch, Eleview, ORISE Gel) superior to normal saline for ≥20mm
 - Add indigo carmine or methylene blue to injectant for tissue plane visualization
 - Do NOT use tattoo (carbon particles) as injectant — causes submucosal fibrosis → reduces future resection success
 - Resect all visible tissue in single session, minimum number of pieces
 - Adjuvant thermal ablation of EMR margins (argon plasma coagulation [APC] or snare tip soft coagulation) after complete visual resection → reduces recurrence
 - Do NOT ablate visible residual tissue (increases recurrence risk)
-- Clip closure of defects ≥20mm in right colon — prophylactic; reduces delayed perforation
+- Prophylactic closure of resection defects ≥20mm in the right colon, when feasible (Conditional) — reduces delayed bleeding (7.2% → 3.7%; benefit confined to proximal colon)
 - Intraprocedural bleeding: coagulation forceps, snare-tip soft coag, or clips ± dilute epinephrine
 
 ### Surveillance After Piecemeal EMR (≥20mm)
@@ -68,7 +69,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 ### Marking / Tattoo
 
 - Sterile carbon particle suspension for lesions needing future localization (surgical or endoscopic)
-- Place 2–3 injections, 3–5 cm **distal** (anal side) to lesion
+- Marking for later **endoscopic** resection: 2–3 injections, 3–5 cm **distal** (anal side) to lesion; marking for **surgical** resection: in line with the lesion and the opposite lumen wall
 - Do NOT inject at or near the lesion — submucosal fibrosis impairs future resection
 - Document tattoo details and photo in procedure report
 
@@ -98,7 +99,6 @@ Two facts to carry when citing this document anywhere:
 
 ## Contradictions / Open Questions
 
-- Optimal role of underwater EMR vs inject-and-cut not yet established
 - Cold snare EMR (without electrocautery) for large lesions: promising but long-term data lacking
 - ESD indications remain limited in colorectum; evidence still evolving — and are **narrative text, not a graded recommendation**
 - Antithrombotic management for ≥20mm EMR: explicitly individualized (*Conditional, low-quality*), no strong data

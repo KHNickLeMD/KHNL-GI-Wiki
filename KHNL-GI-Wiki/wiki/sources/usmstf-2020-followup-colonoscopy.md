@@ -3,7 +3,8 @@ title: "USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypec
 category: source
 tags: [colonoscopy, polypectomy, surveillance, adenoma, serrated-polyp, crc-screening, post-polypectomy]
 created: 2026-05-07
-updated: 2026-10-01
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/ACG/USMSTF 2020 Update Follow-Up After Colonoscopy and Polypectomy.pdf"
 ---
@@ -150,7 +151,7 @@ Piecemeal removal of a large lesion is the one finding that overrides the size/n
 - **Second surveillance 1 year from the first surveillance**
 - **Third surveillance 3 years from the second surveillance**
 
-Supporting data: a meta-analysis of 33 studies found recurrent neoplasia in **20% after piecemeal vs 3% after en bloc** [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]]. In the subgroup of 10–20 mm polyps removed by EMR, piecemeal resection carried an **18% risk** of recurrent neoplasia, similar to the 19% observed for 20–30 mm and >30 mm lesions. Incomplete resection was more common with piecemeal (20%) than en bloc (8.4%) resection, but piecemeal was not an independent predictor of incomplete resection after adjusting for size and histology. Above 20 mm, strategies for verifying complete excision should be considered.
+Supporting data: a meta-analysis of 33 studies found recurrent neoplasia in **20% after piecemeal vs 3% after en bloc** [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]]. In the subgroup of 10–20 mm polyps removed by EMR, piecemeal resection carried an **18% risk** of recurrent neoplasia, similar to the 19% observed for 20–30 mm and >30 mm lesions. Incomplete resection was more common with piecemeal (20%) than en bloc (8.4%) resection, but piecemeal was not an independent predictor of incomplete resection after adjusting for size and histology. Particularly for polyps ≥20 mm, strategies for verifying complete excision should be considered.
 
 ## Key Updates Since 2012 (Table 9)
 
@@ -178,9 +179,9 @@ Supporting data: a meta-analysis of 33 studies found recurrent neoplasia in **20
 
 **Risk after serrated lesions**
 
-- New Hampshire Colonoscopy Registry (Table 6) — high-risk adenoma (HRA) at second surveillance by baseline finding: no adenoma 4.8%, low-risk adenoma 9.7%, HRA 18.2%, low-risk adenoma + SSP 18.4%, **HRA + SSP 46.4%**, SSP/SSP-with-dysplasia 2.9%, serrated polyp ≥10 mm 3.1%. Serrated polyp ≥10 mm at second surveillance: 0.7%, 0.5%, 1.0%, 8.2%, 3.6%, 9.6%, 12.3% respectively.
+- New Hampshire Colonoscopy Registry (Table 6) — high-risk adenoma (HRA) at the surveillance colonoscopy by baseline finding: no adenoma 4.8%, low-risk adenoma 9.7%, HRA 18.2%, low-risk adenoma + SSP 18.4%, **HRA + SSP 46.4%**, SSA/P (traditional serrated adenoma [TSA] included) 2.9%, serrated polyp ≥10 mm 3.1%. Serrated polyp ≥10 mm at surveillance: 0.7%, 0.5%, 1.0%, 8.2%, 3.6%, 9.6%, 12.3% respectively.
 - Danish case-control study (2,045 CRC cases, 8,105 controls): SSP → odds ratio (OR) 3.07 (95% CI 2.30–4.10) for CRC; SSP with dysplasia → OR 4.76 (95% CI 2.59–8.73).
-- Large serrated polyp with a synchronous advanced adenoma → OR 3.3 (95% CI 1.3–8.6) for incident CRC.
+- Large serrated polyp (adjusted for concomitant adenomas) → OR 3.3 (95% CI 1.3–8.6) for incident CRC.
 - TSA vs conventional adenoma: metachronous high-risk adenoma 47.3% vs 32.0% (adjusted OR 2.37; 95% CI 1.55–3.63).
 - Pohl et al. reported **47% of SSPs 10–20 mm had evidence of incomplete resection** — a central reason for the conservative serrated-polyp grid.
 

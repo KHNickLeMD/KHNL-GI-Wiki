@@ -3,7 +3,8 @@ title: "American Gastroenterological Association Institute Guideline on the Role
 category: source
 tags: [elastography, vcte, fibroscan, mre, liver-stiffness, fibrosis, cirrhosis, hepatitis-c, hepatitis-b, nafld, masld, alcohol-associated-liver-disease, portal-hypertension, varices, apri, fib-4, aga, guideline, grade]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2017 Elastography for Liver Fibrosis.pdf"
 ---
@@ -135,7 +136,7 @@ MRE vs VCTE head-to-head:
 The panel interpreted every cutoff in explicit prevalence scenarios:
 
 - **HCV, 12.5 kPa:** misclassifies **<5%** of patients as not having cirrhosis when they do, and **<10%** as having cirrhosis when they do not.
-- **Post-SVR, 9.5 kPa:** misclassifies **~1%** of low-risk and **~7%** of high-risk patients as not having advanced fibrosis — who may then be falsely reassured, discharged from a dedicated liver clinic, and not receive appropriate post-treatment supportive care. Low-risk = 5% prevalence of advanced fibrosis (SVR, no ongoing risk factors); high-risk = 30% prevalence (obesity, diabetes, excessive alcohol, human immunodeficiency virus (HIV) or HBV co-infection).
+- **Post-SVR, 9.5 kPa:** misclassifies **~1%** of low-risk and **~7%** of high-risk patients as not having advanced fibrosis — who may then be falsely reassured, discharged from a dedicated liver clinic, and not receive appropriate post-treatment supportive care. Low-risk = 5% prevalence of advanced fibrosis (SVR, no ongoing risk factors); high-risk = 30% prevalence (suspected advanced fibrosis before therapy, or ongoing risk factors — obesity, diabetes, excessive alcohol, human immunodeficiency virus (HIV) or hepatitis B or C co-infection).
 - **HBV, 11.0 kPa:** misclassifies **<1%** of low-risk and **~5%** of high-risk patients as not having cirrhosis, and **~10%–15%** as having cirrhosis when they do not.
 - **Alcoholic liver disease, 12.5 kPa:** in a low-risk cohort (5% advanced-fibrosis prevalence), **0.2%** false negatives and **27.5%** false positives; in a high-risk cohort (30% prevalence, ongoing liver injury — obesity, fatty liver, HIV or HBV co-infection), **~1.5%** false negatives and **20.3%** false positives.
 - **High-risk varices, 19.5 kPa:** misclassifies **0.6%** of low-risk and **~2.2%** of high-risk patients as not having high-risk varices, who may then miss nonselective β-blocker or band-ligation prophylaxis. Low-risk = 5% prevalence of high-risk varices (newly diagnosed compensated cirrhosis, platelet count >150,000/µL, no overt features of portal hypertension); high-risk = 20% prevalence (compensated cirrhosis, platelet count <150,000/µL, no overt features of portal hypertension).
@@ -145,7 +146,7 @@ The panel interpreted every cutoff in explicit prevalence scenarios:
 ### Scope limits the guideline states about itself
 
 - **Do not apply the alcoholic-liver-disease cutoff to acute alcoholic hepatitis** — the 12.5 kPa estimate was derived in chronic alcoholic liver disease and "should not be applied to patients with acute alcoholic hepatitis."
-- **Decompensated cirrhosis, and compensated cirrhosis with known esophageal varices or portal hypertension, were not analyzed** for Q11/Q12 — endoscopic evaluation should be pursued in these patients as per standard clinical practice **without consideration of a VCTE cutoff of 19.5 kPa**.
+- **Decompensated cirrhosis, and compensated cirrhosis with known esophageal varices or portal hypertension, were not analyzed** for Q11/Q12 — for Q11, endoscopic evaluation should be pursued per standard clinical practice **without consideration of a VCTE cutoff of 19.5 kPa**; for Q12, standard clinical practice should be pursued.
 - **Cirrhosis cutoffs should not by themselves drive invasive downstream decisions** (e.g. upper endoscopy to screen for varices) — that decision has its own question and cutoff (Q11).
 - **HCC surveillance with noninvasive tests should ideally include patients with advanced fibrosis (F3), not only cirrhosis** — patients falsely labeled as having cirrhosis frequently have F3 and can still benefit from screening.
 - **In hepatitis C, repeating elastography after viral cure frequently lowers liver stiffness**, reducing the number of patients falsely classified as cirrhotic over time.

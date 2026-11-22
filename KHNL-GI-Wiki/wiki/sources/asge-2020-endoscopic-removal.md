@@ -3,7 +3,8 @@ title: "ASGE 2020: Endoscopic Removal of Colorectal Lesions"
 category: source
 tags: [colonoscopy, polypectomy, emr, esd, colorectal, crc-prevention, advanced-polypectomy]
 created: 2026-05-24
-updated: 2026-09-08
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw:
   - "GI Guidelines/ASGE/ASGE 2020 Endoscopic Removal of Colorectal Lesions.pdf"
@@ -160,11 +161,11 @@ Also narrative: Kudo pit pattern V, white spots (chicken-skin appearance), redne
 
 ### Non-lifting sign
 
-Body section "Non-Lifting Lesions" + Figure 9. The lesion infolds while surrounding normal submucosa expands. May be due to **submucosal invasion** or to **submucosal fibrosis** (prior polypectomy cautery, colitis). Non-lifting areas are difficult to capture with a snare; hot/cold avulsion is described as a salvage technique.
+Body section "Non-Lifting Lesions" + Figure 9. The lesion infolds while surrounding normal submucosa expands. May be due to **submucosal invasion** or to **submucosal fibrosis** (prior biopsy, cautery, or tattoo; LST-NG type). Non-lifting areas are difficult to capture with a snare; hot/cold avulsion is described as a salvage technique.
 
 ### Underwater EMR
 
-Full water immersion obviates submucosal injection: with the lumen distended by water, mucosa and submucosa involute as folds while the muscularis propria remains circular. Borders marked with APC or snare-tip coagulation, then hot snare resection (**Drycut, effect 5, 60 W, ERBE VIO 300D**).
+Full water immersion obviates submucosal injection: with the lumen distended by water, mucosa and submucosa involute as folds while the muscularis propria remains circular. Borders marked with APC or snare-tip coagulation, then hot snare resection (**Drycut, effect 5, 60 W, ERBE VIO 300D** in the text; Table 5 lists underwater EMR at a maximum of 80 W).
 
 - Large LSTs, median 30 mm (range 20–40): **55% removed in 1 piece** with a 33-mm snare; of those 29 en-bloc resections, **79% had histologically free margins**
 - Prospective dual-centre UK study, 97 lesions (median 25 mm, range 10–160): submucosal lift still needed in **30%**, correlating with polyp size ≥30 mm; **adenoma recurrence 13.6%** at median 6 months
@@ -180,9 +181,9 @@ Full water immersion obviates submucosal injection: with the lumen distended by 
 
 ### Colorectal ESD
 
-Indications are "relatively few"; within the gate of a lesion ≥20 mm destined for endoscopic rather than surgical resection in which en-bloc inject-and-cut EMR would be difficult:
+Indications are "relatively few"; within the gate of a lesion >20 mm destined for endoscopic rather than surgical resection in which en-bloc inject-and-cut EMR would be difficult:
 
-- Lesions ≥20 mm with suspected superficial (not deep) SMI not amenable to en bloc EMR
+- Lesions >20 mm suspected to have SMI (eg, large depressed lesion or pseudodepressed LST-NG) not amenable to en bloc EMR
 - Mucosal lesions with submucosal fibrosis
 - Local residual/recurrent early carcinoma after prior endoscopic resection
 - Colitis-associated dysplasia (non-polypoid)

@@ -3,7 +3,8 @@ title: "AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and H
 category: source
 tags: [ascites, sbp, hrs, cirrhosis, liver, paracentesis, hyponatremia, hepatic-hydrothorax, aki, tips, albumin]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2021 Dx Tx Ascites SBP HRS.pdf"
 ---
@@ -215,7 +216,7 @@ RA occurs in ~5%–10% of patients with cirrhosis and ascites; 6-month survival 
 ### TIPS in refractory ascites
 
 - Model for End-Stage Liver Disease (MELD) **≥18** identifies poor TIPS candidates; Figure 3 footnote gives "e.g., MELD >18" as the liver-dysfunction cut-off steering to LT rather than TIPS.
-- Small-diameter (**8–10 mm**) covered (polytetrafluoroethylene [PTFE]) stents lower post-TIPS hepatic encephalopathy without loss of ascites control; guidance statement wording is "coated stent of less than 10 mm."
+- Smaller-diameter (**8–10 mm**) stents lower post-TIPS hepatic encephalopathy without compromising ascites control; polytetrafluoroethylene (PTFE) covering has significantly lessened TIPS dysfunction; guidance statement wording is "coated stent of less than 10 mm."
 - Ascites clearance after TIPS is **not immediate** — neurohormonal suppression and diuresis take 4–6 months; ~80% eventually clear ascites. Failure to clear despite a widely patent TIPS at 12 months → refer for LT.
 - Ascites carries mortality risk ≈4.5 MELD points beyond the score, especially when MELD <21.
 
@@ -259,7 +260,7 @@ Caution (not absolute contraindication) if **systolic blood pressure (BP) <90 mm
 
 - Bacterial infection present in ~⅓ of hospitalized patients with cirrhosis. Spontaneous infections 36% of infections, urinary tract infection (UTI) 22%, pneumonia 19%, skin/soft tissue 8%.
 - Community-acquired ≈50%; health care–associated ≈25% (diagnosed <48 h after admission with health care contact <90 days); nosocomial ≈25% (>48 h after admission).
-- Typically monobacterial; ~60% gram-negative (*E. coli*, then *K. pneumoniae*, *S. aureus*, *E. faecalis*, *E. faecium*); fungi <5%. **Multidrug-resistant organisms (MDRO) account for 35% of infections in cirrhosis.**
+- Typically monobacterial; ~60% gram-negative; organisms mostly enteric (*E. coli*, then *K. pneumoniae*, *S. aureus*, *E. faecalis*, *E. faecium*); fungi <5%. **Multidrug-resistant organisms (MDRO) account for 35% of infections in cirrhosis.**
 - Bedside inoculation of **≥10 mL** ascitic fluid into blood culture bottles raises culture sensitivity to **>90%**.
 - **Bacterascites** (PMN <250/mm³ + positive culture, no signs of infection): do **not** treat — usually self-resolves or is a contaminant; repeat diagnostic paracentesis to check for progression to SBP.
 - A focal intra-abdominal inflammatory source (diverticulitis, cholecystitis) can raise PMN >250/mm³ — treat the specific condition, not SBP, and get a surgical consult.
@@ -272,7 +273,7 @@ Caution (not absolute contraindication) if **systolic blood pressure (BP) <90 mm
 | Infection | Community acquired | Nosocomial / MDRO risk |
 |---|---|---|
 | Spontaneous (peritonitis, bacteremia, empyema) | Third-generation cephalosporin (e.g., IV cefotaxime 2 g q12h) | Piperacillin/tazobactam **AND** daptomycin (if known vancomycin-resistant enterococci [VRE] or gastrointestinal [GI] colonization) **OR** meropenem if known multidrug-resistant (MDR) gram-negatives. Add vancomycin for prior methicillin-resistant *Staphylococcus aureus* (MRSA) infection/positive surveillance swab; meropenem ± glycopeptide if current/recent piperacillin-tazobactam exposure |
-| Pyelonephritis | Fluoroquinolone (ciprofloxacin or levofloxacin) | Third-generation cephalosporin (e.g., ceftriaxone); if recent antibiotic exposure — piperacillin/tazobactam **or** carbapenem |
+| Pyelonephritis | **Uncomplicated:** fluoroquinolone (ciprofloxacin or levofloxacin) | **Severe:** third-generation cephalosporin (e.g., ceftriaxone); if recent antibiotic exposure — piperacillin/tazobactam **or** carbapenem |
 | Pneumonia | Nonsevere: β-lactam + macrolide **or** respiratory fluoroquinolone. Severe: β-lactam + macrolide or β-lactam + fluoroquinolone. Add vancomycin if prior respiratory MRSA | Nonsevere (not septic/intubated): piperacillin/tazobactam **or** cefepime **or** levofloxacin. Severe (sepsis or intubation): piperacillin/tazobactam **or** cefepime **or** meropenem + levofloxacin. Add vancomycin if MRSA culture/screen or antibiotics in last 90 days; add *Pseudomonas* coverage for prior respiratory *Pseudomonas*, recent parenteral antibiotics, or hospitalization |
 | Cellulitis | Moderate (systemic signs): penicillin or ceftriaxone or cefazolin or clindamycin | Severe (failed antibiotics, sepsis): vancomycin + piperacillin/tazobactam |
 
@@ -371,7 +372,7 @@ Best cutoffs for ATN vs other AKI: **365 ng/mL (enzyme-linked immunosorbent assa
 - **Long-term albumin infusion** — ANSWER (38% mortality reduction) vs MACHT (no difference) are discrepant; no recommendation for routine use.
 - **Early TIPS in recurrent (not yet refractory) ascites** — 1-year transplant-free survival 93% vs 53% for repeat LVP in one study, but must be replicated in an RCT before it can be recommended.
 - **Vaptans in ascites** (as opposed to hyponatremia), **MDRO diagnostics**, **renal biomarkers**, **liver allocation after vasoconstrictor response**, and **pediatric evidence** are all listed by the panel as open areas (Table 14).
-- **Figures not reproduced on this page.** The decision content of Figure 2 (diagnostic approach to new-onset ascites), Figure 3 (refractory-ascites treatment algorithm), and Figure 4 (AKI diagnosis/management algorithm) is transcribed above, but the images themselves are not embedded; consult the original for the algorithms as drawn.
+- **Figures not reproduced on this page.** The decision content of Figure 3 (refractory-ascites treatment algorithm) is transcribed above. Figure 2 (diagnostic approach to new-onset ascites — branches by SAAG and ascitic fluid protein) and Figure 4 (AKI diagnosis/management algorithm — stage 1 vs stages 2–3) are not reproduced; consult the original for those algorithms.
 
 ## See Also
 

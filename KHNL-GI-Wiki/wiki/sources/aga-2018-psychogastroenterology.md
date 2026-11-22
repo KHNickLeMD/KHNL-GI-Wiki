@@ -3,8 +3,9 @@ title: "Best Practice Update: Incorporating Psychogastroenterology Into Manageme
 category: source
 tags: [psychogastroenterology, brain-gut-psychotherapy, cognitive-behavior-therapy, gut-directed-hypnotherapy, dgbi, ibs, ibd, quality-of-life, neuromodulators, behavioral-health-referral]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2018 CPU Psychogastroenterology.pdf"
 ---
 
@@ -31,7 +32,7 @@ raw: "GI Guidelines/AGA/AGA 2018 CPU Psychogastroenterology.pdf"
 
 ## Summary
 
-Chronic digestive diseases — irritable bowel syndrome (IBS), gastroesophageal reflux disease (GERD) and inflammatory bowel disease (IBD) among them — cannot be disentangled from their psychological context. The burden of these diseases is **co-determined** by symptom/disease severity *and* by the patient's ability to cope without significant interruption to daily life. Burdens are amplified when symptoms are severe or refractory, when psychiatric comorbidity is present, and when coping skills are impaired. The update frames psychogastroenterology as the field applying scientifically based psychological principles and techniques to digestive symptoms, and argues that the gastroenterologist — not the mental health provider — is the rate-limiting step: without a strong, well-informed recommendation from the gastroenterologist, many patients never receive these treatments at all, or receive them far too late, after self-management has failed and refractory psychopathology and/or inflammatory disease have developed.
+Chronic digestive diseases — irritable bowel syndrome (IBS), gastroesophageal reflux disease (GERD) and inflammatory bowel disease (IBD) among them — cannot be disentangled from their psychological context. The burden of these diseases is **co-determined** by symptom/disease severity *and* by the patient's ability to cope without significant interruption to daily life. Burdens are amplified when symptoms are severe or refractory, when psychiatric comorbidity is present, and when coping skills are impaired. The update frames psychogastroenterology as the field applying scientifically based psychological principles and techniques to digestive symptoms, and argues that referral depends on the gastroenterologist: without a strong, compelling recommendation from the gastroenterologist and knowledge of how to facilitate referral, many patients never receive these treatments at all, or receive them far too late, after self-management has failed and refractory psychopathology and/or inflammatory disease have developed.
 
 The document describes the structure and efficacy of **2 major classes of brain–gut psychotherapy — cognitive-behavior therapy (CBT) and gut-directed hypnotherapy** — and their impact on gastrointestinal (GI) symptoms and on coping, resilience and self-regulation. Brain–gut psychotherapies work on **2 pathways**: they target abdominal pain, visceral hypersensitivity and GI motility; and/or they facilitate improved coping, resilience and self-regulation skills. They are optimally delivered by mental health professionals specializing in psychogastroenterology, and have the capacity to reduce health care utilization and symptom burden **especially when integrated directly into GI practice settings**.
 
@@ -47,7 +48,7 @@ Three tables carry the operative content: **Table 1** (the five Best Practice Ad
 
 **Best Practice Advice 1** *(body text)*: "Gastroenterologists should routinely assess health-related quality of life, symptom-specific anxiety, early life adversity and functional impairment as these relate to a patient's digestive symptoms."
 
-- Table 1 form: "Gastroenterologists should routinely assess health-related QOL, symptom-specific anxieties, early life adversity, and functional impairment as these relate to a patient's digestive symptoms."
+- Table 1 form: "Gastroenterologists should routinely assess health-related QOL, symptom-specific anxieties, early life adversity, and functional impairment related to a patient's digestive symptoms."
 
 **Best Practice Advice 2** *(body text)*: "Gastroenterologists should master patient-friendly language on the following related topics: bi-directional brain–gut pathway and how this pathway can become dysregulated by any number of factors; psychosocial factors that perpetuate or exacerbate GI symptoms regardless of original etiology; and why the gastroenterologist is referring a patient to a mental health provider."
 
@@ -68,7 +69,7 @@ Three tables carry the operative content: **Table 1** (the five Best Practice Ad
 ### Burden and rationale
 
 - Chronic digestive disorders cost the health care system **billions of dollars**.
-- The most chronic digestive disorders are the functional GI and motility disorders; burdens are amplified by severe/refractory symptoms, psychiatric comorbidity, impaired coping.
+- The most common chronic digestive disorders are the functional GI and motility disorders; burdens are amplified by severe/refractory symptoms, psychiatric comorbidity, impaired coping.
 - **Reflux hypersensitivity and functional heartburn:** patients acquire risk from **unnecessary long-term proton pump inhibitor (PPI) use** when esophageal hypervigilance overshadows symptom–reflux correlation.
 - **IBS can progress into severely disabling centrally mediated abdominal pain syndrome**; psychosocial factors **coupled with opiate use increase the risk of narcotic bowel syndrome**.
 - **IBD: 15% of patients account for approximately 50% of health care expenditures** — apparently driven by concomitant chronic pain, depression and poor social support.
@@ -152,10 +153,10 @@ Once the patient understands the brain–gut connection, shift attention to the 
 
 | | Cognitive-behavior therapy (CBT) | Gut-directed hypnotherapy |
 |---|---|---|
-| Evidence base cited | **>30 randomized controlled trials**, number needed to treat **3**; in IBS specifically, >30 trials for CBT and 11 for hypnosis, numbers needed to treat **between 2 and 4** | **>11 randomized controlled trials** across pediatric and adult GI disorders |
+| Evidence base cited | **>30 randomized controlled trials**, number needed to treat **3**; in IBS specifically, >30 trials for CBT and 11 for hypnosis, numbers needed to treat **between 2 and 4** | Well tested across pediatric and adult GI disorders; **>11 randomized controlled trials in IBS** |
 | Conditions | Depressed teenagers with IBD; augmenting self-management behavior in Crohn's disease; functional GI disorders including those in the context of IBD | IBS, heartburn, IBD; also used across non-cardiac chest pain, functional dyspepsia, GERD and IBD (whole class) |
 | Targets | Maladaptive or "unhelpful" thoughts, feelings and behaviors **as they relate to symptoms**, rather than identifying a root cause or initiating event. Specific maladaptive cognitive-affective processes: **catastrophizing, cognitive inflexibility, fear of symptoms, hypervigilance/attentional bias to benign gut sensations** | **Visceral hypersensitivity, motility disturbance, hypervigilance to benign sensations, somatization** |
-| Techniques | **Diaphragmatic breathing, cognitive restructuring, learning new problem-solving skills** — varying forms of skills remediation depending on the patient's GI symptom profile | Scripted protocols; **interoceptive exposure** (building tolerance to unpleasant GI symptoms), with and without mindfulness, is another CBT technique used successfully in patients with symptom-specific anxiety |
+| Techniques | **Diaphragmatic breathing, cognitive restructuring, learning new problem-solving skills** — varying forms of skills remediation depending on the patient's GI symptom profile; **interoceptive exposure** (building tolerance to unpleasant GI symptoms), with and without mindfulness, used successfully in patients with symptom-specific anxiety | Scripted protocols |
 | Dose / delivery | **As few as 4 therapy sessions** with efficacy equivalent to longer treatment courses in IBS; effectively delivered **by nurses, over the telephone, and in groups**; promise when delivered online for both IBS and IBD. **Diaphragmatic breathing elements used for esophageal conditions including rumination disorder and supragastric belching** | **7-session North Carolina Protocol** and **12-session Manchester protocol** — similar benefits in refractory IBS, with **up to 80% of patients acquiring at least a 50% reduction in IBS Severity Scoring**. The **fully scripted North Carolina Protocol** has been delivered as a **home-based therapy**, validated for use with **gastro-esophageal reflux** and **ulcerative colitis**, and is particularly useful for enabling **less-experienced providers** to deliver gut-directed hypnotherapy |
 
 ### Best Practice Advice 3 — who the providers are

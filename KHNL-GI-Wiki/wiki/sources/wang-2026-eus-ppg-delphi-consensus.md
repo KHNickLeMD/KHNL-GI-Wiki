@@ -3,8 +3,9 @@ title: "International Expert Delphi Consensus on Endoscopic Ultrasound-guided Po
 category: source
 tags: [eus, eus-ppg, portal-hypertension, hvpg, consensus, endo-hepatology, interventional-eus]
 created: 2026-08-05
-updated: 2026-09-29
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/Other/Delphi Consensus 2026 EUS-guided Portosystemic Pressure Gradient.pdf"
 ---
 
@@ -18,7 +19,7 @@ raw: "GI Guidelines/Other/Delphi Consensus 2026 EUS-guided Portosystemic Pressur
 
 ## Summary
 
-International expert modified-Delphi consensus on **endoscopic ultrasound (EUS)-guided portosystemic pressure gradient (EUS-PPG)** measurement — a technique (first described 2017) that directly and sequentially measures **hepatic vein and portal vein pressures** via EUS-guided needle puncture, with the gradient = mean portal vein pressure − mean hepatic vein pressure (mmHg). This contrasts with the transjugular **[[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]**, which measures wedged (occluded) hepatic vein pressure as an *indirect* proxy for portal pressure. Because EUS-PPG measures portal pressure directly, it is expected to be more accurate than HVPG when portal hypertension is **presinusoidal** (where wedged pressure underestimates severity) and in **metabolic dysfunction-associated steatohepatitis (MASH)**.
+International expert modified-Delphi consensus on **endoscopic ultrasound (EUS)-guided portosystemic pressure gradient (EUS-PPG)** measurement — a technique (first described 2017) that directly and sequentially measures **hepatic vein and portal vein pressures** via EUS-guided needle puncture, with the gradient = mean portal vein pressure − mean hepatic vein pressure (mmHg). This contrasts with the transjugular **[[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]]**, which measures wedged (occluded) hepatic vein pressure as an *indirect* proxy for portal pressure. Because EUS-PPG measures portal pressure directly, it may be preferred when **presinusoidal** portal hypertension is suspected (where wedged pressure underestimates severity); the panel lists **metabolic dysfunction-associated steatohepatitis (MASH)**, where HVPG may underestimate portal pressure, as a research area.
 
 A steering committee of 8 experts (6 advanced endoscopists, 2 hepatologists) drafted statements across **4 domains**: indications, pre-procedural protocol, intra-procedural technique, and future research. 47 experts (29 advanced endoscopists, 18 hepatologists; expertise defined as ≥15 EUS-PPG procedures in the year before 2023, or being the primary referring hepatologist) were invited; 43 (91%) agreed, 41 participated in round 1, 37 in round 2. Consensus threshold = **≥70% of participants scoring a statement ≥7 ("moderately agree" or higher) on a 1–9 Likert scale.**
 
@@ -28,16 +29,16 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 
 ## Key Findings / Claims
 
-*All 53 consensus statements, verbatim/near-verbatim, grouped by the 6 tabulated categories (which map to the 4 domains). Each shows % Agree / mean Score (1–9) / standard deviation (SD). Statements marked **[Round 2]** did not reach consensus initially and passed on re-vote after revision (the revised wording is what is reproduced). Consensus threshold = ≥70% scoring ≥7.*
+*All 53 consensus statements, verbatim/near-verbatim, grouped by the 6 tabulated categories (the document groups statements into 4 domains stratified into 6 categories; the category and statement numbers 1–53 are the wiki's — the document numbers neither). Each shows % Agree / mean Score (1–9) / standard deviation (SD). Statements marked **[Round 2]** did not reach consensus initially and passed on re-vote after revision (the revised wording is what is reproduced). Four round-1 statements (37, 38, 46, 50) were given minor wording revisions approved in round 2. Consensus threshold = ≥70% scoring ≥7.*
 
-### Domain 1 — Indications
+### Category 1 — Indications
 1. Clinical indications for EUS-PPG measurements include, but are not limited to, all indications for HVPG measurements. — **88% / 8.0 / 1.8**
 2. EUS-PPG measurements have an excellent correlation with clinical parameters of portal hypertension, including the presence of varices, portal hypertensive gastropathy, and thrombocytopenia. — **90% / 7.8 / 1.4**
 3. EUS-PPG should be considered over HVPG measurements in scenarios in which presinusoidal causes of portal hypertension are suspected. — **95% / 8.3 / 1.3**
 4. EUS-PPG may be favored over HVPG measurements from the perspective of patient convenience, particularly if the patient has another indication for either EGD [esophagogastroduodenoscopy] or EUS (eg, liver biopsy, variceal screening/surveillance). — **88% / 8.1 / 1.8**
 5. **[Round 2]** EUS-PPG may also be favored over HVPG from the perspective of patient comfort due to usage of anesthesia. — **72% / 6.8 / 2.4** *(original wording "eg, moderate sedation vs anesthesia" failed at 66%)*
 
-### Domain 2 — General pre-procedure considerations
+### Category 2 — General pre-procedure considerations
 6. EUS-PPG should be avoided in patients with tense or massive ascites but can be considered if pre-procedural large-volume paracentesis is performed. — **80% / 7.3 / 1.9**
 7. EUS-PPG is a safe procedure with minimal risk of adverse events. — **95% / 8.3 / 0.9**
 8. A screening EGD should be done at the time of EUS to assess for and document sequalae of portal hypertension (eg, esophageal varices, gastric varices, portal hypertensive gastropathy). — **88% / 8.1 / 1.6**
@@ -46,7 +47,7 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 11. **[Round 2]** In patients with cirrhosis, no specific platelet or INR cutoff can be recommended for EUS-PPG as these tests poorly reflect procedural bleeding risk. Where available, TEG [thromboelastography] may be a more useful tool to predict bleeding risk in these patients. — **79% / 7.5 / 1.3** *(merged from two failed statements: "avoided if platelets <50 K" [51%] and "cautioned if cirrhosis and PT-INR [prothrombin time–INR] >2.0" [56%])*
 12. **[Round 2]** EUS-PPG is reasonable to perform in patients with mild to moderate (ie, grade 1 or 2) ascites, although it may be prudent to consider therapeutic paracentesis prior to the procedure if technically feasible. — **92% / 7.6 / 1.9** *(original "EUS-PPG is safe in patients with mild to moderate ascites" failed at 66%)*
 
-### Domain 3 — Endoscopy-specific pre-procedure considerations
+### Category 3 — Endoscopy-specific pre-procedure considerations
 13. EUS-PPG should be performed with monitored anesthesia care or general anesthesia to minimize patient discomfort and unintentional movement during the procedure. — **83% / 7.9 / 2.3**
 14. Patients can be positioned either supine or left lateral decubitus. — **72% / 6.7 / 2.9**
 15. When the patient is in the supine position, the patient should be flat, and the manometer should be centered at the level of the right atrium (mid-axillary line). — **100% / 8.5 / 0.8**
@@ -56,7 +57,7 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 19. **[Round 2]** When consenting patients for the EUS-PPG procedure, endoscopists can cite similar risks associated with an EUS-FNA [fine-needle aspiration] procedure, such as infection and bleeding. — **96% / 7.9 / 1.5** *(original "the same risks associated with an EUS-FNA procedure" failed at 65%)*
 20. **[Round 2]** Peri-procedural antibiotics should be considered. — **74% / 6.9 / 2.3** *(original "should be administered" failed at 65%)*
 
-### Domain 4 — Intra-procedure considerations prior to measurements
+### Category 4 — Intra-procedure considerations prior to measurements
 21. Once zeroed, the entire device should then be flushed with heparinized or normal saline; great care must be taken to avoid any air bubbles. — **100% / 8.8 / 1.0**
 22. The manometer should be fixated in a stable and consistent position during the procedure. — **100% / 8.7 / 0.9**
 23. The optimal approach for EUS-PPG measurements is the transgastric approach through the liver parenchyma. However, a transduodenal approach may occasionally be required. — **77% / 7.7 / 1.8**
@@ -68,7 +69,7 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 29. **[Round 2]** Endoscopic suction should be cautioned during and after EUS-PPG device insertion into the endoscope instrument channel. — **77% / 7.2 / 1.6** *(original "should be avoided" failed at 44%)*
 30. **[Round 2]** If the hepatic vein is not readily accessible, the intrahepatic portion of the IVC [inferior vena cava] may be a reasonable alternative target in place of the hepatic vein. — **91% / 7.9 / 1.1** *(original — plain "the IVC is a reasonable alternative" — failed at 69%)*
 
-### Domain 5 — Intra-procedure considerations during measurements
+### Category 5 — Intra-procedure considerations during measurements
 31. A minimum of 3 sequential, tightly clustered measurements should be taken for each vascular target to ensure values are reproducible. Measurements should be ≤2 mmHg of each other. The mean value should be reported. — **96% / 8.5 / 1.0**
 32. After each flush, the manometer readings should peak, then drop, and eventually plateau at a stable value for at least 10 seconds (range of ≤1 mmHg). — **100% / 8.5 / 0.9**
 33. After each flush, the heparin syringe plunger should not be touched during measurements to avoid inadvertent pressure and falsely elevated readings. — **100% / 8.7 / 0.9**
@@ -83,7 +84,7 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 42. If there are unavoidable changes to anesthesia during or in between measurements, events such as timing of boluses, increases, and decreases to anesthesia dosing should be carefully documented in the procedure report. — **84% / 7.6 / 1.2**
 43. If there are unavoidable changes to anesthesia during or in between measurements, repeat measurements should be considered under steady-state anesthesia conditions. — **96% / 8.4 / 0.9**
 
-### Domain 6 — Future research directions
+### Category 6 — Future research directions
 44. Further research is necessary to evaluate the clinical utility of EUS-PPG measurements in predicting long-term outcomes in patients with cirrhosis and portal hypertension. — **90% / 8.3 / 1.2**
 45. Particular attention should be focused on the impact of EUS-PPG in guiding management of compensated cirrhosis and subclinical portal hypertension. — **98% / 8.2 / 1.4**
 46. Further research is needed to assess the impact of EUS-PPG in preoperative assessment and risk stratification of patients suspected to have portal hypertension prior to their hepatic and nonhepatic surgery. — **90% / 8.2 / 1.1**
@@ -108,14 +109,14 @@ Correlation data cited: EUS-PPG vs HVPG intraclass correlation coefficient (ICC)
 
 - **[[interventional-eus-vascular]]** (exists) — primary home for EUS-PPG technique. Should gain: the full intra-procedure technique consensus (Statements 21–43) — manometer zeroing/flush with heparinized or normal saline avoiding air bubbles, transgastric-through-parenchyma approach for tamponade, Doppler-guided targeting, ideal targets (left+middle hepatic veins; umbilical portion of left portal vein), the reproducibility rule (≥3 measurements within ≤2 mmHg, report the mean; plateau ≥10 s within ≤1 mmHg; repeat if >60 s), and the anesthesia/intravenous-fluid steady-state requirements. Also the safety data (<1% adverse events; n=385 zero bleeds) and the coagulation guidance (no platelet/INR cutoff, use TEG/TEM; Statement 11).
 - **`hepatic-venous-pressure-gradient` / `eus-ppg`** — a dedicated EUS-PPG procedure page and/or an HVPG concept page are the natural homes for Statements 1–4, 27 (definition/calculation), and the EUS-PPG-vs-HVPG comparison (presinusoidal underestimation, MASH, correlation coefficients).
-- **[[portal-hypertension]]** (exists) — should gain: EUS-PPG as an emerging direct portal-pressure measurement, preferred over HVPG for suspected **presinusoidal / noncirrhotic** portal hypertension (Statement 3, 95%) and MASH (where wedged pressure underestimates portal pressure); "one-stop-shop" combination with variceal screening EGD + EUS liver biopsy (Statements 4, 8, 10). Cross-link to HVPG/clinically significant portal hypertension (CSPH) thresholds already on the page.
+- **[[portal-hypertension]]** (exists) — should gain: EUS-PPG as an emerging direct portal-pressure measurement, may be preferred over HVPG when **presinusoidal** causes are suspected (Statement 3, 95%); noncirrhotic portal hypertension and MASH (HVPG may underestimate portal pressure) are research areas (Statements 47, 50); "one-stop-shop" combination with variceal screening EGD + EUS liver biopsy (Statements 4, 8, 10). Cross-link to HVPG/clinically significant portal hypertension (CSPH) thresholds already on the page.
 - **[[endoscopic-ultrasound]]** (exists) — add EUS-PPG to the therapeutic/diagnostic EUS applications and link to the technique page.
-- **[[tips]]** (exists) — minor: post-TIPS direct transjugular portal pressure correlated best with EUS-PPG (r=0.91); EUS-PPG may be a future tool for pre/post-shunt hemodynamic assessment (future-research Statement 51).
+- **[[tips]]** (exists) — minor: post-TIPS direct transjugular portal pressure correlated best with EUS-PPG (r=0.91); no consensus statement addresses TIPS.
 
 ## Contradictions / Open Questions
 
-- **No platelet/INR cutoff (Statement 11)** deliberately departs from the typical "avoid if platelets <50 K / caution if INR >2.0" thresholds used for other EUS procedures — the consensus rejects those cutoffs for EUS-PPG in cirrhosis (they poorly predict bleeding), favoring TEG/TEM. This should be surfaced against any wiki page that still cites platelet/INR thresholds for periprocedural bleeding risk in cirrhosis (cf. American Association for the Study of Liver Diseases [AASLD] 2020 vascular-liver-disorders guidance).
-- **Anesthesia depresses portal/hepatic pressures** — ENCOUNTER found propofol general anesthesia (GA) lowers HVPG; the consensus mandates MAC/GA (Statement 13) yet flags that anesthesia itself may bias absolute pressure values (Statements 41–43, 49). Open question: preferred anesthesia strategy and whether a correction factor is needed when comparing EUS-PPG to HVPG.
+- **No platelet/INR cutoff (Statement 11)** deliberately departs from the typical "avoid if platelets <50 K / caution if INR >2.0" thresholds used for other EUS procedures — the consensus rejects those cutoffs for EUS-PPG in cirrhosis (they poorly predict bleeding), favoring TEG/TEM. This should be surfaced against any wiki page that still cites platelet/INR thresholds for periprocedural bleeding risk in cirrhosis (the consensus cites American Association for the Study of Liver Diseases [AASLD] 2020 guidance in support of platelets/INR being poor predictors of bleeding).
+- **Anesthesia depresses portal/hepatic pressures** — ENCOUNTER found propofol general anesthesia (GA) lowers HVPG; the consensus says EUS-PPG should be performed with MAC/GA (Statement 13) yet flags that anesthesia itself may bias absolute pressure values (Statements 41–43, 49). Open question: preferred anesthesia strategy and whether a correction factor is needed when comparing EUS-PPG to HVPG.
 - **Weak/borderline consensus items** (near the 70% floor, high SD): patient positioning either supine or left lateral decubitus (14, 72%), patient-comfort advantage over HVPG (5, 72%), peri-procedural antibiotics "should be considered" (20, 74%), umbilical left portal vein as ideal target (28, 76%), transgastric optimal approach (23, 77%), endoscopic suction cautioned (29, 77%). These reflect genuine practice variability, not settled standards.
-- **Generalizability:** 85% of participants were North American, most at liver-transplant academic centers with Cook Medical relationships; only the compact-manometer EUS-PPG system (US FDA-approved) was represented — centers using alternative pressure-transducing strategies were not invited. Expertise threshold was only ≥15 procedures.
+- **Generalizability:** 85% of participants were North American, most at liver-transplant academic centers, many with industry relationships; only the compact-manometer EUS-PPG system (US FDA-approved) was represented — centers using alternative pressure-transducing strategies were not invited. Expertise threshold was only ≥15 procedures.
 - **No outcome data yet:** the consensus is explicit that EUS-PPG's link to long-term clinical outcomes (decompensation, mortality), its validation vs noninvasive tests, and its cost-utility vs HVPG are all unproven (future-research domain).

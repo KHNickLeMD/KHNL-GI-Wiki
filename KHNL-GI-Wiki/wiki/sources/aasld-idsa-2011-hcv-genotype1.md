@@ -3,7 +3,8 @@ title: "AASLD Practice Guideline: An Update on Treatment of Genotype 1 Chronic H
 category: source
 tags: [hepatitis-c, HCV, boceprevir, telaprevir, peginterferon, ribavirin, protease-inhibitor, il28b, genotype-1]
 created: 2026-06-10
-updated: 2026-10-08
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD IDSA 2011 Hepatitis C Update.pdf"
 ---
@@ -22,7 +23,7 @@ raw: "GI Guidelines/AASLD/AASLD IDSA 2011 Hepatitis C Update.pdf"
 ## Summary
 This 2011 AASLD update added the first two DAAs — the hepatitis C virus (HCV) nonstructural protein 3/4A (NS3/4A) protease inhibitors **boceprevir** and **telaprevir** — to the prior standard of care (SOC), peginterferon alfa (PegIFN) + ribavirin (RBV), for genotype 1 chronic [[hepatitis-c|hepatitis C]]. Triple therapy raised sustained virologic response (SVR) rates substantially over PegIFN/RBV alone but introduced **response-guided therapy (RGT)**, futility (stopping) rules, and new toxicities — anemia with both agents, rash with telaprevir. Neither protease inhibitor (PI) may be given without PegIFN alfa and weight-based RBV; as monotherapy each rapidly selects resistant variants.
 
-Scope is deliberately narrow: the guideline states what treatment for genotype 1 chronic HCV is now regarded as optimal, and **does not address prioritization, patient selection for treatment, or treatment of special populations**. Neither PI should be used for genotype 2 or 3 infection. Recommendations are graded with the AASLD Class 1/2/2a/2b/3 + Level A/B/C scheme adapted from the American College of Cardiology (ACC) and American Heart Association (AHA) — **not GRADE**.
+Scope is deliberately narrow: the guideline states what treatment for genotype 1 chronic HCV is now regarded as optimal, and **does not address prioritization of patient selection for treatment, or treatment of special populations**. Neither PI should be used for genotype 2 or 3 infection. Recommendations are graded with the AASLD Class 1/2/2a/2b/3 + Level A/B/C scheme adapted from the American College of Cardiology (ACC) and American Heart Association (AHA) — **not GRADE**.
 
 The content is now of historical interest only: both agents were withdrawn and the interferon-based paradigm was replaced by interferon-free DAA regimens. It is preserved to document the transitional first-generation PI era and the origins of RGT and IL28B-based prognostication.
 
@@ -98,7 +99,7 @@ The content is now of historical interest only: both agents were withdrawn and t
 | Telaprevir | Re-treatment | HCV RNA still detectable at >1,000 IU/mL at **week 4 or 12** |
 | Either | Any | Discontinue the PI for virologic breakthrough (>1 log rise above nadir) |
 
-- The narrative text states the week-24 cut-points explicitly as >10–15 IU/mL (i.e. detectable) for both drugs, and gives the telaprevir week-4/12 threshold as ≥1,000 IU/mL; the numbered recommendations use >1,000 IU/mL and "detectable."
+- The narrative text states the week-24 cut-point as >10–15 IU/mL (i.e. detectable) (p 1442), though the boceprevir section on p 1435 prints ≥100 IU/mL at week 12 and ≥10–15 IU/mL at week 24, and gives the telaprevir week-4/12 threshold as ≥1,000 IU/mL; the numbered recommendations use >1,000 IU/mL and "detectable."
 - Week 4 and 12 on triple therapy are the key decision points; viral stopping rules varied widely across the phase 2 and 3 trials.
 
 ## Key Findings / Claims — Recommendations
@@ -113,7 +114,7 @@ All 18 numbered recommendations, near-verbatim (American College of Cardiology/A
 7. Patients without cirrhosis on telaprevir triple therapy whose HCV RNA at weeks 4 and 12 is undetectable should be considered for shortened therapy of 24 weeks. (Class 2a, Level A)
 8. Patients with cirrhosis on either boceprevir or telaprevir triple therapy should receive 48 weeks of therapy. (Class 2b, Level B)
 9. Stop all three drugs (telaprevir, peginterferon, ribavirin) if HCV RNA is >1,000 IU/mL at weeks 4 or 12 and/or detectable at week 24. (Class 2a, Level B)
-10. (Treatment-experienced) Re-treatment with boceprevir or telaprevir + peginterferon + weight-based ribavirin can be recommended for prior relapsers or partial responders to standard/peginterferon ± ribavirin. (Class 1, Level A)
+10. (Treatment-experienced) Re-treatment with boceprevir or telaprevir + peginterferon + weight-based ribavirin can be recommended for prior relapsers or partial responders after a prior course of standard interferon alfa or peginterferon alfa and/or ribavirin. (Class 1, Level A)
 11. Re-treatment with telaprevir + peginterferon + ribavirin may be considered for prior null responders. (Class 2b, Level B)
 12. Response-guided therapy of treatment-experienced patients using either a boceprevir- or telaprevir-based regimen:
     - **can be considered for relapsers** — Class 2a, Level B for boceprevir; Class 2b, Level C for telaprevir

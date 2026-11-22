@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary"
 category: source
 tags: [lifting-agents, submucosal-injection, emr, esd, polypectomy, indigo-carmine, epinephrine]
 created: 2026-06-27
-updated: 2026-10-15
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2025 CPU Endoscopic Lifting Agents.pdf"
 ---
@@ -37,14 +38,14 @@ Both are stated as what clinicians should do; the document assigns **no evidence
 - **Consider NS with a contrast agent** when performing polypectomy of intermediate-size NPCRLs or gastric polyps (**10–19 mm**) and POEM.
 - **Avoid NS with a contrast medium as the *only* agent** when performing ESD anywhere in the gastrointestinal tract — NS-based agents dissipate too rapidly, so a viscous agent is important during ESD, especially for the initial lift and incision.
 
-### Where injection is optional, preferred, or first-line (US Multi-Society Task Force positions quoted by the update)
+### Where injection is optional, preferred, or first-line (USMSTF positions and other evidence quoted by the update)
 
 | Lesion | Position |
 |---|---|
 | NPCRL, intermediate size **10–19 mm** | Submucosal injection **optional** |
-| NPCRL **≥20 mm** | **EMR first-line therapy**; VSs **preferred** (resection in less time, fewer pieces) |
-| NPCRL **≤15 mm** | Cold snare polypectomy **without** injection non-inferior to injection-based methods |
-| Pedunculated polyps | Lifting agent **at the endoscopist's discretion** |
+| NPCRL **≥20 mm** | **EMR first-line therapy for most** (USMSTF); VSs **preferred** (resection in less time, fewer pieces) |
+| NPCRL **≤15 mm** | Cold snare polypectomy **without** injection non-inferior to injection-based methods (a subsequent study, not USMSTF) |
+| Pedunculated polyps | Lifting agent **at the endoscopist's discretion** (uncited) |
 
 ### Injection strategy by lesion size and visibility (three strategies)
 
@@ -97,10 +98,10 @@ Both are stated as what clinicians should do; the document assigns **no evidence
 
 ## Contradictions / Open Questions
 - **Narrative commentary — the document states plainly that no formal rating of quality of evidence or strength of recommendations was performed**, and it numbers none of its statements. Nothing on this page should be cited as graded.
-- **No clear superiority of proprietary agents over saline for routine EMR of most lesions.** VSs win on en bloc and residual-lesion rates in meta-analysis, but adverse events do not differ and the head-to-head randomized trial against NS found differences only in injected volume. Agent choice is driven by lesion size and fibrosis, predicted histology, local expertise, and cost.
-- **Two of the listed agents are not usable in the United States** — succinylated gelatin is not available, and glycerol has limited availability — yet both occupy rows in the agent table.
+- **VSs give higher complete and en bloc resection and lower residual-polyp rates in meta-analysis** (and USMSTF calls them preferred for ≥20 mm), but adverse events do not differ and the head-to-head randomized trial against NS found differences only in injected volume. Agent choice is driven by planned resection method, lesion size, predicted histology, local expertise and preferences, and cost.
+- **US availability:** succinylated gelatin is not available in the United States (it has a row in the agent table); glycerol has limited US availability.
 - **Epinephrine's own trade-off is unresolved:** it gives a cleaner field and less intraprocedural oozing, but serial injections of dilute epinephrine into the submucosa **may cause post-procedure abdominal pain**, which is then hard to distinguish from perforation or post-polypectomy syndrome in the first hour.
-- **Two agents were withdrawn or abandoned for harms discovered after approval**, which is the reason to read the table as current rather than permanent: 50% dextrose caused a painful inflammatory response resembling post-coagulation syndrome when injected into the pericolonic mesentery, and ORISE was removed from the world market in **December 2022** after distorted post-resection scars were misread as submucosal tumor.
+- **Two agents left use because of harms**, which is the reason to read the table as current rather than permanent: 50% dextrose fell out of use because it caused a painful inflammatory response resembling post-coagulation syndrome when injected into the pericolonic mesentery, and ORISE was removed from the world market in **December 2022** after distorted post-resection scars were misread as submucosal tumor.
 
 ## See Also
 

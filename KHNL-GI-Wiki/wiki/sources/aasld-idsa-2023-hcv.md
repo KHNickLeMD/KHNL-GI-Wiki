@@ -3,7 +3,8 @@ title: "AASLD-IDSA 2023 Hepatitis C Guidance Update"
 category: source
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, screening, treatment, retreatment, transplant, pregnancy, PWID, HIV]
 created: 2026-05-28
-updated: 2026-09-29
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD IDSA 2023 Hepatitis C.pdf"
 ---
@@ -25,11 +26,11 @@ Recommendations are evaluated using a modified American College of Cardiology Fo
 
 Key changes from 2020:
 
-- Universal screening recommendation broadened; simplified algorithm now includes HIV coinfected persons
-- Glecaprevir/pibrentasvir (G/P) 8 weeks now approved for compensated cirrhosis (EXPEDITION-8 trial)
+- Ongoing emphasis on universal screening; simplified algorithm now includes HIV coinfected persons
+- Glecaprevir/pibrentasvir (G/P) shortened to 8 weeks for compensated cirrhosis (EXPEDITION-8 trial)
 - New incomplete adherence algorithm based on days missed and timing
 - HCV treatment recommended for incarcerated persons
-- Post-transplant direct-acting antiviral (DAA) data extended; HCV-viremic donor organs → prophylactic/preemptive DAA within first week
+- Post-transplant direct-acting antiviral (DAA) data extended; HCV-viremic donor organs → prophylactic/preemptive DAA (non-liver organs: day 0 to within the first week; liver: within 2 weeks, preferably within the first week)
 
 ## Recommendations
 
@@ -37,15 +38,15 @@ Key changes from 2020:
 
 **Universal HCV screening:**
 
-- Universal HCV antibody screening recommended for all adults ≥18 years (US Preventive Services Task Force [USPSTF], grade B) and all pregnancies; reflex HCV RNA with positive antibody to establish active infection vs. spontaneous clearance
-- Annual HCV RNA testing for PWID with ongoing injection drug use (IDU) regardless of prior testing or past negative results
+- Universal HCV antibody screening recommended for all adults ≥18 years (the US Preventive Services Task Force [USPSTF] recommended screening ages 18–79 in 2020) and all pregnancies; reflex HCV RNA with positive antibody to establish active infection vs. spontaneous clearance
+- Annual HCV testing for PWID with ongoing injection drug use (IDU), regardless of no prior testing or past negative testing; at least annual HCV RNA testing for PWID with recent IDU after spontaneous clearance or cure
 
 **Simplified treatment eligibility criteria:**
 
 - **Eligible for simplified algorithm:** Adults with chronic HCV (including persons living with HIV), any genotype, not previously treated for HCV, **without cirrhosis OR with compensated cirrhosis (Child-Pugh A)**. Cirrhosis is established by **any one** of: liver stiffness **>12.5 kPa** by FibroScan; **Fibrosis-4 Index (FIB-4) >3.25**; a noninvasive serologic test (FibroSure or enhanced liver fibrosis test); liver biopsy; liver nodularity or splenomegaly on imaging; platelet count **<150,000/mm³**
 - **Excluded from simplified algorithm:** previously received HCV treatment; hepatitis B surface antigen (HBsAg)-positive; compensated cirrhosis (Child-Pugh A) **with** end-stage renal disease (estimated glomerular filtration rate [eGFR] <30 mL/min/m²); current or prior decompensated cirrhosis (**Child-Pugh score ≥7**); current pregnancy; known or suspected hepatocellular carcinoma (HCC); prior liver transplantation
   - Child-Pugh score here is based on presence of ascites, hepatic encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or international normalized ratio (INR) ≥1.7
-- Minimal monitoring: No pretreatment genotyping; dispense entire treatment course at entry; no scheduled on-treatment visits or labs; remote contact at week 4 (adherence); sustained virologic response (SVR) at week 22 (week 24 completion). MINMON trial (phase 4, n=400): SVR 95% (379/399)
+- Minimal monitoring: No pretreatment genotyping; dispense entire treatment course at entry; no scheduled on-treatment visits or labs; remote contact at week 4 (adherence); remote contact at week 22 to schedule sustained virologic response (SVR) assessment at week 24. MINMON trial (phase 4, n=400): SVR 95% (379/399)
 
 ### Initial Treatment Recommendations — Adults (Table 1)
 
@@ -64,7 +65,7 @@ Key changes from 2020:
 
 ᵃ I,B for persons with compensated cirrhosis. ᵇ I,B for GT5 or 6. ᶜ IIa,B for GT5 or 6, and for GT4 + compensated cirrhosis. ᵈ IIa,B for GT4 + compensated cirrhosis.
 
-**G/P 8 weeks for compensated cirrhosis:** EXPEDITION-8 trial (GT1-6, n=343): SVR at 12 weeks (SVR12) 98% (335/343). No NS5A/NS3/4A resistance association with failure.
+**G/P 8 weeks for compensated cirrhosis:** EXPEDITION-8 trial (GT1-6, n=343): SVR at 12 weeks (SVR12) 98% (335/343).
 
 Elbasvir/grazoprevir for GT1a changed from Recommended to Alternative due to need for baseline NS5A RAS testing.
 
@@ -88,12 +89,12 @@ Applicable to treatment-naive persons without cirrhosis or with compensated cirr
 **Interruptions BEFORE receiving 28 days of DAA therapy:**
 
 - Missed ≤7 days: Restart DAA immediately; complete for originally planned duration (8 or 12 weeks)
-- Missed ≥8 days: Restart DAA immediately (precedence over obtaining HCV RNA); obtain HCV RNA same day as restart (preferably). If RNA negative → complete originally planned course (8 or 12 weeks); extend by 4 weeks for GT3 and/or compensated cirrhosis. If RNA positive (>25 IU/L) or not obtained → extend DAA by an additional 4 weeks.
+- Missed ≥8 days: Restart DAA immediately (precedence over obtaining HCV RNA); obtain HCV RNA same day as restart (preferably). If RNA negative → complete originally planned course (8 or 12 weeks), extended so the patient receives the total planned dosage (total number of daily pills); extend by 4 weeks for GT3 and/or compensated cirrhosis. If RNA positive (>25 IU/L) or not obtained → extend DAA by an additional 4 weeks.
 
 **Interruptions AFTER receiving ≥28 days of DAA therapy:**
 
 - Missed ≤7 days: Restart DAA; complete originally planned duration
-- Missed 8–20 consecutive days: Restart DAA; obtain RNA same day. If RNA negative → complete planned course; extend 4 weeks if GT3 and/or compensated cirrhosis. If RNA positive (>25 IU/L) → stop treatment; retreat per retreatment section.
+- Missed 8–20 consecutive days: Restart DAA; obtain RNA same day. If RNA negative → complete planned course (extended so the patient receives the total planned dosage); extend 4 weeks if GT3 and/or compensated cirrhosis. If RNA positive (>25 IU/L) or not obtained → stop treatment; retreat per retreatment section.
 - Missed ≥21 consecutive days: Stop DAA; assess for SVR12. If SVR12 not achieved, retreat.
 
 ### Retreatment Recommendations — Adults (Table 2)
@@ -102,7 +103,7 @@ Applicable to treatment-naive persons without cirrhosis or with compensated cirr
 
 | Regimen | Genotype | Duration | Rating | Caveats |
 |---|---|---|---|---|
-| SOF/VEL/VOX | 1–6 | 12 wk | I, A | GT3 + comp cirrhosis: add wt-based RBV; consider extending to 24 wk |
+| SOF/VEL/VOX | 1–6 | 12 wk | I, A | GT3 + comp cirrhosis: add wt-based RBV |
 | Glecaprevir/pibrentasvir | 1, 2, 4, 5, 6 | 16 wk | I, A | Alternative; not for prior NS5A inhibitor + NS3/4A protease inhibitor exposure |
 
 **G/P failure without cirrhosis or with compensated cirrhosis:**
@@ -110,7 +111,7 @@ Applicable to treatment-naive persons without cirrhosis or with compensated cirr
 | Regimen | Duration | Rating |
 |---|---|---|
 | G/P + sofosbuvir + wt-based RBV | 16 wk | IIa, B |
-| SOF/VEL/VOX | 12 wk | IIa, B |
+| SOF/VEL/VOX | 12 wk | IIa, B — compensated cirrhosis: add weight-based RBV (IIa, C) |
 
 MAGELLAN-3 trial: G/P + SOF + wt-RBV → SVR12 96% (22/23) in heavily DAA-experienced; 16 weeks recommended for prior G/P failure.
 
@@ -128,6 +129,8 @@ MAGELLAN-3 trial: G/P + SOF + wt-RBV → SVR12 96% (22/23) in heavily DAA-experi
 | SOF/VEL + wt-based RBV | 24 wk | II, Cᵃ |
 | LDV/SOF + wt-based RBV | 24 wk | II, Cᵇ |
 
+Both rows: low initial ribavirin dose (600 mg) for Child-Turcotte-Pugh (CTP) class C cirrhosis; increase as tolerated.
+
 ᵃ Only available data for GT5 or 6 are in persons with compensated cirrhosis. ᵇ Only available data for GT6 are in persons with compensated cirrhosis.
 
 ### Pediatric Treatment (≥3 years, Tables 3–4)
@@ -142,7 +145,7 @@ Treat all HCV-infected children and adolescents ≥3 years with an approved DAA 
 | Sofosbuvir/velpatasvir | 1–6 | 12 wk | I, B |
 | Ledipasvir/sofosbuvir | 1, 4, 5, 6 | 12 wk | I, B |
 
-Retreatment for pediatric patients follows similar principles to adults (Table 4 in source).
+Pediatric retreatment has its own regimen set (guidance Table 4, all rated I, C), which differs from the adult durations — consult that table.
 
 ### Posttransplant Treatment (Table 5)
 
@@ -160,7 +163,7 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 
 **Recurrent HCV post kidney transplant without cirrhosis or with compensated cirrhosis:**
 
-- G/P 12 wk (GT 1–6, Recommended, I, Aᵃ/IIa, Cᵇ)
+- G/P 12 wk (GT 1–6, Recommended, I, A without cirrhosis / IIa, C compensated cirrhosis)
 - SOF/VEL 12 wk (GT 1–6, Recommended, IIa, C)
 - LDV/SOF 12 wk (GT 1, 4, 5, 6, Recommended, I, A)
 
@@ -202,7 +205,7 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 
 **MSM (non-HIV):** HCV testing at HIV pre-exposure prophylaxis (PrEP) initiation and annually thereafter. For high-risk sexually active MSM: annual HCV RNA after SVR.
 
-**Incarcerated persons:** Opt-out HCV antibody testing (universal); treat while incarcerated if sentence length is sufficient to complete recommended DAA course. De-escalate of antibiotics and de-escalation is cost-effective (DAAs halt HCV progression, reduce HCC/decompensation, offset future healthcare costs).
+**Incarcerated persons:** Opt-out HCV antibody testing (universal); treat while incarcerated if sentence length is sufficient to complete recommended DAA course. HCV treatment in correctional settings is cost-effective (DAAs halt HCV progression, reduce HCC/decompensation, offset future healthcare costs).
 
 ## Relevance to Wiki
 
