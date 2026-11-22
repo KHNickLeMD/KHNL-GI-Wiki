@@ -4,6 +4,8 @@ category: general-procedure
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [easl-2025-autoimmune-hepatitis, aga-2026-metald, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension, aga-2017-elastography-liver-fibrosis]
 ---
 
@@ -88,7 +90,7 @@ The full CSPH pathway, the "rule of 5" and treatment decisions live on **[[porta
 | **<40 kPa** | Spares screening EGD in NSBB-ineligible cACLD | Baveno VIII 1.19 |
 | **<25 kPa + LSM <15 kPa** | May rule out CSPH after recompensation | Baveno VIII 7.19b |
 
-- **AASLD 2024 does not address variceal screening.** AASLD 2023 cites the **Baveno VI** criteria for skipping screening: **LSM <20 kPa and platelets >150 K/mm³**.
+- **AASLD 2024 does not address variceal screening.** AASLD 2023 cites the **Baveno VI** criteria for skipping screening: **LSM <20 kPa and platelets ≥150 K/mm³** (Figure 3).
 - Baveno VIII 1.19: NSBB-ineligible cACLD → EGD **unless LSM <20 kPa and platelets ≥150 ×10⁹/L, or SSM <40 kPa**. Full pathway on [[portal-hypertension]].
 - Baveno VII's SSM pair (<21 kPa rule-out / >50 kPa rule-in, viral cACLD only; 2.21) is not restated in Baveno VIII.
 
@@ -97,8 +99,8 @@ The full CSPH pathway, the "rule of 5" and treatment decisions live on **[[porta
 > [!pitfall] Cut-offs not validated in autoimmune hepatitis
 > The ≤15 kPa + platelets ≥150 ×10⁹/L rule-out and ≥25 kPa rule-in were derived in viral, alcohol and MASLD populations: up to **52%** with [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] and clear portal hypertension had LSM below them; [[thiopurines]] and mycophenolate mofetil lower platelets ([[easl-2025-autoimmune-hepatitis]]).
 
-- **AIH** ([[easl-2025-autoimmune-hepatitis]]): fibrosis accurately assessable only **after 6 months of immunosuppression**; **9 kPa** severe fibrosis, **12.5–16 kPa** cirrhosis; transient elastography recommended for monitoring (LoE 3, strong), serial LSM e.g. **every 12 months**. EGD for varices needing treatment if **LSM ≥20 kPa or platelets ≤150 ×10⁹/L**.
-- **[[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)/non-cirrhotic portal fibrosis (NCPF)]]:** LSM-based criteria cannot be applied (Baveno VIII 8.48); **SSM <40 kPa with bilirubin <1 mg/dL** spares endoscopy (8.47).
+- **AIH** ([[easl-2025-autoimmune-hepatitis]]): fibrosis accurately assessable only **after 6 months of immunosuppression**; **9 kPa** severe fibrosis, **12.5–16 kPa** cirrhosis; transient elastography recommended for monitoring (LoE 3, strong), serial LSM e.g. **every 12 months**. In AIH-related cirrhosis, EGD for varices needing treatment if **LSM ≥20 kPa or platelets ≤150 ×10⁹/L**.
+- **[[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)/non-cirrhotic portal fibrosis (NCPF)]]:** LSM-based criteria for variceal screening cannot be applied (Baveno VIII 8.48); **SSM <40 kPa with bilirubin <1 mg/dL** spares endoscopy (8.47).
 - **Children:** LSM helps identify those at risk of portal hypertension and monitor progression, but management cannot rely on LSM and/or SSM alone — paediatric [[variceal-upper-gi-bleeding|varices]] cut-offs need validation (Baveno VIII 1.25–1.26).
 
 ### Etiology-specific VCTE cutoffs — AGA 2017
@@ -126,7 +128,7 @@ Cutoffs for *histologic cirrhosis*, each chosen to **minimize false negatives** 
 
 ## Monitoring & confounders
 
-- **Repeat:** Baveno VIII — NITs for CSPH **every 12 months** in cACLD (1.9). AASLD — annual LSM + platelets may give prognostic information in cACLD without baseline CSPH whose aetiology remains active/uncontrolled (AASLD 2023 Statement 8; AASLD 2024 Statement 4, ungraded).
+- **Repeat:** Baveno VIII — NITs for CSPH **every 12 months** in cACLD (1.9). AASLD — annual LSM + platelets may give prognostic information in cACLD without baseline CSPH whose aetiology remains active/uncontrolled (AASLD 2023 Statement 8). AASLD 2024 Statement 4 (ungraded): serial LSM + platelets may be followed to monitor for progression to CSPH in adults with CLD without baseline CSPH whose etiology is active/uncontrolled.
 - **The most recent value guides decisions** (Baveno VIII 1.10).
 - **Caution with longitudinal change:** AASLD 2024 **suggests caution** using LSM or SSM to detect change in portal hypertension in cirrhosis on treatment or with known portal hypertension (Statement 5; conditional, low). Baveno VIII quantifies meaningful change in the **risk of liver-related events**, not fibrosis stage (2.8):
 
