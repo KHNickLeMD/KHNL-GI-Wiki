@@ -89,7 +89,7 @@ In validation, **PB FISH polysomy detected malignancy with 64.7% sensitivity aga
 ## Relevance to Wiki
 
 - **[[fish]]** — closes the gap the page declares in its own text: *"Neither ACG 2023 nor ASGE 2023 defines polysomy cytogenetically — neither states how many cells or which probe gains are required to call a result polysomic."* The page now carries the cell-type definitions, the cut-offs, and the probe set.
-- **Net-new and decision-relevant:** that **only polysomy is positive** and every other abnormality is **equivocal**; that the polysomy cut-off is an **absolute count (≥4 cells), not a percentage**; and that **the probe set in use may be either UroVysion or PB FISH**, with materially different sensitivity — so a report saying "FISH negative" means different things depending on which set the laboratory runs.
+- **Net-new and decision-relevant:** that **only polysomy is positive** and every other abnormality is **equivocal**; that the polysomy cut-off is an **absolute count (≥4 cells), not a percentage**; and that the proposed PB FISH set had materially higher sensitivity than UroVysion (64.7% vs 45.9%), whose own polysomy criterion differs (≥5 cells with gain of ≥2 probes).
 - **[[primary-sclerosing-cholangitis]] / [[cholangiocarcinoma]] / [[biliary-stricture]]** — the PSC-specific sensitivity figures sit on [[fish]], linked from those pages rather than duplicated.
 
 - **UroVysion-equivocal cases** (trisomy 7 or tetrasomy): PB FISH positive in 10 of 16 (63%) malignant and 2 of 9 (22%) benign samples.

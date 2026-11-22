@@ -3,7 +3,9 @@ title: "FISH (Fluorescence In Situ Hybridization)"
 category: diagnostic-test
 tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing-cholangitis, polysomy, tissue-acquisition]
 created: 2026-06-04
-updated: 2026-10-28
+updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, barr-fritcher-2015-pancreatobiliary-fish-probes]
 ---
 
@@ -14,18 +16,17 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
 - Fluorescently labeled DNA probes assess brushed cells for **chromosomal abnormalities**, which are associated with malignancy ([[acg-2023-biliary-strictures]]).
 - **Polysomy** is the FISH abnormality that carries the association with carcinoma — odds ratio (OR) **>77** for malignancy ([[acg-2023-biliary-strictures]]).
 
-Neither [[acg-2023-biliary-strictures|American College of Gastroenterology (ACG) 2023]] nor [[asge-2023-indeterminate-biliary-strictures|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] defines polysomy cytogenetically; the definitions below are from the probe set's validation study ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
+Neither [[acg-2023-biliary-strictures|American College of Gastroenterology (ACG) 2023]] nor [[asge-2023-indeterminate-biliary-strictures|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] defines polysomy cytogenetically; the definitions below are from [[barr-fritcher-2015-pancreatobiliary-fish-probes]].
 
 ## Which Probe Set — and the Cytogenetic Definitions
 
-**Two probe sets are in use, and they are not equivalent.**
+| Set | Probes | Designed for | Positive (polysomy) |
+|---|---|---|---|
+| **UroVysion** | chromosome enumeration probes (CEP) 3, 7, 17 + **9p21** (CDKN2A) | **bladder cancer** (urine); applied to pancreatobiliary brushings | **≥5 cells** with copy-number gain of **≥2 probes** |
+| **Pancreatobiliary (PB) FISH** | **1q21 · 7p12 · 8q24 · 9p21** | pancreatobiliary tract cancer — **proposed alternative** to UroVysion | **≥4 cells** on the entire slide (below) |
 
-| Set | Probes | Designed for |
-|---|---|---|
-| **UroVysion** | chromosome enumeration probes (CEP) 3, 7, 17 + **9p21** (CDKN2A) | **bladder cancer** — the historical biliary FISH |
-| **Pancreatobiliary (PB) FISH** | **1q21 · 7p12 · 8q24 · 9p21** | pancreatobiliary tract cancer |
-
-In tissue, the PB combination identified cancer cells at **93% sensitivity, 100% specificity**.
+- UroVysion other categories: tetrasomy **≥10 cells** with 4 copies of each probe; trisomy **≥10 cells** with gain of 1 probe; negative when no cut-off is met; nondiagnostic if inadequate cellularity or failed hybridization.
+- PB FISH: single-institution, retrospective development study; the authors call the results **preliminary**, needing confirmation in clinical practice. In tissue the 4-probe combination identified cancer cells at **93% sensitivity, 100% specificity**.
 
 **Cell types and cut-offs (PB FISH).** Only **polysomy is a positive result** — every other abnormality is **equivocal**, not negative and not positive.
 
@@ -42,7 +43,7 @@ In tissue, the PB combination identified cancer cells at **93% sensitivity, 100%
 Percentages are of a **100-cell enumeration**; specimen adequacy requires **≥100 epithelial cells** with acceptable signal quality.
 
 > [!pearl] Polysomy is counted, not scored as a percentage
-> The positive threshold is **≥4 polysomic cells anywhere on the slide, regardless of how many cells were counted** — unlike every equivocal category, which is a percentage of 100 cells. Reading it as "4%" sets the bar far too high on a cellular specimen ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
+> The positive threshold is **≥4 polysomic cells on the entire slide, regardless of the total number of cells present** — unlike every equivocal category, which is a percentage of a 100-cell enumeration ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
 
 **How the slide is read**, since it changes the count: 100 consecutive epithelial cells are enumerated, with **at most 5 cells counted from any group of disomic cells**; then the rest of the slide is scanned for polysomic cells, which **are added to the total**, while non-polysomic abnormalities found on that scan **are disregarded**. A cell with both polysomy and homozygous 9p21 loss counts as **polysomic**. **9p21 loss is the overlap discriminator** — it is unexpected in benign cells, so it separates one genuinely abnormal nucleus from two overlapping benign ones.
 
@@ -55,9 +56,9 @@ Per [[acg-2023-biliary-strictures]] (study of ~500 consecutive patients undergoi
 | Brush cytology alone | 20.1% |
 | Brush cytology + FISH | 42.9% |
 
-- Brush cytology alone pools at a sensitivity of ~**0.40** in the [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] meta-analysis — full modality comparison: [[brush-cytology]].
+- Brush cytology alone pools at a sensitivity of **0.4** (95% confidence interval 0.37–0.43) in the [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] meta-analysis — full modality comparison: [[brush-cytology]].
 
-**Probe set changes the sensitivity** — head-to-head on the same 183 brushings ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]):
+**Probe set changes the sensitivity** — head-to-head on the same 183 brushings, 85 cancers within 2 years ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]):
 
 | Test | Sensitivity | Specificity |
 |---|---|---|
@@ -65,31 +66,40 @@ Per [[acg-2023-biliary-strictures]] (study of ~500 consecutive patients undergoi
 | UroVysion polysomy | 45.9% | 90.8% |
 | Routine cytology (positive) | 18.8% | 100% |
 
-- By cancer type (PB FISH): [[cholangiocarcinoma|cholangiocarcinoma]] **62%**, [[pancreatic-cancer|pancreatic carcinoma]] 83% (n=6), metastases 67% (n=6).
-- **Positive routine cytology was 100% predictive** of cancer within 2 years in this cohort — a positive cytology needs no adjunct.
-- Independent predictors of malignancy: **polysomy (odds ratio 13.96)** and **a mass on cross-sectional imaging (OR 13.91)**.
+| Sensitivity by cancer type | n | Routine cytology | UroVysion polysomy | PB FISH polysomy |
+|---|---|---|---|---|
+| [[cholangiocarcinoma\|Cholangiocarcinoma]] | 66 | 10 (15%) | 26 (39%) | **41 (62%)** |
+| [[pancreatic-cancer\|Pancreatic carcinoma]] | 6 | 4 (67%) | 4 (67%) | 5 (83%) |
+| Metastatic to pancreatobiliary tract | 6 | 1 (17%) | 3 (50%) | 4 (67%) |
 
-> [!pitfall] "FISH negative" does not mean the same thing everywhere
-> The two probe sets differ by roughly **19 percentage points of cancer detection**, so a negative result carries different weight depending on which set the laboratory runs. **Check which one the report used** before treating a negative FISH as reassurance ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
+- PB FISH sensitivity exceeded both UroVysion and routine cytology (each P < .001) — a **19% increase in cancer detection** over UroVysion.
+- **Positive routine cytology was 100% predictive** of cancer within 2 years in this cohort (all 16 patients).
+- Independent predictors of malignancy (multivariable): **PB FISH polysomy (odds ratio 13.96)**, **a mass on cross-sectional imaging (OR 13.91)**, positive routine cytology (OR not estimable), and absence of [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]] (OR 0.18 for PSC — see below).
+
+> [!pitfall] A negative FISH does not exclude cancer
+> Even PB FISH polysomy missed about a third of cancers in validation (sensitivity 64.7%); UroVysion missed more than half (45.9%) ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
 
 ## Limitations — what FISH cannot decide
 
 Two caveats are decision-critical ([[acg-2023-biliary-strictures]]):
 
-1. **Performance is attenuated in [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]** — presumably because of the substantial inflammatory component. Do not carry the non-PSC sensitivity figures into a PSC stricture.
+1. **Favorable performance is attenuated in PSC** — presumably because of the substantial inflammatory component.
 2. **An abnormal FISH alone does not establish a treatment-level diagnosis.** Some surgeons use FISH as a *contributing* factor in the decision to resect, but it is **highly uncommon for oncologists to offer chemotherapy on the basis of an abnormal FISH analysis alone.**
 
-**Contradiction — FISH in PSC.** [[acg-2023-biliary-strictures|ACG 2023]] says FISH's favorable performance characteristics are *attenuated* in PSC; [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]] lists PSC as future-direction #2 on the grounds that "the diagnostic algorithm may change in this patient population where fluorescence in situ hybridization analysis plays a **higher** role." Both are 2023 tier-1 guidelines. They are not strictly incompatible — ACG describes measured *test performance*, ASGE describes anticipated *algorithmic weight* where every other modality also performs poorly — but the practical reading is that a FISH result in PSC carries more uncertainty, not less, and ASGE makes **no formal recommendation** on FISH. Do not treat "higher role" as validated superior accuracy.
+**Contradiction — FISH in PSC.**
+- ACG 2023: performance **attenuated** in PSC (caveat 1 above).
+- [[asge-2023-indeterminate-biliary-strictures|ASGE 2023]]: PSC is future direction #2, "because the diagnostic algorithm may change in this patient population where fluorescence in situ hybridization analysis plays a **higher** role." ASGE makes no recommendation on FISH.
+- Both are 2023 US guidelines; ACG speaks to measured test performance, ASGE to an anticipated role.
+- Primary data on probe sets within PSC ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]): **PB FISH 62% vs UroVysion 41%** sensitivity (P = .008); in the 101 PSC patients without a mass lesion, PB FISH detected **19% more cancers** than UroVysion while maintaining high specificity. This compares two assays, not PSC with non-PSC strictures.
 
-> Part of the difference may be probe set rather than disease. In PSC, **PB FISH detected 62% of cancers against UroVysion's 41%** (P = .008), and among the 101 PSC patients without a mass lesion it found **19% more cancers** at preserved specificity ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]) — tier-2 evidence comparing two assays, not PSC against non-PSC strictures, so it qualifies the contradiction without settling it.
->
-> ⚠ In that cohort PSC also carried an **odds ratio of 0.18 for malignancy** — this reflects the **lower cancer prevalence in a surveillance population**, not worse test accuracy. Do not read it as the test failing in PSC.
+> [!pitfall] The PSC odds ratio is about prevalence, not accuracy
+> PSC's OR of 0.18 for malignancy reflects the **lower cancer prevalence in this screening population**, not worse test accuracy ([[barr-fritcher-2015-pancreatobiliary-fish-probes]]).
 
 ## Role in Multimodality Sampling
 
 - Fluoroscopy-directed biopsies, [[cholangioscopy]]-directed biopsies, and FISH **each** add diagnostic value over brush cytology alone.
 - On that basis ACG 2023 **Rec 3** (Strong, low quality): *"In patients with suspected malignant perihilar stricture, we recommend multimodality sampling over brush cytology alone at the time of the index ERCP."* The narrative operationalizes this as **at least 2 diagnostic sampling modalities** at the time of ERCP-based biliary stricture evaluation, and the same principles **also apply to extrahepatic strictures without an associated mass**.
-- **How many modalities:** there is a rationale to use **3–4** of these modalities at the initial evaluation if they can be performed safely; **trimodality sampling is supported by retrospective data only** ([[acg-2023-biliary-strictures]]).
+- **How many modalities:** there is a rationale to use **3–4** of these modalities at the initial evaluation if they can be performed safely; **trimodality sampling is supported by retrospective data** ([[acg-2023-biliary-strictures]]).
 - The strong recommendation despite low-quality evidence is justified by the **safety of adding another sampling modality** during ERCP set against the **low yield of brush cytology alone**.
 - FISH is therefore an adjunct that helps satisfy the multimodality requirement — not a replacement for tissue.
 
