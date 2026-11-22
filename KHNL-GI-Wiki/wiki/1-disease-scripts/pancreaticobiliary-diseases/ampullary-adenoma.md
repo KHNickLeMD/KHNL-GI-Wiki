@@ -160,14 +160,14 @@ flowchart TD
 
 - **[[brush-cytology|Brush cytology]]** may aid detection of malignancy in selected cases.
 - K-ras/p53/immunohistochemical and microRNA/flow-cytometry markers remain **investigational**.
-- EUS may be omitted for small (<1 cm) ampullary lesions without malignant features (ulceration, induration, bleeding).
+- Some experts propose that lesions <1 cm **or** those without obvious signs of malignancy (ulceration, induration, bleeding) do not require US evaluation before endoscopic removal.
 - **Intraductal extension <1 cm** into the common bile duct (CBD) or pancreatic duct (PD) does not necessarily preclude endoscopic therapy (tissue may be exposed/ablated; balloon dilation can expose intraductal tissue).
 
 ---
 
 ## Therapeutics
 
-Endoscopic resection has lower adverse-event rates (~14%) than local surgical excision (~29%). Surgical options: pancreaticoduodenectomy (Whipple) or transduodenal ampullectomy (morbidity: anastomotic dehiscence/fistula up to 9%/14%; mortality 1–9%).
+Although not directly compared, local surgical excision appears to have a higher adverse-event rate (29%) than endoscopy. Surgical options: pancreaticoduodenectomy (Whipple) or transduodenal ampullectomy (morbidity: anastomotic dehiscence/fistula up to 9%/14%; mortality 1–9%).
 
 ### Ampullary Adenoma — Endoscopic Papillectomy
 

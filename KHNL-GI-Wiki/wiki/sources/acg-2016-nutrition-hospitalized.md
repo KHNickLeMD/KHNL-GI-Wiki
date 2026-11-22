@@ -3,7 +3,8 @@ title: "ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Pati
 category: source
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, icu, hospitalized-patient, malnutrition, acg]
 created: 2026-05-21
-updated: 2026-09-29
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/ACG/ACG 2016 Nutrition Therapy in the Adult Hospitalized Patient.pdf"
 ---
@@ -44,7 +45,7 @@ Operational thrust: attain enteral access and start EN within 24–48 h in the h
 - Gastric feeding succeeds in the vast majority; gastrointestinal (GI) dysfunction occurs in 30–70% of ICU patients but most still tolerate gastric feeds. Bowel sounds are **not** a sensitive marker of GI function and are not required to start EN
 - Small-bowel feeding benefit is confined to sicker patients — RCT in Acute Physiology and Chronic Health Evaluation (APACHE) II **>20**: shorter length of stay, fewer total complications, more EN delivered; **no difference** at APACHE II **<20**
 - Nasoenteric access carries sinusitis in ~11.4–13.0%; the **4-week** cutoff for percutaneous access is acknowledged as arbitrary, based on nares erosion, aspiration pneumonia, sinusitis, esophageal ulceration/stricture
-- Permissive underfeeding data: acute respiratory distress syndrome (ARDS)/acute lung injury trial — **trophic 20 mL/h (25% of requirements) for 6 days** was equivalent to full feeds (80% of caloric requirements); obese critically ill (body mass index [BMI] >30) — **2.0–2.5 g protein/kg ideal body weight/day with 60–65%** of estimated or measured energy expenditure; PN in the first week — **80% of caloric requirements with full protein at 1.5–2.0 g/kg/day**
+- Permissive underfeeding data: acute respiratory distress syndrome (ARDS)/acute lung injury trial — **trophic 20 mL/h (25% of requirements) for 6 days** was equivalent to full feeds from admission (80% of caloric requirements at end of study); obese critically ill (body mass index [BMI] >30) — **2.0–2.5 g protein/kg ideal body weight/day with 60–65%** of estimated or measured energy expenditure; PN in the first week — **80% of caloric requirements with full protein at 1.5–2.0 g/kg/day**
 - Routine use of immune-modulating, elemental/semi-elemental, disease-specific (diabetes) and organ-specific (hepatic, renal, pulmonary) formulas is **discouraged**; the arginine + fish-oil immune-modulating formula is the exception, for the post-major-surgery surgical ICU patient
 - GRV is a poor marker of gastric volume, emptying, aspiration risk and pneumonia; sensitivity for aspiration **<2–8%**; mandating no-GRV showed no difference in clinical outcome, while GRV use increases tube clogging **tenfold**
 - Aspiration risk factors: age **>70**, altered mental status, endotracheal or nasoenteric tube, prolonged supine position, bolus infusion
@@ -149,7 +150,7 @@ Operational thrust: attain enteral access and start EN within 24–48 h in the h
 |---|---|---|---|
 | 30a | If early EN is not feasible and the patient is at **low** nutritional risk upon admission, no specialized nutrition therapy should be provided and PN should be withheld for the first week of hospitalization | Conditional | Very low |
 | 30b | If a patient is at **high** nutritional risk on admission and EN is not feasible, PN should be initiated as soon as possible | **Strong** | **Moderate** |
-| 31 | Supplemental PN should be considered for the patient already on enteral tube feeding **only after 7 to 10 days**, when unable to meet greater than 60% of energy and protein requirements by the enteral route alone. Initiating supplemental PN prior to this 7–10-day period in those patients already receiving EN does not improve outcomes and may be detrimental | **Strong** | **Moderate** |
+| 31 | Supplemental PN should be considered for the patient already on enteral tube feeding **only after 7 to 10 days**, when unable to meet greater than 60% of energy and/or protein requirements by the enteral route alone. Initiating supplemental PN prior to this 7–10-day period in those patients already receiving EN does not improve outcomes and may be detrimental | **Strong** | **Moderate** |
 | 32 | In hospitalized patients receiving PN, mild permissive underfeeding (delivery **80%** of energy requirements with full protein provision) should be considered initially for the first 7 to 10 days. Following this first week (if long-term PN is required), energy provision should be increased to meet energy goals | Conditional | Low |
 | 33 | Peripheral PN should not be used, as it leads to inappropriate use of PN, has a high risk of phlebitis and loss of venous access sites, and generally provides inadequate nutrition therapy | Conditional | Very low |
 | 34a | Careful transition feeding should be used in the patient on PN, for whom EN is now being initiated. As tolerance to EN improves and volume of delivery increases, PN should be tapered to avoid overfeeding | Conditional | Very low |

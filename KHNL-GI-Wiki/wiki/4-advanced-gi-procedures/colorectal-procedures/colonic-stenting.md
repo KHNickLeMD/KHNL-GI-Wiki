@@ -146,7 +146,7 @@ Historically avoided on the assumption that right-sided stenting is too technica
 
 ## Technique
 
-Success rates by indication ([[asge-2026-colonic-strictures]]): **malignant colonic stricture — technical 96%, clinical 99%**; **extracolonic malignancy — technical 89%, clinical 74%**; **benign stricture — technical 94%, clinical 88%** (see [[colonic-stricture]]).
+Success rates by indication ([[asge-2026-colonic-strictures]]): **malignant colonic stricture — technical 96%, clinical 99%**; **extracolonic malignancy — technical 89%, clinical 74%**; **benign stricture — technical 94%, clinical 88%** (technique text; the guideline's Table 5 pools stent clinical success at 56%; see [[colonic-stricture]]).
 
 - **Equipment:** extraction balloon catheter, long wire (0.035″ or 0.025″), fluoroscopy, water-soluble contrast, and an endoscope compatible with the available deployment system. **Through-the-scope SEMSs are ideal in the colon.** A therapeutic endoscope or adult colonoscope is used; newer smaller-diameter upper endoscopes with large working channels also accommodate through-the-scope devices.
 - **Sizing:** diameters range **18 to 30 mm**, chosen from the healthy lumen diameter of the area to be treated. **Choose a length that leaves at least 2 cm of stent on each side of the stricture.**
@@ -162,7 +162,7 @@ Success rates by indication ([[asge-2026-colonic-strictures]]): **malignant colo
 > It is **unnecessary and may increase the risk of perforation** ([[asge-2026-colonic-strictures]]). The same source puts the overall adverse-event risk of colonic SEMS for malignant obstruction at **24%** — stent-induced perforation 5%, procedure-related 3%, migration 7%, occlusion 8%, ulceration 2%.
 
 - **Before the scope reaches the stricture:** avoid air insufflation and advance predominantly with **waterjet** and minimal carbon dioxide — gas proximal to a stricture creates a closed-loop system at risk of proximal perforation. Fluoroscopy is necessary when stent placement is planned. Full preprocedural assessment, sedation choice and biopsy/tattoo rules are on [[colonic-stricture]].
-- **[[lumen-apposing-metal-stents|LAMS]] in the colon:** diameters **15 and 20 mm**, lengths **10 and 15 mm**; **rarely possible in the right colon** because adult colonoscopes exceed the catheter length. Distal flange **≥2 cm from the anal verge**; balloon dilation of the LAMS to its maximal diameter may be considered after deployment for immediate symptom relief; **remove or exchange at 2 to 3 months**.
+- **[[lumen-apposing-metal-stents|LAMS]] in the colon:** most used diameters **15 and 20 mm**, lengths **10 and 15 mm**; **rarely possible in the right colon** because adult colonoscopes exceed the catheter length. Distal flange **≥2 cm from the anal verge**; balloon dilation of the LAMS to its maximal diameter may be considered after deployment for immediate symptom relief; removal or exchange **can be performed at 2 to 3 months**.
 
 ## Adverse Events
 

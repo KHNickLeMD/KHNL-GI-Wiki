@@ -3,17 +3,18 @@ title: "American Society for Gastrointestinal Endoscopy Guideline on Endoscopic 
 category: source
 tags: [colonic-stricture, colonic-stent, sems, lams, balloon-dilation, stricturotomy, colorectal-cancer, crohns, anastomotic-stricture, diverticulitis]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2026 Benign and Malignant Colonic Strictures (Machicado).pdf"
 ---
 
 ## Bibliographic Info
-- **Article:** [Machicado JD, Ngamruengphong S, Ali F, et al. American Society for Gastrointestinal Endoscopy guideline on endoscopic management of benign and malignant colonic strictures. *Gastrointest Endosc* 2026;104(2):164–180](https://www.giejournal.org)
+- **Article:** [Machicado JD, Ngamruengphong S, Ali F, et al. American Society for Gastrointestinal Endoscopy guideline on endoscopic management of benign and malignant colonic strictures. *Gastrointest Endosc* 2026;104(2):164–181](https://doi.org/10.1016/j.gie.2026.03.017)
 - **Authors:** Jorge D. Machicado, Saowanee Ngamruengphong, Faisal Ali, et al. — ASGE Standards of Practice Committee (Nirav C. Thosani, Chair)
 - **Year:** 2026
 - **Journal/Publisher:** Gastrointestinal Endoscopy (ASGE)
-- **DOI:** no DOI captured from the document; published Volume 104, No. 2, 2026, pp. 164–180
+- **DOI:** [10.1016/j.gie.2026.03.017](https://doi.org/10.1016/j.gie.2026.03.017)
 - **Type:** guideline (ASGE Standards of Practice, GRADE)
 
 ## Summary
@@ -68,7 +69,7 @@ Clinical failure **OR 2.88 (1.58–5.25)** and technical failure **OR 2.92 (1.13
 
 **Table 4 — covered vs uncovered SEMS in CRC obstruction**
 
-Stent patency **MD 19 d (11–48 d, favors uncovered, low certainty)** · need for reinsertion **OR 0.38 (0.17–0.86, favors uncovered)** · adverse events **OR 0.57 (0.44–0.74, favors uncovered, low certainty)** · clinical success OR 1.03 and technical success OR 1.02, both "neither".
+Stent patency **MD 19 d (11–48 d as printed in Table 4; the text and Figure 3 give 18.5 d, 95% CI 10.5–26.5; favors uncovered, low certainty)** · need for reinsertion **OR 0.38 (0.17–0.86, favors uncovered)** · adverse events **OR 0.57 (0.44–0.74, favors uncovered, low certainty)** · clinical success OR 1.03 and technical success OR 1.02, both "neither".
 
 **Table 5 — stents vs EBD in benign colonic stricture** (pooled single-arm proportions)
 
@@ -76,7 +77,7 @@ Clinical success **EBD 88% (85–91) vs stent 56% (45–66)**, P<.01 · adverse 
 
 **Table 6 — endoscopic stricturotomy vs EBD in benign colonic stricture**
 
-Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** · adverse events **RR 3.95 (1.69–9.24), favors EBD** · bleeding **RR 14.08 (3.14–63.05), favors EBD** · perforation RR 0.69 (0.09–5.39, neither) · clinical success RR 1.00, technical success RR 1.00, rate of surgery RR 1.85 — all "neither". All very low certainty.
+Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** — but on time-to-event analysis IRR 1.42 (0.29–6.97, neither); the panel says the advantage was possibly related to shorter follow-up · adverse events **RR 3.95 (1.69–9.24), favors EBD**, fragility index 3 · bleeding **RR 14.08 (3.14–63.05), favors EBD** · perforation RR 0.69 (0.09–5.39, neither) · clinical success RR 1.00, technical success RR 1.00, rate of surgery RR 1.85 — all "neither". All very low certainty.
 
 ### Important considerations the panel attached to the recommendations
 
@@ -86,10 +87,10 @@ Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** · adverse events **R
 - **Histopathologic diagnosis before stenting is preferred but often unavailable** — all included RCTs allowed the decision to be guided by degree of radiologic suspicion. **Placement without histopathologic diagnosis is accepted.**
 - **Synchronous lesions:** decompression by stent creates the chance for a preoperative staging workup that emergency surgery forecloses — complete colonoscopy through the SEMS, or CT/MR colonography.
 - **Bevacizumab:** an older meta-analysis put colonic stent–related perforation at **12.7% with bevacizumab vs 7% without**; more recent observational studies show similar risk with or without. The debate is unresolved, hence the shared-decision recommendation.
-- **Covered stents are not FDA-approved or commercially available in the US** for the colon — most data are from abroad or off-label use. Uncovered stents' advantage is lower migration (longer patency, fewer reinterventions), but they can become **permanently embedded by tissue ingrowth** — so uncovered SEMSs should be **reserved for confirmed or highly suspected malignancy** and used cautiously otherwise. If the malignancy is potentially curable with chemotherapy or radiation (e.g. lymphoma), an uncovered SEMS is **not** a good option because tissue ingrowth makes removal difficult.
+- **Covered stents are not FDA-approved or commercially available in the US** for the colon — most data are from abroad or off-label use. Uncovered stents' advantage is lower migration (longer patency, fewer reinterventions), but they can become **permanently embedded by tissue ingrowth** — so uncovered SEMSs should be **reserved for confirmed or highly suspected malignancy** and otherwise avoided: **uncovered metal stents should generally be avoided in benign colonic strictures**. If the malignancy is potentially curable with chemotherapy or radiation (e.g. lymphoma), uncovered metal stents should generally be avoided (tissue ingrowth makes removal difficult). **Fully covered colonic SEMSs are not commercially available in the US — off-label fully covered esophageal SEMSs are an alternative.**
 - **Crohn's disease:** in the one RCT comparing SEMSs and EBD in predominantly fibrotic Crohn's disease, fully covered SEMSs had **lower clinical success at 1 year (51% vs 80%, P=.006)** and similar adverse events (8% vs 5%); stent migration occurred in **97%**. Technical success was higher with SEMSs (92% vs 76%, P<.05).
 - **Anastomotic stricture:** the single study comparing LAMSs and EBD in benign left-sided colorectal anastomotic strictures found **no significant difference** in technical success, clinical success, stricture recurrence or adverse events; 89.7% of strictures were ≤10 mm. LAMS migration was **46%**.
-- **Diverticulitis-related stricture:** in a systematic review of case series (n=66), SEMSs were used as BTS in 40, with a **52% rate of adverse events** (perforation, reobstruction, migration) but **43% avoided a stoma**. In a retrospective study of 21 patients, all BTS patients had segmental resection with primary anastomosis at a median of 1 month and **none required a stoma**.
+- **Diverticulitis-related stricture:** in a systematic review of case series (n=66), SEMSs were used as BTS in 40, with a **52% rate of adverse events** (perforation, reobstruction, migration) but **43% avoided a stoma**. In a retrospective study of 21 patients, all BTS patients had segmental resection with primary anastomosis at a time interval of 1 month from SEMS placement and **none required a stoma**.
 - **Inflammatory colorectal stricture:** evidence comparing EBD and SEMSs is **absent**. With active inflammatory bowel disease and a colorectal stricture, **medical therapy is mandatory**. For acute diverticulitis-related stricture, SEMS is feasible as BTS or as palliation if the patient is not a surgical candidate; **surgery should be performed within 7 to 10 days of stent placement** as migration and adverse-event risk increases afterward. **Avoid colonic SEMS if there is a pericolic abscess.**
 - **Costs:** 2024 Medicare data — flexible sigmoidoscopy with balloon dilation **$612–$1124**; with stent placement **$4016–$5430**. No formal cost-effectiveness studies exist.
 
@@ -105,7 +106,7 @@ Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** · adverse events **R
 - **Avoid air insufflation; advance predominantly using waterjet** with minimal carbon dioxide insufflation — introducing gas proximal to the stricture creates a "closed-loop" system at risk of proximal perforation. **Fluoroscopy is necessary** if stent placement is planned and helpful for EBD of severe strictures.
 - **Endoscopic assessment:** photo documentation is **mandatory**. Determine whether the stricture can be traversed; if not and fluoroscopy is available, an extraction balloon catheter with contrast injection delineates it. Estimate diameter, length and location including **distance from the anal verge**, and characterize as fibrotic, inflammatory, ulcerated, anastomotic, or associated with a mass or diverticulum.
 - **Biopsies:** with no prior diagnosis of cancer, inspect with white-light high-definition endoscopy and virtual chromoendoscopy; take **about 6 targeted biopsy specimens** from any area suspicious for neoplasm or related to inflammatory bowel disease. **Anastomotic strictures** — biopsies are generally not helpful unless there is endoscopic concern for disease recurrence. **Diverticular strictures — avoid biopsies inside the diverticulum because of the risk of perforation.**
-- **Tattooing:** consider for suspected or confirmed malignancy if a colonic stent is not placed, or for symptomatic strictures of any etiology if endoscopic treatment is not feasible. **No tattoo in the cecum or distal rectum.** **Carbon black is the preferred permanent tattoo.** Place **3 to 5 cm distal to the lesion**, in **2 to 4 quadrants** nearly touching each other. For a traversable long stricture, consider a **proximal tattoo** at similar distance and quadrant number. Confine the tattoo to the **submucosal layer**: insert the needle tangentially, lift toward the center of the lumen, inject saline or tattoo first to confirm submucosal position by a **submucosal bleb**, then inject **0.75 to 1 mL of carbon black** per area. The common error is placing the needle too deep and injecting into the peritoneal cavity or extracolonic tissue. Document tattoo location in the report **and support it with an endoscopic photograph**.
+- **Tattooing:** consider for suspected or confirmed malignancy if a colonic stent is not placed, or for symptomatic strictures of any etiology if endoscopic treatment is not feasible. **No need to tattoo lesions in the cecum or distal rectum.** **Carbon black is the preferred permanent tattoo.** Place **3 to 5 cm distal to the lesion**, in **2 to 4 quadrants** nearly touching each other. For a traversable long stricture, consider a **proximal tattoo** at similar distance and quadrant number. Confine the tattoo to the **submucosal layer**: insert the needle tangentially, lift toward the center of the lumen, inject saline or tattoo first to confirm submucosal position by a **submucosal bleb**, then inject **0.75 to 1 mL of carbon black** per area. The common error is placing the needle too deep and injecting into the peritoneal cavity or extracolonic tissue. Document tattoo location in the report **and support it with an endoscopic photograph**.
 
 ### Best practice advice — procedural technique (ungraded, panel consensus)
 
@@ -117,12 +118,13 @@ Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** · adverse events **R
 - Inflate with water; add contrast if using fluoroscopy. Duration is **not standardized**; **30 to 60 seconds** is common practice. Hold **back-tension** on the catheter during inflation to prevent proximal migration.
 - Multi-size balloons may be upsized to the next diameter **if there was no tension at the prior diameter**. If there was tension, or the maximal diameter is reached, deflate and **inspect the mucosa for tears, bleeding, perforation or stricture improvement**.
 - No evidence of treatment effect (no tear, no stricture improvement) → additional EBD with upsized diameters until a treatment effect can be **safely** reached. Initially non-traversable → attempt to traverse and **document whether the stricture was traversable at the end of the procedure**.
-- **Treatment goal: dilation up to 18 to 20 mm**, often not attainable at the first procedure. Repeat in **1 to 4 weeks** — **1 to 2 weeks for severe strictures**, **3 to 4 weeks for mild to moderate** ones.
+- **Treatment goal: dilation up to 18 to 20 mm**, often not attainable at the first procedure. If the goal is not reached, repeat in **1 to 4 weeks** — **1 to 2 weeks for severe strictures**, **3 to 4 weeks for mild to moderate** ones.
 
 **Endoscopic SEMS placement**
 
-- Technical success **96%** and clinical success **99%** for malignant colonic stricture; for extracolonic malignancy stricture, technical **89%** and clinical **74%**; for benign stricture, technical **94%** and clinical **88%**.
-- **Overall adverse-event risk 24%** with colonic SEMS for malignant obstruction: stent-induced perforation 5%, procedure-related 3%, migration 7%, occlusion 8%, ulceration 2%. **Adverse events are higher with benign strictures, with perforation risk 18%.**
+- Endoscope: therapeutic endoscope or adult colonoscope generally (select devices fit a pediatric colonoscope; newer smaller-diameter upper endoscopes with large working channels could be considered).
+- Technical success **96%** and clinical success **99%** for malignant colonic stricture; for extracolonic malignancy stricture, technical **89%** and clinical **74%**; for benign stricture, technical **94%** and clinical **88%** (the panel's meta-analysis, as stated in the technique text — its Table 5 gives stent clinical success 56%).
+- **Overall adverse-event risk 24%** with colonic SEMS for malignant obstruction: stent-induced perforation 5%, procedure-related 3%, migration 7%, occlusion 8%, ulceration 2%. **Adverse events are higher with benign strictures, with perforation risk 18%.** Perforation often requires surgery; the other adverse events can be managed endoscopically.
 - **Relative contraindication:** rectal stricture with its distal end within **5 cm of the anal verge** — risk of pain and incontinence. **Absolute: signs of ischemia, perforation or peritonitis.**
 - Equipment: extraction balloon catheter, long wire (0.035″ or 0.025″), fluoroscopy, water-soluble contrast, and an endoscope compatible with the stent deployment system. **Through-the-scope SEMSs are ideal in the colon.**
 - Diameter options **18 to 30 mm**, chosen on the healthy lumen diameter; **stent length chosen to leave at least 2 cm on each side of the stricture**.
@@ -132,7 +134,7 @@ Recurrence **RR 0.63 (0.42–0.96), favors stricturotomy** · adverse events **R
 
 **LAMS placement**
 
-- For colonic strictures, **diameters of 15 and 20 mm and lengths of 10 and 15 mm** are the ones used.
+- For colonic strictures, **diameters of 15 and 20 mm and lengths of 10 and 15 mm** are the ones most used.
 - **Rarely possible in the right-sided colon** — insufficient catheter length for use with adult colonoscopes. Equipment: therapeutic gastroscope, long wire, possibly fluoroscopy.
 - **Distal flange at least 2 cm from the anal verge.** Balloon dilation of the LAMS to its maximal diameter can be considered after deployment for immediate symptom relief.
 - Because these stents are fully covered, **removal or exchange can be performed at 2 to 3 months**. Diet and stool-softener advice is the same as for colonic SEMSs.

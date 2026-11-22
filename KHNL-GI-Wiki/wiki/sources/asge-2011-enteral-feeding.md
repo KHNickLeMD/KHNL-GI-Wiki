@@ -3,7 +3,8 @@ title: "ASGE 2011: The Role of Endoscopy in Enteral Feeding"
 category: source
 tags: [enteral-nutrition, peg, pegj, dpej, nasoenteric, gastrostomy, feeding-tube, asge]
 created: 2026-07-01
-updated: 2026-10-22
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2011 Endoscopy in Enteral Feeding.pdf"
 ---
@@ -21,7 +22,7 @@ raw: "GI Guidelines/ASGE/ASGE 2011 Endoscopy in Enteral Feeding.pdf"
 
 American Society for Gastrointestinal Endoscopy (ASGE) guideline on endoscopically placed enteral feeding access. Enteral nutrition (EN) is indicated for patients with an intact, functional gastrointestinal (GI) tract who cannot meet caloric demands orally. The central decision rule is duration-based: **nasoenteric feeding** is preferred when peroral nutrition is expected to resume **within 30 days**; a **percutaneous endoscopic feeding tube** (percutaneous endoscopic gastrostomy [PEG], or percutaneous endoscopic gastrojejunostomy [PEGJ]/direct percutaneous endoscopic jejunostomy [DPEJ] for post-pyloric feeding) is indicated when longer-term EN is required. PEGJ or DPEJ is used for severe gastroesophageal reflux disease (GERD), gastroparesis, or recurrent tube-feed aspiration. Intravenous (IV) antibiotic prophylaxis is recommended before percutaneous tube placement, and tube feeds can safely start within 4 hours of placement.
 
-The document also frames PEG outcomes (high underlying-comorbidity mortality — 30-day all-cause ~15%, procedure-related ~0.5%), complications (aspiration, bleeding, perforation, buried bumper syndrome, peristomal infection, colocutaneous/gastrocolic fistula, pneumoperitoneum), and technique caveats (mature tract required before non-endoscopic replacement; cut-and-push removal contraindicated with distal GI stricture).
+The document also frames PEG outcomes (high underlying-comorbidity mortality — 30-day all-cause ~15%, procedure-related ~0.5%), complications (aspiration, bleeding, perforation, buried bumper syndrome, peristomal infection, colocutaneous/gastrocolic fistula, pneumoperitoneum), and technique caveats (mature tract required before non-endoscopic replacement; cut-and-push removal not to be used with GI dysmotility, previous abdominal surgery, or anatomic GI abnormalities).
 
 ## Key Findings / Claims
 
@@ -29,24 +30,27 @@ The document also frames PEG outcomes (high underlying-comorbidity mortality —
 - In acute dysphagic stroke, consider PEG if no improvement after a 2-3 week nasoenteric trial.
 - In severe acute pancreatitis, EN reduces infectious complications and mortality vs parenteral nutrition (meta-analysis).
 - **PEGJ/DPEJ** indicated for severe GERD, gastroparesis, or recurrent tube-feed aspiration.
-- **IV prophylactic antibiotic** before percutaneous feeding-tube placement reduces peristomal wound infection (high-quality evidence).
+- **IV prophylactic antibiotic** before percutaneous feeding-tube placement reduces peristomal wound infection (high-quality evidence): **parenteral cefazolin (or similar coverage) 30 minutes before PEG**; only needed if not already on appropriate antibiotics.
+- **Pre-procedure:** routine laboratory testing not indicated (selective, by history/exam/risk factors). PEG = **higher-risk procedure for bleeding** → adjust antithrombotics per published guidelines.
 - **Early feeding** (≤4 h after placement) equivalent to delayed/next-day feeding (meta-analysis of 6 randomized controlled trials [RCTs]).
-- Absolute contraindications: inability to bring the anterior gastric wall in apposition with the abdominal wall, pharyngeal or esophageal obstruction, significant coagulopathy.
+- Absolute contraindications: inability to bring the anterior gastric wall in apposition with the abdominal wall, pharyngeal or esophageal obstruction, significant coagulopathy. **Relative:** ascites; neoplastic, inflammatory and infiltrative diseases of the gastric and abdominal walls. **PEG should not be used for nutritional support when GI tract obstruction is present.**
 - PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, 30-day all-cause mortality ~15% (comorbidity-driven). Tumor seeding after PEG in oropharyngeal tumors <1%.
-- **Where methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, screening for MRSA and decolonization before PEG placement may decrease peristomal MRSA infection — separate from, and additional to, the single IV prophylactic dose of recommendation 5.
+- **Where methicillin-resistant *Staphylococcus aureus* (MRSA) is endemic**, screening for MRSA and decolonization before PEG placement may decrease peristomal MRSA infection.
 - **DPEJ also covers anatomy that precludes PEG** (eg, post-surgical). PEGJ and DPEJ are additionally beneficial in **chronic pancreatitis with persistent nutritional compromise** — an indication beyond the reflux/gastroparesis/aspiration triad of recommendation 4.
-- A **mature fistulous tract** is required before non-endoscopic tube/button replacement (intraperitoneal spillage risk otherwise). Cut-and-push removal should not be used with distal GI strictures (obstruction risk).
+- A **mature fistulous tract** is required before non-endoscopic tube/button replacement (intraperitoneal spillage risk otherwise). **Early dislodgment** without peritonitis → nasogastric decompression, IV antibiotics, PEG replacement several days later. Cut-and-push removal (bowel obstruction reported) should not be used with GI dysmotility, previous abdominal surgery, or anatomic GI abnormalities.
+- **Tube care:** flush with **30–60 mL water** after feeds or medications; clogged tube → warm water, carbonated beverages, or pancreatic enzymes. Repeat dislodgments → low-profile button. Second-look endoscopy not mandatory. Leakage around the site in 1–2%; minor complications ~6%.
+- **DPEJ:** lower overall success than PEG; single-centre mortality 0.3%, serious adverse events 4.2%; unique complication = jejunal volvulus.
 
 ## Recommendations
 
-Verbatim, numbered 1–6 as the document numbers them, with its own GRADE quality symbols (⊕⊕⊕⊕ high, ⊕⊕◯◯ low); "recommend" = strong, "suggest" = conditional.
+Verbatim, numbered 1–6 as the document numbers them, with its own GRADE quality symbols (⊕⊕⊕⊕ high, ⊕⊕◯◯ low). The document: weaker recommendations are phrased "we suggest", stronger ones "we recommend".
 
-1. "We suggest nasoenteric feeding as the preferred approach to feeding patients who are expected to resume peroral nutrition within 30 days." (⊕⊕◯◯, conditional)
-2. "We suggest that a variety of factors, including patient preferences, quality of life, and prognosis be addressed with the patient and the family before placement of feeding tubes." (⊕⊕◯◯, conditional)
-3. "In patients not predicted to resume peroral nutrition within 30 days, we suggest that nutrition be provided via a percutaneous endoscopic feeding tube." (⊕⊕◯◯, conditional)
-4. "We suggest that PEGJ or DPEJ are indicated in patients with severe gastroesophageal reflux, gastroparesis, or repeated tube feeding-related aspirations." (⊕⊕◯◯, conditional)
-5. "We recommend a prophylactic dose of antibiotic be given intravenously before percutaneous endoscopic feeding tube placement." (⊕⊕⊕⊕, strong)
-6. "We suggest that tube feeds may be safely started in most patients within 4 hours of endoscopic percutaneous tube placement." (⊕⊕◯◯, conditional)
+1. "We suggest nasoenteric feeding as the preferred approach to feeding patients who are expected to resume peroral nutrition within 30 days." (⊕⊕◯◯, weaker)
+2. "We suggest that a variety of factors, including patient preferences, quality of life, and prognosis be addressed with the patient and the family before placement of feeding tubes." (⊕⊕◯◯, weaker)
+3. "In patients not predicted to resume peroral nutrition within 30 days, we suggest that nutrition be provided via a percutaneous endoscopic feeding tube." (⊕⊕◯◯, weaker)
+4. "We suggest that PEGJ or DPEJ are indicated in patients with severe gastroesophageal reflux, gastroparesis, or repeated tube feeding-related aspirations." (⊕⊕◯◯, weaker)
+5. "We recommend a prophylactic dose of antibiotic be given intravenously before percutaneous endoscopic feeding tube placement." (⊕⊕⊕⊕, stronger)
+6. "We suggest that tube feeds may be safely started in most patients within 4 hours of endoscopic percutaneous tube placement." (⊕⊕◯◯, weaker)
 
 ## Relevance to Wiki
 

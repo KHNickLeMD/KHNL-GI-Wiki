@@ -189,7 +189,7 @@ quality_reviewed: 2026-11-16
 - Avoid overlying gauze/tape/abdominal pads (retain moisture, injure skin).
 - **After permanent removal:** spontaneous tract closure typically within **72 h**.
   - Persistent gastrocutaneous fistula risk factors: immune suppression, prior gastrostomy-site infection, malnutrition, delayed gastric emptying → endoscopic closure with over-the-scope clips or suturing.
-  - **"Cut-and-push" removal** (cut at the skin, push the internal bumper in, pass it per rectum) — do **not** use with distal GI stricture, dysmotility, previous abdominal surgery or anatomic abnormality ([[asge-2011-enteral-feeding]]).
+  - **"Cut-and-push" removal** (cut at the skin, push the internal bumper in, pass it per rectum) — do **not** use with GI dysmotility, previous abdominal surgery or anatomic GI abnormalities ([[asge-2011-enteral-feeding]]).
 - **Inadvertent tube removal:**
   - Placed **within previous 4 weeks** → do NOT blindly replace (stomach may not be adhered to abdominal wall). Give antibiotics, serial abdominal exams for peritonitis, replace under radiographic or endoscopic guidance. Without peritonitis, early dislodgement is usually managed with nasogastric decompression, IV antibiotics and PEG replacement several days later ([[asge-2011-enteral-feeding]]).
   - Placed **>4 weeks** ago → routine clinic/bedside replacement through mature tract; act fast (tract can close within hours); confirm intraluminal position with water-soluble contrast through the tube (or endoscopy).

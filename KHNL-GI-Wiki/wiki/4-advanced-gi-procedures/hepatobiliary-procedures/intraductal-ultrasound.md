@@ -52,7 +52,7 @@ quality_reviewed: 2026-11-15
 
 - Assesses **depth of invasion relative to the muscularis propria**, **intraductal extension**, and periampullary nodal involvement — the findings that triage a patient to endoscopic papillectomy versus pancreaticoduodenectomy or surgical ampullectomy ([[asge-2013-biliary-neoplasia]]); both EUS and IDUS can identify malignancy and its extension beyond the muscularis propria ([[asge-2015-ampullary-duodenal-adenomas]]).
 - **Selected patients only** — routine use is weighed against training, cost and pancreatitis risk ([[esge-2021-ampullary-tumors]]).
-- The graded pre-resection ultrasound recommendation is for **EUS**, not IDUS: EUS for large lesions or those with features concerning for malignancy. Lesions <1 cm without obvious signs of malignancy (ulceration, induration, bleeding) may not require ultrasound evaluation at all before endoscopic removal ([[asge-2015-ampullary-duodenal-adenomas]]).
+- The graded pre-resection ultrasound recommendation is for **EUS**, not IDUS: EUS for large lesions or those with features concerning for malignancy. Some experts propose that lesions <1 cm **or** those without obvious signs of malignancy (ulceration, induration, bleeding) do not require ultrasound evaluation before endoscopic removal ([[asge-2015-ampullary-duodenal-adenomas]]).
 - Read across the whole literature, IDUS yields are **slightly higher than or comparable to EUS** ([[esge-2021-ampullary-tumors]]) — a narrower margin than the single-study gaps in the table below.
 
 ## Malignant Criteria
