@@ -261,7 +261,7 @@ Each complication has its own page; this hub only routes to them.
 
 | Vaccine | Statement | Strength |
 |---|---|---|
-| Hepatitis A | Test for immunity, vaccinate if nonimmune | **Strong** |
+| [[hepatitis-a\|Hepatitis A]] | Test for immunity, vaccinate if nonimmune | **Strong** |
 | Hepatitis B | Test for immunity, immunize if nonimmune | Conditional (very low) |
 | Influenza | Annual immunization | **Strong** |
 | SARS-CoV-2 | Complete the vaccination series | **Strong** |

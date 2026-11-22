@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-22] lint | Manual pass — ingest by budget ($25)
+
+**Scope:** backlog mode, $25 budget. No `ingest: partial` source page open. New raw files one at a time under *Verified ingest*.
+
+**Inbox sync:** `git status --untracked-files=all raw` clean — no new files under `raw/`. Nothing to commit.
+
+**Pick order:** remaining US tier-1 backlog = ACIP 2020 hepatitis A (~30k words), ASCO 2021 irAE (~46k), ASPEN-SCCM 2016 (~45k), ASGE 2020 DOPyS/CSPAT appendices. Picked ACIP 2020 first (smallest; no hepatitis A page yet while hepatitis B/C/D/E all have one).
+
+**`[[acip-2020-hepatitis-a]]` — new source (Nelson et al, Prevention of Hepatitis A Virus Infection in the United States: ACIP Recommendations, 2020, MMWR Recomm Rep 2020;69[RR-5]:1–38).** Tier 1 (CDC/ACIP guideline, US); public domain (not CC — no figure embedded; Figures 1–3 described).
+- *Extract* (fresh agent, printed pp. 2, 5–6, 9, 12–15, 17–21, 23, 35–36 rendered): every ACIP recommendation and "CDC clinical guidance" item with locator (ACIP numbers nothing and prints no GRADE types — wiki R1–R30); BOX and Tables 1–4 recreated; epidemiology, natural history, serology, vaccines, IG, Appendices A–B; 6 printed inconsistencies listed (ALT/AST criterion text vs Table 3; Table 4 ">6 months" travel rows vs ≥12-month text; Twinrix ">19" vs "≥19"; second dose "6 months" vs "at least 6 months"; contraindication wording; IG for exposed adults >40 y "is recommended" vs "may").
+- *Gate:* 0 ABSENT/OTHER; 2 NOMATCH (the page's own Contradictions lines); 81 SIGN — Table 4 (printed p. 19) read off the rendered page by the main thread; the remaining sign lines read on rendered pages by the verifier (≈80 confirmed).
+- *Independent check* (fresh agent, ~300 claims): 0 management, 2 minor — Table 2 footnote carried a body-text sentence (2017 dosing change) → footnote restored to its printed content; omitted HepB half of the Twinrix mixing rule (p. 23) added. Both confirmed against the text and fixed. `verified: 2026-11-22` set.
+- *Propagation:* new disease script [[hepatitis-a]] (sibling of hepatitis B/C/D/E) built from the verified source page — diagnosis/serology table, Table 3 risk table, vaccine table, PEP table (Table 4 postexposure rows), built-from travel table, testing/revaccination, schedule rules, setting-based PEP; ACG 2026 Rec 10 (test immunity + vaccinate in cirrhosis, strong/low) surfaced against ACIP's optional prevaccination testing (newer US guideline governs in cirrhosis). Inline links added on [[cirrhosis]] (vaccine table), [[ibd-preventive-care]] (ACIP row), [[acute-liver-failure]] (hyperacute causes) — link-only edits.
+- `index.md`: source row (Sources → Other) and [[hepatitis-a]] row (Hepatopancreaticobiliary Diseases).
+- *Gate on [[hepatitis-a]]:* 0 ABSENT/OTHER; 1 NOMATCH (the ACG-vs-ACIP comparison pearl — checked by hand and by the verifier); SIGN lines all checked by the verifier on rendered pages. Link-only edits on the other three pages leave their stamps alone.
+- *Independent check of [[hepatitis-a]]* (fresh agent, ~150 claims, every ACIP page read as an image): **1 management** — child-care PEP rule left out the no-diapered-children limit (PEP only for the index patient's contacts) and the employee-case rule (Appendix B, p. 36) → both added. 5 minor: ACG 2026 Rec 10's boxed statement is vaccination only (testing for immunity is in its narrative and its Table 1 wording) → pearl reworded; IDSA transplant guidance covers all solid organ candidates (liver named in particular), with its two age bands; adoptee contacts only for adoptees from high/intermediate-endemicity countries; the 79.7% vs 92.3% 15-day seroconversion compares adults ≥40 with adults 20–30; HIV 50%–94% locator → p. 8. All confirmed against the PDFs and fixed. `verified: 2026-11-22` set.
+- *Fix every copy:* the child-care, adoptee, IDSA and seroconversion wording on [[acip-2020-hepatitis-a]] was already correct (the errors came in during propagation). [[acg-2026-preventive-care-cirrhosis]] Rec 10 quotes ACG's Table 1 wording ("testing for hepatitis A immunity and HAV vaccination"), which the PDF does print — left as is; the boxed statement on p. 9 says vaccination only (internal ACG wording difference).
+- *Cards:* **not written** — this session cannot write to `/cards`. [[hepatitis-a]] is verified and tier-1-sourced, so it is eligible: the next card pass should card it (owner facts: IgM-only-if-symptomatic, 2-week PEP window, PEP by age/risk table, Twinrix not for PEP, 6–11-month traveler vaccine without IG, HIV postvaccination testing ≥1 month / ≥10 mIU/mL, ALT/AST persistently >2× ULN). The cirrhosis HAV vaccination fact stays owned by the [[cirrhosis]] card file.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-21] lint | Quality review — release sweep (second manual run, $40 budget)
 
 **Scope:** Quality review step only (`review-queue.py --pages 10`), by budget. No ingest, no new pages.

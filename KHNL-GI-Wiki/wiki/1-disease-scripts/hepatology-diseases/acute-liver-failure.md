@@ -80,7 +80,7 @@ sources: [acg-2023-alf, aga-2017-acute-liver-failure, acg-2016-liver-disease-pre
 
 | Type | Time to HE from [[jaundice\|Jaundice]] | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
 |---|---|---|---|---|
-| Hyperacute | < 7 days | APAP, hepatitis A virus (HAV), hepatitis E virus (HEV), ischemic | High | Best |
+| Hyperacute | < 7 days | APAP, [[hepatitis-a\|hepatitis A virus (HAV)]], hepatitis E virus (HEV), ischemic | High | Best |
 | Acute | 7–21 days | [[chronic-hepatitis-b\|hepatitis B virus (HBV)]] | Intermediate | Intermediate |
 | Subacute | > 21 days, < 26 weeks | Non-APAP DILI | Low | Worst |
 
