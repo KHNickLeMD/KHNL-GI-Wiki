@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on the Evaluation and Management of Metabol
 category: source
 tags: [metald, masld, ald, sld, steatotic-liver-disease, alcohol, aud, fibrosis, fib-4, vcte, peth, glp-1, bariatric]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU MetALD Evaluation and Management (Arab).pdf"
 ---
@@ -35,7 +36,7 @@ The update's operative content is in two algorithms and five tables: the grams-p
 - **BPA 3 — Counselling.** Alcohol consumption increases hepatic steatosis accumulation and fibrosis progression in a **dose-dependent manner in nearly all forms of chronic liver disease**, including MetALD. All patients should be advised to **discontinue** alcohol use, recognizing that abstinence may be preceded by periods of use reduction and intermittent use.
 - **BPA 4 — Tiered fibrosis strategy.** A tiered, noninvasive strategy combining routine blood-based biomarkers with simple fibrosis scores such as the **Fibrosis-4 Index (FIB-4)** should be used to identify low-risk patients with MetALD and to triage those at indeterminate or high risk to second-line tests (e.g. elastography or serum Enhanced Liver Fibrosis [ELF] test) for detection of advanced fibrosis and cirrhosis.
 - **BPA 5 — Imaging-based staging, with a caveat.** Vibration-controlled transient elastography (VCTE) and magnetic resonance–based techniques are objective noninvasive tools that assess fibrosis stage and steatosis burden in MetALD; however, **liver stiffness values should be interpreted cautiously in the presence of active alcohol use, which can transiently increase stiffness**.
-- **BPA 6 — Medical management.** Should include dietary counselling and replenishment of **micronutrient deficiencies (folate, thiamine, vitamin D)** as well as **aerobic exercise** to improve body weight and muscle mass, along with treatment of concomitant cardiometabolic risk factors.
+- **BPA 6 — Medical management.** Should include dietary counselling and replenishment of **micronutrient deficiencies** (supporting text: folic acid, thiamine, vitamin A, vitamin D and zinc should be replaced; serum vitamin A, D and zinc levels guide replacement where available) as well as **aerobic exercise** to improve body weight and muscle mass, along with treatment of concomitant cardiometabolic risk factors.
 - **BPA 7 — MASLD drugs in MetALD.** The safety and efficacy of US Food and Drug Administration (FDA)-approved treatments for noncirrhotic MASLD (**resmetirom and semaglutide**) **has not been formally studied in MetALD**. However, preliminary data suggest that **glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptor agonists may reduce alcohol cravings and consumption and improve hepatic parameters**.
 - **BPA 8 — AUD treatment.** Medical management of patients with MetALD and **moderate or severe AUD** should include use of **AUD pharmacotherapy and behavioural approaches** to reduce alcohol consumption.
 - **BPA 9 — Bariatric approaches.** Endobariatric and bariatric surgery are **not advisable** for patients with MetALD, due to the lack of safety and efficacy data as well as concerns regarding **accelerated liver disease progression with continued alcohol use after surgery**.
@@ -63,12 +64,12 @@ Three parallel assessment arms (cardiometabolic risk factors · liver fibrosis �
 
 - **Urinary ethyl glucuronide (uEtG) and ethyl sulfate** — minor ethanol metabolites detectable in urine for **3–7 days** after ingestion; validated in chronic liver disease, but quantitative values do not reliably correlate with level of exposure.
 - **Serum phosphatidylethanol (PEth)** — erythrocyte membrane-bound lipid species formed only in the presence of ethanol in blood; **2- to 4-week detection window**. Bands: **<20 ng/mL** abstinence or low consumption · **≥20 but <200 ng/mL** alcohol consumption · **≥200 ng/mL** strongly suggestive of chronic excessive consumption.
-- PEth independently predicts hepatic decompensation even after accounting for noninvasive fibrosis tests, though its prognostic accuracy fades quickly over time (AUC 0.77 at 6 months → 0.62 at 2 years) while fibrosis-based tests remain strong predictors. A **rising follow-up PEth carried a nearly 5-fold higher risk** of hepatic decompensation.
+- In individuals at risk of ALD, PEth independently predicts hepatic decompensation even after accounting for noninvasive fibrosis tests, though its prognostic accuracy fades quickly over time (AUC 0.77 at 6 months → 0.62 at 2 years) while fibrosis-based tests remain strong predictors. A **rising follow-up PEth carried a nearly 5-fold higher risk** of hepatic decompensation.
 - A positive biomarker **does not diagnose AUD** — it identifies at-risk patients and creates an objective record for risk stratification.
 
 ### Table 1 — DSM-5 AUD criteria and severity
 
-≥2 of 11 criteria within a 12-month period. Severity by number met: **mild 2–3 · moderate 4–5 · severe ≥6**. (The document notes this is its own reformatted summary, not a reproduction of the DSM-5 layout.)
+≥2 of 11 criteria within a 12-month period. Severity by number met: **mild 2–3 · moderate 4–5 · severe ≥6**. (The document notes this is its own reformatted summary, not a reproduction of the DSM-5 layout.) Its text gives different bands — "1–2 mild, 3–5 moderate, 6+ severe"; BPA 8 turns on moderate/severe AUD.
 
 ### Table 2 — NIAAA drinking patterns
 
@@ -76,7 +77,7 @@ One standard drink = 12 oz of 5% beer, 5 oz of 12% wine, or 1.5 oz of 40% spirit
 
 ### Table 3 — noninvasive fibrosis test performance in MetALD (AUROC)
 
-Selected values: VCTE 0.74 (≥F2), 0.83 (≥F3), 0.93 (F4). AGILE 3+ 0.86 in MASLD / 0.92 in ALD (≥F3), 0.96 (F4). AGILE 4 0.911 (≥F3), 0.89–0.97 MASLD / 0.94 ALD (F4). MRE 0.92 / 0.92 / 0.94. 2D-SWE 0.72–0.89 / 0.77–0.88 / 0.70–0.88. FIB-4 0.77 / 0.85 / 0.89. ELF 0.84 (≥F2 in ALD), 0.80–0.81 (≥F3), 0.92–0.94 (F4 in ALD).
+Selected values: VCTE 0.74 (≥F2), 0.83 (≥F3), 0.93 (F4). AGILE 3+ 0.86 in MASLD / 0.92 in ALD (≥F3), 0.96 (F4). AGILE 4 0.911 (≥F3), 0.89–0.97 MASLD / 0.94 ALD (F4). MRE 0.92 / 0.92 / 0.94. 2D-SWE 0.72–0.89 / 0.77–0.88 / 0.70–0.88. FIB-4 0.77 / 0.85 / 0.89. ELF 0.84 (≥F2 in ALD), 0.80–0.81 (≥F3; 0.92 in ALD), 0.94 (F4 in ALD).
 
 ### Table 4 — AUD relapse-prevention pharmacotherapy (doses and liver considerations)
 
@@ -90,7 +91,7 @@ SBIRT (any clinician) · cognitive behavioural therapy · motivational enhanceme
 
 - **No identifiable safe alcohol threshold** exists for patients with SLD, especially once fibrosis is established. Counselling should focus on **abstinence or near-abstinence rather than "safe limits."**
 - **Liver biopsy is not justified** merely to label an SLD subtype — histologic features overlap substantially across MASLD, ALD and MetALD and specimens often cannot attribute the predominant etiology. Reserve biopsy for atypical serologic/imaging findings raising concern for alternative or additional liver disease (autoimmune hepatitis, hemochromatosis, cholestatic disease) where histology would meaningfully change management.
-- **Timing of stiffness measurement:** LSM should ideally be measured after a period of alcohol reduction or abstinence (**at least 2–4 weeks**); discordant findings (high stiffness with low FIB-4 and ELF, or preserved platelets and synthetic function) should prompt reassessment over time. Measuring serum PEth or uEtG **at the time of LSM** is advisable. In ALD cohorts liver stiffness falls substantially within days of alcohol withdrawal.
+- **Timing of stiffness measurement:** LSM should ideally be measured after a period of alcohol reduction or abstinence (**at least 2–4 weeks**); discordant findings (high stiffness with low FIB-4 and ELF, or preserved platelets and synthetic function) should prompt reassessment over time, integration with serum-based fibrosis scores, and, in selected cases, liver biopsy. Measuring serum PEth or uEtG **at the time of LSM** is advisable. In ALD cohorts liver stiffness falls substantially within days of alcohol withdrawal.
 - **Diet/exercise specifics:** ≥5% body weight loss improves steatosis, 7%–10% improves inflammation, ≥10% can improve hepatic fibrosis. Mediterranean or similar plant-based diet. Exercise goal **150–300 min of moderate or 75–150 min of vigorous activity weekly, exercising 5 times a week**. One standard drink of beer / wine / spirits contributes ≈150 / 120 / 100 kCal, so minimizing alcohol also reduces caloric intake — patients should be advised not to substitute food for alcohol. Smoking is profibrogenic and pro-oncogenic and should be avoided in all chronic liver disease.
 - **Bariatric detail behind BPA 9:** metabolic bariatric surgery (MBS) accelerates gastric emptying of liquids and reduces gastric mucosal alcohol metabolism → earlier and higher blood alcohol levels; increased bioavailability most pronounced with Roux-en-Y gastric bypass but also sleeve gastrectomy. Post-MBS patients who drink are more prone to perioperative complications, intoxication and AUD. Patients with MetALD **should not undergo elective bariatric or endobariatric surgery until sustained alcohol abstinence is demonstrated**; known/suspected AUD should be treated and in stable remission **≥2 years** before consideration.
 - GLP-1 receptor agonist trials in this space are ongoing, not concluded: STAR (phase II), SEMALCO, CRAVE (planned phase II). A MAESTRO-NASH subgroup of 75 patients (9.6%) meeting PEth/carbohydrate-deficient transferrin criteria for MetALD showed a similar resmetirom response to MASH alone.
@@ -99,13 +100,13 @@ SBIRT (any clinician) · cognitive behavioural therapy · motivational enhanceme
 
 - **[[metald]]** — **new disease-script page** created from this source; it is the first page the wiki has for this entity. Owns the MetALD definition and grams/week thresholds, the fibrosis-staging pathway with its kPa decision points, the stiffness-in-active-drinking caveat, the MetALD-specific therapeutics, and the bariatric contraindication.
 - **[[nafld-masld]]** — SLD nomenclature table now links to the MetALD page; the no-safe-threshold and biopsy-not-for-subtyping points are MetALD-specific and stay there.
-- **[[alcohol-associated-liver-disease]]** — already owns AUD screening, alcohol biomarkers and AUD pharmacotherapy. This source adds the PEth 3-band cut-points and the ≥2–4 week abstinence rule before interpreting stiffness.
+- **[[alcohol-associated-liver-disease]]** — already owns AUD screening, alcohol biomarkers and AUD pharmacotherapy. This source adds the PEth 3-band cut-points and the rule to measure stiffness after ≥2–4 weeks of alcohol reduction or abstinence.
 - **[[liver-stiffness-measurement]]** — the transient-elevation caveat and timing rule.
 - **[[glp-1-receptor-agonists]]**, **[[semaglutide]]** — the alcohol-craving signal and the "not studied in MetALD" limit.
 
 ## Contradictions / Open Questions
 
-- **No contradiction with [[aasld-2023-masld-nomenclature]]** — the alcohol thresholds are the same numbers expressed per week rather than per day (140–350 g/wk ♀ = 20–50 g/d; 210–420 g/wk ♂ = 30–60 g/d). AGA 2026 prefers the **weekly** expression explicitly, as it is what epidemiologic studies and trials stratify on, and adds the ≥3-month averaging window the 2023 nomenclature did not specify.
-- **Against [[acg-2024-ald]] / [[aasld-2020-ald]] on bariatric surgery:** this update advises **against** endobariatric and bariatric surgery in MetALD, while the MASLD literature treats bariatric surgery as a weight-loss option. The distinction is the alcohol axis, not a disagreement about MASLD.
+- **No contradiction with [[aasld-2023-masld-nomenclature]]** — the alcohol thresholds are the same numbers expressed per week rather than per day (140–350 g/wk ♀ = 20–50 g/d; 210–420 g/wk ♂ = 30–60 g/d). AGA 2026 prefers the **weekly** expression explicitly, as it is what epidemiologic studies and trials stratify on.
+- **Internal inconsistency on bariatric surgery:** BPA 9 says endobariatric and bariatric surgery are not advisable in MetALD, yet the document's own Figure 2 cardiometabolic arm lists bariatric surgery as a weight-loss option. BPA 9 is the statement.
 - **Ungraded by design** — no evidence quality or strength ratings accompany any of the 9 statements; the document says so in its Methods. Claims here are expert opinion backed by cited observational data.
-- The precise CMRF × alcohol interaction, and whether resmetirom or semaglutide are safe and effective in MetALD, remain unanswered. The document flags this as the central unmet need.
+- The document names a clear unmet need to identify safe and effective treatments for the underlying CMRFs and excessive alcohol consumption in MetALD.

@@ -218,9 +218,9 @@ flowchart TD
 | **FIB-4 (± APRI, NFS)** | First-line rule-out of advanced fibrosis; rule-in at high values; initial triage of abnormal liver chemistries [[aasld-2024-nilda-blood]] |
 | **Elastography (vibration-controlled transient elastography [VCTE]/magnetic resonance elastography [MRE]) or ELF** | Confirmatory rule-in when FIB-4 ≥1.3; LSM also stages cACLD and CSPH [[aasld-2024-nilda-blood]], [[aasld-2024-nilda-portal-htn]] |
 | **Platelet count** | Combined with LSM for noninvasive CSPH staging; also a component of VOCAL-Penn [[aasld-2024-nilda-portal-htn]], [[acg-2025-perioperative-cirrhosis]] |
-| **Spleen stiffness measurement (SSM)** | Adds discrimination in the indeterminate zone; less affected by acute injury than LSM [[aasld-2024-nilda-portal-htn]] |
+| **Spleen stiffness measurement (SSM)** | Rapidly evolving; SSM ≥40 kPa suggests CSPH when LSM + platelets are indeterminate; less affected than LSM by elimination of injurious agents [[aasld-2024-nilda-portal-htn]] |
 | **[[liver-biopsy\|Liver biopsy]]** | Reserved for diagnostic uncertainty; imperfect reference standard [[aasld-2024-nilda-blood]] |
-| **[[upper-endoscopy\|Upper endoscopy]]** | Variceal screening — can often be deferred when LSM <15 kPa with platelets >150 ×10⁹/L [[aasld-2024-nilda-portal-htn]] |
+| **[[upper-endoscopy\|Upper endoscopy]]** | Varices, if present, indicate CSPH (further testing when LSM + platelets are indeterminate) [[aasld-2024-nilda-portal-htn]]; variceal screening rules → [[variceal-upper-gi-bleeding]] |
 | **Cross-sectional imaging** | Identifies portosystemic collaterals and complications of portal hypertension; supports preoperative CSPH assessment [[acg-2025-perioperative-cirrhosis]] |
 | **Diagnostic [[paracentesis]]** | All new-onset [[ascites]]: polymorphonuclear (PMN) count, total protein, albumin (serum-ascites albumin gradient [SAAG]), culture [[aasld-2021-ascites-sbp-hrs]] |
 | **HVPG** | Gold standard for portal pressure; consider when LSM ~14–25 kPa without decompensation and confirming absence of CSPH would change management [[acg-2025-perioperative-cirrhosis]] |

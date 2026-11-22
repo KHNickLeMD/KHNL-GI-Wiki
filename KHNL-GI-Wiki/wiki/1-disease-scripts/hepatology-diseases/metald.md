@@ -57,7 +57,7 @@ Risk sits above MASLD at every fibrosis stage — combining metabolic dysfunctio
 
 *([[aga-2026-metald]] Figure 1.)*
 
-- **Alcohol use disorder (AUD) severity** (DSM-5, ≥2 of 11 criteria in 12 months): **mild 2–3 · moderate 4–5 · severe ≥6**. The threshold matters — moderate or severe AUD triggers pharmacotherapy (Therapeutics below).
+- **Alcohol use disorder (AUD) severity** (DSM-5, ≥2 of 11 criteria in 12 months): **mild 2–3 · moderate 4–5 · severe ≥6** (AGA 2026 Table 1; its text gives 1–2 / 3–5 / 6+). The threshold matters — moderate or severe AUD triggers pharmacotherapy (Therapeutics below).
 - DSM-5 AUD criteria **do not include alcohol quantity** — they are 11 alcohol-associated symptoms and consequences. Quantity and category are assessed separately.
 
 ## Differential Diagnosis
