@@ -151,7 +151,7 @@ The update also addresses the US-specific barriers to ESD (Table 1) — underest
 - **Barrett's first-line modality.** This update states "EMR is considered the first-line therapy for BE" while also giving a list of BE features that favor ESD (BPA 4). [[asge-2023-esd|American Society for Gastrointestinal Endoscopy (ASGE) 2023]] later frames the choice by lesion size (ESD over EMR for esophageal adenocarcinoma [EAC] >20 mm). Per source priority, the newer ASGE 2023 guideline governs the size-based technique choice; this update contributes the **lesion-feature** indications (nodularity, equivocal histology, recurrent dysplasia, positive-margin EMR specimen), which ASGE 2023 does not enumerate.
 - **Barrett's size threshold.** Table 2 here suggests ESD for BE T1a lesions **≥15 mm** not amenable to en bloc EMR; [[asge-2023-esd|ASGE 2023]] uses **>20 mm** for EAC. Both are stated on their own pages; the newer guideline's threshold is what the entity pages assert.
 - **Gastric expanded criteria and poorly differentiated lesions.** BPA 3 includes "poorly differentiated superficial cancers ≤2 cm"; [[asge-2023-esd|ASGE 2023]] directs **poorly differentiated gastric cancer of any size toward surgical evaluation**. Newer guideline governs; the discrepancy is noted on [[endoscopic-submucosal-dissection]].
-- The update gives **no numeric adverse-event rates** for duodenal ESD; [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] supplies the 23%–35% perforation figure already on [[nonampullary-duodenal-adenoma]].
+- The update gives **no numeric adverse-event rates** for duodenal ESD; [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] supplies the perforation figures (23% and 35% in two series) already on [[nonampullary-duodenal-adenoma]].
 
 ---
 

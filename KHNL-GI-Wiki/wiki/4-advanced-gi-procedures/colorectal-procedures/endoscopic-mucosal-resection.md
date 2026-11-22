@@ -4,6 +4,8 @@ category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy, aga-2026-electrosurgery]
 ---
 
@@ -84,7 +86,7 @@ Lesion assessment, size-based technique selection and the full USMSTF algorithm 
 | Significant portion hidden (e.g. behind a haustral fold on the cecal side) | **Proximal (cecal) edge injection** first, aided by retroflexion |
 
 - Retroflexion is generally safe with a colonoscope in **cecum, ascending, transverse, rectum**; in **sigmoid and descending colon use an upper endoscope** instead.
-- **Whether to inject:** optional at **10–19 mm** (USMSTF); **cold snare without injection** non-inferior to injection-based methods **≤15 mm**; viscous agents preferred **≥20 mm**; pedunculated polyps at the endoscopist's discretion; sessile serrated lesions often need none, especially **<20 mm** or with clearly visible margins ([[aga-2025-lifting-agents]]).
+- **Whether to inject:** optional at **10–19 mm** (USMSTF); **cold snare without injection** non-inferior to injection-based methods **≤15 mm**; viscous agents preferred **≥20 mm**; pedunculated polyps at the endoscopist's discretion; sessile serrated lesions do not always require injection, especially **<20 mm** or with margins clearly visible without it ([[aga-2025-lifting-agents]]).
 
 #### Lifting agents — properties and trade-offs
 
@@ -115,12 +117,12 @@ Either a cut- or a coagulation-predominant current can be used for colorectal po
 
 | Step | AGA 2026 (ERBE) | USMSTF 2020 Table 5 (ERBE) |
 |---|---|---|
-| Inject-and-cut EMR | EndoCut Q, effect 2–3, duration 2–3, interval 2–3 (Table 2) | Endocut Q, effect 2/3, cut duration 1, cut interval 4 |
+| Inject-and-cut EMR | EndoCut Q, effect 2–3, duration 2–3, interval 2–3; or forced coagulation, effect 2–3, 30–40 W (Table 2). BPA 5's cited trial used EndoCut Q effect 2, duration 1, interval 4 vs forced coagulation effect 2, 25 W | Endocut Q, effect 2/3, cut duration 1, cut interval 4 |
 | Snare-tip soft coagulation (STSC) | — | Soft Coag, effect 5, maximum 80 W |
 | Hot forceps avulsion | EndoCut I, effect 3, duration 1, interval 3 (BPA 10 text) | Endocut I, effect 1, cut duration 4, cut interval 1 |
 | Underwater EMR | Higher power output needed to cut under water; consult the manufacturer | Autocut or Drycut, effect 5, maximum 80 W (text: Drycut, effect 5, 60 W, VIO 300D) |
 
-- Where the numbers differ, the newer [[aga-2026-electrosurgery|AGA 2026]] values take precedence; AGA 2026 offers them as a reference only — confirm with the manufacturer. Olympus and ConMed settings: [[electrosurgery#Settings by Indication and Manufacturer]].
+- [[aga-2026-electrosurgery|AGA 2026]] offers its settings as a reference only — confirm with the manufacturer case by case. Olympus and ConMed settings: [[electrosurgery#Settings by Indication and Manufacturer]].
 
 ### Underwater EMR
 
@@ -142,7 +144,8 @@ Either a cut- or a coagulation-predominant current can be used for colorectal po
 - **For:** focal areas of visible neoplasia that will not lift because of **fibrosis** (prior biopsy, incomplete resection, or tattoo) and resist snare resection — residual or recurrent tissue ([[aga-2026-electrosurgery]] BPA 10; [[usmstf-2020-endoscopic-removal]]).
 - **How:** grasp a **small surface area** with hot forceps and pull it away from the wall with **short bursts of cutting current (tap the pedal)**; never prolonged continuous activation — deep injury → bleeding, post-coagulation syndrome, delayed perforation ([[aga-2026-electrosurgery]]).
 - **Cutting (Endocut) current, not coagulation**, in both USMSTF 2020 and AGA 2026 (settings above; why: [[electrosurgery#Hot Forceps Avulsion for Non-Lifting Fibrosis]]) — unlike hot biopsy polypectomy, which tents the tissue under coagulation current.
-- One retrospective study (20 patients, non-lifting areas mean 4.4 mm): **15% recurrence**, retreated with hot avulsion. Efficacy and safety **outside the colon are undetermined** ([[aga-2026-electrosurgery]]).
+- One retrospective study (20 patients, non-lifting areas mean 4.4 mm): **15% recurrence**, retreated with hot avulsion ([[usmstf-2020-endoscopic-removal]]).
+- Efficacy and safety **outside the colon are undetermined** ([[aga-2026-electrosurgery]]).
 
 ---
 

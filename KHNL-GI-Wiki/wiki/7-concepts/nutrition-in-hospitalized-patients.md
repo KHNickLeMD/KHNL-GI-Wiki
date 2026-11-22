@@ -3,203 +3,283 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-09-05
+updated: 2026-11-22
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
 ## Contents
 - [[#Overview]]
 - [[#Nutritional Risk Assessment]]
-- [[#Enteral vs. Parenteral Nutrition]]
+  - [[#NRS-2002]]
+  - [[#NUTRIC Score]]
+  - [[#Markers to Avoid]]
+- [[#Energy and Protein Requirements]]
+- [[#Choosing the Route]]
+  - [[#Contraindications to EN]]
 - [[#Enteral Access]]
-  - [[#Periprocedural Management of a Percutaneous Tube]]
 - [[#Initiating and Advancing EN]]
+  - [[#Permissive Underfeeding]]
   - [[#Refeeding Syndrome]]
-- [[#Supplemental Parenteral Nutrition]]
 - [[#Formula Selection]]
-- [[#Nutrition in Specific Situations]]
+- [[#Monitoring Tolerance]]
+  - [[#Aspiration Risk]]
+  - [[#Diarrhea on EN]]
+- [[#Parenteral Nutrition]]
 - [[#End-of-Life Nutrition]]
 - [[#See Also]]
 - [[#Sources]]
 
 ## Overview
 
-Nutrition support in the hospitalized patient encompasses the assessment of nutritional risk, the decision between enteral and parenteral routes, caloric and protein dosing, monitoring of feeding tolerance, and the ethical dimensions of artificial nutrition at end of life. The gastrointestinal (GI) tract is not merely a digestive organ but also a critical immune and barrier organ; preserving its integrity by using enteral nutrition (EN) is a central principle of modern nutrition therapy [[acg-2016-nutrition-hospitalized]].
+- Scope: adult hospitalized patient unable to sustain volitional intake, expected to stay >3 days — ward or intensive care unit (ICU); most evidence comes from the ICU ([[acg-2016-nutrition-hospitalized]]).
+- **Nutritional risk** (nutritional status + disease severity), not malnutrition alone, sets how hard to feed: high-risk patients benefit most from early enteral nutrition (EN); in low-risk patients, EN or parenteral nutrition (PN) is unlikely to change outcome.
+- Early EN also has non-nutritional benefits — maintains gut integrity and gut-associated lymphoid tissue (GALT), modulates immune and metabolic responses (ACG 2016 Table 4).
+- Disease-specific nutrition: [[acute-pancreatitis]], [[nutrition-in-liver-disease|liver disease]], [[nutrition-in-ibd|inflammatory bowel disease (IBD)]].
 
 ---
 
 ## Nutritional Risk Assessment
 
-**Validated screening tools:**
+- **Rec 5** — before any specialized nutrition therapy (EN or PN), score nutritional risk with a validated system — Nutritional Risk Score 2002 (NRS-2002) or NUTRIC Score — in every admitted patient whose volitional intake is expected to be insufficient (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
+- **Rec 6a** — also assess factors that shape the regimen: comorbid conditions, function of the gastrointestinal (GI) tract, risk of aspiration (Conditional, Very low).
 
-- **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; total = impaired-nutritional-status points + disease-severity points + age point (scoring below)
-- **NUTRIC Score**: validated for intensive care unit (ICU) patients; six factors, scored 0–3 each (scoring below)
+### NRS-2002
 
-**NUTRIC scoring** (American College of Gastroenterology [ACG] 2016 Table 5) [[acg-2016-nutrition-hospitalized]] — total from **six separate factors**:
+ACG 2016 Table 5 [[acg-2016-nutrition-hospitalized]]:
+
+| Points | Impaired nutritional status | Severity of disease |
+|---|---|---|
+| **0** | Normal nutritional status | Normal nutritional requirements |
+| **1** (mild) | Weight loss >5% in 3 mo; OR food intake <50–75% of normal requirement in preceding week | Hip fracture; chronic disease with acute complications — [[cirrhosis]], chronic obstructive pulmonary disease (COPD), chronic hemodialysis, diabetes, oncology |
+| **2** (moderate) | Weight loss >5% in 2 mo; OR body mass index (BMI) 18.5–20.5 + impaired general condition; OR food intake 25–50% of normal requirement in preceding week | Major abdominal surgery, stroke, severe pneumonia, hematologic malignancy |
+| **3** (severe) | Weight loss >5% in 1 mo (15% in 3 mo); OR BMI <18.5 + impaired general condition; OR food intake <25% of normal requirement in preceding week | Head injury, bone marrow transplantation, ICU patients (Acute Physiologic and Chronic Health Evaluation [APACHE] II >10) |
+
+- **Total = nutritional-status points + disease-severity points + 1 point if age ≥70 y.**
+
+| Total | What ACG 2016 cites | Risk |
+|---|---|---|
+| **≤3** | >1,000 patients awaiting major elective surgery: no change in outcome whether or not sufficient nutrition therapy was received | Low |
+| **>3** | Randomized controlled trial (RCT), 132 patients: more aggressive therapy → 30% greater receipt of calories and protein, fewer total complications and re-hospitalizations | High |
+| **≥5** | Same elective-surgery cohort: sufficient therapy (>10 kcal/kg/day for 7 days before surgery) → 50% reduction in nosocomial infection and total complications | High |
+
+### NUTRIC Score
+
+ACG 2016 Table 5 — total from six separate factors [[acg-2016-nutrition-hospitalized]]:
 
 | Factor | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
 | **Age (years)** | <50 | 50–74 | ≥75 | — |
-| **Acute Physiology and Chronic Health Evaluation (APACHE) II score** | <15 | 15–19 | 20–27 | ≥28 |
-| **Baseline Sequential Organ Failure Assessment (SOFA) score** | <6 | 6–9 | ≥10 | — |
+| **APACHE II score** | <15 | 15–19 | 20–27 | ≥28 |
+| **Baseline Simplified Organ Failure Assessment (SOFA) score** | <6 | 6–9 | ≥10 | — |
 | **No. of comorbidities** | 0–1 | ≥2 | — | — |
-| **Days in hospital before ICU admit** | 0 | ≥1 | — | — |
-| **Interleukin-6 (μg/mL)** | 0–399 | ≥400 | — | — |
+| **Days in hospital to ICU admit** | 0 | ≥1 | — | — |
+| **Interleukin-6 (μ/ml)** | 0–399 | ≥400 | — | — |
 
-- **Interpretation (ACG 2016):** **NUTRIC 6–10 = high** nutritional risk — in a large international ICU observational study, mortality fell the closer delivered nutrition came to goal feeding. **NUTRIC 0–5 = low** risk — no association between amount of nutrition delivered and mortality. [[acg-2016-nutrition-hospitalized]]
-- ⚠ **Do not confuse the bands with NRS-2002's.** The ≥5 cut-point belongs to NRS-2002's elective-surgery validation stratum, not to NUTRIC, where 5 is still *low* risk.
+- **6–10 = high risk** — in a large international ICU observational study, mortality fell the closer delivery came to goal feeding.
+- **0–5 = low risk** — no association between amount of nutrition received and mortality.
 
-**NRS-2002 scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]]:
+> [!pitfall] NUTRIC 5 is still low risk
+> The ≥5 cut-point belongs to NRS-2002 (elective-surgery cohort); on NUTRIC, high risk starts at 6 ([[acg-2016-nutrition-hospitalized]]).
 
-| Impaired nutritional status | Severity of disease |
-|---|---|
-| **0** — normal | **0** — normal requirements |
-| **1** (mild) — wt loss >5% in 3 mo; OR food intake 50–75% of normal in preceding week | **1** (mild) — hip fracture; chronic disease with acute complication ([[cirrhosis]], chronic obstructive pulmonary disease (COPD), chronic hemodialysis, diabetes, oncology) |
-| **2** (moderate) — wt loss >5% in 2 mo; OR body mass index (BMI) 18.5–20.5 + impaired general condition; OR intake 25–50% | **2** (moderate) — major abdominal surgery, stroke, severe pneumonia, hematologic malignancy |
-| **3** (severe) — wt loss >5% in 1 mo (>15% in 3 mo); OR BMI <18.5 + impaired general condition; OR intake <25% | **3** (severe) — head injury, bone marrow transplant, ICU patients (APACHE II >10) |
+### Markers to Avoid
 
-- **+1 point if age ≥70 years.** Total score = nutritional-status points + disease-severity points + age point.
-- **Interpretation (ACG 2016):** score **≤3 = low** nutritional risk (no outcome benefit from nutrition therapy in the validation cohort); score **>3 = high** nutritional risk (benefits from more aggressive nutrition therapy). Score **≥5** identified the high-risk stratum in the >1,000-patient elective-surgery validation study. [[acg-2016-nutrition-hospitalized]]
-
-**Biomarkers to avoid as nutrition markers** [[acg-2016-nutrition-hospitalized]]:
-
-- [[albumin|Albumin]], prealbumin (transthyretin), transferrin: all acute-phase reactants that fall with inflammation regardless of nutritional status; do not reflect nutritional repletion
-- Useful as inflammatory markers, but not as guides to nutrition therapy
-
-**Caloric needs:**
-
-- **Indirect calorimetry** is the gold standard (measures VO₂ and VCO₂ to calculate resting energy expenditure)
-- When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for [[obesity]] and critical illness phase)
-- **Protein** (as ACG 2016 states it): **1.2–1.5 g/kg/day** was historically thought sufficient; recent studies suggest the amount needed to *optimize* therapy is higher, **1.5–2.0 g/kg/day**. Needs "may be even higher" in **trauma or large wounds**, but ACG 2016 gives no number for that group. Note the **2.0–2.5 g/kg ideal body weight/day** figure belongs to the obese (BMI >30) hypocaloric regimen below — **not** to burns or trauma.
+- **Rec 6b** — avoid "traditional" indicators: [[albumin]], pre-albumin, transferrin, anthropometry (Conditional, Very low).
+- **Rec 6c** — surrogate markers of infection or inflammation not used for nutritional assessment (Conditional, Very low).
+- Why: albumin, pre-albumin and transferrin are negative acute-phase proteins — fall with acute inflammation, rise only as it abates; markers of risk and inflammation, not of nutrition adequacy.
+- Procalcitonin, interleukin-1, tumor necrosis factor, interleukin-6, citrulline: investigational, not for routine use.
 
 ---
 
-## Enteral vs. Parenteral Nutrition
+## Energy and Protein Requirements
 
-**EN is preferred when feasible** [[acg-2016-nutrition-hospitalized]]:
+- **Rec 7a** — determine caloric requirements and use them to set the delivery goal (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
+- **Rec 7b** — use one of three (each Conditional, Very low):
+  - **Indirect calorimetry (IC)** — most accurate, gold standard; in high-risk patients measure once or twice per week
+  - **Weight-based equation** — 25–30 kcal/kg/day
+  - **Published predictive equation** — matches IC in only 40–70%; use with caution (e.g., extreme obesity)
+- **Rec 8** — set protein requirements independently of calories; reassess provision on an ongoing basis (Conditional, Very low).
+  - 1.2–1.5 g/kg/day was thought sufficient; recent studies suggest **1.5–2.0 g/kg/day** to optimize therapy.
+  - Trauma or large wounds: needs "may be even higher" — ACG 2016 gives no number.
+  - Nitrogen balance alternative: protein g/day = (24-h urine urea nitrogen [UUN] + 4) × 6.25.
 
-- Preserves gut mucosal barrier (prevents bacterial translocation)
-- Maintains gut-associated lymphoid tissue (GALT)
-- Reduces infectious complications vs. parenteral nutrition (PN; meta-analyses)
-- Preferred over PN even at trophic rates
+---
 
-**When EN is NOT indicated:**
+## Choosing the Route
 
-- Low-risk, well-nourished patients expected to resume oral intake within 5–7 days (conditional)
-- Bowel obstruction, high-output proximal fistula, mesenteric ischemia, hemodynamic shock (relative contraindications until stabilized)
+```mermaid
+flowchart TD
+    A(["Admitted; volitional intake expected to be insufficient"]) -- "Rec 5" --> B["Score nutritional risk:<br/>NRS-2002 or NUTRIC"]
+    B -- "Low risk, well nourished, intake expected<br/>to resume within 5–7 days (Rec 3)" --> C(["No specialized nutrition therapy"])
+    B -- "Low risk, early EN not feasible (Rec 30a)" --> F(["No specialized nutrition therapy;<br/>withhold PN for the first week"])
+    B -- "High risk, EN feasible (Recs 1, 15)" --> D(["Start EN within 24–48 h of admission"])
+    B -- "High risk, EN not feasible (Rec 30b)" --> E(["Start PN as soon as possible"])
+    D -- "After 7–10 days, EN alone cannot meet >60%<br/>of energy and/or protein goals (Rec 31)" --> H(["Consider supplemental PN"])
+    H -- "EN provides >60% of energy<br/>and protein goals (Rec 34b)" --> I(["Stop PN"])
+    class A start
+    class B test
+    class D,E,H,I act
+    class C,F stop
+```
+*Route and timing of nutrition therapy in the hospitalized adult*
+*Source: built from ACG 2016 Recs 1, 3, 5, 15, 30a, 30b, 31 and 34b (the guideline has no flowchart)*
+*[[acg-2016-nutrition-hospitalized|ACG 2016 Nutrition Therapy in the Adult Hospitalized Patient]]*
+*NRS-2002 = Nutritional Risk Score 2002 · EN = enteral nutrition · PN = parenteral nutrition*
 
-**PN indications:**
+- Grades: Recs 1, 15 Conditional, Low · Rec 3 Conditional, Very low · Rec 30a Conditional, Very low · **Rec 30b Strong, Moderate** · **Rec 31 Strong, Moderate** · Rec 34b Conditional, Very low [[acg-2016-nutrition-hospitalized]].
+- Rec 31: supplemental PN started before 7–10 days in patients already on EN does not improve outcomes and may be detrimental — added on day 3 (vs day 8) it worsened infection, organ failure, hospital and ICU length of stay and cost.
+- **Rec 2** — EN preferred over PN when non-volitional nutrition therapy is needed and there is no contraindication to luminal nutrients (Conditional, Low). **Rec 4** — reserve PN for when EN is not feasible or not sufficient for energy and protein goals (Conditional, Very low).
+- EN's advantage over PN may be narrowing (a 2,400-patient multi-ICU RCT in England: no outcome difference), but PN's risk/benefit ratio is narrower.
+- **PN-dependent** patients ([[short-bowel-syndrome|short bowel syndrome]], chronic intestinal pseudo-obstruction): start PN immediately after admission unless there is ongoing bacteremia.
 
-- EN not feasible or tolerated
-- High-risk/malnourished patients: initiate PN as soon as possible when EN is impossible
-- Low-risk patients: withhold PN in first week; initiation of early PN associated with higher infection rates
+### Contraindications to EN
+
+| Absolute | EN with caution (once considered contraindications) |
+|---|---|
+| Mechanical obstruction of the GI tract · uncontrolled peritonitis · ischemic bowel | Ileus · open abdomen · recent gut anastomoses · GI bleeding · bowel-wall edema · stable patient on vasopressors to maintain adequate mean arterial pressure |
+
+- Bowel sounds are not a sensitive marker of GI function and are not required to start EN [[acg-2016-nutrition-hospitalized]].
 
 ---
 
 ## Enteral Access
 
-| Access | Indication | Notes |
-|---|---|---|
-| Nasogastric tube (NGT) | First-line for most patients | Confirm radiologically before use |
-| Orogastric tube (OGT) | Intubated patients | Same confirmation required |
-| Nasojejunal tube (NJT) | Gastric intolerance, aspiration risk | Post-pyloric placement |
-| Surgical jejunostomy | Expected EN >4 weeks with gastric dysfunction | Placed at time of surgery |
-| Percutaneous endoscopic gastrostomy (PEG) tube | EN expected >4 weeks, functional swallow impaired | Percutaneous endoscopic placement |
+ACG 2016 Recs 9–14 [[acg-2016-nutrition-hospitalized]]:
 
-Radiologic confirmation of tube position is required before EN initiation (Strong, Moderate evidence) [[acg-2016-nutrition-hospitalized]].
+| Rec | Situation | Access | Strength, evidence |
+|---|---|---|---|
+| 9a | Starting EN | Nasogastric or orogastric tube | Conditional, Very low |
+| 9b | Before the first feed | Radiologic confirmation of gastric placement (not needed with electromagnetic transmitter-guided tubes); no routine repeat films unless displacement is suspected — nausea/vomiting, regurgitation, coughing, retching, overt displacement | Conditional, Very low |
+| 10a | Gastric feeding poorly tolerated, or high aspiration risk | Convert to a post-pyloric tube — **only** in these patients | **Strong, Moderate-to-high** |
+| 10b | Gastric aspiration/decompression needed during jejunal feeding | Dual-lumen aspirate/feed nasoenteric tube, combined percutaneous gastrojejunostomy (GJ) tube, or separate gastrostomy + jejunostomy | Conditional, Very low |
+| 11 | Long-term access in [[gastroparesis]] or [[chronic-pancreatitis\|chronic pancreatitis]] | Jejunostomy tube | Conditional, Very low |
+| 12 | EN anticipated **>4 weeks** | Percutaneous device, gastric or jejunal | Conditional, Very low |
+| 13 | Percutaneous gastrostomy | Site in the gastric antrum — eases conversion to a GJ tube if gastric feeding fails | Conditional, Very low |
+| 14 | High risk of tube displacement | Secure the device at placement (e.g., nasal bridle; T-fasteners for a gastrostomy) | Conditional, Very low |
 
-**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **[[enteral-access|percutaneous endoscopic tube]]** (PEG, or jejunal extension through a PEG [PEGJ]/direct percutaneous endoscopic jejunostomy [DPEJ] for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
-
-- **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|gastroesophageal reflux disease (GERD)]], [[gastroparesis]], or recurrent tube-feed aspiration.
-- **Periprocedural care:** give an intravenous (IV) **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection) ([[asge-2011-enteral-feeding]]). Antithrombotic handling and feed timing are tabled below.
-- **Absolute contraindications** to PEG: inability to bring the anterior gastric wall in apposition with the abdominal wall, pharyngeal or esophageal obstruction, significant coagulopathy.
-- **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
-
-### Periprocedural Management of a Percutaneous Tube
-
-Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, feed timing, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
+- Small-bowel feeding helps only sicker patients: in an RCT, APACHE II >20 → shorter length of stay, fewer total complications, more EN delivered; no difference at APACHE II <20. Start gastric feeds while awaiting small-bowel expertise.
+- The 4-week cutoff is arbitrary — based on nasoenteric morbidity (nares erosion, aspiration pneumonia, sinusitis, esophageal ulceration/stricture).
+- Amyotrophic lateral sclerosis: time gastrostomy before forced vital capacity drops below 50%.
+- **Percutaneous endoscopic gastrostomy (PEG) placement** — PEG over interventional radiology–guided gastrostomy (IR-G) in normal foregut anatomy ([[asge-2025-gastrostomy-tubes]] Rec 1, Conditional, Low), intravenous (IV) [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]] ([[asge-2011-enteral-feeding]] Rec 5), antithrombotics, contraindications, technique, tube care and complications: see [[enteral-access]]; agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
 
 ---
 
 ## Initiating and Advancing EN
 
-**Timing:**
+- **Start:** high nutritional risk + unable to maintain volitional intake → EN within **24–48 h** of admission (Rec 15; Rec 1 "promptly"; both Conditional, Low) [[acg-2016-nutrition-hospitalized]].
+- **Advance:** tolerated → goal within **48–72 h** (Rec 16a); reduced tolerance → cautiously to goal by **5–7 days** (Rec 16b) (both Conditional, Very low).
+- High-risk patients: delivery of ≥80% of goal calories had the lowest mortality in a large mixed-ICU observational study.
+- After PEG, feeding may start early — within 4 h — rather than being routinely delayed ([[asge-2025-gastrostomy-tubes]] Rec 3, Strong; Moderate for RCTs, Low for all studies); details on [[enteral-access]].
 
-- High-risk or malnourished patients: start EN within 24–48h of admission (Rec 15, Conditional, Low evidence)
-- When tolerated, advance to goal within **48–72 h** (Rec 16a); with reduced tolerance, advance with caution to goal by **5–7 days** (Rec 16b)
-- ⚠ A starting rate of "10–20 mL/h" is **not stated in [[acg-2016-nutrition-hospitalized]]** — the only starting rate the guideline prints is the acute respiratory distress syndrome (ARDS) trophic arm below.
+### Permissive Underfeeding
 
-**Permissive underfeeding (acceptable in):**
+**Rec 17** — permissive underfeeding (hypocaloric feeding) is an acceptable alternative to full feeding in three scenarios [[acg-2016-nutrition-hospitalized]]:
 
-- **ARDS / acute lung injury** (Rec 17, Strong, High evidence): in the EDEN trial, **trophic feeding at 20 mL/h (25% of requirements) for the first 6 days**, then advanced to goal, gave outcomes equivalent to full feeds (80% of caloric requirements) from admission. Trophic feeding may **not** be appropriate at extremes of age, BMI, or disease severity.
-- **Obese, BMI >30** (Rec 17, Conditional, Very Low): high-protein hypocaloric regimen — **2.0–2.5 g protein/kg ideal body weight/day** plus **60–65%** of estimated or measured energy expenditure for total caloric delivery. Maintains lean body mass while depleting fat mass.
-
-**Feeding tolerance monitoring:**
-
-- Daily physical exam preferred over gastric residual volume (GRV) monitoring (Conditional, Very Low evidence)
-- Routine GRV monitoring NOT recommended; high GRV alone should not trigger EN cessation [[acg-2016-nutrition-hospitalized]]
-- Signs of intolerance: abdominal distension, discomfort, significant emesis
-- **Prokinetic agent** for the patient at high aspiration risk (Rec 23b(i), Conditional, Low) — alongside diverting the feeding level lower in the GI tract (Strong, Moderate–High) and switching to continuous infusion (Conditional, Very Low)
-  - ⚠ **Prokinetic dosing is not given.** [[acg-2016-nutrition-hospitalized]] says only "use a prokinetic agent"; the commonly used regimens (metoclopramide 10 mg IV every 6 hours [q6h] or erythromycin 250 mg IV q6h) are not sourced to it and are listed here for recognition only.
-
-**Feeding protocols:** Nurse-driven titration algorithms should be implemented to optimize EN delivery rates (Strong, Moderate–High evidence).
+| Scenario | Strength, evidence | Regimen and basis |
+|---|---|---|
+| Acute lung injury / acute respiratory distress syndrome (ARDS) | **Strong, High** | Large multicentre RCT: **trophic feeding at 20 mL/h (25% of requirements) for the first 6 days**, then to goal, equivalent to full feeds from admission (80% of caloric requirements at end of study). Moderately ill population — may not suit extremes of age, BMI or disease severity |
+| [[obesity\|Obesity]], BMI >30 | Conditional, Very low | High-protein hypocaloric regimen: **2.0–2.5 g protein/kg ideal body weight/day** + **60–65%** of estimated or measured energy expenditure; keeps lean mass, depletes fat, no increase in adverse outcomes |
+| PN over the first week | Conditional, Low | 80% of caloric requirements with full protein — see [[#Parenteral Nutrition]] |
 
 ### Refeeding Syndrome
 
-**Rec 20** — in the patient at **high risk for refeeding syndrome**, feeding should be **ramped up slowly to goal over 3–4 days**, while carefully monitoring electrolytes and volume status (Conditional, Very Low) [[acg-2016-nutrition-hospitalized]].
+**Rec 20** — high risk for refeeding syndrome → ramp feeding up slowly to goal over **3–4 days**, carefully monitoring electrolytes and volume status (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
 
-- **Who is high risk** — any of: **BMI <20 kg/m²**; recent weight loss prior to admission; prolonged period **nil per os**.
-- **What to monitor, and for how long** — check for **hypokalemia, hypophosphatemia, hypomagnesemia** and volume status **for up to 5 days** after feeding is initiated.
-- Risk is **not** clearly higher with EN than PN — the ramp applies to either route.
-
----
-
-## Supplemental Parenteral Nutrition
-
-- Should NOT be added to EN until EN is providing <60% of caloric goals for ≥7–10 days (Strong, Moderate evidence)
-- Prevents overfeeding in early critical illness
-- Supplement PN after 7–10 days if EN consistently insufficient
-- **Hypocaloric PN over the first week** of nutrition therapy is an accepted form of permissive underfeeding (Rec 17, Conditional, Low): target **80% of goal calories** with full protein delivery at **1.5–2.0 g/kg/day**. In a meta-analysis of 5 randomized controlled trials (RCTs) (trauma, pancreatitis, major abdominal surgery) hypocaloric PN reduced infection and length of stay vs PN at goal (**20 vs 25 kcal/kg/day**). After the first week, increase PN to **100%** of energy and protein goals. [[acg-2016-nutrition-hospitalized]]
-- **Stop PN** once EN provides **>60%** of energy and protein goals (Rec 34b, Conditional, Very Low)
+- **High risk** — any of: **BMI <20 kg/m²**; recent weight loss before admission; prolonged nil per os.
+- **Monitor** — hypokalemia, hypophosphatemia, hypomagnesemia and volume status **for up to 5 days** after feeding starts.
+- Not clear whether refeeding syndrome is more common with EN or PN.
 
 ---
 
 ## Formula Selection
 
-| Situation | Formula |
-|---|---|
-| Most hospitalized patients | Polymeric (standard) formula |
-| Documented malabsorption | Semi-elemental or elemental |
-| Stable outpatient fiber needs | Fiber-containing formula |
-| ICU (routine) | Standard polymeric; immune-modulating NOT recommended routinely |
-| Renal failure (pre-dialysis) | Low-protein, concentrated formula (limit K/P) |
+| Situation | Formula | Rec, strength, evidence |
+|---|---|---|
+| Most hospitalized patients on EN | Standard polymeric or high-protein standard formula | 18a — Conditional, Very low |
+| After major surgery, in a surgical ICU | Immune-modulating formula with arginine + omega-3 fish oil **should be used** (less infection and shorter length of stay; no mortality effect) | 18b — Conditional, Very low |
+| Medical ICU | Arginine + fish-oil immune-modulating formula **not** routinely | 18c — Conditional, Very low |
+| ARDS / acute lung injury | No recommendation on non-arginine anti-inflammatory lipid formulas — seven RCTs conflict | — |
+| Routine use of elemental/semi-elemental, disease-specific (diabetes) or organ-specific (hepatic, renal, pulmonary) formulas | Discouraged | Text, ungraded |
 
-Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT recommended for routine ICU use (Conditional, Low evidence) [[acg-2016-nutrition-hospitalized]].
+Source: [[acg-2016-nutrition-hospitalized]]. Formula changes for diarrhea: [[#Diarrhea on EN]].
 
 ---
 
-## Nutrition in Specific Situations
+## Monitoring Tolerance
 
-**[[acute-pancreatitis|Acute pancreatitis]]**: see [[acute-pancreatitis]] — EN preferred over PN; nasojejunal route when gastric intolerance
+- **Rec 19a** — daily physical exam: bowel sounds, passage of stool and gas, abdominal distention, volume status (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
+- **Rec 19b** — track adequacy: percent of goal calories delivered, cumulative caloric deficit, inappropriate cessation of EN (Conditional, Very low).
+- **Rec 21a** — use enteral feeding protocols (**Strong, Moderate-to-high**); **Rec 21b** — a validated one, e.g., volume-based or multi-strategy (bundled) top-down protocol (Conditional, Very low). Volume-based feeding sets a 24-h volume and lets the nurse raise the rate to make up for interruptions.
+- **Rec 22** — gastric residual volume (GRV) **not** used routinely as a monitor (Conditional, Very low).
 
-**Liver disease**: see [[nutrition-in-liver-disease]] — protein restriction is NOT recommended; protein goals similar to other ICU patients
+> [!pitfall] GRV turns off feeds, not aspiration
+> GRV sensitivity for aspiration is <2–8%; lowering the cutoff does not prevent aspiration, it just stops EN delivery — and GRV checks raise tube clogging tenfold ([[acg-2016-nutrition-hospitalized]]).
 
-**Inflammatory bowel disease (IBD)**: see [[nutrition-in-ibd|diet and nutritional therapy in IBD]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult Crohn's disease (CD)
+### Aspiration Risk
+
+- **Rec 23a** — assess every patient on EN for aspiration risk (Conditional, Very low). Risk factors: age >70, altered mental status, endotracheal or nasoenteric tube, prolonged supine position, bolus infusion.
+- **Rec 23b** — high risk → reduce it proactively:
+
+| Step | Strength, evidence |
+|---|---|
+| Use a prokinetic agent | Conditional, Low |
+| Divert feeding lower in the GI tract | **Strong, Moderate-to-high** |
+| Switch to continuous infusion | Conditional, Very low |
+| Chlorhexidine mouthwash twice daily | Conditional, Very low |
+
+- ACG 2016 names no prokinetic agent or dose. Head-of-bed elevation is also listed among risk-reducing steps.
+
+### Diarrhea on EN
+
+- **Rec 24a** — evaluate for an etiology to direct management (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
+  - Commonest cause: **sorbitol-containing medications (55%)**; *[[clostridioides-difficile|Clostridium difficile]]* causes 17–20%.
+  - Stop prokinetics in non–*C. difficile* diarrhea on EN.
+- **Rec 24b** — manage with one of three:
+
+| Strategy | Strength, evidence |
+|---|---|
+| Fermentable soluble fiber added to a standard formula | Conditional, Very low |
+| Commercial mixed (soluble + insoluble) fiber formula | Conditional, Low |
+| Small peptide / medium-chain triglyceride (MCT) oil formula | Conditional, Very low |
+
+- Soluble fiber reduces diarrhea more consistently than mixed-fiber formula; small peptide/MCT formulas have not shown outcome benefit in RCTs.
+
+---
+
+## Parenteral Nutrition
+
+When to start, supplement and stop PN (Recs 30a, 30b, 31, 34b): flowchart in [[#Choosing the Route]]. Dosing and delivery [[acg-2016-nutrition-hospitalized]]:
+
+| Rec | Statement | Strength, evidence |
+|---|---|---|
+| 32 | On PN: mild permissive underfeeding — **80% of energy requirements with full protein** — for the first 7–10 days; after the first week (if long-term PN), increase energy to meet goals | Conditional, Low |
+| 33 | No peripheral PN — inappropriate use, high phlebitis risk, loss of venous access sites, inadequate nutrition | Conditional, Very low |
+| 34a | EN starting in a patient on PN: careful transition feeding — taper PN as EN tolerance and volume improve, to avoid overfeeding | Conditional, Very low |
+
+- First-week hypocaloric PN: 80% of caloric requirements with full protein at **1.5–2.0 g/kg/day**; meta-analysis of 5 RCTs (trauma, pancreatitis, major abdominal surgery) — less infection and shorter length of stay than PN at goal (20 vs 25 kcal/kg/day). Second week: raise to 100% of goal calories and protein.
 
 ---
 
 ## End-of-Life Nutrition
 
-- Patient autonomy guides nutrition decisions; expressed patient preferences govern whether to initiate/continue artificial nutrition (Conditional, Very Low evidence) [[acg-2016-nutrition-hospitalized]]
-- Clinicians are **not obligated** to initiate or continue artificial nutrition when it is not desired or when it offers no benefit
-- Withholding and withdrawing artificial nutrition are ethically equivalent
-- Most evidence does not show a survival or quality-of-life benefit from artificial nutrition in most end-of-life scenarios
+All Conditional, Very low [[acg-2016-nutrition-hospitalized]]:
+
+| Rec | Statement |
+|---|---|
+| 35a | Gastrostomy at end of life decided by **patient autonomy** and the wishes of patient and family, even if nutrition therapy does little to change clinical outcomes |
+| 35b | Regardless of prognosis, base gastrostomy placement on whether access + EN meet patient/family goals; consider it even if the only benefit is family quality of life, easier nutrition, hydration and medications, or transfer to a facility closer to home |
+| 36 | Clinician **not obligated** to provide hydration and nutrition at end of life; deciding to start is no different from deciding to stop |
+| 37a | End-stage malignancy: if nutrition therapy is requested, give it **enterally** |
+| 37b | PN in this setting may cause net harm — highly or aggressively discouraged |
+| 38 | A clinician with ethical concerns in a difficult end-of-life case should excuse themself, as long as care can pass to an equally qualified and willing provider |
+
+- End-stage dementia: PEG/EN unlikely to improve quality of life, heal pressure sores, reduce aspiration pneumonia or reduce mortality.
+- Only a third of patients sense any hunger or thirst; oral care, rinses, candies or throat lozenges relieve symptoms.
 
 ---
 
 ## See Also
 
-[[enteral-access]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-ibd]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]], [[glp-2-agonists]], [[albumin]]
+[[enteral-access]], [[acute-pancreatitis]], [[chronic-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[obesity]], [[gastroparesis]], [[gerd]], [[clostridioides-difficile]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]], [[glp-2-agonists]], [[albumin]]
 
 ---
 

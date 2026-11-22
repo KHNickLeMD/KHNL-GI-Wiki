@@ -4,6 +4,8 @@ category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas, acg-2015-hereditary-gi-cancer]
 ---
 

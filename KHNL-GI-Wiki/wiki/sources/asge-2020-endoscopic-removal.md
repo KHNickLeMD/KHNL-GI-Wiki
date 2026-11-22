@@ -220,7 +220,7 @@ Glossary (Table 2) defines eFTR as *"technique involving the use of a full-thick
 - ESD indications in colorectum: evidence still evolving; not covered by any graded statement
 - eFTR: not covered by any graded statement
 - Antithrombotic management for ≥20 mm EMR: explicitly individualized (S2c.12), no strong data at time of publication
-- Hot avulsion current: superseded by [[aga-2026-electrosurgery]] (same tier, newer) — see [[endoscopic-mucosal-resection]]
+- Hot avulsion settings: both use cutting current (endocut, not coagulation); [[aga-2026-electrosurgery]] gives different EndoCut I settings (3/1/3 vs Table 5's 1/4/1), offered as a reference only — see [[endoscopic-mucosal-resection]]
 
 ## See Also
 
