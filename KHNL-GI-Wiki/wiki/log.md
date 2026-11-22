@@ -6,6 +6,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-22] lint | 06:00 pass — daily fetch, ingest by budget ($25)
+
+**Scope:** backlog mode, $25 budget. Open `ingest: partial`: [[asco-2021-immune-related-adverse-events]] (resume at step 4, propagate).
+
+**Inbox sync:** `git status --untracked-files=all raw` clean — no new files under `raw/`. Nothing to commit.
+
+**Daily fetch:** nothing qualified — remaining download rows are 🔒 (Eckardt 1992, WHO 5th ed.) or 🌐 (CDC, NIH OI); the "In `raw/`" rows need ingest, not download. Downloaded nothing.
+
+---
+
 ## [2026-11-22] lint | Quality review — release sweep (manual run 2, $40 budget)
 
 **Scope:** Quality review step only (`review-queue.py --pages 10`), by budget. No ingest, no new pages. Queue top unchanged: [[gallbladder-cancer]] (NCCN decision), [[liver-disease-in-pregnancy]] and [[pouchitis]] (source re-extraction) still skipped for the reasons in the previous entry.
