@@ -4,6 +4,8 @@ category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-gastroduodenal-disorders, rome-v-2026-centrally-mediated-gi-pain, rome-v-2026-dgbi]
 ---
 
@@ -68,7 +70,7 @@ Four phases, each with its own treatment goal ([[aga-2024-cvs]]):
 | Phase | Features | Goal | Management |
 |---|---|---|---|
 | **Well (inter-episodic)** | Weeks to months. Absent or minimal symptoms — **30%** may have [[dyspepsia]] or nausea ([[aga-2024-chs]]); Rome V: **up to 63%** have milder nausea, dyspepsia and intermittent vomiting ([[rome-v-2026-gastroduodenal-disorders]]) | Prevent future episodes | Identify and avoid triggers · good sleep routine · stress reduction · prophylactic medication (moderate–severe) |
-| **Prodrome** | ~**65%** of patients, median **1 h** ([[aga-2024-cvs]]); nausea, abdominal pain, fatigue, weakness, stereotypical in timing; sense of impending doom, panic | Halt transition to emetic phase | Abortive medication — intranasal sumatriptan, ondansetron, antihistamines |
+| **Prodrome** | ~**65%** of patients, median **1 h** ([[aga-2024-cvs]]); nausea, abdominal pain, fatigue, weakness, stereotypical in timing ([[rome-v-2026-gastroduodenal-disorders]]); sense of impending doom, panic ([[aga-2024-cvs]]) | Halt transition to emetic phase | Abortive medication — intranasal sumatriptan, ondansetron, antihistamines |
 | **Emetic** | Uncontrollable retching and vomiting for **hours to days** ([[aga-2024-cvs]]); Rome V: starts within minutes to hours, lasts **3–6 days**, vomiting **>8 times hourly** on average ([[rome-v-2026-gastroduodenal-disorders]]) | Terminate episode | Continue abortive regimen · may need ED for intravenous (IV) therapy · hydration and medications |
 | **Recovery** | ~**1–2 days** ([[aga-2024-cvs]]); Rome V: **up to 1 week**, with persisting nausea, lightheadedness and meal intolerance in some ([[rome-v-2026-gastroduodenal-disorders]]) | Return to well phase | Rehydration/nutrition · rest |
 

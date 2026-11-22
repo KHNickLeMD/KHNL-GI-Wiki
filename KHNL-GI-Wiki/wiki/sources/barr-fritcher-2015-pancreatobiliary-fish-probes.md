@@ -3,8 +3,9 @@ title: "An Optimized Set of Fluorescence In Situ Hybridization Probes for Detect
 category: source
 tags: [fish, cytology, biliary-stricture, cholangiocarcinoma, primary-sclerosing-cholangitis, polysomy, ercp]
 created: 2026-10-28
-updated: 2026-11-03
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Other Studies/Barr Fritcher 2015 Optimized FISH Probes Pancreatobiliary Cancer.pdf"
 ---
 
@@ -19,7 +20,7 @@ raw: "GI Other Studies/Barr Fritcher 2015 Optimized FISH Probes Pancreatobiliary
 
 ## Summary
 
-This is the paper that defines **polysomy cytogenetically** for pancreatobiliary brushings, and that replaced the bladder-cancer probe set with a purpose-built one.
+This paper defines **polysomy** for a purpose-built pancreatobiliary (PB) FISH probe set on brushings and proposes it as an alternative to the bladder-cancer probe set — results the authors call preliminary, needing confirmation in clinical practice.
 
 Biliary fluorescence in situ hybridization (FISH) had been performed with **UroVysion** (Abbott Molecular), a probe set designed for **bladder cancer** — chromosome enumeration probes (CEP) for chromosomes 3, 7 and 17 plus a locus probe for **9p21 (CDKN2A)**. The authors reasoned that the chromosomal regions altered in pancreatobiliary tumours are not the same ones, and set out to build a tailored set.
 
@@ -38,7 +39,7 @@ In validation, **PB FISH polysomy detected malignancy with 64.7% sensitivity aga
 | **8q24** | Spectrum Aqua | |
 | **9p21** (CDKN2A) | Spectrum Red | carried over from UroVysion; **loss** of 9p21 is the informative change |
 
-- Replaces **UroVysion** (CEP 3, CEP 7, CEP 17, 9p21), which was designed for bladder cancer.
+- Proposed alternative to **UroVysion** (CEP 3, CEP 7, CEP 17, 9p21), which was designed for bladder cancer. UroVysion scoring in this paper: polysomy ≥5 cells with gain of ≥2 probes; tetrasomy ≥10 cells with 4 copies of each probe; trisomy ≥10 cells with gain of 1 probe (PB FISH polysomy cut-off is ≥4 cells).
 - Selected from 14 candidates on probe signal quality, mean copy number per cell, frequency of gain/loss in tumour cells, and sensitivity — individually, 1q21 gain had the best performance (sensitivity 90.0%, specificity 100%, AUC 0.95 at an 8% cut-off) and 9p21 homozygous loss the best loss signal (83.3%, 100%, AUC 0.94 at 10%).
 
 ### FISH cell types and cut-off values (Figure 3) — the definitions the guidelines omit
@@ -59,7 +60,7 @@ In validation, **PB FISH polysomy detected malignancy with 64.7% sensitivity aga
 
 ### How the slide is actually read — the rules that change the count
 
-- **100 consecutive epithelial cells** are enumerated systematically. **A maximum of 5 cells from any group of disomic cells** counts toward the 100 — otherwise sheets of benign cells consume the count.
+- **100 consecutive epithelial cells** are enumerated systematically. **A maximum of 5 cells from any group of disomic cells** counts toward the 100.
 - Then a **post-enumeration scan of the remainder of the slide** under the DAPI filter, targeting nuclei most likely to be abnormal (enlarged, irregular border). **Polysomic cells found on this scan are added to the total**; **non-polysomic abnormalities found on it are disregarded** (their frequencies come only from the 100-cell count).
 - **A cell showing both polysomy and homozygous 9p21 loss is classified as polysomic.**
 - **9p21 loss is the overlap discriminator.** Loss of 9p21 is unexpected in benign cells, so it distinguishes a single genuinely abnormal nucleus from two overlapping benign ones. Presence of 9p21 signals in FISH-negative cells was verified in every case as a negative control.
@@ -91,9 +92,12 @@ In validation, **PB FISH polysomy detected malignancy with 64.7% sensitivity aga
 - **Net-new and decision-relevant:** that **only polysomy is positive** and every other abnormality is **equivocal**; that the polysomy cut-off is an **absolute count (≥4 cells), not a percentage**; and that **the probe set in use may be either UroVysion or PB FISH**, with materially different sensitivity — so a report saying "FISH negative" means different things depending on which set the laboratory runs.
 - **[[primary-sclerosing-cholangitis]] / [[cholangiocarcinoma]] / [[biliary-stricture]]** — the PSC-specific sensitivity figures sit on [[fish]], linked from those pages rather than duplicated.
 
+- **UroVysion-equivocal cases** (trisomy 7 or tetrasomy): PB FISH positive in 10 of 16 (63%) malignant and 2 of 9 (22%) benign samples.
+- **All 7 false-positive PB FISH results were in PSC patients**; 3 were diagnosed with cancer >2 years after the brushing (2.0, 2.2 and 4.0 y) and 1 died of PSC complications before a cancer diagnosis was confirmed.
+
 ## Contradictions / Open Questions
 
-- ⚠ **This qualifies, but does not resolve, the page's standing ACG-vs-ASGE contradiction about FISH in PSC.** [[acg-2023-biliary-strictures]] says FISH's performance is *attenuated* in PSC; [[asge-2023-indeterminate-biliary-strictures]] anticipates a *higher* role. This paper shows PB FISH **outperforming UroVysion within PSC** (62% vs 41%) — which supports ASGE's direction of travel — but it is **tier 2 and compares two probe sets, not PSC against non-PSC strictures**. Both tier-1 guidelines keep the page; nothing was overwritten.
+- ⚠ **This qualifies, but does not resolve, the page's standing ACG-vs-ASGE contradiction about FISH in PSC.** [[acg-2023-biliary-strictures]] says FISH's performance is *attenuated* in PSC; [[asge-2023-indeterminate-biliary-strictures]] anticipates a *higher* role. This paper shows PB FISH **outperforming UroVysion within PSC** (62% vs 41%) — which supports ASGE's direction of travel — but it is **tier 2**, and its PSC vs non-PSC performance (Figure 5C) is descriptive only — no significance test. Both tier-1 guidelines keep the page; nothing was overwritten.
 - ⚠ **The PSC odds ratio is about prevalence, not accuracy.** The multivariable OR of **0.18** for PSC reflects the lower cancer prevalence in a surveillance population, and the paper says so. It must not be read as the test performing worse in PSC.
 - **Development study, retrospective, single institution (Mayo Clinic), and the authors say so:** "additional data from clinical practice are needed to confirm these preliminary results." Cut-offs were set in one cohort and tested in another from the same institution; there is no external validation.
 - **Funding:** the work was supported by **Abbott Molecular Inc.**, the manufacturer of both the UroVysion and the pancreatobiliary probes.

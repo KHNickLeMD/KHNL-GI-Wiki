@@ -4,6 +4,8 @@ category: disease-script
 tags: [bile-duct-injury, cholecystectomy, biliary, strasberg, hepaticojejunostomy, bile-leak, ercp]
 created: 2026-11-11
 updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [sages-ahpba-2025-bile-duct-injury, acg-2023-biliary-strictures, esge-2026-biliary-strictures]
 ---
 
