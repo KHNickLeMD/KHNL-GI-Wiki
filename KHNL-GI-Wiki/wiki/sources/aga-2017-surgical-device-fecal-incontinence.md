@@ -3,8 +3,9 @@ title: "Surgical Interventions and the Use of Device-Aided Therapy for the Treat
 category: source
 tags: [fecal-incontinence, defecatory-disorders, sacral-nerve-stimulation, sphincteroplasty, biofeedback, perianal-bulking, magnetic-anal-sphincter, colostomy, starr, rectal-prolapse, anorectal]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2017 CPU Surgical & Device-Aided Therapy for Fecal Incontinence.pdf"
 ---
 
@@ -31,7 +32,7 @@ raw: "GI Guidelines/AGA/AGA 2017 CPU Surgical & Device-Aided Therapy for Fecal I
 
 ## Summary
 
-This update covers what to do for fecal incontinence (FI) and defecatory disorders (DDs) **after conservative therapy has genuinely failed** — the surgical and device-aided tier. Its central clinical argument is that the failure is usually in the conservative trial, not in the patient: in the authors' experience many patients labelled refractory *"indeed have not received an optimal trial of conservative therapy,"* and the update specifies what an optimal trial contains before any device or operation is considered — characterization of bowel habits and prior treatment, a dietary history hunting poorly absorbed sugars, an antidiarrheal trial, and anorectal testing for evacuation disorders in patients with constipation.
+This update covers what to do for fecal incontinence (FI) and defecatory disorders (DDs) **after conservative therapy has genuinely failed** — the surgical and device-aided tier. Its central clinical argument is that the failure is usually in the conservative trial, not in the patient: in the authors' experience many patients labelled refractory *"indeed have not received an optimal trial of conservative therapy,"* and the update specifies what an optimal trial contains before any device or operation is considered — characterization of bowel habits and prior treatment, a dietary history hunting poorly absorbed sugars and/or caffeine, an antidiarrheal trial, and anorectal testing for evacuation disorders in patients with constipation.
 
 For FI the recommended sequence is stepwise (Best Practice Advice 1) and is drawn as a single algorithm in Figure 1: clinical evaluation with digital rectal examination → treat the underlying disease, bowel disturbance and local anorectal problem → for persistent symptoms, anorectal manometry with rectal sensation and balloon expulsion → pelvic floor retraining → outlet barrier device → sacral nerve stimulation (SNS) or perianal bulking → and only then colostomy, sphincteroplasty, artificial sphincter or gracilis transposition, or the magnetic anal sphincter. Roughly **25% of patients** are expected to benefit from conservative measures alone. Among the surgical options **SNS is the one the authors call safe and effective**; the evidence for the rest is weaker, and two device-aided therapies are advised against outright — **percutaneous tibial nerve stimulation (PTNS) for FI** (Best Practice Advice 5) and **SNS for defecatory disorders** (Best Practice Advice 13).
 
@@ -114,7 +115,7 @@ Conservative measures: dietary modification, fiber supplements, fluids, techniqu
 In the authors' experience many patients considered refractory have **not** had an optimal trial, which includes 1 or more of the following as appropriate:
 
 1. **Meticulous characterization** of the bowel habits, the circumstances surrounding FI (eg, relationship to meals and activity), and prior treatment for FI.
-2. Among patients with diarrhea, a **careful dietary history to identify ingestion of poorly absorbed sugars** (eg, sorbitol, fructose) followed by a trial of elimination.
+2. Among patients with diarrhea, a **careful dietary history to identify ingestion of poorly absorbed sugars** (eg, sorbitol, fructose) **and/or caffeine**, followed by a trial of elimination.
 3. For diarrhea, **loperamide (2 mg), generally starting with 1 tablet taken 30 minutes before breakfast and titrated as necessary up to 16 mg/d**. Fiber supplementation can be used to improve stool consistency and reduces diarrhea-associated FI. Because bile-salt malabsorption is common in patients with idiopathic diarrhea, **cholestyramine or colesevelam** may be helpful. **Anticholinergic agents and clonidine** are alternative options for patients with diarrhea and FI.
 4. **Laxatives and anorectal testing to identify evacuation disorders** are recommended for patients with constipation. In particular, patients with **fecal seepage** suffer from evacuation disorders with overflow of retained stool in the rectum; these are managed effectively with pelvic floor biofeedback therapy directed at the underlying rectal evacuation disorder. Alternatively, or in addition, **rectal cleansing with a small enema or tap water** reduces the likelihood of stool leakage.
 
@@ -130,7 +131,7 @@ Patients truly refractory to conservative measures should undergo anorectal test
 
 - **Dextranomer microspheres in non–animal-stabilized hyaluronic acid (NASHA Dx) is the only Food and Drug Administration (FDA)–approved product for FI.**
 - Although the implied mechanism is to enhance the seal of the anal canal, **dextranomer did not significantly increase anal resting or squeeze pressures and was not superior to biofeedback therapy.**
-- Randomized, double-blind, sham-controlled study in adults who had failed conservative therapies: treatment response (≥50% improvement from baseline in number of FI episodes) at 6 months in **71 of 136 (52%)** active vs **22 of 70 (31%)** sham (OR 2.36; *P* = .0089). A second injection was given to 112 patients (82%) in the NASHA Dx group and a sham injection to 61 patients (45%).
+- Randomized, double-blind, sham-controlled study in adults who had failed conservative therapies: treatment response (≥50% improvement from baseline in number of FI episodes) at 6 months in **71 of 136 (52%)** active vs **22 of 70 (31%)** sham (OR 2.36; *P* = .0089). A second injection was given to 112 patients (82%) in the NASHA Dx group and a sham injection to 61 patients (87%) in the sham group.
 - At 6 months the NASHA Dx group also had significantly more incontinence-free days and improved FI quality of life (FIQOL) **coping and behavior**, but **not** lifestyle, depression and self-perception, or embarrassment scores.
 - Most common adverse events: **proctalgia 14%, fever 8%, rectal bleeding 7%**; no apparent migration, protrusion, or leakage of NASHA Dx was observed during bowel movements.
 - **Durability:** at 12 and 24 months, **64.0% of 86** and **62.7% of 83** patients were responders in the NASHA Dx and sham groups **respectively** (≥50% improvement from baseline in number of FI episodes).
@@ -265,6 +266,19 @@ Patients truly refractory to conservative measures should undergo anorectal test
 
 ---
 
+### Table 1 — Randomized controlled trials of surgery or devices (recreated)
+
+| Study | Design | Treatments (n) | Findings |
+|---|---|---|---|
+| **FI** — Tjandra 2008, Australia | Parallel-group RCT | SNS (60) vs medical treatment (60) | At 12 mo, ≥50% reduction in FI frequency in 71% of 53 with permanent SNS (no data for medical arm); episodes significantly lower with SNS (MD −6.30; 95% CI −10.34 to −2.26) |
+| Thin 2015, UK | Investigator-blinded parallel-group RCT | SNS (23) vs PTNS (17) | At 6 mo, ≥50% reduction: SNS 11 of 18 (61%) vs PTNS 7 of 15 (47%); not significant |
+| George 2013, UK | Single-blind parallel-group RCT | PTNS (11), transcutaneous (11), sham (8) | At 6 wk, ≥50% reduction significantly greater for PTNS (82%) than transcutaneous (45%) or sham (13%); maintained over 6 mo |
+| Knowles 2015, UK | Double-blind multicenter pragmatic parallel-group RCT | PTNS (115) vs sham (112), weekly for 12 wk | At 12 wk, ≥50% reduction: PTNS 39 of 103 (38%) vs sham 32 of 102 (31%); not significant |
+| Graf 2011, US/Europe | Double-blind RCT | Dextranomer (136) vs sham (70) | At 6 mo, ≥50% reduction significantly greater with dextranomer (52%) than sham (31%) |
+| **DD** — Lehur 2008, France/Italy/UK | RCT | STARR (54) vs biofeedback (52) | Bowel symptoms improved in 44 (82%) STARR vs 13 (33%) evaluable biofeedback patients |
+
+*Excludes cross-over studies; denominators = patients with evaluable data. RCT = randomized controlled trial · SNS = sacral nerve stimulation · PTNS = percutaneous tibial nerve stimulation · MD = mean difference · STARR = stapled transanal rectal resection · DD = defecatory disorder*
+
 ## Contradictions / Open Questions
 
 - **Dynamic graciloplasty — directly opposed to [[acg-2021-anorectal-disorders]].** This update's Best Practice Advice 8 says the artificial anal sphincter, dynamic graciloplasty, **may be considered** for medically refractory severe FI after other options fail. ACG 2021 states its morbidity and mortality are unacceptable and it is not used. **ACG 2021 holds the entity pages** — same tier, newer publication date — with AGA 2017's position recorded alongside it. The two are partly reconcilable: this document itself notes that very few reports and no clinical trials have been published in recent years, "suggesting that treatment is not performed routinely."
@@ -272,7 +286,7 @@ Patients truly refractory to conservative measures should undergo anorectal test
 - **Percutaneous tibial nerve stimulation.** Best Practice Advice 5 advises against PTNS in clinical practice until further evidence is available. ACG 2021 does not address PTNS, so this is net-new rather than conflicting.
 - **Radiofrequency (Secca).** ACG 2021 says limited long-term data, not routinely recommended. This document issues **no Best Practice Advice on Secca at all** despite describing it — the absence is not an endorsement and should not be read as one.
 - **Sphincteroplasty sequencing.** Best Practice Advice 7 places sphincteroplasty **after** perianal bulking and SNS for late-presenting patients ("when perianal bulking injection and sacral nerve stimulation are not available or have proven unsuccessful"), and the text predicts minimally invasive modalities will become the preferred first-line surgical approach except after recent or acute injury. The wiki's existing sequencing comes from ACG 2021; this ordering is compatible but more explicit.
-- **Ungraded throughout, and explicitly experience-based in places.** Several of the operative claims — the ~25% conservative-therapy benefit, the <5% of DD patients needing surgery, the judgment that anterograde enemas are not an effective long-term solution — are introduced as the authors' experience or opinion, not as trial results. Weigh accordingly.
+- **Ungraded throughout, and explicitly experience-based in places.** Several claims — that many patients considered refractory have not had an optimal trial, the <5% of DD patients needing surgery ("in our experience"), and the judgment that anterograde enemas are not an effective long-term solution ("in our opinion") — are introduced as the authors' experience or opinion, not as trial results. The ~25% conservative-therapy benefit is stated plainly inside Best Practice Advice 1. Weigh accordingly.
 - **No time window on the "3-month or longer trial."** Best Practice Advice 4 sets a ≥3-month conservative and biofeedback trial before SNS; the document does not say whether the 3 months is of conservative therapy, of biofeedback, or of both combined.
 
 ---

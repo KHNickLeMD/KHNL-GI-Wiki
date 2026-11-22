@@ -3,19 +3,30 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-10-18
+updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [acg-2025-uc, acg-2021-cdiff, aga-2026-inpatient-ibd]
 ---
 
-Life-threatening total or segmental **colonic dilation with systemic toxicity**, complicating severe colitis — most often fulminant [[clostridioides-difficile|C. difficile]] infection or acute severe [[ulcerative-colitis]] (ASUC) (also [[crohns-disease|Crohn's]] colitis, [[colon-ischemia|ischemic]], and other infectious colitis). A **surgical emergency**: toxic megacolon, colonic perforation, severe refractory hemorrhage, or failure of maximal medical therapy are indications for [[ulcerative-colitis|colectomy]]. Occurs in <5% of ASUC.
+Highly morbid **acute colonic dilation with systemic toxicity** complicating severe colitis — a complication of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], above all acute severe ulcerative colitis (ASUC; see [[ulcerative-colitis]]), and the "megacolon" criterion of fulminant [[clostridioides-difficile|Clostridioides difficile infection (CDI)]].
+- Occurs in fewer than 5% of patients with acute severe colitis ([[acg-2025-uc]]).
+- **Often requires emergent surgery** ([[aga-2026-inpatient-ibd]]) — see [[#Surgery]].
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
 - [[#Differential Diagnosis]]
+  - [[#Precipitants]]
 - [[#Diagnostics]]
+  - [[#Imaging]]
+  - [[#Endoscopy]]
+  - [[#Laboratory and Infection Testing]]
 - [[#Therapeutics]]
+  - [[#Supportive Care]]
+  - [[#Medical Therapy by Cause]]
+  - [[#Surgery]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -23,124 +34,146 @@ Life-threatening total or segmental **colonic dilation with systemic toxicity**,
 
 ### Establishing the Diagnosis
 
-Toxic megacolon = **colonic dilation + systemic toxicity** in a patient with severe colitis. Diagnosis is clinical + radiographic; assess the underlying colitis in parallel.
+Toxic megacolon = **colonic dilation + systemic toxicity** in severe colitis. Clinical + radiographic diagnosis; grade the underlying colitis in parallel.
 
-- **Assess actively.** All ASUC patients should be assessed for the presence of toxic megacolon during admission (American College of Gastroenterology [ACG] ulcerative colitis [UC] key concept). In fulminant [[clostridioides-difficile|Clostridioides difficile infection (CDI)]], maintain a **low threshold for cross-sectional imaging** to assess colitis severity and **rule out megacolon or perforation**.
-- **Radiographic dilation — the diagnostic criterion:** acute colonic dilation, i.e. **transverse colon dilation >6 cm with loss of the haustral pattern**, suspected in the setting of **systemic toxicity without intestinal obstruction**. ([[aga-2026-inpatient-ibd]])
-  - Other severe-colitis film features: thickened colonic wall, loss of haustration, mucosal islands (edematous mucosa surrounded by ulceration), and **≥3 dilated gas-filled small-bowel loops** (high likelihood of medical-therapy nonresponse and colectomy).
-- **Systemic toxicity** — the same signs that define severe/fulminant colitis (see Severity Assessment): tachycardia, fever, anemia, elevated inflammatory markers; in fulminant CDI, hypotension/shock or ileus.
-- **Physical exam:** abdominal distension, tenderness, rebound, guarding, tympany, ileus.
+- **Definition:** acute colonic dilation — **transverse colon >6 cm with loss of haustral pattern** — suspected with **systemic toxicity and no intestinal obstruction** (American Gastroenterological Association [AGA] 2026, Best Practice Advice [BPA] 6, [[aga-2026-inpatient-ibd]]).
+- **Look for it in every ASUC admission** (American College of Gastroenterology [ACG] Key Concept 49, [[acg-2025-uc]]).
+- **Fulminant CDI:** low threshold for cross-sectional imaging to assess colitis severity and rule out megacolon or perforation ([[acg-2021-cdiff]]).
+- **Exam:** abdominal tenderness, rebound, guarding, tympany, ileus; monitor daily for abdominal distension or tenderness ([[acg-2025-uc]]).
 
-**Two transverse-colon numbers are in circulation and they answer different questions — do not substitute one for the other:**
+**Two transverse-colon numbers answer different questions — do not substitute one for the other:**
 
-| Cut-point | What it is | Source |
+| Transverse colon | What it means | Source |
 |---|---|---|
-| **>6 cm** + loss of haustral pattern | **diagnostic** definition of acute colonic dilation, in systemic toxicity without obstruction | [[aga-2026-inpatient-ibd]] |
-| **>5.5 cm** diameter | **poor-outcome predictor** in severe colitis — not a diagnostic cut-point | [[acg-2025-uc]] |
+| **>6 cm** + loss of haustral pattern | **Diagnostic** definition — with systemic toxicity, no obstruction | [[aga-2026-inpatient-ibd\|AGA 2026]] |
+| **>5.5 cm** diameter on plain film | Colonic dilation that **predicts a worse outcome** in acute severe colitis — not a diagnostic cut-point | [[acg-2025-uc\|ACG 2025 UC]] |
 
-- Neither document attaches a required *number* of systemic-toxicity criteria to the dilation measurement, so the toxicity half of the diagnosis is a clinical judgement rather than a scored threshold.
+- Neither guideline sets a minimum number of toxicity signs; judge toxicity clinically from the severity criteria below.
 
 ### Severity Assessment
 
-Toxic megacolon sits at the severe end of two underlying-disease severity frameworks. Identify and grade the substrate:
+Toxic megacolon arises at the severe end of the underlying colitis — grade the substrate.
 
-**ASUC — definition (ACG UC):**
-- **≥6 bowel movements/day** PLUS **≥1 systemic sign of toxicity:**
+**ASUC:** ≥6 bowel movements daily (bloody, in the Truelove and Witts wording) **plus ≥1 systemic sign:**
 
-| Systemic toxicity sign | Threshold |
-|---|---|
-| Tachycardia | present |
-| Fever | present (temp > 38 °C predicts steroid failure) |
-| Anemia | hemoglobin < 10.5 g/dL |
-| Elevated inflammatory markers | erythrocyte sedimentation rate (ESR) > 30 mm/hr |
+| Systemic sign | ACG 2025 UC | AGA 2026 (Truelove and Witts) |
+|---|---|---|
+| Tachycardia | not quantified | heart rate >90 beats/min |
+| Fever | not quantified | temperature >37.8 °C |
+| Anemia | hemoglobin <10.5 g/dL | hemoglobin <10.5 g/dL |
+| Inflammatory markers | erythrocyte sedimentation rate (ESR) >30 mm/hr | ESR >30 mm/h |
 
-- ASUC substrate for toxic megacolon corresponds to the **Fulminant** column of the ACG UC Activity Index (>10 stools/day, continuous bleeding, transfusion-requiring anemia, [[ibd-endoscopic-scoring|Mayo endoscopic subscore (MES)]] 3, Ulcerative Colitis Endoscopic Index of Severity (UCEIS) 7–8) — see [[ulcerative-colitis]].
+- Colectomy risk rises with the number of criteria met: **8.5% → 48%** ([[aga-2026-inpatient-ibd]]).
+- Day-3 steroid-failure prediction (Oxford criteria, Ho index) lives on [[ulcerative-colitis]]. An Ulcerative Colitis Endoscopic Index of Severity (UCEIS) ≥7 predicts colectomy better than a [[ibd-endoscopic-scoring|Mayo endoscopic subscore (MES)]] of 3 ([[acg-2025-uc]]).
 
-**CDI severity (ACG C. difficile):**
+**CDI** ([[acg-2021-cdiff]], Key Concepts 2–3):
 
 | Class | Criteria |
 |---|---|
-| Non-severe | neither white blood cell (WBC) ≥15,000/mm³ nor creatinine (Cr) >1.5 mg/dL |
-| Severe | WBC ≥15,000/mm³ **OR** serum Cr >1.5 mg/dL |
-| Fulminant | severe CDI criteria **PLUS** hypotension/shock **OR** ileus **OR** megacolon |
-
-- **Toxic megacolon is the "megacolon" limb that upgrades severe CDI to fulminant CDI.**
-
-**Predictors of steroid failure / colectomy in ASUC** (drive escalation timing) — the Oxford (Travis) day-3 criteria, the Ho index, and the other steroid-failure predictors live on [[ulcerative-colitis]] (ASUC section), where the escalation decision is made. **UCEIS ≥7** has a higher positive predictive value (PPV) for colectomy than MES 3.
+| Non-severe | neither white blood cell count (WBC) ≥15,000 cells/mm³ nor serum creatinine >1.5 mg/dL |
+| Severe | WBC ≥15,000 cells/mm³ **or** serum creatinine >1.5 mg/dL |
+| Fulminant | severe criteria **plus** hypotension or shock **or** ileus **or** megacolon |
 
 ## Differential Diagnosis
 
-*Workup of the presenting acute severe/bloody diarrheal illness: see [[acute-diarrhea]]. No diagnostic schema is specific to colonic dilation with toxicity — the rest of the workup follows the underlying colitis.*
+*Workup: see [[acute-diarrhea]].*
 
-Underlying etiologies of toxic megacolon named in the guidelines:
-- Acute severe [[ulcerative-colitis]] / [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] flare
-- [[crohns-disease|Crohn's]] colitis
-- Fulminant [[clostridioides-difficile|C. difficile]] infection
-- Other infectious colitis
-- [[colon-ischemia|Ischemic colitis]]
-- **Superimposed infection to exclude:** CDI (test all ASUC) and **cytomegalovirus (CMV) colitis** (biopsy at endoscopy; affects up to a third of steroid-refractory ASUC).
+- **Underlying colitis:** IBD — ASUC or [[crohns-disease|Crohn's disease]] — and fulminant CDI.
+- **Superimposed infection to exclude:** CDI (test every ASUC patient) and **cytomegalovirus (CMV) colitis** — up to a third of acute severe colitis refractory to corticosteroids ([[acg-2025-uc]]).
+- **Intestinal obstruction** — the definition requires its absence ([[aga-2026-inpatient-ibd]]).
 
-**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — retained toxin is the theoretical mechanism; the patients who died or had complications were given antimotility agents **alone, without an appropriate antibiotic**. Avoid in **untreated** CDI and in **fulminant** infection; once anti-CDI therapy is running they can be used safely as needed), [[ibd-pain-management|opioids]] and anticholinergics (may precipitate colonic dilation and toxicity; associated with infection and mortality), and nonsteroidal anti-inflammatory drugs (NSAIDs; linked to IBD hospitalizations and relapse in up to a third of patients — avoid in ASUC).
+### Precipitants
+
+| Precipitant | What to do |
+|---|---|
+| Infection — *C. difficile* or CMV | Test (see [[#Laboratory and Infection Testing]]) ([[aga-2026-inpatient-ibd\|AGA 2026]]) |
+| Electrolyte derangements | Correct ([[aga-2026-inpatient-ibd\|AGA 2026]]) |
+| Antimotility agents ([[loperamide]]) | Avoid in **untreated** CDI and in **fulminant** CDI; patients who had complications or died had been given them **alone, without an appropriate antibiotic**; once anti-CDI therapy has started they can be used as needed ([[acg-2021-cdiff\|ACG 2021]]) |
+| [[ibd-pain-management\|Opioids]] and anticholinergic drugs | May precipitate colonic dilation and toxicity; poor outcomes incl. infection and mortality — avoid in ASUC (Key Concept 51, [[acg-2025-uc\|ACG 2025 UC]]) |
+| Nonsteroidal anti-inflammatory drugs (NSAIDs) | Linked to IBD hospitalization and relapse in up to a third — avoid in ASUC (Key Concept 51) |
 
 ## Diagnostics
 
-- **Plain abdominal radiograph** — first-line for dilation: transverse colon >6 cm with loss of the haustral pattern (diagnostic), >5.5 cm (poor-outcome predictor), thickened wall, mucosal islands, ≥3 dilated gas-filled small-bowel loops.
-- **Cross-sectional computed tomography (CT)** — restrict to suspected extraluminal complication or perforation, and newly diagnosed patients where Crohn's disease (CD) vs UC is unclear; low threshold in fulminant CDI to rule out megacolon/perforation.
-  - **UC with concern for toxic dilation:** timely abdominal film **and/or CT abdomen and pelvis with intravenous contrast**, plus **discussion with colorectal surgery** — the morbidity risk is high enough that the surgical conversation happens alongside the imaging, not after it. ([[aga-2026-inpatient-ibd]])
-- **Endoscopy** — **flexible sigmoidoscopy within 72 h (preferably 24 h)** of admission, minimal insufflation by an experienced operator, to grade inflammation and biopsy for CMV. **Avoid full [[colonoscopy]]** in severe inflammation — associated with higher rates of colonic dilation and perforation.
-- **Labs:** complete blood count (CBC; WBC ≥15,000 = severe CDI; anemia hemoglobin [Hgb] <10.5), serum creatinine (>1.5 = severe CDI), **albumin** (hypoalbuminemia predicts steroid failure; <2.5 g/dL → intensify [[anti-tnf-agents|infliximab]]), C-reactive protein (CRP) and ESR.
-- **C. difficile testing** in all ASUC — two-step algorithm (nucleic acid amplification test (NAAT)/glutamate dehydrogenase (GDH) → toxin enzyme immunoassay (EIA)); UC + CDI carries 4-fold higher mortality and higher colectomy rates.
+### Imaging
+- **Plain abdominal film** — shows the dilation (cut-points above). Other severe-colitis features: thickened colonic wall, loss of haustrations, mucosal islands (edematous mucosa surrounded by ulceration); **≥3 dilated gas-filled small-bowel loops** → high likelihood of nonresponse to medical therapy and colectomy ([[acg-2025-uc]]).
+- **Ulcerative colitis (UC) with concern for toxic dilatation:** timely abdominal film **and/or computed tomography (CT) abdomen and pelvis with intravenous (IV) contrast**, **plus discussion with colorectal surgery** — high morbidity risk ([[aga-2026-inpatient-ibd]], BPA 3).
+- ACG 2025 restricts CT to suspected extraluminal complication or perforation, and to new diagnoses where Crohn's disease vs UC is unclear on sigmoidoscopy ([[acg-2025-uc]]).
+
+### Endoscopy
+- **Flexible sigmoidoscopy within 72 h, preferably 24 h, of admission** in every ASUC patient — grade severity, biopsy for CMV (Key Concept 48); careful, minimal insufflation, experienced operator ([[acg-2025-uc]]).
+
+> [!pitfall] Sigmoidoscopy, not colonoscopy, in severe colitis
+> Complete [[colonoscopy]] with severe inflammation may bring higher rates of colonic dilation and perforation ([[acg-2025-uc]]).
+
+### Laboratory and Infection Testing
+- **Labs:** complete blood count and serum creatinine (CDI severity thresholds above), albumin, C-reactive protein (CRP).
+  - CRP ≥1.2 mg/dL with ≥6 bloody bowel movements daily and ≥1 systemic sign → start IV corticosteroids, absent contraindications ([[aga-2026-inpatient-ibd]], BPA 4).
+- ***C. difficile* testing in every ASUC patient** (Rec 1, strong recommendation, moderate quality of evidence, [[acg-2025-uc]]) — two-step: nucleic acid amplification test (NAAT) or glutamate dehydrogenase (GDH) first, then toxin enzyme immunoassay (EIA) ([[acg-2021-cdiff]], Figure 1).
+  - UC + CDI → 4-fold higher mortality and higher colectomy rates ([[acg-2025-uc]]).
+- **CMV** ([[aga-2026-inpatient-ibd]], BPA 4):
+  - Exclude by mucosal biopsy — hematoxylin and eosin (H&E) with CMV immunohistochemistry — when there is systemic toxicity, no response to corticosteroids, or ASUC.
+  - Serum CMV polymerase chain reaction (PCR) and titers: neither needed in all inpatients nor enough to rule CMV out.
+  - **Treat only** clinically active IBD with **high-density histologic CMV (≥5 inclusions) *and* no response to corticosteroids.**
 
 ## Therapeutics
 
-**Supportive (all causes):**
-- Multidisciplinary team — critical care, gastroenterology (GI), infectious diseases (ID), with **early surgical involvement**; intensive care unit (ICU) monitoring; aggressive **volume resuscitation** and electrolyte correction, attention to renal function/urine output.
-- **Pharmacologic deep vein thrombosis (DVT) prophylaxis** (low-molecular-weight heparin (LMWH)) in ASUC — safe even with active UC bleeding.
-- **Stop precipitants:** antimotility agents, opioids, anticholinergics, NSAIDs.
-- **No routine broad-spectrum antibiotics** in ASUC (no benefit in randomized controlled trials (RCTs); raises CDI risk) — restrict to suspected extraluminal complication/systemic toxicity. **No total parenteral nutrition (TPN) / bowel rest** (no benefit); encourage [[nutrition-in-ibd|enteral nutrition]] unless toxicity/surgery imminent.
+### Supportive Care
+- **Multidisciplinary team** — critical care, gastroenterology and/or infectious diseases, with **early surgical involvement** ([[acg-2021-cdiff]]); timely surgical consultation ([[aga-2026-inpatient-ibd]], BPA 6).
+- **Volume resuscitation** with close attention to renal function and urine output ([[acg-2021-cdiff]]); fluids and electrolytes ([[acg-2025-uc]]).
+- **Pharmacologic deep vein thrombosis (DVT) prophylaxis** in ASUC (Rec 2, strong, low quality, [[acg-2025-uc]]) — low-molecular-weight heparin (LMWH) is safe even with active UC bleeding; AGA: LMWH or fondaparinux for every hospitalized IBD patient without absolute contraindications ([[aga-2026-inpatient-ibd]], BPA 5).
+- **Stop the [[#Precipitants]].**
+- **No routine broad-spectrum antibiotics** in ASUC (Rec 3, strong, low quality) — 4 trials showed no difference in response or surgery; restrict to suspected extraluminal complications or systemic signs of toxicity ([[acg-2025-uc]]).
+- **No total parenteral nutrition for bowel rest** (Rec 4, conditional, very low quality); encourage [[nutrition-in-ibd|enteral nutrition]] unless there is toxicity and need for surgery ([[acg-2025-uc]]).
 
-**ASUC substrate:**
-- **Intravenous (IV) corticosteroids:** methylprednisolone 60 mg/day **OR** hydrocortisone 100 mg three times daily (TID)–four times daily (QID).
-- **Day-3 assessment:** if inadequate response, **rescue with infliximab or [[calcineurin-inhibitors|cyclosporine]]**. Choice by provider experience, prior immunomodulator/anti–tumor necrosis factor (TNF) failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use [[jak-inhibitors|tofacitinib/upadacitinib]] after intravenous corticosteroids (IVCS) or infliximab failure in ASUC.
-- Treat **CMV colitis** if identified in refractory disease — ganciclovir **IV then oral, 14-day course** (response ~**70%**); **valganciclovir** may be appropriate in selected patients. Do **not** withhold colitis therapy while treating CMV, and **do not defer colectomy** to complete the antiviral course in nonresponders.
+### Medical Therapy by Cause
 
-**Fulminant CDI substrate:**
-- **[[cdiff-antibiotics|Vancomycin]] 500 mg by mouth (PO) q6h** × first 48–72 h; if improving, step down to **125 mg q6h × additional 10 days**.
-- **IV metronidazole 500 mg q8h can be added** (conditional, very low) — may be particularly helpful if ileus impairs oral drug delivery.
-- **If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h** (conditional).
-- Reassess at 48–72 h with the multidisciplinary team if no improvement.
-- **[[fmt|fecal microbiota transplantation (FMT)]]** for severe/fulminant CDI **refractory to antibiotic therapy**, particularly in **poor surgical candidates** *(strong recommendation, low quality)* — sequential protocol until pseudomembrane resolution.
-- **No routine role** for adjunctive IV immunoglobulin or bedside polyethylene glycol (PEG) colonic lavage; fidaxomicin has no data in fulminant CDI.
+| | ASUC ([[acg-2025-uc\|ACG 2025 UC]]) | Fulminant CDI ([[acg-2021-cdiff\|ACG 2021]]) |
+|---|---|---|
+| **Start** | IV methylprednisolone 60 mg/day **or** hydrocortisone 100 mg 3–4 times/day (Rec 5) | Volume resuscitation + oral [[cdiff-antibiotics\|vancomycin]] **500 mg every 6 h** for the first 48–72 h (Rec 9) |
+| **Add** | — | IV metronidazole 500 mg every 8 h can be considered (Rec 9, conditional); **ileus** → vancomycin enema 500 mg in 100 mL saline every 6 h (Rec 10, conditional) |
+| **Reassess** | Day 3 | 48–72 h |
+| **Improving** | Continue | Vancomycin 125 mg every 6 h for 10 more days |
+| **Not improving** | Rescue with [[anti-tnf-agents\|infliximab]] or [[calcineurin-inhibitors\|cyclosporine]] (Rec 6) | Multidisciplinary reassessment, alternative approach; [[fmt\|fecal microbiota transplantation (FMT)]] if refractory (Rec 11) |
 
-**Surgery — indications (do not delay; delayed surgery → poor outcomes):**
-- **Toxic megacolon, colonic perforation, severe refractory hemorrhage, or medical refractoriness** (ACG UC key concept 54); multiorgan dysfunction.
-- Fulminant CDI failing/unresponsive to maximal medical therapy.
-- Infliximab/cyclosporine exposure does **not** increase postoperative complications — do not defer needed surgery on that basis.
+**ASUC — choices behind the table**
+- Steroid dose: 40–60 mg/day methylprednisolone equivalent; **>60 mg/day adds no benefit** and more adverse effects ([[aga-2026-inpatient-ibd]], BPA 7).
+- Do not delay corticosteroids for *C. difficile* or CMV results, and do not stop them if either is found — treat the pathogen concurrently ([[aga-2026-inpatient-ibd]]).
+- Rescue choice: provider experience, prior immunomodulator or anti–tumor necrosis factor (TNF) failure, serum albumin (Key Concept 53); **albumin <2.5 g/dL → consider infliximab dose intensification** (Key Concept 57; the trial used 10 mg/kg) ([[acg-2025-uc]]).
+- **[[jak-inhibitors|Janus kinase (JAK) inhibitors]] as rescue — the guidelines disagree.** ACG 2025: insufficient data for tofacitinib or upadacitinib after IV corticosteroid failure (Key Concept 56). AGA 2026 (newer) lists JAK inhibitors with infliximab and cyclosporine as rescue options, optimal ASUC dose unknown (BPA 9).
+- **CMV colitis** (criteria above): ganciclovir IV then oral for 14 days (response ~70%); valganciclovir in selected patients. Keep treating the colitis; **do not defer colectomy** to finish the antiviral course in nonresponders ([[acg-2025-uc]]).
 
-**Surgical procedure:**
-- **ASUC:** subtotal or total colectomy with [[ostomy-management|end ileostomy]] is the preferred operation.
-- **Fulminant CDI:** total colectomy with end ileostomy + stapled rectal stump, **OR** diverting loop ileostomy with **antegrade colonic lavage (8 L PEG via the distal limb)** + **intraluminal vancomycin × 10 days postoperatively** — choice per clinical circumstances, surgical tolerance, and surgeon judgment.
-  - **Avoid partial colectomy** — 16% reoperation rate for persistent sepsis requiring further resection. Total colectomy carried a mortality OR of **0.7** (0.49–0.99) vs continued medical therapy; the loop-ileostomy approach reported lower mortality than historical total-colectomy controls (**19% vs 50%**).
-  - Postoperative mortality after total colectomy is higher in patients who preoperatively have **acute renal failure, vasopressor requirement, or mechanical ventilation** — an argument for operating *before* those develop.
+**Fulminant CDI — choices behind the table** ([[acg-2021-cdiff]])
+- Rec 9 vancomycin: strong recommendation, very low quality; IV metronidazole may help most when ileus impairs oral delivery.
+- **FMT** for severe or fulminant CDI refractory to antibiotics, particularly poor surgical candidates (Rec 11, strong, low quality); consider after 48–72 h of maximal medical therapy; repeat every 3–5 days until pseudomembranes resolve.
+- No routine IV immunoglobulin or bedside polyethylene glycol (PEG) colonic lavage; no data for fidaxomicin in fulminant CDI.
+- No standard criteria for when colectomy should be performed — monitor closely.
 
-```mermaid
-flowchart TD
-    A["Severe colitis + colonic dilation/toxicity"] --> B["Identify substrate + remove precipitants<br/>(antimotility, opioids, anticholinergics, NSAIDs)"]
-    B --> C{"Underlying cause?"}
-    C -->|ASUC| D["IV steroids<br/>methylpred 60 mg/day"]
-    C -->|Fulminant CDI| E["Vancomycin 500 mg PO q6h<br/>± IV metronidazole ± vanc enema"]
-    D --> F{"Response by day 3?"}
-    F -->|No| G["Rescue: infliximab or cyclosporine"]
-    E --> H{"Response by 48-72 h?"}
-    H -->|No| I["Reassess team ± FMT"]
-    G --> J{"Refractory / perforation /<br/>toxic megacolon / hemorrhage?"}
-    I --> J
-    J -->|Yes| K["Colectomy — do not delay"]
-```
+> [!pearl] FMT colonoscopy is possible despite toxic megacolon
+> Done carefully — gentle CO₂ insufflation, careful advance beyond the splenic flexure ([[acg-2021-cdiff]]).
+
+### Surgery
+
+**Indications**
+- **ASUC:** toxic megacolon, colonic perforation, severe refractory hemorrhage, refractoriness to medical therapy (Key Concept 54); surgical consultation when failing medical therapy by day 3 **or with suspected toxicity** (Key Concept 52) ([[acg-2025-uc]]).
+- **Fulminant CDI:** surgery remains standard for refractory severe or fulminant CDI, particularly colonic toxic megacolon, ischemia or perforation ([[acg-2021-cdiff]]).
+- Prior infliximab or cyclosporine does **not** raise postoperative complications — do not defer surgery for it (Key Concept 55, [[acg-2025-uc]]).
+
+> [!pitfall] Late surgery raises mortality
+> Delayed surgery in acute severe colitis has poor outcomes ([[acg-2025-uc]]). In fulminant CDI, late surgery raises postoperative mortality, which is higher with preoperative acute renal failure, vasopressors or mechanical ventilation ([[acg-2021-cdiff]]).
+
+**Operation**
+
+| Substrate | Operation |
+|---|---|
+| ASUC | Subtotal or total colectomy with [[ostomy-management\|end ileostomy]] (preferred) ([[acg-2025-uc\|ACG 2025 UC]]) |
+| Fulminant CDI | Total colectomy + end ileostomy + stapled rectal stump, **or** diverting loop ileostomy + antegrade colonic lavage (8 L PEG via the distal limb) + intraluminal vancomycin for 10 days postoperatively — by clinical circumstances, surgical tolerance, surgeon judgment (Key Concept 4, suggestion, [[acg-2021-cdiff\|ACG 2021]]) |
+
+- **Avoid partial colectomy** in CDI — 16% reoperation for persistent sepsis.
+- Total colectomy vs continued medical therapy: mortality odds ratio 0.7 (confidence interval 0.49–0.99); loop ileostomy vs historical total-colectomy controls: mortality 19% vs 50% ([[acg-2021-cdiff]]).
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]], [[jak-inhibitors]], [[cdiff-antibiotics]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[colonoscopy]], [[ibd-endoscopic-scoring]], [[anti-tnf-agents]], [[calcineurin-inhibitors]], [[jak-inhibitors]], [[cdiff-antibiotics]], [[fmt]], [[loperamide]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[ostomy-management]]
 
 ---
 

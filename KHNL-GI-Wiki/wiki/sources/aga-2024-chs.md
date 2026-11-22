@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid 
 category: source
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cvs, cannabis, dgbi, amitriptyline, capsaicin]
 created: 2026-07-18
-updated: 2026-11-16
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2024 CPU Cannabinoid Hyperemesis Syndrome.pdf"
 ---
 
@@ -69,6 +70,7 @@ Management pairs acute antiemetic control — topical capsaicin, benzodiazepines
 
 ### Evaluation
 
+- **Suspect CHS in patients with chronic nausea and vomiting and cannabis use.**
 - **No confirmatory test.** Limited, individualized outpatient evaluation to exclude mimics.
 - **No consensus exists on minimum testing.** A good clinical history narrows the possibilities; suspicion-driven testing may include:
   - Anatomic evaluation — **upper gastrointestinal (GI) endoscopy, or computed tomography (CT) of abdomen or pelvis** to exclude obstruction.
@@ -106,7 +108,7 @@ Rumination syndrome · gastroparesis · CVS · pregnancy · migraine · function
 - Use of **edible** forms.
 - Avoiding **Δ⁹-THC concentrates**.
 
-**Investigational:** fatty acid amide hydrolase (FAAH) inhibitors and CBD each reduced cannabis use in 2 small placebo-controlled randomized studies in adults with cannabinoid use disorder — larger studies needed.
+**Investigational:** preliminary evidence from 2 small placebo-controlled randomized studies in adults with cannabinoid use disorder suggests fatty acid amide hydrolase (FAAH) inhibitors and CBD **can** reduce cannabis use — larger studies needed.
 
 **Course:** a single-center experience reported **>40% of patients could stop all CHS treatment over time**, but recidivism was high. In a survey, many patients with recurrent vomiting and a CHS diagnosis **remained uncertain about the role of cannabis**, attributing symptoms to food and alcohol patterns, stress, and existing GI disorders.
 
@@ -120,7 +122,7 @@ Rumination syndrome · gastroparesis · CVS · pregnancy · migraine · function
 - Pregnancy/lactation abstinence advice feeds [[nausea-and-vomiting-of-pregnancy]].
 
 ## Contradictions / Open Questions
-- **Commentary format — no evidence ratings of any kind.** Treatment evidence is case series and small clinical trials; no randomized controlled trials (RCTs) support the long-term regimen.
+- **Commentary format — no evidence ratings of any kind.** Evidence for acute and short-term care is limited to case series and small clinical trials (topical capsaicin, benzodiazepines, haloperidol, promethazine, olanzapine, ondansetron); long-term amitriptyline rests on observational experience.
 - A **critical appraisal of the literature has questioned the etiologic role of cannabis** in CHS, even though cessation is considered necessary for treatment.
 - Overall CHS prevalence remains unknown and underdiagnosis is a challenge; recidivism is high.
 - **Superseded in part by [[rome-v-2026-dgbi]] (2026):** this CPU treats CHS as a subtype of CVS, whereas Rome V makes CHS a separate adult entity (B2c). The newer consensus governs placement; see [[cannabinoid-hyperemesis-syndrome]].

@@ -3,8 +3,9 @@ title: "ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Trac
 category: source
 tags: [subepithelial-lesion, gist, leiomyoma, lipoma, net, carcinoid, granular-cell-tumor, pancreatic-rest, duplication-cyst, eus, eus-fna, eus-fnb, ster, eftr, esd]
 created: 2026-06-27
-updated: 2026-10-20
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/ASGE/ASGE 2017 Subepithelial Lesions of the GI Tract.pdf"
 ---
 
@@ -54,17 +55,58 @@ The document marks evidence quality with filled and open circles — **⊕⊕⊕
 - **Gastric GIST malignant-potential table (size × mitotic rate; metastasis/mortality):** see [[gastrointestinal-stromal-tumor]] and [[subepithelial-lesion]].
 - **Leiomyoma:** benign smooth-muscle tumor, mostly esophageal (90% in lower/middle third), from muscularis mucosa or propria; CD117−/CD34−, desmin+/SMA+ (distinguishes from GIST). Resect only if symptomatic.
 - **Lipoma:** colon and gastric antrum; yellow, soft, pillow sign 98% specific (low sensitivity); homogeneous hyperechoic from submucosa. No tissue/surveillance needed unless symptomatic; negligible malignant potential.
-- **GI neuroendocrine neoplasms (carcinoids):** originate from mucosa, penetrate submucosa; standard mucosal biopsy usually diagnostic. **Gastric types:** Type I (multifocal, chronic atrophic gastritis/hypergastrinemia/pernicious anemia, low metastatic potential); Type II (Zollinger-Ellison/multiple endocrine neoplasia type 1 (MEN-1), intermediate; nodal mets 10–30% if >2 cm); Type III (sporadic, often metastatic, 5-yr survival <50%, manage surgically). Endoscopic mucosal resection (EMR) for type I/II lesions <2 cm; lesions <1 cm may not need removal.
+- **GI neuroendocrine neoplasms (carcinoids):** originate from mucosa, penetrate submucosa; standard mucosal biopsy usually diagnostic. **Gastric types:** Type I (multifocal, chronic atrophic gastritis/hypergastrinemia/pernicious anemia, low metastatic potential); Type II (Zollinger-Ellison/multiple endocrine neoplasia type 1 (MEN-1), intermediate; nodal mets 10–30% if >2 cm); Type III (sporadic, often metastatic, 5-yr survival <50%) should be managed surgically, although small (<1 cm) well-differentiated lesions may be considered for endoscopic removal. Endoscopic mucosal resection (EMR) may be considered for type I/II lesions <2 cm; lesions <1 cm may not need removal.
 - **Rectal neuroendocrine tumor (NET):** size-based — <1 cm/submucosal/no lymphovascular invasion (LVI): local endoscopic or transanal excision (5-yr survival 98.9–100%); 1–2 cm: EUS then endoscopic/transanal excision if no muscularis propria (MP) invasion; >2 cm: surgery with lymph node dissection (up to 80% nodal disease). Nodal-metastasis incidence for 11–19 mm tumors 17–81%. Proposed surveillance: EUS at 3 months then every 6 months for 3 years (National Comprehensive Cancer Network [NCCN]: no follow-up for fully resected <1 cm).
-- **Duodenal NET:** managed like rectal carcinoids; <1 cm well-differentiated → endoscopic polypectomy/EMR; refer for surgery if angioinvasion, MP invasion, or grade 2/3. Nodal risk 2% (<1 cm), 4.7% (1–2 cm), 20% (>2 cm).
+- **Duodenal NET:** managed like rectal carcinoids; <1 cm well-differentiated → endoscopic polypectomy/EMR; refer for surgery if angioinvasion, MP invasion, or grade 2/3. Low nodal risk especially for tumors ≤2 cm not involving the MP: 2% (<1 cm), 4.7% (1–2 cm); 20% (>2 cm).
 - **Jejunal/ileal NET:** surgical resection recommended (mid-gut metastatic disease incurable); follow-up ≥7 years.
 - **Pancreatic rest:** heterotopic pancreas, greater-curve antrum, central umbilication; firm SEL with umbilication considered diagnostic — EUS not required. EUS (when done): heterogeneous/hypoechoic, any layer.
-- **Granular cell tumor:** nerve-sheath (Schwann cell) tumor, mostly esophageal; "submucosal pill," grayish-yellow; S-100+; mucosal/submucosal, hypoechoic homogeneous. Malignant transformation rare (>4 cm). Subcentimeter lesions safe to surveil; endoscopic resection (snare/EMR/ESD) may obviate surveillance.
-- **Duplication cyst:** congenital, GI-epithelium-lined; anechoic, 3–5 layer wall, submucosal or extrinsic; avoid FNA when clearly anechoic (infection risk; use antibiotic prophylaxis if FNA needed). No surveillance data; resect only if symptomatic.
+- **Granular cell tumor:** nerve-sheath (Schwann cell) tumor, mostly esophageal; "submucosal pill," grayish-yellow; S-100+; mucosal/submucosal, hypoechoic homogeneous in the text (Table 2: hypoechoic, heterogeneous). Malignant transformation rare (>4 cm). Subcentimeter lesions safe to surveil; endoscopic resection (snare/EMR/ESD) may obviate surveillance.
+- **Duplication cyst:** congenital, GI-epithelium-lined; anechoic, 3–5 layer wall, submucosal or extrinsic; avoid FNA when clearly anechoic (infection risk); EUS-FNA of mediastinal cysts can be considered if the diagnosis is unclear (solid component, hypoechoic), with prophylactic antibiotics considered. No surveillance data. Esophageal duplication cysts rarely resected unless symptomatic; small-bowel duplication cyst management is controversial (possible increased malignant transformation risk).
 - **Other SELs:** metastasis (stomach body/fundus, central depression, biopsy diagnostic >90%); varices (anechoic, Doppler+, can occur in duodenum/rectum); glomus tumor (antrum, MP, hypervascular, actin+/vimentin+, CD117−); inflammatory fibroid polyp; Brunner's gland hyperplasia; lymphangioma; lymphoma.
-- **Tissue acquisition yields:** standard pinch biopsy rarely sufficient; bite-on-bite 30–40%; jumbo forceps higher yield for submucosal lesions but bleeding 35.7% (34.9% needed hemostasis); SINK 93%; ESMR 87% (vs bite-on-bite 17%). EUS-FNA accuracy for GIST 46–93%; FNB (22G core) yield 75% vs FNA 20% — FNB salvages nondiagnostic FNA. FNA accuracy plateaus after the 4th pass; stylet, suction, fanning, and rapid on-site evaluation (ROSE) have unproven incremental benefit. Partial-resection/jumbo techniques risk perilesional fibrosis complicating later resection.
-- **Endoscopic resection:** ESMR (≤20 mm, mucosa/submucosa; ESMR-C cap, ESMR-L ligation — bleeding up to 9%; caution in duodenum and for MP lesions). ESD for MP lesions (gastric MP ESD complete resection 92%, perforation 14% — all managed endoscopically); limited for >5 cm (perforation up to 19%). STER (mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%, adverse events 9.4–33%). EFTR for MP-infiltrating lesions up to 4 cm; requires secure defect closure.
-- **Management algorithm (Fig 3):** EUS triages extramural vs intramural; hyperechoic + pillow sign → lipoma (observe); anechoic Doppler+ → varix; anechoic Doppler− → cyst; 2nd/3rd-layer hypoechoic → tissue (EMR/EUS-FNA/FNB/bite-on-bite/unroofing/jumbo/SINK), treat by histology; 4th-layer ≥2 cm or symptomatic/suspicious → ESD/STER/EFTR vs surgery; <2 cm asymptomatic → surveillance 3–12 months.
+- **Tissue acquisition yields:** standard pinch biopsy rarely sufficient; bite-on-bite 30–40%; jumbo forceps higher yield for submucosal lesions but bleeding 35.7% (34.9% needed hemostasis); SINK 93%; ESMR 87% (vs jumbo-forceps bite-on-bite 17%). EUS-FNA accuracy for GIST 46–93%; FNB (22G core) yield 75% vs FNA 20% — FNB salvages nondiagnostic FNA. FNA accuracy plateaus after the 4th pass; stylet, suction, fanning, and rapid on-site evaluation (ROSE) have unproven incremental benefit. Partial-resection/jumbo techniques risk perilesional fibrosis complicating later resection.
+- **Endoscopic resection:** ESMR (≤20 mm, mucosa/submucosa; ESMR-C cap, ESMR-L ligation — bleeding up to 9%; caution in duodenum and for MP lesions). ESD for MP lesions (gastric MP ESD complete resection 92%, perforation 14% — all managed endoscopically); limited for >5 cm (perforation up to 19%). STER (mucosal incision ≥5 cm proximal; preserves mucosa; case series en bloc 78–100%, adverse events 11–33%; largest series of 85 small upper GI MP SELs: complete resection in all, adverse events 9.4%). EFTR for MP-infiltrating lesions up to 4 cm; requires secure defect closure.
+### Management algorithm (Fig 3)
+
+```mermaid
+flowchart TD
+    A(["Subepithelial lesion"]) --> B["Endoscopic ultrasound"]
+    B -- "Extramural lesion / mass / organ" --> X(["Work-up based on clinical indication"])
+    B -- "Intramural" --> C["2nd/3rd layer"]
+    C -- "Anechoic, Doppler positive" --> V(["Vascular: observe"])
+    C -- "Anechoic, Doppler negative" --> Cy(["Cyst: observe"])
+    C -- "Hyperechoic, positive pillow sign" --> L(["Lipoma: observe"])
+    C -- "Hypoechoic" --> D["Symptomatic or increase in size?"]
+    D -- "Yes, <2 cm" --> E(["EMR"])
+    D -- "Yes, >2 cm" --> F(["Piecemeal EMR, ESD or surgical resection"])
+    D -- "No" --> S["Tissue sampling: EUS-FNA/FNB, bite on bite, unroofing, jumbo biopsy, SINK biopsy, submucosal endoscopy with core biopsy"]
+    S -- "Diagnostic" --> H(["Treatment based on histology"])
+    S -- "Non-diagnostic" --> Su(["Surveillance in 3–12 months"])
+    class A start
+    class B,C,D,S test
+    class E,F,H act
+    class X,V,Cy,L,Su stop
+```
+*Subepithelial lesion management — EUS triage and 2nd/3rd-layer lesions*
+*Source: redrawn from ASGE 2017 Figure 3 (left half)*
+*[[asge-2017-subepithelial-lesions|ASGE 2017 Subepithelial Lesions]]*
+*EUS = endoscopic ultrasound · EMR = endoscopic mucosal resection · ESD = endoscopic submucosal dissection · FNA = fine-needle aspiration · FNB = fine-needle biopsy · SINK = single-incision needle-knife*
+
+```mermaid
+flowchart TD
+    A(["Intramural lesion, 4th layer"]) -- "Symptomatic / increase in size / suspicious EUS features, 2–4 cm" --> R(["Full-thickness ESD, STER, EFTR vs surgery"])
+    A -- "Symptomatic / increase in size / suspicious EUS features, >4 cm" --> G(["Surgery"])
+    A -- "Asymptomatic / stable" --> S["Tissue sampling: EUS-FNA/FNB, bite on bite, unroofing, jumbo biopsy, SINK biopsy, submucosal endoscopy with core biopsy"]
+    S -- "Diagnostic" --> H(["Treatment based on histology"])
+    S -- "Non-diagnostic" --> Su(["Surveillance in 3–12 months"])
+    class A start
+    class S test
+    class R,G,H act
+    class Su stop
+```
+*Subepithelial lesion management — 4th-layer (muscularis propria) lesions*
+*Source: redrawn from ASGE 2017 Figure 3 (right half)*
+*[[asge-2017-subepithelial-lesions|ASGE 2017 Subepithelial Lesions]]*
+*EUS = endoscopic ultrasound · ESD = endoscopic submucosal dissection · STER = submucosal tunneling with endoscopic resection · EFTR = endoscopic full-thickness resection · FNA = fine-needle aspiration · FNB = fine-needle biopsy · SINK = single-incision needle-knife*
 
 ---
 
@@ -78,4 +120,5 @@ The document marks evidence quality with filled and open circles — **⊕⊕⊕
 ## Contradictions / Open Questions
 
 - **Superseded where it conflicts:** the SEL schema page primarily follows the newer **American College of Gastroenterology (ACG) 2023** guideline (higher priority by publication date). Where ASGE 2017 and ACG 2023 differ on tissue-acquisition preferences or thresholds, the page asserts the ACG 2023 position; ASGE 2017 contributes only non-conflicting net-new detail.
-- No within-guideline contradictions; several recommendations are based on retrospective series/expert consensus (low GRADE quality).
+- Granular cell tumor echotexture: text says homogeneous, Table 2 says heterogeneous.
+- Several recommendations are based on retrospective series/expert consensus (low GRADE quality).

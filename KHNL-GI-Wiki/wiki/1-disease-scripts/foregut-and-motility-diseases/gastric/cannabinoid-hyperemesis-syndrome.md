@@ -143,7 +143,7 @@ Neither source gives CHS-specific antiemetic doses; the dosed abortive and suppo
 
 - **Psychiatric co-management** with psychology/psychiatry for refractory disease or extensive psychiatric comorbidity; combining evidence-based psychosocial intervention with pharmacotherapy may be necessary.
 - **Pregnancy and lactation:** cannabis is used to relieve [[nausea-and-vomiting-of-pregnancy|nausea and vomiting of pregnancy]], especially in more severe cases, but there is also evidence it **aggravates** it. Given adverse perinatal outcomes with heavy use, advise refraining from cannabis during pregnancy and lactation.
-- **Investigational:** fatty acid amide hydrolase (FAAH) inhibitors and cannabidiol (CBD) each reduced cannabis use in 2 small placebo-controlled randomized controlled trials (RCTs) in cannabinoid use disorder — larger studies needed.
+- **Investigational:** preliminary evidence from 2 small placebo-controlled randomized controlled trials (RCTs) in cannabinoid use disorder suggests fatty acid amide hydrolase (FAAH) inhibitors and cannabidiol (CBD) can reduce cannabis use — larger studies needed.
 
 **Strategies that lack scientific validation** — commonly suggested, but the 2024 CPU explicitly names them as unvalidated: switching to a **lower Δ⁹-THC / higher CBD** formulation · switching to **edible** forms · avoiding **Δ⁹-THC concentrates**.
 

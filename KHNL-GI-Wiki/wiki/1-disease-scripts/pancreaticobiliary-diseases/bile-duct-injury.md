@@ -3,11 +3,11 @@ title: "Bile Duct Injury After Cholecystectomy"
 category: disease-script
 tags: [bile-duct-injury, cholecystectomy, biliary, strasberg, hepaticojejunostomy, bile-leak, ercp]
 created: 2026-11-11
-updated: 2026-11-15
-sources: [sages-ahpba-2025-bile-duct-injury, esge-2026-biliary-strictures]
+updated: 2026-11-22
+sources: [sages-ahpba-2025-bile-duct-injury, acg-2023-biliary-strictures, esge-2026-biliary-strictures]
 ---
 
-Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a severe complication carrying substantial morbidity and mortality. **Major BDI = Strasberg grades B through E** ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]). Only **15%–30%** are recognized intraoperatively; the rest present afterwards with bile leak, sepsis, jaundice or a stricture.
+Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a severe complication with high morbidity and mortality. Injury rates during laparoscopic cholecystectomy range **0.04%–0.6%**. Recommendations here come mainly from the Society of American Gastrointestinal and Endoscopic Surgeons and Americas Hepato-Pancreato-Biliary Association guideline ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]), written for **major BDI = Strasberg grades B through E**.
 
 ## Contents
 - [[#Assessment]]
@@ -32,35 +32,27 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 
 ### Establishing the Diagnosis
 
-- **Recognized at the index operation in only 15%–30%.** Everything else declares itself postoperatively.
-- Five factors drive every subsequent decision ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]):
-  - **Type of injury** (Strasberg grade)
-  - **Concomitant vascular injury** — not captured by Strasberg, present in **26%–32%**
-  - **Control of sepsis**
-  - **Timing of diagnosis or referral**
-  - **Expertise available** — surgical, interventional radiology (IR), and therapeutic endoscopy
+- **Diagnosed intraoperatively in only 15%–30%**; the rest are recognized after the index operation. Timing of therapy depends on when the injury is diagnosed ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]).
 
-> [!pitfall] The decision is as much about where the patient is as what the injury is
-> Outcomes improve with specialty care at a tertiary centre. If no hepatopancreatobiliary (HPB) surgery expert is available locally, **temporize and transfer** — do not attempt the definitive repair ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]], KQ 1).
+> [!pitfall] Where the patient is matters as much as the injury
+> Outcomes are better with specialty care at a tertiary centre. Presenting within 6 weeks with no hepatopancreatobiliary (HPB) surgery expert locally → **temporize and transfer** ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]], key question [KQ] 1).
 
 ### Severity Assessment
 
-- **Severity tracks the Strasberg grade plus the presence of vascular injury and sepsis.** A circumferential injury with loss of continuity (class E) in a septic patient with an arterial injury is the far end.
-- **Long-term stricture occurs in about 10%** of treated patients and often needs further treatment and hospital stay.
+- **Strasberg class is the severity scale** — class A least severe, class E most severe ([[#Classification / Typing]]).
+- **Death after BDI: 3%–20%**, depending on timing, expertise and cohort selection; survivors lose quality of life and work productivity ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]).
 
 ### Classification / Typing
 
-**Strasberg classification (A–E)** — the stratification the guideline's population and recommendations are built on ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]):
+**Strasberg classification (A–E)** — five injury groups; the guideline's population and recommendations are built on it ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]):
 
 | Class | Injury |
 |---|---|
-| **A** | Bile leak from the cystic duct or small ducts in the liver bed — **least severe** |
-| **B–D** | Intermediate injuries; **major BDI starts at B** |
+| **A** | Bile leak from the cystic duct or small ducts in the liver bed — **least severe**; not a major BDI |
+| **B–D** | Major BDI |
 | **E** | **Circumferential injury to a major bile duct with loss of continuity** — most severe; subclassified **E1–E5** |
 
-- **Concomitant vascular injury is not part of the system** — document it separately; it is present in 26%–32% and changes the timing decision.
-
-*SAGES-AHPBA 2025 prints the A/E endpoints and the E1–E5 subclassification but not the per-class definitions of B, C and D.*
+*SAGES-AHPBA 2025 does not print the definitions of classes B–D or of subclasses E1–E5.*
 
 ---
 
@@ -68,96 +60,142 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 
 *Workup: see [[biliary-stricture]].*
 
-- Retained or dropped stone with a postoperative bile collection
-- [[biliary-stricture|Benign postoperative biliary stricture]] without transection
-- Cystic duct stump leak (Strasberg A) — not a major BDI
-- Pancreatitis or duodenal injury from the same operation
-- Postoperative fluid collection without a biliary source
+- **Minor injury (Strasberg A)** — cystic duct or liver-bed small-duct leak; outside the major-BDI definition and the SAGES-AHPBA recommendations
+- **Late postcholecystectomy benign biliary stricture** — managed endoscopically ([[#Endoscopic Stent Strategy]])
 
 ---
 
 ## Diagnostics
 
-- **Cholangiography** — intraoperative, percutaneous transhepatic (PTC) or endoscopic — defines the injury type and whether the duct is in continuity with the rest of the biliary tree.
-- **Assess the biliary tree's calibre, not just the leak.** A **dilated** system makes endoscopic repair feasible; a **decompressed** one pushes toward surgery.
-- **Look for arterial injury** — it is not graded by Strasberg and it changes the timing of repair.
-- Cross-sectional imaging and drainage of collections for sepsis control.
+The workup has to define the five factors every repair decision turns on ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]):
+
+- **Type of injury** — Strasberg class, including the E subclass
+- **Concomitant vascular injury** — not part of the Strasberg system; present in **26%–32%**
+- **Control of sepsis**
+- **Timing of diagnosis or referral** — time since the index operation
+- **Expertise available** — HPB surgery, interventional radiology (IR), therapeutic endoscopy
+
+Also establish whether the **biliary system is dilated or decompressed** — it decides endoscopic candidacy ([[#Operative or Nonoperative]]).
 
 ---
 
 ## Therapeutics
 
-**Every recommendation below is conditional with very low certainty of evidence, and all assume an experienced HPB surgeon** ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]).
+**All four SAGES-AHPBA 2025 recommendations are conditional, very low certainty of evidence, and assume repair by a surgeon experienced in HPB pathology** ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]).
 
 ### Timing of Definitive Repair
 
-- **Delay definitive repair beyond 6 weeks** (conditional, very low certainty). Early repair (<6 weeks) was worse on **stricture (OR 7.41), surgical re-intervention (OR 3.31), quality of life and mortality**; it was better only on **length of stay** (6 days shorter), a benefit the panel judged **trivial** against a **large** combined harm.
-- **Within 6 weeks — including an injury found at the index operation — temporize** if no HPB expert is on site: **wide drainage for sepsis control, biliary diversion if possible, PTC, stent placement**. This buys the transfer without compromising the outcome.
-- **Delay helps most** with highly severe injuries and **concomitant vascular injury** — the interval allows revascularization of the common bile duct, lowering postoperative stricture risk.
-- **Early repair may still be right** when all of: a surgeon highly skilled at reconstruction, injury type well defined, intra-abdominal sepsis controlled or eradicated, and adjunct-procedure expertise available — **especially when the injury is found at the index operation or within a week**.
-- **Delay may not be possible** with uncontrolled sepsis, or in a facility lacking IR and/or therapeutic endoscopy even when surgical expertise is present.
+**Delayed repair, more than 6 weeks after injury** (KQ 1; conditional, very low certainty).
+
+- Early repair (under 6 weeks) was worse on **stricture (odds ratio [OR] 7.41), surgical re-intervention (OR 3.31), quality of life and mortality**; better only on **length of stay** (6 days shorter) — benefit judged **trivial**, harm **large**.
+- Delay requires a centre that can **control sepsis while waiting** — surgical wide drainage if other nonoperative options are unavailable.
+
+| Situation | What to do |
+|---|---|
+| Within 6 weeks of the index operation (including intraoperative detection), **no HPB surgery expert locally** | **Temporize and transfer** — drainage, percutaneous transhepatic cholangiography (PTHC), stent placement |
+| Injury found **at the index operation**, no expert | **Wide drainage for sepsis control + biliary diversion if possible** |
+| Highly severe injury, or **concomitant vascular injury** | Delay of extra benefit — time for common bile duct revascularization, lower stricture risk |
+| Surgeon highly skilled at reconstruction **and** injury type well defined **and** intra-abdominal sepsis controlled/eradicated **and** adjunct-procedure expertise available | **Early repair may be favorable** — especially if found at the index operation or within a week |
+| Uncontrolled sepsis, or no IR and/or therapeutic endoscopy at the facility (even with surgical expertise) | Delay may not be possible |
+
+*Timing of definitive repair by situation*
+*Source: built from the SAGES-AHPBA 2025 KQ 1 recommendation box and evidence discussion*
+*[[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Bile Duct Injury Guideline]]*
+*HPB = hepatopancreatobiliary · PTHC = percutaneous transhepatic cholangiography · IR = interventional radiology*
+
+- **Immediate intraoperative repair:** the subgroup analysis still favored delayed repair, but many of those repairs were by general surgeons rather than hepatobiliary surgeons; with expertise available, immediate repair could benefit certain patients.
 
 ### Operative or Nonoperative
 
-**Either is acceptable for an amenable injury where the expertise exists** (conditional, very low certainty). What decides it:
+**Either definitive operative or nonoperative management for amenable injuries with expertise available** (KQ 3; conditional, very low certainty). What decides it:
 
 | Favors nonoperative (endoscopic / radiologic) | Favors operative |
 |---|---|
 | Less severe injury | Complex biliary or vascular injury |
 | **Dilated** biliary system | **Decompressed** biliary system |
-| Strasberg **type D and lower E1–E2**; endoscopy favored in **C, D, E1** | Strasberg **E3 and E5** |
-| Expertise available (complex injuries only at select advanced-endoscopy centres) | Severe sepsis |
+| Strasberg **type D and lower E1–E2**; in the one low-risk-of-bias study, endoscopy favored in **C, D, E1** | Strasberg **E3 and E5** (same study) |
+| Expertise available — most centres with endoscopists can treat type D; complex injuries only at select centres with advanced endoscopic expertise | Severe sepsis |
 
-- **Outcome split:** nonoperative better on **mortality and cholangitis** — but on three high-risk-of-bias studies with very wide intervals, and the panel distrusts the signal as selection by injury severity. Operative better on **stricture (OR 2.44), surgical re-intervention (OR 16.6)** and endoscopic/radiologic re-intervention, with higher certainty.
-- **Panel's resolution:** where expertise is available and the patient is safe, **an endoscopic attempt is reasonable**, given the lower mortality signal.
-- **Prompt discovery can make a patient a poorer endoscopic candidate** — the biliary tree has not had time to dilate.
+*Operative vs nonoperative management of major bile duct injury*
+*Source: built from the SAGES-AHPBA 2025 KQ 3 evidence discussion and conclusion*
+*[[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Bile Duct Injury Guideline]]*
+
+- **Outcome split:** nonoperative better on **mortality and cholangitis** — very low certainty, very wide intervals; the mortality data rest on three high-risk-of-bias studies and likely reflect worse injuries in the surgical group. Operative better on **stricture (OR 2.44), surgical re-intervention (OR 16.6)** and endoscopic/radiologic re-intervention; stricture and surgical re-intervention carried low (slightly more reliable) certainty.
+- **Panel's resolution:** if expertise is available and it is safe for the patient, **an endoscopic attempt is reasonable**, given the lower mortality.
+- **A dilated biliary system is typically needed** for endoscopy, so an injury discovered promptly may make a poorer endoscopic candidate.
+- Historically, endoscopy was used only when the duct stayed in continuity with the rest of the biliary tree, so types B, C and E were considered unlikely to be treated endoscopically; some specialized centres now treat higher-grade injuries endoscopically.
 
 > [!pearl] Tell the patient what endoscopic repair actually costs
 > Endoscopic management often needs **several re-interventions over months**. Patients weighted quality of life, time, and number of interventions heavily, and that expectation-setting can decide which strategy they choose ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]], KQ 3).
 
 ### Endoscopic Stent Strategy
 
-**A postcholecystectomy stricture gets temporary multiple plastic stents (MPSs)** — *conditional recommendation, very low quality of evidence* ([[esge-2026-biliary-strictures|ESGE 2026]]).
+Postcholecystectomy benign biliary stricture — the US and European guidelines differ:
 
-- **When to start endotherapy:** liver function tests persistently elevated for **more than a month** and/or **cholangitis**. Untreated, a sustained rise drives cholangitis, liver abscess and secondary biliary cirrhosis.
-- **Endoscopic sphincterotomy is required** to run an MPS protocol — also to place or remove an intraductal fully covered self-expandable metal stent (FCSEMS), and to cut the pancreatitis risk of a transpapillary FCSEMS.
-- **Why plastic and not metal:** these strictures **involve the main hepatic confluence in almost half of cases**, and MPSs adapt to a confluence stricture. Postcholecystectomy stricture complicates **<1% of cholecystectomies**.
-- **A fully covered self-expandable metal stent (FCSEMS) can be considered only when** the stricture is **>2 cm distally from the main hepatic confluence**, or the patient is **noncompliant with repeated [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]s**.
+- **American College of Gastroenterology (ACG) 2023, Rec 4 (governs):** benign extrahepatic stricture → **fully covered self-expanding metal stent (fcSEMS) over multiple plastic stents (MPS)** in parallel, to reduce the number of procedures (conditional, low-quality evidence) ([[acg-2023-biliary-strictures|ACG 2023]]).
+  - No randomized trials specifically in postcholecystectomy strictures; plastic stents may be preferable given **proximity to the hepatic hilum** and the potential for an fcSEMS to occlude an intrahepatic ductal system; observational data show comparable outcomes with fcSEMS and MPS.
+  - **MPS still preferred** when the stricture is **within 1–1.5 cm of the hilum**, or an fcSEMS previously migrated or was not tolerated.
+- **European Society of Gastrointestinal Endoscopy (ESGE) 2026 differs:** **temporary MPS** first-line; fcSEMS only if the stricture is **>2 cm distally from the main hepatic confluence** or the patient is **noncompliant with repeated [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]]s** (conditional, very low quality of evidence) ([[esge-2026-biliary-strictures|ESGE 2026]]). Rationale: these strictures sit close to the main hepatic confluence in almost half of cases, and MPS adapt to a confluence stricture.
+- **When to start endotherapy (benign biliary stricture):** liver tests persistently elevated for **more than a month** and/or **cholangitis** ([[esge-2026-biliary-strictures|ESGE 2026]]).
 
-| Strategy | Durability | Adverse events |
+| Postcholecystectomy series (cited by ESGE 2026) | Durability | Adverse events |
 |---|---|---|
-| **MPSs** (154 patients) | **9.4%** stricture recurrence at a mean of **11 years** after stent removal | **7.4%** needed an unscheduled exchange |
-| **FCSEMS**, >2 cm from the confluence, 10–12-month indwell (18 patients) | only **61%** free of further treatment at **5 years** | **16.7%** migration, **38.9%** overall |
+| **MPS** (154 patients) | **9.4%** stricture recurrence at a mean of **11 years** after stent removal | **7.4%** needed an unscheduled exchange |
+| **fcSEMS**, >2 cm from the confluence, 10–12-month indwell (18 patients) | only **61%** free of further treatment at a mean of **5 years** | **16.7%** migration, **38.9%** overall |
+
+*Long-term results of stent strategies for postcholecystectomy stricture*
+*Source: data from one retrospective MPS series and one prospective multicentre fcSEMS series, cited in ESGE 2026*
+*[[esge-2026-biliary-strictures|ESGE 2026 Biliary Stricture Guideline]]*
+*MPS = multiple plastic stents · fcSEMS = fully covered self-expanding metal stent*
 
 > [!pearl] Neither stent strategy burns a bridge
-> Endoscopic retreatment was always possible after either strategy failed, and **neither precluded later surgery** — so a reasonable endoscopic attempt does not cost the patient the reconstruction option ([[esge-2026-biliary-strictures|ESGE 2026]]).
+> Endoscopic retreatment was always possible after either strategy failed, and **neither precluded later surgery** ([[esge-2026-biliary-strictures|ESGE 2026]]).
 
-*Stent diameters, exchange intervals, total dwell times and the competing ACG default for benign extrahepatic strictures: [[biliary-stricture]].*
+*Stent diameters, exchange intervals and dwell times: biliary stricture page, Benign Extrahepatic Stricture section.*
 
 ### Operative Approach
 
-- **Either minimally invasive (MIS) or open** (conditional, very low certainty).
-- **MIS preferred** in the patient who is **stable, with favorable anatomy**, and in **high body mass index or obesity** — and only by a surgeon experienced in **both** MIS and HPB surgery.
+**Either minimally invasive surgery (MIS) or open definitive repair** (KQ 2; conditional, very low certainty). Box statement (expert opinion):
+
+| Prefer MIS | Prefer open |
+|---|---|
+| Stable | Unstable |
+| Favorable anatomy — initial operation done MIS, anatomically lower injury, no associated vascular injury | High and/or complex injury |
+| High body mass index or obesity | Open incision |
+| — | Suspected severe inflammation |
+
+*Choosing MIS or open repair*
+*Source: built from the SAGES-AHPBA 2025 KQ 2 recommendation box (expert opinion) and evidence discussion*
+*[[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Bile Duct Injury Guideline]]*
+*MIS = minimally invasive surgery*
+
+- MIS only by surgeons experienced in **both** MIS and HPB surgery.
+- Extensive inflammation around the injury, especially **more than a week** after the index operation, can limit MIS repair.
 
 ### Bilioenteric Reconstruction
 
-**Either hepaticoduodenostomy (HD) or hepaticojejunostomy (HJ)**, decided by **location of injury and surgeon expertise** (conditional, very low certainty). HD showed no benefit over HJ on any outcome studied, on 2 small high-risk-of-bias observational studies.
+**Either hepaticoduodenostomy (HD) or hepaticojejunostomy (HJ)**, decided by **location of injury and surgeon expertise** (KQ 4; conditional, very low certainty). HD showed no benefit over HJ on any outcome, on 2 high-risk-of-bias observational studies.
 
 | | Hepaticojejunostomy (HJ) | Hepaticoduodenostomy (HD) |
 |---|---|---|
-| **Use** | Widely performed; typically **more proximal, higher injuries** | Alternative, less commonly used |
+| **Use** | Currently favored, most long-term data; typically **more proximal, higher injuries** | Alternative, less commonly used |
 | **Technique** | Harder; **two anastomoses** (HJ + jejunojejunostomy) | More straightforward, more physiological |
-| **Postoperative access** | Harder to reach endoscopically | **Easier** cholangiographic/endoscopic access to the repair |
+| **Postoperative access** | — | **Easier** cholangiographic/endoscopic access to the repair |
 | **Hard when** | Obesity, short mesentery, congenital aberrant anatomy, previous enteric bypass or extensive adhesions | Substantial porta hepatis inflammation (duodenal mobilization unsafe); **the higher the injury, the more mobilization a tension-free anastomosis needs** |
 | **Contraindicated** | — | **E5 injury; severe pancreatitis** |
 | **Long-term** | — | **Sump syndrome, alkaline reflux** |
+
+*Hepaticojejunostomy vs hepaticoduodenostomy*
+*Source: built from the SAGES-AHPBA 2025 background and KQ 4 evidence discussion*
+*[[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Bile Duct Injury Guideline]]*
+*HJ = hepaticojejunostomy · HD = hepaticoduodenostomy*
 
 - **Biliary sepsis may favour the less complex operation (HD).**
 - Surgeons repairing BDI should know how to do both.
 
 ### Follow-up
 
-- **At least 10 years postoperatively** — long-term stricture develops in about 10% and often needs further treatment and admission.
+- **At least 10 years postoperatively** — long-term stricture develops in about 10% even with appropriate treatment and often needs further treatment and hospital stay ([[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025]]).
 
 ---
 
@@ -170,4 +208,5 @@ Bile duct injury (BDI) after [[acute-cholecystitis|cholecystectomy]] — a sever
 ## Sources
 
 1. [[sages-ahpba-2025-bile-duct-injury|SAGES-AHPBA 2025 Guideline for the Surgical Management of Bile Duct Injury Following Cholecystectomy]]
-2. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+2. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
+3. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]

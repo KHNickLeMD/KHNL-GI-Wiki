@@ -113,7 +113,7 @@ Numbered from the lumen outward ([[aga-2022-subepithelial-lesions]]). Layer of o
 | Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, renal cell carcinoma [RCC], melanoma) |
 | Lymphoma | 2nd, 3rd, or 4th | Hypoechoic | — |
 
-**Pillow sign caveat:** see [[#Definition / Scope]] — 99% specific / 40% sensitive ([[acg-2023-subepithelial-lesions]]); [[asge-2017-subepithelial-lesions]] quotes 98% specific, "not very sensitive." **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]].
+**Pillow sign caveat:** see [[#Definition / Scope]] — 99% specific / 40% sensitive ([[acg-2023-subepithelial-lesions]]); [[asge-2017-subepithelial-lesions]] quotes 98% specific, "not very sensitive." **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); EUS-FNA of a mediastinal cyst can be considered if the diagnosis is unclear (solid component, hypoechoic), and [[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] should be considered.
 
 ---
 
@@ -338,8 +338,8 @@ What the SEL workup needs from it:
 ### Duplication Cyst
 
 - Congenital, GI-epithelium-lined; anechoic, 3–5 layer wall, submucosal or extrinsic.
-- **Avoid FNA when clearly anechoic** (infection risk); if a solid/hypoechoic component needs sampling, use antibiotic prophylaxis.
-- No surveillance data; resect only if symptomatic.
+- **Avoid FNA when clearly anechoic** (infection risk); mediastinal cyst FNA only if the diagnosis is unclear, with prophylactic antibiotics considered.
+- No surveillance data; esophageal duplication cysts rarely resected unless symptomatic; small-bowel duplication cyst management is controversial (possible increased risk of malignant transformation).
 
 ### Lipoma
 
@@ -355,7 +355,7 @@ Techniques are classed **exposed vs non-exposed** by whether the MP is breached 
 |---|---|---|---|---|
 | ESMR (ESMR-C cap, ESMR-L ligation) | Non-exposed | Mucosal/submucosal lesions | **≤20 mm** | ESMR-L: band/endoloop then snare; **bleeding 4%–13%, perforation 5%**; **caution in duodenum and for MP lesions** (perforation/spillage) |
 | [[endoscopic-submucosal-dissection\|ESD]] | Exposed | Submucosal lesions; ideal when MP is **not** involved | Site/histology-specific oncologic limits; **muscle involvement <2 cm** | Gastric MP ESD complete resection ~92%, perforation ~14% (managed endoscopically); limited for >5 cm (perforation up to 19%). Requires suturing or over-the-scope clip skills. Best where the knife and closure are reachable — esophagus, gastric body, rectum; duodenum only in selected patients and expert hands |
-| STER | Non-exposed | MP lesions; esophagus/cardia/proximal fundus, where ESD access is poor | **Difficult >3–4 cm** | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%; adverse events 9.4–33%. In 733 MP-derived SELs resected by ESD or STER: **R0 97.1%**, mean size 1.7 cm (1–4 cm), **11 patients required surgery** for adverse events |
+| STER | Non-exposed | MP lesions; esophagus/cardia/proximal fundus, where ESD access is poor | **Difficult >3–4 cm** | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100% and adverse events 11–33% (case series); 9.4% in the largest series. In 733 MP-derived SELs resected by ESD or STER: **R0 97.1%**, mean size 1.7 cm (1–4 cm), **11 patients required surgery** for adverse events |
 | [[endoscopic-full-thickness-resection\|endoscopic full-thickness resection (EFTR)/full-thickness resection (FTR)]] | Exposed | Lesions involving MP and/or extending into the extraluminal space | **Full-thickness resection device (FTRD): must fit the 20-mm cap** | Close-and-resect (clip then snare over the clip). Must be able to reach the lesion and maneuver it into the cap. Upper-GI experience limited — duodenal FTRD series: **technical success 85%, R0 63%**. Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
 
 **Exposed techniques in the esophagus or duodenum** can cause early hemodynamic and respiratory instability from the intended perforation; failure to close the defect promptly causes significant morbidity. Evidence for ESD/STER in SEL is limited to retrospective single-center studies and case series.

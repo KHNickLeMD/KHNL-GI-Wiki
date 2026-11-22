@@ -3,8 +3,9 @@ title: "SAGES-AHPBA 2025 Guideline for the Surgical Management of Bile Duct Inju
 category: source
 tags: [bile-duct-injury, cholecystectomy, biliary, hepaticojejunostomy, ercp, guideline, sages, ahpba]
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/SAGES/SAGES-AHPBA 2025 Bile Duct Injury (Calabrese).pdf"
 ---
 
@@ -40,6 +41,8 @@ Only KQ 1 (timing) resolved to a direction: **delayed repair, >6 weeks**, with t
 > The panel suggests **either MIS or open** definitive repair by an experienced surgeon in HPB pathology.
 
 - **MIS is preferred in patients who are stable, with favorable anatomy, and in those with high body mass index or obesity** — and only by surgeons experienced in **both** MIS and HPB surgery.
+- **Open surgery is preferred in those who are unstable, have high and/or complex injuries, have an open incision, or have suspected severe inflammation.** Long-term outcomes data are required. *(Expert opinion — part of the KQ 2 recommendation box)*
+- **Favorable anatomy** (discussion) = initial operation performed MIS, anatomically lower injury in the biliary tree, no associated vascular injury.
 
 **KQ 3 — operative or nonoperative definitive management?**
 > The panel suggests **either definitive operative management or nonoperative management for amenable injuries with expertise available**.
@@ -47,7 +50,7 @@ Only KQ 1 (timing) resolved to a direction: **delayed repair, >6 weeks**, with t
 - **Favors nonoperative (endoscopic/radiologic):** less severe injuries **with a dilated biliary system**. Endoscopic management lends itself to **type D and lower E1–E2 injuries**; in the one low-risk-of-bias study, endoscopy was favored in **C, D and E1**.
 - **Favors operative:** **decompressed biliary system, severe sepsis, complex biliary or vascular injury**; surgery was favored in **E3 and E5** in that same study.
 - **A dilated biliary system is typically needed** for endoscopic candidacy — patients whose injury is discovered promptly may therefore be poorer endoscopic candidates.
-- Outcome split: nonoperative better on **mortality and cholangitis** (very low certainty, very wide intervals, three high-risk-of-bias studies — treat with caution); operative better on **stricture** (OR 2.44, CI 1.45–4.09, low certainty), **surgical re-intervention** (OR 16.6, CI 2.28–120.9, low certainty) and **endoscopic/radiologic re-intervention**.
+- Outcome split: nonoperative better on **mortality** (three studies, all high risk of bias) and **cholangitis** (1 study, 24 participants) — very low certainty, very wide intervals, treat with caution; operative better on **stricture** (OR 2.44, CI 1.45–4.09, low certainty), **surgical re-intervention** (OR 16.6, CI 2.28–120.9, low certainty) and **endoscopic/radiologic re-intervention**.
 - The panel's resolution: **if expertise is available and it is safe for the patient, an endoscopic attempt is reasonable** given the lower mortality signal — but complex injuries only at select centres with advanced endoscopic expertise.
 - **Set expectations:** endoscopic management often needs **several re-interventions over months**, which patients weigh heavily.
 
@@ -76,8 +79,8 @@ Only KQ 1 (timing) resolved to a direction: **delayed repair, >6 weeks**, with t
 
 ## Contradictions / Open Questions
 
-- **The recommendation lines and the discussion say different amounts.** Three of four recommendations are "either/or"; the criteria that actually pick a side (dilated vs decompressed biliary tree, Strasberg type, E5 and severe pancreatitis as HD contraindications, MIS for the stable obese patient with favourable anatomy) appear only in the evidence-discussion and conclusion paragraphs. Those criteria are what reaches the wiki pages.
-- **Mortality favours nonoperative management, stricture and re-intervention favour operative** — the panel explicitly distrusts the mortality signal (three high-risk-of-bias studies, likely selection by injury severity) and gives more weight to the stricture and re-intervention outcomes, which carried higher certainty.
+- **The recommendation lines and the discussion say different amounts.** Three of four recommendations are "either/or"; most criteria that actually pick a side (dilated vs decompressed biliary tree, Strasberg type, E5 and severe pancreatitis as HD contraindications) appear in the evidence-discussion and conclusion paragraphs; the KQ 2 MIS-vs-open criteria sit in the recommendation box as an expert-opinion statement.
+- **Mortality favours nonoperative management, stricture and re-intervention favour operative** — the panel notes the mortality data rest on three high-risk-of-bias studies and that stricture and re-intervention carried higher certainty, but it still concluded that, if expertise is available and it is safe for the patient, an endoscopic attempt is reasonable given the lower mortality.
 - **Length of stay is the only outcome favouring early repair**, and the panel judged the combined magnitude of that benefit **trivial** against a **large** combined harm.
-- **No strong recommendation and no outcome above low certainty** anywhere in the document — the sole RCT (277 participants) was judged high risk of bias for a 17% unexplained dropout in its septic cohort.
+- **No strong recommendation**; every recommendation carries very low certainty (the abstract describes KQ 1 as low certainty — internal inconsistency). The highest outcome certainty is moderate (KQ 1 quality of life, 1 RCT). The sole RCT (277 participants) was judged high risk of bias for a 17% unexplained dropout in its septic cohort.
 - Publication year ambiguity: the title and the online publication date are **2025**, the journal issue is dated **2026**. Cited here as 2025.

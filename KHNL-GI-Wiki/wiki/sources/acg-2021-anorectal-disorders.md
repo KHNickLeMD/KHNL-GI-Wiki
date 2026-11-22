@@ -54,7 +54,7 @@ A unifying theme is the primacy of conservative management (dietary modification
   - Rubber band ligation is the named first option: most popular and effective office treatment; in a meta-analysis of 18 randomized studies banding had lower need for repeat treatment than sclerotherapy or infrared coagulation for first- to third-degree hemorrhoids; complications anorectal pain, bleeding, thrombosed external hemorrhoids, vasovagal symptoms in 1%–3%; life-threatening septic complications vanishingly rare; use with caution on anticoagulants
   - Listed alternatives within the same recommendation: infrared coagulation, sclerotherapy, bipolar coagulation. Sclerotherapy successful in 75%–90% of first- to third-degree hemorrhoids; effective in acute bleeding on anticoagulants or immunocompromised
   - Doppler-guided hemorrhoidal artery ligation: similar outcomes to hemorrhoidectomy for symptomatic **grade 3**; Conditional/Very low
-- Surgery (Grade III–IV): Traditional hemorrhoidectomy remains standard for Grade IV; stapled hemorrhoidectomy higher recurrence, not recommended
+- Surgery (Grade III–IV): Traditional hemorrhoidectomy remains standard for Grade IV; symptomatic grade 3 may be treated with Doppler-guided ligation with hemorrhoidopexy/mucopexy or stapled hemorrhoidectomy — stapled has higher complication and long-term recurrence rates and is less frequently used
 - Acutely thrombosed external hemorrhoids: excision/incision within 4 days if seen acutely: Strong/Low
 
 **ANAL FISSURES:**
@@ -65,25 +65,25 @@ A unifying theme is the primacy of conservative management (dietary modification
 - Medical management (chronic fissure):
   - **Topical calcium channel blocker (CCB, e.g., topical diltiazem 2%, nifedipine): Strong/Low** — first-line; healing ~67–90%; headache in 20%
   - Topical nitroglycerine: marginally superior to placebo (48.9% vs 35.5%); headache is dose-limiting; second choice to CCB
-  - Botulinum toxin A injection: Conditional/Low — for CCB failure or as alternative; healing 60–80% but higher than placebo; recurrence up to 42%; temporary incontinence ~18%
+  - Botulinum toxin A injection: Conditional/Low — for CCB failure or as alternative; healing 60–80% but higher than placebo; recurrence up to 42%; temporary incontinence of flatus up to 18%, of stool 5%
 - Surgery: **Lateral internal sphincterotomy (LIS): Strong/High** — for chronic fissures failing nonsurgical treatment; healing 94–98%; superior to all topical agents; small but real risk of incontinence; minimal-incision open or closed equivalent
 
 **FECAL INCONTINENCE:**
 
 - Definition: involuntary loss of solid or liquid feces (including staining)
 - Prevalence: 2.2–25% community; ~9% age-adjusted in US (underreported)
-- Diagnosis: Bristol Stool Scale + symptom diary; DRE + ARM + BET for moderate-severe FI; endoanal ultrasound (US) or magnetic resonance imaging (MRI) if surgery considered
+- Diagnosis: Bristol Stool Scale + symptom diary; DRE in all; ARM, BET and rectal sensation testing in patients who fail conservative measures; anal imaging (endoanal ultrasound [US] or magnetic resonance imaging [MRI]) considered with weak pressures, especially if surgery is being considered
 - Conservative treatment (first-line for all):
   - **Antidiarrheal drugs when FI is accompanied by diarrhea: Strong/Low** — loperamide, diphenoxylate with atropine, bile salt binding agents, anticholinergic agents, clonidine
-  - **Biofeedback (pelvic floor rehabilitation): Strong/Moderate** — for patients not controlled with education/medication; 20% may not need further treatment with conservative measures + pelvic floor (PF) exercises
+  - **Biofeedback (pelvic floor rehabilitation): Strong/Moderate** — for patients not controlled with education/medication; up to 20% may not need further treatment after conservative treatment (education, drugs, pelvic floor [PF] exercises)
 - Advanced interventions:
   - Anal plugs, vaginal balloons: Conditional/Very Low — selected patients
   - Injectable bulking agents (dextranomer in stabilized hyaluronic acid [NASHA Dx]): Conditional/Low — for conservative/biofeedback failures; 52% vs 31% ≥50% reduction in episodes (RCT)
-  - **SNS: Strong/Low** — moderate-severe FI failing conservative measures; 90% responder rate at 2-3 weeks temporary trial; 50% complete continence at 3 years; device complications include pain (28%), paresthesias (15%), infection (10%)
+  - **SNS: Strong/Low** — moderate-severe FI failing conservative measures; 90% responder rate at 2-3 weeks temporary trial; at 3 years 86% had ≥50% fewer episodes and 40% complete continence; device complications include pain (28%), paresthesias (15%), infection (10%)
   - Anal sphincteroplasty: Conditional/Low — for acute injuries to anal sphincter; short-term improvement 85%, deteriorates to 50% at 40–60 months
   - End stoma: Conditional/Low — for severe FI not responding to other treatments
   - Dynamic graciloplasty: NOT recommended — significant morbidity and mortality
-  - SECCA (radiofrequency): limited long-term data; not recommended routinely
+  - SECCA (radiofrequency): initial positive studies, but more recent reports suggest poor long-term results (no recommendation statement)
 
 ## Recommendations
 
@@ -144,9 +144,9 @@ The guideline numbers recommendations within each disorder (Tables 2, 7, 9, 12, 
 ## Contradictions / Open Questions
 
 - Biofeedback for levator syndrome: only one key RCT underpins this Strong recommendation — guideline acknowledges no independent replication in 10 years
-- LIS and incontinence risk: literature estimates 0–16% incontinence; guideline counsels using with caution when anal pressures not high
+- LIS and incontinence risk: Table 10 reports incontinence 4% (Liang) and 16% (Gandomkar), a "low but real incidence"; guideline counsels using with caution when anal pressures not high
 - Stapled hemorrhoidectomy (for grade 3 hemorrhoids): guideline notes higher complication and long-term recurrence rates; used less frequently in recent years. Distinct from stapled transanal rectal resection (STARR), the rectal excision procedure for rectocele — performed predominantly in Europe (Italy), never in Australia and seldom in the United States
-- SNS for FI: long-term device complications substantial (61% device-related adverse events (AEs) at 60 months in one study)
+- SNS for constipation (not FI): 61% device-related adverse events (AEs) at 60 months in one follow-up study
 
 ## See Also
 

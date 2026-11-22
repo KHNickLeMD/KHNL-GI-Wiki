@@ -3,18 +3,19 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-10-17
+updated: 2026-11-22
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 sources: [aga-2025-heds-gi]
 ---
 
-Heritable connective tissue disorder; most common Ehlers-Danlos syndrome (EDS) subtype (80–90% of all EDS). Defined by joint hypermobility, tissue fragility, musculoskeletal symptoms. Part of a broader **hypermobility spectrum disorder (HSD)** continuum (hypermobility + pain that does not meet full hypermobile EDS [hEDS] criteria). Gastrointestinal (GI) symptoms are highly prevalent — in a cross-sectional survey of >600 hEDS/HSD patients, **98% met criteria for a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]]** — and impair quality of life. Frequently coexists with **POTS** (postural orthostatic tachycardia syndrome) and **MCAS** (mast cell activation syndrome); the three overlap and amplify GI symptoms.
+Inherited connective tissue disorder; most common Ehlers-Danlos syndrome (EDS) subtype (80–90% of patients with EDS). Characterized by joint hypermobility, tissue fragility, musculoskeletal symptoms. Part of a broader group, **hypermobility spectrum disorders (HSD)** — pain + joint hypermobility that does not meet full hypermobile EDS (hEDS) criteria. Gastrointestinal (GI) symptoms are frequent and impair quality of life — in a cross-sectional survey of >600 hEDS/HSD patients, **98% met criteria for a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction (DGBI)]]**. Often coexists with [[postural-orthostatic-tachycardia-syndrome|postural orthostatic tachycardia syndrome (POTS)]] and [[mast-cell-activation-syndrome|mast cell activation syndrome (MCAS)]]; GI symptoms are prevalent in each and more so when they overlap. [[aga-2025-heds-gi]]
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Beighton Score]]
-  - [[#When to Suspect POTS]]
-  - [[#When to Suspect MCAS]]
+  - [[#Coexisting POTS and MCAS]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
@@ -39,7 +40,24 @@ Heritable connective tissue disorder; most common Ehlers-Danlos syndrome (EDS) s
 | 3 | **Absence** of unusual skin fragility | Skin fragility prompts exclusion of other EDS forms, other heritable/acquired connective tissue disorders, and other joint disorders involving hypotonia and/or connective tissue laxity |
 
 - **HSD** = joint hypermobility + pain that does **not** satisfy the full hEDS criteria.
-- **Best practice advice (BPA) 3:** gastroenterologists seeing [[disorders-of-gut-brain-interaction|DGBI]] patients should **inquire about joint hypermobility** and strongly consider incorporating the Beighton score as a screening tool; if the screen is positive, apply the 2017 criteria (Ehlers-Danlos Society hEDS diagnostic checklist) or refer to a specialist.
+
+**Screening in the GI clinic — Best Practice Advice (BPA) 3:** gastroenterologists seeing patients with DGBI should **inquire about joint hypermobility** and strongly consider the Beighton score as a screening tool; if positive, they may consider applying the 2017 criteria (Ehlers-Danlos Society hEDS diagnostic criteria checklist) or offer referral to a specialist where resources are available.
+
+```mermaid
+flowchart TD
+    A(["Patient with DGBI"]) -- "BPA 3" --> B["Ask about joint hypermobility<br/>Beighton score as screen"]
+    B -- "At or above age-adjusted cutoff (BPA 3)" --> C["Apply 2017 hEDS criteria"]
+    B -- "At or above age-adjusted cutoff, specialist available (BPA 3)" --> D(["Refer to specialist"])
+    C -- "All 3 major criteria met" --> E(["hEDS"])
+    C -- "Hypermobility + pain, criteria not met" --> F(["HSD"])
+    class A start
+    class B,C test
+    class D,E,F act
+```
+*Joint-hypermobility screening of patients with DGBI*
+*Source: built from AGA 2025 BPA 3 and the 2017 criteria as summarized in the text (the update has no flowchart)*
+*[[aga-2025-heds-gi|AGA 2025 Clinical Practice Update: GI Manifestations in hEDS]]*
+*DGBI = disorder of gut-brain interaction · hEDS = hypermobile Ehlers-Danlos syndrome · HSD = hypermobility spectrum disorder · BPA = Best Practice Advice*
 
 ### Beighton Score
 
@@ -61,19 +79,21 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 | Puberty up to age 50 | **5/9** |
 | ≥50 years | **4/9** |
 
-### When to Suspect POTS
+### Coexisting POTS and MCAS
 
-- **Diagnostic criteria, phenotypes and confirmatory testing live on [[postural-orthostatic-tachycardia-syndrome]].** What matters here is that the heart-rate criterion is checked at the bedside with postural vital signs in any hEDS/HSD patient reporting orthostatic intolerance.
-- **GI clues in this population:** nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention|bloating]], severe [[chronic-idiopathic-constipation|constipation]] — of which **nausea, pain, and early satiety are the most predictive of abnormal GI motility**.
+- **BPA 1:** be aware of the observed associations of hEDS/HSD with POTS and/or MCAS and their overlapping GI manifestations; theoretical explanations exist (altered collagen/extracellular matrix, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity), but experimental evidence for the mechanisms is limited and evolving.
+- **Association data (observational):** among 139 patients with MCAS and refractory GI symptoms, 23.7% had EDS, 25.2% POTS, 15.1% both; 37.5% of 616 surveyed hEDS/HSD patients reported a POTS diagnosis; in another study >60% of hEDS/HSD patients had ≥1 GI symptom, and those with POTS more often had fibromyalgia, [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]], [[gerd|gastroesophageal reflux disease (GERD)]], or dysmotility. In these studies hEDS/HSD was often **not** diagnosed by the 2017 criteria, and POTS/MCAS were not always categorically established.
 
-### When to Suspect MCAS
+| | POTS | MCAS |
+|---|---|---|
+| **Clues** | Orthostatic intolerance; in POTS, **nausea, abdominal pain and early satiety** are the GI symptoms most predictive of abnormal GI motility | Allergic reactions plus systemic symptoms — fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy. GI symptoms (nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction) overlap DGBI |
+| **Criteria, typing, confirmatory tests** | [[postural-orthostatic-tachycardia-syndrome]] | [[mast-cell-activation-syndrome]] |
+| **When to test** | [[#Diagnostics]] (BPA 4) | [[#Diagnostics]] (BPA 5–7) |
 
-- **The A + B + C consensus criteria, the primary/secondary/idiopathic classification and the tryptase protocol live on [[mast-cell-activation-syndrome]].**
-- **What triggers the suspicion here:** **episodic** symptoms spanning **≥2 physiologic systems** — GI clues (nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction) heavily overlap DGBI, so the systemic clues carry the signal: fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy.
+- A history of an infectious insult may prompt further consideration of POTS/MCAS.
 
-**Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, irritable bowel syndrome (IBS), [[gerd|gastroesophageal reflux disease (GERD)]], or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
-
-**BPA 1–2:** mechanistic links (collagen/extracellular-matrix laxity, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity) are theoretical and evolving. **Target POTS/MCAS testing to the clinical presentation — universal testing of all hEDS/HSD patients is not supported.**
+> [!pitfall] Don't screen every hEDS patient for POTS/MCAS
+> **BPA 2:** target POTS/MCAS testing to patients with clinical manifestations of those conditions — universal testing of all hEDS/HSD patients is not supported ([[aga-2025-heds-gi]]).
 
 ---
 
@@ -81,47 +101,56 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 *Workup follows the general [[disorders-of-gut-brain-interaction|DGBI]] approach (positive symptom-based diagnosis, limited noninvasive testing), with the hEDS-specific additions below.*
 
-- Other EDS subtypes (esp. **vascular EDS** — higher endoscopy complication risk) and other heritable/acquired connective tissue disorders.
-- [[irritable-bowel-syndrome]] and [[dyspepsia|functional dyspepsia]] (DGBI overlap; one-third of POTS patients carry an IBS diagnosis).
-- [[gastroparesis]] / GI dysmotility (EDS gene variants enriched in idiopathic gastroparesis).
-- [[celiac-disease]] (elevated risk in hEDS/HSDs and/or POTS).
+- Other EDS forms (esp. **vascular EDS** — see endoscopy safety under [[#Diagnostics]]) and the other disorders that unusual skin fragility should prompt you to exclude (criterion 3 above).
+- IBS and [[dyspepsia|functional dyspepsia]] — DGBI overlap.
+- [[gastroparesis]] / GI dysmotility — EDS gene variants enriched in idiopathic gastroparesis; reports of increased dysmotility in hEDS/HSD are inconsistent.
+- [[celiac-disease]] — risk elevated in hEDS/HSD and/or POTS.
 - [[defecation-disorders|Functional defecation disorders]] / pelvic floor dysfunction.
 
 ---
 
 ## Diagnostics
 
-- **General principle (BPA 8):** evaluate GI/DGBI symptoms as in the general population — positive symptom-based strategy + limited noninvasive testing; age- and indication-appropriate endoscopy (complication rates not increased except in vascular EDS).
-- **Celiac (BPA 9):** consider [[celiac-disease|celiac]] serology **earlier**, and not only in those with diarrhea. Insufficient evidence to routinely test for disaccharidase deficiencies or other diet-mediated mechanisms.
-- **Functional defecation disorders (BPA 10):** [[anorectal-manometry]], balloon expulsion test, or defecography for incomplete-evacuation symptoms — high pelvic floor dysfunction prevalence, **especially rectal hyposensitivity**.
-- **Gastric motor function (BPA 11):** in coexisting POTS with chronic upper-GI symptoms, perform **timely** gastric emptying and/or accommodation testing after excluding anatomical/structural disease (abnormal gastric emptying may be more common than in the general population).
-- **POTS (BPA 4):** postural vital signs (active stand or head-up tilt); refer to cardiology or neurology for autonomic testing in hEDS/HSD patients with **refractory GI symptoms plus orthostatic intolerance**, after excluding medication side effects and after adequate hydration and exercise have been tried. **Not required** for all hEDS/HSD patients with GI symptoms alone. Criteria and confirmatory testing: [[postural-orthostatic-tachycardia-syndrome]].
-- **MCAS (BPA 5–7):** test when **episodic** symptoms across **≥2 physiologic systems** (cutaneous, GI, cardiac, respiratory, neuropsychiatric) suggest a generalized mast-cell disorder; if supported, refer to allergy or a mast-cell center. **Do not** test routinely for isolated GI symptoms without clinical or laboratory evidence of a mast-cell disorder. The tryptase protocol and expanded-testing panel: [[mast-cell-activation-syndrome]].
+*BPA from [[aga-2025-heds-gi]]; the update gives no evidence grades.*
+
+| Question | Population | Action |
+|---|---|---|
+| **GI symptom workup (BPA 8)** | hEDS/HSD with comorbid POTS and/or MCAS and DGBI-type symptoms | As for DGBI in the general population — positive symptom-based diagnostic strategy, limited noninvasive testing |
+| **Celiac disease (BPA 9)** | hEDS/HSD with a variety of GI symptoms — **not only diarrhea** | Consider [[celiac-disease\|celiac]] testing **earlier** (serology, then endoscopic biopsies). Insufficient research to support routine testing for disaccharidase deficiencies or other diet-mediated mechanisms |
+| **Functional defecation disorders (BPA 10)** | hEDS/HSD with lower-GI symptoms such as **incomplete evacuation** | Consider [[anorectal-manometry]], balloon expulsion test, or defecography — pelvic floor dysfunction is common, **especially rectal hyposensitivity** |
+| **Gastric motor testing (BPA 11)** | hEDS/HSD with comorbid POTS and **chronic upper-GI symptoms** | Consider **timely** gastric emptying and/or accommodation testing **after excluding anatomical and structural disease** — abnormal gastric emptying may be more common than in the general population |
+| **POTS (BPA 4)** | hEDS/HSD with **refractory GI symptoms who also report orthostatic intolerance**, after excluding medication side effects and trying lifestyle/behavioral changes (e.g., adequate hydration, physical exercise) | Consider postural vital signs (e.g., symptomatic heart rate rise ≥30 beats/min within 10 minutes of standing — active stand or head-up tilt table test — without orthostasis) and referral to cardiology or neurology for autonomic testing. **Not required** for all hEDS/HSD patients with GI symptoms alone |
+| **MCAS (BPA 5–7)** | hEDS/HSD and DGBI with **episodic** symptoms suggesting a generalized mast cell disorder, involving **≥2 physiological systems** (cutaneous, GI, cardiac, respiratory, neuropsychiatric) | Consider testing for mast cell disorders (serum tryptase protocol on [[mast-cell-activation-syndrome]]); if MCAS is supported → refer to an allergy specialist or mast cell disease research center. **Not** for routine evaluation of GI symptoms without clinical or laboratory evidence of a primary or secondary mast cell disorder |
+
+> [!pearl] Endoscopy is not riskier — except vascular EDS
+> Endoscopy-related complications such as perforation do not appear increased in adults with hEDS/HSD, except in vascular EDS; perform age- and indication-appropriate endoscopy ([[aga-2025-heds-gi]]).
 
 ---
 
 ## Therapeutics
 
-**Overarching (BPA 12; BPA 16 for those without POTS/MCAS symptoms):** treat the **most prominent GI symptoms and abnormal function-test results**; follow general [[disorders-of-gut-brain-interaction|DGBI]]/motility management, adding targeted POTS and/or MCAS treatment. Care should be **integrated and multidisciplinary** (cardiology, neurology, rheumatology, dietitian, psychology). Largely expert opinion — few clinical trials.
+- **BPA 12 (with POTS/MCAS):** treat the **most prominent GI symptoms and abnormal GI function test results** with general DGBI/GI motility treatment, **plus** treatment of any symptoms attributable to POTS and/or MCAS.
+- **BPA 16 (without POTS/MCAS symptoms):** manage chronic GI symptoms as for DGBI and GI motility disorders in the general population, with integrated multidisciplinary care where appropriate (e.g., cardiology, rheumatology, dietitian, psychology).
+- Management is largely supportive and symptom-focused; few clinical trials guide it.
 
 ### GI Symptom Management
 
-*Treatment considerations for hEDS/HSD with POTS and/or MCAS.* [[aga-2025-heds-gi]] (Table 2)
+*Treatment considerations for hEDS/HSD with POTS and/or MCAS.* [[aga-2025-heds-gi]] (Table 2; erythromycin, pregabalin and gabapentin from the text)
 
 | Symptom | Treatment options |
 |---|---|
 | **[[nausea-and-vomiting\|Nausea / vomiting]]** | Antiemetics (ondansetron, prochlorperazine, promethazine, aprepitant, off-label carbidopa); prokinetics (metoclopramide, domperidone, pyridostigmine, off-label [[prucalopride]], erythromycin); complementary (aromatherapy, ginger tea, STW5). *Multiple agents are often needed — monitor for QT prolongation.* |
-| **Abdominal pain** | Acid suppression (histamine-2 receptor antagonist [H2RA], [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]); antispasmodics (dicyclomine, hyoscyamine, peppermint oil); neuromodulators (tricyclic antidepressant [TCA], selective serotonin reuptake inhibitor [SSRI], serotonin-norepinephrine reuptake inhibitor [SNRI], neuroleptics, anticonvulsants — incl. pregabalin, gabapentin); psychological therapies (cognitive behavioral therapy [CBT], hypnotherapy, relaxation). **Opioids: avoid — do not use to treat abdominal pain; facilitate cessation if already prescribed.** |
-| **Constipation** | Fiber (psyllium, methylcellulose); osmotic laxatives (polyethylene glycol [PEG] 3350, lactulose, milk of magnesia); stimulants (bisacodyl, senna); chloride-channel activator [[lubiprostone]]; guanylate cyclase-C agonists [[linaclotide]] and [[plecanatide]]; 5-hydroxytryptamine-4 (5-HT4) agonist [[prucalopride]]; NHE3 inhibitor [[tenapanor]] |
-| **Diarrhea** | Dietary (low fermentable oligosaccharide, disaccharide, monosaccharide, and polyol [FODMAP], gluten-free, soluble fiber); microbiome ([[rifaximin]], *Bifidobacterium infantis* 35624 — see [[probiotics]]); antidiarrheals ([[loperamide]], diphenoxylate); bile acid sequestrants (cholestyramine, colesevelam, colestipol); [[eluxadoline]]*; 5-HT3 antagonist [[alosetron]] (female patients only) |
+| **Abdominal pain** | Acid suppression (histamine-2 receptor antagonist [H2RA], [[proton-pump-inhibitors\|proton pump inhibitor (PPI)]]); antispasmodics (dicyclomine, hyoscyamine, peppermint oil); neuromodulators (tricyclic antidepressant [TCA], selective serotonin reuptake inhibitor [SSRI], serotonin-norepinephrine reuptake inhibitor [SNRI], neuroleptics, anticonvulsants — incl. pregabalin, gabapentin); psychological therapies (cognitive behavioral therapy [CBT], hypnotherapy, relaxation). **Opioids: avoid in chronic pain; never use specifically to treat abdominal pain; if already prescribed, careful multidisciplinary management with cessation where possible.** |
+| **[[chronic-idiopathic-constipation\|Constipation]]** | Fiber (psyllium, methylcellulose); osmotic laxatives (polyethylene glycol [PEG] 3350, lactulose, milk of magnesia); stimulants (bisacodyl, senna); chloride-channel activator [[lubiprostone]]; guanylate cyclase-C agonists [[linaclotide]] and [[plecanatide]]; 5-hydroxytryptamine-4 (5-HT4) agonist [[prucalopride]]; sodium hydrogen exchanger 3 inhibitor [[tenapanor]] |
+| **[[chronic-diarrhea\|Diarrhea]]** | Dietary (low fermentable oligosaccharide, disaccharide, monosaccharide, and polyol [FODMAP], gluten-free, soluble fiber); microbiome ([[rifaximin]], *Bifidobacterium infantis* 35624 — see [[probiotics]]); antidiarrheals ([[loperamide]], diphenoxylate); bile acid sequestrants (cholestyramine, colesevelam, colestipol); [[eluxadoline]]*; 5-hydroxytryptamine-3 (5-HT3) receptor antagonist [[alosetron]] (female patients only) |
 | **MCAS** | Agent list on [[mast-cell-activation-syndrome]] |
 | **POTS** | Agent list on [[postural-orthostatic-tachycardia-syndrome]] |
-| **Autoimmunity** | Corticosteroids or immunoglobulins — refer to allergy/immunology or a mast-cell specialist to manage |
+| **Autoimmunity** | Corticosteroids or immunoglobulins — GI providers may need to refer to allergy/immunology or mast cell specialists to manage these medications |
 
-\* [[eluxadoline]] is contraindicated with ≥3 alcoholic drinks/day, post-cholecystectomy, and moderate-to-severe hepatic insufficiency.
+\* [[eluxadoline]] is contraindicated with ≥3 alcoholic beverages/day, post-cholecystectomy, and moderate-to-severe hepatic insufficiency.
 
-- Patients whose symptoms worsen with stress **and** who use maladaptive coping benefit from **early** referral for brain-gut / gut-directed hypnotherapy.
-- Pelvic floor symptoms: treat per general anorectal disorder principles.
+- Symptoms that worsen with stress **and** maladaptive coping behaviors → **early** referral for brain-gut hypnotherapy (see [[brain-gut-behavioral-therapy]]).
+- Pelvic floor symptoms are common: treat per general anorectal disorder principles.
 
 ### POTS and MCAS Treatment
 
@@ -130,17 +159,22 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ### Nutrition and Diet
 
-- **BPA 15:** screen for **weight loss and disordered eating**; involve a dietitian.
-- Upper-GI predominant (nausea, vomiting) → [[gastroparesis]] / **small-particle diet** (modified food composition, consistency, volume).
-- Lower-GI predominant → **low-FODMAP** or wheat/gluten-free; low-histamine, gluten- and dairy-free diets for MCAS (clinical experience). Efficacy in these populations is unstudied.
-- Severe symptoms with weight loss or dehydration despite optimal medical therapy → parenteral fluid and/or enteral/parenteral nutrition as a stabilizing measure, delivered through a multidisciplinary model.
-- Deliver every diet with nutritional counseling to avoid overly restrictive eating.
+- Screen for **weight loss and disordered eating**; frequently involve a dietitian (undernutrition and dehydration may be a problem in a proportion of patients).
+- **BPA 15:** besides general nutritional support, special diets can be considered; deliver them with nutritional counseling to avoid overly restrictive eating. Studies of their efficacy in these patient groups are lacking.
+
+| Setting | Diet |
+|---|---|
+| Upper GI (nausea, vomiting) | [[gastroparesis\|Gastroparesis]] / **small-particle diet** (modified food composition, consistency, volume) |
+| Lower GI | IBS diets — **low-FODMAP** or wheat-/gluten-free |
+| MCAS | Low-histamine, gluten- and dairy-free (recommended from clinical experience; no formal studies) |
+
+- Severe symptoms with weight loss or dehydration despite optimal medical management → parenteral fluid and/or enteral or parenteral nutrition as a stabilizing measure, delivered through a multidisciplinary model.
 
 ---
 
 ## See Also
 
-[[postural-orthostatic-tachycardia-syndrome]], [[mast-cell-activation-syndrome]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[gerd]], [[rectal-prolapse]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
+[[postural-orthostatic-tachycardia-syndrome]], [[mast-cell-activation-syndrome]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[gerd]], [[rectal-prolapse]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[chronic-diarrhea]], [[chronic-idiopathic-constipation]], [[brain-gut-behavioral-therapy]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
 
 ---
 

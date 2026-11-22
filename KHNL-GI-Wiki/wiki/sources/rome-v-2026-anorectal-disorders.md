@@ -3,8 +3,9 @@ title: "Anorectal Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, fecal-incontinence, dyssynergic-defecation, proctalgia, levator-ani, anorectal, rectal-sensation, biofeedback]
 created: 2026-11-14
-updated: 2026-11-16
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/Other/Rome V 2026 Anorectal Disorders (Rao).pdf"
 ---
 
@@ -29,7 +30,7 @@ Management is dominated by **biofeedback therapy (BT)**, which is the mainstay f
 
 ## Key Findings / Claims
 
-### Classification (Table 1)
+### Classification (Table 1 codes; requirements from the text)
 
 | Code | Disorder | Diagnosis requires |
 |---|---|---|
@@ -175,18 +176,23 @@ The chapter's **only** graded statements. Grades: **A1** = excellent evidence in
 
 | Test | Evidence | Grade | Comment |
 |---|---|---|---|
-| Anorectal manometry | Excellent | **A1** | Identifies DD, weak or hypertonic sphincters/puborectalis, rectal hypo-/hypersensitivity, rectal compliance, Hirschsprung disease |
-| Balloon expulsion test | Excellent | **A1** | Identifies DD and impaired evacuation |
-| Fluoroscopic defecography | Good | **B2** | Performed seated; helps diagnose DD when manometry/balloon expulsion are inconclusive |
+| Anorectal manometry | Excellent | **A1** | International Anorectal Physiology Working Group protocol and London Classification helpful but need further refinement |
+| Balloon expulsion test | Good | **B2** | Different methodologies and balloons with variable normative values; lack of inexpensive commercial balloon |
+| Fluoroscopic defecography | Fair | **B3** | Performed seated; helps diagnose DD when ARM/BET are inconclusive |
 | Colonic transit with radiopaque markers | Good | **B2** | Useful to identify slow-transit constipation |
 | Colonic transit with scintigraphy | Good | **B2** | Facilitates classification of pathologic subtypes |
-| Wireless motility capsule | Good | **B2** | Reliably identifies slow-transit constipation and upper-gut transit abnormalities |
-| Plain abdominal radiograph | Fair | **B2** | Not recommended routinely without alarming features |
+| Wireless motility capsule | Excellent | **A1** | Reliably identifies slow-transit constipation and upper-gut transit abnormalities; 2 new capsule techniques available |
+| Plain abdominal radiograph | Fair | **B2** | Recent studies describe usefulness |
 | Pelvic MRI | Fair | **B3** | Adjunct to anorectal manometry |
-| Anal ultrasound | Fair | **B3** | Interobserver bias, availability, limited normative data |
+| Anal ultrasound | Poor | **C** | Experimental |
 | Blood tests (thyroid, calcium, glucose, electrolytes) | No evidence | **C** | Not recommended routinely without alarming features |
-| Barium enema | Poor | **C** | — |
-| Flexible sigmoidoscopy / colonoscopy | Poor | **C** | Not cost-effective; invasive, risks of procedure and sedation |
+| Barium enema | Poor | **C** | Not recommended for routine evaluation without alarming features |
+| Flexible sigmoidoscopy / colonoscopy | Poor | **C** | Lack of prospective study regarding efficacy |
+
+**Who gets tested (text):**
+- Constipation: testing recommended with suspected DD or laxative-refractory constipation; ARM, BET, MR or fluoroscopic defecography and colonic transit give complementary information. Defecography most useful when ARM and BET are equivocal, discordant with clinical findings, or in DD failing biofeedback.
+- FI: endoscopic colorectal assessment may be desirable depending on symptom profile, age and cancer risk factors, with biopsies for microscopic colitis.
+- Levator ani syndrome: exclude fissure; anoscopy and sigmoidoscopy for mucosal disease; cross-sectional imaging if perianal abscess or fistula suspected; then consider ARM, defecography and translumbosacral anorectal magnetic stimulation.
 
 ### Operative test thresholds
 

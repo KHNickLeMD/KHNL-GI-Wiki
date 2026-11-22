@@ -3,8 +3,9 @@ title: "AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection
 category: source
 tags: [subepithelial-lesion, eftr, ster, poet, ftrd, gist, neuroendocrine-tumor, third-space-endoscopy, endoscopic-resection, perforation]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2024 CPU Full-Thickness Resection of Subepithelial Lesions.pdf"
 ---
 
@@ -118,6 +119,6 @@ Site matters: exposed EFTR is **best suited for gastric lesions** and is an alte
 - **No formal ratings.** As a Commentary CPU there are no numbered Best Practice Advice statements and no GRADE quality/strength ratings — weaker instrument than [[acg-2023-subepithelial-lesions|American College of Gastroenterology (ACG) 2023]] (GRADE) and than the [[asge-2017-subepithelial-lesions|American Society for Gastrointestinal Endoscopy (ASGE) 2017]] guideline. Where they conflict, ACG 2023 (guideline, GRADE, newer than ASGE 2017) governs; this CPU adds net-new technique detail rather than overriding.
 - **STER size ceiling differs across sources.** This CPU: STER limited to ≤3 cm (Table 1), with >3–4 cm often requiring conversion to exposed EFTR, and ≤30 mm perpendicular-axis on cross-sectional imaging in one study. [[acg-2023-subepithelial-lesions|ACG 2023]] frames the limit as **>3.5 cm transverse diameter** being more technically challenging. [[asge-2017-subepithelial-lesions|ASGE 2017]] cites EFTR "up to ~4 cm." These are directionally consistent (~3–4 cm) but not identical numbers; the page states the CPU's ≤3 cm with the ACG figure noted alongside.
 - **STER tunnel start distance:** this CPU says the tunnel is initiated **3–5 cm proximal**; [[asge-2017-subepithelial-lesions|ASGE 2017]] says mucosal incision **≥5 cm proximal**. Newer CPU value used, older noted.
-- **FTRD evidence for SELs is thin** — "the literature on the use of the FTRD device for SELs is quite limited"; most data derive from colorectal *mucosal* lesion registries, so the 11.3% AE rate is extrapolated to SEL practice.
-- **No head-to-head data** comparing exposed EFTR with STER or with device-assisted EFTR; the comparisons against surgery are retrospective and confounded by smaller, more intraluminal lesions in the endoscopic arms.
+- **FTRD evidence for SELs is thin** — "the literature on the use of the FTRD device for SELs is quite limited"; the 11.3% AE rate comes from the German and Dutch colorectal FTRD registry. Use of the FTRD "should be evaluated on a case-by-case basis according to both patient- and lesion-related characteristics"; lesion size and depth affect resection outcomes. The AE rate "may improve as individual experience with the device is gained; however, data on this are lacking."
+- **Comparative data are scarce** — exposed EFTR vs other endoscopic techniques or surgery; the comparisons against surgery are retrospective and confounded by smaller, more intraluminal lesions in the endoscopic arms.
 - **Adjunctive unroofing before FTRD** and long-term oncologic outcomes after endoscopic resection of SELs are explicitly named as unresolved.

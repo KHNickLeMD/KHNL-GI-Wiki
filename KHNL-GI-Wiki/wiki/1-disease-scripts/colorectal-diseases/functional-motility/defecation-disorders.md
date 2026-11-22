@@ -149,17 +149,17 @@ Rome V grades for **constipation with DD**: **A1** = excellent evidence in favor
 | Test | Evidence | Grade | Comment |
 |---|---|---|---|
 | Anorectal manometry | Excellent | **A1** | Identifies DD, weak/hypertonic sphincters or puborectalis, rectal hypo-/hypersensitivity, compliance, Hirschsprung disease |
-| Balloon expulsion test | Excellent | **A1** | Identifies DD and impaired evacuation |
-| Fluoroscopic defecography | Good | **B2** | Seated; for when manometry/BET are inconclusive |
+| Balloon expulsion test | Good | **B2** | Identifies DD and impaired evacuation; methods and balloons vary, with variable normative values |
+| Fluoroscopic defecography | Fair | **B3** | Seated; for when manometry/BET are inconclusive |
 | Colonic transit, radiopaque markers | Good | **B2** | Identifies slow-transit constipation |
 | Colonic transit, scintigraphy | Good | **B2** | Classifies pathologic subtypes |
-| Wireless motility capsule | Good | **B2** | Slow transit plus upper-gut transit abnormalities |
-| Plain abdominal radiograph | Fair | **B2** | Not routine without alarming features |
+| Wireless motility capsule | Excellent | **A1** | Slow transit plus upper-gut transit abnormalities |
+| Plain abdominal radiograph | Fair | **B2** | Recent studies describe usefulness |
 | Pelvic magnetic resonance imaging (MRI) | Fair | **B3** | Adjunct to manometry |
-| Anal ultrasound | Fair | **B3** | Interobserver bias, availability, limited normative data |
+| Anal ultrasound | Poor | **C** | Experimental |
 | Blood tests (thyroid, calcium, glucose, electrolytes) | No evidence | **C** | Not routine without alarming features |
-| Barium enema | Poor | **C** | — |
-| Flexible sigmoidoscopy / colonoscopy | Poor | **C** | Not cost-effective; procedure and sedation risks |
+| Barium enema | Poor | **C** | Not for routine evaluation without alarming features |
+| Flexible sigmoidoscopy / colonoscopy | Poor | **C** | Lack of prospective study regarding efficacy |
 
 ### Digital Rectal Examination
 

@@ -3,8 +3,9 @@ title: "AGA Clinical Practice Update on Inpatient Management of Adults With Infl
 category: source
 tags: [ibd, crohns, ulcerative-colitis, asuc, hospital, vte, rescue-therapy, colectomy, toxic-megacolon, intra-abdominal-abscess, perianal, discharge-planning]
 created: 2026-06-27
-updated: 2026-10-18
+updated: 2026-11-22
 sources: []
+verified: 2026-11-22
 raw: "GI Guidelines/AGA/AGA 2026 CPU Inpatient Management of IBD.pdf"
 ---
 
@@ -111,12 +112,12 @@ flowchart TD
   - Uncontrolled inflammation not responding to outpatient medical therapy
   - Difficult-to-treat symptoms
   - Suspicion for current or impending IBD-related complication
-  - Dehydration and electrolyte derangements · short bowel syndrome · uncontrolled pain · severe anemia requiring transfusion · severe malnutrition requiring enteral or parenteral nutrition
+- **Require hospitalization:** dehydration and electrolyte derangements · short bowel syndrome · uncontrolled pain · severe anemia requiring transfusions · severe malnutrition requiring enteral or parenteral nutrition
 - **ASUC severity definition — Truelove and Witts criteria** (classification home: [[ulcerative-colitis]]): ≥6 bloody bowel movements daily **plus** ≥1 systemic sign — tachycardia (heart rate >90 beats/min), fever (temperature >37.8°C), anemia (hemoglobin <10.5 g/dL), or elevated erythrocyte sedimentation rate (ESR) >30 mm/h.
   - **Colectomy risk rises with the number of criteria met: 8.5% → 48%.**
   - CRP has a shorter half-life than ESR and is more responsive to changes in acute inflammation, so CRP has **replaced ESR** as the real-time biomarker and predictor of colectomy, often guiding the admission decision.
 - Epidemiologic shift: with rapid-onset steroid-sparing therapy (e.g., infliximab) and ambulatory infusion units, patients are now **more likely to be hospitalized for refractoriness to multiple steroid-sparing therapies than for acute fulminant ASUC**.
-- Suspected bowel obstruction, bowel perforation, or intra-abdominal abscess → hospitalization for evaluation and medical and/or surgical management (BPA 10–11 pathway).
+- Suspected bowel obstruction, bowel perforation, or intra-abdominal abscess → hospitalization for evaluation and medical and/or surgical management (see BPA 9–11).
 
 ### Supportive Care — BPA 2
 
@@ -136,7 +137,7 @@ flowchart TD
 
 ### Complications and Concomitant Infections — BPA 3
 
-- **Stool pathogen testing** in all hospitalized patients with diarrhea: stool culture **and** *C. difficile* toxin testing by a **2-step approach** — initial screening with a glutamate dehydrogenase antigen assay, followed by a toxin enzyme immunoassay or nucleic acid amplification test.
+- **Stool pathogen testing** in all hospitalized patients with diarrhea: stool culture **and** *C. difficile* toxin testing by a **2-step approach** (e.g., initial screening with a glutamate dehydrogenase antigen assay, followed by a toxin enzyme immunoassay or nucleic acid amplification test).
 - **Cytomegalovirus (CMV)** evaluation when there are worsening gastrointestinal symptoms, systemic toxicity, or lack of response to corticosteroids (see BPA 4).
 - **UC with concern for toxic dilatation or megacolon** → timely abdominal film and/or **CT abdomen and pelvis with IV contrast**, plus discussion with colorectal surgery, given the high risk of morbidity.
 - **CD with nausea and vomiting, or pain concerning for bowel obstruction or intra-abdominal abscess** — particularly when CRP is elevated out of proportion to luminal symptoms — → cross-sectional imaging (magnetic resonance [MR] or CT) with IV contrast.
@@ -207,7 +208,7 @@ flowchart TD
 - **JAK inhibitor dosing — optimal dose for ASUC is not yet known.** Used effectively with reasonable safety profiles:
   - **Standard dosing:** tofacitinib 10 mg twice daily · upadacitinib 45 mg daily
   - **Off-label high-intensity inpatient dosing:** tofacitinib 10 mg three times daily for 9 doses · upadacitinib 30 mg twice daily
-  - **Varicella zoster vaccination** should be received before starting a JAK inhibitor, but **treatment initiation should not be delayed at the expense of vaccination** — the recombinant vaccine can be given after the JAK inhibitor is started and the patient is discharged.
+  - Patients initiating a JAK inhibitor **should receive varicella zoster vaccination**, but **treatment initiation should not be delayed at the expense of vaccination** — the recombinant vaccine can be given after the JAK inhibitor is started and the patient is discharged.
 
 ### CD with Intestinal Obstruction — BPA 10
 
