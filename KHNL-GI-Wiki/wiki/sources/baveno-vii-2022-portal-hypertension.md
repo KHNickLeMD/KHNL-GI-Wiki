@@ -3,7 +3,8 @@ title: "Baveno VII — Renewing Consensus in Portal Hypertension (2022)"
 category: source
 tags: [portal-hypertension, cirrhosis, cACLD, CSPH, HVPG, liver-stiffness, spleen-stiffness, NSBB, carvedilol, varices, variceal-bleeding, TIPS, decompensation, recompensation, budd-chiari, portal-vein-thrombosis, psvd, anticoagulation]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw:
   - "GI Guidelines/EASL/EASL 2021 Baveno VII.pdf"
@@ -12,7 +13,7 @@ raw:
 
 ## Bibliographic Info
 
-- **Article:** [de Franchis R, Bosch J, Garcia-Tsao G, Reiberger T, Ripoll C, on behalf of the Baveno VII Faculty. Baveno VII – Renewing consensus in portal hypertension. J Hepatol. 2022;76(4):959–974.](https://doi.org/10.1016/j.jhep.2021.12.022)
+- **Article:** [de Franchis R, Bosch J, Garcia-Tsao G, Reiberger T, Ripoll C, on behalf of the Baveno VII Faculty. Baveno VII – Renewing consensus in portal hypertension. J Hepatol. 2022;76:959–974.](https://doi.org/10.1016/j.jhep.2021.12.022)
 - **Authors:** Roberto de Franchis, Jaime Bosch, Guadalupe Garcia-Tsao, Thomas Reiberger, Cristina Ripoll, on behalf of the Baveno VII Faculty
 - **Year:** 2022 (workshop held October 2021; corrigendum J Hepatol 2022;77:271)
 - **Journal/Publisher:** Journal of Hepatology (Elsevier) — Baveno Cooperation, an official EASL consortium
@@ -43,7 +44,7 @@ Baveno VII ("Personalized Care for Portal Hypertension") is the seventh internat
 
 Nine topics were covered: hepatic venous pressure gradient (HVPG) methodology and interpretation; non-invasive tools (NITs) for cACLD and CSPH; management after removal/suppression of the primary aetiology; non-aetiological therapies (statins, aspirin, albumin, antibiotics, rifaximin, anticoagulants); prevention of first decompensation; acute variceal bleeding; prevention of further decompensation (including the new definition of **recompensation**); splanchnic vein thrombosis; and other vascular liver disorders (porto-sinusoidal vascular disorder [PSVD], anticoagulation in cirrhosis). Statements are Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated A–D (evidence) and 1–2 (strength) and flagged as **Unchanged / Changed / New** relative to Baveno VI.
 
-Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most decisions** — the "rule of 5" for liver stiffness measurement (LSM) by transient elastography (TE) (10-15-20-25 kPa), LSM <15 kPa + platelets ≥150 rules out CSPH, LSM ≥25 kPa rules it in; (2) **the treatment target is decompensation, not varices** — carvedilol is the preferred nonselective beta-blocker (NSBB) in compensated cirrhosis with CSPH, and a patient started on an NSBB for decompensation prevention does not need screening endoscopy because the result will not change management; (3) **cirrhosis can recompensate**, with an explicit three-part definition requiring aetiological cure, sustained resolution of decompensating events, and stable improvement in liver function.
+Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most decisions** — the "rule of 5" for liver stiffness measurement (LSM) by transient elastography (TE) (10-15-20-25 kPa), LSM ≤15 kPa + platelets ≥150 rules out CSPH, LSM ≥25 kPa rules it in; (2) **the treatment target is decompensation, not varices** — carvedilol is the preferred nonselective beta-blocker (NSBB) in compensated cirrhosis with CSPH, and a patient started on an NSBB for decompensation prevention does not need screening endoscopy because the result will not change management; (3) **cirrhosis can recompensate**, with an explicit three-part definition requiring aetiological cure, sustained resolution of decompensating events, and stable improvement in liver function.
 
 ## Key Findings / Claims
 
@@ -430,6 +431,18 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 **Management of PSVD**
 
 - **9.20** Once the diagnosis of PSVD is made, patients should be screened for associated immunological diseases, prothrombotic or genetic disorders and exposure to drugs/toxins (Table S1). (D.2) (New)
+
+**Table S1 — conditions associated with PSVD (supplement; referenced by 9.16 and 9.20):**
+
+| Type | Specific conditions |
+|---|---|
+| Blood diseases | Aplastic anemia; myeloproliferative disorder; Hodgkin's lymphoma; multiple myeloma, Waldenstrom |
+| Prothrombotic conditions | Protein C/S deficiency; factor II or V gene mutation; antiphospholipid syndrome; ADAMTS13 deficiency |
+| Immunological disorders | Common variable immune deficiency; autoimmune hepatitis; systemic lupus erythematosus; scleroderma; rheumatoid arthritis; HIV; celiac disease; inflammatory bowel disease |
+| Infectious | Repeated gastrointestinal infections |
+| Drug-induced | Didanosine; azathioprine; 6-thioguanine; oxaliplatin |
+| Genetic | Turner's syndrome; Adams-Oliver syndrome; TERT mutations; cystic fibrosis; familial cases |
+
 - **9.21** Endoscopic screening for gastro-oesophageal varices is required at diagnosis of PSVD. (C.1) (New)
 - **9.22** The non-invasive Baveno VII criteria for screening of oesophageal varices used in patients with cirrhosis cannot be applied to patients with PSVD. (B.1) (New)
 - **9.23** During follow-up, the frequency of endoscopic screening for varices has not yet been defined. Management according to cirrhosis guidelines is recommended, except for stopping rules. (D.2) (New)
@@ -465,7 +478,7 @@ Three practice-shifting messages: (1) **NITs replace HVPG and endoscopy for most
 
 ## Contradictions / Open Questions
 
-- **HVPG threshold for CSPH is stated as ≥10 mmHg in both Baveno VII (1.10) and [[aasld-2023-portal-hypertension]]** — no conflict, but note Baveno VII flags 1.10 as "Changed" (from >10 to ≥10).
+- **HVPG threshold for CSPH is stated as ≥10 mmHg in both Baveno VII (1.10) and [[aasld-2023-portal-hypertension]]** — no conflict, but note Baveno VII flags 1.10 as "Changed" (it does not say what changed).
 - **Carvedilol dosing is not specified by Baveno VII.** It names carvedilol the preferred NSBB (5.15) but gives no dose; the 6.25–12.5 mg/day maintenance dose on [[portal-hypertension]] comes from [[aasld-2023-portal-hypertension]].
 - **Pre-emptive TIPS criteria differ in wording between the two documents.** Baveno VII 6.27: Child-Pugh C <14 points, **or** Child-Pugh B >7 *with active bleeding at initial endoscopy*, **or HVPG >20 mmHg at the time of haemorrhage**. American Association for the Study of Liver Diseases (AASLD) 2023 (guidance statement [GS] 32) states Child-Turcotte-Pugh (CTP) B >7 with active bleeding or CTP C 10–13 and does not include the HVPG limb. Baveno VII additionally states (6.28) that ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are *not* contraindications.
 - **Screening-endoscopy logic differs in emphasis.** Baveno VII 2.19 makes LSM ≥20 kPa **or** platelets ≤150×10⁹/L the endoscopy trigger *specifically for patients who cannot take NSBBs*, and 5.17 dispenses with screening endoscopy entirely for patients started on an NSBB. AASLD 2023 frames the same Baveno VI criteria (LSM <20 kPa + platelets >150) as a general endoscopy-avoidance rule.

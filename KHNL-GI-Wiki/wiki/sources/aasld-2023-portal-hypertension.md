@@ -3,7 +3,8 @@ title: "AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrh
 category: source
 tags: [portal-hypertension, varices, cirrhosis, NSBB, carvedilol, variceal-bleeding, TIPS, HVPG, liver-stiffness, cACLD, CSPH, band-ligation, gastric-varices, PHG]
 created: 2026-05-28
-updated: 2026-08-27
+updated: 2026-11-22
+verified: 2026-11-22
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2023 Portal Hypertension Varices Cirrhosis.pdf"
 ---
@@ -121,7 +122,7 @@ Guidance statements (GS) reproduced near-verbatim. The source assigns **no evide
 - **Caution applying the Rule of Five** in obesity and NAFLD/NASH (PPV of the 25-kPa cutoff falls to **63%**), alanine aminotransferase (ALT) >3× upper limit of normal (ULN), and primary sclerosing cholangitis (PSC) with dominant stricture — all calibrate poorly.
 - Many patients fall in an unclassified **"gray zone."** LSM must not drive decisions without confirmed high study quality and adequately trained operators.
 - Platelet count alone or enhanced liver fibrosis (ELF) are insufficient to exclude CSPH and skip variceal screening.
-- **Spleen stiffness:** liver stiffness–spleen size–to–platelet ratio >2.65 corresponds to CSPH risk >80%; spleen stiffness measurement (SSM) ≤46 kPa is an alternative rule-out. **Baveno VI criteria** for skipping variceal screening = LSM <20 kPa **and** platelets >150 K/mm³.
+- **Spleen stiffness:** liver stiffness–spleen size–to–platelet ratio >2.65 corresponds to CSPH risk >80%; spleen stiffness measurement (SSM) ≤46 kPa may be particularly suited to ruling out varices needing treatment (skipping endoscopy) in patients who would otherwise need screening endoscopy by Baveno VI criteria. **Baveno VI criteria** for skipping variceal screening = LSM <20 kPa **and** platelets >150 K/mm³.
 - Non-TE cutoffs are not solidly validated: magnetic resonance elastography (MRE) <3.5 kPa generally rules out cACLD, ≥5.0 kPa rules in.
 
 ### High-risk varices — the definition behind GS 19, 23, and 24
@@ -176,7 +177,7 @@ Guidance statements (GS) reproduced near-verbatim. The source assigns **no evide
 - **Preemptive TIPS (GS 32):** CTP class **B score >7 with active bleeding at initial endoscopy**, OR CTP class **C score 10–13**. Within 72 hours, ideally within 24 hours. Absolute contraindications to TIPS apply. Transfer if TIPS is unavailable locally.
 - **Rebleeding risk without prophylaxis is up to 60% at 1 year**; the highest-risk window is the **first 6 weeks**. Start secondary prophylaxis immediately after control of the index bleed, **within 7 days of admission**. No further measures are needed after preemptive TIPS.
 - **First-line secondary prophylaxis = NSBB + EVL.** TIPS as first-line secondary prophylaxis lowers rebleeding vs EVL+NSBB but does **not** improve survival and causes more hepatic encephalopathy — reserve it for patients with another TIPS indication (e.g. recurrent/refractory ascites), or for rebleeding despite adequate secondary prophylaxis, especially within the first 6 weeks.
-- If AVH occurs **despite** primary prophylaxis: check adherence and NSBB dose; options include adding isosorbide mononitrate, switching NSBB to carvedilol, or adding simvastatin.
+- If AVH occurs **despite** primary prophylaxis: check adherence to EVL and NSBB and the NSBB dose. True NSBB (propranolol/nadolol) failure carries persistently high rebleeding/death risk despite adding EVL for secondary prophylaxis — in such patients one may consider adding isosorbide mononitrate, switching the NSBB to carvedilol, or adding simvastatin.
 
 ### Statins — what the guidance actually says
 
@@ -214,7 +215,7 @@ Caveats the guidance attaches: unique selection criteria (all had HVPG-confirmed
 - Prevalence of PHG in compensated cirrhosis **49%–80%**; 11% without varices, 35% with small varices, 80%–97% with medium/large varices. PHG development usually requires CSPH.
 - Intramucosal hemorrhage (cherry red spots, black-brown spots, red point lesions) separates severe from mild PHG; concomitant **GAVE confers higher hemorrhage risk**.
 - Acute bleeding from PHG is uncommon (**2.5%–5%**) and stops spontaneously in over half with supportive care. **Chronic blood loss** — defined as a **2 g/dL fall in hemoglobin over 6 months** — is commoner, at **4%–12%**.
-- Exclude *[[helicobacter-pylori-infection|H. pylori]]* as an alternative cause of mucosal granularity before attributing findings to PHG.
+- Prospective studies suggesting NSBBs may prevent PHG bleeding were done after exclusion of *[[helicobacter-pylori-infection|H. pylori]]* as an alternative cause of mucosal granularity.
 - **PH-related polyps:** antral (occasionally duodenal) in ~1%–10% of cirrhosis; predominantly hyperplastic with negligible malignant potential. **Routine biopsy should be discouraged** — benign nature plus risk of significant bleeding from deep submucosal feeding vessels.
 - [[argon-plasma-coagulation|Argon plasma coagulation]] may attenuate chronic PHG blood loss (nonrandomized data).
 
