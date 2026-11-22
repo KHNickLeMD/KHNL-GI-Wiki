@@ -5,6 +5,8 @@ tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
 updated: 2026-11-22
 sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refractory-constipation, trulance-2024-plecanatide-label]
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 ---
 
 ## Contents
@@ -42,7 +44,7 @@ sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refr
 - **Where it ranks** (drug choice lives on the disease pages):
   - CIC — one of five strong recommendations (polyethylene glycol, sodium picosulfate, [[linaclotide]], plecanatide, [[prucalopride]]); [[lubiprostone]] is conditional ([[aga-acg-2023-constipation]]). See [[chronic-idiopathic-constipation]].
   - IBS-C — conditional, like [[tenapanor]], [[tegaserod]] and [[lubiprostone]]; [[linaclotide]] is the only strong AGA recommendation ([[aga-2022-ibs-c]]). Head-to-head trials are lacking. See [[irritable-bowel-syndrome]].
-- **[[chronic-constipation|Refractory constipation]]:** trial all standard OTC and Food and Drug Administration (FDA)–approved therapies, alone or in combination when accessible (Best Practice Advice [BPA] 7); off-label prescription agents only after these fail (BPA 8) ([[aga-2026-refractory-constipation]]).
+- **[[chronic-constipation|Refractory constipation]]:** trial all standard OTC and Food and Drug Administration (FDA)–approved therapies, alone or in combination when accessible (Best Practice Advice [BPA] 7); off-label prescription agents (e.g., pyridostigmine) suggested for those who have failed them (BPA 8) ([[aga-2026-refractory-constipation]]).
   - Plecanatide has shown efficacy in *"severe"* constipation, whereas [[prucalopride]] and [[linaclotide]] were studied in constipation unresponsive to OTC laxatives; these trials lacked rigorous evaluation of prior OTC therapy or colonic transit ([[aga-2026-refractory-constipation]]).
 
 ### Administration
@@ -140,7 +142,7 @@ All from [[trulance-2024-plecanatide-label]]:
 - **Pregnancy:** negligibly absorbed; maternal use not expected to cause fetal exposure. Human data insufficient to inform risk. No embryo-fetal harm in mice up to 800 mg/kg/day or rabbits up to 250 mg/kg/day (maximum recommended human dose ~0.05 mg/kg/day at 60 kg).
 - **Lactation:** after 3 mg daily for 2 weeks, plecanatide and its active metabolite were not measurable in breast milk at 2, 6 or 12 h post-dose; no clinically relevant infant exposure expected.
 - **Geriatric:** too few patients ≥65 years (10% of CIC, 8.3% of IBS-C trial subjects) to tell whether they respond differently; no dose adjustment given ([[trulance-2024-plecanatide-label]] §8.5). [[aga-acg-2023-constipation]]: no clear outcome differences in those >65 years, sample too small for formal analysis.
-- **Renal or hepatic impairment:** no dose adjustment and no label subsection. Plasma concentrations were below the limit of quantitation in the majority of samples after 3 mg (§12.3).
+- **Renal or hepatic impairment:** the label has no subsection and gives no dose adjustment. Plasma concentrations were below the limit of quantitation in the majority of samples after 3 mg (§12.3).
 
 ## Drug Interactions
 

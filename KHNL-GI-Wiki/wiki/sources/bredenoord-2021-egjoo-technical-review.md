@@ -69,7 +69,7 @@ EGJOO splits into **primary (idiopathic/functional)** and **secondary**, the lat
 
 - **Pressure drift in solid-state systems**, not always corrected by the manufacturer's post-procedural thermal compensation algorithm — thermal compensation can itself introduce an inaccurate modification that *produces* an erroneously elevated IRP.
 - **Catheter impingement and sensor angulation**, particularly in the EGJ region. In hiatal hernia, impingement in the hernia sac angulates an EGJ sensor and falsely raises the recorded pressure. **If such artifacts are seen during live acquisition, the catheter can be repositioned to resolve them.** In hiatal hernia the EGJ is typically a *weakened* barrier rather than an obstruction, so an elevated IRP there is often artifact to be ignored, and certainly not treated with an invasive procedure.
-- **Cardiac and vascular compression artifact**, and the physiologic range of IRP itself, are **reduced in the upright position** — the rationale for the position-change requirement.
+- **Cardiac and vascular compression artifact**, and the physiologic range of IRP itself, are **reduced in the upright position** — so examining the effect of posture change may exclude a clinically irrelevant elevated supine IRP.
 - Perfused systems develop pressure hysteresis and hydrostatic artifacts.
 - Psychological stress (not uncommon during manometry) and mid-expiratory interruption of breathing raise residual deglutitive EGJ pressure and are associated with incomplete liquid bolus clearance.
 

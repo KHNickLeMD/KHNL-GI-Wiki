@@ -5,6 +5,8 @@ tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hr
 created: 2026-05-16
 updated: 2026-11-22
 sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux, bredenoord-2021-egjoo-technical-review]
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 ---
 
 *Also called esophageal manometry or high-resolution esophageal manometry (HREM).*
@@ -52,7 +54,7 @@ sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, afs-2023-trans
 Sources: [[acg-2020-esophageal-physiologic-testing]]; [[acg-2021-gerd]].
 
 > [!pearl] Achalasia can masquerade as refractory GERD
-> 3% of patients having HRM before planned fundoplication had achalasia-spectrum disorders; of 524 patients with achalasia, 29% had been treated unsuccessfully with antisecretory drugs and referred for ARS ([[acg-2020-esophageal-physiologic-testing]]).
+> 3% of patients having HRM before planned fundoplication had [[achalasia]]-spectrum disorders; of 524 patients with achalasia, 29% had been treated unsuccessfully with antisecretory drugs and referred for ARS ([[acg-2020-esophageal-physiologic-testing]]).
 
 ## HRM Around Antireflux Surgery
 
@@ -62,7 +64,7 @@ Detailed pre- and postoperative interpretation, including the Padova classificat
 
 | Statement | Source · grade |
 |---|---|
-| **Recommend HRM before [[antireflux-surgery\|ARS]] or endoscopic therapy** to rule out [[achalasia]] and absent contractility | [[acg-2021-gerd\|ACG 2021]] · key concept |
+| **Recommend HRM before [[antireflux-surgery\|ARS]] or endoscopic therapy** to rule out achalasia and absent contractility | [[acg-2021-gerd\|ACG 2021]] · key concept |
 | [[ineffective-esophageal-motility\|Ineffective esophageal motility (IEM)]] → HRM should include provocative testing for contractile reserve (e.g., multiple rapid swallows) | ACG 2021 · key concept |
 | HRM should be performed before ARS or invasive GERD management | [[acg-2020-esophageal-physiologic-testing\|ACG 2020]] · key concept 9 |
 | HRM is **essential** to exclude motor disorders not amenable to ARS | [[padova-2025-hrm-antireflux\|Padova 2025]] · median 9, 89% agreement |
@@ -91,7 +93,7 @@ Detailed pre- and postoperative interpretation, including the Padova classificat
 ### Standard Protocol
 
 - **10 supine test swallows** ([[acg-2020-esophageal-physiologic-testing]]); full CC v4.0 acquisition protocol (supine + upright positions, swallow volumes, rest intervals) on [[chicago-classification-v4#Required HRM Protocol]].
-- **Dysphagia → endoscopy first.** HRM ordered without an endoscopy or esophagram report cannot rule out structural causes of an elevated IRP ([[bredenoord-2021-egjoo-technical-review]]).
+- **Dysphagia → [[upper-endoscopy|endoscopy]] first.** HRM ordered without an endoscopy or esophagram report cannot rule out structural causes of an elevated IRP ([[bredenoord-2021-egjoo-technical-review]]).
 
 ### Provocative Maneuvers
 
@@ -102,7 +104,7 @@ ACG 2020 Rec 3 (conditional, low quality): add supplementary/provocative maneuve
 | **Multiple rapid swallows (MRS)** | 5 × 2 mL water swallows, **<3 s apart** | Body contraction ceases and LES relaxes during the sequence; robust contraction afterwards = **contraction reserve**. Absent reserve → possible higher risk of post-fundoplication dysphagia and of developing or worsening IEM |
 | **Rapid drink challenge (RDC)** | Free drinking of **100–200 mL** water through a straw, as fast as possible, upright | Aids identification of EGJ outflow obstruction (elevated LES postswallow residual pressure or panesophageal pressurization) |
 | **Standardized test meal (STM)** | Typically cooked rice and gravy, or a cheese and onion pasty | Higher yield for obstructive disorders (EGJ outflow obstruction, spasm); reproduces symptoms |
-| **Amyl nitrite (AN)** | Inhaled nitric oxide donor | Relaxes LES in health, EGJOO and achalasia; in achalasia and EGJOO (not healthy controls) relaxation is followed by a robust LES **rebound contraction**. In one retrospective series of 258 patients, an IRP drop **>10 mmHg** below deglutitive IRP defined AN-responsive EGJOO ([[bredenoord-2021-egjoo-technical-review]]) |
+| **Amyl nitrite (AN)** | Inhaled nitric oxide donor | Relaxes LES in health, EGJOO and achalasia; in achalasia and EGJOO (not healthy controls) relaxation is followed by a robust LES **rebound contraction**. In one retrospective series of 258 patients, an IRP drop **>10 mmHg** below deglutitive IRP defined AN-responsive patients ([[bredenoord-2021-egjoo-technical-review]]) |
 
 ### Technical Artifacts That Fake an Elevated IRP
 
@@ -110,18 +112,18 @@ ACG 2020 Rec 3 (conditional, low quality): add supplementary/provocative maneuve
 
 | Artifact | Mechanism | What to do |
 |---|---|---|
-| **Pressure drift** | Solid-state systems drift; manufacturer post-procedural "thermal compensation" does not always correct it and can itself produce an erroneously elevated IRP | Look for drifting EGJ sensors on the end-of-study trace after catheter removal |
+| **Pressure drift** | Solid-state systems drift; manufacturer post-procedural "thermal compensation" does not always correct it and can itself produce an erroneously elevated IRP | Be aware compensation may not fix it (Figure 2 shows drift on the end-of-study trace after catheter removal) |
 | **Catheter impingement / sensor angulation** | An EGJ-segment sensor is angulated, classically in a hiatal hernia sac, and records falsely high pressure; inspiratory crural pull moves the artifact aborally | **Reposition the catheter during live acquisition** to resolve it |
 | **Hiatal hernia** | The EGJ is more typically a *weakened barrier* than an obstruction | Elevated IRP is often artifact here — ignore it; never treat it with invasive procedures |
 | **Cardiac / vascular compression** | Compression pressure artifact | Reduced upright — posture change helps exclude clinically irrelevant elevated supine IRP |
 | **Hysteresis / hydrostatic artifact** | Perfused HRM systems | Recognize as system artifact |
-| **Psychological stress, breath interruption** | Stress and mid-expiratory breath interruption raise residual deglutitive EGJ pressure | Recognize as a non-obstructive cause |
+| **Psychological stress, breath interruption** | Stress and mid-expiratory breath interruption raise residual deglutitive EGJ pressure and are associated with incomplete liquid bolus clearance | — |
 
 ## Interpretation
 
 - Metrics (IRP, contractile vigor, peristaltic integrity), cutoffs and the diagnostic hierarchy: [[chicago-classification-v4]].
 - Diagnoses: [[achalasia]] types I–III, [[esophagogastric-junction-outflow-obstruction|EGJOO]], absent contractility, [[distal-esophageal-spasm|distal esophageal spasm (DES)]], [[hypercontractile-esophagus|hypercontractile esophagus]], IEM.
-- **A manometric diagnosis of EGJOO is always clinically inconclusive** (strong); a conclusive diagnosis needs clinically relevant symptoms plus TBE (preferably with tablet) and/or FLIP (conditional, moderate GRADE) ([[bredenoord-2021-egjoo-technical-review]]).
+- **A manometric diagnosis of EGJOO is always clinically inconclusive** (strong); a conclusive diagnosis needs clinically relevant symptoms plus TBE (preferably with tablet) and/or FLIP (conditional, moderate quality) ([[bredenoord-2021-egjoo-technical-review]]).
 
 ## Performance
 
@@ -145,7 +147,7 @@ HRM identifies hiatal hernia by comparing the positions of the LES and crural di
 | Prospective, 34 [[obesity\|obese]], before bariatric surgery | Surgery | HRM | 88.9% | 60.0% |
 | " | " | Endoscopy or barium radiography (reported together) | 77.4% | 44.0% |
 | 90 patients | The other 2 tests (endoscopy, barium) | HRM | 92% | 95% |
-| Retrospective, 215 | Endoscopy | CM | 28% | 97% (PPV 82%) |
+| 215 patients | Endoscopy | CM | 28% | 97% (PPV 82%) |
 | 92 obese, before bariatric surgery | Barium radiography | Endoscopy | ≤40% | ≥94% |
 
 - CM row: ACG urges caution — CM was used, and endoscopy has poor sensitivity for hiatal hernia despite high specificity.
@@ -158,15 +160,16 @@ HRM identifies hiatal hernia by comparing the positions of the LES and crural di
 ```mermaid
 xychart-beta
     title "Diagnoses in 177 patients with noncardiac chest pain"
-    x-axis ["Reflux disease", "Jackhammer esophagus", "Distal esophageal spasm", "Achalasia"]
+    x-axis ["GERD", "Jackhammer esophagus", "Distal esophageal spasm", "Achalasia"]
     y-axis "Patients (%)" 0 --> 40
     bar [35, 7, 5, 2]
 ```
 *Diagnoses after manometry and pH testing in noncardiac chest pain*
 *Source: data from 177 patients with noncardiac chest pain who underwent manometry and pH testing, cited in ACG 2020*
 *[[acg-2020-esophageal-physiologic-testing|ACG 2020 Clinical Use of Esophageal Physiologic Testing]]*
+*GERD = gastroesophageal reflux disease*
 
-- NCCP: once cardiac causes are excluded, GERD is the most common mechanism; if chest pain does not respond to PPI, achalasia, spasm or hypercontractility can explain it (possibly as an epiphenomenon); motor assessment is required to diagnose [[functional-chest-pain|functional chest pain]] ([[acg-2020-esophageal-physiologic-testing]]).
+- NCCP: once cardiac causes are excluded, GERD is the most common mechanism; if chest pain does not respond to PPI, achalasia, spasm or hypercontractility can explain it (as an epiphenomenon rather than a cause); motor assessment is required to diagnose [[functional-chest-pain|functional chest pain]] ([[acg-2020-esophageal-physiologic-testing]]).
 - Rumination on postprandial HRIM: intragastric pressure rise **>30 mmHg** with proximal movement of gastric content, esophageal pressurization and a clinically recognized episode. Sensitivity 75%–80%, specificity 100% (study of 15 children/adolescents and 15 controls); a postprandial protocol increases detection; frequent swallowing can confound ([[acg-2020-esophageal-physiologic-testing]]).
 - Supragastric belching: pH impedance monitoring is the gold standard; HRIM identifies episodes only with a postprandial protocol ([[acg-2020-esophageal-physiologic-testing]]).
 

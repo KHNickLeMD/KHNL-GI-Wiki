@@ -5,6 +5,8 @@ tags: [esophagus, stricture, dysphagia, peptic-stricture, eoe, fibrostenotic, di
 created: 2026-10-15
 updated: 2026-11-22
 sources: [acg-2025-eoe, asge-2014-dysphagia, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, aga-2022-personalized-gerd, aga-2021-malignant-alimentary-tract-obstruction, aga-2021-gi-perforations-endoscopic-management]
+quality_reviewed: 2026-11-22
+verified: 2026-11-22
 ---
 
 A fixed structural narrowing of the esophageal lumen causing dysphagia. Benign inflammatory strictures come from collagen and fibrous tissue deposition after severe or chronic esophageal inflammation; malignant strictures from intrinsic luminal tumor growth or extrinsic compression ([[asge-2014-dysphagia]]).
