@@ -3,9 +3,10 @@ title: "ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis"
 category: source
 tags: [eoe, eosinophilic-esophagitis, esophageal, dysphagia, food-impaction, biologic, dupilumab, topical-steroid, dietary-elimination]
 created: 2026-05-07
-updated: 2026-10-04
+updated: 2026-11-22
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Diagnosis & Management of Eosinophilic Esophagitis.pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -20,7 +21,7 @@ raw: "GI Guidelines/ACG/ACG 2025 Diagnosis & Management of Eosinophilic Esophagi
 
 ## Summary
 
-Full update of the 2013 ACG eosinophilic esophagitis (EoE) guideline, using Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methodology across diagnosis, treatment, monitoring and assessment of response, and pediatric-specific considerations. It issues **19 graded recommendations (Table 1)** and **25 ungraded key concepts (Table 2)**.
+Full update of the 2013 ACG eosinophilic esophagitis (EoE) guideline, using Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methodology across diagnosis, treatment, monitoring and assessment of response, and pediatric-specific considerations. It issues **19 recommendations (Table 1)** — 18 graded plus 1 non-recommendation (Rec 12) — and **25 ungraded key concepts (Table 2)**.
 
 EoE is diagnosed on three criteria: symptoms of esophageal dysfunction, ≥15 eosinophils per high-power field (eos/hpf) on esophageal biopsy, and evaluation for non-EoE disorders that cause or contribute to esophageal eosinophilia. The headline change from 2013 is the **elimination of the proton pump inhibitor (PPI) trial as a diagnostic requirement** and retirement of the term *PPI-responsive esophageal eosinophilia*; PPIs are now a treatment option.
 
@@ -41,7 +42,7 @@ Three criteria, all required (Figure 1):
 - **Biopsy protocol:** ≥6 biopsies from ≥2 esophageal levels (proximal/mid and distal), **targeting endoscopic findings** where possible.
 - Assess for fibrostenosis at the diagnostic endoscopy, alongside EREFS.
 - **EREFS** (EoE Endoscopic Reference Score — edema, rings, exudates, furrows, strictures): the systematic endoscopic scoring system the guideline recommends at every endoscopy.
-- Atopy raises suspicion: 60%–94% of patients with EoE have a concomitant atopic condition (immediate-type food allergy, asthma, atopic dermatitis, allergic rhinitis), and the more atopic a patient is, the more likely they are to have EoE. There are **no data to support screening** of this population.
+- Atopy raises suspicion: at least 60%–80% of patients with EoE have a concomitant atopic condition (immediate-type food allergy, asthma, atopic dermatitis, allergic rhinitis), and the more atopic a patient is, the more likely they are to have EoE. There are **no data to support screening** of this population.
 - Family history of EoE/EGID should increase clinical suspicion in a symptomatic patient.
 - **Avoidance behaviors mask severity** — the IMPACT acronym (guideline Table 4) assesses food avoidance and modification; in children, food refusal, increased time to complete meals, and regurgitation can be signs of occult dysphagia.
 
@@ -109,10 +110,21 @@ Key concepts are statements "not amenable to the GRADE process, either because o
 
 **PPI**
 
-- High-dose twice daily (bid) × 8–12 weeks → endoscopy with biopsies
+- "High-dose" = double the approved reflux dose per day, once daily or divided before meals (adherence decides; dosing-efficacy data variable) × 8–12 weeks → endoscopy with biopsies
 - ~50% histologic remission; mechanism beyond acid suppression
-- Adults: omeprazole 20mg bid (or equivalent); children: 2mg/kg/day
+- Doses: see Table 6 below
 - Maintain long-term if effective (70–85% sustain remission at 1y)
+
+**Table 6 — initial treatment dosing (p. 44):**
+
+| Medication | Children | Adults |
+|---|---|---|
+| PPI | 2 mg/kg per day (or 1 mg/kg twice daily) | Double the approved reflux dose per day (e.g., omeprazole 20 mg twice daily or 40 mg daily, or equivalent) |
+| Budesonide | 1–2 mg/d (by age, height, weight; can be divided twice daily) | 2–4 mg/d (can be divided twice daily); approved BOS dose 2 mg twice daily |
+| Fluticasone | 110–880 µg/d (by age, height, weight) in a divided dose | 1760 µg/d in a divided dose |
+| Dupilumab | 15–<30 kg: 200 mg SQ every other week · 30–<40 kg: 300 mg SQ every other week · ≥40 kg: 300 mg SQ weekly | |
+
+- Fluticasone doses are for a multidose inhaler; with a disk device adjust for a 100- vs 250-µg device. Asthma budesonide adapted for EoE: mix the aqueous budesonide to a syrup-like consistency (sucralose, honey, maple syrup or similar), total volume ~10 mL.
 
 **Topical Steroids**
 
@@ -137,12 +149,12 @@ Key concepts are statements "not amenable to the GRADE process, either because o
 - Step-up approach preferred: start with 1FED or 2FED; escalate if no response
 - Food reintroduction: add 1 food group × 6–8 weeks → endoscopy; re-eliminate if flare
 - **Do NOT use** skin prick, patch test, or serum IgE/IgG to direct diet
-- Dietitian referral strongly recommended
+- Collaborate with a dietician or nutritionist (ungraded key concept, "we advise")
 - "Diet holidays" with bridge medical therapy may improve long-term adherence
 
 **Dupilumab (anti-IL-4Rα)**
 
-- FDA-approved: ≥12y (2022), 1–11y (2024)
+- FDA-approved: ≥12 y and ≥40 kg (2022), 1–11 y (2024)
 - Indication: PPI-nonresponder
 - Dosing: ≥40kg → 300mg subcutaneously (SQ) weekly; 30–<40kg → 300mg SQ every 2 weeks (q2w); 15–<30kg → 200mg SQ q2w
 - Phase 3 randomized controlled trial (RCT): 60% histologic remission (≤6 eos/hpf) vs 5% placebo
@@ -152,7 +164,8 @@ Key concepts are statements "not amenable to the GRADE process, either because o
 
 **Esophageal Dilation**
 
-- Indication: fibrostenotic EoE with dysphagia despite medical therapy
+- Indication (Rec 15, Table 7): can be considered for **all** patients with EoE and an esophageal stricture with dysphagia, **as an adjunct to** medical therapy
+- Empiric dilation may be performed for persistent dysphagia with a normal-appearing esophageal diameter on endoscopy despite histologic remission (Table 7)
 - Goal: ≥16mm luminal diameter
 - Safety: 95% clinical improvement; perforation <0.5%; hospitalization <1%
 - Endoscopy insensitive for stricture detection (sensitivity ~15%); esophagram more sensitive

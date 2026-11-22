@@ -47,7 +47,7 @@ quality_reviewed: 2026-11-15
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], *Yersinia enterocolitica*
-- **[[shiga-toxin-producing-e-coli|STEC / enterohemorrhagic *E. coli* (EHEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS); **antimicrobials are to be avoided**, unlike *Campylobacter*. Not the same organism as [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS); **antimicrobials are to be avoided**, unlike *Campylobacter*. Not the same organism as [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
 - Amebic dysentery — *E. histolytica*; species-level enzyme immunoassay (EIA)/polymerase chain reaction (PCR) required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired diarrhea *(ACG Rec 10, strong/very low)*. [[acg-2016-acute-diarrhea]]

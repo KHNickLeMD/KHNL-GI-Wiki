@@ -3,11 +3,12 @@ title: "Padova Consensus: High-Resolution Manometry Before and After Antireflux 
 category: source
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, foregut, Padova-classification]
 created: 2026-05-15
-updated: 2026-11-17
+updated: 2026-11-22
 sources: []
 raw:
   - "GI Guidelines/Other/Padova Consensus 2025 HRM for Antireflux Surgery.pdf"
   - "GI Guidelines/Other/Padova Consensus 2025 HRM for Antireflux Surgery - Supplemental Digital Content 1.docx"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -158,7 +159,7 @@ raw:
 
 - **Figure vs text:** Figure 1 assigns "slipped" to the HPZ-above-CD branch and the basal-pressure split to HPZ-below-CD; the classification text and discussion state the reverse. Separation written ≥1 cm (text) vs >1 cm (figure, discussion).
 - **Post-ARS IRP:** <15 mmHg (Medtronic) is consistent with normal, but higher values may also be normal — the source sets no post-ARS upper limit, and Chicago Classification v4.0 thresholds were built for surgery-naive patients ([[chicago-v4-2021-esophageal-dysmotility]]).
-- **Main text vs supplement:** the article body states no numeric post-ARS pressure cutoffs, while Supplemental Table 2 gives Medtronic cutoffs (<8 mmHg low basal, >48 mmHg elevated basal, >19 mmHg elevated median IRP). No numeric cutoff for IBP in either; no post-ARS FLIP normative values.
+- **Main text vs supplement:** the article body states no numeric post-ARS abnormality cutoffs (only that IRP <15 mmHg on Medtronic is consistent with normal), while Supplemental Table 2 gives Medtronic cutoffs (<8 mmHg low basal, >48 mmHg elevated basal, >19 mmHg elevated median IRP). No numeric cutoff for IBP in either; no post-ARS FLIP normative values.
 - Supplemental Table 3 lists the section header "HRM Following Anti-Reflux Procedure" with a score row (median 6, range 1–8, 37%) but no statement text; that row is omitted above.
 - **EGJOO before ARS** — consistent with [[chicago-v4-2021-esophageal-dysmotility]] (EGJOO conclusive only with obstructive symptoms + supportive barium or FLIP).
 - **Contraction vigor and wrap tailoring:** no agreement that ineffective swallows, peristaltic breaks, or MRS response should choose total vs partial fundoplication.

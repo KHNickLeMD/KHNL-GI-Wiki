@@ -35,7 +35,7 @@ quality_reviewed: 2026-11-13
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], *Yersinia enterocolitica*
-- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided**, whereas shigellosis is one of the few dysenteries you *do* treat empirically. Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
+- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided**, whereas shigellosis is one of the few dysenteries you *do* treat empirically. Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]] (watery, noninvasive).
 - Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]] (species-level enzyme immunoassay (EIA)/PCR required; *E. dispar* is non-pathogenic). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare

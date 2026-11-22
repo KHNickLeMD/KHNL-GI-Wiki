@@ -3,7 +3,7 @@ title: "Plecanatide"
 category: med
 tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-10-30
+updated: 2026-11-22
 sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refractory-constipation, trulance-2024-plecanatide-label]
 ---
 
@@ -11,132 +11,147 @@ sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refr
 - [[#Class]]
 - [[#Indications & Dosing]]
   - [[#Administration]]
-  - [[#Who was studied — trial entry criteria (IBS-C)]]
 - [[#Efficacy]]
+  - [[#IBS-C]]
+  - [[#CIC]]
 - [[#Adverse Effects]]
 - [[#Contraindications]]
 - [[#Use in Specific Populations]]
-- [[#Place in Therapy]]
+- [[#Drug Interactions]]
 - [[#See Also]]
 - [[#Sources]]
 
 ## Class
 
-Guanylate cyclase-C (GC-C) agonist — a nonabsorbed 16-amino-acid uroguanylin analog. Stimulates GC-C on enterocytes → cyclic guanosine monophosphate (cGMP) → CFTR activation → fluid and electrolyte secretion; also reduces visceral hypersensitivity in an animal model. Unlike [[linaclotide]] (not pH-sensitive), plecanatide binds GC-C with **higher affinity in the acidic proximal duodenum**.
+- Guanylate cyclase-C (GC-C) agonist; 16-amino-acid peptide, structural analog of uroguanylin ([[trulance-2024-plecanatide-label]]).
+- Minimally absorbed, negligible systemic availability; acts locally on the luminal surface of the intestine ([[trulance-2024-plecanatide-label]]).
+- GC-C activation → cyclic guanosine monophosphate (cGMP) → cystic fibrosis transmembrane conductance regulator (CFTR) → chloride and bicarbonate secretion → more intestinal fluid, faster transit. Reduced a measure of intestinal pain in an animal model of visceral pain ([[trulance-2024-plecanatide-label]]).
+- **pH-sensitive:** higher GC-C affinity in the more acidic proximal duodenum; [[linaclotide]] is not pH-sensitive ([[aga-2022-ibs-c]]).
 
 ## Indications & Dosing
 
-| Indication | Dose | Recommendation |
+| Indication (adults) | Dose | Guideline recommendation |
 |---|---|---|
-| [[chronic-idiopathic-constipation\|chronic idiopathic constipation (CIC)]], after over-the-counter (OTC) agents fail | **3 mg orally (PO) daily** | Strong rec, moderate certainty ([[aga-acg-2023-constipation]] **Rec 9**) |
-| [[irritable-bowel-syndrome\|Irritable bowel syndrome (IBS)]] with constipation (IBS-C) | **3 mg PO daily** | Strong/High ([[acg-2020-ibs]]); American Gastroenterological Association (AGA): conditional, moderate certainty ([[aga-2022-ibs-c]] **Rec 2**) |
+| [[chronic-idiopathic-constipation\|Chronic idiopathic constipation (CIC)]] not responding to over-the-counter (OTC) agents | **3 mg orally once daily** | Strong recommendation, moderate certainty ([[aga-acg-2023-constipation]] **Rec 9**) |
+| [[irritable-bowel-syndrome\|Irritable bowel syndrome]] with constipation (IBS-C) | **3 mg orally once daily** | American Gastroenterological Association (AGA): *suggests* — conditional, moderate certainty ([[aga-2022-ibs-c]] **Rec 2**). American College of Gastroenterology (ACG): *recommends* GC-C agonists as a class for global IBS-C symptoms — strong recommendation, high quality of evidence ([[acg-2020-ibs]]) |
 
-- **One dose, both indications: FDA-approved at 3 mg once daily for IBS-C *and* CIC** ([[aga-2022-ibs-c]]; [[aga-acg-2023-constipation]] — "approved at the same dose for IBS-C"). Trials studied **3 mg and 6 mg**; **6 mg is not an approved dose for either indication** — there is no separate, higher IBS-C dose.
-- **Duration:** trials ran **12 weeks**; the drug label sets no limit. Can replace or be added to OTC agents.
-- **Refractory constipation:** plecanatide is among the FDA-approved agents to be trialled alone *and* in combination before off-label agents or surgery ([[aga-2026-refractory-constipation]] Best Practice Advice [BPA] 7). Its refractory-setting evidence is **narrower than [[prucalopride]]'s or [[linaclotide]]'s** — plecanatide has shown efficacy in *"severe"* constipation rather than in constipation unresponsive to OTC laxatives, and AGA notes these trials **lacked rigorous evaluation of prior OTC therapy or colonic transit**.
+- **Same dose for both indications;** only 3 mg tablets are made ([[trulance-2024-plecanatide-label]]).
+- **6 mg once daily is not recommended:** the 6 mg trial arm added no benefit in CIC or IBS-C and had more adverse reactions than 3 mg in CIC ([[trulance-2024-plecanatide-label]] §14.1, §14.2).
+- **Duration:** trials ran 12 weeks; the label sets no limit. Use as replacement for or adjunct to OTC agents ([[aga-acg-2023-constipation]] Rec 9 implementation considerations).
+- **Effect wears off when stopped:** in the 2-week post-treatment period, patients generally returned to baseline ([[trulance-2024-plecanatide-label]] §14).
+- **Where it ranks** (drug choice lives on the disease pages):
+  - CIC — one of five strong recommendations (polyethylene glycol, sodium picosulfate, [[linaclotide]], plecanatide, [[prucalopride]]); [[lubiprostone]] is conditional ([[aga-acg-2023-constipation]]). See [[chronic-idiopathic-constipation]].
+  - IBS-C — conditional, like [[tenapanor]], [[tegaserod]] and [[lubiprostone]]; [[linaclotide]] is the only strong AGA recommendation ([[aga-2022-ibs-c]]). Head-to-head trials are lacking. See [[irritable-bowel-syndrome]].
+- **[[chronic-constipation|Refractory constipation]]:** trial all standard OTC and Food and Drug Administration (FDA)–approved therapies, alone or in combination when accessible (Best Practice Advice [BPA] 7); off-label prescription agents only after these fail (BPA 8) ([[aga-2026-refractory-constipation]]).
+  - Plecanatide has shown efficacy in *"severe"* constipation, whereas [[prucalopride]] and [[linaclotide]] were studied in constipation unresponsive to OTC laxatives; these trials lacked rigorous evaluation of prior OTC therapy or colonic transit ([[aga-2026-refractory-constipation]]).
 
 ### Administration
 
-- **With or without food** (contrast [[linaclotide]], which must be taken ≥30 min before the first meal). Only **3 mg tablets** are supplied ([[trulance-2024-plecanatide-label]]).
-- **Missed dose: skip it** and take the next at the regular time — never two doses at once.
-- **Swallow whole.** For adults who cannot, the label gives three tested procedures; nothing else has been tested (not other soft foods, not other liquids):
+All from [[trulance-2024-plecanatide-label]] §2.2:
 
-| Route | Procedure |
+- **With or without food** (contrast [[linaclotide]]: at least 30 min before the first meal of the day — [[aga-acg-2023-constipation]]).
+- **Missed dose:** skip it; take the next at the regular time. Never two doses at once.
+- **Swallow whole.** Adults with swallowing difficulty — three tested methods; crushed tablet in other soft foods or liquids has not been tested:
+
+| Method | Steps |
 |---|---|
-| Applesauce | Crush to powder, mix with **1 teaspoonful room-temperature applesauce**, consume entire mixture immediately |
-| Water | Tablet in a cup, **~30 mL** room-temperature water, swirl **≥10 s** (tablet falls apart), swallow immediately; residue → repeat with another 30 mL |
-| Nasogastric or gastric feeding tube | Tablet + 30 mL water, swirl **≥15 s**; flush tube with 30 mL via catheter-tip syringe; draw up and give immediately; rinse cup with 30 mL, swirl ≥15 s, give; flush tube with **≥10 mL** |
+| Applesauce | Crush to powder; mix with **1 teaspoonful room-temperature applesauce**; consume all immediately |
+| Water (oral) | Tablet in cup + **~30 mL** room-temperature water; swirl **at least 10 s** (tablet falls apart); swallow immediately. Tablet left in cup → add 30 mL, swirl at least 10 s, swallow |
+| Nasogastric or gastric feeding tube | Tablet in cup + 30 mL room-temperature water; swirl **at least 15 s**. Flush tube with 30 mL water by catheter-tip syringe. Draw up mixture, give immediately. **Only if tablet is left in cup:** add 30 mL, swirl at least 15 s, give with same syringe. Flush tube with **at least 10 mL** water |
 
-Do not store any prepared mixture for later use ([[trulance-2024-plecanatide-label]]).
+- Never store a prepared mixture for later use.
 
-> [!pitfall] A 9 mg dose loosens stool with food — 3 mg does not
-> The label's food effect was measured at **9 mg, three times the approved dose**, where a meal produced looser stools than fasting for up to 24 h. At the approved **3 mg** it is given with or without food. Do not read the food effect as a reason to withhold meals ([[trulance-2024-plecanatide-label]]).
-
-### Who was studied — trial entry criteria (IBS-C)
-
-Phase 3 entry ([[aga-2022-ibs-c]]) — the population the conditional recommendation rests on:
-
-- Met **Rome III** criteria for [[irritable-bowel-syndrome|IBS]]-C
-- During the 2-week baseline, reported "**no more than 3 CSBMs [complete spontaneous bowel movements] or >6 SBMs [spontaneous bowel movements] per week**" and an **average worst abdominal pain score of 3 on a 0–10 scale**
-- Could **not** report worst abdominal pain of **0 for more than 2 days**, **Bristol 7 for 1 or more days**, or **Bristol 6 for more than 1 day**
+> [!pitfall] Food loosened stools only at 9 mg
+> The food effect (looser stools for up to 24 h after a meal vs fasting) was measured with a single **9 mg dose, 3 times the recommended dose**. In clinical studies, 3 mg was given with or without food ([[trulance-2024-plecanatide-label]] §12.2).
 
 ## Efficacy
 
-**IBS-C** (3 mg, **n = 814 vs 818** placebo, 3 randomized controlled trials [RCTs], 12 wk) ([[aga-2022-ibs-c]]):
+### IBS-C
 
-- FDA responder endpoint met by **27.4% vs 16.9%**; failure of symptom relief relative risk (RR) **0.87** (95% confidence interval [CI] 0.83–0.92) — **108 fewer failures per 1,000** (67–141 fewer). Certainty **moderate**.
-- Individual symptoms over the initial 12 weeks: abdominal-pain improvement RR **0.86** (0.81–0.92), **risk difference 10.1%**; CSBM RR **0.84** (0.79–0.91), **risk difference 10.9%**.
-- [[acg-2020-ibs]] pooled estimate: RR of symptom persistence **0.88** (0.82–0.94), **number needed to treat (NNT) 10**; odds ratio (OR) of FDA-responder response **1.87** (1.47–2.38), **NNT 9**. Separation from placebo appeared by **the end of the first treatment week** and held through 12 weeks.
+- **AGA pooled data** (3 mg, 814 vs 818 placebo; 2 phase 3 trials + 1 phase 2b, 12 wk) ([[aga-2022-ibs-c]]):
+  - FDA responder endpoint met by **27.4% vs 16.9%**; failure of symptom relief relative risk (RR) **0.87** (95% confidence interval [CI] 0.83–0.92), **108 fewer per 1,000** (67–141 fewer) — moderate certainty (Table 5).
+  - Abdominal pain RR **0.86** (0.81–0.92), risk difference 10.1%; complete spontaneous bowel movements (CSBMs) RR **0.84** (0.79–0.91), risk difference 10.9%.
+  - Also improved stool frequency, bloating, straining and treatment satisfaction (outside the evidence profile).
+- **ACG pooled data** ([[acg-2020-ibs]]): RR of symptom persistence **0.88** (0.82–0.94), number needed to treat (NNT) **10**; odds ratio (OR) of FDA-responder response **1.87** (1.47–2.38), NNT **9**. Separation from placebo by the end of week 1, maintained through 12 weeks.
+- **Phase 3 entry criteria** — the population the AGA recommendation rests on ([[aga-2022-ibs-c]]):
+  - Rome III IBS-C.
+  - 2-week baseline: no more than 3 CSBMs or more than 6 spontaneous bowel movements (SBMs) per week, and average worst abdominal pain **≥3 on a 0–10 scale**.
+  - Excluded: worst pain 0 on more than 2 days, [[bristol-stool-form-scale|Bristol]] 7 on 1 or more days, or Bristol 6 on more than 1 day.
 
-**CIC** (3 mg, 3 RCTs, 12 wk) ([[aga-acg-2023-constipation]]):
+### CIC
 
-| Outcome | Effect vs placebo | Certainty |
+3 randomized controlled trials, 12 wk; doses studied 3 mg and 6 mg ([[aga-acg-2023-constipation]]):
+
+| Outcome (3 mg vs placebo) | Effect | Certainty |
 |---|---|---|
-| CSBMs per week | mean difference (MD) **+1.1** (95% CI 0.85–1.35) | High |
+| CSBMs per week | Mean difference (MD) **+1.1** (95% CI 0.85–1.35) | High |
 | SBMs per week | MD **+1.66** (1.37–1.94) | High |
-| Responder (**≥3 CSBMs/wk *and* ≥1 CSBM over baseline for ≥9 of 12 weeks, including ≥3 of the last 4**) | RR **1.78** (1.46–2.18) — **88 more per 1,000** (52–134) | Moderate |
-| Stool consistency (Bristol) | MD **+0.83** (0.60–1.05) | Moderate |
-| **Diarrhea leading to discontinuation** | RR **5.39** (2.40–12.11) — **27 more per 1,000** (9–69) | Moderate |
+| Responder (**≥3 CSBMs/wk and ≥1 CSBM over baseline for ≥9 of 12 weeks, including ≥3 of the last 4**) | RR **1.78** (1.46–2.18); **88 more per 1,000** (52–134) | Not stated |
+| Stool consistency (Bristol) | MD **+0.83** (0.6–1.05) | Moderate |
+| Diarrhea leading to discontinuation | RR **5.39** (2.40–12.11); **27 more per 1,000** (9–69) | Moderate |
 
-**Overall certainty for plecanatide: moderate** in both guidelines.
+- Quality-of-life scores also improved (high certainty). Overall certainty for plecanatide: **moderate** ([[aga-acg-2023-constipation]]).
 
 ## Adverse Effects
 
-- **Diarrhea** — most common adverse event (AE): **4.3%** vs 1% placebo; led to discontinuation in **1.2%** (vs 0% placebo); **severe diarrhea 0%**. Serious adverse events (SAEs) 0.8%, similar to placebo, with **no diarrhea-related SAEs** (the single death, a drowning, was deemed unrelated) ([[acg-2020-ibs]], [[aga-2022-ibs-c]]).
-- IBS-C: any AE leading to discontinuation RR **5.68** (95% CI 2.10–15.39) — **23 more per 1,000** (5–70) ([[aga-2022-ibs-c]]). In CIC the absolute risk is likewise small.
-- Diarrhea odds vs placebo are increased for both GC-C agonists with **no significant difference between plecanatide (OR 5.55, 95% CI 1.62–19.00) and linaclotide (OR 8.02, 95% CI 5.20–12.37)** — there are no head-to-head trials, so plecanatide should not be described as better tolerated.
-- No clear outcome differences in patients >65 y (sample too small for formal analysis).
+- **Diarrhea — most common adverse event (AE)** in IBS-C trials: **4.3% vs 1%** placebo; discontinuation for diarrhea **1.2% vs 0%**. Serious adverse events (SAEs) 0.8%, similar to placebo; no diarrhea-related SAEs; 1 death (drowning) judged unrelated ([[aga-2022-ibs-c]]).
+- IBS-C: AE leading to discontinuation RR **5.68** (95% CI 2.10–15.39), **23 more per 1,000** (5–70), moderate certainty ([[aga-2022-ibs-c]] Table 5). CIC: higher risk of diarrhea leading to discontinuation, but the absolute risk seems small ([[aga-acg-2023-constipation]]).
+- **Versus [[linaclotide]]:** diarrhea odds vs placebo — plecanatide OR 5.55 (1.62–19.00), linaclotide OR 8.02 (5.20–12.37), no significant difference between the two ([[acg-2020-ibs]]); odds of diarrhea and diarrhea-related withdrawal similar on meta-regression ([[aga-2022-ibs-c]]).
 
-**Label rates across all four placebo-controlled trials** ([[trulance-2024-plecanatide-label]]):
+**Label rates — 4 placebo-controlled 12-week trials** ([[trulance-2024-plecanatide-label]] §6.1):
 
 | | Plecanatide 3 mg | Placebo |
 |---|---|---|
-| Diarrhea — CIC (n=863 vs 870) | 5% | 1% |
-| Diarrhea — IBS-C (n=723 vs 726) | 4.3% | 1% |
-| **Severe** diarrhea — CIC | **0.6%** | 0.3% |
-| **Severe** diarrhea — IBS-C | **1%** | 0.1% |
-| Discontinued for any reaction — CIC | 4% | 2% |
-| Discontinued for any reaction — IBS-C | 2.5% | 0.4% |
+| Diarrhea — CIC (n = 863 vs 870) | 5% | 1% |
+| Diarrhea — IBS-C (n = 723 vs 726) | 4.3% | 1% |
+| Severe diarrhea — CIC | 0.6% | 0.3% |
+| Severe diarrhea — IBS-C | 1% | 0.1% |
+| Discontinued for diarrhea — CIC | 2% | 0.5% |
+| Discontinued for diarrhea — IBS-C | 1.2% | 0% |
+| Discontinued for any adverse reaction — CIC | 4% | 2% |
+| Discontinued for any adverse reaction — IBS-C | 2.5% | 0.4% |
 
-- **Timing matters for counselling:** most diarrhea starts **within 4 weeks**, but *severe* diarrhea appeared **within the first 3 days** (CIC) and **within the first day** (IBS-C) — so the warning belongs at the first prescription, not at a follow-up visit.
-- **Management of severe diarrhea: suspend dosing and rehydrate** — the label gives no dose reduction.
-- Other reactions above placebo — **CIC (<2%):** sinusitis, upper respiratory tract infection, abdominal distension, flatulence, abdominal tenderness, raised liver biochemical tests (2 patients with alanine aminotransferase (ALT) >5–15× upper limit of normal; 3 with aspartate aminotransferase (AST) >5× upper limit of normal). **IBS-C (1% to <2%):** nausea, nasopharyngitis, upper respiratory tract infection, urinary tract infection, dizziness.
-- **Postmarketing:** hypersensitivity (itching, hives, rash); vomiting.
+> [!pitfall] Severe-diarrhea rate in IBS-C differs by source
+> Label §6.1 gives **1% vs 0.1%** placebo, but label §5.2 states **0.6%** for the IBS-C trials; [[acg-2020-ibs]] reports **0%** in the trials it reviewed ([[trulance-2024-plecanatide-label]]).
 
-> **Severe-diarrhea rate — the guideline and the label disagree.** [[acg-2020-ibs]] reports **0%** severe diarrhea in the IBS-C trials it pooled; the label reports **1%** across its two IBS-C trials. Different trial sets and different ascertainment, but the label is the figure to quote when consenting a patient, because it is the one the manufacturer reports for the marketed drug.
+- **Timing:** most diarrhea within **4 weeks**; severe diarrhea within the **first 3 days** (CIC) and **first day** (IBS-C) ([[trulance-2024-plecanatide-label]] §6.1).
+- **Severe diarrhea:** suspend dosing and rehydrate (§5.2). Counsel patients to stop and contact their clinician if it occurs (§17).
+- **Less common, above placebo** ([[trulance-2024-plecanatide-label]] §6.1):
+  - CIC (<2%): sinusitis, upper respiratory tract infection, abdominal distension, flatulence, abdominal tenderness, raised liver biochemical tests (2 patients with alanine aminotransferase [ALT] >5–15× upper limit of normal [ULN]; 3 with aspartate aminotransferase [AST] >5× ULN).
+  - IBS-C (1% to <2%): nausea, nasopharyngitis, upper respiratory tract infection, urinary tract infection, dizziness; 2 patients with ALT >5–15× ULN.
+- **Postmarketing:** hypersensitivity (itching, hives, rash); vomiting (§6.2).
 
 ## Contraindications
 
-**Two, both absolute** ([[trulance-2024-plecanatide-label]]):
+[[trulance-2024-plecanatide-label]] §4:
 
-- **Age <6 years** — risk of serious dehydration (boxed warning, below).
-- **Known or suspected mechanical gastrointestinal (GI) obstruction.**
-
-> **The guidelines state no contraindication for plecanatide** — [[aga-acg-2023-constipation]] prints the mechanical-obstruction contraindication for **[[linaclotide]] only**, and neither it nor [[aga-2022-ibs-c]] nor [[acg-2020-ibs]] states one for plecanatide. The obstruction contraindication above comes from plecanatide's own label, not by extrapolation from linaclotide's.
+- **Age <6 years** — risk of serious dehydration (boxed warning).
+- **Known or suspected mechanical gastrointestinal obstruction.**
 
 ## Use in Specific Populations
 
-> [!pitfall] "Avoid" and "contraindicated" are different age bands
-> **Contraindicated under 6 years.** **Avoid from 6 to under 18 years.** Safety and effectiveness are unestablished below 18. Plecanatide has **no pediatric indication at any age** — unlike [[linaclotide]], which is indicated down to 2 years for functional constipation ([[trulance-2024-plecanatide-label]]).
+> [!pitfall] Under 6 contraindicated; 6 to under 18 avoid
+> **Contraindicated <6 years. Avoid from 6 to <18 years.** Safety and effectiveness not established <18 years; indicated in adults only ([[trulance-2024-plecanatide-label]]).
 
-- **Boxed warning — serious dehydration in children.** In young juvenile mice (human age equivalent ~1 month to <2 years) a single oral dose caused deaths within 24 h, apparently from dehydration (mortality at 0.5 mg/kg on postnatal day 7, 10 mg/kg on day 14). Increased intestinal GC-C expression is the proposed reason children under 6 are more prone to severe diarrhea. No deaths occurred in older juvenile mice — the 6-to-18 "avoid" rests on the absence of clinical data, not on harm.
-- **Pregnancy:** negligibly absorbed, so maternal use is not expected to produce fetal exposure; human data are insufficient to inform risk. No embryo-fetal harm in mice to 800 mg/kg/day or rabbits to 250 mg/kg/day (maximum recommended human dose ~0.05 mg/kg/day at 60 kg).
-- **Lactation:** after 3 mg daily for 2 weeks, plecanatide and its active metabolite were **not measurable in breast milk** at 2, 6 or 12 h post-dose.
-- **Geriatric:** trials enrolled too few patients ≥65 y (10% of CIC, 8.3% of IBS-C subjects) to determine whether they respond differently. **No adjustment is given** — an absence of evidence, not a statement of safety.
-- **Renal and hepatic impairment: no dose adjustment, and the label carries no such subsection** — consistent with a drug whose plasma concentrations are below the limit of quantitation at 3 mg.
-- **Drug interactions: the label has no interactions section**, consistent with negligible systemic absorption and local luminal action.
+All from [[trulance-2024-plecanatide-label]]:
 
-## Place in Therapy
+- **Pediatric (boxed warning):** single oral doses killed young juvenile mice (human age equivalent ~1 month to <2 years) within 24 h, apparently from dehydration (0.5 mg/kg on postnatal day 7; 10 mg/kg on day 14). Increased intestinal GC-C expression may make children <6 years more prone to diarrhea. No deaths in older juvenile mice; the 6-to-<18 "avoid" rests on the deaths in younger mice plus the lack of pediatric clinical data.
+  - **Accidental ingestion** by children (especially <6 years) may cause severe diarrhea and dehydration → store securely, out of reach; dispose of unused tablets (§17).
+- **Pregnancy:** negligibly absorbed; maternal use not expected to cause fetal exposure. Human data insufficient to inform risk. No embryo-fetal harm in mice up to 800 mg/kg/day or rabbits up to 250 mg/kg/day (maximum recommended human dose ~0.05 mg/kg/day at 60 kg).
+- **Lactation:** after 3 mg daily for 2 weeks, plecanatide and its active metabolite were not measurable in breast milk at 2, 6 or 12 h post-dose; no clinically relevant infant exposure expected.
+- **Geriatric:** too few patients ≥65 years (10% of CIC, 8.3% of IBS-C trial subjects) to tell whether they respond differently; no dose adjustment given ([[trulance-2024-plecanatide-label]] §8.5). [[aga-acg-2023-constipation]]: no clear outcome differences in those >65 years, sample too small for formal analysis.
+- **Renal or hepatic impairment:** no dose adjustment and no label subsection. Plasma concentrations were below the limit of quantitation in the majority of samples after 3 mg (§12.3).
 
-- Alternative to [[linaclotide]] for IBS-C and CIC; **no head-to-head trials**.
-- **CIC:** strong recommendation, alongside [[linaclotide]] and [[prucalopride]]; [[lubiprostone]] is only conditional ([[aga-acg-2023-constipation]]).
-- **IBS-C:** one of the **conditional** options with [[tenapanor]], [[lubiprostone]] and [[tegaserod]]; [[linaclotide]] is the only **strongly** recommended IBS-C agent in [[aga-2022-ibs-c]].
+## Drug Interactions
+
+- No drug-interactions section in the label ([[trulance-2024-plecanatide-label]]).
+- In vitro (§12.3): plecanatide and its active metabolite did not inhibit cytochrome P450 (CYP) 2C9 or 3A4 or induce CYP3A4, and were neither substrates nor inhibitors of P-glycoprotein (P-gp) or breast cancer resistance protein (BCRP).
 
 ---
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[chronic-constipation]], [[linaclotide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[bristol-stool-form-scale]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

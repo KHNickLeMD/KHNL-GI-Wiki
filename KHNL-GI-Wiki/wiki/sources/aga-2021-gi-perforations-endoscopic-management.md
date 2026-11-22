@@ -3,9 +3,10 @@ title: "AGA Clinical Practice Update on Endoscopic Management of Perforations in
 category: source
 tags: [perforation, adverse-events, endoscopic-closure, clips, otsc, endoscopic-suturing, sems, ercp, esd, emr, poem, aga, cpu]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU Endoscopic Management of GI Perforations.pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -18,11 +19,11 @@ raw: "GI Guidelines/AGA/AGA 2021 CPU Endoscopic Management of GI Perforations.pd
 
 ## Summary
 
-This update is the AGA's operating manual for the moment an endoscopist makes a hole. It covers prevention, intraprocedural recognition, and closure, organ by organ — esophagus, stomach, duodenum/periampullary, colon — and is explicit that prospective outcome data on endoscopic therapy of perforations are limited; the entire evidence base is retrospective series. All 16 statements are Best Practice Advice.
+This update is the AGA's operating manual for the moment an endoscopist makes a hole. It covers prevention, intraprocedural recognition, and closure, organ by organ — esophagus, stomach, duodenum/periampullary, colon — and is explicit that prospective outcome data on endoscopic therapy of perforations are limited — closure tools are described mainly in retrospective studies, with few prospective series (e.g., one single-center prospective cohort of 31 patients). All 16 statements are Best Practice Advice.
 
 The generic response is standardized across all four organs. Alert the team; switch to **carbon dioxide insufflation at low flow**; **keep the perforation clean** by suctioning and, if needed, repositioning the patient so the defect is non-dependent; minimize insufflation to avoid compartment syndrome; give **intravenous (IV) antibiotics covering Gram-negative and anaerobic organisms**. Then choose a closure device by **defect size**, which is the single organizing decision of the paper: through-the-scope clips (TTSC) for the smallest defects, over-the-scope clips (OTSC) in the middle, endoscopic suturing (or TTSC + endoloop) for the largest, and a fully covered self-expanding metal stent (SEMS) only when primary closure is not achievable. Two hard stops override all of it: a hemodynamically unstable patient, or a delayed perforation with peritoneal signs/frank peritonitis, **goes to surgery with no endoscopic attempt**. And urgent surgical consultation should be highly considered in *every* perforation, even one that was technically closed.
 
-Organ-specific detail then modifies the size thresholds. Esophagus: TTSC/OTSC for **<2 cm**, endoscopic suturing for **>2 cm**, SEMS reserved for failed primary closure. Stomach: same **<2 cm / >2 cm** split, with TTSC optimal **<1 cm**, OTSC preferable for **1–3 cm**, and endoloop/TTSC combination or suturing for **>3 cm**. Duodenum is the most dangerous — thin wall, angulated C-loop, paradoxical scope motion, and pooled pancreatic proteolytic enzymes that digest exposed muscle at a resection base and drive *delayed* perforation. The duodenal section is organized around the **Stapfer-type scheme**: type 1 (lateral wall tear from the duodenoscope, often >3 cm, usually needs surgery) and type 2 (periampullary/retroperitoneal from an overextended sphincterotomy, subtle and easily missed). Colon: sigmoid is the dominant site of scope-trauma perforation, and the **cecum/right colon is limited to TTSC** because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or suturing device.
+Organ-specific detail then modifies the size thresholds. Esophagus: TTSC/OTSC for **≤2 cm**, endoscopic suturing for **>2 cm**, SEMS reserved for failed primary closure. Stomach: same **≤2 cm / >2 cm** split (suturing or TTSC + endoloop above 2 cm), with TTSC optimal **<1 cm**, OTSC preferable for **1–3 cm**, and endoloop/TTSC combination or suturing for **>3 cm**. Duodenum is the most dangerous — thin wall, angulated C-loop, paradoxical scope motion, and pooled pancreatic proteolytic enzymes that digest exposed muscle at a resection base and drive *delayed* perforation. The duodenal section is organized around the **Stapfer-type scheme**: type 1 (lateral wall tear from the duodenoscope; large tears >3 cm are hard to close endoscopically → urgent surgical consult) and type 2 (periampullary/retroperitoneal from an overextended sphincterotomy, subtle and easily missed). Colon: sigmoid is the dominant site of scope-trauma perforation, and the **cecum/right colon is limited to TTSC** because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or suturing device.
 
 The update also names the procedures that carry increased perforation risk (BPA 4) so the consent conversation and the team preparation happen *before* the case, and closes on documentation: accurate records, prompt disclosure to patient and family, and reporting to the institutional quality officer and risk management team.
 
@@ -39,8 +40,8 @@ The update also names the procedures that carry increased perforation risk (BPA 
 | **BPA 5** | Urgent surgical consultation should be highly considered in all cases with perforation even when endoscopic repair is technically successful. |
 | **BPA 6** | For all upper gastrointestinal perforations, the patient should be considered to be admitted for observation, receive intravenous fluids, be kept nothing by mouth, receive broad-spectrum antibiotics (to cover Gram-negative and anaerobic organisms), nasogastric tube (NGT) placement (albeit some exceptions), and surgical consultation. |
 | **BPA 7** | For upper gastrointestinal tract perforations, a water-soluble upper gastrointestinal series should be considered to confirm the absence of continuing leak at the perforation site before initiating a clear liquid diet. |
-| **BPA 8** | Endoscopic closure of esophageal perforations should be pursued when feasible, utilizing through-the-scope clips (TTSCs) or over-the-scope clips (OTSCs) for perforations <2 cm and endoscopic suturing for perforations >2 cm, reserving esophageal stenting with SEMS for cases where primary closure is not possible. |
-| **BPA 9** | Endoscopic closure of gastric perforations should be pursued when feasible, utilizing TTSCs or OTSCs for perforations <2 cm and endoscopic suturing or combination of TTSCs and endoloop for perforations >2 cm. |
+| **BPA 8** | Endoscopic closure of esophageal perforations should be pursued when feasible, utilizing through-the-scope clips (TTSCs) or over-the-scope clips (OTSCs) for perforations ≤2 cm and endoscopic suturing for perforations >2 cm, reserving esophageal stenting with SEMS for cases where primary closure is not possible. |
+| **BPA 9** | Endoscopic closure of gastric perforations should be pursued when feasible, utilizing TTSCs or OTSCs for perforations ≤2 cm and endoscopic suturing or combination of TTSCs and endoloop for perforations >2 cm. |
 | **BPA 10** | For large type 1 duodenal perforations (lateral duodenal wall tear >3 cm), being cognizant of the difficulty in closing them endoscopically, urgent surgical consultation should be made while the feasibility of endoscopic closure is assessed. |
 | **BPA 11** | Because type 2 periampullary (retroperitoneal) perforations are subtle and can be easily missed, the endoscopist should carefully assess the gas pattern on fluoroscopy to avoid delays in treatment and request a computed tomography scan if there is a concern for such a perforation; identified perforations of this type at the time of ERCP may be closed with TTSCs if feasible and/or by placing a fully covered SEMS into the bile duct across the ampulla. |
 | **BPA 12** | For the management of large duodenal polyps, endoscopic mucosal resection (EMR) should only be performed by experienced endoscopists and endoscopic submucosal dissection (ESD) only by experts because both EMR and ESD in the duodenum require proficiency in resection and mucosal defect closure techniques to manage immediate and/or delayed perforations (caused by the proteolytic enzymes of the pancreas). |
@@ -51,12 +52,12 @@ The update also names the procedures that carry increased perforation risk (BPA 
 
 ### Closure device by defect size
 
-| Organ | <1 cm | 1–2 cm | 2–3 cm | >3 cm | Rescue |
-|---|---|---|---|---|---|
-| **Esophagus** | TTSC or OTSC | TTSC or OTSC | Endoscopic suturing (>2 cm) | Endoscopic suturing | Fully covered SEMS when primary closure is not possible; endoscopic vacuum therapy for large/persistent defects and fistulas |
-| **Stomach** | TTSC optimal | OTSC preferable (1–3 cm) | OTSC preferable | Endoloop + TTSC combination, or endoscopic suturing | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
-| **Duodenum** | TTSC (88%–100% closure for defects <13 mm) | TTSC, OTSC, band ligation, endoloop | Suturing devices | Type 1 >3 cm → **urgent surgical consult** | Covered SEMS across the ampulla for type 2; enteral SEMS is a last resort |
-| **Colon** | TTSC | TTSC or OTSC | OTSC or suturing | Suturing (**not** cecum/right colon) | Right colon/cecum limited to TTSC |
+| Organ | Size rule (BPA) | Device detail in the text | Rescue |
+|---|---|---|---|
+| **Esophagus** | **≤2 cm** TTSC or OTSC; **>2 cm** endoscopic suturing (BPA 8) | — | Fully covered SEMS when primary closure is not possible; endoscopic vacuum therapy for large/persistent defects and fistulas |
+| **Stomach** | **≤2 cm** TTSC or OTSC; **>2 cm** endoscopic suturing or TTSC + endoloop (BPA 9) | TTSC optimal <1 cm; OTSC may be preferable 1–3 cm; endoloop + TTSC or suturing >3 cm | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |
+| **Duodenum** | No size bands; large type 1 (lateral wall tear **>3 cm**) → urgent surgical consult while endoscopic feasibility is assessed (BPA 10) | Small perforations: TTSC, OTSC, band ligation, endoloops (TTSC closure 88%–100% for defects <13 mm); suturing devices may close large defects | Type 2: TTSC and/or fully covered SEMS across the ampulla (BPA 11); enteral SEMS is a last resort |
+| **Colon** | No size bands | TTSC, OTSC, endoscopic suturing (BPA 14); sigmoid tears at colonoscopy → TTSC/OTSC if prep good and patient stable (BPA 13) | Right colon/cecum limited to TTSC (BPA 14) |
 
 ### The first-response sequence at the moment of perforation
 1. **Inform the staff** — trainees, colleagues, nurses, technicians, anesthesiologists.
@@ -124,7 +125,7 @@ The update also names the procedures that carry increased perforation risk (BPA 
 - **Non-iatrogenic causes:** diverticulitis, inflammatory bowel disease, rarely colonic obstruction. **Iatrogenic:** endoscopic resection, hot forceps biopsy, stricture dilation (Crohn's, radiation), colonic stenting, and forceful scope advancement across angulations, into diverticula, or without scope straightening.
 - **Rates:** stricture dilation in Crohn's disease **3%**; colonoscopy with polypectomy **0.8 per 1000**; EMR of large colon polyps **1.5% (96/6595)**.
 - **Site distribution** (systematic review, 19 studies, 744 colon perforations): **sigmoid 63.8% (310)**, cecum 10% (49), transverse 9% (44), rectum 7% (34), ascending 5.6% (27), descending 4.4% (21), hepatic flexure 0.2% (1).
-- **Colorectal stenting:** meta-analysis of 4086 patients — overall perforation **7.4%**; **post-stent dilation 20.4%**; bevacizumab-based therapy **12.5%**; chemotherapy without bevacizumab **7.0%**. A tertiary cancer center series of 199 SEMS placements reported **2.0%**. Age >70 years and sigmoid location were associated with early perforation after SEMS (n=474).
+- **Colorectal stenting:** meta-analysis of 4086 patients — overall perforation **7.4%**; **post-stent dilation 20.4%**; bevacizumab-based therapy **12.5%**; chemotherapy without bevacizumab **7.0%**. A tertiary cancer center series of 199 SEMS placements reported **2.0%**. Age ≥70 years and sigmoid location were associated with early perforation after SEMS (n=474).
 - **EMR technique to avoid colon perforation:**
   1. Use a submucosal injection solution **more viscous than normal saline** — succinylated gelatin, hydroxyethyl starch, or glycerol.
   2. Consider **partially reopening and closing the snare before resection** to let the muscularis propria fall back down.
@@ -133,7 +134,7 @@ The update also names the procedures that carry increased perforation risk (BPA 
   5. When submucosal injection fails to lift the polyp, consider **full-thickness resection** with a full-thickness resection device.
 - **Management:** intraprocedural perforation in a **stable** patient with a **clean** site and no spillage → attempt endoscopic closure. A **rectal** perforation gives the most time and space for TTSC, OTSC, or suturing. In the systematic review, endoscopic clipping was used in **114 cases (15.4%)** and conservative management in **71 (9.1%)**; the remainder were surgical.
 - **Cecum / tortuous or unclean colon:** withdrawing the colonoscope to fit an OTSC may be difficult and dangerous, and suturing may not be reachable — **TTSC only** (BPA 14).
-- **Large sigmoid tears from blunt scope trauma**, hemodynamic instability, or delayed perforation with peritoneal signs → **surgery** (BPA 15).
+- **Large tears** (text), hemodynamic instability or delayed perforation with peritoneal signs/frank peritonitis (BPA 15) → **surgery**.
 
 ### Figures in the source
 - **Figure 1** — endoscopic vacuum therapy for delayed barrier failure after submucosal tunneling endoscopic resection; 8 panels (A–H) showing serial sponge plugs shrinking a 2-cm esophageal opening to a 7-mm pseudodiverticulum over four endoscopies within 2 weeks.
@@ -155,9 +156,9 @@ The update also names the procedures that carry increased perforation risk (BPA 
 - Unblocks *Coverage Gaps → Fillable now* items that touch colonic stenting (perforation rates by stent scenario).
 
 ## Contradictions / Open Questions
-- **Stapfer typing is used but never defined in full.** The update discusses **type 1** and **type 2** duodenal/periampullary perforations in detail but does not print types 3 and 4, nor does it cite Stapfer by name. The complete four-type classification is in the primary paper (Stapfer 2000, *Ann Surg*), not in this update.
-- **Size thresholds are not identical between organs and are stated as inequalities without a tie-breaker.** Esophagus splits at 2 cm; stomach splits at 2 cm in BPA 9 but the body text gives TTSC <1 cm and OTSC 1–3 cm; the esophageal body text gives OTSC as effective for 1–2 cm. Reproduce the BPA thresholds as the decision rule and the body-text ranges as device performance data — they are not in conflict but they are not interchangeable either.
-- **Evidence quality is low throughout.** Every statement is Best Practice Advice from expert opinion; the authors state that prospective outcome studies on endoscopic therapy of perforations are limited and that the literature is retrospective.
+- **Stapfer typing is used but never defined in full.** The update discusses **type 1** and **type 2** duodenal/periampullary perforations in detail but does not print types 3 and 4; Stapfer 2000 appears only as a reference for ERCP perforation risk, not as the source of the typing. The complete four-type classification is in the primary paper (Stapfer 2000, *Ann Surg*), not in this update.
+- **Size thresholds are not identical between organs and are stated as inequalities without a tie-breaker.** Esophagus splits at 2 cm; stomach splits at 2 cm in BPA 9 but the body text gives TTSC <1 cm and OTSC 1–3 cm; the esophageal body text gives OTSC as effective for 1–2 cm. Reproduce the BPA thresholds as the decision rule and the body-text ranges as device performance data — they are not in conflict but they are not interchangeable either. BPA thresholds read as ≤2 cm (underlined sign on the printed page).
+- **Evidence quality is low throughout.** Every statement is Best Practice Advice from expert opinion; the authors state that prospective outcome studies on endoscopic therapy of perforations are limited; most reports are retrospective.
 - **Device availability is US-specific and dated (2021):** "covered duodenal stents are not available in the United States at this time." Treat as time-limited.
 - **POEM orientation.** This update prefers **posterior** POEM on mucosal-injury grounds. [[aga-2024-poem-advances]] and the achalasia guidelines are newer and take precedence on orientation.
 

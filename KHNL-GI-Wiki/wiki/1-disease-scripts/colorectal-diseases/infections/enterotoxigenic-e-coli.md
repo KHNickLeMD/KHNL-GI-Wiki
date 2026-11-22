@@ -50,7 +50,7 @@ ACG grading decides whether antibiotics are given; the full severity table is on
 
 - Other pathogens of travel to resource-challenged countries — [[campylobacter-infection]], [[salmonella-infection]] (typhoidal and nontyphoidal), [[shigellosis]], *Vibrio cholerae*, [[entamoeba-histolytica-infection|*Entamoeba histolytica*]], [[giardiasis|*Giardia*]], [[cryptosporidiosis|*Cryptosporidium*]], *Cyclospora*, *Cystoisospora*, *Blastocystis*. [[idsa-2017-infectious-diarrhea]] (Table 2)
 - The other diarrheagenic *E. coli* pathotypes (enteroaggregative, enteroinvasive, enteropathogenic) — found by the same specialized assays, not by routine culture.
-- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — bloody diarrhea and hemolytic uremic syndrome (HUS); a **different pathotype from ETEC**, with the opposite treatment rule.
+- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]** — bloody diarrhea and hemolytic uremic syndrome (HUS); a **different pathotype from ETEC**, with the opposite treatment rule.
 - Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired (non-travel) diarrhea *(strong recommendation, very low level of evidence)*. [[acg-2016-acute-diarrhea]] (Rec 10)
 - Noninfectious causes of watery diarrhea.
 

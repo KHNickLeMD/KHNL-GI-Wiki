@@ -3,11 +3,11 @@ title: "Esophageal Stricture"
 category: disease-script
 tags: [esophagus, stricture, dysphagia, peptic-stricture, eoe, fibrostenotic, dilation, narrow-caliber-esophagus]
 created: 2026-10-15
-updated: 2026-10-25
+updated: 2026-11-22
 sources: [acg-2025-eoe, asge-2014-dysphagia, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, aga-2022-personalized-gerd, aga-2021-malignant-alimentary-tract-obstruction, aga-2021-gi-perforations-endoscopic-management]
 ---
 
-A fixed structural narrowing of the esophageal lumen causing dysphagia. Often a transmural and fibrotic process — not a mucosal one — which is why it persists after the inflammation that caused it has been treated.
+A fixed structural narrowing of the esophageal lumen causing dysphagia. Benign inflammatory strictures come from collagen and fibrous tissue deposition after severe or chronic esophageal inflammation; malignant strictures from intrinsic luminal tumor growth or extrinsic compression ([[asge-2014-dysphagia]]).
 
 ## Contents
 - [[#Assessment]]
@@ -22,6 +22,7 @@ A fixed structural narrowing of the esophageal lumen causing dysphagia. Often a 
   - [[#When to Look for an Occult Stricture]]
 - [[#Therapeutics]]
   - [[#Dilate the Stricture]]
+  - [[#By Stricture Type]]
   - [[#Treat the Underlying Disease]]
   - [[#Peptic Stricture — Acid Suppression]]
   - [[#Malignant Stricture]]
@@ -35,44 +36,48 @@ A fixed structural narrowing of the esophageal lumen causing dysphagia. Often a 
 
 ### Establishing the Diagnosis
 
-- Dysphagia — classically to solids — plus a demonstrated fixed luminal narrowing on [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]], barium esophagram, or impedance planimetry.
-- **A stricture is a transmural, fibrotic process**, not a mucosal one ([[acg-2025-eoe]]). In [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]], endoscopic ultrasonography shows expansion of the esophageal **mucosa, submucosa, and muscularis propria**.
-- The thickened wall is made of **both inflammation and fibrosis**, and **no imaging technique reliably differentiates the two** ([[acg-2025-eoe]]). This is why short-term anti-inflammatory therapy can widen the lumen — part of the narrowing is reversible.
-- **Normal-looking endoscopy does not exclude a stricture** — see Diagnostics.
+- **Structural disorders typically cause dysphagia to solids alone**; motility disorders typically cause dysphagia to both liquids and solids ([[asge-2014-dysphagia]]).
+- Narrowing confirmed at [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]], barium esophagram, or impedance planimetry — see Diagnostics.
+- **Often viewed as a transmural, fibrotic process** ([[acg-2025-eoe]]). In [[eosinophilic-esophagitis|eosinophilic esophagitis (EoE)]], endoscopic ultrasonography shows expansion of the **mucosa, submucosa and muscularis propria**.
+- EoE wall thickening is likely **both inflammation and fibrosis**; **no imaging technique reliably differentiates the two** ([[acg-2025-eoe]]).
 
 ### Severity Assessment
 
-- **Luminal diameter is the operative measure**, and endoscopy estimates it poorly. Retroflexion at the gastroesophageal junction can help estimate stricture diameter in that area ([[acg-2025-eoe]]).
-- Functional severity is the symptom burden it produces: dysphagia, [[ingested-foreign-body|food impaction]], and the adaptive eating behaviors patients use to work around it.
-- No ingested guideline grades esophageal stricture severity by diameter bands. In EoE, stricture contributes a single point to the EoE Endoscopic Reference Score — the **S** of EREFS, scored 0–1 ([[acg-2025-egd-quality]]); the full score lives on [[eosinophilic-esophagitis]].
+- **Endoscope passage** — the diagnostic endoscope is typically **9 mm** across ([[asge-2014-dysphagia]]):
+  - **Mild** — passes without resistance
+  - **Moderate** — increased resistance
+  - **Severe** — may not be traversable
+- ⚠ Subjective. Objective diameter: **barium radiography**, or the **largest barium tablet** that passes ([[asge-2014-dysphagia]]). Diameter-to-diet thresholds (≤13 mm → dysphagia): [[esophageal-dilation#Before Dilating]].
+- **Retroflexion at the gastroesophageal junction** helps estimate stricture diameter there ([[acg-2025-eoe]]).
+- EoE: stricture is the **S** of the EoE Endoscopic Reference Score (EREFS), graded **0 or 1** ([[acg-2025-egd-quality]]); full score on [[eosinophilic-esophagitis]].
 
 ### Classification / Typing
 
-**Simple vs complex is the classification that drives the dilation technique** ([[asge-2014-dysphagia]]):
+**Simple vs complex** — set by diameter and associated anatomy ([[asge-2014-dysphagia]]):
 
 | Type | Criteria | Why it matters |
 |---|---|---|
-| **Simple** | Short · **symmetric or concentric** lumen · **diameter ≥12 mm**, traversable by an endoscope | Dilates straightforwardly; incremental dilations **>3 mm may be safe** |
-| **Complex** | **>2 cm long** · may be **angulated or irregular** · **diameter <12 mm**. May be associated with a large [[hiatal-hernia\|hiatal hernia]], an esophageal diverticulum, or a tracheoesophageal fistula | **Higher recurrence and higher dilation-related adverse-event rate.** Dilate **wire-guided, preferably under fluoroscopy, or with a through-the-scope balloon** (⊕⊕⊕○, recommend) |
+| **Simple** | Short · **symmetric or concentric** lumen · **diameter ≥12 mm** · traversed easily with an endoscope | Dilation increments **>3 mm may be safe** |
+| **Complex** | Usually **>2 cm long** · may be **angulated or irregular** · **diameter <12 mm** · may be associated with a large [[hiatal-hernia\|hiatal hernia]], esophageal diverticula, or a tracheoesophageal fistula | **Higher recurrence** and **more dilation-related adverse events**; technique in [[#Dilate the Stricture]] |
 
-**Refractory and recurrent are defined numerically, and are not the same thing** ([[asge-2014-dysphagia]]):
+**Refractory vs recurrent** — both mean an anatomic restriction from cicatricial luminal compromise or fibrosis causing dysphagia **without endoscopic evidence of inflammation** ([[asge-2014-dysphagia]]):
 
 | Term | Definition |
 |---|---|
-| **Refractory** | **Cannot be dilated to 14 mm over 5 sessions at 2-week intervals** |
-| **Recurrent** | **Cannot maintain 14 mm for 4 weeks** once that diameter has been achieved |
+| **Refractory** | Cannot be dilated to **14 mm** over **5 sessions** at **2-week intervals** |
+| **Recurrent** | Cannot maintain a satisfactory diameter for **4 weeks** once the **14 mm** target is reached |
 
-- ⚠ **Neither definition includes an inflammatory stricture** — it will not resolve until the inflammation subsides, so repeated dilation is not the answer — **nor dysphagia from neuromuscular dysfunction.** Escalation ladder for the strictures that do qualify: [[esophageal-dilation]].
+- ⚠ **Excluded:** inflammatory strictures (will not resolve until the inflammation subsides) and dysphagia from **neuromuscular dysfunction** with a satisfactory diameter. Escalation ladder: [[esophageal-dilation#When Dilation Alone Is Not Enough]].
 
-Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]]):
+**EoE morphology** ([[acg-2025-eoe]]):
 
 | Type | Description |
 |---|---|
-| **Focal stricture** | Discrete constriction of the esophagus |
-| **Narrow-caliber esophagus** | More diffuse and longitudinal narrowing of the esophagus |
+| **Focal stricture** | Focal constriction of the esophagus |
+| **Narrow-caliber esophagus** | More diffuse, longitudinal narrowing |
 
-- The distinction drives device choice — long and multiple strictures favor a bougie, discrete ones a through-the-scope balloon ([[esophageal-dilation]]).
-- Focal stricture is also a **risk factor for perforation at dilation** in EoE (odds ratio 4.6, 95% confidence interval 1.1–19.7; [[aga-2021-gi-perforations-endoscopic-management]]).
+- **Focal stricture** is a risk factor for **perforation in EoE** (odds ratio 4.6, 95% confidence interval 1.1–19.7; 10 perforations in 511 patients) ([[aga-2021-gi-perforations-endoscopic-management]]).
+- Device choice by morphology: [[esophageal-dilation#Dilator Choice]].
 
 ---
 
@@ -82,20 +87,20 @@ Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]])
 
 | Cause | Pointers |
 |---|---|
-| **Peptic stricture** | **Up to 80% of all benign esophageal strictures**, though falling with widespread proton pump inhibitor use. A **smooth, concentric, fixed narrowing**, most often in the lower esophagus, with or without esophagitis. Needs long-term acid suppression after dilation ([[acg-2025-egd-quality]], [[aga-2022-personalized-gerd]], [[asge-2014-dysphagia]]) |
-| **Schatzki ring** | A **diaphragm-like web at the squamocolumnar junction**, usually marking the **proximal margin of a [[hiatal-hernia\|hiatal hernia]]**. ⚠ **Best detected on barium swallow — it may disappear with air insufflation at endoscopy.** Associated with [[eosinophilic-esophagitis\|EoE]] in several studies, so **biopsy the esophagus if EoE is clinically suspected**. If it cannot be distinguished from a peptic stricture, use **graded stepwise dilation** ([[asge-2014-dysphagia]]) |
-| **Post-esophagectomy anastomotic stricture** | **9%–48%** after esophagectomy for cancer; diagnosed when a standard flexible esophagoscope **cannot be passed across the anastomosis**. Risk factors: **anastomotic leak · ischemia · a stapled rather than hand-sewn anastomosis · gastric pull-up rather than colonic interposition · cardiovascular disease · diabetes mellitus**. Endoscopy also evaluates **local recurrence of malignancy** ([[asge-2014-dysphagia]]) |
-| **Post-radiation stricture** | **2%–16%** after radiotherapy for head and neck or lung cancer; **the majority are complex** and proximal ([[asge-2014-dysphagia]]) |
-| **[[eosinophilic-esophagitis\|EoE]]** | Focal stricture and/or narrow-caliber esophagus; rings, furrows, exudates; food impaction ([[acg-2025-eoe]]) |
-| **[[lymphocytic-esophagitis\|Lymphocytic esophagitis]]** | Endoscopy abnormal in ~70–75%; rings, esophagitis and stricture are the commonest findings ([[aga-2024-esophageal-immunity-infection]]) |
-| **Esophageal lichen planus** | Narrowed caliber of the majority of the esophagus with **multiple** strictures; pale edematous mucosa that peels on scope contact; thick white exudates ([[aga-2024-esophageal-immunity-infection]]) |
-| **Other systemic disease** — Sjögren's, [[crohns-disease\|Crohn's disease]] | Nonspecific stenoses; Crohn's gives inflammatory/stricturing change with granulomas. See [[esophageal-dysfunction-systemic-disease]] |
-| **Malignant stricture** | [[esophageal-cancer\|Esophageal cancer]] or gastric cardia tumor; progressive dysphagia, weight loss. Management differs completely ([[aga-2021-malignant-alimentary-tract-obstruction]]) |
-| **Caustic and radiation-induced strictures** | Named in the ingested sources only as carrying a **higher perforation risk at dilation** than simple rings or peptic strictures ([[aga-2021-gi-perforations-endoscopic-management]]) |
-| **[[barretts-esophagus\|Barrett's]]-associated, [[infectious-esophagitis\|infectious]], and pill-induced strictures** | Considered by history and biopsy |
+| **Peptic stricture** | Reported as **up to 80% of benign esophageal strictures**; incidence falling with widespread proton pump inhibitor use. **Smooth, concentric, fixed narrowing**, usually lower esophagus, with or without esophagitis ([[asge-2014-dysphagia]], [[acg-2025-egd-quality]]) |
+| **Schatzki ring** | **Diaphragm-like web at the squamocolumnar junction**, usually marking the proximal margin of a hiatal hernia. ⚠ **Best detected on barium swallow** — may disappear with air insufflation at endoscopy. Associated with EoE in several studies → **esophageal biopsies should be considered if EoE is clinically suspected** ([[asge-2014-dysphagia]]) |
+| **[[eosinophilic-esophagitis\|EoE]]** | Focal stricture and/or narrow-caliber esophagus; rings, furrows, exudates ([[acg-2025-eoe]]) |
+| **Post-esophagectomy anastomotic stricture** | **9%–48%** after esophagectomy for esophageal cancer; diagnosed when a **standard flexible esophagoscope cannot pass the anastomosis**. Risk factors: anastomotic leak · ischemia · **stapled** (vs hand-sewn) anastomosis · **gastric pull-up** (vs colonic interposition) · cardiovascular disease · diabetes mellitus. Endoscopy also checks for **local cancer recurrence** ([[asge-2014-dysphagia]]) |
+| **Post-radiation stricture** | Proximal strictures in **2%–16%** after radiotherapy for head and neck or lung cancer; **majority complex** ([[asge-2014-dysphagia]]) |
+| **Caustic injury** | Amenable to dilation ([[asge-2014-dysphagia]]); caustic and radiation-induced strictures carry a **higher perforation risk at dilation** than simple rings or peptic strictures ([[aga-2021-gi-perforations-endoscopic-management]]) |
+| **[[lymphocytic-esophagitis\|Lymphocytic esophagitis]]** | Endoscopy abnormal in ~70%–75%; rings, esophagitis and stricture the commonest findings ([[aga-2024-esophageal-immunity-infection]]) |
+| **Esophageal lichen planus** | Narrowed caliber of most of the esophagus (especially proximal and middle) with **multiple strictures**; pale, edematous mucosa that peels on scope contact; thick white exudates ([[aga-2024-esophageal-immunity-infection]]) |
+| **Other systemic disease** | Sjögren's: nonspecific stenoses. [[crohns-disease\|Crohn's disease]]: inflammatory, stricturing or fistulizing change with granulomas, usually with active intestinal disease. See [[esophageal-dysfunction-systemic-disease]] ([[aga-2024-esophageal-immunity-infection]]) |
+| **Malignant stricture** | [[esophageal-adenocarcinoma\|Esophageal adenocarcinoma]], squamous cell carcinoma, pseudoachalasia ([[asge-2014-dysphagia]]); almost three-fourths of [[esophageal-cancer\|esophageal cancers]] present with obstructive dysphagia ([[aga-2021-malignant-alimentary-tract-obstruction]]) |
+| **Other benign causes** | Esophageal web · pill-induced stricture · post-endoscopic therapy stricture · congenital anomalies (tracheoesophageal fistula) · cricopharyngeal bar — all amenable to dilation ([[asge-2014-dysphagia]], Table 2) |
 
-- **A fixed narrowing must be distinguished from a motility disorder** — [[achalasia]] and other spastic disorders cause dysphagia without a structural stricture, and will not respond to standard dilation. EoE itself carries an increased risk of achalasia ([[aga-2024-esophageal-immunity-infection]]).
-- **Extrinsic compression**, [[distal-esophageal-spasm|diffuse esophageal spasm]] and **hypomotility secondary to connective-tissue disease** produce dysphagia that is **not amenable to dilation** ([[asge-2014-dysphagia]]).
+- **Not amenable to dilation** (American Society for Gastrointestinal Endoscopy [ASGE] 2014, Table 2): **extrinsic compression**, [[distal-esophageal-spasm|diffuse esophageal spasm]], **hypomotility from connective-tissue disorders** ([[asge-2014-dysphagia]]).
+- **Motility disorders may not respond to dilation — [[achalasia]] is the notable exception**, treated with 30–40 mm [[pneumatic-dilation|pneumatic balloons]] ([[asge-2014-dysphagia]]). EoE carries an increased risk of achalasia ([[aga-2024-esophageal-immunity-infection]]).
 
 ---
 
@@ -103,27 +108,33 @@ Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]])
 
 ### Endoscopy
 
-- **First-line, but insensitive.** A stricture is obvious only when the lumen precludes or hinders passage of a standard endoscope; against more accurate measures of caliber, endoscopy performs poorly ([[acg-2025-eoe]]). The sensitivity and specificity figures, and the symptomatic-response data behind empiric dilation, are tabulated on [[esophageal-dilation]].
-- EGD is **generally indicated** to confirm and obtain histology of a **stricture or obstruction of the upper tract seen radiologically**, and for **dilation of a stenosis** ([[acg-2025-egd-quality]], Table 4).
-- Biopsy to establish the cause — in particular to exclude malignancy, EoE, and lymphocytic esophagitis.
+> [!pitfall] A normal-looking lumen does not exclude a stricture
+> Strictures are obvious only when the lumen hinders passage of a standard endoscope; against more accurate measures, endoscopy is far less sensitive ([[acg-2025-eoe]]). Sensitivity data: [[esophageal-dilation#Detection]].
+
+- EGD is **generally indicated** to confirm and obtain histology of a **radiologically demonstrated upper-tract stricture or obstruction**, and to manage **stenotic lesions** by balloon or guidewire dilation ([[acg-2025-egd-quality]], Table 4).
+- **Biopsy** ([[asge-2014-dysphagia]]):
+  - **Malignancy suspected** clinically or endoscopically → biopsy the stricture.
+  - **EoE** → proximal and distal esophageal biopsies with dysphagia and suggestive findings, **and** without typical EoE findings when there is no mechanical obstruction.
+  - Mucosal biopsies at the time of dilation **do not appear to add perforation risk**.
+- **Retroflex before dilation** when possible to check the gastric cardia for malignancy or varices ([[asge-2014-dysphagia]]).
 
 ### Barium Esophagram
 
-- More sensitive than endoscopy for a narrowed esophagus, and the test to reach for when endoscopy looks normal but symptoms persist ([[acg-2025-eoe]]).
-- **Children with EoE and dysphagia: an esophagram is suggested for evaluation of fibrostenotic disease** (Recommendation 18; quality of evidence **very low**, strength **conditional**). Esophagram found narrowing in **55% of 22 children** in whom it was not recognized endoscopically, and a **barium-coated pill** found clinically significant narrowing in **3 children** that esophagram alone missed. Consider it in children with unexplained feeding problems, dysphagia, food impaction, or a family history of EoE-related stricture.
-- **Limitation:** an esophagram cannot control for intraesophageal luminal distension pressure.
+- More sensitive than endoscopy for a narrowed esophagus — endoscopy had poor sensitivity against a structured esophagram protocol ([[acg-2025-eoe]]).
+- **Children with EoE and dysphagia: esophagram suggested for fibrostenotic disease** (Recommendation 18; quality of evidence **very low**, strength **conditional**). Esophagram or barium-coated pill can be considered for unexplained feeding problems, dysphagia, food impaction, or a family history of EoE-related stricture ([[acg-2025-eoe]]).
+- **Limitation:** specificity limited — cannot control intraesophageal luminal distension pressure ([[acg-2025-eoe]]).
 
 ### Impedance Planimetry
 
-- [[flip-panometry|The endolumenal functional lumen imaging probe (EndoFLIP)]] measures esophageal wall compliance and detects fibrotic change more sensitively than endoscopy ([[acg-2025-eoe]]).
-- An option when radiation exposure is a concern, including in children.
-- To date used primarily at specialty centers and in research settings.
+- [[flip-panometry|Endolumenal functional lumen imaging probe (EndoFLIP)]] measures wall compliance; **more sensitive than endoscopy** for fibrotic change in EoE ([[acg-2025-eoe]]).
+- Children: may help when the family is concerned about radiation — weigh sedation and endoscopy risks.
+- So far used mainly at specialty centers and in research.
 
 ### When to Look for an Occult Stricture
 
-- **Dysphagia persisting after the inflammation has been treated.** In EoE, symptoms can persist despite histologic and endoscopic remission because of an **undetected stricture**; a barium esophagram could be considered ([[acg-2025-eoe]]).
-- Dietary avoidance or food-modification behaviors in a patient with EoE — the guideline advises a **high level of suspicion** for strictures and esophageal narrowing in exactly this group, because both are difficult to detect on endoscopy.
-- Persistent dysphagia with normal caliber and histologic remission is the setting for **empiric dilation** ([[esophageal-dilation]]).
+- **Dysphagia persisting after EoE inflammation is treated** → undetected stricture possible; **barium esophagram could be considered** ([[acg-2025-eoe]]).
+- **Dysphagia or dietary avoidance/modification behaviors in EoE** → high suspicion for strictures and narrowing ([[acg-2025-eoe]]).
+- **Persistent dysphagia + normal-appearing diameter + histologic remission** in EoE → empiric dilation may be performed ([[acg-2025-eoe]], Table 7; [[esophageal-dilation]]).
 
 ---
 
@@ -131,41 +142,67 @@ Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]])
 
 ### Dilate the Stricture
 
-- Endoscopic dilation is the definitive treatment for the narrowing itself. **Indications, bougie-vs-balloon choice, the "start low and go slow" sizing rules, the dilation-effect endpoint, the ≥16 mm target, and adverse-event rates all live on [[esophageal-dilation]]** — including the finding that perforation risk is **higher for caustic or radiation-induced strictures** than for simple rings or peptic strictures ([[aga-2021-gi-perforations-endoscopic-management]]).
-- In EoE: *"We suggest the use of endoscopic dilation as an adjunct to medical therapy as a treatment for esophageal strictures causing dysphagia in patients with EoE"* (Recommendation 15; quality of evidence **low**, strength **conditional**; [[acg-2025-eoe]]).
-- Perforation recognized at or after dilation → [[endoscopic-management-of-perforation]].
-- **Match the technique to the type** ([[asge-2014-dysphagia]]): a **complex** stricture is dilated **wire-guided under fluoroscopy, or with a through-the-scope balloon** (⊕⊕⊕○, recommend); a **Schatzki ring** needs only a **single large 16–20 mm dilator**, which ruptures it with relief in almost all patients.
-- **Specific types, specific expectations** ([[asge-2014-dysphagia]]):
-  - **Peptic** — Maloney, push-type and balloon dilators perform similarly. Despite acid suppression, **up to 40% have recurrent dysphagia needing repeat dilation**; the usual culprits are a complex stricture, untreated reflux, or **undiagnosed EoE**.
-  - **Anastomotic** — success **up to 93%**, but high recurrence and a **median of 2–9 sessions** per patient. **Electrocautery needle-knife** for dilation-resistant ones: **<1 cm responds to a single treatment, longer strictures need multiple sessions.**
-  - **Post-radiation** — adequate relief of dysphagia in **84%**, usually over several bougie sessions. For complete proximal occlusion, a **combined antegrade–retrograde rendezvous approach** through an existing gastrostomy tract, leaving a small-caliber nasogastric tube to maintain patency.
-  - **EoE** — **do not exceed a maximal diameter of 18 mm** in the 2014 guidance; the current ACG target is ≥16 mm with "dilation effect" as the endpoint ([[acg-2025-eoe]], which governs — see [[esophageal-dilation]]).
+| Setting | Recommendation | Grade |
+|---|---|---|
+| **Benign intrinsic stricture** causing dysphagia | **Recommend** endoscopic dilation (ASGE Recommendation 1) | ⊕⊕⊕⊕ |
+| **Complex stricture** | **Recommend** wire-guided dilation, preferably under fluoroscopy, or through-the-scope (TTS) balloon dilation (ASGE Recommendation 2) | ⊕⊕⊕○ |
+| **Peptic stricture** | **Recommend** antisecretory treatment with dilation to reduce recurrence (ASGE Recommendation 3) | ⊕⊕⊕⊕ |
+| **Recurrent or refractory benign peptic stricture** | **Suggest** adjunctive corticosteroid injection (ASGE Recommendation 5) | ⊕⊕○○ |
+| **Refractory stricture** failing sequential dilation and/or steroid injection | **Suggest** reserving esophageal stent placement for this group (ASGE Recommendation 6) | ⊕⊕○○ |
+| **EoE stricture causing dysphagia** | **Suggest** endoscopic dilation **as an adjunct to medical therapy** (American College of Gastroenterology [ACG] 2025, Recommendation 15) | Low quality; conditional |
+
+*Dilation recommendations for esophageal stricture*
+*Source: built from ASGE 2014 Recommendations 1, 2, 3, 5, 6 and ACG 2025 Recommendation 15*
+*[[asge-2014-dysphagia|ASGE 2014 Dysphagia]] · [[acg-2025-eoe|ACG 2025 EoE]]*
+*ASGE = American Society for Gastrointestinal Endoscopy · ACG = American College of Gastroenterology · TTS = through-the-scope · EoE = eosinophilic esophagitis*
+
+- **EoE — guidelines differ; ACG 2025 governs (newer).** ASGE 2014 Recommendation 4 *recommended* (⊕⊕⊕○) reserving dilation in adults with EoE for a **dominant stricture or ring** or **symptoms despite medical therapy**. ACG 2025: dilation **can be considered for all patients with EoE and a stricture with dysphagia**, alongside medical therapy (Table 7).
+- Steroid dose, stent outcomes, self-bougienage, rule of 3, dilator choice, ≥16 mm EoE target and dilation-effect endpoint: [[esophageal-dilation]].
+- Perforation rates by stricture type: [[esophageal-dilation#Adverse Events]]; recognized perforation → [[endoscopic-management-of-perforation]].
+
+### By Stricture Type
+
+| Type | Approach | Expected outcome |
+|---|---|---|
+| **Peptic** | Maloney, push-type and balloon dilators similarly effective. **Complex peptic** → fluoroscopic guidance, guidewire assistance, or direct visualization | Despite acid suppression, **up to 40%** have recurrent dysphagia needing repeat dilation — usually a **complex stricture, untreated acid reflux, or undiagnosed EoE** |
+| **Schatzki ring** | **Single large 16–20 mm dilator**. Can't tell ring from peptic stricture → **graded stepwise dilation** | Ring rupture and relief in **almost all**; may recur and need repeat dilation |
+| **Anastomotic** | Bougie or balloon. Dilation-resistant → **electrocautery needle-knife** (no long-term data in large series) | Success **up to 93%**, but high recurrence; **median 2–9 sessions**. Needle-knife: **<1 cm** responds to a single treatment, longer strictures may need several |
+| **Post-radiation** | Several bougie sessions may be needed. **Complete proximal occlusion** → combined **antegrade–retrograde rendezvous** through an existing gastrostomy tract; small-caliber nasogastric tube left to keep the lumen open (case reports and series) | Adequate relief of dysphagia in **up to 84%** |
+| **EoE** | ASGE 2014, citing a consensus committee: small-caliber dilators, slow advancement, **maximum 18 mm**; most studies prefer bougie because EoE may involve the whole esophagus, others TTS balloons. Current ACG approach → [[esophageal-dilation#EoE-specific approach]] | — |
+
+*Dilation approach and outcomes by stricture type*
+*Source: built from ASGE 2014 sections on peptic strictures, Schatzki ring, EoE, anastomotic and post-radiation strictures*
+*[[asge-2014-dysphagia|ASGE 2014 Dysphagia]]*
+*EoE = eosinophilic esophagitis · TTS = through-the-scope · ACG = American College of Gastroenterology · ASGE = American Society for Gastrointestinal Endoscopy*
 
 ### Treat the Underlying Disease
 
-- **Dilation treats the stricture, not the disease.** In fibrostenotic EoE, dilation must occur **in conjunction with effective medical and/or dietary anti-inflammatory therapy**, because dilation alone does not impact disease activity ([[acg-2025-eoe]]); agent-by-agent options on [[eoe-therapies]].
-- Short-term medical therapy can **increase esophageal caliber and reduce the need for dilation and the occurrence of food impactions** — the subepithelial inflammatory component is reversible.
-- **Untreated disease strictures the esophagus.** With diagnostic delay, untreated or incompletely treated disease, or gaps in care, EoE progresses from an inflammatory to a fibrostenotic phenotype in most — though not all — patients. Long-term topical steroid therapy lowers rates of food impaction and of dilation, and **interrupting treatment raises the rate of stricture progression**.
+> [!pearl] Dilation treats the stricture, not the disease
+> In fibrostenotic EoE, dilate alongside effective medical or diet elimination anti-inflammatory therapy — dilation alone does not affect disease activity ([[acg-2025-eoe]], Table 7; options on [[eoe-therapies]]).
+
+- Short-term medical therapy can **increase esophageal caliber** and **reduce dilation need and food impactions** — likely via the reversible subepithelial inflammation ([[acg-2025-eoe]]).
+- **Untreated EoE strictures the esophagus:** without treatment or with interruptions, fibrostenotic progression occurs in most, not all, patients. Long-term topical steroids lower food impaction and dilation rates; **interrupting treatment raises stricture progression** ([[acg-2025-eoe]]).
 
 ### Peptic Stricture — Acid Suppression
 
-- **Recommend acid suppression after dilating a peptic esophageal stricture**, absent allergy or other contraindication. This is EGD quality indicator 23 — **performance target >98%, process measure, grade 2B** ([[acg-2025-egd-quality]]).
-- Preferred agent is a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] or another potent acid suppressant; PPIs reduced persistent stricture and redilation versus histamine-2 receptor antagonists in a randomized trial.
-- A **biopsy-proven peptic stricture is an explicit exception to weaning acid suppression** in GERD — these patients *"will require at least single-dose, long-term PPI therapy"* ([[aga-2022-personalized-gerd]]).
+- **EGD quality indicator 23:** acid suppression recommended after dilation of a peptic stricture (no allergy or contraindication) — **performance target >98%**, process measure, grade **2B** ([[acg-2025-egd-quality]]).
+- Preferred: a [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] or another potent acid suppressant. In a randomized double-blind trial, histamine-2 receptor antagonist therapy (ranitidine 150 mg twice daily) had a higher risk of persistent stricture and redilation than a PPI (omeprazole 20 mg daily) ([[acg-2025-egd-quality]]).
+- **Peptic stricture is an exception to weaning acid suppression** in [[gerd|gastroesophageal reflux disease (GERD)]] — these patients *"will require at least single-dose, long-term PPI therapy"* ([[aga-2022-personalized-gerd]]).
 
 ### Malignant Stricture
 
-- Managed as malignant obstruction, not as a benign stricture — the decision turns on whether the patient remains a candidate for resection or chemoradiation. A self-expanding metal stent should **not** be placed routinely without multidisciplinary review in a potentially resectable patient ([[aga-2021-malignant-alimentary-tract-obstruction]]). Full stent selection and palliation detail on [[esophageal-cancer]].
+- Most malignant strictures respond to dilation, but relief may be short-lived and a stent may be needed; dilation also allows gastrostomy, stenting, and completion of the exam including [[endoscopic-ultrasound|endoscopic ultrasound]] staging ([[asge-2014-dysphagia]]).
+- **Potential candidate for resection or chemoradiation → no routine self-expanding metal stent without multidisciplinary review** (American Gastroenterological Association [AGA] Best Practice Advice 2; [[aga-2021-malignant-alimentary-tract-obstruction]]). Stent and palliation detail: [[esophageal-cancer]].
 
 ### Surveillance
 
-- **Do not scope just to recheck a dilated benign stricture.** EGD is **generally not indicated** for *"surveillance during repeated dilation of benign strictures unless status changes"* ([[acg-2025-egd-quality]], Table 4). Repeat endoscopy is driven by a change in symptoms or by monitoring the underlying disease.
+- EGD is **generally not indicated** for *"surveillance during repeated dilations of benign strictures unless there is a change in status"* ([[acg-2025-egd-quality]], Table 4).
 
 ---
 
 ## See Also
 
-[[esophageal-dilation]], [[dysphagia]], [[eosinophilic-esophagitis]], [[eoe-therapies]], [[gerd]], [[proton-pump-inhibitors]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[barretts-esophagus]], [[infectious-esophagitis]], [[achalasia]], [[upper-endoscopy]], [[flip-panometry]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]], [[endoscopic-ultrasound]], [[crohns-disease]], [[hiatal-hernia]], [[distal-esophageal-spasm]]
+[[esophageal-dilation]], [[dysphagia]], [[eosinophilic-esophagitis]], [[eoe-therapies]], [[gerd]], [[proton-pump-inhibitors]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[achalasia]], [[pneumatic-dilation]], [[upper-endoscopy]], [[flip-panometry]], [[endoscopic-management-of-perforation]], [[endoscopic-ultrasound]], [[crohns-disease]], [[hiatal-hernia]], [[distal-esophageal-spasm]], [[ingested-foreign-body]]
 
 ---
 
@@ -177,4 +214,4 @@ Two further morphologies, which behave and dilate differently ([[acg-2025-eoe]])
 4. [[aga-2022-personalized-gerd|AGA Clinical Practice Update on the Personalized Approach to the Evaluation and Management of GERD: Expert Review (2022)]]
 5. [[aga-2021-malignant-alimentary-tract-obstruction|AGA 2021 Clinical Practice Update: Optimal Management of the Malignant Alimentary Tract Obstruction]]
 6. [[asge-2014-dysphagia|ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dysphagia]]
-6. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]
+7. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review]]

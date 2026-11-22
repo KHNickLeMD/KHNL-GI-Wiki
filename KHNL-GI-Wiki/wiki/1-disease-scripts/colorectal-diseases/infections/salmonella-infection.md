@@ -43,7 +43,7 @@ Separately named as risk factors for **invasive** non-typhoidal infection: young
 *Workup: see [[acute-diarrhea]].*
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[shigellosis]], *Yersinia enterocolitica*
-- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS). **The one bloody-diarrhea pathogen you must NOT treat** — the opposite of the rule for *Salmonella*. *(Distinct again from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]], which is watery and noninvasive.)*
+- **[[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]** — bloody diarrhea ± hemolytic uremic syndrome (HUS). **The one bloody-diarrhea pathogen you must NOT treat** — the opposite of the rule for *Salmonella*. *(Distinct again from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]], which is watery and noninvasive.)*
 - Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; needs species-level enzyme immunoassay (EIA)/PCR (microscopy cannot separate it from non-pathogenic *E. dispar*). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare

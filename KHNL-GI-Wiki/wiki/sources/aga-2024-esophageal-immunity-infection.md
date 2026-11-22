@@ -3,9 +3,10 @@ title: "AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered
 category: source
 tags: [esophagus, dysphagia, infectious-esophagitis, candida, hsv, cmv, lymphocytic-esophagitis, eosinophilic-esophagitis, systemic-sclerosis, lichen-planus, achalasia, eosinophilia]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU Esophageal Dysfunction from Immunity & Infection.pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -39,7 +40,7 @@ The recurring theme is a **high index of suspicion**: many of these conditions p
 
 **Infectious esophagitis (diagnosis + treatment):**
 - **Candida** — most common; white nummular lesions (may carpet the esophagus in severe cases); diagnose by cytobrush or biopsy showing fungal forms. Risk factors: recent antibiotics, local/systemic steroids/immunosuppression, malignancy, proton pump inhibitor (PPI) use, older age, chronic alcohol, chronic kidney disease (CKD), diabetes, esophageal stasis. **Fluconazole 200–400 mg/day × 14–21 days** is preferred; nystatin for prophylaxis or when colonization vs infection is unclear.
-- **HSV** — multiple small, shallow, well-circumscribed ulcers; intranuclear eosinophilic inclusions on biopsy. **Acyclovir, valacyclovir, or famciclovir ×10 days (immunocompetent) or ×21 days (immunosuppressed).**
+- **HSV** — multiple small, shallow, well-circumscribed ulcers; intranuclear eosinophilic inclusions on biopsy. **Acyclovir, valacyclovir, or famciclovir for up to 10 days (immunocompetent) or 21 days (immunosuppressed).**
 - **CMV** — few large cratered ulcers; large eosinophilic/basophilic intranuclear inclusions on biopsy. **Ganciclovir (or valganciclovir) up to 6 weeks.**
 - **Human immunodeficiency virus (HIV)** — can cause discrete esophageal ulcerations.
 
@@ -51,11 +52,28 @@ The recurring theme is a **high index of suspicion**: many of these conditions p
 - **Hypereosinophilic syndrome (HES)** — AEC >1500 cells/µL + organ damage from eosinophilic infiltration; up to 38% have GI symptoms; can mimic EoE (distinguished by peripheral eosinophilia, rare in isolated EoE).
 - **EGPA (Churg-Strauss)** — eosinophilic vasculitis, 3 stages (prodromal allergic → eosinophilic → vasculitic); only 30–40% antineutrophil cytoplasmic antibody (ANCA)-positive; esophageal symptoms rare.
 - **SSc** — atrophy/fibrosis of esophageal smooth muscle → severe hypomotility + incompetent lower esophageal sphincter (LES) on [[high-resolution-manometry]]; **MCTD** can resemble SSc (affects striated + smooth muscle). **Sjögren's** — up to 80% report dysphagia. **Myositis** (polymyositis/dermatomyositis/inclusion body) — proximal striated muscle + cricopharyngeus; 30–80% dysphagia; may need cricopharyngeus-directed dilation/botulinum toxin/myotomy.
-- **Esophageal Crohn's** — uncommon in adults (up to 20% in children); superficial/deep ulcerations with active multi-site disease; requires biologic therapy.
+- **Esophageal Crohn's** — uncommon in adults; more frequent in children (one study: 20%); superficial/deep ulcerations with active multi-site disease; requires biologic therapy.
 
 **Dermatologic disease:**
 - **Pemphigus vulgaris** — most common bullous disorder (ages 40–60); erythema, red longitudinal lines, erosions, blisters/ulcers; **direct immunofluorescence (DIF) positive for immunoglobulin G (IgG) + C3 is diagnostic**.
 - **Esophageal lichen planus (ELP)** — most common dermatologic disease to affect the esophagus; **can occur in isolation (33% esophagus-only)**; predilection for Caucasian females, middle/older age; proximal-mid esophageal narrowing/strictures, pale edematous mucosa with peeling/sloughing on contact and thick white exudates; Civatte bodies on biopsy (<50% diagnostic); **increased esophageal cancer risk**; swallowed topical steroids benefit >60%.
+
+**Table 1 — history → diagnosis → tests (condensed; p. 2383):**
+
+| History | Consider | Tests | Supportive endoscopic findings |
+|---|---|---|---|
+| Recent antibiotics | Candida; pill ulcer (e.g., doxycycline) | EGD with biopsies + brushings if nummular lesions | Whitish nummular lesions; 1–2 well-marked ulcers (pill) |
+| Immunosuppression | Candida, HSV, CMV | EGD with biopsies/brushings; consider ID consult if infection | Nummular lesions; shallow ulcers (HSV); deep ulcer(s) (CMV) |
+| Recent COVID | Post-COVID dysmotility/achalasia | EGD to rule out other dx; HRM; timed barium esophagram with pill | Most likely normal-appearing esophagus |
+| Bullous dermatoses (pemphigoid, pemphigus) | Esophageal involvement | EGD with biopsies for routine H&E + extra biopsies for DIF to a pathology center with dermatopathology expertise | Sloughing/blistering, erythema, red longitudinal lines, erosions; Nikolsky-like sloughing (pemphigus) |
+| Lichen planus (oral, skin, genital; middle–older age female) | Esophageal involvement | As for bullous dermatoses (H&E + DIF) | Narrowed caliber of most of the esophagus; pale edematous mucosa peeling on contact; thick white exudates |
+| Atopic dermatitis, asthma, significant food allergy/atopy | EoE | EGD with minimum 3–4 biopsies distal + 3–4 proximal, off PPI ≥2–4 wk; history to rule out HES/EGPA | Edema, rings, exudates, furrows ± stenoses; can be normal |
+| HES or EGPA | EoE-like involvement | EGD with biopsies | EoE-like or normal |
+| Autoimmune disease (Crohn's, scleroderma, lupus, MCTD, Sjögren's, myositis) | Extra-esophageal autoimmune disease (inflammatory or dysmotility) | EGD with biopsies + HRM | Varied; SSc manometry: absent contractility, low-amplitude LES; cricopharyngeal involvement in myositis |
+| Travel/exposure in Central/South America | Chagas with possible achalasia | ID consult if positive; EGD with biopsies; HRM | Normal mucosa vs chronic stasis changes |
+| Female >50 y with dysphagia, often mimicking EoE | LyE | EGD with biopsies for H&E, off PPI ≥2–4 wk | Overlaps with EoE; can be normal |
+
+- Table 1 gives LyE as female **>50 y**; the text says predominantly women **above 60** — the document is internally inconsistent.
 
 **Secondary achalasia:** achalasia is hypothesized to be autoimmune (targeting myenteric neurons); patients have higher odds of autoimmune conditions (odds ratio [OR] up to 3.6). Query for recent COVID, Chagas risk, and eosinophilic/mast-cell disease.
 

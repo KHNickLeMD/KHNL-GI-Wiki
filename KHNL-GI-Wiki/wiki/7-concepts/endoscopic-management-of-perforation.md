@@ -71,7 +71,7 @@ flowchart TD
 
 **Size is the organizing decision of the whole document.**
 
-| Organ | <2 cm | >2 cm | Stent or rescue |
+| Organ | ≤2 cm | >2 cm | Stent or rescue |
 |---|---|---|---|
 | **Esophagus** (BPA 8) | Through-the-scope clips (TTSC) or over-the-scope clips (OTSC) | Endoscopic suturing | Fully covered self-expanding metal stent (SEMS) **only when primary closure is not possible**; endoscopic vacuum therapy for large or persistent defects and fistulas |
 | **Stomach** (BPA 9) | TTSC or OTSC — TTSC optimal **<1 cm**, OTSC preferable **1–3 cm** | Endoscopic suturing, **or** TTSC + endoloop (body text: **>3 cm**) | Omental fat pulled into the lumen and clipped to the defect edges (selected cases) |

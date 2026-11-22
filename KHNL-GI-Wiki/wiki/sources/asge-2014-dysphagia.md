@@ -3,9 +3,10 @@ title: "ASGE 2014: The Role of Endoscopy in the Evaluation and Management of Dys
 category: source
 tags: [dysphagia, esophageal-dilation, esophageal-stricture, schatzki-ring, eosinophilic-esophagitis, achalasia, esophageal-stent, asge, guideline]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-22
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2014 Role of Endoscopy in Dysphagia (Pasha).pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ASGE/ASGE 2014 Role of Endoscopy in Dysphagia (Pasha).pdf"
 
 ## Summary
 
-**The US society document on dysphagia and on esophageal dilation**, and still the current one — no newer American guideline on either exists. Its 8 graded recommendations are about *dilation*, and the bulk of the text is a practical manual: which dilator, how far to push it in one session, when to add a steroid injection or a stent, and what the perforation rate actually is.
+**The ASGE document on the role of endoscopy in dysphagia and on esophageal dilation.** Its 8 graded recommendations are about *dilation*, and the bulk of the text is a practical manual: which dilator, how far to push it in one session, when to add a steroid injection or a stent, and what the perforation rate actually is.
 
 Two definition sets in it are decision-critical and are printed nowhere else in the corpus. **Simple versus complex stricture** — simple is short, symmetric or concentric, and **≥12 mm**, traversable by an endoscope; complex is **longer than 2 cm, angulated or irregular, or <12 mm**. Complex strictures recur more and carry more dilation-related harm. And **refractory versus recurrent** — refractory is **inability to reach a 14 mm diameter over 5 sessions at 2-week intervals**; recurrent is **inability to hold 14 mm for 4 weeks** once that diameter has been achieved. Neither definition includes an inflammatory stricture (which will not settle until the inflammation does) or dysphagia from neuromuscular dysfunction.
 
@@ -44,6 +45,21 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 | 7 | **Discuss both endoscopic and surgical options with every patient with [[achalasia]].** For those choosing endoscopic management who are good surgical candidates, **pneumatic dilation with large-caliber balloon dilators**. | ⊕⊕⊕⊕ |
 | 8 | **Botulinum toxin injection for achalasia in patients who are poor candidates for surgery or pneumatic dilation.** | ⊕⊕⊕○ |
 
+### Ungraded statements on biopsy and malignant strictures
+
+- **Biopsy an esophageal stricture when malignancy is suspected** clinically or endoscopically.
+- **Biopsy the proximal and distal esophagus for EoE** in dysphagia — with endoscopic findings suggestive of EoE, **and also without typical findings** in patients without mechanical obstruction.
+- **Malignant strictures:** most respond to dilation, but relief may be **only short term** (stent may be needed); **extrinsic compression responds poorly** to dilation. Dilation in malignancy facilitates gastrostomy placement, stenting and completing the exam (incl. EUS staging).
+- **Retroflex before dilation** when possible, to look for malignancy or varices in the gastric cardia (an EGD quality indicator).
+
+**Table 2 — common causes of esophageal dysphagia and whether dilation helps:**
+
+| Group | Amenable to dilation | Not amenable |
+|---|---|---|
+| Benign | Peptic stricture, Schatzki ring, esophageal web, EoE, caustic injury, anastomotic stricture, radiation injury, pill-induced stricture, post-endoscopic-therapy stricture, congenital anomalies (tracheoesophageal fistula), cricopharyngeal bar | — |
+| Malignant | Esophageal adenocarcinoma, esophageal squamous cell carcinoma, pseudoachalasia | Extrinsic compression |
+| Motility | Achalasia | Diffuse esophageal spasm; hypomotility from connective tissue disorders |
+
 ### Stricture definitions and the diameters behind them
 
 | Concept | Definition |
@@ -66,7 +82,7 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 | **Balloon — over-the-wire (OTW) or TTS** | **Pure radial force (hoop stress)** along the stricture length | Single-diameter or multiple-size (expand to 3 diameters). **Smaller up to 20 mm** for strictures; **larger 30–40 mm** for pneumatic dilation in achalasia. **TTS needs a 2.8 mm working channel** — not compatible with most small-caliber or pediatric scopes |
 
 - **Radial force is inversely proportional to shear force** — a bougie with a **shorter taper** gives a more effective and safer dilation.
-- **Balloon dilating force is inversely proportional to balloon diameter** — a **larger balloon requires less pressure**, and so is associated with **higher perforation risk**. Force also depends on the stricture's surface area, making balloons more effective in **longer** strictures.
+- **Balloon dilating force is inversely proportional to the diameter of the waist.** A **larger balloon** exerting higher radial force **requires less pressure** but **may carry a higher perforation risk**. Force also depends on the stricture's surface area, making balloons more effective in **longer** strictures.
 - **Balloon technique:** inflate and hold at pressure for **30–60 seconds**, or until a sudden drop in manometric pressure. **No data exist on optimal inflation time.**
 - **Guidewires:** large-caliber (0.89 mm) monofilament or coiled wires predominate; **smaller-caliber wires may help cannulate severe strictures**.
 - **Wire-guided bougie:** position the wire tip in the antrum — about **60 cm from the incisors** in a patient without esophagogastric surgery. Withdraw the dilator while holding the wire in a one-to-one exchange; withdraw dilator and wire together after the last size.
@@ -89,7 +105,7 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 
 - **Dilation with a single large (16–20 mm) dilator ruptures the ring, with symptomatic relief in almost all patients.**
 - Adjuncts: **electrocautery incision with a needle-knife papillotome**, and **4-quadrant biopsies of the ring**; one study found 4-quadrant biopsy alone comparable to bougie dilation.
-- **Several studies report an association between EoE and Schatzki ring — biopsy the esophagus if there is clinical suspicion of EoE.**
+- **Several studies report an association between EoE and Schatzki ring — esophageal biopsies should be considered if there is clinical suspicion of EoE.**
 - **Distinguishing it from a peptic stricture:** a peptic stricture is a **smooth, concentric, fixed narrowing**, most commonly in the lower esophagus, which may occur with or without esophagitis. **A Schatzki ring is a diaphragm-like web at the squamocolumnar junction, usually marking the proximal margin of a [[hiatal-hernia\|hiatal hernia]]**, and is **best detected on barium swallow — it may disappear with air insufflation at endoscopy.** If the two cannot be distinguished, **graded stepwise dilation is recommended**.
 - Like peptic strictures, **Schatzki rings recur and require repeated dilation.**
 
@@ -106,14 +122,14 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 - Reported in **9%–48%** after esophagectomy for esophageal cancer. Diagnosed by dysphagia in whom **a standard flexible esophagoscope cannot be passed across the anastomosis**.
 - **Risk factors: anastomotic leak, ischemia, a stapled (vs hand-sewn) anastomosis, gastric pull-up (vs colonic interposition), and medical comorbidity — cardiovascular disease and diabetes mellitus.**
 - Bougie and balloon both used; **success up to 93%**, but **high recurrence and a median of 2–9 sessions per patient**.
-- **Electrocautery needle-knife** for dilation-resistant strictures: **short strictures (<1 cm) respond to a single treatment; longer strictures need multiple sessions.** Long-term large-series outcomes unavailable.
+- **Electrocautery needle-knife** for dilation-resistant strictures: **short strictures (<1 cm) respond to a single treatment; longer strictures may require multiple sessions.** Long-term large-series outcomes unavailable.
 - Endoscopy also serves to evaluate **local recurrence of malignancy**.
 
 **Post-radiation strictures**
 
 - Proximal esophageal strictures occur in **2%–16%** after radiotherapy for head and neck or lung cancer.
-- **Majority are complex**, and several bougie sessions may be needed. **Adequate relief of dysphagia reported in 84%.**
-- **Combined antegrade–retrograde rendezvous approach** for severe strictures with complete occlusion of the proximal esophagus: a standard scope from above and a small-caliber scope passed **through an existing gastrostomy tract**, aligned with fluoroscopy and transillumination; the stricture is dissected from above, an endoscopic retrograde cholangiopancreatography (ERCP) guidewire passed from below, serial Savary-Gilliard dilators passed over it, and **a small-caliber nasogastric tube left in place to maintain patency**.
+- **Majority are complex**, and several bougie sessions may be needed. **Adequate relief of dysphagia reported in up to 84%.**
+- **Combined antegrade–retrograde rendezvous approach** for severe strictures with complete occlusion of the proximal esophagus: a standard endoscope (after dilation) or a small-caliber endoscope is passed **through an existing gastrostomy tract** into the esophagus, while a second endoscopist views the proximal side with a rigid or flexible endoscope; both are aligned with fluoroscopy and transillumination; the stricture is dissected from above, an endoscopic retrograde cholangiopancreatography (ERCP) guidewire passed from below, serial Savary-Gilliard dilators passed over it, and **a small-caliber nasogastric tube left in place to maintain patency**.
 
 ### Adjuncts for refractory and recurrent strictures
 
@@ -127,8 +143,8 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 **Stents**
 
 - **Uncovered metal stents have been largely replaced by plastic and fully covered metal stents** for benign disease, because of tissue ingrowth.
-- **Plastic stents** (10 studies, 130 patients): placement successful in **98%**, clinical success **52%**. Success **significantly lower for cervical strictures (33% vs 54%, *P*<.05)**. **Migration 24%; major adverse events 9%**, including bleeding, perforation and **1 death**.
-- **Fully covered metal stents** (25 patients): **migration 80%, tissue fistula 48%, esophagobronchial fistula 4%**. In 15 patients, **60% were removed prematurely** for migration, ingrowth or pain, and **recurrent dysphagia occurred in all after removal**.
+- **Plastic stents** (10 studies, 130 patients): placement successful in **98%**, successful dilation **52%**. Clinical success **significantly lower for cervical strictures (33% vs 54%, *P*<.05)**. **Migration 24%; major adverse events 9%**, including bleeding, perforation and **1 death**.
+- **Fully covered metal stents** (25 patients): **migration 80%, new stricture formation 48%, esophagobronchial fistula 4%**. In 15 patients, **60% were removed prematurely** for migration, ingrowth or pain, and **recurrent dysphagia occurred in all after removal**.
 - **Biodegradable (poly-L-lactic acid) stents**: in 13 patients, symptomatic improvement in only 2 and **migration 77%**. In a sequential-placement study (59 stents, 28 patients), median dysphagia-free period **90 days** after the first stent, **clinical success 25%**, major adverse events in 29%; a second stent gave 55 dysphagia-free days and 15% success; a third gave 106 days and **no clinical success in any patient**.
 - ⚠ **Fully covered metal stents and biodegradable stents are not FDA approved for benign esophageal strictures.**
 
@@ -142,7 +158,7 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 - **Moderate sedation in most**; deep sedation or general anesthesia for complex procedures and significant comorbidity.
 - **Dilation is a high-risk procedure for bleeding adverse events.** In patients at low thromboembolic risk, **hold warfarin 5–7 days**; bridging for high thromboembolic risk. **Thienopyridines (e.g. clopidogrel) held 7–10 days.** **Aspirin may be continued** depending on indication. On **dual antiplatelet therapy, defer dilation if possible** until the minimum recommended therapy duration is complete.
 - **Bacteremia 12%–22% after dilation, but infective endocarditis is extremely rare — antibiotic prophylaxis is not recommended** solely to prevent it.
-- **Have standard, pediatric and ultrathin endoscopes and fluoroscopy available** before starting if a complex stricture is anticipated; plus **rat-tooth forceps, a needle-knife papillotome, and triamcinolone**.
+- **Have standard, pediatric and ultrathin endoscopes and fluoroscopy available** before starting if a complex stricture is anticipated; plus **biopsy forceps, a needle-knife papillotome, and triamcinolone** for injection.
 - **Absolute contraindication: esophageal perforation.** Dilate with **caution** after a **recent healed perforation or upper gastrointestinal surgery**.
 - **Perforation 0.1%–0.4%** for esophageal strictures, **higher with complex and radiation-induced strictures**. ⚠ **One study found the perforation rate 4 times greater when the endoscopist had performed fewer than 500 previous diagnostic upper endoscopies.**
 - **Suspect perforation** with severe or persistent chest or abdominal pain, dyspnea, tachycardia or fever after dilation; look for **subcutaneous crepitus** of the chest or neck. **A normal chest radiograph does not exclude it** — water-soluble contrast esophagram or contrast-enhanced computed tomography may be needed. Large-diameter covered metal and expandable retrievable plastic stents have been effective in managing it.
@@ -150,7 +166,7 @@ Graded in the document's own GRADE symbols — ⊕○○○ very low, ⊕⊕○�
 ### Oropharyngeal and achalasia content
 
 - **Oropharyngeal dysphagia:** disorders of the upper esophageal sphincter (UES) or hypopharynx are typically distinguishable from esophageal dysphagia **on a careful history and diagnostic evaluation of the swallowing mechanism**. **Perform esophagogastroduodenoscopy in suspected oropharyngeal dysphagia to exclude alternative or additional pathology, and include a complete examination of the UES and hypopharynx.** Endoscopic dilation and injection therapy have been described for UES dysfunction and cricopharyngeal bars.
-- **Achalasia:** pneumatic dilation uses **30–40 mm balloons** over a wire under fluoroscopy. **Graded 30 mm → 35 mm is safer than starting at 35 mm (perforation 31% vs 4%)**; 30 mm balloons alone failed in **42% within 3 months**; overall perforation risk **3%–5%**. Versus laparoscopic Heller myotomy in a 201-patient randomized trial: **86% vs 90% success at 2 years (*P*=.46)**; **perforation 4% with dilation vs 12% mucosal tears with myotomy**. Meta-analysis (36 studies, 3211 patients): **5-year remission 61.9% dilation vs 76.1% myotomy; 10-year 47.9% vs 79.6%**; perforation **2.4% vs 4.8%**. **Botulinum toxin relief is short-lived — >50% recurrence by 6 months.** By [[chicago-classification-v4|manometric subtype]], **type II responds best** (botulinum 71%, dilation 91%, myotomy 100%) versus **type I 56%** and **type III 29%**. ⚠ **Superseded on the page by [[asge-2020-achalasia]] and [[acg-2020-achalasia]]** — newer, same tier.
+- **Achalasia:** pneumatic dilation uses **30–40 mm balloons** over a wire under fluoroscopy. **Starting at 30 mm then 35 mm may be safer — initial 35 mm dilation has the higher perforation rate (31% vs 4%)**; 30 mm balloons alone failed in **42% within 3 months**; overall perforation risk **3%–5%**. Versus laparoscopic Heller myotomy in a 201-patient randomized trial: **86% vs 90% success at 2 years (*P*=.46)**; **perforation 4% with dilation vs 12% mucosal tears with myotomy**. Meta-analysis (36 studies, 3211 patients): **5-year remission 61.9% dilation vs 76.1% myotomy; 10-year 47.9% vs 79.6%**; perforation **2.4% vs 4.8%**. **Botulinum toxin relief is short-lived — >50% recurrence by 6 months.** By [[chicago-classification-v4|manometric subtype]], **type II responds best** (botulinum 71%, dilation 91%, myotomy 100%) versus **type I 56%** and **type III 29%**. ⚠ **Superseded on the page by [[asge-2020-achalasia]] and [[acg-2020-achalasia]]** — newer, same tier.
 
 ## Relevance to Wiki
 

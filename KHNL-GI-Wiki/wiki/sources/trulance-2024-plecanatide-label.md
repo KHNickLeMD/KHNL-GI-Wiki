@@ -3,9 +3,10 @@ title: "TRULANCE (Plecanatide) Tablets — FDA Prescribing Information"
 category: source
 tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, pediatric, dosing, drug-label, fda]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-22
 sources: []
 raw: "Drug Labels/Trulance Label.pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -23,7 +24,7 @@ The FDA prescribing information for **plecanatide**, a guanylate cyclase-C (GC-C
 
 The label gives **two contraindications** — age **under 6 years**, and known or suspected **mechanical gastrointestinal (GI) obstruction**. The second is the one the wiki could not previously assert: [[aga-acg-2023-constipation]] prints the obstruction contraindication for [[linaclotide]] only, and the page correctly refused to extrapolate it. The label now supplies it directly. The pediatric contraindication carries a **boxed warning**, and as with [[ibsrela-2025-tenapanor-label|tenapanor]] the warning is wider than the contraindication: use is to be **avoided from 6 to under 18 years**, and safety and effectiveness are **unestablished below 18 years**. Plecanatide has **no pediatric indication at any age** — unlike [[linzess-2026-linaclotide-label|linaclotide]], which is indicated down to 2 years for functional constipation.
 
-**No renal or hepatic dose adjustment is given, and the label contains no renal- or hepatic-impairment subsection at all** — plecanatide is minimally absorbed, with plasma concentrations below the limit of quantitation after the 3 mg dose, so standard pharmacokinetic parameters (area under the curve, maximum concentration, half-life) could not be calculated. For the same reason the label describes **no drug interactions** and carries no interactions section.
+**No renal or hepatic dose adjustment is given, and the label contains no renal- or hepatic-impairment subsection at all** — plecanatide is minimally absorbed, with plasma concentrations below the limit of quantitation in most samples after the 3 mg dose, so standard pharmacokinetic parameters (area under the curve, maximum concentration, half-life) could not be calculated. The label has no drug-interactions section; in vitro studies (12.3) showed no CYP2C9/3A4 inhibition, no CYP3A4 induction, and no P-gp/BCRP substrate or inhibitor activity.
 
 The dose is a single strength and a single number for both indications — **3 mg orally once daily**, with or without food — which makes the label's substantive additions the safety material rather than the dosing. Diarrhea is the only common adverse reaction and the only warning besides the pediatric one; the management rule is to **suspend dosing and rehydrate**, not to dose-reduce. The label also prints a tablet-crushing procedure for adults who cannot swallow whole tablets, including administration via a nasogastric or gastric feeding tube — content no ingested guideline covers.
 
@@ -33,6 +34,7 @@ The dose is a single strength and a single number for both indications — **3 m
 
 - Indicated in **adults** for **chronic idiopathic constipation (CIC)** and **irritable bowel syndrome with constipation (IBS-C)**.
 - **3 mg orally once daily** — the same dose for both indications.
+- **6 mg once daily is not recommended** — the 6 mg arms of Studies 1–4 showed no added benefit (and more adverse reactions in CIC) (14.1, 14.2).
 - Take **with or without food**.
 - Missed dose: **skip it** and take the next at the regular time; never two doses at once.
 - Supplied as **3 mg tablets only** (white to off-white, round, debossed "SP" / "3").
@@ -59,7 +61,7 @@ The dose is a single strength and a single number for both indications — **3 m
 | Diarrhea — CIC trials (n=863 vs 870) | 5% | 1% |
 | Diarrhea — IBS-C trials (n=723 vs 726) | 4.3% | 1% |
 | **Severe** diarrhea — CIC | **0.6%** | 0.3% |
-| **Severe** diarrhea — IBS-C | **1%** | 0.1% |
+| **Severe** diarrhea — IBS-C (6.1; section 5.2 prints 0.6%) | **1%** | 0.1% |
 
 - **Timing:** most diarrhea began **within 4 weeks** of starting treatment. Severe diarrhea occurred **within the first 3 days** in CIC and **within the first day** in IBS-C.
 - **Discontinuation for any adverse reaction:** 4% vs 2% (CIC), 2.5% vs 0.4% (IBS-C). Discontinuation for diarrhea specifically: 2% vs 0.5% (CIC), 1.2% vs 0% (IBS-C).
@@ -69,7 +71,7 @@ The dose is a single strength and a single number for both indications — **3 m
 
 **Drug interactions**
 
-- **The label has no drug-interactions section** — consistent with negligible systemic absorption and local action in the gut lumen.
+- **No drug-interactions section**; in vitro (12.3): no CYP2C9/3A4 inhibition or CYP3A4 induction, not a P-gp/BCRP substrate or inhibitor.
 
 **Specific populations**
 
@@ -83,7 +85,7 @@ The dose is a single strength and a single number for both indications — **3 m
 
 - **In applesauce:** crush the tablet to a powder in a clean container, mix with **1 teaspoonful of room-temperature applesauce**, consume the entire mixture **immediately**; do not store.
 - **In water:** place the tablet in a clean cup, add **~30 mL room-temperature water**, swirl **≥10 seconds** (the tablet falls apart), swallow the entire contents immediately; if tablet remains, add another 30 mL, swirl ≥10 s and swallow. Do not store.
-- **Via nasogastric or gastric feeding tube:** tablet in a cup with 30 mL water, swirl **≥15 seconds**; flush the tube with 30 mL water via catheter-tip syringe; draw up and administer immediately; rinse the cup with another 30 mL, swirl ≥15 s and administer via the same syringe; flush the tube with **≥10 mL** water.
+- **Via nasogastric or gastric feeding tube:** tablet in a cup with 30 mL water, swirl **≥15 seconds**; flush the tube with 30 mL water via catheter-tip syringe; draw up and administer immediately; if any tablet is left in the cup, add another 30 mL, swirl ≥15 s and administer via the same syringe; flush the tube with **≥10 mL** water.
 - Mixing crushed tablets in **other soft foods or other liquids has not been tested**.
 
 **Mechanism and pharmacology**
@@ -103,5 +105,5 @@ The dose is a single strength and a single number for both indications — **3 m
 - **No contradiction with the ingested guidelines.** [[aga-acg-2023-constipation]] and [[aga-2022-ibs-c]] both give 3 mg once daily, which is exactly the labelled dose for both indications.
 - **The obstruction contraindication is now a class finding in practice but not in the documents.** [[aga-acg-2023-constipation]] prints it for linaclotide only; the wiki correctly refused to extrapolate. Both labels independently state it, so each drug page now carries it on its own label's authority — not by class inference.
 - **The boxed warning is wider than the contraindication**, and the two are easy to conflate: 6 to <18 years is "avoid", not "contraindicated". Plecanatide's avoid band runs to 18 years, whereas tenapanor's runs only to 12 years — the two labels differ, and neither reason is clinical outcome data.
-- **Severe-diarrhea rate disagrees with [[acg-2020-ibs]].** ACG reports **0%** severe diarrhea in the IBS-C trials it pooled; this label reports **1%** across its two IBS-C trials (and 0.6% in the CIC trials). Different trial sets and different ascertainment rather than a factual conflict, but [[plecanatide]] now carries both figures with the label's as the one to quote when consenting a patient.
+- **Severe-diarrhea rate disagrees with [[acg-2020-ibs]].** ACG reports **0%** severe diarrhea in the IBS-C trials it pooled; this label reports **1%** across its two IBS-C trials in section 6.1 but **0.6%** in section 5.2 (and 0.6% in the CIC trials) — the label is internally inconsistent. Different trial sets and different ascertainment rather than a factual conflict, [[plecanatide]] carries all three figures.
 - **Geriatric dosing is unresolved by the label, not answered.** It states the trials enrolled too few patients ≥65 y to determine a different response, and gives no adjustment — an absence of evidence, not a statement of safety.

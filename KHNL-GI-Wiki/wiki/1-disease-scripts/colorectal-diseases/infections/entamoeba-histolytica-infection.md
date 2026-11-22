@@ -49,7 +49,7 @@ quality_reviewed: 2026-11-13
 
 *Workup: see [[acute-diarrhea]].*
 
-- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **[[shiga-toxin-producing-e-coli|Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)]]** — the last of which must **not** be given antimicrobials; it is a different organism from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
+- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], and **[[shiga-toxin-producing-e-coli|Shiga toxin–producing *E. coli* (STEC)]]** — the last of which must **not** be given antimicrobials; it is a different organism from [[enterotoxigenic-e-coli|enterotoxigenic *E. coli* (ETEC)]]
 - [[clostridioides-difficile|*C. difficile*]] colitis — though bloody stools are not an expected manifestation of it
 - Other protozoa — [[giardiasis]] (watery, non-bloody), [[cryptosporidiosis]]
 - [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started

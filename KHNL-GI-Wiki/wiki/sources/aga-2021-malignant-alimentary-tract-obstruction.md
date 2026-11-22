@@ -3,9 +3,10 @@ title: "AGA 2021 Clinical Practice Update: Optimal Management of the Malignant A
 category: source
 tags: [malignant-obstruction, sems, stent, gastric-outlet-obstruction, esophageal-cancer, colorectal-cancer, palliation, gastrojejunostomy, eus-ge, brachytherapy, aga]
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-22
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU Malignant Alimentary Tract Obstruction.pdf"
+verified: 2026-11-22
 ---
 
 ## Bibliographic Info
@@ -74,8 +75,8 @@ Two negative statements are worth carrying forward: **laser therapy and photodyn
 | Site | Resectable / operable | Not resectable / not operable |
 |---|---|---|
 | **Esophagus / gastric cardia** | **Do not** routinely stent without multidisciplinary team (MDT) review (BPA 2). Enteral feeding tube if malnourished (BPA 3) | SEMS **or** brachytherapy, alone or combined (BPA 4). **Not** laser, **not** PDT |
-| **Gastric outlet** | Life expectancy **>2 months** + good functional status + surgically fit → **surgical gastrojejunostomy (GJ)**, laparoscopic preferred (BPA 6, 7). Endoscopic ultrasound (EUS)-guided gastroenterostomy (EUS-GE) an acceptable alternative where expertise exists (BPA 10) | Enteral stent (BPA 8) — **unless** multiple luminal obstructions or severely impaired gastric motility, where a **venting gastrostomy** is used instead (BPA 9) |
-| **Colon** | SEMS as **bridge to surgery** for one-stage elective resection (BPA 11); also reasonable for **proximal/right-sided** obstruction (BPA 13) | SEMS **or** diverting colostomy, by patient goals and functional status (BPA 12). Extracolonic malignancy: SEMS reasonable but harder and less reliable (BPA 14) |
+| **Gastric outlet** | Life expectancy **>2 months** + good functional status + surgically fit → **surgical gastrojejunostomy (GJ)**, laparoscopic preferred (BPA 6, 7). Endoscopic ultrasound (EUS)-guided gastroenterostomy (EUS-GE) an acceptable alternative where expertise exists (BPA 10) | Not a candidate for surgical **or** EUS-guided GJ → enteral stent (BPA 8); EUS-GE an alternative to the stent where expertise exists (BPA 10) — **unless** multiple luminal obstructions or severely impaired gastric motility, where a **venting gastrostomy** is used instead (BPA 9) |
+| **Colon** | SEMS as **bridge to surgery** for one-stage elective resection (BPA 11); also reasonable for **proximal/right-sided** obstruction (BPA 13) | SEMS **or** diverting colostomy, by patient goals and functional status (BPA 12). Right-sided: SEMS reasonable in the palliative setting too (BPA 13). Extracolonic malignancy: SEMS reasonable but harder and less reliable (BPA 14) |
 
 ### Esophageal obstruction — the data behind BPA 2–5
 
@@ -108,7 +109,7 @@ Two negative statements are worth carrying forward: **laser therapy and photodyn
 - ⚠ **Performance status changes the answer.** For **Eastern Cooperative Oncology Group (ECOG) 0 or 1**, palliative **surgery** had improved overall survival vs SEMS. For **ECOG 2 or 3**, there was **no difference** in overall survival.
 - **Right-sided / proximal obstruction (BPA 13).** Concern has been technical difficulty, but studies of proximal colonic obstruction report high technical and clinical success with minimal or no procedure-related adverse events; one comparison in resectable right-sided cancer found SEMS associated with **lower mortality, lower morbidity, and fewer permanent stomas** than emergency surgery.
 - **Extracolonic malignancy (ECM, BPA 14).** Mechanism differs — **extrinsic compression, mesenteric infiltration and dysmotility** rather than intraluminal growth. An initial study (15 patients) found **clinical success of only 20%** in ECM with more persistent obstructive symptoms and higher adverse-event rates; two later studies (60 and 44 patients) found **no difference** in technical, clinical or adverse-event rates vs colorectal-cancer obstruction. As a bridge to surgery in 9 ECM patients: **100% technical success, 77.8% went on to elective surgery, no SEMS-related adverse events.**
-- **Migration and perforation, colonic.** More recent data including a systematic review/meta-analysis show **UCSEMS have fewer adverse events, longer patency and lower re-intervention rates**, with no difference in technical or clinical success — the reverse of the early studies. Perforation: **bevacizumab has not been associated with higher perforation rates** in recent large retrospective studies (with the caveat that many patients received it outside 6 weeks of stent placement); **sigmoid location and age >70** were associated with **early** perforation, while **flexure location and absence of peritoneal carcinomatosis** were associated with **delayed** perforation.
+- **Migration and perforation, colonic.** More recent data including a systematic review/meta-analysis show **UCSEMS have fewer adverse events, longer patency and lower re-intervention rates**, with no difference in technical or clinical success; early studies had shown UCSEMS with lower migration but higher tumor ingrowth. Perforation: **bevacizumab has not been associated with higher perforation rates** in recent large retrospective studies (with the caveat that many patients received it outside 6 weeks of stent placement); **sigmoid location and age >70** were associated with **early** perforation, while **flexure location and absence of peritoneal carcinomatosis** were associated with **delayed** perforation.
 
 ⚠ **Note the covered-vs-uncovered answer is site-specific and opposite:** in the **esophagus** use **covered** (FCSEMS/PCSEMS, BPA 5); in the **colon**, the more recent data favor **uncovered**. Do not carry one across to the other.
 
@@ -130,7 +131,7 @@ Two negative statements are worth carrying forward: **laser therapy and photodyn
 - **SEMS vs colostomy in non-resectable colonic obstruction is genuinely unresolved in this source** — the 2013 and 2015 meta-analyses disagree on clinical success and survival, and the ECOG-stratified data flip the answer toward surgery in fit patients. BPA 12 accordingly declines to pick one and defers to patient goals and functional status. **Do not write a wiki sentence that picks a winner here.**
 - **Colonic-stent perforation and tumor seeding.** The odds-ratio-46 seeding figure after perforation is from one small single-center retrospective study and the CPU explicitly lists its limitations. Report it as a signal, never as an established risk estimate.
 - **Gastric partitioning at the time of GJ** — retrospective data show no significant clinical difference, a meta-analysis shows benefit. Unsettled.
-- **EUS-GE is expertise- and device-limited.** No dedicated FDA-approved device as of 2021; the 90%+ success figures come from expert centers. Any wiki text must carry that qualifier.
+- **EUS-GE is expertise- and device-limited.** No dedicated FDA-approved device as of 2021; the initial series (90% success, no adverse events) was limited to a few expert endoscopists, and availability is limited.
 - **Age of the source.** This is a 2021 CPU; a newer society statement on luminal stenting or EUS-GE would supersede BPA 10 and BPA 13.
 
 ---
