@@ -11,7 +11,7 @@ Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a drug **class** of in
 
 **Agents:** semaglutide, tirzepatide, exenatide, liraglutide, albiglutide, dulaglutide, lixisenatide ([[aga-2024-glp1-endoscopy]]).
 
-**One member now has a liver indication:** [[semaglutide|semaglutide 2.4 mg]] received **accelerated FDA approval in August 2025** for [[nafld-masld|metabolic dysfunction-associated steatohepatitis (MASH)]] with moderate-to-advanced (F2–F3) fibrosis — a class member, not a class effect; the hepatoprotection is attributed mainly to weight loss rather than a direct hepatic action ([[aasld-2025-semaglutide-mash]]; detail on [[semaglutide]]).
+**One member now has a liver indication:** [[semaglutide|semaglutide 2.4 mg]] received **accelerated Food and Drug Administration (FDA) approval in August 2025** for [[nafld-masld|metabolic dysfunction-associated steatohepatitis (MASH)]] with moderate-to-advanced fibrosis (consistent with stages F2–F3) — an approval for one member, not the class. It is **not approved for MASH cirrhosis** ([[aasld-2025-semaglutide-mash]]). Candidate selection, monitoring and response criteria: [[semaglutide]].
 
 ## Contents
 - [[#Mechanism]]
@@ -43,10 +43,10 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 | Rec 2 — **[[semaglutide\|semaglutide 2.4 mg]]** + lifestyle vs lifestyle alone | Suggests | Conditional, moderate |
 | Rec 3 — **liraglutide 3.0 mg** + lifestyle vs lifestyle alone | Suggests | Conditional, moderate |
 
-- **Semaglutide 2.4 mg may be prioritized over other approved AOMs** for long-term treatment of obesity in most patients, given the magnitude of net benefit.
+- **Semaglutide 2.4 mg may be prioritized over other approved AOMs** for long-term treatment of obesity in most patients, given the magnitude of net benefit (Rec 2 implementation consideration).
 - Both agents have **glucoregulatory benefit** and are also approved for T2DM.
-- AOMs generally need to be used **chronically**; agent choice turns on comorbidities, patient preference, cost, and access.
-- Non-GLP-1 AOMs in the same guideline (phentermine-topiramate extended-release (ER), naltrexone-bupropion ER, phentermine, diethylpropion) are all conditional suggestions; Gelesis100 hydrogel — **no recommendation** (use only in a trial).
+- AOMs generally need to be used **chronically**; agent choice turns on comorbidities, patient preference, cost, and access (Rec 1 implementation consideration).
+- The guideline's non-GLP-1 agents: [[obesity]].
 
 ### Dosing and Titration
 
@@ -74,28 +74,31 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 | Outcome (vs placebo) | Semaglutide 2.4 mg (8 randomized controlled trials [RCTs], 52–72 wk) | Liraglutide 3.0 mg (11 RCTs, ≥52 wk) |
 |---|---|---|
-| Mean difference, % total body weight loss | **10.76%** (95% confidence interval [CI] 8.73–12.80) | **4.81%** (95% CI 4.23–5.39) |
-| Mean weight loss (kg) | mean difference (MD) **10.81 kg** (8.19–13.43) | MD **−5.3 kg** (−5.9 to −4.7) |
-| ≥5% total body weight loss (TBWL) | 82.3% vs 30.6% (relative risk [RR] 2.74) | RR 2.09 (1.80–2.42) |
-| ≥10% TBWL | 64.9% vs 12.3% (RR 5.25) | RR 2.67 (2.14–3.34) |
-| ≥15% TBWL | 46.1% vs 5.4% (RR 7.82) | RR 3.04 (2.25–4.12) |
+| Mean difference (MD), % total body weight loss (TBWL) | **10.76%** (95% confidence interval [CI] 8.73–12.80) | **4.81%** (95% CI 4.23–5.39) |
+| Weight loss (kg) | MD **10.81 kg** (8.19–13.43) | MD **−5.3 kg** (−5.9 to −4.7) |
+| ≥5% TBWL | 82.3% vs 30.6% (relative risk [RR] 2.74, 2.21–3.40) | RR 2.09 (1.80–2.42) |
+| ≥10% TBWL | 64.9% vs 12.3% (RR 5.25, 3.61–7.64) | RR 2.67 (2.14–3.34) |
+| ≥15% TBWL | 46.1% vs 5.4% (RR 7.82, 5.19–11.76) | RR 3.04 (2.25–4.12) |
 
-*No head-to-head trial; these are separate pooled comparisons against placebo/lifestyle control.*
+*No head-to-head trial; these are separate pooled comparisons against placebo/lifestyle control. Trials per outcome — semaglutide: 8 (% TBWL), 6 (kg and thresholds); liraglutide: 8 (% TBWL), 9 (kg), 11 (≥5% and ≥10%), 6 (≥15%).*
 
 ---
 
 ## GI and Other Adverse Effects
 
 - **Delayed gastric emptying** with [[nausea-and-vomiting|nausea and vomiting]] is a class effect; other GI effects include diarrhea and constipation ([[aga-2024-glp1-endoscopy]]).
-- **Increased risk of [[acute-pancreatitis|pancreatitis]] and gallbladder disease** is attributed to the class ([[aga-2022-obesity-pharm]]). Liraglutide FDA Adverse Event Reporting System (FAERS) data (~29,277 patients, 2015–2018): 40 cases of acute pancreatitis (<0.1%) and 17 symptomatic gallstones (<0.05%).
+- **Increased risk of [[acute-pancreatitis|pancreatitis]] and gallbladder disease** is attributed to the class ([[aga-2022-obesity-pharm]]). Liraglutide FDA Adverse Event Reporting System (FAERS) data (~29,277 patients, 2015–2018): 40 cases of acute pancreatitis (<0.1%) and 17 of symptomatic gallstones requiring hospitalization (<0.05%).
 - **Liraglutide** nausea **40%** and vomiting **16%** (vs 14.8% and 4.3% placebo); no significant excess of serious adverse events (AEs) (RR 1.22, 95% CI 1.00–1.50) but discontinuation for AEs was higher (RR 2.31, 1.85–2.88).
-- **Semaglutide** 38% higher risk of serious AEs vs placebo (95% CI 1.10–1.73); discontinuation for AEs **6.4% vs 3.1%** (RR 2.10, 1.54–2.86). **Contraindicated** with personal/family history of **medullary thyroid cancer** or **MEN type 2** (animal data). Full agent-level safety and monitoring: [[semaglutide]].
+- **Semaglutide** 38% higher risk of serious AEs vs placebo (95% CI 1.10–1.73); discontinuation for AEs **6.4% vs 3.1%** (RR 2.10, 1.54–2.86). **Contraindicated** with personal/family history of **medullary thyroid cancer** or **MEN2** (animal data). Full agent-level safety and monitoring: [[semaglutide]].
 
 ---
 
 ## Before Endoscopy
 
-Slowed gastric emptying raises concern for retained gastric contents and aspiration under sedation. AGA advises an **individualized approach — not routine cessation** — and endorses the multisociety position that there are **no data supporting stopping GLP-1 RAs before elective endoscopy** ([[aga-2024-glp1-endoscopy]]). **[[asge-2025-glp1-sglt2-periendoscopic|ASGE 2025]], newer and also tier-1, does give routine elective hold intervals** — the agent-level numbers below. The two agree that urgent and time-sensitive procedures are **not** delayed.
+Slowed gastric emptying raises concern for retained gastric contents and aspiration under sedation.
+
+- **AGA 2024:** suggests an **individualized approach**; cites the multisociety statement "No data to support stopping GLP-1 agonists prior to elective endoscopy"; **insufficient evidence to withhold a dose in patients taking these drugs for diabetes** ([[aga-2024-glp1-endoscopy]]).
+- **[[asge-2025-glp1-sglt2-periendoscopic|American Society for Gastrointestinal Endoscopy (ASGE) 2025]]** (newer, also tier-1): **does give routine elective hold intervals** (Statement 9) — the agent-level numbers below; **recommends against delaying** urgent/emergent (Statement 4) or time-sensitive outpatient (Statement 6) endoscopy.
 
 **Hold before elective endoscopy, by agent** ([[asge-2025-glp1-sglt2-periendoscopic]], Table 1):
 
@@ -107,13 +110,15 @@ Slowed gastric emptying raises concern for retained gastric contents and aspirat
 | Dulaglutide | Subcutaneous | ~5 days | **1 wk** |
 | Exenatide (extended release) | Subcutaneous | ~2 wk | **1 wk** |
 | Semaglutide | Subcutaneous and oral | ~1 wk | **1 wk** |
-| Tirzepatide (dual GIP–GLP-1) | Subcutaneous | ~5 days | **1 wk** |
+| Tirzepatide (dual glucose-dependent insulinotropic polypeptide [GIP]–GLP-1 RA) | Subcutaneous | ~5 days | **1 wk** |
 
-- **The rule in one line: daily dosing → hold ≥24 h; weekly dosing → hold ≥7 days.** The short-half-life daily drugs (2.4–13 h) are what make a 1-day hold workable.
-- ⚠ **ASGE is internally inconsistent on *oral* semaglutide.** Table 1 assigns semaglutide (subcutaneous **and** oral) a **1-week** hold, but the discussion of Statement 8 says the panel **suggests holding oral semaglutide a day before** the procedure — reasoning that it is absorbed in the stomach, is impeded by food, and is therefore taken fasting anyway. Oral semaglutide was the reason for the neutral and dissenting votes on that statement. Both figures are the source's; the discrepancy is unresolved there.
-- **Stopping a weekly agent for 7 days has a glycemic cost.** GLP-1 RAs permit basal insulin reductions of **10%–20%** and prandial reductions of **10%–40%**, with up to **54%** of patients off prandial insulin altogether — so ASGE suggests **bridging antidiabetic therapy** for anyone stopping 1 week before an elective procedure (Statement 10, unanimous).
+- **The rule in one line (Statement 9A–B): daily dosing → hold ≥24 h; weekly dosing → hold ≥7 days.** Time-sensitive outpatient procedure → hold 24 h only if daily-dosed (Statement 8). The short half-lives of the daily drugs (2.4–13 h) make a 1-day hold practical.
+- **Stopping a weekly agent for 7 days has a glycemic cost.** GLP-1 RAs are associated with basal insulin reductions of **up to 10%–20%** and prandial reductions of **10%–40%**, with up to **54%** of patients off prandial insulin altogether — so ASGE suggests **considering bridging antidiabetic therapy** for anyone stopping 1 week before elective endoscopy (Statement 10, unanimous).
 
-The full periprocedural algorithm (urgency triage, symptom assessment, gastric ultrasound, rapid-sequence intubation, clear-liquid day before, and how ASGE, AGA and the American Society of Anesthesiologists (ASA) consensus hold compare) lives on **[[endoscopy-sedation]]** — see that page rather than duplicating it here. Patients on [[sglt2-inhibitors|SGLT-2 inhibitors]] face a different periprocedural problem entirely.
+> [!pitfall] Oral semaglutide: ASGE gives two hold times
+> Table 1 gives semaglutide (subcutaneous **and** oral) a **1-week** hold, but the Statement 8 discussion **suggests holding oral semaglutide a day before** — it is absorbed in the stomach, food impedes absorption, so it is taken fasting. Oral semaglutide drew the neutral/dissenting votes on Statement 8; the source does not reconcile the two ([[asge-2025-glp1-sglt2-periendoscopic]]).
+
+Full periprocedural pathway (urgency triage, symptom check, liquid diet the day before, gastric ultrasound, "full stomach" precautions, and how ASGE, AGA and American Society of Anesthesiologists guidance compare): **[[endoscopy-sedation]]**. [[sglt2-inhibitors|Sodium-glucose cotransporter-2 (SGLT-2) inhibitors]] pose a different periprocedural problem.
 
 ---
 

@@ -3,9 +3,10 @@ title: "USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Scree
 category: source
 tags: [crc, colorectal-cancer, screening, fit, fecal-immunochemical-test, fobt, colonoscopy, colorectal]
 created: 2026-05-24
-updated: 2026-10-04
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/ACG/USMSTF 2016 Fecal Immunochemical Testing to Screen for Colorectal Neoplasia.pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -28,7 +29,7 @@ raw: "GI Guidelines/ACG/USMSTF 2016 Fecal Immunochemical Testing to Screen for C
 
 - Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE), qualitative review without formal meta-analysis.
 - Strong = "we recommend"; weak = "we suggest". Quality: high / moderate / low / very low.
-- **Statements are not numbered.** Table 7 summarizes 10 of them plus 4 program targets; three further graded statements appear only in the text (repeat testing, colonoscopy not repeat FIT after a positive test, FIT over gFOBT).
+- **Statements are not numbered.** Table 7 summarizes 10 of them plus 4 program targets; four further graded statements appear only in the text (repeat testing, colonoscopy not repeat FIT after a positive test, FIT over gFOBT, rapid return of the sample).
 
 ## Key Recommendations
 
@@ -98,14 +99,14 @@ raw: "GI Guidelines/ACG/USMSTF 2016 Fecal Immunochemical Testing to Screen for C
   - Participation: ≥4 RCTs, ~10% absolute increase; 2 meta-analyses, ~20% greater with FIT (fewer samples, no diet or drug restriction).
 - **vs multitarget stool DNA (one-time, OC FIT-CHEK 20 µg/g, ~10,000 people):** stool DNA more sensitive for cancer (92.3% vs 73.8%) and advanced lesions (42.4% vs 23.8%), less specific (86.6% vs 94.9%). Sessile serrated polyps ≥1 cm: FIT 5% vs stool DNA 42% — FIT is ineffective for these.
 - **vs flexible sigmoidoscopy (Table 5):** 3 RCTs — participation higher with FIT in 1 (61% vs 32%), similar in 2; advanced adenoma detection higher with sigmoidoscopy in all 3; cancer detection not significantly different. Simulated sigmoidoscopy (ColonPrev data): advanced neoplasia 6.3% vs 2.7%; proximal advanced neoplasia no different (odds ratio [OR] 1.17; 0.78–1.76).
-- **vs colonoscopy (Table 6):** ColonPrev first round (26,703 colonoscopy vs 26,599 biennial FIT, 15 µg/g) — participation 34.2% FIT vs 24.6%; CRC detection no different; advanced adenoma 1.9% vs 0.9% favoring colonoscopy. Uninsured US population: participation 40.7% FIT vs 24.6%; cancer 0.4% each; advanced neoplasia 1.3% vs 0.8%. Long-term comparative effectiveness awaits 3 ongoing mortality RCTs.
+- **vs colonoscopy (Table 6):** ColonPrev first round (26,703 colonoscopy vs 26,599 biennial FIT, 15 µg/g) — participation 34.2% FIT vs 24.6%; CRC detection no different; advanced adenoma 1.9% vs 0.9% favoring colonoscopy. Uninsured US population: participation 40.7% FIT vs 24.6%; cancer 0.4% each; advanced neoplasia 1.3% colonoscopy vs 0.8% single FIT. Long-term comparative effectiveness awaits 3 ongoing mortality RCTs.
 - **Meta-analysis (mostly non-US):** endoscopic strategies had lower participation than FIT (RR 0.67; 0.56–0.80) but higher advanced-neoplasia detection (RR 3.21; 2.38–4.32).
-- **Sequential testing** (offer one test, then another to decliners) raised participation from 19% to 25% in 2 studies and cancer detection by ~20%.
+- **Sequential testing** (sigmoidoscopy first, fecal blood testing for those who decline) improved participation rates ranging from 19 to 25% in 2 studies and cancer detection by ~20%.
 
 ### Programmatic factors
 
 - **Number of samples:** pooled CRC sensitivity 0.79 (1 sample), 0.77 (2), 0.80 (3); specificity 0.94 / 0.93 / 0.93. Dutch 2-sample FIT raised advanced neoplasia detection (4.1% vs 3.1%) without changing participation; a Korean 2-sample FIT raised CRC sensitivity (92.3% vs 76.9%) with small specificity loss. Cost-effectiveness (MISCAN-Colon [Microsimulation Screening Analysis-Colon]) favored shorter intervals of 1-sample FIT over 2-sample.
-- **Interval:** annual programmatic gFOBT cuts CRC mortality by up to 33%; optimal FIT interval unknown (2 RCTs of annual vs biennial ongoing). Modeling: annual high-sensitivity FIT gave life-years similar to colonoscopy every 10 years. Dutch program: advanced neoplasia detection unaffected by intervals of 1–3 years.
+- **Interval:** annual programmatic gFOBT cuts CRC mortality by up to 33%; optimal FIT interval unknown (2 ongoing RCTs compare colonoscopy with annual or biennial FIT). Modeling: annual high-sensitivity FIT gave life-years similar to colonoscopy every 10 years. Dutch program: advanced neoplasia detection unaffected by intervals of 1–3 years.
 - **Qualitative vs quantitative:** meta-analysis of 4 + 4 brands — CRC sensitivity 77% quantitative vs 85% qualitative, specificity 94% both. Qualitative tests: subjective reading, brand variability, quality-control failures in 2 US tests. US Food and Drug Administration (FDA) requires quantitative tests to be reported as positive/negative. Quantitative systems in the US: OC-Auto Micro 80 and OC-Sensor Diana (Polymedco), i-Chroma (Boditech). Fecal hemoglobin >177 µg/g → advanced neoplasia OR 3.80 (3.07–4.71) (Barcelona, n = 3,109).
 - **Cut-off (meta-analysis):**
 
@@ -119,7 +120,7 @@ raw: "GI Guidelines/ACG/USMSTF 2016 Fecal Immunochemical Testing to Screen for C
 - **Other follow-up tests after a positive stool test:** computed tomography (CT) colonography (5 studies) — sensitivity ≥6 mm 89% (84–92%), specificity 75.4% (59–87%). Colon capsule (n = 62) — sensitivity 95%, specificity 65%; complete exam in 73%.
 - **Upper GI:** in a study pairing FIT with barium meal, gastric cancer detection was 0.15% FIT-positive vs 0.13% FIT-negative.
 - **After recent colonoscopy:** interval FIT in surveillance cohorts found significant neoplasia in 1.8% (first FIT); another detected 12 of 14 CRCs (86%) and 60 of 96 advanced adenomas (63%).
-- **Medications:** aspirin, non-steroidal anti-inflammatory drugs, and anticoagulants did not reduce FIT PPV; sensitivity improved on antiplatelet or anticoagulant therapy with little specificity loss.
+- **Medications:** 2 prospective studies in users of aspirin, non-steroidal anti-inflammatory drugs and anticoagulants showed no negative impact on FIT test characteristics; 3 studies found no loss of PPV in aspirin or anticoagulant users; sensitivity improved on antiplatelet or anticoagulant therapy with little specificity loss.
 - **DRE sample (n = 1,688):** positivity 5.4% vs 3.5% with passed stool → significantly lower PPV for adenoma and cancer.
 - **Temperature:** Italy — each 1 °C rise lowered positivity by 0.7%, 13% fewer advanced neoplasia in summer. Netherlands — OR 0.97 per °C; winter vs summer positivity 9.7% vs 8.0%. Korea (n = 8,316) — at ≥25 °C sample hemoglobin was slightly lower, but positivity and adenoma detection did not differ. France — summer positivity 2.3% vs 3.0%.
 - **Return time:** processing delay ≥5 days lowered positivity (6% vs 8.7%) in one study; up to 10 days had no effect in Dutch and French programs.

@@ -230,7 +230,7 @@ Neither guideline gives a dose for the agents marked —.
 | Percutaneous tibial nerve stimulation | **Should not be used** (Best Practice Advice 5) — no benefit over sham in multiple RCTs including a large trial | May be combined with biofeedback when FI and obstructive defecation coexist ([[rome-v-2026-anorectal-disorders]]) |
 | Intrarectal botulinum A toxin | Reduced FI plus urgency episodes vs placebo in a randomized study | Investigational; of interest for urge FI |
 | SphinKeeper | 10 self-expandable prostheses (**20 mm × 1.8 mm**) implanted in the intersphincteric space | **Prosthetic displacement 14%, anorectal pain 71%** ([[rome-v-2026-anorectal-disorders]]) |
-| Radiofrequency anal sphincter remodeling (SECCA) | **Not routinely recommended** (ACG 2021) — FI improved in 55%–80% but no RCTs and complications in 20% | 465 kHz, 2–5 W to the anorectal junction; ARM and EAUS show no change afterwards |
+| Radiofrequency anal sphincter remodeling (SECCA) | No recommendation statement — ACG 2021 notes initial positive studies but more recent reports of poor long-term results — FI improved in 55%–80% but no RCTs and complications in 20% | 465 kHz, 2–5 W to the anorectal junction; ARM and EAUS show no change afterwards |
 
 > **Rome V 2026 is markedly more sceptical of SNS than [[aga-2017-surgical-device-fecal-incontinence|AGA 2017]]**, whose ladder the pathway above follows: no high-quality multicenter sham-controlled RCT, uncertain mechanism, and clinically meaningful improvement with sham stimulation. Counsel accordingly ([[rome-v-2026-anorectal-disorders]]).
 

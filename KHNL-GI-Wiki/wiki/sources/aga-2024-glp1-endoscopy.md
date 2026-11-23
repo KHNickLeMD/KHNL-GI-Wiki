@@ -3,9 +3,10 @@ title: "AGA Rapid Clinical Practice Update on the Management of Patients Taking 
 category: source
 tags: [glp-1, semaglutide, endoscopy, sedation, aspiration, gastroparesis, periprocedural, cpu]
 created: 2026-07-22
-updated: 2026-11-02
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU GLP-1 Agonists Prior to Endoscopy.pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -22,7 +23,7 @@ Glucagon-like peptide-1 (GLP-1) receptor agonists (GLP-1 RAs; semaglutide, tirze
 
 The AGA emphasizes that the ASA guidance is **expert opinion, not evidence-based** (insufficient data for a GRADE-rated recommendation), and that overapplication may cause unintended harm — added cost, nursing burden, and worsened endoscopy access delays. The AGA endorses an **individualized approach** rather than routine drug cessation, and co-signed the multisociety statement "No data to support stopping GLP-1 agonists prior to elective endoscopy."
 
-Evidence is limited: case reports and small studies show increased gastric residue with GLP-1 RAs, greater retention of **solids than liquids**, and higher residual contents in symptomatic patients; one study found a *protective* effect against retained contents with pre-procedure liquid diet + fasting. There is **no high-level evidence** that holding the drug reliably normalizes gastric motility, nor a defined duration for it to do so.
+Evidence is limited: case reports and small studies show increased gastric residue with GLP-1 RAs, greater retention of **solids than liquids**, and higher residual contents in symptomatic patients; one study found a *protective* effect against retained gastric contents in patients undergoing EGD **plus colonoscopy** (not EGD alone), presumably because of the fasting and liquid diet of bowel preparation. Patients with gastroparesis from other causes (e.g., opioids) also carry aspiration risk yet get no routine dietary or medication changes before upper endoscopy. There is **no high-level evidence** that holding the drug reliably normalizes gastric motility, nor a defined duration for it to do so.
 
 ## Key Findings / Claims
 
@@ -33,7 +34,7 @@ Evidence is limited: case reports and small studies show increased gastric resid
 - If not held but patient has **no gastrointestinal (GI) symptoms** → proceed with **"full stomach" precautions**.
 
 **AGA clinical strategies (individualized; expert opinion):**
-- Take an **individualized approach**; weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit (glycemic control matters before sedation/anesthesia).
+- Take an **individualized approach**; weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit (glycemic control matters before sedation/anesthesia); evidence is insufficient to withhold a dose in patients taking these drugs for diabetes.
 - Note dose, frequency, comorbidities, comedications, and **GI symptoms/side effects** (nausea, vomiting, dyspepsia, early satiety).
 - For patients on GLP-1 RA **solely for weight loss** identified in advance: withholding one dose is reasonable with likely little harm — but this is **not mandatory or evidence-based**, and it is unclear that one held dose reliably restores gastric motility.
 - **Standard perioperative fast** (typically **8 h solids, 2 h liquids**) **AND no symptoms** (nausea, vomiting, dyspepsia, abdominal distention) → **proceed with upper and/or lower endoscopy**.
@@ -52,5 +53,5 @@ Evidence is limited: case reports and small studies show increased gastric resid
 - Cross-linked from [[upper-endoscopy]] and [[colonoscopy]] (pre-procedure preparation) and [[semaglutide]] (periprocedural management of a GLP-1 RA).
 
 ## Contradictions / Open Questions
-- **AGA vs ASA:** ASA consensus advises routinely holding GLP-1 RAs periprocedurally; AGA argues the evidence does not support routine cessation and favors an individualized, symptom-driven approach with standard fasting ± a pre-procedure liquid diet. Both are expert opinion; [[endoscopy-sedation]] follows the AGA position while noting the ASA guidance.
+- **AGA vs ASA:** ASA consensus advises **considering** holding GLP-1 RAs periprocedurally (day of procedure for daily dosing, a week before for weekly); AGA argues the evidence does not support routine cessation and favors an individualized, symptom-driven approach with standard fasting ± a pre-procedure liquid diet. Both are expert opinion; [[endoscopy-sedation]] follows the AGA position while noting the ASA guidance.
 - No evidence defines whether/how long holding a GLP-1 RA restores gastric motility; role of gastric ultrasound in routine practice unproven.

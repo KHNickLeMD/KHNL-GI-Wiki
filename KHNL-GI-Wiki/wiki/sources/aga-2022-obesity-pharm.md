@@ -3,18 +3,20 @@ title: "AGA Clinical Practice Guideline: Pharmacological Interventions for Adult
 category: source
 tags: [obesity, weight-management, semaglutide, glp1, pharmacotherapy, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 Obesity Pharm Mgmt.pdf"
+verified: 2026-11-23
 ---
 
 # AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)
 
 ## Bibliographic Info
 
-- **Article:** [AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2022.08.045)
+- **Article:** [Grunvald E, Shah R, Hernaez R, Chandar AK, Pickett-Blakely O, Teigen LM, Harindhanavudhi T, Sultan S, Singh S, Davitkov P, on behalf of the AGA Clinical Guidelines Committee. AGA Clinical Practice Guideline on Pharmacological Interventions for Adults With Obesity. Gastroenterology 2022;163:1198–1225.](https://doi.org/10.1053/j.gastro.2022.08.045)
+- **Authors:** Grunvald E, Shah R, Hernaez R, Chandar AK, Pickett-Blakely O, Teigen LM, Harindhanavudhi T, Sultan S, Singh S, Davitkov P
 - **Year:** 2022
-- **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **Journal:** Gastroenterology 2022;163:1198–1225
 - **DOI:** [10.1053/j.gastro.2022.08.045](https://doi.org/10.1053/j.gastro.2022.08.045)
 - **Type:** Grading of Recommendations Assessment, Development and Evaluation (GRADE)-based guideline
 
@@ -22,7 +24,7 @@ raw: "GI Guidelines/AGA/AGA 2022 Obesity Pharm Mgmt.pdf"
 
 ## Summary
 
-This American Gastroenterological Association (AGA) guideline recommends **adding pharmacotherapy to lifestyle intervention** for adults with obesity and ranks available agents by efficacy and certainty. It strongly endorses combining drugs with lifestyle change.
+This American Gastroenterological Association (AGA) guideline recommends **adding pharmacotherapy to lifestyle intervention** for adults with obesity; it does not rank agents (head-to-head data are limited), though semaglutide may be prioritized (Rec 2 implementation consideration). It strongly endorses combining drugs with lifestyle change.
 
 ---
 
@@ -62,6 +64,7 @@ Table 1 — AGA Recommendations on Pharmacological Interventions for Management 
 
 **6.** In adults with obesity or overweight with weight-related complications, AGA **suggests against the use of orlistat**. *(Conditional recommendation, moderate quality of evidence.)*
 > *Comment:* Patients who place a high value on the potential small weight loss benefit and low value on GI [gastrointestinal] adverse effects may reasonably choose treatment with orlistat.
+> *Implementation consideration:* patients using orlistat should take a daily multivitamin containing fat-soluble vitamins (A, D, E, K), taken 2 hours apart from orlistat.
 
 **7.** In adults with obesity or overweight with weight-related complications, the AGA **suggests using phentermine with lifestyle modifications**, compared with lifestyle modifications alone. *(Conditional recommendation, low quality of evidence.)*
 > *Implementation considerations:*
@@ -81,7 +84,7 @@ Table 1 — AGA Recommendations on Pharmacological Interventions for Management 
 
 ## Clinical Relevance
 
-Establishes drug therapy as standard adjunct to lifestyle, with **[[semaglutide]] 2.4 mg** the most effective option (tirzepatide post-dates this guideline). Anchors the vault's GLP-1 med note and connects to metabolic liver disease in [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)/metabolic dysfunction–associated steatotic liver disease (MASLD)]].
+Establishes drug therapy as standard adjunct to lifestyle, with **[[semaglutide]] 2.4 mg** the most effective option (tirzepatide was approved only for type 2 diabetes at publication; the guideline notes phase 3 obesity data but makes no recommendation). Anchors the vault's GLP-1 med note and connects to metabolic liver disease in [[nafld-masld|nonalcoholic fatty liver disease (NAFLD)/metabolic dysfunction–associated steatotic liver disease (MASLD)]].
 
 ---
 

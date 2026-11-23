@@ -3,9 +3,10 @@ title: "AGA Clinical Practice Guideline: Management of Pouchitis and Inflammator
 category: source
 tags: [pouchitis, ipaa, ulcerative-colitis, ibd, antibiotics, probiotics, guideline, aga]
 created: 2026-06-04
-updated: 2026-11-21
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf"
+verified: 2026-11-23
 ---
 
 # AGA Clinical Practice Guideline: Pouchitis and Inflammatory Pouch Disorders (2024)
@@ -47,16 +48,16 @@ Table 3 numbering and grades (13 recommendations; all in patients with UC after 
 **Chronic antibiotic-dependent pouchitis** (responds to antibiotics, relapses shortly after stopping)
 - Pouchoscopy to confirm inflammation and rule out alternative causes (both recs).
 - **Rec 6:** Suggests **chronic antibiotic therapy** *(conditional, very low)* — lowest effective dose (e.g., ciprofloxacin 500 mg daily or 250 mg twice daily) with gaps (about 1 week per month), or cycling ciprofloxacin, metronidazole and vancomycin every 1–2 weeks, to reduce resistance.
-- **Rec 7:** Suggests **advanced immunosuppressive therapies** *(conditional; low certainty for vedolizumab, very low for others)* — therapies approved for UC or Crohn's disease (CD), e.g., tumor necrosis factor (TNF)-α antagonists, vedolizumab.
+- **Rec 7:** Suggests **advanced immunosuppressive therapies** *(conditional; low certainty for vedolizumab, very low for others)* — therapies approved for UC or Crohn's disease (CD), e.g., tumor necrosis factor (TNF)-α antagonists, vedolizumab. May be used **in lieu of chronic, continuous antibiotics**, particularly when antibiotics are not tolerated or patients/providers are concerned about long-term antibiotic risks; agents used before colectomy may be reconsidered.
 
 **Chronic antibiotic-refractory pouchitis** (inadequate response to antibiotics)
-- **Rec 8:** Suggests **advanced immunosuppressive therapies** *(conditional; low [vedolizumab] to very low [others])*.
+- **Rec 8:** Suggests **advanced immunosuppressive therapies** *(conditional; low [vedolizumab] to very low [others])*. Vedolizumab is the only advanced therapy with European Medicines Agency approval for this indication; pre-colectomy agents may be reconsidered; some patients keep partial benefit from ongoing antibiotics alongside.
 - **Rec 9:** Suggests **corticosteroids** *(conditional, very low)* — controlled ileal-release budesonide preferred; short duration (<8–12 weeks), with steroid-sparing therapy for long-term use.
 - **Rec 10:** **No recommendation** for or against **mesalamine** *(no recommendation, knowledge gap)*; sulfasalazine may help infrequent episodes, effect in this group unknown.
 
-**Crohn's-like disease of the pouch** (two parallel recommendations; no order stated)
+**Crohn's-like disease of the pouch** (two parallel recommendations; no order stated) — defined (Table 5) by a perianal or other fistula developing **≥12 months after the final stage of IPAA**, stricture of the pouch body or prepouch ileum, and prepouch ileitis; pouchitis often coexists
 - **Rec 11:** Suggests **corticosteroids** *(conditional, very low)* — ileal-release budesonide preferred; short duration (<8 weeks).
-- **Rec 12:** Suggests **advanced immunosuppressive therapies** *(conditional, very low)* — therapies approved for UC or CD.
+- **Rec 12:** Suggests **advanced immunosuppressive therapies** *(conditional, very low)* — therapies approved for UC or CD; pre-colectomy agents may be reconsidered; some patients still need chronic antibiotics for associated pouchitis.
 
 **Cuffitis**
 - **Rec 13:** Suggests **UC-approved therapies, including topical mesalamine and topical corticosteroids** *(conditional, very low)* — topical first line (mesalamine or corticosteroid suppositories, corticosteroid ointment to the cuff); refractory → UC-approved immunosuppressive therapies.

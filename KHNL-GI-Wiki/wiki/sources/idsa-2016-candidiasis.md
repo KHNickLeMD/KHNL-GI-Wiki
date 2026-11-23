@@ -3,9 +3,10 @@ title: "Clinical Practice Guideline for the Management of Candidiasis: 2016 Upda
 category: source
 tags: [candida, candidiasis, infectious-esophagitis, antifungals, fluconazole, echinocandin, idsa]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/Other/IDSA 2016 Management of Candidiasis (Pappas).pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -22,7 +23,7 @@ The Infectious Diseases Society of America (IDSA) 2016 update covers the whole s
 
 Mucosal candidiasis of the oropharynx and esophagus is explicitly in scope even though it is not classically invasive disease. For a gastroenterology reader the document matters for three questions: **VIII (intra-abdominal candidiasis)**, **XVI (oropharyngeal candidiasis)** and above all **XVII (esophageal candidiasis)** — the only ingested source that prints a **fluconazole-refractory** pathway for *Candida* esophagitis, with agents, doses and durations. Question IV covers **chronic disseminated (hepatosplenic) candidiasis**.
 
-The central therapeutic shift from 2009 is that an **echinocandin is first-line initial therapy for candidemia and for empiric therapy in the intensive care unit (ICU)**, with fluconazole demoted to an acceptable alternative in selected, non-critically-ill, azole-naive patients. Mucosal disease runs the other way: **fluconazole is first-line**, and echinocandins and amphotericin B (AmB) are alternatives reserved for intolerance of oral therapy or refractory disease.
+For candidemia, **echinocandins have emerged as the preferred initial agents**, including empiric therapy in the intensive care unit (ICU); fluconazole is an acceptable alternative in selected patients who are not critically ill and are considered unlikely to have a fluconazole-resistant *Candida* species (rec 2). Mucosal disease runs the other way: **fluconazole is first-line**, and echinocandins and amphotericin B (AmB) are alternatives reserved for intolerance of oral therapy or refractory disease.
 
 Numbering and grade vocabulary below are **the document's own** (its executive summary numbers every recommendation 1–140).
 
@@ -33,14 +34,16 @@ Numbering and grade vocabulary below are **the document's own** (its executive s
 - **132.** Oral fluconazole **200–400 mg (3–6 mg/kg) daily × 14–21 days** (strong; high-quality).
 - **133.** Cannot tolerate oral therapy → IV fluconazole **400 mg (6 mg/kg) daily**, OR an echinocandin — micafungin **150 mg daily**, caspofungin **70 mg load then 50 mg daily**, anidulafungin **200 mg daily** (strong; high-quality).
 - **134.** Less preferred alternative when oral therapy is not tolerated: AmB deoxycholate **0.3–0.7 mg/kg daily** (strong; moderate-quality).
-- **135.** **De-escalate to oral fluconazole 200–400 mg (3–6 mg/kg) daily** once oral intake is tolerated (strong; moderate-quality).
+- **135.** **Consider de-escalating to oral fluconazole 200–400 mg (3–6 mg/kg) daily** once oral intake is tolerated (strong; moderate-quality).
 - **136.** **Fluconazole-refractory disease:** itraconazole solution **200 mg daily**, OR voriconazole **200 mg (3 mg/kg) twice daily** IV or oral, **× 14–21 days** (strong; high-quality).
 - **137.** Refractory alternatives: an echinocandin (micafungin **150 mg daily**; caspofungin **70 mg load then 50 mg daily**; anidulafungin **200 mg daily**) **× 14–21 days**, OR AmB deoxycholate **0.3–0.7 mg/kg daily × 21 days** (strong; high-quality).
 - **138.** Posaconazole suspension **400 mg twice daily**, or extended-release tablets **300 mg once daily**, could be considered for refractory disease (weak; low-quality).
 - **139.** **Recurrent esophagitis** → chronic suppressive fluconazole **100–200 mg three times weekly** (strong; high-quality).
 - **140.** HIV-infected patients: **antiretroviral therapy is strongly recommended** to reduce recurrence (strong; high-quality).
 
-> Note the dose asymmetry between mucosal sites: esophageal disease takes **higher doses and longer courses than oropharyngeal disease**, and unlike thrush it is never treated topically.
+- *Evidence summary:* most patients improve or resolve within **7 days** of starting antifungal therapy. Echinocandins are as effective as fluconazole but relapse more often → higher echinocandin doses for esophageal disease than for candidemia.
+
+> Note the dose asymmetry between mucosal sites: esophageal disease takes **higher doses and longer courses than oropharyngeal disease**, and unlike thrush it always requires systemic therapy (rec 131).
 
 ### XVI. Treatment for oropharyngeal candidiasis (122–130)
 - **122.** Mild disease: clotrimazole troches **10 mg 5×/day**, OR miconazole mucoadhesive buccal **50 mg tablet** to the mucosa over the canine fossa once daily, **× 7–14 days** (strong; high-quality).
@@ -110,5 +113,5 @@ Numbering and grade vocabulary below are **the document's own** (its executive s
 ## Contradictions / Open Questions
 - **No contradiction with [[aga-2024-esophageal-immunity-infection]].** AGA 2024 gives fluconazole 200–400 mg/day × 14–21 days for *Candida* esophagitis; IDSA 2016 recommendation 132 is the same dose and duration. The two are complementary — AGA stops at first-line, IDSA continues into the refractory and intolerant pathways.
 - **Empiric treatment before endoscopy (131) vs an endoscopic diagnosis.** IDSA treats a diagnostic antifungal trial as the appropriate first step; the wiki's endoscopic criteria for *Candida* (white nummular plaques, brushings) come from AGA 2024 and apply when the trial fails or the diagnosis is in doubt. Both positions stand.
-- **Species-level susceptibility is assumed, not available.** Most of the refractory-pathway choices turn on whether the isolate is azole-susceptible, and esophageal disease is usually managed without culture or susceptibility testing. The guideline does not address how to choose a refractory agent when no isolate is available.
+- **Species-level susceptibility is assumed, not available.** Most of the refractory-pathway choices turn on whether the isolate is azole-susceptible. The guideline does not address how to choose a refractory agent when no isolate is available.
 - IDSA is **not a GI society**; it enters the wiki under the rule that a non-GI guideline is used only where a GI decision depends on it (here, the esophageal-candidiasis pathway).

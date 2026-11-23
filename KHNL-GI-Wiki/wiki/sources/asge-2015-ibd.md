@@ -3,9 +3,10 @@ title: "ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (201
 category: source
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, colonoscopy, ileoscopy, capsule-endoscopy, chromoendoscopy, dysplasia-surveillance, stricture-dilation, pouch, asge]
 created: 2026-06-23
-updated: 2026-10-14
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2015 Endoscopy in IBD.pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -57,7 +58,7 @@ No statement in this document is graded very low.
 - Cecal/periappendiceal patch with an otherwise normal right colon in UC should **not** be misdiagnosed as CD; patients with a cecal patch have similar rates of remission, relapse and proximal extension to those without.
 - Stricturing disease is rare in UC and raises the possibility of CD or malignancy.
 - Histology: no single criterion is definitive. Chronicity markers — architectural distortion, basal plasmacytosis, increased lamina propria cellularity, pyloric gland metaplasia, Paneth cell metaplasia in the left colon. Granulomas suggest CD but are not pathognomonic (also tuberculosis, fungal/bacterial infection, sarcoidosis, foreign-body reaction, diversion colitis, and crypt-injury-associated granulomas in UC); **only lamina propria granulomas not associated with crypt injury support CD.** Granuloma detection 13.6%–55.6%, higher when biopsies are taken from the edge of ulcers and aphthous erosions.
-- IBD type unclassified (IBD-U) = colon disease not classifiable as UC or CD. *Indeterminate colitis* is reserved for post-colectomy cases unclassified on the resection specimen. Diagnosis was revised in 4% and remained IBD-U in 7% over >22 months of follow-up; ~9% of 843 cases changed diagnosis in a population-based cohort. IBD-U prevalence in pediatric series 5%–30%.
+- IBD type unclassified (IBD-U) = colon disease not classifiable as UC or CD. *Indeterminate colitis* is reserved for post-colectomy cases unclassified on the resection specimen. Diagnosis was revised in 4% and remained IBD-U in 7% over >22 months of follow-up; in a multicenter population-based study of 843 IBD cases (739 with 5 years of follow-up data), only 9% of patients initially classified as UC or CD had a change in diagnosis. IBD-U prevalence in pediatric series 5%–30%.
 
 ### Revised Montreal Classification (Table 2)
 
@@ -98,8 +99,8 @@ L4 is added to L1–L3 as a modifier when upper GI Crohn's disease is also prese
 
 ### Modality roles
 - **Flexible sigmoidoscopy** — inadequate for isolated proximal colitides; preferred when full colonoscopy is high risk (e.g. fulminant colitis). Also useful to define activity in established UC, to evaluate superimposed colitides ([[clostridioides-difficile|Clostridioides difficile]], cytomegalovirus, ischemic colitis) in recurrent or persistent symptoms, and before immunomodulator rescue therapy in steroid-refractory disease to exclude opportunistic infection.
-- **[[upper-endoscopy|Esophagogastroduodenoscopy (EGD)]]** — upper GI involvement proximal to the ligament of Treitz in up to 16% of patients with CD. **Not** recommended routinely in adults suspected of CD; indicated in adults with upper GI symptoms, and in IBD-U where upper tract involvement can establish CD. Take **≥2 biopsies each from esophagus, stomach and duodenum** when sampling for suspected IBD. In pediatric IBD, isolated upper GI granulomas occur in up to 28% of newly diagnosed CD with a normal ileocolonoscopy — hence EGD for all pediatric patients regardless of upper GI symptoms.
-- **[[capsule-endoscopy|Capsule endoscopy (CE)]]** — diagnostic yield 26%–71%. In a 4-way comparison for active small-bowel CD, CE sensitivity 83% (comparable to computed tomography [CT] enterography 83%) but the **lowest specificity of all modalities, 53%**. Absence of CD findings on CE carries a negative predictive value of 96%–100%. Mucosal breaks are **not** diagnostic of CD on their own — infection, ischemia, radiation and NSAID injury mimic them, NSAID injury appears within 1–2 weeks of ingestion, and up to 14% of healthy individuals have mucosal breaks. European Society of Gastrointestinal Endoscopy (ESGE) and European Crohn's and Colitis Organisation (ECCO) advise stopping NSAIDs for 1–2 months before CE.
+- **[[upper-endoscopy|Esophagogastroduodenoscopy (EGD)]]** — upper GI involvement proximal to the ligament of Treitz in up to 16% of patients with CD. **Not** recommended routinely in adults suspected of CD; in IBD-U, upper tract involvement can facilitate a diagnosis of CD. Take **≥2 biopsies each from esophagus, stomach and duodenum** during EGD for suspected upper tract IBD. In pediatric IBD, isolated upper GI granulomas occur in 12%–28% of newly diagnosed CD with no other findings on colonoscopy with ileoscopy; the European Crohn's and Colitis Organization (ECCO) and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN) recommend EGD for all pediatric patients regardless of upper GI symptoms during the initial work-up of suspected pediatric IBD. ASGE's own statement: EGD in pediatric patients with suspected IBD at the time of ileocolonoscopy (Rec 4).
+- **[[capsule-endoscopy|Capsule endoscopy (CE)]]** — diagnostic yield 26%–71%. In a 4-way comparison for active small-bowel CD, CE sensitivity 83% (comparable to computed tomography [CT] enterography 83%) but the **lowest specificity of all modalities, 53%**. Absence of CD findings on CE carries a negative predictive value of 96%–100%. Mucosal breaks are **not** diagnostic of CD on their own — infection, ischemia, radiation and NSAID injury mimic them, NSAID injury appears within 1–2 weeks of ingestion, and up to 14% of healthy individuals have mucosal breaks. European Society of Gastrointestinal Endoscopy (ESGE) and ECCO advise stopping NSAIDs for 1–2 months before CE.
   - **Retention** occurs in up to 13% of patients with suspected or known CD. Precede CE with a radiologic study (CT enterography, magnetic resonance enterography, or small-bowel follow-through) or a patency capsule in established CD. Patients with obstructive symptoms, endoscopic/radiographic narrowing — especially with failure to pass a patency capsule — **should not undergo CE**. A retained capsule above a stricture may respond to anti-inflammatory therapy or balloon-assisted retrieval; otherwise surgery.
 - **[[device-assisted-enteroscopy|Enteroscopy]]** — limited initial role (CE and radiology have higher yield and less invasiveness); reserved for abnormalities within reach, for histology, stricture dilation, hemostasis or foreign-body retrieval. Overall yield of balloon-assisted enteroscopy in suspected CD 30%–59%; adverse events ~1% for diagnostic enteroscopy (double-balloon systematic review: minor 9.1%, major 0.72%). Balloon-assisted dilation of symptomatic CD strictures succeeds in ~70% with adverse events 8%–11%; **dilation may be less successful for small-bowel strictures >3 cm in length.**
 - **[[endoscopic-ultrasound|EUS]]** — accuracy for classifying perianal fistula anatomy 91% (vs magnetic resonance imaging [MRI] 87%, examination under anesthesia 91%, any 2 methods combined 100%). A meta-analysis found MRI may be superior for fistula detection (sensitivity/specificity 87%/69% vs 87%/43% for EUS, with high heterogeneity). ECCO recommends pelvic MRI as the initial evaluation of choice; EUS can monitor medical and surgical therapy.
@@ -128,9 +129,9 @@ L4 is added to L1–L3 as a modifier when upper GI Crohn's disease is also prese
 | **Surveillance** | Every 1–3 y.<br/>Optimal surveillance interval not defined.<br/>Annual surveillance merited by any of: active inflammation; anatomic abnormality (stricture, multiple pseudopolyps); history of dysplasia; family history of CRC in a first-degree relative; PSC.<br/>Endoscopically and histologically normal mucosa on ≥2 surveillance colonoscopies → the interval can be lengthened. |
 | **Recommended technique** | Chromoendoscopy with pancolonic dye spraying and targeted biopsies is sufficient for surveillance in IBD; consider 2 biopsies from each colon segment for histologic staging.<br/>**or** random biopsies with targeted biopsies of any suspicious lesions — a reasonable alternative if chromoendoscopy is not available, or if its yield is reduced by significant underlying inflammation, pseudopolyposis or poor preparation.<br/>Pancolitis: 4-quadrant biopsies every 10 cm from cecum to rectum, **minimum 33 biopsies**.<br/>No pancolitis: 4-quadrant biopsies every 10 cm limited to the greatest extent of endoscopic or histologic involvement documented by any colonoscopy. |
 | **Nomenclature for detected dysplasia** | Location: within or outside an area of known colitis.<br/>Borders: distinct or indistinct.<br/>Morphology: polypoid or non-polypoid.<br/>Ulceration.<br/>Features of submucosal invasion. |
-| **Comments** | Extent of colonic involvement defined by the greatest extent of endoscopic **or** histologic involvement documented by any colonoscopy.<br/>Isolated proctitis does not confer increased risk of IBD-related CRC.<br/>Patients with PSC begin surveillance colonoscopy at the time of PSC diagnosis, then yearly. |
+| **Comments** | Extent of colonic involvement defined by the greatest extent of endoscopic **or** histologic involvement documented by any colonoscopy.<br/>Isolated proctitis does not confer increased risk of IBD-related CRC.<br/>Prior isolated proctitis: screening colonoscopy still recommended (colitis may have progressed); reasonable to biopsy the proximal colon to exclude microscopic extension (text, p.1108).<br/>Patients with PSC begin surveillance colonoscopy at the time of PSC diagnosis, then yearly. |
 
-- CRC risk rises with longer duration and greater extent of severe colitis, family history of CRC, young age at disease onset, PSC, prior dysplasia, and stricturing disease.
+- CRC risk rises with longer duration and greater extent of severe colitis, family history of CRC, young age at disease onset, PSC, prior dysplasia, and — in UC — stricturing disease.
 - Random biopsies sample <1% of total colon mucosa; one review estimated detection of only one additional neoplasia episode per 1266 random biopsies. 4-quadrant biopsies **every 5 cm in the left colon** may be considered given the higher frequency of left-sided CRC in UC.
 - Chromoendoscopy contrast agents: **0.1% methylene blue or 0.03%–0.5% indigo carmine**, sprayed segmentally on withdrawal after insertion to the cecum with white-light endoscopy; excellent preparation required. Meta-analysis: 7% incremental yield over white-light with random biopsies (95% CI 3.3%–10.3%), number needed to treat **14.3** (95% CI 9.7–30.3) to detect one additional patient with dysplasia or cancer. Chromoendoscopy vs high-definition white-light in a tandem study: 21.3% vs 9.3% detection (*P* = .004).
 - **Narrow-band imaging has not increased dysplasia yield** vs standard- or high-definition white-light, nor vs chromoendoscopy; other advanced imaging requires substantial training and current data do not support routine use.
@@ -142,20 +143,32 @@ L4 is added to L1–L3 as a modifier when upper GI Crohn's disease is also prese
 
 ```mermaid
 flowchart TD
-    A["Endoscopically visible lesion within colitis<br/>(consider selective concentrated dye —<br/>indigo carmine or methylene blue)"] --> B{"Discrete lesion<br/>with distinct borders?"}
-    B -->|No| U["ENDOSCOPICALLY UNRESECTABLE"]
-    B -->|Yes| C["Polypoid (pedunculated/sessile)<br/>or non-polypoid (slightly elevated,<br/>flat, depressed)"]
-    C --> D{"Features of<br/>submucosal invasion?"}
-    D -->|Yes| U
-    D -->|"No (except small, depressed lesion)"| R["ENDOSCOPICALLY RESECTABLE"]
-    R --> S["Snare polypectomy or EMR;<br/>EMR or ESD; flat/depressed lesions<br/>only by endoscopists skilled in EMR/ESD —<br/>consider referral if necessary"]
-    S --> T["Biopsy flat normal-appearing mucosa<br/>surrounding resection site<br/>(separate container) → tattoo site →<br/>review histology"]
-    T --> V{"Successful resection of<br/>histologically confirmed dysplasia?"}
-    V -->|Yes| W["Close endoscopic surveillance at<br/>1–6 and 12 months, with biopsies<br/>of the resection site"]
-    V -->|"No — incomplete resection"| X["Repeat colonoscopy with<br/>attempted resection"]
-    V -->|"Dysplasia at the base of the lesion<br/>or malignant histology"| U
-    U --> Y["Biopsy; tattoo"] --> Z{"Dysplasia/cancer<br/>confirmed?"} -->|Yes| AA["Proctocolectomy"]
+    A(["Endoscopically visible lesion within colitis<br/>(consider selective concentrated dye:<br/>indigo carmine or methylene blue)"]) --> B["Discrete lesion<br/>with distinct borders?"]
+    B -- "No" --> U["ENDOSCOPICALLY UNRESECTABLE"]
+    B -- "Yes: polypoid<br/>(pedunculated or sessile)" --> R["ENDOSCOPICALLY RESECTABLE"]
+    B -- "Yes: non-polypoid<br/>(slightly elevated, flat, depressed)" --> D["Features of<br/>submucosal invasion?"]
+    D -- "Yes" --> U
+    D -- "No: slightly elevated or flat" --> R
+    D -- "No: small, depressed lesion" --> R
+    R --> S(["Polypoid: snare polypectomy or endoscopic mucosal resection (EMR)<br/>Slightly elevated: EMR or endoscopic submucosal dissection (ESD)<br/>(consider referral if necessary for either)<br/>Flat/depressed: only by endoscopists<br/>skilled in EMR or ESD of flat/depressed lesions"])
+    S --> T(["Biopsies of flat endoscopically normal-appearing<br/>mucosa surrounding the resection site<br/>(separate container); tattoo site;<br/>review histology of lesion and biopsies"])
+    T --> V["Successful resection of<br/>histologically confirmed dysplasia?"]
+    V -- "Yes" --> W(["Close endoscopic surveillance at<br/>1–6 and 12 months, with biopsies<br/>of resection site"])
+    V -- "No" --> I["Incomplete resection"]
+    V -- "No: dysplasia at the base of the lesion<br/>or malignant histology" --> U
+    W --> I
+    I --> X(["Repeat colonoscopy with<br/>attempted resection"])
+    I --> U
+    U --> Y(["Biopsy; tattoo"])
+    Y -- "Dysplasia/cancer confirmed" --> P(["Proctocolectomy"])
+    class A start
+    class B,D,V,I,U,R test
+    class S,T,W,X,Y,P act
 ```
+*Recommended management of a lesion detected during endoscopic surveillance*
+*Source: redrawn from Figure 2 of ASGE 2015 IBD guideline*
+*[[asge-2015-ibd|ASGE 2015: Role of Endoscopy in IBD]]*
+*EMR = endoscopic mucosal resection · ESD = endoscopic submucosal dissection*
 
 - Endoscopic features of **un**resectability: ill-defined margins, features of submucosal invasion, asymmetrical lift not attributable to fibrosis from colitis, ulceration or large depressions, flat neoplastic change adjacent to the lesion.
 - **En bloc resection is preferred** — it permits histologic evaluation of completeness, and may require referral to a centre with advanced polypectomy expertise. The guiding principle is to maximize complete eradication on the **first** resection attempt.
@@ -212,7 +225,7 @@ Each statement carries a GRADE quality-of-evidence symbol only; the guideline as
 - [[asge-2015-scenic-ibd-dysplasia|SCENIC]] — the dysplasia-detection and resect-vs-colectomy consensus; SCENIC remains the home for dysplasia terminology and the chromoendoscopy recommendations, this document for surveillance **intervals** and technique, which SCENIC did not address.
 
 ## Contradictions / Open Questions
-- **Random biopsies.** This guideline keeps a 33-biopsy random protocol as an explicit fallback (recommendation 17) and notes that the British Society of Gastroenterology and ECCO no longer recommend random biopsies of normal-appearing mucosa when chromoendoscopy is performed. [[asge-2015-scenic-ibd-dysplasia|SCENIC]], published the same year, likewise did not resolve the role of random biopsies. The two documents are concordant in preferring chromoendoscopy but neither settles the targeted-only question.
+- **Random biopsies.** This guideline keeps a 33-biopsy random protocol as an explicit fallback (recommendation 17) and notes that the British Society of Gastroenterology and ECCO no longer recommend random biopsies of normal-appearing mucosa when chromoendoscopy is performed. [[asge-2015-scenic-ibd-dysplasia|SCENIC]], published the same year, likewise did not resolve the role of random biopsies. ASGE itself states that when chromoendoscopy is used for IBD surveillance, random biopsies for dysplasia detection are unnecessary (p.1109), and that chromoendoscopy-targeted biopsies are sufficient (Rec 16); random biopsies remain only the fallback when chromoendoscopy is unavailable or its yield is reduced (Rec 17).
 - **Surveillance intervals are explicitly unsettled within the document itself**: Table 4 gives "every 1–3 y" while simultaneously stating the optimal interval is not defined, and the text notes that two U.S. guidelines say 1–2 years and 1–3 years and that risk-stratified recommendations differ across the British Society of Gastroenterology, National Institute for Health and Care Excellence, ECCO, the Cancer Council of Australia and ESGE. The one point common to all risk-stratified guidelines is annual surveillance for the highest-risk group.
 - **Recommendation 3 carries an uninterpretable evidence grade** — five circles are printed where the legend defines four-circle bands only. Treat its quality rating as unstated rather than high or moderate.
 - **Unifocal, flat, endoscopically invisible LGD** — colectomy vs enhanced surveillance is unresolved; the guideline says the decision should be individualized.

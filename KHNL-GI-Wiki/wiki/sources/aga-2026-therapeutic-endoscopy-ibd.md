@@ -3,9 +3,10 @@ title: "AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inf
 category: source
 tags: [ibd, crohns, ulcerative-colitis, stricture, endoscopic-balloon-dilation, stricturotomy, enteral-stent, fistula, anastomotic-leak, dysplasia, colitis-associated-neoplasia, emr, esd, aga, cpu]
 created: 2026-06-27
-updated: 2026-10-18
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU Therapeutic Endoscopy in IBD.pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -110,14 +111,16 @@ flowchart TD
     C --> D["Reimage stricture<br/>in 3-6 months"]
     D --> E["Stricture is fibrostenotic"]
     B -- No --> E
-    A --> F["Stricture length >5-6 cm<br/>or significant prestenotic dilatation"]
+    A --> E
+    E --> F["Stricture length >5-6 cm<br/>or significant prestenotic dilatation"]
     E --> G["Stricture length <3 cm"]
     E --> H["Stricture length 3-5 cm"]
     G --> I["Consider endoscopic stricturotomy<br/>if available"]
     H --> J["Consider endoscopic<br/>balloon dilatation"]
     I -- Successful --> K["Consider repeat procedure<br/>if required"]
     J -- Successful --> K
-    J -- Unsuccessful --> L["Consider surgery"]
+    J --> L["Consider surgery"]
+    K -- Unsuccessful --> L
     F --> L
 ```
 
@@ -248,7 +251,7 @@ flowchart TD
 - **At least half of patients with CD, and ~10%–15% of patients with UC**, eventually require surgery for medically refractory disease, structural complications, or neoplastic complications.
 - Postsurgical complications are common — mainly **bleeding and leaks**, at the **ileocolonic anastomosis (ICA)**, ileorectal anastomosis, colorectal anastomoses, and pouch-anal anastomoses.
 - **Anastomotic leaks (ALs) are classified acute (within 30 days) and chronic.**
-- **Usual locations of ALs:** the ICA itself and the **transverse staple line of the side-to-side ICA**; and **the tip of the J pouch**.
+- **Usual locations of ALs:** in Crohn's disease, the ICA itself and the **transverse staple line of the side-to-side ICA**; and **the tip of the J pouch**.
 - **Small ALs** can be self-limited — manage with conservative therapy, or with a diverting ileostomy.
 - **Large (>3 cm) acute AL-associated abscesses** → drain **subcutaneously/percutaneously (external drainage)** via interventional radiology, **or endoscopically** with a drainage endo-sponge or drainage stents (**internal drainage**).
 - **After abscess drainage**, endoscopic closure with **through-the-scope or over-the-scope clips may be attempted**.

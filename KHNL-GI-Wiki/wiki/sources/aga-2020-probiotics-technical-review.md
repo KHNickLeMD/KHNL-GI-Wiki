@@ -3,9 +3,10 @@ title: "AGA Technical Review on the Role of Probiotics in the Management of Gast
 category: source
 tags: [probiotics, microbiome, c-difficile, pouchitis, ibd, ibs, necrotizing-enterocolitis, gastroenteritis]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/AGA/AGA 2020 Technical Review Probiotics (Preidis).pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -22,7 +23,7 @@ The systematic review and Grading of Recommendations Assessment, Development, an
 
 Its governing methodological choice is **strain-level specificity**: the panel judged it "would not be appropriate to combine the clinical effects of diverse strains under a single umbrella termed *probiotics*," and so assessed individual strains and defined combinations rather than the class. Trials of synbiotics were included only where the non-microbial component was tested separately in a control arm; prebiotics and synbiotics were otherwise excluded. Studies in populations with major comorbidities (cancer, HIV/AIDS, cystic fibrosis, organ failure, transplantation) were excluded, which limits transfer of these conclusions to immunocompromised patients.
 
-**The review does not supply the dosing data its companion guideline omits.** Colony-forming unit (CFU) doses appear only in the narrative description of a handful of individual trials, for the two questions where the recommendation is *against* or absent — treatment of *Clostridioides difficile* infection (CDI) and acute infectious gastroenteritis in children. **No CFU dose, frequency, or treatment duration is given for the 8-strain pouchitis formulation or for any of the necrotizing enterocolitis (NEC) combinations** — the two indications where AGA recommends *for* probiotics. The review says so itself: trials "that define optimal doses, timing, and frequency of administration" are named as what future research needs, and its limitations section lists "differences in dosing and duration of treatment that could not be completely accounted for in our review."
+**The review does not supply the dosing data its companion guideline omits.** Colony-forming unit (CFU) doses appear only in the narrative description of a handful of individual trials, under treatment of *Clostridioides difficile* infection (CDI) and acute infectious gastroenteritis in children. The review's Summary and Conclusions finds potential utility only for prevention of necrotizing enterocolitis (NEC) and all-cause mortality in preterm, low-birth-weight infants (Moderate/High certainty of evidence [CoE]), prevention of *C difficile*–associated diarrhea (CDAD) (Low CoE), and prevention of pouchitis (Very Low CoE); probiotics were **not beneficial** for acute gastroenteritis in children in North America (Moderate CoE). **No CFU dose, frequency, or treatment duration is given for the 8-strain pouchitis formulation or for any of the NEC combinations.** The review says so itself: trials "that define optimal doses, timing, and frequency of administration" are named as what future research needs, and its limitations section lists "differences in dosing and duration of treatment that could not be completely accounted for in our review."
 
 ## Key Findings / Claims
 
@@ -33,9 +34,9 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 | # | Question (population → purpose) | Overall CoE |
 |---|---|---|
 | 1 | Symptomatic adults with confirmed CDI — probiotics as part of the **treatment** regimen | **Low** |
-| 2 | Adults and children on antibiotics for any indication except CDI — **prevention** of *C difficile*–associated diarrhea (CDAD) | **Low** |
-| 3 | Adults and children with [[crohns-disease\|Crohn's disease]] — induction or maintenance of remission | *(knowledge gap)* |
-| 4 | Adults and children with [[ulcerative-colitis\|ulcerative colitis]] — induction or maintenance of remission | *(knowledge gap)* |
+| 2 | Adults and children on antibiotics for any indication except CDI — **prevention** of CDAD | **Low** |
+| 3 | Adults and children with [[crohns-disease\|Crohn's disease]] — induction or maintenance of remission | **Low** |
+| 4 | Adults and children with [[ulcerative-colitis\|ulcerative colitis]] — induction or maintenance of remission | **Low** |
 | 5 | Adults and children with ileal pouch–anal anastomosis (IPAA) for chronic ulcerative colitis — prevention or maintenance of remission of [[pouchitis]] | **Very Low** |
 | 6 | Symptomatic children and adults with [[irritable-bowel-syndrome\|irritable bowel syndrome (IBS)]] — global response or abdominal pain severity | **Low** |
 | 7 | Children with acute infectious gastroenteritis — reduce duration or severity of diarrhea | **Moderate** (evidence of **no** benefit in North America) |
@@ -55,6 +56,8 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 | *Lactobacillus plantarum* 299v | **5 × 10¹⁰ CFU/d** | May **not** increase cessation of diarrhea (RR 0.93; 95% CI 0.73–1.19) — Very Low CoE |
 | *Lactobacillus rhamnosus* ATCC 53103 | *(not stated)* | May **increase** CDAD recurrence (RR 2.63; 95% CI 0.35–19.85) — Very Low CoE |
 
+- Adverse events in the CDI-treatment trials: most commonly mild gastrointestinal symptoms; one study reported increased constipation with *S boulardii* vs placebo; no serious adverse events reported.
+
 **Question 7, acute infectious gastroenteritis in children** — the two large, low-risk-of-bias, multicenter North American trials, **both negative**:
 
 | Trial | Strain / combination | Dose and duration | Result |
@@ -63,7 +66,30 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 | Pediatric Emergency Research Canada, 827 children, 6 Canadian emergency departments | *L rhamnosus* R0011 + *L helveticus* R0052, **95:5 ratio** | **Total 4 × 10⁹ CFU twice daily × 5 d** | **No significant difference** vs placebo |
 
 - Primary outcome in both: moderate-to-severe gastroenteritis, defined as a **modified Vesikari scale score ≥9** (scale 0–20, higher = more severe).
-- Both doses are for an indication the guideline recommends **against** in North America. Adverse events were most commonly mild gastrointestinal symptoms; one CDI-treatment study reported increased constipation with *S boulardii*. No serious adverse events were reported in the CDI-treatment trials.
+- Both doses are for an indication where the review found probiotics **not beneficial** in North America (Moderate CoE).
+
+### CDAD prevention (Question 2) — what the Low rating rests on
+
+- Base: **39 studies, 9955 participants** (from a 2017 Cochrane review; no newer trials found). Complete-case analysis of the 31 trials reporting CDAD incidence (probiotics n = 4525; placebo n = 4147): **RR 0.40 (95% CI 0.30–0.52), Moderate CoE**.
+- **Effect depends on baseline CDAD risk** (control-arm event rate):
+
+| Baseline CDAD risk | RR (95% CI) | CoE |
+|---|---|---|
+| >5% | **0.30 (0.21–0.42)** — large risk reduction | Moderate |
+| 3%–5% | 0.53 (0.16–1.77) — no similar benefit | Moderate |
+| 0%–3% | 0.77 (0.45–1.32) — no similar benefit | Moderate |
+
+- The review defines the low-risk stratum as 0%–2% but reports its result as 0%–3%.
+- Other outcomes: no reduction in fecal *C difficile* detection (15 trials; RR 0.86, 95% CI 0.67–1.10, Moderate CoE); may reduce adverse events vs placebo (32 trials; RR 0.83, 95% CI 0.71–0.97, Very Low CoE).
+- **Downgraded from Moderate to Low:** 2 of 39 studies abstract-only and 3 unpublished; only 2 of 39 at low risk of bias in all domains; possible publication bias (many registered protocols never published); pooled estimate heavily weighted by 5 trials with >15% baseline risk; wide CI for CDI incidence.
+- **Strains the Low rating is based on** (subgroup analyses, all Low CoE, may reduce CDAD vs placebo):
+
+| Strain / combination | RR (95% CI) |
+|---|---|
+| *S boulardii* | 0.41 (0.22–0.79) |
+| 2-strain: *L acidophilus* CL1285 + *L casei* LBC80R | 0.22 (0.11–0.42) |
+| 3-strain: *L acidophilus* + *L delbrueckii* subsp *bulgaricus* + *B bifidum* | 0.35 (0.15–0.85) |
+| 4-strain: *L acidophilus* + *L delbrueckii* subsp *bulgaricus* + *B bifidum* + *S salivarius* subsp *thermophilus* | 0.28 (0.11–0.67) |
 
 ### Pouchitis (Question 5) — what the Very Low rating rests on
 
@@ -81,7 +107,7 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 - **All-cause mortality, moderate/high CoE:** combinations of *Lactobacillus* spp + *Bifidobacterium* spp (several defined combinations), or the 4-strain *L acidophilus* + *B bifidum* + *B animalis* subsp *lactis* + *B longum* subsp *longum*, were the **only** interventions with moderate- or high-quality evidence of reduced all-cause mortality — **odds ratio (OR) 0.56; 95% CI 0.39–0.80, High CoE**.
 - **Severe NEC (Bell stage II or higher), moderate/high CoE:** combinations of *Lactobacillus* spp + *Bifidobacterium* spp (**OR 0.35; 95% CI 0.20–0.59, High CoE**); *B animalis* subsp *lactis* incl. DSM 15954 (**OR 0.31; 95% CI 0.13–0.74, High CoE**); *L reuteri* DSM 17938 or ATCC 55730 (**OR 0.55; 95% CI 0.34–0.91, High CoE**); *L rhamnosus* ATCC 53103 or ATC A07FA or Lcr35 (**OR 0.44; 95% CI 0.21–0.90, Moderate CoE**).
 - Combinations with only **low or very low** CoE for NEC reduction included *Lactobacillus* + *Bifidobacterium* + *Enterococcus* spp (OR 0.28; 95% CI 0.16–0.49), *Bifidobacterium* + *S salivarius* subsp *thermophilus* combinations (OR 0.38; 95% CI 0.19–0.75), and *Bacillus subtilis* + *Enterococcus faecium* (OR 0.23; 95% CI 0.08–0.63) — **larger point estimates on weaker evidence**, which the review flags as a prioritization target for future trials rather than a basis for practice.
-- **Days to reach full enteral feeds** (mean difference [MD], days): *Lactobacillus* + *Bifidobacterium* + *S boulardii* **−3.30 (95% CI −5.91 to −0.69), High CoE**; *L reuteri* **−4.53 (95% CI −7.71 to −1.36), Low CoE**; *Lactobacillus* + *Bifidobacterium* combinations **−2.15 (95% CI −3.78 to −0.51), Low CoE**.
+- **Days to reach full enteral feeds** (mean difference [MD], days): *Lactobacillus* + *Bifidobacterium* + *S boulardii* **−3.30 (95% CI −5.91 to −0.69), High CoE**; *L reuteri* (DSM 17938 or ATCC 55730) **−2.62 (95% CI −4.53 to −0.71), Low CoE**; *Lactobacillus* + *Bifidobacterium* combinations **−2.15 (95% CI −3.78 to −0.51), Low CoE**.
 - **Days of hospitalization** — the only interventions with moderate/high CoE: *B animalis* subsp *lactis* **MD −13.00 (95% CI −22.71 to −3.29), High CoE**; *L reuteri* DSM 17938 or ATCC 55730 **MD −7.89 (95% CI −11.60 to −4.17), High CoE**.
 - **Safety caution stated alongside the benefit:** probiotics are normally used cautiously in immunocompromised, critically ill or fragile populations because of possible **translocation of ingested microbes from intestine into bloodstream**. The review cites **a fatal case of gastrointestinal mucormycosis in a preterm infant caused by a fungal contaminant of the product** — a manufacturing-contamination risk, not a strain effect. It also notes some centres already have very low NEC rates from standard practices such as robust donor breast-milk programs, which narrows the achievable benefit.
 
@@ -108,4 +134,4 @@ The review states an explicit **overall CoE across all critical outcomes** for e
 
 - **No contradiction with [[aga-2020-probiotics]]** — this is its evidence base, published together, same panel. Where the two differ in appearance it is division of labour: the review rates evidence, the guideline recommends.
 - **Superseded in part by [[aga-2026-cdiff-adults|AGA 2026]] on *C difficile*,** as the guideline is: AGA 2026 states probiotics are not advised to prevent initial or recurrent CDI. Questions 1 and 2 here are the 2020 evidence base for a position that has since been reversed; they are historical, not current practice.
-- **The dose gap is not closed by this document, and should stop being treated as closed-able by it.** The review gives CFU doses only for individual trials under Questions 1 and 7 — both indications where probiotics are **not** recommended. For [[pouchitis]] (8-strain) and NEC, it gives strains and effect sizes but **no CFU dose, frequency or duration**. The review itself names trials "that define optimal doses, timing, and frequency of administration" as a future-research need and lists dosing/duration differences among its own limitations. Any dose for these indications would have to come from the individual trial reports, not from AGA.
+- **The dose gap is not closed by this document, and should stop being treated as closed-able by it.** The review gives CFU doses only for individual trials under Questions 1 and 7 — neither among the uses the review's Summary credits with potential utility (NEC/all-cause mortality prevention, CDAD prevention, pouchitis prevention); for Question 7 it found probiotics not beneficial in North America. For [[pouchitis]] (8-strain) and NEC, it gives strains and effect sizes but **no CFU dose, frequency or duration**. The review itself names trials "that define optimal doses, timing, and frequency of administration" as a future-research need and lists dosing/duration differences among its own limitations. Any dose for these indications would have to come from the individual trial reports, not from AGA.

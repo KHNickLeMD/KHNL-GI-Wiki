@@ -1,16 +1,17 @@
 ---
-title: "ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders"
+title: "ACG Clinical Guidelines: Management of Benign Anorectal Disorders (2021)"
 category: source
 tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, defecation-disorder, proctalgia, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-29
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/ACG/ACG 2021 Management of Benign Anorectal Disorders.pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M. ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders. Am J Gastroenterol 2021;116:1987–2008.](https://doi.org/10.14309/ajg.0000000000001507)
+- **Article:** [Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M. ACG Clinical Guidelines: Management of Benign Anorectal Disorders. Am J Gastroenterol 2021;116:1987–2008.](https://doi.org/10.14309/ajg.0000000000001507)
 - **Authors:** Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:1987–2008
@@ -27,7 +28,8 @@ A unifying theme is the primacy of conservative management (dietary modification
 
 **DEFECATION DISORDERS (dyssynergic defecation, outlet obstruction):**
 
-- Definition: difficulty evacuating stool with both symptom criteria and ≥2 abnormal anorectal tests
+- Definition: difficulty evacuating stool in patients with chronic or recurring constipation symptoms; diagnosis needs symptoms plus tests showing impaired evacuation (Rome IV also proposes confirmation by ≥2 abnormal tests)
+- Key concepts (Table 4): symptoms + mechanism (inadequate rectal propulsion and/or impaired relaxation or paradoxical contraction of the external anal sphincter/puborectalis); initial approach = normalize stool form, toileting position and behavior; baseline ARM and balloon expulsion predict biofeedback outcome; **defecography (MR or barium) may be indicated in DD failing conservative therapy and biofeedback** (KC 8); surgery for a structural abnormality decided on overall assessment incl. symptoms, ancillary testing and psychological assessment where appropriate (KC 9)
 - Diagnostic: ARM + BET required to diagnose DD; DRE recommended for all patients with suspected DD (75% sensitivity, 87% specificity for dyssynergia)
 - Differential: distinguish DD from slow-transit constipation (colonic transit study if BET normal or biofeedback fails); up to 50% of DD patients have delayed colonic transit (usually secondary)
 - Treatment:
@@ -44,10 +46,12 @@ A unifying theme is the primacy of conservative management (dietary modification
   - Levator tenderness + exclusion of other causes = levator syndrome; **absence** of levator tenderness in chronic proctalgia = idiopathic chronic proctalgia syndrome (biofeedback is recommended only for the former)
   - **Biofeedback for levator syndrome *with abnormal ARM*: Strong recommendation, very low evidence**; electrical (galvanic) stimulation if biofeedback unavailable (Conditional/Very low)
   - No evidence for Botox or digital massage in chronic proctalgia syndromes
-- Proctalgia fugax: intense rectal pain lasting seconds to <20 min; diagnosed by history + normal DRE; explanation and reassurance only; no treatment proven
+- Chronic proctalgia is diagnosed by the **duration** rather than the frequency of episodes (Table 6 KC 2)
+- Proctalgia fugax: intense rectal pain lasting seconds to <20 min; diagnosed by history + normal DRE; prolapsed hemorrhoids, chronic fissure or other anorectal pathology do **not** invalidate the diagnosis (KC 7); explanation and reassurance only; no treatment proven
 
 **HEMORRHOIDS:**
 
+- Cardinal signs of internal hemorrhoids: painless bleeding and intermittent protrusion; diagnosis generally requires excluding other conditions with similar symptoms (Table 11 KC 1)
 - Internal hemorrhoids: grade I–IV (based on prolapse degree); Grade I = no prolapse; Grade II = prolapse/reduces spontaneously; Grade III = prolapse/manual reduction; Grade IV = irreducible
 - Conservative (first-line, **Strong/Moderate**): fluid 6–8 glasses daily + dietary fiber 20–30 g daily; counsel to minimize straining; discourage prolonged toilet sitting (reading, cell phone). PEG 3350 or docusate if fiber cannot be increased. Evidence is moderate; the recommendation is strong because it corrects the presumed pathogenesis with minimal risk versus office procedures
 - Office procedures — recommended for symptomatic **grade 1 and 2** internal hemorrhoids failing medical therapy (one recommendation, Strong/Moderate):
@@ -72,6 +76,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 
 - Definition: involuntary loss of solid or liquid feces (including staining)
 - Prevalence: 2.2–25% community; ~9% age-adjusted in US (underreported)
+- Key concepts (Table 13): FI severity predicts the need for consultation; no single gold-standard test (functional and imaging tests complementary); **children and older patients with FI associated with constipation may benefit from laxatives — evidence in younger adults insufficient**; safety and efficacy data insufficient for some invasive procedures (e.g., SphinKeeper)
 - Diagnosis: Bristol Stool Scale + symptom diary; DRE in all; ARM, BET and rectal sensation testing in patients who fail conservative measures; anal imaging (endoanal ultrasound [US] or magnetic resonance imaging [MRI]) considered with weak pressures, especially if surgery is being considered
 - Conservative treatment (first-line for all):
   - **Antidiarrheal drugs when FI is accompanied by diarrhea: Strong/Low** — loperamide, diphenoxylate with atropine, bile salt binding agents, anticholinergic agents, clonidine

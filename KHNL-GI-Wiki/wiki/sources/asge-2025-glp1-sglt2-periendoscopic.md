@@ -3,9 +3,10 @@ title: "ASGE Position Statement on Periendoscopic Management of Patients on GLP-
 category: source
 tags: [glp-1, sglt2, endoscopy, sedation, aspiration, gastric-emptying, euglycemic-dka, periprocedural, asge]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2025 Periendoscopic Management of GLP-1 RA and SGLT2i (Sharaiha).pdf"
+verified: 2026-11-23
 ---
 
 ## Bibliographic Info
@@ -18,13 +19,13 @@ raw: "GI Guidelines/ASGE/ASGE 2025 Periendoscopic Management of GLP-1 RA and SGL
 
 ## Summary
 
-American Society for Gastrointestinal Endoscopy (ASGE) position statement, prepared by the Association of Bariatric Endoscopy and the Standards of Practice Committee, on how to manage patients taking **glucagon-like peptide-1 receptor agonists (GLP-1 RAs)** and **sodium-glucose cotransporter-2 (SGLT-2) inhibitors** around endoscopy. Produced by **modified Delphi** over 6 months (October 2023–March 2024) with an 11-member expert panel — 6 gastroenterologists, 2 anesthesiologists, 2 endocrinologists, 1 gastrointestinal (GI) motility expert — across two voting rounds. **Consensus was defined as ≥75% agreement**; the initial survey threshold for overall response was 70%.
+American Society for Gastrointestinal Endoscopy (ASGE) position statement, prepared by the Association of Bariatric Endoscopy and the Standards of Practice Committee, on how to manage patients taking **glucagon-like peptide-1 receptor agonists (GLP-1 RAs)** and **sodium-glucose cotransporter-2 (SGLT-2) inhibitors** around endoscopy. Produced by **modified Delphi** over 6 months (October 2023–March 2024) with an 11-member expert panel — 6 gastroenterologists, 2 anesthesiologists, 2 endocrinologists, 1 gastrointestinal (GI) motility expert — across two voting rounds. **Consensus was defined as ≥75% agreement without discrepancy between subspecialties**; the initial survey threshold for overall response was 70%.
 
 The document's organizing idea is that the answer depends on **procedural urgency, not on the drug alone**. It therefore triages into three scenarios, each with its own flowchart: **urgent/emergent procedures in hospitalized patients**, **time-sensitive outpatient procedures** (must be done within 1 week), and **elective procedures** (can be deferred several weeks without affecting outcomes). In the first two, ASGE recommends **against delaying** the procedure; the holding rules bite mainly in the elective setting.
 
 **There is no GRADE assessment and no evidence grading of any kind** — these are consensus statements with the panel's vote distribution reported in the discussion. The panel is explicit about the thin evidence base: larger cohort studies have **not** demonstrated an increased risk of pulmonary aspiration in the periendoscopic period, two large claims-database studies conflict, and gastric-emptying scintigraphy findings correlate poorly with clinical symptoms and are non-reproducible in up to 30% of patients with gastroparesis symptoms.
 
-For **SGLT-2 inhibitors** the concern is entirely different — not aspiration but **euglycemic diabetic ketoacidosis (euDKA)**, precipitated by the fasting and fluid shifts of bowel preparation. **Colonoscopy poses the particular risk** because of the long relative fasting period; upper endoscopy, with its short fast, has not been reported to increase euDKA risk.
+For **SGLT-2 inhibitors** the concern is entirely different — not aspiration but **euglycemic diabetic ketoacidosis (euDKA)**, precipitated by the fasting and fluid shifts of bowel preparation. **Colonoscopy poses the particular risk** because of the long relative fasting period; upper endoscopy, with its short fast, has not been reported to increase euDKA risk except in a rare emergent case (data limited).
 
 ## Key Findings / Claims
 
@@ -56,7 +57,7 @@ For **SGLT-2 inhibitors** the concern is entirely different — not aspiration b
    - **B.** Weekly dosing → hold **at least 7 days** before the procedure.
    - **C.** **Moderate sedation or anesthesia-directed sedation** for patients who **have stopped** GLP-1 RAs at the recommended interval **and have no symptoms** suggestive of delayed gastric emptying.
    - **D.** **Anesthesia consultation and multidisciplinary discussion** for patients who **either did not stop** at the recommended interval **or have symptoms** suggestive of delayed gastric emptying despite holding appropriately.
-10. ASGE **suggests consideration for bridging the antidiabetic therapy** for patients who will be stopping GLP-1 RAs **1 week before elective endoscopy**. *(The only statement with unanimous agreement — 12/12 strongly agreed.)*
+10. ASGE **suggests consideration for bridging the antidiabetic therapy** for patients who will be stopping GLP-1 RAs **1 week before elective endoscopy**. *(The only statement with unanimous **strong** agreement — 12/12 strongly agreed; Statements 1, 2, 6 and 11 also reached 100% agreement.)*
 
 **SGLT-2 inhibitors**
 
@@ -104,5 +105,5 @@ For **SGLT-2 inhibitors** the concern is entirely different — not aspiration b
 ## Contradictions / Open Questions
 
 - **Internal inconsistency on oral semaglutide** (above): Table 1 says 1 week, the Statement 8 discussion says a day before. The wiki carries both with the discrepancy named, rather than silently picking one.
-- **Against [[aga-2024-glp1-endoscopy|AGA 2024]]:** the AGA clinical practice update advises an **individualized approach, not routine cessation**, and endorses the multisociety position that **no data support stopping GLP-1 RAs before elective endoscopy**. ASGE 2025 does specify routine hold intervals for elective procedures. Both are tier-1; **ASGE 2025 is newer by publication date** and governs the elective-hold question, but the two agree on the points that matter most — symptom assessment drives sedation strategy, and urgent or time-sensitive procedures should **not** be delayed.
+- **Against [[aga-2024-glp1-endoscopy|AGA 2024]]:** the AGA clinical practice update advises an **individualized approach, not routine cessation**, and cites the multisociety statement on the lack of data supporting stopping GLP-1 RAs before elective endoscopy. ASGE 2025 does specify routine hold intervals for elective procedures. Both are tier-1; **ASGE 2025 is newer by publication date** and governs the elective-hold question, but both make symptom assessment drive sedation strategy; only ASGE states that urgent or time-sensitive procedures should **not** be delayed.
 - **Liquid diet vs medication hold:** the panel notes future data may show a 24-hour liquid protocol **negates the need to hold GLP-1 RAs** at all, and that whether colonoscopy requires extended bowel preparation in these patients is unresolved.
