@@ -32,6 +32,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — the article is a review, not a guideline/consensus (tier-1 cards only).
 - `ingest: partial` removed.
 
+**`[[aspen-sccm-2016-critical-care-nutrition]]` — new source (McClave et al, SCCM/ASPEN Guidelines for Nutrition Support Therapy in the Adult Critically Ill Patient, JPEN 2016). Tier 1 (US guideline; Nick's drop — not in `.fetched-files`). Steps 1–3 done; propagation not started → stays `ingest: partial`.**
+- *Extract* (fresh agent; journal pp 159–202 read as rendered images): all **95** recommendations (A 5 · B 6 · C 4 · D 12 · E 5 · F 4 · G 3 · H 8 · I 3 · J 2 · K 3 · L 9 · M 10 · N 5 · O 6 · P 1 · Q 8 · R 1) with number, force and evidence label as printed; Tables 1–2 and the pancreatitis severity definitions recreated. Not CC (© ASPEN/SCCM; the margin's Creative Commons sentence is Wiley's generic footer). 5 printed inconsistencies listed (N4 >80% vs rationale 60%–70%; F2 vs L5 probiotics; L3a RR wording; H3a 64% agreement; D4a cross-reference).
+- *Gate* (run by the main thread — the extractor had no shell): 1 ABSENT fixed ("~1 day" was a rounding of WMD −0.82 days → removed); 1 NOMATCH (Summary paraphrase, checked by the verifier); 38 SIGN — all read on rendered pages by the verifier.
+- *Independent check* (fresh agent, ~260 claims; all 95 recommendation numbers, forces and evidence labels matched; per-section counts identical): 0 management, 2 minor — H5 rationale joined the 2001 trial's 80–110 mg/dL target to the later trials' hypoglycemia → split; J1 ideal body weight is for "obese and critically ill" patients. Both confirmed in the text and fixed. `verified: 2026-11-23` set.
+- `index.md`: source row added (Sources → Other).
+- **Next pass resumes at step 4 (propagate)** to [[nutrition-in-hospitalized-patients]], [[acute-pancreatitis]] (section L — weigh against newer US pancreatitis guidelines already on the page; ASPEN 2016 is older and only fills gaps), [[enteral-access]], [[nutrition-in-liver-disease]], [[obesity]]. Cards then from the verified topic pages (ICU nutrition facts the owner pages lack).
+
+**Hygiene:** unescaped alias pipe in an [[albumin]] table row (`aasld-2024-aclf`) escaped. No `.DS_Store`.
+
+**Not run this pass:** card dedup, `{at:}` backfill and new-card pass (budget; deck not rebuilt — `node` needs approval in this session); *Quality review*. *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. Daily fetch: not this pass (manual run).
+
+**Backlog status:** backlog mode stays **ON** — ASPEN-SCCM 2016 propagation open (`ingest: partial`); ASGE 2020 DOPyS/CSPAT appendices (need [[asge-2020-endoscopic-removal]] verified first); Chavan 2023 EUS pancreas pictorial essay (Nick's drop, tier 2 review, mostly figures). Lectures gated.
+
 **Pick order (next file):** remaining uningested US tier-1 = ASPEN-SCCM 2016 (~45k words), ACR LI-RADS CT/MRI 2024 Treatment Response (Aslam, ~8k words, Nick's drop — not in `.fetched-files`), ASGE 2020 DOPyS/CSPAT appendices. Picked LI-RADS 2024 TR (Nick's drop; [[li-rads]] has no treatment-response content). Other `raw:`-less US files (AGA/ASGE MSTF 2016–2022, ASGE 2025 bowel prep) already have `usmstf-*` source pages that predate the `raw:` field.
 
 ---
