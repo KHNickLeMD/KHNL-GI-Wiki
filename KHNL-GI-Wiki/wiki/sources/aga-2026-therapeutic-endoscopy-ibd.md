@@ -256,7 +256,7 @@ flowchart TD
 - **Large (>3 cm) acute AL-associated abscesses** → drain **subcutaneously/percutaneously (external drainage)** via interventional radiology, **or endoscopically** with a drainage endo-sponge or drainage stents (**internal drainage**).
 - **After abscess drainage**, endoscopic closure with **through-the-scope or over-the-scope clips may be attempted**.
 - **Chronic AL-associated sinuses or fistulas** → treat with **endoscopic sinusotomy or fistulotomy**.
-- **Endoscopic closure of chronic ALs with over-the-scope clips** — from the transverse staple line at the ICA in CD, or at the tip of the J in [[pouchitis|ileal pouch-anal anastomosis]] — **may be attempted**.
+- **Endoscopic closure of chronic ALs with over-the-scope clips** — from the transverse staple line at the ICA in CD, or at the tip of the J in [[pouchitis|ileal pouch-anal anastomosis]] — **may be attempted**. ⚠ Table 1 "Don'ts" says to avoid endoscopic clipping in a disease-associated fistula or chronic anastomotic leak-associated sinus; the document does not reconcile the two.
 
 ### Future Perspectives
 

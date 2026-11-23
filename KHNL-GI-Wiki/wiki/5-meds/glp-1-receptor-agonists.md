@@ -3,8 +3,10 @@ title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
 tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin, mash]
 created: 2026-08-14
-updated: 2026-11-08
+updated: 2026-11-23
 sources: [asge-2025-glp1-sglt2-periendoscopic, aga-2022-obesity-pharm, aga-2024-glp1-endoscopy, aasld-2025-semaglutide-mash]
+quality_reviewed: 2026-11-23
+verified: 2026-11-23
 ---
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a drug **class** of incretin mimetics used for type 2 diabetes mellitus (T2DM) and chronic weight management, with two gastrointestinal (GI)-relevant consequences: they are **anti-obesity medications (AOMs) an American Gastroenterological Association (AGA) guideline endorses**, and they **slow gastric emptying**, which drives their GI side effects and the periprocedural aspiration debate. For the agent-level detail on the most-used member, see **[[semaglutide]]**.
