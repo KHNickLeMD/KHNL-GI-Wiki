@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-23] lint | Manual pass — ingest by budget ($25)
+
+**Scope:** backlog mode, $25 budget. Open `ingest: partial`: [[asco-2021-immune-related-adverse-events]] (resume at step 4, propagate).
+
+**Inbox sync:** `git status --untracked-files=all raw` clean — no new files under `raw/`. Nothing to commit.
+
+**`[[asco-2021-immune-related-adverse-events]]` — resume at step 4.**
+- *Step 4 found done:* the 2026-11-22 06:00 pass had already propagated to [[immune-checkpoint-inhibitor-colitis]] and [[immune-checkpoint-inhibitor-hepatitis]] (commit `b1861c0`) but died before gating, verifying or logging. Priority settled: AGA CPU = *Gastroenterology* April 2021 (160[4]); ASCO = *J Clin Oncol* online 1 Nov 2021 (39[36]) → ASCO newer; both pages surface AGA beside it.
+- *Step 5 gate:* colitis 0 ABSENT/OTHER, 1 NOMATCH (AGA <5% infection line — paraphrase, left to the verifier), 23 SIGN; hepatitis 0 ABSENT, 2 OTHER resolved by hand (AGA "1- to 2-week delay" p. 1390 text; "Taper steroid ≥ 1 month" in AGA Figure 4, rendered p. 1391), 2 NOMATCH (composite comparison lines), 20 SIGN — all sign lines sent to the verifiers for rendered-page reads.
+- *Independent check — [[immune-checkpoint-inhibitor-colitis]]* (fresh agent, ~110 claims, AGA and ASCO GI pages read as images): 0 management, 1 minor — AGA BPA 3 endoscopy-before-steroids is "should be considered", not an imperative → reworded. `verified: 2026-11-23` set (page had no stamp before).
+- *Independent check — [[immune-checkpoint-inhibitor-hepatitis]]* (fresh agent, ~85 claims, four raw files): **1 management** — "ANA and SMA — screen for baseline AIH" was credited to AGA BPA 14; AGA never names them, ASCO only at grade ≥2 with high suspicion of primary AIH → line deleted, ASCO line reworded. 5 minor: "hospitalize if jaundiced" is AASLD's "should be considered", not AGA (AGA: biopsy and hospitalization case by case) → moved to the AASLD line; second-line triggers and tacrolimus are AGA only (AASLD: mycophenolate or azathioprine for steroid-refractory disease); CT/MR "at risk for or with known metastases" is AGA wording, AASLD "stresses the importance", not "essential"; ASCO grade 2 steroid is "may give"; workup Mermaid had an unsourced "aminotransferase rise alone" branch and put MRCP/EUS after CT/MRI → redrawn from BPA 14–15 (biopsy consideration for all; MRCP/EUS after a normal ultrasound with biliary risk factors). All confirmed in the PDFs. `verified: 2026-11-23` set.
+- *Fix every copy:* ASCO source page Contradictions line on hospitalization reworded. AGA and AASLD source pages carried none of the errors (they entered at propagation).
+- *Cards* (`/cards` writable this session; `node` needs approval, so **deck not rebuilt** — 05:00 pass builds): colitis file — 3 stale `{at:}` anchors re-pointed (headings renamed by the 06:00 pass); ac1003 reworded to "consider"; ac1005 re-cut as the ASCO grade-by-grade steroid dose (AGA range to Back Extra); ac1006 Back Extra adds ASCO's 72-hour one-grade definition; ac1007 schedule cloze dropped, ASCO-vs-AGA schedule table added; ac1009 heart-failure and hepatitis wording updated; new ac1019 (high-risk endoscopic features), ac101a (calprotectin ≤116 µg/g or mucosal healing), ac101b (stop CTLA-4 / restart PD-1/PD-L1 at grade ≥2). 16 → 19 notes. Hepatitis file — bd2011 now ASCO "contraindicated" (AGA caution in Back Extra); bd2015 re-sourced to AGA (tacrolimus and triggers are AGA's), ASCO doses added; bd2017 ANA/SMA cloze removed; bd2019 merged with ASCO >8× ULN / bilirubin >3× ULN admission threshold; bd2004 Back Extra grade 3 wording; new bd201c (ASCO grade 3 symptom-conditional discontinuation). 16 → 17 active notes. Python check: no duplicate ids, every anchor a live heading, ≤3 clozes. `page_updated`/`cards_reviewed` 2026-11-23 on both.
+- `ingest: partial` removed.
+
+**`[[acr-2024-li-rads-ct-mri-treatment-response]]` — new source (Aslam et al, CT/MRI LI-RADS 2024 Update: Treatment Response Assessment, Radiology 2024;313(2):e232408).** Review article explaining the 2024 TRA (US, ACR LI-RADS); © RSNA, not CC — no figures embedded.
+- *Extract* (fresh agent; all 14 pages read as rendered images): both category tables (Figure 1A nonradiation, Figure 1B radiation incl. new LR-TR Nonprogressing), AF upgrade rules, timing table, 2017 → 2024 table, supporting evidence, figure teaching points; 4 printed inconsistencies (Figure 1B vs text on the radiation AF qualifier; "version 2023" legend; surgical margin in radiation Nonviable text only; running header).
+- *Gate:* 0 ABSENT/OTHER/NOMATCH; 1 SIGN (>50% Equivocal incompletely necrotic) confirmed on rendered p 3.
+- *Independent check* (fresh agent, ~95 claims): 0 wrong management claims; **1 omission (management)** — the nonradiation rule (post-LRT enhancement → immediate re-treatment, p 7) added beside the radiation surveillance rule. 4 minor: sensitivity/odds-ratio columns credited to refs 8–10 and 16 (not 16 alone); explant reference standard applies to the ref 16 meta-analysis only; "particularly external beam" qualifier restored; "written by Steering Committee members" not in the PDF → reworded (also in Contradictions). All confirmed in the text. `verified: 2026-11-23` set.
+- *Propagation:* new concept page [[li-rads-treatment-response]] (own page because [[li-rads]] is at ~2,400 words): scope/timing tables, nonradiation and radiation category tables, AF upgrade table, 2017 → 2024 table, pitfalls, one pearl. One-line links added on [[li-rads]] (after the category notes + See Also) and [[hepatocellular-carcinoma]] (response-imaging line + See Also) — link-only, neither page carries `verified:`.
+- *Gate on [[li-rads-treatment-response]]:* 0 ABSENT/OTHER/NOMATCH, 3 SIGN (verifier read them on rendered pages).
+- *Independent check of [[li-rads-treatment-response]]* (fresh agent, 52 claims, actions per category specifically checked): 0 management, 3 minor — 45% explant denominator restated as printed; surgical-margin inconsistency between radiation text and Figure 1B surfaced; pearl's "particularly external beam" moved onto the expected-finding clause. `verified: 2026-11-23` set.
+- `index.md`: source row (Sources → Other) and [[li-rads-treatment-response]] row (Concepts).
+- *Cards:* none — the article is a review, not a guideline/consensus (tier-1 cards only).
+- `ingest: partial` removed.
+
+**Pick order (next file):** remaining uningested US tier-1 = ASPEN-SCCM 2016 (~45k words), ACR LI-RADS CT/MRI 2024 Treatment Response (Aslam, ~8k words, Nick's drop — not in `.fetched-files`), ASGE 2020 DOPyS/CSPAT appendices. Picked LI-RADS 2024 TR (Nick's drop; [[li-rads]] has no treatment-response content). Other `raw:`-less US files (AGA/ASGE MSTF 2016–2022, ASGE 2025 bowel prep) already have `usmstf-*` source pages that predate the `raw:` field.
+
+---
+
 ## [2026-11-22] lint | Quality review — release sweep (manual run 4, $40 budget)
 
 **Scope:** Quality review step only (`review-queue.py --pages 10`), by budget. No ingest, no new pages.

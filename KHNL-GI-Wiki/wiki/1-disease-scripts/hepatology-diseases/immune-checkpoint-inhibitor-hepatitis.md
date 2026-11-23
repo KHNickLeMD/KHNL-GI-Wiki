@@ -3,9 +3,10 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-11-22
+updated: 2026-11-23
 sources: [acg-2021-dili, aasld-2022-dili, aga-2021-ici-colitis-hepatitis, asco-2021-immune-related-adverse-events]
 quality_reviewed: 2026-11-14
+verified: 2026-11-23
 ---
 
 A subtype of [[drug-induced-liver-injury|drug-induced liver injury]] (DILI) with distinct features. Anticancer therapeutics — **particularly immune checkpoint inhibitors** — are among the leading DILI drug classes. [[acg-2021-dili]]
@@ -97,29 +98,27 @@ Immune checkpoint inhibitor (ICI) hepatotoxicity — **immune-mediated hepatitis
 - **History + full medication review** to exclude other [[drug-induced-liver-injury|DILI]].
 - **Hepatotropic viruses:** hepatitis A virus (HAV), [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], [[hepatitis-e|hepatitis E virus (HEV)]]. **Non-hepatotropic viruses:** Epstein-Barr virus (EBV), cytomegalovirus (CMV), herpes simplex virus (HSV).
 - **Abdominal ultrasound** — hepatobiliary tree and hepatic vasculature.
-- **ANA and SMA** — screen for baseline AIH.
-- **ASCO additions:** review supplements as well as medications; rule out development or progression of liver metastases. Grade ≥2 → blood work and imaging (ultrasound and cross-sectional) for other causes, including alcohol history, iron studies and thromboembolic event; strong suspicion of primary AIH → can add antineutrophil cytoplasmic antibody to ANA/SMA; **isolated ALP elevation → gamma-glutamyl transferase (GGT)**; **isolated transaminase elevation → consider creatine kinase (CK)**. [[asco-2021-immune-related-adverse-events]]
-- **Contrast-enhanced computed tomography (CT) or magnetic resonance (MR) imaging** — valuable in any patient at risk for, or with known, hepatic metastases, and essential before attributing elevations to the ICI. [[aasld-2022-dili]]
+- **ASCO additions:** review supplements as well as medications; rule out development or progression of liver metastases. Grade ≥2 → blood work and imaging (ultrasound and cross-sectional) for other causes, including alcohol history, iron studies and thromboembolic event; strong suspicion of primary AIH → can consider ANA / SMA / antineutrophil cytoplasmic antibody (ANCA); **isolated ALP elevation → gamma-glutamyl transferase (GGT)**; **isolated transaminase elevation → consider creatine kinase (CK)**. [[asco-2021-immune-related-adverse-events]]
+- **Cross-sectional imaging (computed tomography [CT] or magnetic resonance [MR])** — may be valuable in any patient at risk for, or with known, hepatic metastases ([[aga-2021-ici-colitis-hepatitis]]); AASLD stresses the importance of contrast-enhanced CT and MR in these patients ([[aasld-2022-dili]]).
 - Choice between magnetic resonance cholangiopancreatography and endoscopic ultrasound rests on **safety, availability and local expertise**.
 
 ```mermaid
 flowchart TD
     A(["Elevated liver chemistries on ICI"]) --> B["History and full medication review<br/>Hepatotropic and non-hepatotropic viral serologies<br/>Abdominal ultrasound"]
-    B -- "aminotransferase rise alone (BPA 14)" --> G(["Manage by CTCAE grade"])
+    B -- "all patients (BPA 14)" --> L(["Consider liver biopsy"])
     B -- "ALP and/or bilirubin elevated (BPA 15)" --> C["Cross-sectional hepatobiliary imaging: CT or MRI"]
+    B -- "biliary obstruction risk factors, normal ultrasound (BPA 15)" --> D["Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS)"]
     C -- "obstruction or stricture seen (BPA 15)" --> E(["Endoscopic retrograde cholangiopancreatography (ERCP)"])
-    C -- "ultrasound normal, risk factors for biliary obstruction (BPA 15)" --> D["Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS)"]
     D -- "obstruction or stricture seen (BPA 15)" --> E
-    D -- "no obstruction (BPA 15)" --> G
     class A start
     class B,C,D test
-    class E,G act
+    class E,L act
 ```
 
 *Workup of elevated liver chemistries on an immune checkpoint inhibitor*
 *Source: built from AGA 2021 Best Practice Advice 14 and 15 and the text of its hepatitis section (the update's own figure covers management, not the workup)*
 *[[aga-2021-ici-colitis-hepatitis|AGA Clinical Practice Update on ICI Colitis and Hepatitis (2021)]]*
-*ICI = immune checkpoint inhibitor · BPA = Best Practice Advice · CTCAE = Common Terminology Criteria for Adverse Events · ALP = alkaline phosphatase · CT = computed tomography · MRI = magnetic resonance imaging · MRCP = magnetic resonance cholangiopancreatography · EUS = endoscopic ultrasound · ERCP = endoscopic retrograde cholangiopancreatography*
+*ICI = immune checkpoint inhibitor · BPA = Best Practice Advice · ALP = alkaline phosphatase · CT = computed tomography · MRI = magnetic resonance imaging · MRCP = magnetic resonance cholangiopancreatography · EUS = endoscopic ultrasound · ERCP = endoscopic retrograde cholangiopancreatography*
 
 *Procedure detail: see [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]].*
 
@@ -142,12 +141,12 @@ flowchart TD
 | Grade | ICI | Steroids and second line | Monitoring and referral |
 |---|---|---|---|
 | **1** | **Continue** with close monitoring | No treatment; consider alternate etiologies; supportive care for symptoms | Liver chemistries **1–2× weekly** |
-| **2** | **Hold temporarily**; may resume at ≤ grade 1 on prednisone **≤10 mg/day** | Stop unnecessary medications and known hepatotoxins; temporarily hold other potentially hepatotoxic oncologic agents. **No improvement after 3–5 days → prednisone 0.5–1 mg/kg/day** or equivalent; inadequate improvement after 3 days → consider adding [[mycophenolate-mofetil\|mycophenolate mofetil]]. Taper once ≤ grade 1, over **at least 1 month** | Labs **every 3 days**; consider hepatology consult (grade 2 and above) |
+| **2** | **Hold temporarily**; may resume at ≤ grade 1 on prednisone **≤10 mg/day** | Stop unnecessary medications and known hepatotoxins; temporarily hold other potentially hepatotoxic oncologic agents. **No improvement after 3–5 days → may give prednisone 0.5–1 mg/kg/day** or equivalent; inadequate improvement after 3 days → consider adding [[mycophenolate-mofetil\|mycophenolate mofetil]]. Taper once ≤ grade 1, over **at least 1 month** | Labs **every 3 days**; consider hepatology consult (grade 2 and above) |
 | **3** | **Asymptomatic → consider permanent discontinuation; symptomatic → permanently discontinue** | **Immediately start methylprednisolone 1–2 mg/kg** or equivalent. Steroid-refractory → consider liver biopsy and adding [[thiopurines\|azathioprine]] or mycophenolate if infection ruled out. Taper can be attempted around **4–6 weeks** once ≤ grade 1; re-escalate if needed | Labs daily or every other day; **consider inpatient monitoring if AST/ALT >8× ULN and/or total bilirubin >3× ULN**; no improvement on steroid, or ICI combined with a novel agent, standard chemotherapy or targeted therapy → hepatologist; consider transfer to tertiary care |
 | **4** | **Permanently discontinue** (ASCO's general grade 4 rule) | **Methylprednisolone 2 mg/kg/day** equivalents; otherwise as grade 3 | As grade 3 |
 
-- **AGA differences** ([[aga-2021-ici-colitis-hepatitis]]): grade 1 — continue if asymptomatic (± delay dosing); symptoms or labs worsen → treat as the next higher grade. Grade 2 — **symptomatic → oral prednisone 0.5–1.0 mg/kg/day**; unresolved after a **1–2 week** ICI delay → systemic glucocorticoids; gastrointestinal (GI)/hepatology consult. Grade 3 — **discontinue permanently** (no symptom qualifier); methylprednisolone 1–2 mg/kg/day; urgent GI/hepatology consult; **hospitalize if jaundiced**; biopsy and admission case-by-case. Grade 4 — **hospitalize**, preferably at a centre with expertise in liver failure.
-- **AASLD grade 3 dose:** intravenous (IV) steroids **1–1.5 mg/kg/day** ([[aasld-2022-dili]]).
+- **AGA differences** ([[aga-2021-ici-colitis-hepatitis]]): grade 1 — continue if asymptomatic (± delay dosing); symptoms or labs worsen → treat as the next higher grade. Grade 2 — **symptomatic → oral prednisone 0.5–1.0 mg/kg/day**; unresolved after a **1–2 week** ICI delay → systemic glucocorticoids; gastrointestinal (GI)/hepatology consult. Grade 3 — **discontinue permanently** (no symptom qualifier); methylprednisolone 1–2 mg/kg/day; urgent GI/hepatology consult; biopsy and hospitalization considered case by case. Grade 4 — **hospitalize**, preferably at a centre with expertise in liver failure.
+- **AASLD grade ≥3:** permanently discontinue; consider intravenous (IV) steroids **1–1.5 mg/kg/day**, with hospitalization for patients with **jaundice** ([[aasld-2022-dili]]).
 
 - **Steroid trigger and duration ([[aasld-2022-dili]] Table 9):** ICI hepatotoxicity with **ALT >5× ULN**, or histology showing AIH-like features → **1 mg/kg/day methylprednisolone equivalent**. Optimal dose and duration are not established, but the course can frequently be tapered over **1–3 months**.
 - **AGA taper:** plan **4–6 weeks** from the grade 3–4 dose in patients who respond; the AGA algorithm states a taper of **≥1 month** once the condition improves. [[aga-2021-ici-colitis-hepatitis]]
@@ -157,7 +156,7 @@ flowchart TD
 
 ### Refractory Disease and Rechallenge
 
-- **Second-line immunomodulators:** mycophenolate mofetil, azathioprine, or [[tacrolimus]]. AGA/AASLD triggers: no improvement within **3–5 days** of glucocorticoids, a hepatitis flare during the steroid taper, or (grade 4) transaminases that have not fallen by **≥50% in 3 days**. [[aga-2021-ici-colitis-hepatitis]] [[aasld-2022-dili]] ASCO triggers are in the table above.
+- **Second-line immunomodulators:** AGA — mycophenolate mofetil, azathioprine, or [[tacrolimus]] if no improvement within **3–5 days** of glucocorticoids, a hepatitis flare during the steroid taper, or (grade 4) transaminases that have not fallen by **≥50% in 3 days** ([[aga-2021-ici-colitis-hepatitis]]). AASLD — mycophenolate mofetil or azathioprine for steroid-refractory disease ([[aasld-2022-dili]]). ASCO triggers are in the table above.
 - **Doses ([[asco-2021-immune-related-adverse-events]]):** mycophenolate mofetil **0.5–1 g by mouth every 12 hours**; azathioprine **50 mg/day, increasing by 25–50 mg every 1–2 weeks up to 2 mg/kg/day** — **test for thiopurine methyltransferase deficiency before using it**. Support is thin: anecdotal experience for azathioprine, one case study for mycophenolate. None of the guidelines gives a tacrolimus dose for ICI hepatitis.
 - **Antithymocyte globulin** has been reported for **fulminant** ICI hepatitis; reserve it for refractory and severe cases, as it may interfere with the antitumour response. [[aga-2021-ici-colitis-hepatitis]]
 - Escalate to [[liver-transplantation|transplant]] evaluation if progressing toward [[acute-liver-failure]]. [[aasld-2022-dili]]

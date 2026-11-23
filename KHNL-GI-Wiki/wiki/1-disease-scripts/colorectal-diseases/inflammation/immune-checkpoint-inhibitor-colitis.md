@@ -3,8 +3,9 @@ title: "Immune Checkpoint Inhibitor Colitis (ICI Enterocolitis)"
 category: disease-script
 tags: [ici, immunotherapy, irae, colitis, enterocolitis, checkpoint-inhibitor, oncology, infliximab, vedolizumab, budesonide]
 created: 2026-09-04
-updated: 2026-11-22
+updated: 2026-11-23
 sources: [aga-2021-ici-colitis-hepatitis, asco-2021-immune-related-adverse-events]
+verified: 2026-11-23
 ---
 
 Colitis, with or without accompanying enteritis, is the **single most common gastrointestinal (GI) toxicity** of immune checkpoint inhibitors (ICIs) — an immune-related adverse event (irAE) of CTLA-4 and PD-1/PD-L1 blockade. [[aga-2021-ici-colitis-hepatitis]]
@@ -124,7 +125,7 @@ Colitis, with or without accompanying enteritis, is the **single most common gas
 **Endoscopy (BPA 3)**
 
 - **ASCO:** endoscopy ([[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] or [[colonoscopy]]) **highly recommended for grade ≥2**, to stratify for early biologics; consider for positive stool inflammatory markers or colitis-related symptoms ([[asco-2021-immune-related-adverse-events]]).
-- **AGA:** confirm diagnosis and severity **before** starting high-dose systemic glucocorticoids; ASCO does not tie endoscopy to steroid start.
+- **AGA:** endoscopic confirmation of diagnosis and severity **should be considered before** starting high-dose systemic glucocorticoids; ASCO does not tie endoscopy to steroid start.
 - **Flexible sigmoidoscopy is often adequate** — ~**95%** have **left-colon** inflammation on biopsy, mostly visible. **Pancolitis is the most common pattern.** Optimal examination not established.
 - **EGD after a negative flexible sigmoidoscopy** may be higher yield than a full colonoscopy.
 

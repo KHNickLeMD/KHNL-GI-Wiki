@@ -3,10 +3,9 @@ title: "Management of Immune-Related Adverse Events in Patients Treated With Imm
 category: source
 tags: [immune-checkpoint-inhibitors, irae, colitis, hepatitis, asco, oncology, corticosteroids, infliximab, vedolizumab, mycophenolate, fecal-calprotectin, pancreatitis, gastritis]
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-23
 sources: []
 raw: "GI Guidelines/Other/ASCO 2021 Management of Immune-Related Adverse Events with ICI Therapy (Schneider).pdf"
-ingest: partial
 verified: 2026-11-22
 ---
 
@@ -342,7 +341,7 @@ verified: 2026-11-22
 - *ICI colitis page:* recurrence higher when switching PD-1/PD-L1 → CTLA-4 (AGA); ASCO: resuming PD-1/PD-L1 has lower flare risk, CTLA-4 can still be considered in selected cases (no response or inadequate response). Compatible; ASCO adds the ≤116 µg/g calprotectin target.
 - *ICI hepatitis page:* grade 3 = "discontinue permanently" there; ASCO makes it conditional on symptoms (consider if asymptomatic).
 - *ICI hepatitis page:* grade 2 steroids for symptomatic patients or after a 1–2 week ICI delay (AGA); ASCO steroid after 3–5 days without improvement.
-- *ICI hepatitis page:* "hospitalize if jaundiced"; ASCO consider inpatient monitoring at AST/ALT >8× ULN and/or bilirubin >3× ULN.
+- *ICI hepatitis page:* AASLD 2022 — consider hospitalization for jaundice at grade ≥3 (AGA: case by case); ASCO consider inpatient monitoring at AST/ALT >8× ULN and/or bilirubin >3× ULN.
 - *ICI hepatitis page:* infliximab "caution" (AGA); ASCO "contraindicated".
 - *ICI hepatitis page:* states no ingested guideline doses mycophenolate/azathioprine; ASCO Table A2 now does (see above).
 - *ICI hepatitis page:* biopsy at grade ≥2 before steroids (AGA) vs persistent grade 3 (AASLD); ASCO: consider if steroid-refractory or another diagnosis would change management.

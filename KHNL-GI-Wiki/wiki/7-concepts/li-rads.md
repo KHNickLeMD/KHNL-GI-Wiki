@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-11-16
+updated: 2026-11-23
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc, acr-2018-li-rads-ct-mri-core, acr-2024-li-rads-us-surveillance-core, acr-li-rads-lexicon]
 ---
 
@@ -111,6 +111,8 @@ Read down the two APHE columns, across to the observation size, then down to the
 
 *The diagnostic table above (AASLD 2023 Figure 6) assigns only LR-3, LR-4 and LR-5. **LR-1, LR-2, LR-M, LR-TIV and LR-NC are assigned before that table**, from the criteria below ([[acr-2018-li-rads-ct-mri-core]]).*
 
+*Treated HCC after ablation, embolization or radiation is categorized with the separate LR-TR algorithm: see [[li-rads-treatment-response]].*
+
 ### Categories Assigned Before the Table
 
 | If… | Category |
@@ -185,7 +187,7 @@ Optional, at the radiologist's discretion, for detection, confidence or **catego
 
 ## See Also
 
-[[hepatocellular-carcinoma]], [[hcc-surveillance]], [[focal-liver-lesions]], [[liver-biopsy]], [[cirrhosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[cholangiocarcinoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[liver-transplantation]], [[mri-mrcp]]
+[[hepatocellular-carcinoma]], [[hcc-surveillance]], [[focal-liver-lesions]], [[liver-biopsy]], [[cirrhosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[cholangiocarcinoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[liver-transplantation]], [[mri-mrcp]], [[li-rads-treatment-response]]
 
 ---
 

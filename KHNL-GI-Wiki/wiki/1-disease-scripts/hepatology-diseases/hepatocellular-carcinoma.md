@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-11-12
+updated: 2026-11-23
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment, mehta-2017-retreat-hcc-recurrence-post-transplant, acr-2024-li-rads-us-surveillance-core]
 ---
 
@@ -238,7 +238,7 @@ flowchart TD
 
 **Refractory to TACE/TARE:** >50% viable disease after 2 TACE or 1 TARE; new HCC in the treated zone after 2 TACE; no AFP fall after 2 TACE or 1 TARE; new vascular invasion or extrahepatic spread.
 
-**Response imaging:** multiphasic CT/MRI ~6 weeks after TACE, ~12 weeks after TARE/EBRT; modified Response Evaluation Criteria in Solid Tumors (mRECIST) for locoregional, RECIST 1.1 for systemic. Complete response → reimage in 3 months; partial/stable → retreat (>50% residual = refractory); progression → systemic.
+**Response imaging:** multiphasic CT/MRI ~6 weeks after TACE, ~12 weeks after TARE/EBRT; modified Response Evaluation Criteria in Solid Tumors (mRECIST) for locoregional, RECIST 1.1 for systemic. Complete response → reimage in 3 months; partial/stable → retreat (>50% residual = refractory); progression → systemic. LI-RADS categories for treated lesions: [[li-rads-treatment-response]].
 
 ---
 
@@ -391,7 +391,7 @@ flowchart TD
 
 ## See Also
 
-[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]], [[gastric-adenocarcinoma]]
+[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]], [[gastric-adenocarcinoma]], [[li-rads-treatment-response]]
 
 ---
 
