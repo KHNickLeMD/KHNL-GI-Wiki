@@ -6,6 +6,52 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-25] lint | 06:00 pass — ingest by budget ($25)
+
+**Scope:** backlog mode, $25 budget. Open `ingest: partial`: [[aspen-sccm-2016-critical-care-nutrition]] (resume at step 4, propagate).
+
+**Inbox sync:** `git status --untracked-files=all raw` clean — no new files under `raw/`. Nothing to commit.
+
+**Daily fetch:** nothing qualified — every `needed-sources.md` score/guideline row is 🔒 or 🌐, and there are no label rows. Downloaded nothing.
+
+**`[[aspen-sccm-2016-critical-care-nutrition]]` — resumed at step 4, finished.**
+- *Propagate* (fresh agent, copying only from the verified source page):
+  - [[nutrition-in-hospitalized-patients]]:
+    - B5 hemodynamic hold rules (mean arterial pressure <50 mm Hg).
+    - D2b GRV <500 mL and D1 nil per os.
+    - D4c prokinetics with their rationale doses; D4d head of bed.
+    - D6 and F1/E4b diarrhea and fiber; C4 protein 1.2–2.0 g/kg.
+    - Q4–Q5 obese ICU table by BMI; Q8 thiamine.
+    - H5/H6/H3a parenteral nutrition (PN) table.
+    - New `## Critically Ill Subgroups` table: N1/N2/N4, O2/O5/O6, M3a/b, M4c/d, J1/J2.
+    - NUTRIC pitfall rewritten: with interleukin-6 high risk is >6 (ACG 6–10); without it, ≥5.
+    - ACG 2016 (8 Mar 2016) is newer than ASPEN (Feb 2016), so it wins the page; ASPEN values sit beside ACG's.
+  - [[acute-pancreatitis]]: L1b and L6 day counts, which ACG 2024 does not give. L5 probiotics left out (the source contradicts itself; ACG 2024 is silent).
+  - [[nutrition-in-liver-disease]]: K1 dry/usual weight and K3 BCAA lines, each surfaced as conflicting with the newer AASLD 2024 / ACG 2025 recommendations on the page.
+  - [[obesity]]: See Also link only.
+  - [[enteral-access]]: unchanged (ICU gastric vs post-pyloric access is already ACG Rec 10a on the nutrition page).
+  - Source page Contradictions: 2 bullets (vs ACG 2016; vs the liver guidelines). The ASPEN `needed-sources.md` row is deleted.
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH on all three pages. The existing flags sit on older lines: liver L216–232 (ALD/ISHEN/ACG 2025 lines); pancreatitis L89, L245–327. They are left for those pages' quality review. SIGN lines went to the verifier.
+- *Independent check of changed lines* (fresh agent, ~80 claims, signs read on rendered pages pp 5, 10, 13, 40): 0 management, 3 minor, all confirmed and fixed:
+  - K3 is "no evidence of further benefit", not "no benefit".
+  - The D4c grade covers starting a prokinetic; the doses come from the rationale.
+  - L1b also triggers on an unexpected complication.
+- No other copies.
+- [[nutrition-in-hospitalized-patients]] `verified:` re-stamped 2026-11-25. The liver and pancreatitis pages had no stamp; their changed lines are checked, but the pages stay unverified.
+- `index.md`:
+  - nutrition row description updated, 3 → 4 sources.
+  - Stale counts corrected: [[acute-pancreatitis]] 8 → 15, [[nutrition-in-liver-disease]] 5 → 9.
+- *Cards* (`/cards/7-concepts/nutrition-in-hospitalized-patients.md`; deck **not rebuilt**, `node` needs approval; the 05:00 pass builds):
+  - New notes: ab5010 (vasopressor hold rules), ab5011 (GRV 500 mL), ab5012 (ICU glucose), ab5013 (thiamine after bariatric surgery), ab5014 (sepsis EN timing / no early PN), ab5015 (protein on renal replacement therapy).
+  - ab5001 front qualified "with interleukin-6", and its Back Extra now drops the "NUTRIC 5 is low risk" line.
+  - ab5004 and ab5008 Back Extra gained the ASPEN energy ceiling and prokinetic doses.
+  - `page_updated:` 2026-11-25. `cards_reviewed:` left at 11-17, so the file requeues for a full review against the newly verified page.
+  - No cards for the pancreatitis or liver pages (not verified).
+- Page length: [[nutrition-in-hospitalized-patients]] is now ~3,650 words, over the 2,500 ceiling → slim candidate.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-25] lint | Quality review — release sweep (interactive)
 
 **Totals:**

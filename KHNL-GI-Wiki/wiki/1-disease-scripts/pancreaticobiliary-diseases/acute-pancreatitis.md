@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-11-12
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score, sages-2026-walled-off-pancreatic-necrosis]
+updated: 2026-11-25
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis, aga-2018-initial-management-acute-pancreatitis, bsg-2017-common-bile-duct-stones, idsa-2016-candidiasis, banks-2013-revised-atlanta-classification, wu-2008-bisap-score, sages-2026-walled-off-pancreatic-necrosis, aspen-sccm-2016-critical-care-nutrition]
 ---
 
 # Acute Pancreatitis
@@ -237,6 +237,8 @@ flowchart TD
 
 **Timing for the patient who cannot eat** ([[aga-2020-cpu-pancreatic-necrosis]]): **start support within 24–72 hours** (a trial of oral food goes ahead **immediately** in anyone without nausea, vomiting, ileus or obstruction). **Nasoenteric feeding not tolerated, or enteral nutrition expected to run >30 days → [[enteral-access|endoscopic feeding tube]]** — gastrostomy if gastric feeds are tolerated, **direct jejunostomy** if they are not or aspiration risk is high.
 
+**Day counts ACG 2024 does not give** (Society of Critical Care Medicine/American Society for Parenteral and Enteral Nutrition [SCCM/ASPEN] 2016, [[aspen-sccm-2016-critical-care-nutrition]]): mild AP with an unexpected complication or no advance to oral diet within **7 days** → consider specialized nutrition therapy (L1b, Very Low); severe AP with enteral nutrition not feasible → consider parenteral nutrition **after 1 week** from onset (L6, expert consensus).
+
 ### 4. Antibiotics
 
 - *"We suggest **against prophylactic antibiotics** in patients with severe AP"* ([[acg-2024-acute-pancreatitis]] Rec 8 — conditional, very low quality). Antibiotics should not be used in **sterile** necrosis (Key concept 15).
@@ -360,3 +362,4 @@ flowchart TD
 12. [[banks-2013-revised-atlanta-classification|Classification of Acute Pancreatitis — 2012: Revision of the Atlanta Classification and Definitions by International Consensus]]
 13. [[wu-2008-bisap-score|The Early Prediction of Mortality in Acute Pancreatitis: a Large Population-Based Study (BISAP)]]
 14. [[sages-2026-walled-off-pancreatic-necrosis|SAGES Clinical Practice Guidelines for the Management of Symptomatic Walled-Off Pancreatic Necrosis (2026)]]
+15. [[aspen-sccm-2016-critical-care-nutrition|Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: SCCM and ASPEN (2016)]]

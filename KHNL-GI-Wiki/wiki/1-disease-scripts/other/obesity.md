@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-11-16
+updated: 2026-11-25
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons, asge-esge-2024-primary-ebmt, asmbs-ifso-2022-bariatric-indications]
 quality_reviewed: 2026-11-13
 ---
@@ -150,7 +150,7 @@ quality_reviewed: 2026-11-13
 
 ## See Also
 
-[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[gastroparesis]], [[endoscopy-sedation]], [[celiac-disease]], [[inflammatory-bowel-disease]]
+[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[gastroparesis]], [[endoscopy-sedation]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

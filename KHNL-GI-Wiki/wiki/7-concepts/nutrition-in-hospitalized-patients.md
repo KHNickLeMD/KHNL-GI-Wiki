@@ -3,10 +3,10 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-11-22
+updated: 2026-11-25
 quality_reviewed: 2026-11-22
-verified: 2026-11-22
-sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
+verified: 2026-11-25
+sources: [acg-2016-nutrition-hospitalized, aspen-sccm-2016-critical-care-nutrition, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
 ## Contents
@@ -27,6 +27,7 @@ sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-201
   - [[#Aspiration Risk]]
   - [[#Diarrhea on EN]]
 - [[#Parenteral Nutrition]]
+- [[#Critically Ill Subgroups]]
 - [[#End-of-Life Nutrition]]
 - [[#See Also]]
 - [[#Sources]]
@@ -36,6 +37,7 @@ sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-201
 - Scope: adult hospitalized patient unable to sustain volitional intake, expected to stay >3 days — ward or intensive care unit (ICU); most evidence comes from the ICU ([[acg-2016-nutrition-hospitalized]]).
 - **Nutritional risk** (nutritional status + disease severity), not malnutrition alone, sets how hard to feed: high-risk patients benefit most from early enteral nutrition (EN); in low-risk patients, EN or parenteral nutrition (PN) is unlikely to change outcome.
 - Early EN also has non-nutritional benefits — maintains gut integrity and gut-associated lymphoid tissue (GALT), modulates immune and metabolic responses (ACG 2016 Table 4).
+- Critically ill adults expected to stay >2 or 3 days in the ICU: also the Society of Critical Care Medicine/American Society for Parenteral and Enteral Nutrition (SCCM/ASPEN) 2016 guideline adds ICU-specific rules below; population targets in [[#Critically Ill Subgroups]] [[aspen-sccm-2016-critical-care-nutrition]].
 - Disease-specific nutrition: [[acute-pancreatitis]], [[nutrition-in-liver-disease|liver disease]], [[nutrition-in-ibd|inflammatory bowel disease (IBD)]].
 
 ---
@@ -80,8 +82,8 @@ ACG 2016 Table 5 — total from six separate factors [[acg-2016-nutrition-hospit
 - **6–10 = high risk** — in a large international ICU observational study, mortality fell the closer delivery came to goal feeding.
 - **0–5 = low risk** — no association between amount of nutrition received and mortality.
 
-> [!pitfall] NUTRIC 5 is still low risk
-> The ≥5 cut-point belongs to NRS-2002 (elective-surgery cohort); on NUTRIC, high risk starts at 6 ([[acg-2016-nutrition-hospitalized]]).
+> [!pitfall] NUTRIC cut-off depends on interleukin-6
+> With interleukin-6: high risk starts at 6 ([[acg-2016-nutrition-hospitalized]]; SCCM/ASPEN says >6). Without interleukin-6: high risk = **≥5** (SCCM/ASPEN A1, C3, G2 — [[aspen-sccm-2016-critical-care-nutrition]]). The NRS-2002 ≥5 cut-point is a separate score.
 
 ### Markers to Avoid
 
@@ -101,7 +103,8 @@ ACG 2016 Table 5 — total from six separate factors [[acg-2016-nutrition-hospit
   - **Published predictive equation** — matches IC in only 40–70%; use with caution (e.g., extreme obesity)
 - **Rec 8** — set protein requirements independently of calories; reassess provision on an ongoing basis (Conditional, Very low).
   - 1.2–1.5 g/kg/day was thought sufficient; recent studies suggest **1.5–2.0 g/kg/day** to optimize therapy.
-  - Trauma or large wounds: needs "may be even higher" — ACG 2016 gives no number.
+  - Trauma or large wounds: needs "may be even higher" — ACG 2016 gives no number; SCCM/ASPEN population targets in [[#Critically Ill Subgroups]].
+  - SCCM/ASPEN C4 (Very Low): **1.2–2.0 g/kg actual body weight/day**, likely higher in burns or multitrauma [[aspen-sccm-2016-critical-care-nutrition]].
   - Nitrogen balance alternative: protein g/day = (24-h urine urea nitrogen [UUN] + 4) × 6.25.
 
 ---
@@ -140,6 +143,10 @@ flowchart TD
 | Mechanical obstruction of the GI tract · uncontrolled peritonitis · ischemic bowel | Ileus · open abdomen · recent gut anastomoses · GI bleeding · bowel-wall edema · stable patient on vasopressors to maintain adequate mean arterial pressure |
 
 - Bowel sounds are not a sensitive marker of GI function and are not required to start EN [[acg-2016-nutrition-hospitalized]].
+- **Hemodynamic instability → withhold EN** until fully resuscitated and/or stable (SCCM/ASPEN B5, expert consensus) [[aspen-sccm-2016-critical-care-nutrition]]:
+  - Hold when mean arterial pressure **<50 mm Hg**, catecholamines are being started, or escalating doses are needed to maintain stability.
+  - Chronic, stable low-dose vasopressors → EN with caution.
+  - On vasopressors, abdominal distention, rising nasogastric output or gastric residuals, less stool/flatus, hypoactive bowel sounds or rising metabolic acidosis/base deficit = possible early gut ischemia → hold EN.
 
 ---
 
@@ -182,6 +189,16 @@ ACG 2016 Recs 9–14 [[acg-2016-nutrition-hospitalized]]:
 | [[obesity\|Obesity]], BMI >30 | Conditional, Very low | High-protein hypocaloric regimen: **2.0–2.5 g protein/kg ideal body weight/day** + **60–65%** of estimated or measured energy expenditure; keeps lean mass, depletes fat, no increase in adverse outcomes |
 | PN over the first week | Conditional, Low | 80% of caloric requirements with full protein — see [[#Parenteral Nutrition]] |
 
+- **Obese ICU patients — SCCM/ASPEN Q4–Q5** (expert consensus) [[aspen-sccm-2016-critical-care-nutrition]]: high-protein hypocaloric EN, all obesity classes. Energy ceiling **65%–70%** of IC-measured target (ACG 2016: 60–65%).
+
+| BMI (kg/m²) | Energy without IC | Protein |
+|---|---|---|
+| 30–40 | 11–14 kcal/kg actual body weight/day | 2.0 g/kg ideal body weight/day |
+| 40–50 | 11–14 kcal/kg actual body weight/day | up to 2.5 g/kg ideal body weight/day (BMI ≥40) |
+| >50 | 22–25 kcal/kg ideal body weight/day | up to 2.5 g/kg ideal body weight/day |
+
+- Prior [[bariatric-surgery|bariatric surgery]] → **thiamine before** dextrose-containing IV fluids or nutrition therapy (SCCM/ASPEN Q8, expert consensus).
+
 ### Refeeding Syndrome
 
 **Rec 20** — high risk for refeeding syndrome → ramp feeding up slowly to goal over **3–4 days**, carefully monitoring electrolytes and volume status (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
@@ -212,6 +229,8 @@ Source: [[acg-2016-nutrition-hospitalized]]. Formula changes for diarrhea: [[#Di
 - **Rec 19b** — track adequacy: percent of goal calories delivered, cumulative caloric deficit, inappropriate cessation of EN (Conditional, Very low).
 - **Rec 21a** — use enteral feeding protocols (**Strong, Moderate-to-high**); **Rec 21b** — a validated one, e.g., volume-based or multi-strategy (bundled) top-down protocol (Conditional, Very low). Volume-based feeding sets a 24-h volume and lets the nurse raise the rate to make up for interruptions.
 - **Rec 22** — gastric residual volume (GRV) **not** used routinely as a monitor (Conditional, Very low).
+  - Where GRVs are still used: don't hold EN for GRV **<500 mL** without other signs of intolerance (SCCM/ASPEN D2b, Low); 200–500 mL → take aspiration-reduction measures [[aspen-sccm-2016-critical-care-nutrition]].
+- Minimize nil per os orders around diagnostic tests and procedures (SCCM/ASPEN D1, expert consensus).
 
 > [!pitfall] GRV turns off feeds, not aspiration
 > GRV sensitivity for aspiration is <2–8%; lowering the cutoff does not prevent aspiration, it just stops EN delivery — and GRV checks raise tube clogging tenfold ([[acg-2016-nutrition-hospitalized]]).
@@ -228,11 +247,15 @@ Source: [[acg-2016-nutrition-hospitalized]]. Formula changes for diarrhea: [[#Di
 | Switch to continuous infusion | Conditional, Very low |
 | Chlorhexidine mouthwash twice daily | Conditional, Very low |
 
-- ACG 2016 names no prokinetic agent or dose. Head-of-bed elevation is also listed among risk-reducing steps.
+- **Prokinetics** — SCCM/ASPEN D4c (Low): high aspiration risk → start metoclopramide or erythromycin where clinically feasible [[aspen-sccm-2016-critical-care-nutrition]]. Doses used (D4c rationale): **erythromycin 3–7 mg/kg/day** or **metoclopramide 10 mg 4 times a day** (adjust for declining renal function), oral or IV.
+  - Not combined — more watery diarrhea (54% vs 26.3%).
+  - Risks: erythromycin cardiac toxicity, tachyphylaxis, bacterial resistance; metoclopramide tardive dyskinesia (more in elderly); both prolong QT.
+- **Head of bed 30°–45°** in all intubated patients on EN (SCCM/ASPEN D4d, expert consensus).
 
 ### Diarrhea on EN
 
 - **Rec 24a** — evaluate for an etiology to direct management (Conditional, Very low) [[acg-2016-nutrition-hospitalized]].
+  - Don't stop EN automatically for diarrhea — continue feeds while evaluating (SCCM/ASPEN D6, expert consensus; diarrhea = 2–3 liquid stools/day or >250 g liquid stool/day) [[aspen-sccm-2016-critical-care-nutrition]].
   - Commonest cause: **sorbitol-containing medications (55%)**; *[[clostridioides-difficile|Clostridium difficile]]* causes 17–20%.
   - Stop prokinetics in non–*C. difficile* diarrhea on EN.
 - **Rec 24b** — manage with one of three:
@@ -244,6 +267,7 @@ Source: [[acg-2016-nutrition-hospitalized]]. Formula changes for diarrhea: [[#Di
 | Small peptide / medium-chain triglyceride (MCT) oil formula | Conditional, Very low |
 
 - Soluble fiber reduces diarrhea more consistently than mixed-fiber formula; small peptide/MCT formulas have not shown outcome benefit in RCTs.
+- SCCM/ASPEN (expert consensus): fermentable soluble fiber **10–20 g** in divided doses over 24 h for diarrhea (F1); avoid soluble and insoluble fiber with high risk of bowel ischemia or severe dysmotility (E4b) [[aspen-sccm-2016-critical-care-nutrition]].
 
 ---
 
@@ -258,6 +282,31 @@ When to start, supplement and stop PN (Recs 30a, 30b, 31, 34b): flowchart in [[#
 | 34a | EN starting in a patient on PN: careful transition feeding — taper PN as EN tolerance and volume improve, to avoid overfeeding | Conditional, Very low |
 
 - First-week hypocaloric PN: 80% of caloric requirements with full protein at **1.5–2.0 g/kg/day**; meta-analysis of 5 RCTs (trauma, pancreatitis, major abdominal surgery) — less infection and shorter length of stay than PN at goal (20 vs 25 kcal/kg/day). Second week: raise to 100% of goal calories and protein.
+
+ICU additions — SCCM/ASPEN 2016 [[aspen-sccm-2016-critical-care-nutrition]]:
+
+| Rec | Statement | Evidence |
+|---|---|---|
+| H5 | **Recommend** blood glucose target **140 or 150–180 mg/dL**, general ICU population | Moderate |
+| H6 | **Recommend** against routine parenteral glutamine | Moderate |
+| H3a | First week of PN: withhold or limit soybean oil–based IV fat emulsion to max **100 g/week** (often 2 doses/week) if essential fatty acid deficiency is a concern | Very Low (64% panel agreement) |
+
+---
+
+## Critically Ill Subgroups
+
+SCCM/ASPEN 2016 [[aspen-sccm-2016-critical-care-nutrition]]:
+
+| Group | Recommendation | Rec, evidence |
+|---|---|---|
+| Severe sepsis / septic shock | EN within **24–48 h** of diagnosis once resuscitated and hemodynamically stable (mean arterial pressure ≥60 mm Hg); trophic **10–20 kcal/h or ≤500 kcal/day** first, advance after 24–48 h to **>80%** of target over week 1; protein **1.2–2 g/kg/day** | N1, N4 — expert consensus |
+| Severe sepsis / septic shock, acute phase | **No** exclusive PN or supplemental PN with EN early, regardless of nutrition risk | N2 — Very Low |
+| After major surgery (surgical ICU) | EN within **24 h** when feasible; on diet advancement, solid food as tolerated — clear liquids not required first | O2 — Very Low; O6 — expert consensus |
+| Major upper GI surgery (e.g., esophagectomy, gastrectomy, pancreatectomy), EN not feasible | PN **only if** therapy expected **≥7 days**; unless high nutrition risk, delay PN **5–7 days** after surgery | O5 — expert consensus |
+| Open abdomen | Early EN (**24–48 h**) if no bowel injury; extra **15–30 g protein per liter of exudate** lost | M3a, M3b — expert consensus |
+| Burns | Very early EN (if possible within **4–6 h** of injury); protein **1.5–2 g/kg/day** | M4d, M4c — expert consensus |
+| Acute kidney injury | Standard formula; protein **1.2–2 g/kg actual body weight/day**; energy **25–30 kcal/kg/day** | J1 — expert consensus |
+| Frequent hemodialysis or continuous renal replacement therapy | **Recommend** protein up to max **2.5 g/kg/day**; never restrict protein to avoid or delay dialysis | J2 — Very Low |
 
 ---
 
@@ -288,5 +337,6 @@ All Conditional, Very low [[acg-2016-nutrition-hospitalized]]:
 ## Sources
 
 1. [[acg-2016-nutrition-hospitalized|ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Patient]]
-2. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]
-3. [[asge-2011-enteral-feeding|ASGE 2011: The Role of Endoscopy in Enteral Feeding]]
+2. [[aspen-sccm-2016-critical-care-nutrition|Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: SCCM and ASPEN (2016)]]
+3. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]
+4. [[asge-2011-enteral-feeding|ASGE 2011: The Role of Endoscopy in Enteral Feeding]]

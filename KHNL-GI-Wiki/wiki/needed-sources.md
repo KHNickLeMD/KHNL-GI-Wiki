@@ -24,7 +24,6 @@ These documents are **already in `raw/`** at the path shown (each checked with `
 | *GI Guidelines/NCCN/NCCN 2026 Pancreatic Adenocarcinoma.pdf* | new source page | resectable / borderline / locally advanced contact criteria; AJCC 8th T changes | [[pancreatic-cancer]] |
 | *GI Guidelines/NCCN/NCCN 2026 Genetic Familial High-Risk Assessment Colorectal Endometrial Esophageal Gastric.pdf* | new source page | Cowden major/minor criteria; PHTS / JPS / PJS surveillance. *(HDGC half closed by [[igclc-2020-hdgc\|IGCLC 2020]].)* | [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[aga-2022-hamartomatous-polyposis]] |
 | *GI Guidelines/Other/ASCO 2021 Management of Immune-Related Adverse Events with ICI Therapy (Schneider).pdf* | new source page — [Schneider 2021](https://doi.org/10.1200/JCO.21.01440) | MMF / azathioprine / tacrolimus doses in ICI hepatitis; taper endpoints | [[immune-checkpoint-inhibitor-hepatitis]] |
-| *GI Guidelines/Other/ASPEN-SCCM 2016 Nutrition Support Therapy in the Adult Critically Ill Patient (McClave).pdf* | new source page — [McClave 2016](https://doi.org/10.1177/0148607115621863) | metoclopramide / erythromycin doses in EN intolerance | [[nutrition-in-hospitalized-patients]] |
 | *GI Guidelines/ASGE/ASGE 2020 Endoscopic Removal of Colorectal Lesions - Appendix 4a DOPyS.pdf* and *…Appendix 4b CSPAT.pdf* | add to [[usmstf-2020-endoscopic-removal]] | DOPyS and CSPAT item lists | [[polypectomy]] |
 
 ## Scores and classification instruments (primary papers)

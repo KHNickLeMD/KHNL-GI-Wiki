@@ -3,8 +3,8 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-11-14
-sources: [baveno-viii-2026-portal-hypertension, acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald, ishen-2013-nutrition-hepatic-encephalopathy]
+updated: 2026-11-25
+sources: [baveno-viii-2026-portal-hypertension, acg-2026-preventive-care-cirrhosis, acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis, borhofen-2016-rfh-npt-cirrhosis, acg-2024-ald, aasld-2020-ald, ishen-2013-nutrition-hepatic-encephalopathy, aspen-sccm-2016-critical-care-nutrition]
 ---
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
@@ -171,7 +171,7 @@ Malnutrition in liver disease is multifactorial:
 | **Protein** | **1.2–1.5 g/kg/day** — do **NOT** protein-restrict, even with [[hepatic-encephalopathy\|HE]] [[aasld-2021-malnutrition-cirrhosis]]. [[acg-2026-preventive-care-cirrhosis\|ACG 2026]] specifies **1.2–1.5 g/kg *ideal body weight*/day** |
 | **Calories with obesity** | **25–35 kcal/kg/day** if body mass index (BMI) **30–40 kg/m²**; **20–25 kcal/kg/day** if BMI **≥40 kg/m²** [[acg-2026-preventive-care-cirrhosis]] |
 
-- Critically ill / [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] inpatients use different (weight-based, ideal body weight [IBW]) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]].
+- Critically ill / [[acute-on-chronic-liver-failure|acute-on-chronic liver failure (ACLF)]] inpatients use different (weight-based, ideal body weight [IBW]) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]]. The older Society of Critical Care Medicine (SCCM)/ASPEN 2016 guideline instead uses dry or usual weight in intensive care unit (ICU) patients with cirrhosis or hepatic failure (K1, expert consensus) [[aspen-sccm-2016-critical-care-nutrition]].
 - **Deliver the targets through a dietician** — ACG 2026 Rec 15 (*conditional, low*) recommends dietician-guided interventions rather than a number handed to the patient; the trials that improved frailty and hospitalization used dietician-supported intensive therapy.
 
 > [!pearl] Nutrition works when it is paired with exercise
@@ -223,6 +223,7 @@ Malnutrition in liver disease is multifactorial:
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE. The only exception [[ishen-2013-nutrition-hepatic-encephalopathy]] allows is a **very short period during stabilization of GI bleeding**. Protein retention stays efficient **up to 2 g/kg/day without precipitating or exacerbating HE**, so a depleted patient losing weight can be pushed above the usual range
 - Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low). Target **30–40 g/day of vegetable protein**, usually achievable *provided the patient is not also salt-restricted* (which makes the diet unpalatable) (ISHEN 2B)
 - **Branched chain amino acids (BCAAs) + standard of care** ([[lactulose]] + [[rifaximin]]): augments efficacy; recommend when available (Strong/Moderate). ⚠ ISHEN 2013 is narrower — BCAA supplements only to **attain nitrogen intake in the occasional truly protein-intolerant patient** (2B), finding little evidence of a direct effect on HE. ACG 2025 is newer and is what this page recommends
+  - ⚠ SCCM/ASPEN 2016 (ICU) found no evidence of further benefit of BCAA formulations on coma grade in encephalopathy already treated with first-line luminal-acting antibiotics and lactulose, and suggests standard enteral formulas (K3, expert consensus) [[aspen-sccm-2016-critical-care-nutrition]]
 - **[[probiotics|Probiotics]]: not recommended** for HE by ISHEN 2013 — benefits and harms still uncertain, comparative efficacy and dosing unresolved. Consider only where HE is incompletely or poorly controlled
 
 **Fluid/electrolyte management:**
@@ -265,3 +266,4 @@ Malnutrition in liver disease is multifactorial:
 6. [[acg-2026-preventive-care-cirrhosis|ACG Clinical Guideline: Preventive Care for Patients With Cirrhosis (2026)]]
 7. [[ishen-2013-nutrition-hepatic-encephalopathy|The Nutritional Management of Hepatic Encephalopathy in Patients With Cirrhosis: ISHEN Consensus (2013)]]
 8. [[baveno-viii-2026-portal-hypertension|Baveno VIII: Advancing Consensus in Portal Hypertension (2026)]]
+9. [[aspen-sccm-2016-critical-care-nutrition|Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: SCCM and ASPEN (2016)]]

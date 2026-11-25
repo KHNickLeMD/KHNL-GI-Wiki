@@ -3,10 +3,9 @@ title: "Guidelines for the Provision and Assessment of Nutrition Support Therapy
 category: source
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, critical-care, icu, aspen, sccm, pancreatitis]
 created: 2026-11-23
-updated: 2026-11-23
+updated: 2026-11-25
 sources: []
 raw: "GI Guidelines/Other/ASPEN-SCCM 2016 Nutrition Support Therapy in the Adult Critically Ill Patient (McClave).pdf"
-ingest: partial
 verified: 2026-11-23
 ---
 
@@ -355,3 +354,5 @@ Recommendations are lettered by section (A–R) and numbered within section (A1,
 - **H3a lipid restriction** reached only 64% agreement (below the 70% threshold) and rests mainly on one dated trial
 - **Glucose target** is a compromise between societies (SCCM 150–180 vs A.S.P.E.N. 140–180 mg/dL); specific populations deferred to SCCM glycemic guidelines
 - **Evidence date:** literature searched only to December 31, 2013; landmark later trials were deliberately excluded (p 159)
+- **vs [[acg-2016-nutrition-hospitalized]] (March 2016, newer; wins on [[nutrition-in-hospitalized-patients]]):** NUTRIC with interleukin-6 high risk >6 here vs 6–10 in ACG; protein floor 1.2 here vs 1.5 g/kg/d in ACG; obese ICU energy ceiling 65%–70% here vs 60%–65% in ACG
+- **vs newer liver guidance ([[nutrition-in-liver-disease]]):** K1 dry/usual weight vs AASLD 2024 ideal body weight in acute-on-chronic liver failure; K3 standard formula, no added BCAA benefit vs ACG 2025 recommending BCAA + standard of care in hepatic encephalopathy
