@@ -3,7 +3,7 @@ title: "MetALD (Metabolic Dysfunction– and Alcohol-Associated Liver Disease)"
 category: disease-script
 tags: [metald, masld, ald, sld, steatotic-liver-disease, liver, alcohol, aud, fibrosis, fib-4, vcte, peth, glp-1, bariatric]
 created: 2026-11-08
-updated: 2026-11-22
+updated: 2026-11-24
 sources: [aga-2026-metald, aasld-2023-masld-nomenclature]
 quality_reviewed: 2026-11-22
 verified: 2026-11-22
@@ -50,7 +50,7 @@ Metabolic dysfunction– and alcohol-associated liver disease (MetALD) = **hepat
 *MASLD = metabolic dysfunction–associated steatotic liver disease · MetALD = metabolic dysfunction– and alcohol-associated liver disease · ALD = alcohol-associated liver disease · CMRF = cardiometabolic risk factor*
 
 - **Daily equivalents** ([[aasld-2023-masld-nomenclature]]): MetALD = average **20–50 g/day (women), 30–60 g/day (men)**. MASLD excludes >20 g/30 g per day. **>50 g (women) / >60 g (men) daily, or weekly equivalent → ALD**, not MetALD — alcohol is likely the dominant driver.
-- **A continuum within MetALD** ([[aasld-2023-masld-nomenclature]]): **MASLD-predominant** near 140 g/wk (women) / 210 g/wk (men) → **ALD-predominant** at up to 350 / 420 g/wk. The precise cutoffs were set for research; AGA expects them to evolve ([[aga-2026-metald]]).
+- **A continuum within MetALD** ([[aasld-2023-masld-nomenclature]]): **MASLD-predominant** near 140 g/wk (women) / 210 g/wk (men) → **ALD-predominant** at up to 350 / 420 g/wk. The precise cutoffs were provided for research ([[aasld-2023-masld-nomenclature]]); AGA expects them to evolve ([[aga-2026-metald]]).
 - One standard drink ≈ **14 g** pure alcohol (12 fl oz of 5% beer, 5 fl oz of 12% wine, 1.5 fl oz of 40% spirits) ([[aga-2026-metald]]).
 
 > [!pitfall] Re-ask about alcohol every year — the category moves

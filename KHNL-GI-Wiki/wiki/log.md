@@ -6,6 +6,33 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-24] lint | Spot check of cron-verified pages and cards (interactive)
+
+**Why:** independent blind re-check of the cron's `verified:` stamps from 11-22/23, plus recently reviewed card files. Each was checked against the raw PDFs by a fresh agent, and every finding was re-confirmed against the PDF before editing.
+
+**Pages (about 320 claims across 4 pages): 0 management-changing errors, 6 minor ones, all fixed.**
+- [[glp-1-receptor-agonists]]: clean (about 55 claims).
+- [[metald]]: the "cutoffs set for research" point is now attributed to [[aasld-2023-masld-nomenclature]]; AGA only says the cutoffs will evolve.
+- [[immune-checkpoint-inhibitor-hepatitis]]:
+  - Flowchart edges no longer credit CT/MRI, MRCP/EUS-after-normal-US and ERCP to BPA 15. They come from the update's text.
+  - BPA 15 itself (ultrasound, MRCP or EUS for elevated ALP/bilirubin) is now stated in the prose.
+  - "Up to 10%" is now "~10%" Hy's-law mortality, per ACG Table 3.
+  - The differential line now carries its citations.
+- [[pouchitis]]:
+  - The calprotectin–PDAI correlation is now attributed to [[aga-2024-pouchitis]]; ASGE 2025 says "endoscopic and histologic inflammation".
+  - The 6 g/day post-antibiotic dosing is now limited to 2 of the 3 RCTs.
+  - The Recs 11–12 pouchoscopy purpose is corrected to "confirm Crohn's-like disease of the pouch".
+
+**Cards (3 files, 50 notes):**
+- ICI colitis and ICI hepatitis (reviewed 11-23) are clean apart from source-attribution slips.
+- `7-concepts/nutrition-in-hospitalized-patients` was reviewed 11-17, before the page was verified on 11-22. It had 2 management-changing errors, both fixed:
+  - `ab5001`: NRS-2002 high risk is ≥5, not >3.
+  - `ab500d`: arginine + fish-oil formula is *used* in the surgical ICU after major surgery (18b) and *not routinely* in the medical ICU (18c). Invented glutamine, fiber and renal rows were removed.
+- `ab500b`: the ambiguous "it" now reads "feeds".
+- The file stays in the RE-CHECK queue for its full re-correlation.
+
+**Takeaway:** pages verified under the 11-16 system are holding up, with no management-changing errors in 4 of 4. Card files written before their page was verified are the remaining risk: 73 are still queued for re-check.
+
 ## [2026-11-23] lint | Quality review — release sweep ($40)
 
 **Scope:** Quality review step only, by budget. Queue from `review-queue.py --pages 10`; status at start: 211/377 pages reviewed, 74/377 verified; 162/477 source pages verified.

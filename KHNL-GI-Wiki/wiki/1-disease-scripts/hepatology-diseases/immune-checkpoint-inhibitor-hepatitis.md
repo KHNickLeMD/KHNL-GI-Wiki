@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-11-23
+updated: 2026-11-24
 sources: [acg-2021-dili, aasld-2022-dili, aga-2021-ici-colitis-hepatitis, asco-2021-immune-related-adverse-events]
 quality_reviewed: 2026-11-14
 verified: 2026-11-23
@@ -66,7 +66,7 @@ Immune checkpoint inhibitor (ICI) hepatotoxicity — **immune-mediated hepatitis
 > [[aasld-2022-dili]] gives the same grade 1 and 2 bands (using ALT) but stops at a combined **"grade 3 or higher"** band (ALT 5–20× ULN and/or bilirubin 3–10× ULN **or symptomatic liver dysfunction**); the grade 4 row and the hepatic-decompensation qualifier come from American Gastroenterological Association (AGA) BPA 13 and ASCO. None prints grade 5.
 
 - **Fatality is rare — <1% of IMH**, and almost exclusively in patients who are jaundiced. [[aasld-2022-dili]]
-- Hepatocellular jaundice carries up to **10% mortality** in DILI generally (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
+- Hepatocellular jaundice carries a **~10% mortality** risk in DILI generally (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
 - **Underlying chronic liver disease did not change** the characteristics of liver injury, the response to steroids, or outcomes in the >5,000-patient ICI series. [[acg-2021-dili]]
 - Monitor for progression to [[acute-liver-failure]] and refer for [[liver-transplantation|transplant]] evaluation when indicated. [[aasld-2022-dili]]
 
@@ -80,7 +80,7 @@ Immune checkpoint inhibitor (ICI) hepatotoxicity — **immune-mediated hepatitis
 - Other [[drug-induced-liver-injury|DILI]] from co-medications or herbal/dietary supplements
 - Hepatic metastases / disease progression ([[hepatocellular-carcinoma]] and other malignancy)
 - Viral hepatitis reactivation — check [[chronic-hepatitis-b|HBsAg]]/anti-HBc before ICI initiation
-- Thromboembolic disease, perfusion injury, opportunistic infection, sepsis
+- Thromboembolic disease, perfusion injury, opportunistic infection ([[aga-2021-ici-colitis-hepatitis]]), sepsis ([[aasld-2022-dili]])
 - COVID-19 — can mimic irAEs, including elevated liver tests ([[asco-2021-immune-related-adverse-events]])
 - [[biliary-stricture|Biliary obstruction]] or compression — including ICI-related sclerosing cholangitis (cholestatic pattern)
 
@@ -100,16 +100,17 @@ Immune checkpoint inhibitor (ICI) hepatotoxicity — **immune-mediated hepatitis
 - **Abdominal ultrasound** — hepatobiliary tree and hepatic vasculature.
 - **ASCO additions:** review supplements as well as medications; rule out development or progression of liver metastases. Grade ≥2 → blood work and imaging (ultrasound and cross-sectional) for other causes, including alcohol history, iron studies and thromboembolic event; strong suspicion of primary AIH → can consider ANA / SMA / antineutrophil cytoplasmic antibody (ANCA); **isolated ALP elevation → gamma-glutamyl transferase (GGT)**; **isolated transaminase elevation → consider creatine kinase (CK)**. [[asco-2021-immune-related-adverse-events]]
 - **Cross-sectional imaging (computed tomography [CT] or magnetic resonance [MR])** — may be valuable in any patient at risk for, or with known, hepatic metastases ([[aga-2021-ici-colitis-hepatitis]]); AASLD stresses the importance of contrast-enhanced CT and MR in these patients ([[aasld-2022-dili]]).
-- Choice between magnetic resonance cholangiopancreatography and endoscopic ultrasound rests on **safety, availability and local expertise**.
+- **Elevated ALP and/or bilirubin → biliary imaging for obstruction: hepatic ultrasound, magnetic resonance cholangiopancreatography or endoscopic ultrasound (BPA 15).** The update's text adds cross-sectional hepatobiliary imaging (CT/MRI) for elevated ALP and/or bilirubin; with risk factors for biliary obstruction (hepatic or intra-abdominal metastases) and a normal ultrasound, consider MRCP or EUS; ERCP may be needed when obstruction or stricture is seen ([[aga-2021-ici-colitis-hepatitis]]).
+- Choice between magnetic resonance cholangiopancreatography and endoscopic ultrasound rests on **safety, availability and local expertise** ([[aga-2021-ici-colitis-hepatitis]]).
 
 ```mermaid
 flowchart TD
     A(["Elevated liver chemistries on ICI"]) --> B["History and full medication review<br/>Hepatotropic and non-hepatotropic viral serologies<br/>Abdominal ultrasound"]
     B -- "all patients (BPA 14)" --> L(["Consider liver biopsy"])
-    B -- "ALP and/or bilirubin elevated (BPA 15)" --> C["Cross-sectional hepatobiliary imaging: CT or MRI"]
-    B -- "biliary obstruction risk factors, normal ultrasound (BPA 15)" --> D["Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS)"]
-    C -- "obstruction or stricture seen (BPA 15)" --> E(["Endoscopic retrograde cholangiopancreatography (ERCP)"])
-    D -- "obstruction or stricture seen (BPA 15)" --> E
+    B -- "ALP and/or bilirubin elevated (text)" --> C["Cross-sectional hepatobiliary imaging: CT or MRI"]
+    B -- "biliary obstruction risk factors, normal ultrasound (text)" --> D["Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound (EUS)"]
+    C -- "obstruction or stricture seen (text)" --> E(["Endoscopic retrograde cholangiopancreatography (ERCP)"])
+    D -- "obstruction or stricture seen (text)" --> E
     class A start
     class B,C,D test
     class E,L act

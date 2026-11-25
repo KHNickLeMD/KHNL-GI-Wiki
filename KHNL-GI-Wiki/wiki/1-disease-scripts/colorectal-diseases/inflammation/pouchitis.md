@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-11-23
+updated: 2026-11-24
 sources: [asge-2025-ibd-endoscopy-consensus, aga-2024-pouchitis, aga-2020-probiotics, aga-2020-probiotics-technical-review, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 quality_reviewed: 2026-11-23
 verified: 2026-11-23
@@ -89,7 +89,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024 Table 5; cuffitis is not def
 
 ### Pouchoscopy
 - **When (AGA 2024 Table 4):** frequent recurrent episodes (suspected antibiotic-dependent), inadequate response to antibiotics (suspected antibiotic-refractory), atypical symptoms, or suspected Crohn's-like disease of the pouch. **Not routinely required** for typical symptoms before starting antibiotics, or for infrequent episodes that respond to treatment ([[aga-2024-pouchitis]]).
-  - Before chronic antibiotics, advanced therapy or corticosteroids: confirm inflammation and rule out alternative causes (implementation considerations, Recs 6–9, 11, 12).
+  - Before chronic antibiotics, advanced therapy or corticosteroids: confirm inflammation and rule out alternative causes (implementation considerations, Recs 6–9); before treating Crohn's-like disease of the pouch, endoscopic evaluation to confirm it (Recs 11, 12).
   - Persistent symptoms → pouchoscopy to assess treatment response (Statement 13, [[asge-2025-ibd-endoscopy-consensus]]).
 - **Endoscopic + histologic assessment of the pouch and afferent limb in symptomatic patients** — recommended, high quality ([[asge-2015-ibd]]).
   - Afferent-limb inflammation over a **long segment (≥10 cm)**, especially with discrete ulcers, suggests CD (after excluding NSAIDs and infection).
@@ -102,7 +102,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024 Table 5; cuffitis is not def
   - Initial episode: **[[cdiff-antibiotics|fidaxomicin]]** preferred, vancomycin if unavailable or cost-prohibitive; no metronidazole.
   - **Retest if diarrhea recurs** after successful treatment.
   - Refractory pouchitis: evaluating for *C. difficile* and other secondary causes may be particularly beneficial ([[aga-2024-pouchitis]]).
-- **Fecal calprotectin / lactoferrin** correlate with PDAI and endoscopic inflammation, but **cannot tell apart** acute vs chronic pouchitis, CD of the pouch or cuffitis ([[asge-2025-ibd-endoscopy-consensus]]); AGA 2024 did not systematically examine them and notes they are not routinely used.
+- **Fecal calprotectin / lactoferrin** correlate with endoscopic and histologic inflammation of the pouch, but **cannot tell apart** acute vs chronic pouchitis, CD of the pouch or cuffitis ([[asge-2025-ibd-endoscopy-consensus]]); calprotectin also correlates with the PDAI ([[aga-2024-pouchitis]]); AGA 2024 did not systematically examine them and notes they are not routinely used.
 
 ### Pouch Neoplasia Surveillance
 *Outside AGA 2024 scope.* [[asge-2025-ibd-endoscopy-consensus|ASGE 2025]] (newest; modified-Delphi consensus, no evidence grades), Statements 25–27:
@@ -131,7 +131,7 @@ Recommendation numbers and certainty for every AGA 2024 statement: [[#Recommenda
 - **Primary prevention:** [[probiotics]] — no recommendation (Rec 1); antibiotics — suggested against (Rec 2; in the one tinidazole trial, some patients developed pouchitis 4–10 months after stopping) ([[aga-2024-pouchitis]]).
   - Contrast: [[aga-2020-probiotics|AGA 2020]] suggests the 8-strain combination "in adults and children with pouchitis" (conditional, very low); its evidence included 2 trials preventing an initial episode, rated Very Low certainty ([[aga-2020-probiotics-technical-review]]). AGA 2024 is newer and governs.
 - **Secondary prevention (recurrent, antibiotic-responsive) — probiotics (Rec 5):** the **De Simone multistrain formulation** is the one used in the trials ([[aga-2024-pouchitis]]).
-  - Trials gave it at **6 g/day after antibiotics had induced remission** (eg, ciprofloxacin + rifaximin for 1 month, or metronidazole + ciprofloxacin for 4 weeks).
+  - Two of the three RCTs gave it at **6 g/day after antibiotics had induced remission** (ciprofloxacin + rifaximin for 1 month, or metronidazole + ciprofloxacin for 4 weeks); the third (open-label) enrolled patients taking no medications.
   - 3 randomized controlled trials (RCTs): **87% lower relapse risk over 12 months** (relapse 6/45 on probiotic vs 36/41 on control).
   - Patients with infrequent recurrences, or for whom long-term probiotics are a burden, may reasonably choose no preventive treatment.
   - AGA 2020 suggests the 8-strain combination **over no or other probiotics**: no other formulation has been tested as rigorously, commercial availability has been in question (manufacturer–patent holder litigation), and benefit in [[familial-adenomatous-polyposis|FAP]] pouches or children is unknown ([[aga-2020-probiotics]], [[aga-2020-probiotics-technical-review]]).
