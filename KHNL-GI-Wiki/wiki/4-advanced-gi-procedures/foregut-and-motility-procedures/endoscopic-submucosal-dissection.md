@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection, pathology, training, duodenal]
 created: 2026-06-27
-updated: 2026-11-16
-sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance, aga-2019-esd-t1b-esophageal-cancer]
+updated: 2026-11-25
+sources: [asge-2023-esd, aga-2026-electrosurgery, aga-2018-esd-united-states, aga-2021-post-esd-surveillance, aga-2019-esd-t1b-esophageal-cancer, khalaf-2026-esd-pathology-reporting]
 quality_reviewed: 2026-11-16
 ---
 
@@ -144,7 +144,12 @@ Per [[aga-2021-post-esd-surveillance]]:
 - **No minimal distance** is required between tumor cells and the resection margin for ESD — unlike surgical R0 resection.
 - Lesion sitting in a field of lesser dysplasia (Barrett's, severe [[atrophic-gastritis]]) → consider the resection **R0 if the highest histologic grade of the target neoplasm is not present at the margins**. Example: a large HGD nodule in BE removed completely, flat low-grade dysplasia (LGD) present at the specimen margin = R0 for HGD. ASGE 2023 agrees for a **positive lateral margin only** when every other curative criterion is met.
 - **R1 horizontal margin** (microscopic) with otherwise low-risk histology → additional endoscopic therapy by ESD or [[endoscopic-mucosal-resection|EMR]] is possible.
-- **R1 deep/vertical margin** after ESD of a malignant neoplasm → **prompt referral for surgery**.
+- **R1 deep/vertical margin** after ESD of a malignant neoplasm → in most cases, **prompt referral for surgery**.
+- **What the pathology report should state** — international consensus (Table 1, statement numbers the wiki's; [[khalaf-2026-esd-pathology-reporting]]):
+  - Submucosal invasion depth as a **linear measurement in µm**, deepest point (T1.1, T1.3); SM1–SM3 only when the specimen includes muscularis propria (T1.2); breadth in mm to 0.1 mm (T1.4).
+  - **Positive margin = tumor touching the inked resection surface** (T1.6); document proximity to inked margins when orientation allows (T1.9).
+  - Depth on hematoxylin and eosin (H&E) (T1.10); lymphatic invasion on H&E with D2-40 as adjunct (T1.13); tumor budding on H&E, reported (T1.20).
+  - Close or positive margins → risk-stratified management with multidisciplinary discussion; positive deep margin in T1b or otherwise high-risk lesions generally supports surgical referral; positive lateral margin in dysplasia or non-invasive lesions may be managed endoscopically or with surveillance (T1.24).
 - Western pathology does not uniformly use the Japanese protocol (2–3 mm serial sectioning, lymphovascular-invasion stains), and no definition of a negative R0 margin is universally accepted — the reason the surveillance intervals below are tighter than Asian protocols require.
 
 ## Technique
@@ -225,3 +230,4 @@ Schedules proposed by the [[asge-2023-esd]] panel (algorithm figures); comparati
 3. [[aga-2018-esd-united-states|AGA Institute Clinical Practice Update: Endoscopic Submucosal Dissection in the United States]]
 4. [[aga-2021-post-esd-surveillance|AGA Clinical Practice Update on Surveillance After Pathologically Curative Endoscopic Submucosal Dissection of Early Gastrointestinal Neoplasia in the United States: Commentary]]
 5. [[aga-2019-esd-t1b-esophageal-cancer|AGA Clinical Practice Update on the Utility of Endoscopic Submucosal Dissection in T1b Esophageal Cancer: Expert Review (2019)]]
+6. [[khalaf-2026-esd-pathology-reporting|Risk-Based Pathology Reporting After Endoscopic Submucosal Dissection for Early Gastrointestinal Cancer: International Consensus Standards (2026)]]

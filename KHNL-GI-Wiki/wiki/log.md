@@ -80,6 +80,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Extra pages named by the source ([[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]]) were not touched. The ≥20% LSM change lives on the PBC page, and adding it to the general LSM pages would duplicate it.
 - `ingest: partial` removed.
 
+**`[[khalaf-2026-esd-pathology-reporting]]` — new source** (Khalaf, Li et al., international consensus standards for risk-based pathology reporting after ESD, Gut 2026, Epub 10 July 2026). Non-US consensus, picked because it fills a gap: no US guideline sets ESD pathology-reporting standards. It is Nick's drop.
+- ⚠ **Licence line for Nick:** "Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies" (BMJ). This is the same class as the BSG 2017 *Gut* and Elsevier lines already ingested. No Creative Commons statement, so no figures.
+- *Extract* (fresh agent, pp 2–7 rendered):
+  - All 24 Table 1 recommendations, labelled T1.1–T1.24. The labels are the wiki's own; the article numbers nothing.
+  - Domain agreement table and the tumour-budding grades.
+  - Methods: 42 panellists, ≥80% threshold, 5 rounds.
+  - Discussion guidance, marked ungraded.
+  - 6 printed inconsistencies, including Table 1's deep-margin wording vs the Discussion's "any positive deep margin in an invasive lesion".
+  - The 56 statement-level items sit only in online supplementary tables 2–5. No `needed-sources.md` row: a non-US consensus supplement fails *What belongs on the download list*.
+- *Gate:* 2 ABSENT resolved:
+  - "50" is in the Figure 1 image (p4).
+  - "<1 mm" was split by a line break; it reads correctly on rendered p6.
+  - 1 OTHER and 2 NOMATCH were cross-source contrast lines, checked by the verifier against those raw files.
+- *Independent check* (fresh agent, ~145 claims; Table 1 = exactly 24 bullets; budding grades, panel and thresholds read on rendered pages): 0 management, 6 fixed:
+  - **Wrong attribution:** the Contradictions line credited NCCN "surgery for any positive margin" to [[aga-2021-post-esd-surveillance]]. It is from [[aga-2025-endoscopic-resection-crc]] (confirmed in the AGA 2025 raw file: "margin positivity, irrespective of location"). [[colorectal-esd]] already cites it correctly.
+  - "In most cases" restored to the AGA 2021 deep-margin paraphrase.
+  - "Generally" restored on the Khalaf deep-margin line.
+  - The immunohistochemistry "hotspot" purpose restored.
+  - The author count is 50, not 42 (42 is the number of affiliations).
+- *Fix every copy:* [[endoscopic-submucosal-dissection]] carried the same dropped hedge: "R1 deep/vertical margin → prompt referral for surgery". It now reads "in most cases" (AGA 2021 p2).
+- `verified: 2026-11-25` set.
+- *Propagate* → [[endoscopic-submucosal-dissection]] ("What Counts as R0" section): a 4-bullet "What the pathology report should state" block (T1.1–T1.4, T1.6, T1.9, T1.10, T1.13, T1.20, T1.24). It adds reporting detail only; the US margin rules above it still govern.
+  - Gate: new lines clean. The existing flags on L63/L94/L95/L207 are older lines.
+  - Independent check (fresh agent, 11 claims, Table 1 rendered and T-numbers mapped): 11/11 supported.
+  - The page has no `verified:` stamp, so it stays unverified.
+- Not propagated: [[colorectal-esd]], [[polypectomy]], and the organ disease pages. The reporting standards have one home on the ESD page. The positive-lateral-margin handling already sits on [[colorectal-esd]] (ESGE/JSCCR vs NCCN).
+- `index.md`:
+  - Source row added (Sources → Other).
+  - [[endoscopic-submucosal-dissection]] row: 5 → 6 sources.
+- *Cards:* none. The ESD page is not verified, and the source is a non-US consensus whose content sits on an unverified page.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-25] lint | Quality review — release sweep (interactive)
