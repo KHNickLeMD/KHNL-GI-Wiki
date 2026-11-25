@@ -50,6 +50,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Page length: [[nutrition-in-hospitalized-patients]] is now ~3,650 words, over the 2,500 ceiling → slim candidate.
 - `ingest: partial` removed.
 
+**Pick order (next file):** the remaining backlog is international/non-US consensus (BSG, ECCO, UEG, WEO, IAP, Maastricht VI, Fiesole, etc.) plus NCCN (EULA, skipped), the ASGE 2020 DOPyS/CSPAT appendices and Chavan 2023. Picked the EASL–AASLD 2026 PBC Delphi first because it is co-issued by a US society (AASLD). It is Nick's drop (not in `.fetched-files`).
+
+**`[[easl-aasld-2026-pbc-surrogate-endpoints]]` — new source (EASL–AASLD Delphi consensus on surrogate endpoints and real-world evidence in PBC, J Hepatol 2026;85:583–602).**
+- ⚠ **Licence line for Nick:** "All rights are reserved, including those for text and data mining, AI training, and similar technologies." This is the same Elsevier line as AGA 2026 MetALD; it is not the NCCN LLM ban, so the file was ingested. Not open access, so no figures.
+- *Extract* (fresh agent; rendered pp 3–6, 8–9, 11–14):
+  - All numbered items captured, with labels, strength, level of evidence and agreement %.
+  - The document **prints 15 statements and 41 recommendations, though its text claims 16 and 42**. The verifier confirmed that no item is missing.
+  - Tables 1–4 recreated.
+  - 8 printed inconsistencies listed: item counts; panel 62 vs 53; response rates 88%/60% vs 80%/68%; WI-NRS "3-point" vs "≥3"; PBC-40 fatigue primary vs Table 4 "secondary/co-primary"; Figure 3B vs Table 4 validation status; and two more.
+- *Gate:* 0 ABSENT/OTHER; 1 NOMATCH (a Summary paraphrase, checked by the verifier); 21 SIGN, read on rendered pages by the verifier.
+- *Independent check* (fresh agent, ~160 claims, pp 585–587 and 594–596 rendered): 0 management, 3 minor, all confirmed and fixed:
+  - Footnote locator corrected to p 583.
+  - Endorsement locator corrected to p 598.
+  - The Summary had tied ALP and bilirubin to "6–12 months" of UDCA; Statements 1.1.1/1.1.3 say 12 months. Fixed.
+- `verified: 2026-11-25` set.
+- `index.md` source row added (Sources → AASLD).
+- *Propagate* (main thread, copying from the verified source page) → [[primary-biliary-cholangitis]], 3 lines:
+  - The OCA pitfall now says OCA was withdrawn from the European Union market at the end of November 2024 and the US market in September 2025, citing COBALT's failure and the liver-injury signals.
+  - LSM is prognostic independent of biochemistry (Statement 1.2.2), and a ≥20% rise/fall over 1 year is associated with outcomes.
+  - Recommendation 1.1.1 complete/adequate response, labelled as endpoints for phase III trials of ≥12 months.
+  - Kept short: the page is ~4,550 words, already a slim candidate. The PROs (WI-NRS, PBC-40) are trial instruments and were not added.
+- *Gate:* new lines 0 ABSENT/OTHER/NOMATCH. Existing NOMATCH flags on L75/L330/L337 are older lines.
+- *Independent check of changed lines* (fresh agent, 9 claims, ≥ and < read on rendered p 5): 0 management, 2 minor, both fixed:
+  - The trial-endpoint qualifiers were restored.
+  - The OCA withdrawal reason now includes COBALT's primary-outcome failure and the post-marketing liver-injury reports. The same reason was added to the source page Summary.
+- [[primary-biliary-cholangitis]] has no `verified:` stamp (it was never stamped), so it stays unverified. Its index row: 10 → 11 sources, plus the OCA withdrawal.
+- *Cards:* none. [[primary-biliary-cholangitis]] is not verified, so it is not eligible for new cards. The existing PBC card file may still test OCA dosing → review it when the page is verified.
+- Extra pages named by the source ([[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]]) were not touched. The ≥20% LSM change lives on the PBC page, and adding it to the general LSM pages would duplicate it.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-25] lint | Quality review — release sweep (interactive)

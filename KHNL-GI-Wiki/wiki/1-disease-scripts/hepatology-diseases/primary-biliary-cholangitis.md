@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-11-19
-sources: [aasld-aga-2026-pbc, acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
+updated: 2026-11-25
+sources: [aasld-aga-2026-pbc, easl-aasld-2026-pbc-surrogate-endpoints, acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
 ---
 
 ## Contents
@@ -62,6 +62,7 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 - **ALP <2× ULN on treatment** is a reliable predictor of treatment response.
 - **[[liver-stiffness-measurement|Transient elastography]]** — liver stiffness >9.6 kPa → 5× more likely to progress to decompensation, death, or transplant; serial measurements risk-stratify. ≥17 kPa triggers [[hcc-surveillance|hepatocellular carcinoma (HCC) surveillance]] and variceal screening even without confirmed cirrhosis.
   - **2026: measure liver stiffness for prognostication** (Rec 3, Conditional, Moderate certainty; [[aasld-aga-2026-pbc]]). **Liver stiffness measurement (LSM) ≥10 kPa by vibration-controlled transient elastography (VCTE)** = increased risk of adverse outcomes → closer monitoring and/or possible therapy escalation (panel consensus threshold; published cutoffs 9.3–11.0 kPa). **Annual VCTE** at ≥10 kPa and after any change in therapy; <10 kPa → meaningful change less likely. The most recent LSM predicts outcome better than the change between measurements. Cholestasis (ALP ≥1.5× ULN or raised bilirubin) may make LSM less reliable for portal hypertension.
+  - EASL–AASLD 2026 consensus: LSM by VCTE predicts outcomes independently of biochemistry (Statement 1.2.2); over 1 year, a **≥20% rise** in LSM is associated with worse outcomes and a **≥20% fall** with improved outcomes ([[easl-aasld-2026-pbc-surrogate-endpoints]]).
 
 | Prognostic model | Variables | Action threshold |
 |---|---|---|
@@ -77,6 +78,7 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 - Assess response **after ≥6 months and no later than 12 months** of UDCA; at **6 months** if high-risk features are present, including but not limited to **LSM ≥10 kPa and age <62 years** (Figure 1 note 2; the Rec 4 text says ≤62).
 - **Inadequate response** (used in most studies) = failure to reach **ALP <1.5–1.67× ULN with normal total bilirubin at 12 months**.
 - **ALP normalization is the ideal goal** where attainable — particularly with LSM ≥10 kPa.
+- Endpoints for phase III trials of ≥12 months (EASL–AASLD 2026 Recommendation 1.1.1, Strong, level of evidence 2): **complete response = normal ALP + normal total bilirubin** (ideal); **adequate response = ALP <1.5–1.67× ULN + normal total bilirubin** ([[easl-aasld-2026-pbc-surrogate-endpoints]]).
 - ALP 1.0–1.5× ULN or bilirubin 0.6–1× ULN: limited evidence to start a second-line agent; the panel favors **risk-based** (LSM, age) over threshold-based decisions here.
 
 **Histologic staging (Ludwig):** I — portal inflammation ± florid duct lesion, confined to portal triads · II — interface hepatitis, periportal extension, ductular proliferation · III — bridging fibrosis, numerous fibrous septa · IV — cirrhosis with regenerative nodules. Adequate biopsy needs 10–15 portal tracts and multiple sections.
@@ -225,7 +227,7 @@ flowchart TD
 ### Obeticholic Acid (Second-Line)
 
 > [!pitfall] OCA is no longer the guideline's second-line agent
-> The 2026 AASLD–AGA guideline suggests PPAR agonists after UDCA and does not address OCA as a therapy; the 2018/2021 OCA guidance below is the older position ([[aasld-aga-2026-pbc]]).
+> The 2026 AASLD–AGA guideline suggests PPAR agonists after UDCA and does not address OCA as a therapy; the 2018/2021 OCA guidance below is the older position ([[aasld-aga-2026-pbc]]). OCA was withdrawn from the European Union market at the end of November 2024 and from the US market in September 2025, after its confirmatory trial (COBALT) failed to show benefit on its primary outcomes and post-marketing reports showed serious liver injury in patients with and without cirrhosis ([[easl-aasld-2026-pbc-surrogate-endpoints]]).
 
 **OCA 5 mg/day**, increased to 10 mg/day after 3 months if liver chemistries remain abnormal and the drug is tolerated (Guidance Statement 8).
 
@@ -377,3 +379,4 @@ Risk is increased among first-degree relatives (FDRs), especially female: sister
 8. [[gerussi-2026-pbc-aih-delphi|Definition, Diagnosis, and Treatment of Primary Biliary Cholangitis–Autoimmune Hepatitis (PBC–AIH) Variant: An International Expert Delphi Consensus (2026)]]
 9. [[easl-2025-autoimmune-hepatitis|EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025)]]
 10. [[aasld-aga-2026-pbc|AASLD AGA Clinical Practice Guideline on Management of Primary Biliary Cholangitis (2026)]]
+11. [[easl-aasld-2026-pbc-surrogate-endpoints|EASL-AASLD Delphi Consensus Statement on Surrogate Endpoints and Real-World Evidence in Primary Biliary Cholangitis (2026)]]
