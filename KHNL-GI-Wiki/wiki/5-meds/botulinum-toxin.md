@@ -75,7 +75,7 @@ Botulinum toxin injected into a gastrointestinal (GI) sphincter or muscle to rel
 | 6 months | 53.3% |
 | **12 months** | **40.6%** |
 
-- **46.6% require additional injections**; **30% go on to need more definitive therapy** (repeat injection, dilation or surgery). ([[acg-2020-achalasia]])
+- **46.6% require additional injections**; **30% needed additional treatment** (repeat injection, dilation or surgery). ([[acg-2020-achalasia]])
 - Pooled ASGE meta-analysis of 22 uncontrolled studies (730 patients): clinical success (Eckardt score ≤3) **77% (95% confidence interval [CI] 72%–81%)** over 1–6 months of follow-up. ([[asge-2020-achalasia]])
 - **Pneumatic dilation beats it at both 6 and 12 months, and the gap widens with time** — the pooled head-to-head numbers are on [[achalasia]]. ([[asge-2020-achalasia]])
 

@@ -3,7 +3,8 @@ title: "Multi-Society Expert Panel Consensus Guidance Regarding Clinical Assessm
 category: source
 tags: [alpha-1-antitrypsin, aatd, serpina1, pizz, liver-fibrosis, noninvasive-testing, vcte, cirrhosis, liver-transplant]
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA AASLD EASL 2026 Alpha-1 Antitrypsin Deficiency Liver Disease (Loomba).pdf"
 ---
@@ -58,18 +59,18 @@ The document gives **no evidence grades and no recommendation numbers** — it i
 - Approximately **10% of adults with the PiZZ genotype develop clinically significant liver disease**, including cirrhosis and hepatocellular carcinoma (HCC).
 - **Pathogenesis is a toxic gain-of-function**: accumulation of misfolded AAT protein within the endoplasmic reticulum of hepatocytes → cellular stress, inflammation, and subsequent fibrosis. This mechanism distinguishes hepatic involvement from the protease–antiprotease imbalance underlying pulmonary disease.
 - Modifiers of progression: **age, male sex, metabolic syndrome, alcohol use, and other coexisting liver insults (e.g., viral hepatitis)**.
-- Individuals with an AAT serum level **<57 mg/dL with severe AATD-LD generally have the PiZZ genotype**; approximately **5% have non-Z alleles** and may not have misfolded AAT production in the liver. **Null variants produce no protein and have no liver risk.**
+- Individuals with an AAT serum level **<57 mg/dL with severe AATD-LD generally have the PiZZ genotype**; approximately **5% have non-Z alleles** and may not have misfolded AAT production in the liver. **Some variants, such as null variants, may produce no protein and have no liver risks.**
 
 ### Why enzymes alone miss the disease
 
 - Cross-sectional studies describe clinically significant liver fibrosis in **20%–36% of PiZZ genotypes**, yet serum transaminases often remain within the normal range.
 - Three cross-sectional studies reported **elevated liver function tests in only 11%–24% of patients** (AST 13%–15%; ALT 11%–19%; GGT 13%–24%), with abnormal findings more common in patients with comorbid conditions such as obesity or diabetes.
-- Among liver function tests, **GGT correlated best with histologic fibrosis and MALO development**; AST and ALT appear somewhat less accurate. Persistently elevated liver function tests are associated with an increased risk of MALOs.
+- Among liver function tests, **GGT also correlated with histologic fibrosis and MALO development**; AST and ALT appear somewhat less accurate. Persistently elevated liver function tests are associated with an increased risk of MALOs.
 
 ### Case detection and diagnostic testing (Table 4)
 
 - **The diagnostic evaluation of chronic liver disease should include testing for AATD by means of determining the serum AAT level.** It is an inexpensive test that is typically abnormal in severe deficiency genotypes (e.g., ZZ).
-- **Genotyping is necessary to comprehensively determine carrier genotypes (MZ)**, because AAT is an **acute-phase reactant** and serum levels can be in the normal range under physiologic stress. Genotyping is more expensive but embraced by many liver centers.
+- **Genotyping is necessary to comprehensively determine carrier genotypes (MZ)**, because AAT is an **acute-phase reactant** and serum levels can be in the normal range under physiologic stress. Genotyping is more expensive but embraced by many liver centers. Genotyping is recommended for all adults with liver disease and a low AAT serum level; an **experienced AATD center** should be involved for genotyping, family counseling, and management.
 - The diagnostic approach for any patient who may potentially have AATD-LD **should begin with levels <11 μM (57 mg/dL)**.
 - For case finding, low serum levels should be followed by **confirmatory testing by genotyping (preferred)** or alternatively **phenotyping by isoelectric focusing**, depending on local availability.
 - **Optimally, AAT levels should be determined in the absence of systemic inflammation (i.e., normal C-reactive protein)** because it is an acute-phase protein. Some patients with chronic liver disease have a persistent slight elevation of C-reactive protein reflective of systemic inflammation. A patient with MZ may have a normal serum level of AAT and require a genotype to diagnose.
@@ -96,7 +97,8 @@ The document gives **no evidence grades and no recommendation numbers** — it i
 | **PiZZ** | Referral to genetic counseling and pulmonology |
 
 - **Step 4 — if hepatic fibrosis stage is unknown, use non-invasive testing to stage AATD-LD:**
-  - **Blood-based NIT:** low risk = **FIB-4 <1.3 or APRI <0.5** → repeat blood-based NIT **annually during pulmonary monitoring**. Requires second-line NIT if **FIB-4 ≥1.3 or APRI ≥0.5**.
+  - **Blood-based NIT:** low risk = **FIB-4 <1.3 or APRI <0.5** → repeat blood-based NIT **annually during pulmonary monitoring**. Requires second-line NIT if **FIB-4 ≥1.3 or APRI ≥0.5**. FIB-4 <1.3 and APRI <0.5 captured 49%–77% of patients in the low-risk category, in whom second-line testing may not be necessary.
+  - Patients may also be **referred directly for LSM** via VCTE or MRE.
   - **LSM by VCTE (preferred) or MRE**, depending on local availability:
 
 | LSM (VCTE) | Risk stratum | Repeat LSM |
@@ -112,9 +114,9 @@ The document gives **no evidence grades and no recommendation numbers** — it i
 
 - Patients with the PiZZ genotype should undergo liver fibrosis staging using **non-invasive means, including blood-based and imaging-based approaches (VCTE preferred)**.
 - **Longitudinal reassessment using NIT for liver fibrosis during routine pulmonary follow-up** may offer a practical approach to ongoing liver disease monitoring.
-- Patients with **VCTE LSM <8 kPa are deemed low risk and should be re-evaluated every 2–3 y**, those with **LSM 8–15 kPa are intermediate risk and should be re-evaluated every 1–2 y**, and those with **LSM ≥15 kPa are high risk and should be monitored yearly**.
+- Patients with **VCTE LSM <8 kPa are deemed low risk and should be re-evaluated every 2–3 y**, those with **LSM 8–15 kPa are intermediate risk and should be re-evaluated every 1–2 y**, and those with **LSM ≥15 kPa are high risk and should be monitored yearly**. Current evidence does not allow firm recommendations on repeat-LSM intervals.
 - In those with **LSM >15 kPa (advanced chronic liver disease)**, **yearly LSM assessment by VCTE as well as surveillance for HCC and management of portal hypertension are recommended**.
-- Intervals should be **individualized** considering risk factors for fibrosis — in particular **obesity** and potentially diabetes. Obesity is an important target for lifestyle intervention in AATD-LD.
+- Intervals should be **individualized** considering risk factors for fibrosis — in particular **obesity** and potentially diabetes; alcohol consumption may be considered as a cofactor. Obesity is an important target for lifestyle intervention in AATD-LD.
 - **Alcohol:** analogous to steatotic liver disease, patients with AATD-LD should be cautioned regarding the risks associated with consuming alcohol, and **those who are candidates for treatment should completely and permanently stop alcohol consumption**.
 - Shear-wave elastography and MRE may serve as alternatives to VCTE, depending on local availability and cost; not specifically validated in this population.
 - The **enhanced liver fibrosis test has not been validated** against liver biopsy or clinical outcomes in AATD-LD; its role in staging remains uncertain.
@@ -144,17 +146,19 @@ The document gives **no evidence grades and no recommendation numbers** — it i
 - **The ideal study population would be patients with PiZZ genotype with significant liver fibrosis (F2–F4).**
 - **When investigational therapies targeting the liver move into phase 2b or phase 3 studies, the trial design should consider a stepwise approach toward including patients with significant liver disease.**
 - **A 1-stage improvement in fibrosis stage over a 2-y period should be sufficient as a primary endpoint in phase 3 clinical trials** (METAVIR Histologic Scoring System, paired biopsies; recommended trial duration 2 y).
-- **Inclusion criteria (all required):** PiZZ genotype · clinically significant liver fibrosis **F2–F4** by any method (FIB-4, APRI, VCTE, MRE, or biopsy) · **forced expiratory volume in 1 second (FEV₁) >50% predicted** for therapies that inhibit Z-protein production and require long-term treatment.
+- **Inclusion criteria (all required):** PiZZ genotype · clinically significant liver fibrosis **F2–F4** by any method (FIB-4, APRI, VCTE, MRE, or biopsy) · **forced expiratory volume in 1 second (FEV₁) >50% predicted** for therapies that inhibit Z-protein production and require long-term treatment (Table 2: consider a lower value for drugs that increase release of functional AAT into circulation; consider adaptive designs when pulmonary safety is proven early).
+- Focus is F2–F4 for phase 3; patients with cirrhosis may be excluded depending on therapeutic class; F1 may be appropriate for phase 1–2 safety studies (Figure 2 / Table 2 footnotes). Table 3: limit fibrosis-regression analysis to baseline F2 or F3 so an F4-enriched trial is not set up for failure.
+- Phase 3 studies should not restrict enrollment by lung function thresholds unless the therapy is likely to harm the lung (Summary).
 - **Exclusion criteria:** decompensated liver disease. Clinically significant portal hypertension should be excluded in early-phase studies and may be less amenable to improvement in later phase trials.
 - **Secondary endpoints:** reduction in hepatocyte Z-AAT accumulation · reduction in hepatic globule burden · increase in functional AAT level · 1-stage improvement in fibrosis using NIT. **Exploratory:** reduction in circulating Z-polymer.
-- **Preservation of pulmonary function was not deemed appropriate for inclusion in trials of therapies that increase AAT levels via DNA or RNA editing.**
+- **Preservation of pulmonary function was not deemed necessary for inclusion in trials of therapies that increase AAT levels via DNA or RNA editing.**
 - Fewer than 50% of patients with the PiZZ genotype would be willing to participate in a trial with more than 2 biopsies, which may limit study participation.
 
 ### Pulmonary monitoring (Table 4)
 
 - **If lung function is used as a stopping rule, a significant decline in FEV₁ or transfer coefficient of carbon monoxide (KCO) should require a reduction of ≥20%, confirmed on at least 2 consecutive tests.**
 - **Low FEV₁% predicted inclusion criteria should be considered**, particularly if patients are on augmentation therapy and carefully monitored.
-- **Lung function measurements are an imperfect tool to use as stopping rules in clinical trials.** Spirometric tests should be spaced at least 3 months apart; the typical AATD patient has 2 exacerbations per year.
+- **Lung function measurements are an imperfect tool to use as stopping rules in clinical trials.** Spirometric tests should be spaced at least 3 months apart, and a minimum of 3 serial measurements over an appropriate period (e.g., several months) is required to assess the slope of decline; the typical AATD patient has 2 exacerbations per year.
 - Death in AATD-associated lung disease increases significantly only when **FEV₁% falls below 50% of predicted**; patients with FEV₁% ≥50% may be safely included in RNA interference trials provided they are closely monitored.
 
 ### Pediatric considerations

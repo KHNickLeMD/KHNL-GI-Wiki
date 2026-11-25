@@ -3,8 +3,9 @@ title: "Esophageal Motility Disorders on High-Resolution Manometry: Chicago Clas
 category: source
 tags: [manometry, hrm, esophageal-motility, chicago-classification, achalasia, dysphagia, foregut]
 created: 2026-05-16
-updated: 2026-10-04
+updated: 2026-11-25
 sources: []
+verified: 2026-11-25
 raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Esophageal Motility Disorders.pdf"
 ---
 
@@ -35,7 +36,7 @@ raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Esophageal Motility D
 - **Before:** fast ≥4 h (small amounts of clear fluid allowed); informed consent.
 - **Supine (start):** ≥60 s adaptation → ≥3 deep inspirations to confirm position → ≥30 s baseline (upper esophageal sphincter [UES], lower esophageal sphincter [LES], respiratory inversion point [RIP], basal EGJ pressure) → **10 × 5 mL wet swallows** (ambient water, or saline with impedance), ≥30 s apart → **1 multiple rapid swallow (MRS)** sequence (5 × 2 mL, 2–3 s apart, 10-mL syringe; repeat up to 3× if failed or abnormal).
 - **Upright** (sitting ≥80°): ≥60 s adaptation → ≥3 deep inspirations → ≥30 s baseline → **≥5 × 5 mL wet swallows**, ≥30 s apart → **1 rapid drink challenge (RDC)**: 200 mL water through a straw as fast as possible.
-- **No conclusive major disorder, or findings don't fit symptoms:** solid test swallows, solid test meal, and/or pharmacologic provocation (high probability of missed EGJ obstruction); post-prandial high-resolution impedance observation (suspected rumination/belching).
+- **No conclusive major disorder, or findings don't fit symptoms:** solid test swallows, solid test meal, and/or pharmacologic provocation (high probability of missed EGJ obstruction; abnormal solid test meal → readdress mechanical obstruction — Figure 3); post-prandial high-resolution impedance observation (suspected rumination/belching).
 - **Equivocal or suspected obstruction not meeting achalasia criteria:** TBE (preferably with tablet) and/or FLIP as independent supportive test.
 - **Equipment:** solid-state catheter, sensor spacing <2 cm; water-perfused acceptable with appropriate normative values (supine only); impedance recommended, not required.
 - Labs starting upright should perform 10 upright swallows. Report should include baseline EGJ measures and symptoms during the study (within 15 s of a motility dysfunction).
@@ -152,6 +153,7 @@ raw: "GI Guidelines/Other/Chicago Classification 2021 v4.0 Esophageal Motility D
 | | Supportive: poor bolus transit on impedance or barium esophagram | Very Low, Conditional |
 | | Supportive: lack of contraction reserve on MRS | Very Low, Conditional |
 
+- **Absent contractility on the primary position but IRP elevated in the alternate position, on RDC and/or on MRS** → inconclusive type I or II achalasia; supportive TBE or FLIP (Figure 3 legend).
 - **Absent contractility with borderline IRP** (supine median 10–15 mmHg, Medtronic) → consider type I achalasia; TBE (preferably tablet) and FLIP if dysphagia dominates.
 - DES and hypercontractile esophagus are manometric patterns that do not always equal disease — clinically relevant only with context and supportive testing.
 - Obstruction at the EGJ or distal esophagus can induce hypercontractility → exclude obstruction first.

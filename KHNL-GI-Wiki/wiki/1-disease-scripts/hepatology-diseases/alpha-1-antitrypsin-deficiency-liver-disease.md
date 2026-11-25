@@ -3,7 +3,7 @@ title: "Alpha-1 Antitrypsin Deficiency–Associated Liver Disease"
 category: disease-script
 tags: [alpha-1-antitrypsin, aatd, aatd-ld, serpina1, pizz, liver-fibrosis, noninvasive-testing, vcte, cirrhosis, genetic-liver-disease]
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-25
 sources: [aga-aasld-easl-2026-aatd-liver-disease]
 ---
 
@@ -68,7 +68,7 @@ sources: [aga-aasld-easl-2026-aatd-liver-disease]
 | **PiMM** | 9:10 | Normal (wild type) |
 
 - **PiMZ and PiSZ patients commonly carry cofactors** — diabetes, obesity, or excessive alcohol use — at the time clinical liver disease is diagnosed, so their liver disease is usually not attributable to the genotype alone
-- **Null variants produce no protein and carry no liver risk** (no misfolded protein to accumulate). About **5% of those with AAT <57 mg/dL and severe AATD-LD have non-Z alleles** and may not produce misfolded AAT in the liver
+- **Some variants, such as null variants, may produce no protein and have no liver risk** (no misfolded protein to accumulate). About **5% of those with AAT <57 mg/dL and severe AATD-LD have non-Z alleles** and may not produce misfolded AAT in the liver
 - Whether PiMZ and PiSZ belong inside the AATD-LD definition is **deliberately left open** — future trials modifying the Z protein will show how often these genotypes improve ([[aga-aasld-easl-2026-aatd-liver-disease]])
 
 ---

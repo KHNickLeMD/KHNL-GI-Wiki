@@ -3,8 +3,9 @@ title: "ASGE 2014: The Role of Endoscopy in the Management of Constipation"
 category: source
 tags: [constipation, colonoscopy, cecostomy, stricture-dilation, asge]
 created: 2026-06-22
-updated: 2026-10-13
+updated: 2026-11-25
 sources: []
+verified: 2026-11-25
 raw: "GI Guidelines/ASGE/ASGE 2014 Endoscopy in Constipation.pdf"
 ---
 
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ASGE/ASGE 2014 Endoscopy in Constipation.pdf"
 ## Summary
 American Society for Gastrointestinal Endoscopy (ASGE) position statement on the diagnostic and therapeutic role of endoscopy in [[chronic-idiopathic-constipation|chronic constipation]]. Endoscopy is **not** indicated in the initial evaluation of chronic constipation when no alarm features or suspicion of organic disease exist. The yield of colonoscopy for isolated constipation is low — comparable to average-risk screening — and a meta-analysis of 28 studies found no increase in [[colorectal-cancer|colorectal cancer]] among patients with chronic constipation.
 
-Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stool, [[iron-deficiency-anemia|iron deficiency anemia]], weight loss, obstructive symptoms), in selected patients to exclude obstruction from cancer, stricture, or extrinsic compression, before surgery for constipation, and in patients aged >50 y without prior colorectal cancer (CRC) screening. Therapeutically, colonoscopy can dilate fibrotic colonic strictures from [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], surgery, or ischemia, and create percutaneous endoscopic cecostomy/colostomy. Colonoscopy has **no role in stool disimpaction**. Chronic constipation is an independent risk factor for inadequate bowel preparation — consider a more aggressive cleansing regimen.
+Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stool, [[iron-deficiency-anemia|iron deficiency anemia]], weight loss, obstructive symptoms), before surgery for constipation, and in patients aged >50 y without prior colorectal cancer (CRC) screening; it **should be considered** in selected patients to exclude obstruction from cancer, stricture, or extrinsic compression. Therapeutically, colonoscopy can dilate fibrotic colonic strictures from [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], surgery, or ischemia, and create percutaneous endoscopic cecostomy/colostomy. Colonoscopy has **no role in stool disimpaction**. Chronic constipation is an independent risk factor for inadequate bowel preparation — consider a more aggressive cleansing regimen.
 
 ## Key Findings / Claims
 
@@ -60,7 +61,7 @@ Colonoscopy is indicated for alarm features (rectal bleeding, heme-positive stoo
 - Supports [[colonoscopy]] (indications, inadequate-preparation risk) and [[acute-colonic-pseudo-obstruction]] (percutaneous endoscopic cecostomy in adults).
 
 ## Contradictions / Open Questions
-- **Constipation and colorectal cancer risk is unresolved within the document.** Two United States population-based retrospective studies, one Australian retrospective study, and one Japanese cohort of frequent laxative users reported increased cancer risk; a prospective cohort of female nurses did not, and a meta-analysis of 28 studies found no increase. The document calls the findings inconsistent and still recommends colonoscopy at >50 y without prior screening — on screening grounds, not because constipation raises risk.
+- **Constipation and colorectal cancer risk is unresolved within the document.** Two United States population-based retrospective studies, one Australian retrospective study, and one Japanese cohort of frequent laxative users reported increased cancer risk; a prospective cohort of female nurses did not, and a meta-analysis of 28 studies found no increase. The document calls the findings inconsistent and still recommends colonoscopy at >50 y without prior screening; it does not state the rationale.
 - **Recommendation 2 is narrower than the body text.** The body lists **obstructive symptoms** among the alarm features mandating colonoscopy and treats "before surgery for constipation" as a *separate* indication; Recommendation 2 omits obstructive symptoms and reads as though the alarm features apply only to the presurgical setting. Use the body-text list.
 - **Recommendation 1 vs Recommendation 3.** No endoscopy in the initial evaluation without alarm features, yet colonoscopy for everyone >50 y never screened — the overlap is not addressed; the second is a screening indication.
 - **Cecostomy evidence is largely pediatric.** Favorable results come from children with severe refractory constipation; adult support is a case series in acute colonic pseudo-obstruction and neurogenic bowel. Recommendation 4 gives no adult selection criteria.

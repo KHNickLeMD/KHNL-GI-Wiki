@@ -3,7 +3,8 @@ title: "ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders"
 category: source
 tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, radiation-proctopathy, rubber-band-ligation, asge]
 created: 2026-06-22
-updated: 2026-10-13
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Anorectal Disorders.pdf"
 ---
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ASGE/ASGE 2010 Endoscopy in Anorectal Disorders.pdf"
 ## Summary
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement on the endoscopic role across four benign anorectal disorders: chronic radiation proctopathy, [[anal-fissure|anal fissure]], internal [[hemorrhoids|hemorrhoids]], and [[fecal-incontinence|fecal incontinence]]. A revision of the 2001 ASGE statement on endoscopic therapy of anorectal disorders. Perianal disease in inflammatory bowel disease is explicitly out of scope.
 
-For [[radiation-proctopathy|radiation proctopathy]], [[argon-plasma-coagulation|argon plasma coagulation (APC)]] and topical formalin are the practical first-line endoscopic approaches. For hemorrhoids, rubber band ligation (RBL) is the preferred office procedure for bleeding/prolapsing internal hemorrhoids failing conservative care. For fecal incontinence, all patients should have flexible sigmoidoscopy or [[colonoscopy]] as indicated by age and risk, with endoanal ultrasound (EAUS) or magnetic resonance imaging (MRI) complementing [[anorectal-manometry|anorectal manometry]] when results will change management.
+For [[radiation-proctopathy|radiation proctopathy]], [[argon-plasma-coagulation|argon plasma coagulation (APC)]] and topical formalin are the practical first-line endoscopic approaches. For hemorrhoids, rubber band ligation (RBL), by flexible or rigid endoscope, is the treatment of choice for bleeding/prolapsing internal hemorrhoids failing conservative care. For fecal incontinence, patients should be considered for flexible sigmoidoscopy or [[colonoscopy]] as indicated by age and risk, with endoanal ultrasound (EAUS) or magnetic resonance imaging (MRI) complementing [[anorectal-manometry|anorectal manometry]] when results will change management.
 
 Most of this 2010 guidance is now superseded or corroborated by newer sources — [[acg-2021-anorectal-disorders|American College of Gastroenterology (ACG) 2021 benign anorectal disorders]] (hemorrhoids, fissure, fecal incontinence) and [[asge-2019-radiation-proctopathy|ASGE 2019 radiation proctopathy]] — which the disease pages use as primary references.
 
@@ -59,16 +60,16 @@ Most of this 2010 guidance is now superseded or corroborated by newer sources �
 
 ### Doses, settings, and technique parameters
 - **APC for radiation proctopathy:** typically **1–3 sessions**; power **25–60 W**; argon flow **0.5–2.5 L/min**. Reduces rectal bleeding in 80%–90%.
-- **Topical formalin:** dilute **2%–10%**, via rigid proctoscope or rectal instillation. In the largest series, 10% formalin on a cotton-tip applicator, averaging **3.5 applications at 2- to 4-week intervals**; bleeding ceased in 93%.
+- **Topical formalin:** dilute **2%–10%**, via rigid proctoscope or rectal instillation. In a retrospective analysis of 100 patients (mean follow-up 18 months), 10% formalin on a cotton-tip applicator, averaging **3.5 applications at 2- to 4-week intervals**; bleeding ceased in 93%.
 - **Botulinum toxin for chronic anal fissure:** total **20 U botulinum toxin A** via **27-gauge needle**, in divided doses on either side of the fissure. Reported healing 37%–92%.
 - **Topical agents for chronic anal fissure:** nitroglycerin compounded as **0.2% ointment**; nifedipine **0.2%–0.3%**; diltiazem **2%**. Calcium channel blockers have fewer side effects than nitrates and no significant efficacy difference.
 - **Rectal sucralfate for radiation proctopathy:** **2 g twice daily** enemas.
-- **RBL:** usually **no more than 3 hemorrhoidal groups per session**; some experts place only 1 band at a time. Disease requiring **≥4 bands** was associated with higher failure and greater need for subsequent operative hemorrhoidectomy.
+- **RBL:** usually **no more than 3 hemorrhoidal groups per session**; some experts place only 1 band at a time. Disease requiring **≥4 bands** was associated with a trend toward higher failure rates and a greater need for subsequent operative hemorrhoidectomy.
 
 ### Safety limits
 - **No RBL in sedated patients** (expert caution): errant band placement at or below the dentate line causes significant pain.
 - **Relative contraindications to endoscopic therapy of radiation proctopathy:** malignant recurrence, stenosis, fistulae.
-- **Colonic explosion** reported after **enema-only** bowel preparation before APC — adequate full preparation required.
+- **Colonic explosion** reported after **enema-only** bowel preparation before APC.
 - All thermal methods may create symptomatic ulceration (pain, bleeding) taking months to resolve.
 - APC in patients with pacemakers/defibrillators: same precautions as other endoscopic electrocautery.
 
@@ -82,7 +83,7 @@ Most of this 2010 guidance is now superseded or corroborated by newer sources �
 - Endoscopy for fissure: consider when the diagnosis is in doubt, if bleeding occurs, to rule out inflammatory bowel disease, and for patients due for screening colonoscopy — deferring colonoscopy until after initial fissure treatment avoids prep/procedure discomfort.
 - **Hemorrhoids:** >75% of US adults report symptomatic hemorrhoids at some point; ~30% seek care. ~20% have a concomitant fissure. Diagnosis by perineal inspection, digital rectal examination, and office anoscopy; internal hemorrhoids best seen by anoscopy or on retroflexion.
 - Sclerotherapy effective for first- and second-degree hemorrhoids; rare complications include mucosal necrosis, abscess, prostatitis, erectile dysfunction, portal pyemia.
-- **Fecal incontinence:** prevalence **8.3%** in non-institutionalized US adults (men 7.7%, women 8.9%), rising with age. Endoscopy is needed because anorectal malignancy or proctitis can cause it; evaluation should also assess prolapsing hemorrhoids, rectal prolapse, and rectocele.
+- **Fecal incontinence:** prevalence **8.3%** in non-institutionalized US adults (men 7.7%, women 8.9%), rising with age. Endoscopy should be considered because anorectal malignancy or proctitis can cause it; evaluation should also assess prolapsing hemorrhoids, rectal prolapse, and rectocele.
 - EAUS was **superior to MRI** for diagnosing **internal** anal sphincter injury and **equivalent** for **external** sphincter injury; a second study found no significant sensitivity difference for external sphincter defects/atrophy (90% vs 81%).
 - Other informative tests in fecal incontinence: pudendal nerve terminal motor latency, electromyography.
 

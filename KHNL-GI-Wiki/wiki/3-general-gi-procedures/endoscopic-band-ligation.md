@@ -3,7 +3,7 @@ title: "Endoscopic Band Ligation"
 category: general-procedure
 tags: [band-ligation, EVL, EBL, varices, portal-hypertension, gi-bleeding, diverticular-bleeding, GAVE, hemostasis, endoscopy]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-25
 sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, acg-2023-lgib, aga-2021-bleeding-gastric-varices, baveno-vii-2022-portal-hypertension, acg-2021-ugib]
 ---
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ### Internal Hemorrhoids
 
-- Rubber band ligation is the **preferred office therapy for grade 1–3 internal hemorrhoids** and must be tried before hemorrhoidectomy; grade-by-grade efficacy, the comparison with infrared coagulation and sclerotherapy, band placement relative to the dentate line, and the complication rates are all on [[hemorrhoids]].
+- Rubber band ligation is the **preferred office therapy for grade 1–3 internal hemorrhoids** and should be employed before hemorrhoidectomy; grade-by-grade efficacy, the comparison with infrared coagulation and sclerotherapy, band placement relative to the dentate line, and the complication rates are all on [[hemorrhoids]].
 
 ---
 

@@ -3,7 +3,8 @@ title: "Bowel Disorders (Rome V, 2026)"
 category: source
 tags: [rome-v, dgbi, ibs, chronic-constipation, functional-diarrhea, bloating, opioid-induced-constipation]
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/Other/Rome V 2026 Bowel Disorders (Corsetti).pdf"
 ---
@@ -21,7 +22,7 @@ raw: "GI Guidelines/Other/Rome V 2026 Bowel Disorders (Corsetti).pdf"
 
 The Rome V chapter on bowel disorders (BDs, previously "functional bowel disorders") — the document that **prints the actual Rome V diagnostic criteria** for the six bowel disorders, which the Rome V process overview ([[rome-v-2026-dgbi]]) deliberately does not. Six categories: irritable bowel syndrome (IBS), chronic constipation (CC), functional diarrhea (FDr), functional abdominal bloating (FAB), unclassified bowel disorder (U-BD), and opioid-induced constipation (OIC).
 
-The committee frames BDs as a **spectrum rather than discrete diseases** (Figure 1): a two-axis field of pain/discomfort × bowel habit, in which CC, FDr and the IBS subtypes occupy overlapping territory and patients migrate between them over time. Two nomenclature changes follow from this: "functional constipation" becomes **chronic constipation**, and "unspecified functional bowel disorder" becomes **unclassified bowel disorder** — both dropping "functional."
+The committee frames BDs as a **spectrum rather than discrete diseases** (Figure 1): a two-axis field of pain/discomfort × bowel habit, in which CC, FDr and the IBS subtypes occupy overlapping territory. Two nomenclature changes follow from this: "functional constipation" becomes **chronic constipation**, and "unspecified functional bowel disorder" becomes **unclassified bowel disorder** — both dropping "functional."
 
 Diagnosis is **positive, not exclusionary**. Testing is selective and limited: a short initial panel for all patients, a named set of tests *not* to order routinely, and explicit triggers for colonoscopy, bile acid malabsorption (BAM) testing and anorectal physiology testing (Figure 4). Treatment is organized as a stepwise pyramid (Figure 5) escalating from diagnosis and explanation → dietary advice → symptom-dominant pharmacotherapy → brain–gut behavioral therapies → multidisciplinary care, with drug choice driven by the predominant symptom.
 
@@ -70,14 +71,14 @@ Subtyping uses the [[bristol-stool-form-scale|Bristol Stool Form Scale]] and cou
 ### Figure 4 — Stepwise initial diagnostic evaluation of bowel disorders
 
 1. **Abdominal examination** — tenderness, distension, masses; distinguish distension from ascites and adiposity.
-2. **Digital rectal examination (DRE)** — anorectal causes of bleeding (hemorrhoids, fissures); perianal appearance, sensation, anal reflexes, sphincter tone, puborectalis and anal sphincter contraction; abnormal abdominal wall contraction on simulated evacuation (suggests dyssynergic defecation / pelvic floor dysfunction).
+2. **Digital rectal examination (DRE)** — anorectal causes of bleeding (hemorrhoids, fissures); perianal appearance, sensation, anal reflexes, sphincter tone, puborectalis and anal sphincter contraction; in patients with constipation, abnormal abdominal wall contraction on simulated evacuation (suggests dyssynergic defecation / pelvic floor dysfunction).
 3. **Blood tests** — *all patients:* complete blood count (CBC) to exclude anemia, C-reactive protein (CRP), celiac serology. *Selective:* complete metabolic profile (CMP), thyroid-stimulating hormone (TSH). **Do not routinely check:** erythrocyte sedimentation rate (ESR), anti-vinculin / anti-cytolethal distending toxin B (CdtB), malabsorption tests.
-4. **Stool tests** — *all patients:* none. *Selective:* *Giardia lamblia* antigen, enteric pathogens, calprotectin, lactoferrin, *Clostridioides difficile*. **Do not routinely check:** elastase, fecal fat, occult blood, ova and parasites (O&P), culture, microbiota assays.
+4. **Stool tests** — *all patients:* none. *Selective:* *Giardia lamblia* antigen (should be considered), enteric pathogens (stool testing for bacteria, ova and parasites may be appropriate in diarrhea with residence in or recent travel to areas where infectious diarrhea is common), calprotectin, lactoferrin, *Clostridioides difficile*. **Do not routinely check:** elastase, fecal fat, occult blood, ova and parasites (O&P), culture, microbiota assays.
 5. **Colonoscopy** — consider if fecal calprotectin abnormal, or suspected microscopic colitis (female, age ≥50 y, severe watery diarrhea, duration of diarrhea <12 mo, co-existing autoimmune disease, nocturnal or severe watery diarrhea, weight loss, or use of potential precipitating drugs — nonsteroidal anti-inflammatory drugs (NSAIDs) or proton pump inhibitors (PPIs)).
 6. **Bile acid malabsorption testing** — consider in chronic diarrhea not responding to treatment, with atypical presentation (e.g. nocturnal diarrhea), and/or with obesity or previous cholecystectomy.
 7. **Anorectal physiology testing** — consider with CC or FAB not responsive to treatment, symptoms and/or DRE suggestive of a defecatory disorder, and/or fecal incontinence.
 
-**Fecal calprotectin bands (Figure 4, Box 1):** <100 normal · >100 but <250 **indeterminate — repeat off NSAIDs** · ≥250 abnormal.
+**Fecal calprotectin bands (Figure 4, Box 1):** <100 normal · >100 but <250 **indeterminate — repeat off NSAIDs** · ≥250 abnormal. Calprotectin may also be elevated in older individuals, obesity, infection, or with proton pump inhibitors or NSAIDs.
 
 ### Alarm features (Figure 3, Box 2)
 
@@ -88,9 +89,9 @@ Anemia · rectal bleeding (clarify nature and pattern — blood mixed with stool
 - **Positive diagnosis** based on symptoms; IBS is **not a diagnosis of exclusion**. Predictive value of alarm features for organic disease is **modest**.
 - **Celiac serology** for all: immunoglobulin A (IgA) anti-tissue transglutaminase (anti-tTG) + quantitative serum IgA to exclude selective IgA deficiency. Sensitivity of anti-tTG is **reduced on a gluten-free diet**. Pooled celiac prevalence in IBS **3.3%** (36-study meta-analysis).
 - **Fecal calprotectin** ≤50 µg/g has a **99.8% negative predictive value but only 9% positive predictive value** for distinguishing IBS from IBD; CRP <0.5 mg/dL carries a <1% probability of IBD. ESR and fecal lactoferrin add little.
-- **Colonoscopy yield is low** in IBS without alarm features — 2% in nonconstipated IBS, mostly microscopic colitis in women >45 y. When colonoscopy *is* done for suspected IBS, **obtain biopsies to rule out microscopic colitis**.
+- **Colonoscopy yield is low** in IBS without alarm features — 2% in nonconstipated IBS, mostly microscopic colitis in women >45 y. When colonoscopy *is* done for suspected **IBS-D**, clinicians **should consider obtaining biopsies to rule out microscopic colitis**.
 - **Fecal hemoglobin tests** (fecal occult blood, fecal immunochemical test, multitarget stool DNA) are CRC screening tests, **not** tests to differentiate IBS from structural disease. Routine **fecal elastase** is not recommended.
-- **BAM testing not recommended in the initial evaluation**; consider in treatment-refractory chronic diarrhea. Selenium-75-taurocholic acid (SeHCAT) retention is the gold standard but unavailable in many countries; serum 7α-hydroxy-4-cholesten-3-one (C4) is more accessible but not rigorously evaluated in IBS-D.
+- **BAM testing not recommended in the initial evaluation**; consider in treatment-refractory chronic diarrhea. Selenium-75-tauroselcholic acid (SeHCAT) retention is the gold standard but unavailable in many countries; serum 7α-hydroxy-4-cholesten-3-one (C4) is more accessible but not rigorously evaluated in IBS-D.
 - **Lactose hydrogen breath testing** may be useful in selected patients but is **not recommended as part of the initial evaluation**.
 - **Sucrase-isomaltase deficiency** — gold standard is quantitative disaccharidase activity on duodenal biopsies; prevalence in IBS uncertain; **routine testing not recommended**.
 - **Breath testing for small intestinal bacterial overgrowth (SIBO) or dysbiosis is not recommended** in the initial diagnostic evaluation of IBS — testing limitations and insufficient evidence of diagnostic or therapeutic value. SIBO associates more with IBS-D, intestinal methanogen overgrowth more with IBS-C.
@@ -118,9 +119,9 @@ Criteria fulfilled for the past 3 months with symptom onset **≥6 months before
 
 - CBC to exclude anemia (an alarm feature). TSH and serum calcium **when clinically indicated** (suspected hypothyroidism or hypercalcemia-inducing disease) — not routine.
 - Stool, breath and endoscopic testing: same approach as IBS.
-- **Imaging** (barium enema, ultrasound, computed tomography, magnetic resonance) has **minimal diagnostic value in CC and is not generally recommended**.
+- **Imaging** (barium enema, ultrasound, computed tomography, magnetic resonance) has **minimal diagnostic value in CC in the absence of alarm features or relevant comorbidities and is not generally recommended**.
 - **Anorectal function testing** is recommended **for patients who do not respond to therapeutic interventions**, rather than at initial evaluation — earlier if digital rectal examination strongly suggests a defecatory disorder.
-- **Colon transit testing** (radiopaque markers, scintigraphy, wireless motility capsule) after a defecatory disorder has been excluded, in persistent symptoms despite medical therapy. Delayed transit suggests a motility disorder but **does not reliably predict treatment response**. If surgery for refractory constipation is considered, **upper gut transit must be evaluated** to exclude a diffuse GI motility disorder.
+- **Colon transit testing** (radiopaque markers, scintigraphy, wireless motility capsule) after a defecatory disorder has been excluded, in persistent symptoms despite medical therapy. Delayed transit suggests a motility disorder (the printed text on whether it predicts treatment response is internally inconsistent — "although this finding does reliably predict treatment response"). If surgery for refractory constipation is considered, **upper gut transit must be evaluated** to exclude a diffuse GI motility disorder.
 - **Colonic manometry** is not widely available outside academic centers and its clinical relevance to CC management remains uncertain.
 
 ### C3. Rome V diagnostic criteria for functional diarrhea
@@ -233,19 +234,19 @@ Must include: bothersome bowel symptoms **not attributable to structural abnorma
 
 - **Diet:** symptom improvement reported with a low-FODMAP diet; others note benefit from reducing gluten.
 - **Abdominophrenic biofeedback:** an RCT (n = 42) in meal-triggered visible abdominal distension found **thoracoabdominal wall motion–guided biofeedback using inductance plethysmography** improved distension scores; not seen in placebo.
-- **Over-the-counter:** simethicone may improve gas and fullness; **α-galactosidase** may benefit patients eating oligosaccharide-rich foods; **peppermint oil 2–4 times daily** may improve bloating and distension.
+- **Over-the-counter:** simethicone may improve gas and fullness; **α-galactosidase** may benefit patients eating oligosaccharide-rich foods; **peppermint oil 2–4 times daily before meals** may improve bloating and distension.
 - **Secretagogues** were superior to placebo for bloating (meta-analysis of RCTs).
 - **Neuromodulators:** desipramine with CBT improved bloating in moderate–severe disorders of gut–brain interaction; low-dose amitriptyline, citalopram and pregabalin showed signals in small studies.
 - **Prucalopride 2 mg once daily** — post hoc analysis of phase 3/4 CC studies showed greater bloating improvement vs placebo.
 - **Probiotics:** low certainty of benefit for combination probiotics; **some patients report worsening of bloating with probiotics**.
-- **Rifaximin:** 400 mg twice daily for 7 days improved global and bloating scores in bloating with excessive flatulence and negative lactulose breath test; 400 mg 3 times daily for 10 days reduced bloating severity over 10 weeks; 550 mg 3 times daily for 14 days gave greater adequate relief of bloating (40% vs 30%).
+- **Rifaximin:** 400 mg twice daily for 7 days improved global and bloating scores in bloating with excessive flatulence and negative lactulose breath test; 400 mg 3 times daily for 10 days reduced bloating severity over 10 weeks; 550 mg 3 times daily for 14 days gave greater adequate relief of bloating (40% vs 30%) in 2 phase 3 trials in nonconstipated IBS.
 
 ### OIC treatment
 
 - Mirrors CC treatment **except** for peripherally acting mu-opioid receptor antagonists (PAMORAs).
 - **Non-PAMORA:** **lubiprostone 24 µg twice daily** is the only secretagogue FDA-approved for OIC; the first 2 phase 2 studies were negative, a third RCT excluding patients on methadone was positive (27.1% vs 18.9%). Prucalopride and linaclotide showed benefit in phase 2, but large phase 3 RCTs have not been performed.
 - **Methylnaltrexone** — subcutaneous **8 or 12 mg** or oral tablet **150 mg**. Subcutaneous dosing daily or every other day was superior to placebo for SBMs without rescue medication within 4 hours; oral methylnaltrexone superior at the recommended **450 mg daily**.
-- **Naloxegol 12.5 and 25 mg** — 25 mg met the primary endpoint in 2 phase 3 12-week RCTs (44.4% and 39.7% vs 29.3% placebo). An open-label crossover trial (n = 246) found **no difference between PEG and naloxegol** over 2 weeks, and patients did not prefer one over the other.
+- **Naloxegol 12.5 and 25 mg** — 25 mg met the primary endpoint in 2 phase 3 12-week RCTs in OIC with noncancer pain (n = 1352; 44.4% and 39.7% vs 29.3% placebo). An open-label crossover trial (n = 246) found **no difference between PEG and naloxegol** over 2 weeks, and patients did not prefer one over the other.
 - **Naldemedine 0.2 mg** — primary endpoint met in 47.6% and 52.5% vs ~34% placebo in two 12-week phase 3 RCTs in noncancer pain. Adverse events like other PAMORAs (diarrhea, abdominal pain).
 
 ## Relevance to Wiki
@@ -266,4 +267,4 @@ Must include: bothersome bowel symptoms **not attributable to structural abnorma
 - **Continuous pain:** Rome V excludes continuous pain from IBS; neither Rome IV nor ACG 2020 did.
 - **Nomenclature:** this chapter uses **chronic constipation (CC)**; the wiki page and most US guidelines ([[aga-acg-2023-constipation]]) use chronic idiopathic constipation. Rome V states the terms are interchangeable.
 - **SIBO breath testing:** the Rome V committee does not recommend routine breath testing in the initial IBS evaluation, noting guideline recommendations across societies are inconsistent — [[acg-2020-sibo]] is more permissive.
-- **FMT in IBS:** Rome V reports no significant benefit at 12 weeks and endorses the recommendation against FMT outside trials.
+- **FMT in IBS:** Rome V reports no significant benefit at 12 weeks and notes that current guidelines recommend against FMT in IBS outside a clinical trial.

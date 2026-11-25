@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: 
 category: source
 tags: [hemorrhoids, anorectal, rubber-band-ligation, infrared-coagulation, sclerotherapy, hemorrhoidectomy, anoscopy, cirrhosis, pregnancy, ibd]
 created: 2026-06-27
-updated: 2026-10-17
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU Hemorrhoids.pdf"
 ---
@@ -17,7 +18,7 @@ raw: "GI Guidelines/AGA/AGA 2026 CPU Hemorrhoids.pdf"
 - **Type:** guideline (AGA Clinical Practice Update — Expert Review)
 
 ## Summary
-American Gastroenterological Association (AGA) Expert Review framing hemorrhoid diagnosis and treatment as core gastroenterology practice. Diagnosis is clinical (history + exam + anoscopy in every new patient before treatment). Conservative care (fiber, avoid straining/prolonged toilet time, sitz baths) is first-line; topical agents have limited evidence and topical steroids should be capped at 2 weeks. Office-based rubber band ligation (RBL) and infrared coagulation (IRC) are both safe and effective for grades 1–3 and should precede surgery; RBL has greater durability for prolapse and recurrent bleeding. The update gives specific guidance for special populations — active inflammatory bowel disease (IBD) (defer treatment until remission), pregnancy (conservative first), and cirrhosis (distinguish hemorrhoids from rectal varices; IRC preferred over banding when significant coagulopathy is present). Acute thrombosed hemorrhoids are best treated with incision and drainage; grade 4 requires surgical hemorrhoidectomy.
+American Gastroenterological Association (AGA) Expert Review framing hemorrhoid diagnosis and treatment as core gastroenterology practice. Diagnosis is clinical (history + exam + anoscopy, whenever possible, in every new patient before treatment). Dietary and lifestyle changes (fiber, avoid straining/prolonged toilet time) are first-line; sitz baths are often advised but data are limited; topical agents have limited evidence and topical steroids should be capped at 2 weeks. Office-based rubber band ligation (RBL) and infrared coagulation (IRC) are both safe and effective for grades 1–3 and should precede surgery; RBL has greater durability for prolapse and recurrent bleeding. The update gives specific guidance for special populations — active inflammatory bowel disease (IBD) (defer treatment until remission), pregnancy (conservative first), and cirrhosis (distinguish hemorrhoids from rectal varices; IRC preferred over banding when significant coagulopathy is present). Acute thrombosed hemorrhoids are best treated with incision and drainage; grade 4 requires surgical hemorrhoidectomy.
 
 ## Methods and Grading
 
@@ -60,8 +61,8 @@ American Gastroenterological Association (AGA) Expert Review framing hemorrhoid 
 - **Why the 2-week cap:** prolonged topical steroid use thins the skin and makes it more sensitive.
 
 **Anoscopy (BPA 4).** Superior to flexible endoscopy for the anal canal and the preferred method to examine it.
-- Left lateral decubitus, after the DRE, no sedation; easy to learn and perform.
-- **Beveled, disposable, slotted scopes with a built-in light are best.** A beveled scope can be rotated without risk of trauma to the hemorrhoid column; a **slotted scope cannot be rotated** inside the anal canal without damaging the column.
+- Left lateral decubitus, after the DRE; easy to learn and perform.
+- **Disposable slotted or beveled anoscopes with a built-in light are best.** A beveled scope can be rotated without risk of trauma to the hemorrhoid column; a **slotted scope cannot be rotated** inside the anal canal without damaging the column.
 - Tense or nervous patient → ask the patient to bear down during insertion to relax the pelvic floor.
 - Not to be confused with **high-resolution anoscopy**, which uses a colposcope to detect anal intraepithelial neoplasia or early anal cancer.
 - Full [[colonoscopy|colonoscopy]] should be considered in patients with rectal bleeding, to rule out concomitant or more serious disease.
@@ -78,7 +79,7 @@ American Gastroenterological Association (AGA) Expert Review framing hemorrhoid 
 - **Dose:** 1- to 1.5-second bursts applied **just proximal to the visible internal hemorrhoid column, in 5 or 6 spots**, repeated for each column, producing a visible white spot. Treatment may need repeating in a few weeks for complete control.
 - **Pain or burning during the procedure signals a possible transmural burn → reduce the applied energy.** Risks are pain, burning, transmural burn, ulceration.
 - **Works particularly well for grades 1 and 2, and for many grade 3. Not suitable for large, prolapsing hemorrhoids.**
-- **IRC is favored over RBL when bleeding risk is a concern — patients on anticoagulants or antiplatelet agents** (risk of bleeding when the band falls off); also preferred in pregnancy, and in young patients with significant irritable bowel syndrome (IBS) symptoms, who tend to be more sensitive to banding (little supporting literature).
+- **IRC is favored over RBL when bleeding risk is a concern — patients on anticoagulants or antiplatelet agents** (risk of bleeding when the band falls off); IRC may also be preferred in pregnancy, and in young patients with significant irritable bowel syndrome (IBS) symptoms, who tend to be more sensitive to banding (little supporting literature).
 - Post-procedure discomfort after either procedure: over-the-counter analgesia (acetaminophen or nonsteroidal anti-inflammatory drugs).
 - **Sclerotherapy has been largely abandoned** because of the potential for complications such as a misplaced sclerosing injection, and reduced efficacy compared with safer modalities.
 
@@ -98,11 +99,11 @@ American Gastroenterological Association (AGA) Expert Review framing hemorrhoid 
 **Pregnancy (BPA 8).** Hemorrhoids usually develop in the **third trimester**, from the enlarging uterus raising intra-abdominal pressure with venous stasis and engorgement of the inferior mesenteric veins; extrinsic rectal compression also drives straining, prolonged defecation time, and constipation. Prolonged pushing, especially in the second stage of labor, induces or aggravates hemorrhoids and prolapse.
 - Primary treatment is topical, including hydrocortisone suppositories for inflammation, bleeding, and/or pain, **with banding or IRC delayed until postpartum**.
 - Systemic absorption from these ointments or creams is minimal, so they are considered **safe in pregnancy**.
-- **If a procedure cannot wait until after delivery, IRC is preferred to banding** (less post-procedural discomfort).
+- **If a procedure cannot wait until after delivery, IRC may be preferred to banding** (less post-procedural discomfort).
 - **Involve the obstetrician in treatment decisions.** Most recommendations here rest on expert opinion.
 
 **Thrombosed external hemorrhoids (BPA 9).** Thrombus in the external hemorrhoid causes significant swelling and pain; patients report a mass or nodule, which can bleed. Thorough evaluation is important to make the diagnosis.
-- **Early presentation = within 72 hours**; early incision and drainage (I&D) gives the most effective and rapid symptom relief compared with conservative measures.
+- Historically, early presentation (**within 72 hours**) → excision offered in the office or operating room; early incision and drainage (I&D) gives the most effective and rapid symptom relief compared with conservative measures.
 - **"De-roof" the cavity** so it does not reform with the incision closing over.
 - **I&D can be done by a gastroenterologist in the office or in the emergency room. Antibiotics are not required afterward.**
 - Distinguish I&D from **thrombectomy** — removal of the entire thrombosed portion of the hemorrhoid, usually with sutures to close, usually performed by surgeons. Immediate-relief outcomes are very similar.
@@ -118,13 +119,13 @@ American Gastroenterological Association (AGA) Expert Review framing hemorrhoid 
 - **Rectal varices** are portosystemic collaterals of [[portal-hypertension|portal hypertension]], present in **30%** of cirrhotic patients with portal hypertension.
 - **How they differ:** rectal varices sit in the **mid and more proximal rectum**; hemorrhoids are usually **distal and cross the dentate line**.
 - Bleeding from rectal varices is uncommon but can be **life-threatening**. Endoscopic cyanoacrylate injection or coils frequently control bleeding, but **embolism risk and rebleeding rates remain high**.
-- **Managing the underlying portal hypertension is essential** — transhepatic portosystemic shunting, or alternatively balloon-occluded retrograde transvenous obliteration (BRTO) by interventional radiology.
+- **In bleeding rectal varices, managing the underlying portal hypertension is essential** — transhepatic portosystemic shunting, or alternatively balloon-occluded retrograde transvenous obliteration (BRTO) by interventional radiology.
 - **Significant coagulopathy, for most clinicians = platelets <50,000/µL or international normalized ratio (INR) >2.0** → choose IRC over banding. Concomitant portal hypertension by itself does not change the approach.
 
 ## Relevance to Wiki
 - Primary update to [[hemorrhoids]] — Goligher grading criteria (Table 1, which lives on that page), modality selection by grade and by bleeding risk, IRC technique and limits, pelvic-sepsis counseling window, and special-population guidance (pregnancy, active IBD, cirrhosis with the rectal-varices distinction).
-- Corroborates American College of Gastroenterology (ACG) 2021 / American Society for Gastrointestinal Endoscopy (ASGE) 2010 on conservative first-line therapy, RBL as the preferred office procedure, early drainage of thrombosed hemorrhoids, and grade 4 → hemorrhoidectomy.
-- Supersedes older same-tier guidance on two points: office procedures now extend to **grade 3**, and **sclerotherapy is no longer an endorsed alternative**.
+- Corroborates American College of Gastroenterology (ACG) 2021 / American Society for Gastrointestinal Endoscopy (ASGE) 2010 on conservative first-line therapy, RBL as the office treatment of choice, early drainage of thrombosed hemorrhoids, and grade 4 → hemorrhoidectomy.
+- Supersedes older same-tier guidance on two points: office procedures now extend to **grade 3** (BPA 5 — though the Conclusion limits banding/IRC to grades 1–2, with referral to a surgeon individualized), and **sclerotherapy is no longer an endorsed alternative**.
 - Cross-links: [[crohns-disease]], [[ulcerative-colitis]], [[portal-hypertension]], [[anal-fissure]], [[rectal-prolapse]], [[colonoscopy]], [[anticoagulation-gi-bleeding]].
 
 ## Contradictions / Open Questions
@@ -133,15 +134,15 @@ American Gastroenterological Association (AGA) Expert Review framing hemorrhoid 
 
 | Point | AGA 2026 (ungraded BPA) | ACG 2021 (GRADE) |
 |---|---|---|
-| Grades eligible for office procedures | Banding or IRC for **grades 1–3**, and **required before** surgical hemorrhoidectomy in grades 1–3 (BPA 5) | Graded recommendation covers **grade 1–2** failing medical therapy (Strong/Moderate); grade 3 is addressed separately by Doppler-guided artery ligation (Conditional/Very low) |
+| Grades eligible for office procedures | Banding or IRC for **grades 1–3**, and **should be employed before** surgical hemorrhoidectomy in grades 1–3 (BPA 5) | Graded recommendation covers **grade 1–2** failing medical therapy (Strong/Moderate); grade 3 is addressed separately by Doppler-guided artery ligation (Conditional/Very low) |
 | Sclerotherapy | **Largely abandoned** — misplaced sclerosing injection, reduced efficacy vs safer modalities | Listed as an alternative office procedure within the Strong/Moderate recommendation; 75%–90% success in first- to third-degree hemorrhoids |
 | Patient on anticoagulants/antiplatelets | **IRC** is the favored modality (bleeding risk when the band falls off) | Sclerotherapy named as effective in acute bleeding on anticoagulants or immunosuppression; banding to be used with caution |
-| Acutely thrombosed external hemorrhoid | **I&D** (with de-roofing); early = **within 72 hours** | **Either** surgical excision **or** incision and evacuation of the thrombus; early = **within the first 4 days** (Strong/Low) |
+| Acutely thrombosed external hemorrhoid | **I&D** (with de-roofing); early I&D gives the best relief (72 hours is cited for historical excision, not as an I&D window) | **Either** surgical excision **or** incision and evacuation of the thrombus; early = **within the first 4 days** (Strong/Low) |
 
 **Open questions acknowledged by the document itself:**
 - Sitz baths — scientific data limited; a review of 36 articles found little evidence for symptom improvement, and the authors call for more research.
 - Topical agents — efficacy "has not been well-studied"; the advice is permissive, not an endorsement.
-- Preferring IRC in pregnancy and in young patients with significant IBS symptoms rests on "very little evidence in the literature"; further studies are needed. Most pregnancy treatment recommendations are based on expert opinion.
+- Preferring IRC in young patients with significant IBS symptoms rests on "very little evidence in the literature"; further studies are needed. Most pregnancy treatment recommendations are based on expert opinion.
 - Safety and efficacy of hemorrhoid treatment in IBD rests on small series and expert opinion.
 - BPA 10 permits removing "large" skin tags without hemorrhoidectomy but gives no size threshold.
 - Because no systematic review was performed, none of the 11 statements carries a strength or evidence rating; where AGA 2026 and ACG 2021 agree, ACG's GRADE rating is the only formal evidence signal available.

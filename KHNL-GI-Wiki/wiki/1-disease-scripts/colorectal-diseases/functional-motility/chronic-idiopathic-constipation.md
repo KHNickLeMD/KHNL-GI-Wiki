@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-11-19
+updated: 2026-11-25
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation, esge-2020-gi-motility-part-2]
 ---
 
@@ -33,75 +33,58 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 ### Establishing the Diagnosis
 
-**Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
+**Chronic idiopathic constipation (CIC)** = chronic constipation without an identifiable structural, metabolic or pharmacologic cause. A **positive diagnosis** can be made in most patients from typical symptoms and the absence of alarm features, without extensive testing [[rome-v-2026-bowel-disorders]].
 
-- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel [[disorders-of-gut-brain-interaction|disorders of gut-brain interaction (DGBI)]] category **C2**); [[opioid-induced-constipation|opioid-induced constipation]] is a separate category (C6). [[rome-v-2026-dgbi]]
+- **Names:** chronic constipation (CC), functional constipation (FC) and CIC are interchangeable. Rome V chose **CC** — bowel [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] category **C2** — to drop "functional" and stress that CC is rarely secondary to organic disease [[rome-v-2026-bowel-disorders]]. [[opioid-induced-constipation|Opioid-induced constipation]] is a separate category (C6) [[rome-v-2026-dgbi]].
+- **Criteria:** Rome V C2 — the full criteria box is on [[chronic-constipation#Definition / Scope|chronic constipation]]. Older papers and [[asge-2014-constipation|American Society for Gastrointestinal Endoscopy (ASGE) 2014]] use Rome III; the items changed:
 
-**Symptom criteria for functional constipation** — Rome III, as reproduced in [[asge-2014-constipation]] Table 2. **All three blocks must be satisfied** — the symptom count alone is not the diagnosis.
+| Item | Rome III ([[asge-2014-constipation]] Table 2) | Rome V C2 ([[rome-v-2026-bowel-disorders]]) |
+|---|---|---|
+| Name | Functional constipation | Chronic constipation |
+| Threshold for straining, hard stools, incomplete evacuation, blockage, manual maneuvers | At least 25% of defecations | More than one-fourth (25%) of defecations |
+| Hard stools | Lumpy or hard stools | Lumpy or hard stools (Bristol 1–2) |
+| Frequency item | Fewer than 3 defecations per week | Fewer than 3 spontaneous bowel movements (SBMs) per week |
+| Unchanged | ≥2 items; loose stools rare without laxatives; insufficient criteria for irritable bowel syndrome (IBS); 3 months, onset ≥6 months before diagnosis | Same |
 
-**Timing qualifier:** criteria fulfilled for the **previous 3 months**, with **symptom onset ≥6 months prior to diagnosis**.
-
-1. **Must include ≥2 of the following six:**
-   - Straining during ≥25% of defecations
-   - Lumpy or hard stools in ≥25% of defecations
-   - Sensation of incomplete evacuation for ≥25% of defecations
-   - Sensation of anorectal obstruction/blockage for ≥25% of defecations
-   - Manual maneuvers to facilitate ≥25% of defecations (digitation, pelvic floor support)
-   - Fewer than 3 defecations per week
-2. **Loose stools are rarely present without the use of laxatives.**
-3. **Insufficient criteria for [[irritable-bowel-syndrome|irritable bowel syndrome]].**
-
-> **Version note:** the criteria list above is **Rome III** ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. The Rome IV/V wording of the six items and the timing qualifier may differ.
-
-**Exclusions (not CIC):**
-
-- **irritable bowel syndrome with constipation (IBS-C)**: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
-- Opioid-induced constipation (OIC) — a separate entity with its own criteria, laxative-refractory threshold, and peripherally acting μ-opioid receptor antagonist (PAMORA) recommendations; OIC patients were **excluded** from the evidence base for the pharmacologic recommendations below [[aga-acg-2023-constipation]]
-- Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, nonsteroidal anti-inflammatory drugs (NSAIDs)), pregnancy
+- **CC vs IBS with constipation (IBS-C):** the distinction is **predominant abdominal pain or discomfort** — pain may occur in CC but is not the predominant feature [[rome-v-2026-bowel-disorders]]. Rome V lowered the IBS pain threshold to **≥3 days/month in the last 3 months** (Rome IV: ≥1 day/week) and re-added "discomfort", so more patients now sort into IBS-C [[rome-v-2026-dgbi]]. IBS-C regimens: [[irritable-bowel-syndrome]].
+- **Outside the AGA–ACG evidence base:** the 2023 joint guideline of the American Gastroenterological Association (AGA) and American College of Gastroenterology (ACG) excluded IBS-C, opioid-induced constipation, and constipation from hypothyroidism or [[celiac-disease|celiac disease]], and does not address malignancy or pregnancy [[aga-acg-2023-constipation]].
 
 ### Severity Assessment
 
-Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment of Constipation–Quality of Life), the QoL instrument the guideline's evidence synthesis used [[aga-acg-2023-constipation]], plus a stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
+**Response to treatment** sets the next step:
 
-- Response to over-the-counter (OTC) agents (adequate vs. inadequate)
-- Presence of alarm features (see below)
-- Suspicion for defecation disorder (outlet dysfunction)
+| Stage | Defined by | Next step |
+|---|---|---|
+| Uncomplicated | No alarm features | Fiber and over-the-counter (OTC) agents (Steps 1–2) |
+| OTC failure | Fails or is intolerant of OTC therapies | Lactulose (Rec 4), secretagogues or prucalopride (Recs 7–10) [[aga-acg-2023-constipation]] |
+| Refractory constipation (RC) | Unsatisfactory despite an adequate trial of lifestyle, dietary, medical and (when indicated) biofeedback therapy | [[#Refractory Constipation (AGA 2026)]]; [[chronic-constipation#Definition / Scope\|operational criteria]] [[aga-2026-refractory-constipation]] |
 
 ### Classification / Typing
 
-| Subtype | Features |
-|---------|---------|
-| Normal-transit constipation | Most common; normal colonic transit on study; often responds to medical therapy |
-| Slow-transit constipation (colonic inertia) | Delayed marker transit throughout colon; poor response to biofeedback; may need colonic motility evaluation |
-| Defecation disorder (outlet dysfunction) | Dyssynergic defecation or inadequate rectal propulsion; see [[defecation-disorders]]; requires anorectal physiology testing |
+| Subtype | Frequency and overlap |
+|---|---|
+| Normal-transit | **Most patients** with CC [[rome-v-2026-bowel-disorders]] |
+| Defecatory disorder (DD) | **Second most common** type; may co-occur with slow transit [[rome-v-2026-bowel-disorders]] — see [[defecation-disorders]] |
+| Slow-transit | A **small proportion** [[rome-v-2026-bowel-disorders]]; overlap with DD up to **40%** [[aga-2026-refractory-constipation]] |
 
-**Note:** Anorectal physiology testing (anorectal manometry (ARM) + balloon expulsion test (BET)) should be pursued before escalating to prescription agents if there are symptoms suggesting outlet dysfunction (excessive straining, sense of blockage, digital maneuvers, inability to expel balloon). See [[defecation-disorders]] for full evaluation.
+How each subtype is proven: [[chronic-constipation#The three physiologic subtypes]].
 
 ---
 
 ## Differential Diagnosis
 
-*Workup: see [[chronic-constipation]]. The outlet-dysfunction arm is on [[defecation-disorders]].*
+*Workup: see [[chronic-constipation]].*
 
-| Condition | Key Features |
-|-----------|-------------|
-| IBS-C | Abdominal pain is central symptom; [[abdominal-bloating-and-distention\|bloating]]; pain relieved by defecation |
-| [[opioid-induced-constipation\|Opioid-induced constipation]] | New or worsening symptoms on initiating/changing/increasing an opioid. Laxatives first-line; a [[pamoras\|PAMORA]] (naldemedine, naloxegol, methylnaltrexone) only once laxative-refractory. The American Gastroenterological Association (AGA) makes **no recommendation** for [[lubiprostone]] or [[prucalopride]] in OIC [[aga-2019-opioid-induced-constipation]] |
-| Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy\|biofeedback]], not secretagogues |
-| Hypothyroidism | thyroid-stimulating hormone (TSH) elevated; cold intolerance, fatigue, weight gain |
-| Hypercalcemia | Fatigue, polyuria, confusion; check calcium |
-| Medication-induced | Opioids, anticholinergics, iron, calcium channel blockers (CCBs) — review medication list |
-| [[colorectal-cancer\|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy]] indicated |
-| Hirschsprung disease | Usually diagnosed in childhood; adult cases rare; suction rectal biopsy |
+| Condition | Key feature |
+|---|---|
+| [[irritable-bowel-syndrome\|IBS-C]] | Predominant abdominal pain/discomfort ≥3 days/month [[rome-v-2026-dgbi]] |
+| [[opioid-induced-constipation\|Opioid-induced constipation]] | New or worsening symptoms when initiating, changing or increasing opioid therapy [[rome-v-2026-bowel-disorders]]; laxatives first, a [[pamoras\|peripherally acting μ-opioid receptor antagonist (PAMORA)]] once laxative-refractory [[aga-2019-opioid-induced-constipation]] |
+| [[defecation-disorders\|Defecatory disorder]] | Excessive straining, sense of blockage, manual maneuvers, incomplete evacuation; abnormal anorectal tests; treated with [[biofeedback-therapy\|biofeedback]] [[acg-2021-anorectal-disorders]] |
+| Secondary causes | Medications (opioids, anticholinergics incl. antipsychotics, iron), disordered eating, neurologic disease (Parkinson's disease, multiple sclerosis), endometriosis [[aga-2026-refractory-constipation]]; hypothyroidism, hypercalcemia-inducing disease [[rome-v-2026-bowel-disorders]] |
+| [[colorectal-cancer\|Colorectal cancer (CRC)]], stricture, extrinsic compression | Alarm features → [[colonoscopy]] [[asge-2014-constipation]] |
+| Hirschsprung disease | Suspected → [[anorectal-manometry\|anorectal manometry (ARM)]] **+ deep biopsy** for absent myenteric neurons [[asge-2014-constipation]] |
 
-**Alarm features requiring structural evaluation ([[colonoscopy]]):**
-
-- Age ≥45 with new-onset constipation and no prior colonoscopy
-- Rectal bleeding not explained by [[hemorrhoids]]
-- Unexplained weight loss ≥10 lbs
-- Family history of colorectal cancer (CRC) or [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]
-- [[iron-deficiency-anemia|Iron deficiency anemia]]
-- Positive stool blood test
+Alarm features: [[chronic-constipation#Red Flags / Alarm Features]].
 
 ---
 
@@ -109,25 +92,35 @@ Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment 
 
 ### Initial Workup
 
-- TSH, calcium, metabolic panel — to exclude secondary causes
-- Stool diary ([[bristol-stool-form-scale|Bristol Stool Form Scale]], frequency, Bristol 1–2 stools confirm hard/lumpy)
-- Review all medications
+- **Rectal examination in every patient** before physiologic testing — gauges the likelihood of a DD [[aga-2026-refractory-constipation]].
+- **Labs:** complete blood count (CBC) to exclude anemia (an alarm feature). Thyroid-stimulating hormone (TSH) and serum calcium **only when clinically indicated** (suspected hypothyroidism or hypercalcemia) [[rome-v-2026-bowel-disorders]].
+- **Imaging** (barium enema, ultrasound, computed tomography, magnetic resonance): minimal diagnostic value **in the absence of alarm features or relevant comorbidities**; not generally recommended [[rome-v-2026-bowel-disorders]].
+- Full Rome V do-not-order list: [[chronic-constipation#Key Tests]].
 
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)
 
-- **[[anorectal-manometry|ARM]]:** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
-- **BET:** expulsion of a 50 mL **commercial** balloon within 1 minute (seated); abnormal >1 min. **The cutoff is balloon-specific, and American College of Gastroenterology (ACG) discourages Foley balloons** — 50 mL exceeds the manufacturer's 30 mL limit and, even at the looser 2-minute Foley cutoff, 25% of healthy people are misclassified as abnormal. Mechanics on the ARM page. [[acg-2021-anorectal-disorders]]
-- **Defecography (barium or magnetic resonance imaging (MRI)):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
-- **Colonic transit study** (radiopaque markers or wireless motility capsule): only if anorectal physiology is normal and patient not responding to biofeedback; distinguishes slow-transit from outlet dysfunction
+- **When:**
+  - Rome V: for patients who **do not respond to therapeutic interventions**, not at initial evaluation — earlier if digital rectal examination (DRE) strongly suggests a DD [[rome-v-2026-bowel-disorders]].
+  - ACG 2021: all patients with symptoms **refractory to standard therapy** → anorectal testing to exclude a DD [[acg-2021-anorectal-disorders]].
+  - AGA 2026: **most** CC patients get ARM + balloon expulsion test (BET), and a biofeedback course when indicated, **before** being labeled refractory (best practice advice [BPA] 2) [[aga-2026-refractory-constipation]].
+- **[[anorectal-manometry|ARM]] + BET:** BET with a 50 mL commercial balloon, seated — upper limit of normal **1 minute**; ACG discourages Foley catheter balloons [[acg-2021-anorectal-disorders]]. How many abnormal tests diagnose a DD differs by guideline — see [[defecation-disorders]].
+- **Defecography (barium or magnetic resonance imaging [MRI]):** when clinical features and initial tests disagree, ARM and BET disagree, and/or pelvic organ prolapse is suspected [[acg-2021-anorectal-disorders]]. Modality choice: [[chronic-constipation#Key Tests]].
+- **Colonic transit** (radiopaque markers, scintigraphy, wireless motility capsule): only in patients who **do not respond to biofeedback, or who have normal anorectal function** on testing [[acg-2021-anorectal-disorders]]; Rome V places it after a DD is excluded, for persistent symptoms despite medical therapy [[rome-v-2026-bowel-disorders]].
+
+> [!pitfall] Slow transit in a DD is often secondary
+> Up to 50% of DD patients have delayed colonic transit. Treat with biofeedback first — slow transit often normalizes once the pelvic floor is corrected ([[acg-2021-anorectal-disorders]]).
 
 ### Role of Endoscopy (ASGE 2014)
 
-[[asge-2014-constipation]] — endoscopy is **not** part of the initial workup of chronic constipation absent alarm features or organic-disease suspicion. Yield of colonoscopy for isolated constipation is **low** (comparable to average-risk screening); meta-analysis shows no increased CRC risk.
+All from [[asge-2014-constipation]]:
 
-- **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate [[colorectal-cancer-screening|CRC screening]] not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
-- **Incidental findings:** [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer syndrome]] (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
-- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, [[colon-ischemia|ischemic]]); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel (selection and technique: [[#Percutaneous Endoscopic Cecostomy]]). **No role in stool disimpaction.**
-- Chronic constipation is an independent risk factor for inadequate bowel prep → use a more aggressive cleansing regimen.
+- **No endoscopy in the initial evaluation** without alarm features or suspicion of organic gastrointestinal (GI) disease (Rec 1, moderate quality). Yield in isolated constipation is low — comparable to average-risk screening.
+- **Colonoscopy:** rectal bleeding, heme-positive stool, iron deficiency anemia, weight loss, or obstructive symptoms; before surgery for constipation; age >50 y never screened (Rec 3 — screening now starts at 45: [[colorectal-cancer-screening]]).
+  - **Should be considered** in selected patients to exclude obstruction from cancer, stricture or extrinsic compression.
+  - Younger patients: flexible sigmoidoscopy may suffice to exclude distal disease.
+- **Incidental findings:** [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer syndrome]] (indicates [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
+- **Therapy:** dilation of fibrotic strictures from inflammatory bowel disease (IBD), surgery or [[colon-ischemia|ischemia]]; percutaneous endoscopic cecostomy ([[#Percutaneous Endoscopic Cecostomy]]). **No role in stool disimpaction.**
+- Chronic constipation is an independent risk factor for inadequate [[bowel-preparation]] → consider a more aggressive cleansing regimen.
 
 ---
 
@@ -135,99 +128,132 @@ Assess impact on quality of life (QoL) with the **PAC-QOL** (Patient Assessment 
 
 ### Step 1: Lifestyle and Behavioral Measures
 
-All from [[acg-2021-anorectal-disorders]]:
-
-- **Fluid: 6–8 glasses daily.** **Dietary fiber: 20–30 g daily.**
-- **Match the fiber to the stool** — **soluble** fiber (psyllium, Sterculia) for **hard** stools; **insoluble** fiber for **loose** stools.
-- **Eat meals of ≥500 kcal** to induce the gastrocolonic response.
-- **Toileting routine:** heed the call to defecate; avoid straining; do not spend excessive time on the toilet (no reading/phone). Consider a **footstool** — little if any risk, though studies are needed.
-- **Eliminate medications** that cause or exacerbate constipation.
-- **Treat coexisting anorectal conditions concurrently** — [[anal-fissure|anal fissure]] or symptomatic [[hemorrhoids]].
-- **Escalation trigger:** if these measures are insufficient → oral osmotic or stimulant laxatives, secretagogues, or 5-HT4 agonists (Steps 2–3). Enemas and suppositories, used **as-needed (e.g. no bowel movement for 2 days)**, add predictability.
+- **Physical activity, a regular bathroom routine, a footstool** to elevate the feet — supporting evidence limited [[rome-v-2026-bowel-disorders]].
+- **Fiber:** total intake (diet + supplement) **20–30 g/d**; usually no benefit above 25–30 g; encourage adequate hydration with fiber [[aga-acg-2023-constipation]]. Kiwi and prunes helped some patients in small randomized trials [[rome-v-2026-bowel-disorders]].
+- **Conservative measures in a DD** [[acg-2021-anorectal-disorders]]:
+  - Soluble fiber (psyllium, Sterculia) or laxatives for **hard** stools; insoluble fiber for **loose** stools.
+  - Meals of **≥500 kcal** to induce the gastrocolonic response.
+  - Heed the call to defecate; avoid straining and excessive toilet time.
+  - Stop medications that cause or worsen constipation; treat [[anal-fissure]] or symptomatic [[hemorrhoids]] concurrently.
+  - Insufficient → oral osmotic or stimulant laxatives, secretagogues, or 5-hydroxytryptamine type 4 (5-HT4) agonists. Enemas/suppositories **as needed (e.g. no bowel movement for 2 days)** add predictability.
 
 ### Step 2: OTC Pharmacotherapy (AGA-ACG 2023)
 
-| Agent | Starting dose | Maximum dose | Strength/Evidence | Notes |
-|-------|------|------|------------------|-------|
-| **Polyethylene glycol (PEG)** | 17 g daily | **No clear maximum** | Strong/Moderate | First-line OTC osmotic; titrate per symptom response; cost $10–45/month |
-| **Bisacodyl** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; recommended for short-term use |
-| **Sodium picosulfate (SPS)** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; grouped with bisacodyl in the guideline |
-| **Psyllium (fiber supplement)** | As tolerated | — | Conditional/Low | Start low, titrate; best evidence among fibers |
-| **Senna** | 8.6–17.2 mg daily | **35 mg twice daily (Food and Drug Administration (FDA) maximum)** | Conditional/Low | Inexpensive stimulant; also present in many combination laxatives. **Ceiling changed:** [[aga-acg-2023-constipation\|AGA-ACG 2023]] gave *"no clear maximum"*; [[aga-2026-refractory-constipation\|AGA 2026]] supplies the FDA maximum, and reports **up to 1.0 g/day for up to 8 weeks as safe** — senna teas and similar products often exceed the FDA dose without reported adverse events |
-| **Magnesium oxide** | 400–500 mg daily | **No clear maximum** | Conditional/Low | Use with caution / avoid in renal insufficiency |
-| **Lactulose** | 15 g daily | **No clear maximum** | Conditional/Very Low | The only osmotic agent studied in the elderly; bloating limits tolerability |
+All from [[aga-acg-2023-constipation]] Table 1 (strength / certainty) and Table 4 (doses); titrate every agent to symptom response.
 
-*Titrate every agent per symptom response, not on a fixed schedule ([[aga-acg-2023-constipation|AGA-ACG 2023]] Table 1).*
+| Agent | Rec | Strength / certainty | Starting dose | Maximum | Notes |
+|---|---|---|---|---|---|
+| Fiber supplement | 1 | Conditional / Low | Total fiber 20–30 g/d | Usually no benefit >25–30 g | Only **psyllium** appeared effective — effective at **7–20 g/d** [[rome-v-2026-bowel-disorders]]; flatulence common |
+| Polyethylene glycol (PEG) | 2 | **Strong / Moderate** | 17 g daily | No clear maximum | Response durable over 6 mo; a fiber trial may precede or accompany it |
+| Magnesium oxide | 3 | Conditional / Very low | 400–500 mg daily | No clear maximum (trials used 1,000–1,500 mg) | **Avoid in renal insufficiency** (hypermagnesemia; creatinine clearance <20 mg/dL as printed); caution in pregnancy |
+| [[lactulose\|Lactulose]] | 4 — after **failure of or intolerance to OTC therapies** | Conditional / Very low | 15 g daily | No clear maximum; hypernatremia, hypokalemia with significant diarrhea | Only osmotic agent studied in **pregnancy**; dose-dependent bloating and flatulence |
+| Bisacodyl or sodium picosulfate | 5 — **short term (daily ≤4 wk) or rescue** | **Strong / Moderate** | Bisacodyl 5 mg daily | 10 mg orally daily | Cramping, diarrhea; contraindicated in ileus, intestinal obstruction, severe dehydration, acute inflammatory bowel conditions |
+| Senna | 6 | Conditional / Low | 8.6–17.2 mg daily | AGA–ACG: no clear maximum (often 4 tablets twice daily). AGA 2026: Food and Drug Administration (FDA) maximum **35 mg twice daily**; up to 1.0 g/day for up to 8 weeks reported safe [[aga-2026-refractory-constipation]] | Trial dose higher than practice — start lower |
 
-**Chronic stimulant laxative use** ([[aga-2026-refractory-constipation]]):
+- **Cost:** every OTC agent **<$50/month** (PEG $10–45); prescription agents $374–563 [[aga-acg-2023-constipation]].
+- **Docusate** was reviewed, but the guideline makes no recommendation on it [[aga-acg-2023-constipation]].
+- **Rome V adds:** lactulose **15–30 mL once or twice daily** often causes cramping and bloating; magnesium may cause electrolyte imbalance **at high doses in older individuals or renal impairment** [[rome-v-2026-bowel-disorders]].
 
-- **Concerns about chronic stimulant laxative use in refractory adult constipation are unfounded** — a firmer stance than the Conditional/Low senna row above; **selected patients benefit from regular stimulant use**.
-- **Bisacodyl** stimulates high-amplitude propagating contractions and appears particularly effective at increasing spontaneous bowel movements.
-- **Suppositories and enemas** can help, particularly with pelvic floor dysfunction; data guiding their use are limited.
-- **Bowel cleanouts** clarify constipation's contribution to symptoms or precede maintenance therapy, especially with a large stool burden — **use sparingly**, to avoid setting an expectation of repeat treatment.
-- **There is no evidence that stimulant laxatives are habit forming or cause structural or functional damage to the colon** ([[rome-v-2026-bowel-disorders]]) — the specific reassurance patients ask for.
-
-**Dose detail [[rome-v-2026-bowel-disorders|Rome V]] adds to the table above:** psyllium is the best-studied fiber and is effective at **7–20 g/d** · **lactulose 15–30 mL once or twice daily**, frequently causing cramping and bloating · **magnesium products** are generally safe but risk **electrolyte imbalance at high doses in older adults or renal impairment** · PEG's high-quality randomized controlled trial (RCT) evidence runs **up to 6 months** · **prucalopride 4 mg was not better than 2 mg** for most endpoints and caused more gastrointestinal side effects, which is why only **1 mg and 2 mg** are approved.
+> [!pearl] Stimulant laxatives are safe for regular use
+> No evidence they are habit forming or damage the colon ([[rome-v-2026-bowel-disorders]]). Concerns about chronic use in refractory adult constipation are unfounded; selected patients benefit from regular use ([[aga-2026-refractory-constipation]]).
 
 ### Step 3: Prescription Agents (when OTC fails)
 
-| Agent | Class | Dose | Strength/Evidence | Cost/month |
-|-------|-------|------|------------------|-----------|
-| **[[linaclotide\|Linaclotide]]** | guanylate cyclase-C (GC-C) agonist | 72–145 mcg daily (CIC doses); **max 290 mcg daily** | Strong/Moderate | ~$523 |
-| **[[plecanatide\|Plecanatide]]** | GC-C agonist | **3 mg once daily** — the *only* approved dose, for CIC **and** IBS-C | Strong/Moderate (Rec 9) | ~$526 |
-| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | **2 mg once daily**; **1 mg daily if creatinine clearance (CrCl) <30 mL/min** (severe renal impairment) | Strong/Moderate (Rec 10) | ~$563 |
-| **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg twice daily (BID) | Conditional/Low | ~$374 |
+For adults with CIC **who do not respond to OTC agents**; each may replace or be added to OTC agents [[aga-acg-2023-constipation]]. No head-to-head trials.
 
-**Notes on selection:**
+| Agent | Class | Rec | Strength / certainty | Dose (Table 4) |
+|---|---|---|---|---|
+| [[linaclotide\|Linaclotide]] | Guanylate cyclase-C (GC-C) agonist | 8 | **Strong / Moderate** | 72–145 µg daily; maximum 290 µg daily (the IBS-C dose) |
+| [[plecanatide\|Plecanatide]] | GC-C agonist | 9 | **Strong / Moderate** | 3 mg daily (also the maximum; same dose for IBS-C) |
+| [[prucalopride\|Prucalopride]] | 5-HT4 agonist | 10 | **Strong / Moderate** | 1–2 mg daily; maximum 2 mg daily |
+| [[lubiprostone\|Lubiprostone]] | Chloride channel type 2 activator | 7 | Conditional / Low | 24 µg twice daily (also the maximum) |
 
-- [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is the main side effect; linaclotide 72 mcg also approved for CIC
-  - **Do not extrapolate a contraindication across the GC-C class.** AGA-ACG 2023 prints the gastrointestinal (GI) obstruction contraindication for [[linaclotide]] and states **none for plecanatide** (see [[plecanatide]]).
-- [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow.
-  - Renal adjustment is a **specific threshold, not "avoid"** — 1 mg daily at **CrCl <30 mL/min**
-  - **Contraindicated** in intestinal **perforation or obstruction**, [[crohns-disease|Crohn's disease]], [[ulcerative-colitis]], and [[toxic-megacolon|toxic megacolon/megarectum]] — note this rules it out in active IBD, not just mechanical obstruction
-  - **Label caution on mood/suicidality:** in a 4,476-subject safety database, 4 attempted and 2 completed suicides — both completed cases had stopped prucalopride >1 month before the event. Causality and mechanism are explicitly **unclear**; the label asks clinicians to watch for unusual changes in mood, behavior, and suicidal ideation
-- Lubiprostone: nausea the most common adverse event — **35%**, usually mild or moderate, discontinuation in only 5%; dose-dependent and seems lower when taken with food and water ([[aga-acg-2023-constipation]])
-- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] **6 mg BID** are IBS-C-specific regimens — do not apply this guideline to IBS-C. *Tegaserod was withdrawn in 2007 but **re-approved in 2019** for women <65 without cardiovascular (CV) ischemic events, and is suggested for IBS-C in women <65 by both [[acg-2020-ibs|ACG 2020]] (≤1 CV risk factor, secretagogue failure) and AGA 2022 (no CV ischemic events).* **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
+- Diarrhea leading to discontinuation is the shared risk of the GC-C agonists; lubiprostone's main adverse event is nausea (35%, lower with food and water) [[aga-acg-2023-constipation]].
+- Contraindications, renal and hepatic dose changes, and safety warnings: on each drug page.
 
 ### Defecation Disorder: Biofeedback
 
-If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-therapy|biofeedback therapy]]** is first-line treatment (Strong/Moderate). Secretagogues and osmotic laxatives have limited efficacy in pure outlet dysfunction. See [[defecation-disorders]].
+Abnormal ARM + BET → instrumented anorectal **[[biofeedback-therapy|biofeedback therapy]]** (ACG 2021 Rec 1: Strong, moderate quality) [[acg-2021-anorectal-disorders]]. Protocol and evidence: [[defecation-disorders]].
 
 ### Refractory Constipation (AGA 2026)
 
-**Definition:** infrequent and/or unsatisfactory bowel habits — with or without abdominal pain — despite an **adequate trial** of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy, in adults meeting criteria for chronic constipation (CC) or constipation-predominant irritable bowel syndrome (IBS).
+All from [[aga-2026-refractory-constipation]] (ungraded BPA statements) unless marked.
 
-**Before labeling a patient "refractory":**
+- **Definition (BPA 1):** infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, despite an **adequate trial** of lifestyle, dietary, medical and (when indicated) pelvic floor biofeedback therapy, in adults meeting criteria for CC or IBS-C.
+- **Before the label:** ARM + BET and a biofeedback course when indicated (BPA 2); exclude secondary causes — medications, disordered eating, neurologic disease (BPA 3); set realistic expectations (BPA 4).
+- **Confirm slow transit (BPA 5):** colonic transit testing **off treatment**, ideally also **on a maximal laxative regimen** to document refractoriness. Washout and repeat-testing rules: [[chronic-constipation#Test conditions that change the answer]].
+  - Normal transit on laxatives → symptoms driven by other factors (DD, visceral hypersensitivity, laxative side effects).
+  - Slow transit on laxatives → colonic dysmotility contributes; colectomy may be considered in select cases once a DD is excluded.
+- **Defecography should be considered** (BPA 6).
 
-- Evaluate most patients with **[[anorectal-manometry|ARM]] + BET** and complete a **biofeedback** course when a defecatory disorder is indicated.
-- Thoroughly exclude **secondary causes** (medications, disordered eating, comorbid neurologic disease).
-- Set **realistic expectations** about the typical course.
+**Medical escalation (BPA 7–9)**
 
-**Confirming the diagnosis:**
+```mermaid
+flowchart TD
+    A(["Unsatisfactory response to osmotic laxatives or<br/>conservative treatment, no evidence of a defecatory disorder"])
+    A --> B(["Consider maintenance therapy:<br/>stimulant laxatives — bisacodyl, senna, sodium picosulfate"])
+    A --> C(["Switch or add prescription medication(s):<br/>sodium/hydrogen exchanger 3 (NHE3) inhibitor — tenapanor<br/>secretagogues — lubiprostone, linaclotide, plecanatide<br/>prokinetic — prucalopride<br/>ileal bile acid transporter (IBAT) inhibitor — elobixibat"])
+    B -- "Unsatisfactory response" --> D(["Combine therapies with different mechanisms of action"])
+    C -- "Unsatisfactory response" --> D
+    D --> E(["Off-label prescription therapies<br/>(e.g., pyridostigmine)"])
+    D --> F(["Non-pharmacologic treatments<br/>(e.g., vibrating capsule, transanal irrigation)"])
+    E -- "Unsatisfactory response" --> G(["Consider surgical options"])
+    F -- "Unsatisfactory response" --> G
+    class A start
+    class B,C,D,E,F act
+    class G stop
+```
+*Medical treatment of refractory constipation*
+*Source: redrawn from AGA 2026 Figure 1 (suggested algorithm)*
+*[[aga-2026-refractory-constipation|AGA Clinical Practice Update on Refractory Constipation (2026)]]*
+*NHE3 = sodium/hydrogen exchanger 3 · IBAT = ileal bile acid transporter*
 
-- **Colonic transit testing off treatment** to document slow transit, **and ideally on a maximal laxative regimen** to document refractoriness. Modalities: scintigraphy or radiopaque markers (validated, minimal radiation, quantify overall *and* regional transit); wireless motility capsules also give regional transit.
-- **Washout before testing off treatment: stop laxatives for ≥7 days and medications that delay colon transit for ≥2 weeks.**
-- Day-to-day reproducibility is poor in defecatory disorders and colonic inertia → **repeat testing may be needed**, and in some patients testing while on laxatives.
-- **Reading a study done on laxatives:** **normal** transit → symptoms driven by other factors (defecatory disorder, visceral hypersensitivity, laxative side effects); **slow** transit → colonic dysmotility is contributing, and colectomy may be considered in select cases once a defecatory disorder has been excluded.
-- **Consider defecography** — barium or MRI; modality choice on the ARM page.
+- Combination data are anecdotal (e.g. PEG + bisacodyl, PEG + prucalopride). Bisacodyl appears particularly effective at increasing SBMs.
+- Off-label: **pyridostigmine** (no dose given); [[tenapanor]] and elobixibat may be considered; colchicine and misoprostol not advised routinely (limited efficacy, side effects).
+- Adjuncts (BPA 9): **transanal irrigation** (particularly neurogenic bowel dysfunction), **vibrating capsule**, **electroacupuncture**. [[sacral-nerve-stimulation|Sacral nerve stimulation]] did not improve CC.
+- Suppositories and enemas help particularly with pelvic floor dysfunction; **bowel cleanouts** clarify constipation's contribution or precede maintenance therapy — use sparingly.
 
-**Escalation of therapy:**
+**Surgery (BPA 10–14)**
 
-- Trial **all** standard OTC and FDA-approved agents — as monotherapy and **in combination**, pairing different mechanisms of action when monotherapy fails (e.g. PEG with bisacodyl, or PEG with prucalopride); the combination data are anecdotal.
-- **Off-label** agents (e.g. **pyridostigmine**) when OTC/FDA-approved agents fail.
-- Non-pharmacologic adjuncts: **transanal irrigation** (neurogenic bowel dysfunction), **vibrating capsule**, or **electroacupuncture**.
+```mermaid
+flowchart TD
+    A(["Refractory constipation"]) --> B["Careful clinical assessment incl. DRE for dyssynergic<br/>defecation; exclude secondary causes"]
+    B --> C["Abnormal ARM and BET?"]
+    C -- "Yes" --> D(["Dyssynergic defecation:<br/>anorectal biofeedback and pelvic floor retraining"])
+    C -- "No" --> E["Abnormal evacuation on imaging?"]
+    E -- "Yes" --> D
+    E -- "No" --> F["Delayed colonic transit test?"]
+    F -- "No: normal transit constipation" --> S(["STOP — consider medical management"])
+    F -- "Yes: slow transit constipation" --> G["Prominent upper GI symptoms?"]
+    G -- "Yes" --> H["Delayed gastric emptying or<br/>small bowel abnormalities?"]
+    H -- "Yes: multiregional dysmotility" --> S
+    H -- "No" --> I["Isolated slow transit constipation:<br/>predominant symptoms pain and bloating?"]
+    G -- "No" --> I
+    I -- "Yes" --> S
+    I -- "No" --> J["Consider psychological evaluation"]
+    J -- "Significant psychological concerns" --> S
+    J -- "Minimal concerns" --> P(["Proceed to surgery"])
+    class A start
+    class B,C,E,F,G,H,I,J test
+    class D,P act
+    class S stop
+```
+*Selecting patients for surgery in refractory constipation*
+*Source: redrawn from AGA 2026 Figure 2 (suggested algorithm)*
+*[[aga-2026-refractory-constipation|AGA Clinical Practice Update on Refractory Constipation (2026)]]*
+*DRE = digital rectal examination · ARM = anorectal manometry · BET = balloon expulsion test · GI = gastrointestinal*
 
-**Surgery (last resort):**
+- **Only after confirming slow transit and excluding pelvic floor dysfunction** (BPA 10). **Colectomy with ileorectal anastomosis** is the most evidence-based operation — offered only with **no ongoing DD**.
+- **Preoperative:** regional gut transit testing (BPA 11) and psychological evaluation (BPA 12). Rome V likewise requires upper gut transit evaluation to exclude a diffuse GI motility disorder [[rome-v-2026-bowel-disorders]].
+- **Relative contraindications (BPA 13):** severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma); predominant bloating and/or abdominal pain; reversible secondary causes; multiregional GI dysmotility.
+- **Diverting loop [[ostomy-management|ileostomy]] as a diagnostic trial (BPA 14)** — when efficacy, relative contraindications or poor functional outcome are the concern → completion colectomy with ileorectal anastomosis **potentially offered 6–12 months later** if symptoms improve significantly. Many patients keep the stoma because it improved their quality of life.
 
-- Only after **confirming slow-transit constipation and excluding pelvic floor dysfunction**.
-- Preoperative work-up: **regional gut transit testing** + **psychological evaluation**.
-- **Colectomy with ileorectal anastomosis** is the most evidence-based operation for slow-transit constipation, but **only patients with no evidence of an ongoing defecatory disorder should be offered it**.
-- Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut (multiregional) dysmotility.
-- **Staged pathway — ileostomy first:** a reversible **[[ostomy-management|diverting loop ileostomy]]** serves as a **diagnostic trial** of surgery where efficacy, relative contraindications, or risk of a poor functional outcome are the concern → **completion colectomy with ileorectal anastomosis potentially offered 6–12 months later** in those with significant symptom improvement. It may also mitigate colectomy's high complication rates, and many patients opt to keep the stoma because it improved their quality of life.
+> [!pitfall] Do not operate on an untreated defecatory disorder
+> Colectomy without first addressing a DD leads to persistent pain and constipation and low satisfaction; trial biofeedback before colectomy ([[aga-2026-refractory-constipation]]).
 
 ### Percutaneous Endoscopic Cecostomy
 
-European Society of Gastrointestinal Endoscopy (ESGE) 2020 — tube placed directly into the colon, technique comparable to percutaneous endoscopic gastrostomy; main indications are relief of colonic obstruction or **antegrade irrigation for colonic motility disorders**. Higher complication risk and a significant mortality → **intractable cases only**. ESGE numbers none of its recommendations; R-numbers are this wiki's reading-order labels [[esge-2020-gi-motility-part-2]].
+ASGE 2014 supports colonoscopic cecostomy "when clinically appropriate and feasible" (Rec 4) — in adults it may be effective in [[acute-colonic-pseudo-obstruction|acute colonic pseudo-obstruction]] and neurogenic bowel when conservative treatment fails — but gives no antibiotic, fixation or technique guidance [[asge-2014-constipation]]. Those come from the European Society of Gastrointestinal Endoscopy (ESGE) 2020. Tube placed directly into the colon (technique comparable to percutaneous endoscopic gastrostomy) for colonic obstruction or **antegrade irrigation in colonic motility disorders**; higher complication risk and a significant mortality → **intractable cases only**. ESGE numbers none of its recommendations; R-numbers are this wiki's reading-order labels [[esge-2020-gi-motility-part-2]].
 
 | Decision | ESGE recommendation | Strength; evidence; agreement |
 |---|---|---|
@@ -237,16 +263,16 @@ European Society of Gastrointestinal Endoscopy (ESGE) 2020 — tube placed direc
 | Technique (R19) | Critically ill → **endoscopic route**; good clinical condition → **laparoscopically assisted percutaneous endoscopic cecostomy (LAPEC)** | Weak recommendation, very low quality evidence; 86.7% |
 | Site (R20) | **Cecum only** — no other colonic location unless technically not feasible | Strong recommendation, very low quality evidence; 93.3% |
 
-- **Bowel preparation (ungraded):** rigorous preparation mandatory — fecal remnants raise septic risk; some expert centers use 7 days of fiber-free diet + 3 days of PEG solution
-- **Antibiotic regimen:** per local protocol — could be amoxicillin–clavulanic acid (1 g) or ofloxacin + metronidazole (500 mg) 1 hour before, mostly maintained until 72 hours after
-- Purely endoscopic: technical success >80%, complications 30%–40% (mostly minor; deaths from fecal peritonitis reported). LAPEC success 95%. No direct comparison. Metal anchors removed within 3–4 weeks
-- Left-sided colostomy: feasible but no advantage; one series of 31 — 13 of 14 constipation patients needed tube removal, two deaths from fecal peritonitis
-- Refractory Ogilvie's syndrome: see [[acute-colonic-pseudo-obstruction#Percutaneous Cecostomy and Colostomy]]
+- **Bowel preparation (ungraded):** rigorous preparation mandatory — fecal remnants raise septic risk; some expert centers use 7 days of fiber-free diet + 3 days of PEG solution.
+- **Antibiotic regimen:** per local protocol — could be amoxicillin–clavulanic acid (1 g) or ofloxacin + metronidazole (500 mg) 1 hour before, mostly maintained until 72 hours after.
+- **Outcomes:** purely endoscopic — technical success >80%, complications 30%–40% (mostly minor; deaths from fecal peritonitis reported); LAPEC success 95%; no direct comparison. Metal anchors removed within 3–4 weeks.
+- Left-sided colostomy: feasible but no advantage (one series of 31 — 13 of 14 constipation patients needed tube removal, two deaths from fecal peritonitis).
+- Refractory Ogilvie's syndrome: see [[acute-colonic-pseudo-obstruction#Percutaneous Cecostomy and Colostomy]].
 
 ---
 
 ## See Also
-[[chronic-constipation]], [[opioid-induced-constipation]], [[pamoras]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
+[[chronic-constipation]], [[opioid-induced-constipation]], [[pamoras]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[lactulose]], [[tenapanor]], [[anorectal-manometry]], [[sacral-nerve-stimulation]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
 
 ---
 
