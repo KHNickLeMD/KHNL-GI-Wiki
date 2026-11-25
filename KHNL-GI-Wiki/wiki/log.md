@@ -112,6 +112,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none. The ESD page is not verified, and the source is a non-US consensus whose content sits on an unverified page.
 - `ingest: partial` removed.
 
+**`[[omari-2026-leuven-consensus-pharyngeal-ues-hrm]]` — new source** (Omari et al, Leuven Consensus on pharyngeal and UES disorders on HRM-impedance, Neurogastroenterol Motil 2026). It is **open access (CC BY-NC)**. It is an international consensus that fills a gap, since no US guideline covers pharyngeal/UES manometry. It is Nick's drop.
+- *Extract* (fresh agent, pp 3–5, 8, 9 and 12 rendered):
+  - 31 items (L1–L31, the wiki's own numbering — the article numbers nothing). Per-statement votes are in the online supplement only; agreement was 74–100% overall.
+  - Tables 1–2 recreated; Figures 1, 4, 5 and 8 recreated as step tables.
+  - 7 printed inconsistencies.
+  - Figures 5 (p9) and 8 (p12) are CC BY-NC algorithms that could be embedded on a later pass. Not embedded this pass (budget).
+- *Gate:* 1 ABSENT. The "≥5 min accommodation" value appears only in the Figure 4 image; the verifier confirmed it on rendered p8. The extractor also removed a Chicago "4 s" value it had imported from the wiki rather than from this source.
+- *Independent check* (fresh agent, ~105 claims; every branch of Figures 5 and 8 matched): 0 management, 2 minor (the funding/conflicts and Section 9 locators are p14, not p13). Both fixed. `verified: 2026-11-25` set.
+- *Propagate* → [[high-resolution-manometry]]: new `### Pharyngeal and Upper Esophageal Sphincter Studies` under Interpretation (Contents updated), covering the test, protocol, UES dysfunction criteria, pharyngeal contractile dysfunction, and the absence of numeric cutoffs.
+  - Gate: new lines clean; L105 is an older line.
+  - Independent check (fresh agent, 15 claims): 13 supported, 2 minor, both fixed:
+    - "≥3 times" now carries Figure 4's 1–3 swallows for 20 mL thin and 10 mL viscous.
+    - L26 now includes the majority-HIGH (compensatory) branch.
+  - Also fixed: FEES = *flexible* endoscopic evaluation of swallowing; the L21 dry/5 mL "unconfirmed" rule, which the verifier flagged as omitted, was added from the verified source row.
+  - [[high-resolution-manometry]] `verified:` re-stamped 2026-11-25.
+- `index.md`: source row (Sources → Other); [[high-resolution-manometry]] row: 5 → 6 sources.
+- *Cards:* new note ac2009 in the HRM card file: UES dysfunction = majority of ≥10 mL swallows with ≥2 abnormal metrics, including high intrabolus pressure or high UES integrated relaxation pressure. `page_updated:` was left at 11-13, so the file requeues for the card pass. The deck was not rebuilt (`node` needs approval).
+- `ingest: partial` removed.
+
+**Not run this pass:**
+- Card dedup, `{at:}` backfill and the card quality review (budget).
+- Deck rebuild (`node` unapprovable in this session; the 05:00 pass builds).
+- *Quality review* (budget).
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**.
+
+**Slim candidates noted:**
+- [[nutrition-in-hospitalized-patients]] (~3,650 words).
+- [[primary-biliary-cholangitis]] (~4,550).
+- [[acute-pancreatitis]] (~4,650).
+
+**Backlog status:** backlog mode stays **ON**. About 40 uningested files remain, almost all non-US/international consensus (BSG 2018/2026, ECCO 2025/2026, UEG 2025 ×3, UEG-ESNM 2025, WEO 2025 ×2, IAP 2025, Maastricht VI, Taipei II, Fiesole 2026, Global MASLD 2026, ADQI-ICA 2024, Bajaj 2025 organ failure, fatty pancreas, biliary drainage trial methodology, European cholangioscopy, Delphi EUS-CDS LAMS, IANS 2024, EASL 2024 ×2, EASL 2025 eCCA, ESGE 2020 SEMS). Also outstanding: the ASGE 2020 DOPyS/CSPAT appendices, Chavan 2023, and NCCN (EULA, skipped). Lectures gated. Of these, the US-co-authored files go first next pass: IANS 2024 anal cancer screening and the Bajaj organ-failure consensus.
+
 ---
 
 ## [2026-11-25] lint | Quality review — release sweep (interactive)

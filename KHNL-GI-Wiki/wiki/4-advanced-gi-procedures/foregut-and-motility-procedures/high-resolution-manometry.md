@@ -3,10 +3,10 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-11-22
-sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux, bredenoord-2021-egjoo-technical-review]
+updated: 2026-11-25
+sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux, bredenoord-2021-egjoo-technical-review, omari-2026-leuven-consensus-pharyngeal-ues-hrm]
 quality_reviewed: 2026-11-22
-verified: 2026-11-22
+verified: 2026-11-25
 ---
 
 *Also called esophageal manometry or high-resolution esophageal manometry (HREM).*
@@ -22,6 +22,7 @@ verified: 2026-11-22
   - [[#Provocative Maneuvers]]
   - [[#Technical Artifacts That Fake an Elevated IRP]]
 - [[#Interpretation]]
+  - [[#Pharyngeal and Upper Esophageal Sphincter Studies]]
 - [[#Performance]]
   - [[#Versus Conventional Manometry]]
   - [[#Hiatal Hernia Detection]]
@@ -125,6 +126,17 @@ ACG 2020 Rec 3 (conditional, low quality): add supplementary/provocative maneuve
 - Diagnoses: [[achalasia]] types I–III, [[esophagogastric-junction-outflow-obstruction|EGJOO]], absent contractility, [[distal-esophageal-spasm|distal esophageal spasm (DES)]], [[hypercontractile-esophagus|hypercontractile esophagus]], IEM.
 - **A manometric diagnosis of EGJOO is always clinically inconclusive** (strong); a conclusive diagnosis needs clinically relevant symptoms plus TBE (preferably with tablet) and/or FLIP (conditional, moderate quality) ([[bredenoord-2021-egjoo-technical-review]]).
 
+### Pharyngeal and Upper Esophageal Sphincter Studies
+
+Leuven Consensus 2026 (international expert Delphi; statement numbers L1–L31 are the wiki's) [[omari-2026-leuven-consensus-pharyngeal-ues-hrm]]:
+- **Test:** pharyngeal HRM with impedance, usually after a videofluoroscopic swallow study (VFSS) or flexible endoscopic evaluation of swallowing (FEES); if neither has been done, simultaneous VFSS is strongly recommended (L6, L8).
+- **Protocol:** always 5 mL thin liquid first; aim for 10 mL thin, 5 and/or 10 mL thickened, and 20 mL thin when tolerated; each challenge ideally ≥3 times (L9, L13), though Figure 4 gives 20 mL thin and 10 mL viscous as 1–3 swallows.
+- **Upper esophageal sphincter (UES) dysfunction:** majority (2 of 3) of **≥10 mL** swallows, excluding piecemeal/partial swallows, with **≥2 abnormal metrics** — high intrabolus pressure, high UES integrated relaxation pressure, low UES maximum admittance, short UES relaxation time (L18).
+  - Unconfirmed if UES integrated relaxation pressure and intrabolus pressure are both normal (L19); abnormality must grow with bolus volume and/or viscosity (L20); unconfirmed if seen only with dry or 5 mL swallows or incomplete single-swallow transfer (L21).
+  - Without ≥10 mL swallows, many patients potentially amenable to cricopharyngeal disruption are missed (L17).
+- **Pharyngeal contractile dysfunction:** majority (2 of 3) of bolus swallows ABSENT or LOW in ≥1 pharyngeal segment; majority HIGH is usually compensatory, though it may represent dysfunction (L26).
+- No numeric cutoffs: high/low/short are judged against each system's normal ranges.
+
 ## Performance
 
 ### Versus Conventional Manometry
@@ -188,3 +200,4 @@ xychart-beta
 3. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
 4. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]
 5. [[bredenoord-2021-egjoo-technical-review|Esophagogastric Junction Outflow Obstruction — Chicago Classification v4.0 Technical Review]]
+6. [[omari-2026-leuven-consensus-pharyngeal-ues-hrm|Defining Pharyngeal and Upper Esophageal Sphincter Disorders on High-Resolution Manometry-Impedance: The Leuven Consensus (2026)]]
