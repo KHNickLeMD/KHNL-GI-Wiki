@@ -3,8 +3,9 @@ title: "AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)"
 category: source
 tags: [pregnancy, liver-disease, contraception, cirrhosis-pregnancy, intrahepatic-cholestasis, guidance, aasld]
 created: 2026-06-04
-updated: 2026-11-21
+updated: 2026-11-25
 sources: []
+verified: 2026-11-25
 raw: "GI Guidelines/AASLD/AASLD 2021 Reproductive Health Liver Disease.pdf"
 ---
 

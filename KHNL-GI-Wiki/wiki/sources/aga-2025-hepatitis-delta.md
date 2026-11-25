@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Hepatitis Delta: Commentar
 category: source
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc]
 created: 2026-06-27
-updated: 2026-10-17
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2025 CPU Hepatitis Delta.pdf"
 ---
@@ -18,7 +19,7 @@ raw: "GI Guidelines/AGA/AGA 2025 CPU Hepatitis Delta.pdf"
 
 ## Summary
 
-American Gastroenterological Association (AGA) Commentary on hepatitis delta virus (HDV) — a defective RNA virus that replicates only in the presence of hepatitis B virus (HBV), occurring as coinfection or acute superinfection in chronic hepatitis B (CHB). Scope is deliberately narrow: US epidemiology, advice on screening and diagnosis, and current plus future therapies, "with a focus on data in the United States."
+American Gastroenterological Association (AGA) Commentary on hepatitis delta virus (HDV), which occurs in the setting of hepatitis B virus (HBV) infection as coinfection or acute superinfection in chronic hepatitis B (CHB). Scope is deliberately narrow: US epidemiology, advice on screening and diagnosis, and current plus future therapies, "with a focus on data in the United States."
 
 Concurrent HDV markedly increases the risk of [[cirrhosis]], [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]], hepatic decompensation, and liver-related mortality versus HBV monoinfection. The update's central problem is underdiagnosis: testing rates among people with CHB are low, and the diagnostic cascade (reflexing anti-HDV–positive patients to HDV RNA) collapses at the second step. The authors **suggest universal HDV screening of all patients with HBV** — aligning with the European Association for the Study of the Liver (EASL), the Asian Pacific Association for the Study of the Liver (APASL), and the World Health Organization (WHO), and going beyond the risk-based American Association for the Study of Liver Diseases (AASLD) approach — using **anti-HDV antibody as the initial screening test and HDV RNA to confirm viremia**. A **double reflex** laboratory protocol is advised to close the cascade.
 
@@ -112,7 +113,7 @@ Patients with HDV should be evaluated with imaging and noninvasive testing for c
 
 - Source of the [[hepatitis-d]] disease script — screening population, testing cascade, noninvasive staging cut-point, HCC surveillance advice, and the whole current/experimental treatment table.
 - Updates [[chronic-hepatitis-b]] — universal anti-HDV screening of all patients with HBV, with reflex HDV RNA, replacing risk-based testing in the initial co-infection workup.
-- Supplies the HDV entry for [[hcc-surveillance]] and the HDV co-infection risk multiplier behind [[hepatocellular-carcinoma]] surveillance in non-cirrhotic HBV.
+- Supplies the HDV entry for [[hcc-surveillance]] and the advice that all patients with HDV get [[hepatocellular-carcinoma]] surveillance (HCC risk RR 2.97 vs CHB alone).
 - Relays the EASL rule that NA therapy is for HBV DNA >2000 IU/mL and/or cirrhosis — relevant to [[hbv-nucleoside-analogs]].
 - Cross-links: [[cirrhosis]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]].
 

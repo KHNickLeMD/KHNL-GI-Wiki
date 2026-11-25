@@ -67,7 +67,7 @@ Terlipressin is always paired with IV [[albumin]] — the vasoconstrictor is nev
 
 | Day | Albumin dose |
 |---|---|
-| Day 1 | **1 g/kg IV** (max 100 g) |
+| Day 1 | **1 g/kg IV** |
 | Day 2 onward | **20–40 g/day**, for the duration of vasoconstrictor therapy ([[aasld-2024-aclf]] GS 24) |
 
 - Titrate to volume status rather than giving a fixed dose: [[aga-2024-vasoactive-albumin-cirrhosis]] BPA 10 frames concurrent albumin as something to *consider accounting for the patient's volume status*, because a fixed dose may be insufficient or may cause volume overload.

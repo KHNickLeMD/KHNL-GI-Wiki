@@ -177,8 +177,8 @@ The **main cause of technical failure and of adverse events**. Management is tai
 - The most frequent adverse event of **EDGE is LAMS dislodgement**; risk is reduced by larger-diameter (20 mm) stents and by **stent fixation techniques**.
 - **Long-term benign-GOO data are thin** — the timing and indications for LAMS revision or removal vary widely between centres, and durability beyond ~14 months is largely unknown.
 
-> [!pearl] The strong recommendation rests on evidence that excludes the randomized trials
-> The pooled analyses are **entirely observational**: literature was searched to **30 April 2025**, and the two multicentre randomized trials — **ENDURO** ([[kastelijn-2023-enduro-protocol]]) and the trial by Bang et al. — were published after that cutoff, so they were **not pooled and not GRADE-assessed**. The panel reports both as consistent with its direction but did not let them change the wording, strength or certainty ([[i-eus-2026-eus-gastroenterostomy]]).
+> [!pearl] The surgery comparison excludes the randomized trials
+> For EUS-GE vs surgical bypass (Statement 1.4), the pooled studies were **all observational**: literature was searched to **30 April 2025**, and the two multicentre randomized trials against surgery — **ENDURO** ([[kastelijn-2023-enduro-protocol]]) and the trial by Bang et al. — were published after that cutoff, so they were **not pooled and not GRADE-assessed**. The panel reports both as consistent with its direction but did not let them change the wording, strength or certainty. The stenting comparison (1.3) does include one RCT ([[i-eus-2026-eus-gastroenterostomy]]).
 
 ---
 

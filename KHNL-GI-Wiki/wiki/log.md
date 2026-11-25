@@ -6,6 +6,125 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-25] lint | Quality review — release sweep (interactive)
+
+**Skipped:** [[gallbladder-cancer]] and [[somatostatin-analogs]] (top of queue) — their NCCN source pages cannot be verified against the raw file because the NCCN licence forbids LLM use; they wait for Nick's decision on NCCN pages.
+
+**Source pages verified:**
+
+- [[aga-2025-hepatitis-delta]]: about 78 claims checked, 0 management-changing errors. Two minor fixes: "defective RNA virus" was removed (the CPU doesn't say it; EASL 2023 does, and stays on [[hepatitis-d]]), and the HCC line now says "surveillance for all patients with HDV (RR 2.97 vs CHB alone)" instead of the unsupported "non-cirrhotic HBV" qualifier.
+- [[aasld-2021-reproductive-liver]]: 17 claims checked, 17 supported → verified. **Remaining for triage:** the page lists about 7 of roughly 100 ungraded guidance statements. Missing: HBV (DNA >200,000 IU/mL → antiviral at weeks 28–32), HCV, Wilson, AIH, PBC/PSC, BCS, HCA (>5 cm → treat before conception), gallstones, varices (propranolol preferred; avoid terlipressin), preeclampsia/HELLP, AFLP (Swansea), transplant (delay ≥1 y; CNI troughs every 2–4 wk), imaging; also Tables 1–7 and Figures 3–5. The rebuild is too big for this pass. It needs a section-by-section re-extract (recommendation capture), and it is the main gap feeding [[liver-disease-in-pregnancy]].
+- [[pegasys-2023-peginterferon-alfa-2a-label]]: about 110 claims checked, 0 management-changing errors. Six minor fixes:
+  - The CHC 180 mcg row is now limited to genotypes 1–4.
+  - Moderate depression, stable: psychiatric consultation is "consider".
+  - Periodic eye exams apply to any pre-existing ophthalmologic disorder.
+  - Thyroid figures are now hypo/hyper 4%/1% (mono) and 4%/2% (combo).
+  - Removed "the regimen HDV use is built on".
+  - The unsupported flare "discriminator" claim is replaced with the label's actual stop rule.
+  - Also added the label's internal Child-Pugh >6 vs ≥6 inconsistency, and removed a `needed-sources.md` maintainer note. No copies elsewhere.
+- [[aga-2024-vasoactive-albumin-cirrhosis]]: about 78 claims checked; all 12 BPAs are verbatim. One management-changing error, fixed: the AKI albumin 1 g/kg × 2 days trial is now limited to AKI **with evidence of intravascular volume depletion**. The only other copy, on [[albumin]], already had the qualifier. Four minor fixes:
+  - ACLF-3 is "use with caution", not "benefit may not outweigh risk".
+  - Removed "in the US" from BPA 3.
+  - Terlipressin vs norepinephrine now states the actual evidence, not "superior or comparable".
+  - The Table 1 heading no longer says "daily doses".
+- [[asge-2016-pancreatic-fluid-collections]]: about 45 claims checked; all 12 recs match, with grades read off the rendered symbols. Two minor fixes:
+  - The Summary now says endoscopic drainage, with EUS used per Rec 9, instead of "EUS-guided transmural".
+  - The 48–72 h necrosectomy step-up is now "advocated by some authors" (text, not Rec 10).
+  - Copy fixed: [[pancreatic-fluid-collection-drainage]] (Step-Up bullet).
+- [[aga-2023-eus-gallbladder-drainage]]: about 62 claims checked, 3 minor fixes:
+  - 275 d is the median follow-up, not the event time.
+  - "must" → "should".
+  - Removed the unsupported "no head-to-head RCT".
+  - Copy fixed: [[eus-guided-gallbladder-drainage]].
+- [[asge-2021-gastroduodenal-obstruction]]: about 75 claims checked; Recs 1–3 match. Three minor fixes:
+  - Rec 3 comment: added the comorbidity factor from the Results section.
+  - The ≥2-month cost finding is credited to the RCT-based cost analysis, not the claims review.
+  - Uncovered-SEMS occlusion is hedged as in the source.
+- [[i-eus-2026-eus-gastroenterostomy]]: about 95 claims checked; all 25 statements match Table 1. Three minor fixes:
+  - "Entirely observational" now applies only to Statement 1.4 (vs surgery); 1.3 includes one RCT.
+  - "Only strong recommendation" is now qualified, because the text also calls 2.1a strong.
+  - Removed "newer, so it governs" over ASGE 2021, which broke the US-over-non-US rule.
+  - Copy fixed: the [[eus-gastroenterostomy]] pearl callout, which had attached the RCT exclusion to the strong (stenting) recommendation.
+- [[acg-2025-eus-quality]]: about 175 claims checked; all 20 indicators match. Two minor fixes:
+  - SEL imaging accuracy split into 43–50% accuracy / 64–80% sensitivity / 77–80% specificity.
+  - Franseen 99% vs 88% comparator marked "not specified".
+  - Also added "operator inexperience" to the perforation risk factors.
+- [[aga-2022-aki-cirrhosis]]: about 78 claims checked; 18 findings, all confirmed on the rendered PDF and fixed. Seven were management-changing:
+  - Norepinephrine was in **mcg/h → now mg/h** (0.5 mg/h, +0.5 every 4 h, max 3 mg/h; BPA 9).
+  - The albumin + vasoconstrictor stop rule now has its missing "24 hours after" SCr ≤0.3 mg/dL of baseline × 2 days.
+  - The albumin challenge cap of 100 g/d was added.
+  - RRT is "may be used", and BPA 12C was added.
+  - BPAs 4 (infection search, no routine prophylactic antibiotics), 10 (ischemia, lowest-dose titration) and 11 (fluid monitoring) were missing.
+  - All 14 BPAs are now tabled.
+  - Figure 1 is summarized as a branch table; the © AGA licence rules out an embed.
+  - Minor fixes: FEUrea "may", the HRS-AKD criteria, the BPA 6 regimen, midodrine–octreotide "institutional preference", and the ICA attribution.
+  - Copies fixed on [[aki-in-cirrhosis]]: FEUrea wording, and RRT for uncertain cause.
+- [[aasld-idsa-2025-chb-treatment]]: about 137 claims checked; all 9 recs, strengths and certainty grades are correct. Two management-changing errors, fixed:
+  - SHEA category III is now HBV DNA **<1000 IU/mL** (Table 2 footnote); the page had said "no single number".
+  - HBeAg-negative indeterminate phase with **F3/F4 is recommended for treatment** (FIB-4 >1.45 / VCTE ≥8 kPa); the page had it as one "favoring" factor.
+  - Six minor fixes: NA-stop criteria, an invented "shifts from 2018" list, "stricter ULN", "no functional-cure benefit", "treat HCV first", and "use TAF instead".
+  - Omissions added: PICO 1/2/4/5/6 implementation points, Table 1 (cure definitions), Table 4 (HCC surveillance groups), Figure 2–5 criteria, and internal inconsistencies under Contradictions.
+  - Copies fixed:
+    - [[chronic-hepatitis-b]]: ALT line; cirrhosis criteria (the page had said none); F3/F4 treat; the HCV order.
+    - [[hbv-nucleoside-analogs]]: SHEA.
+    - [[hcc-surveillance]]: HCV order.
+    - [[vemlidy-2024-tenofovir-alafenamide-label]]: TAF/TDF wording.
+- [[aga-2020-cpu-pancreatic-necrosis]]: about 95 claims checked; all 15 BPAs are verbatim. Minor fixes:
+  - Two dropped ≥ signs (SEMS ≥15 mm; wait ≥4 weeks).
+  - NG feeding is "non-inferior to NJ", not "equivalent".
+  - Removed 2 lines of wiki commentary.
+  - Added the omitted text point that transmural stenting is preferred for poor surgical candidates with DPDS.
+  - Left for triage: the Figure 2/3 branches and the step-up trial data are still not captured.
+- Copy fix from the LAMS review: ASGE 2021 off-label LAMS is for "short, benign **peptic** strictures", not "pyloroduodenal". Fixed on [[gastric-outlet-obstruction]] and [[asge-2021-gastroduodenal-obstruction]].
+- [[aga-2019-daa-hcc]]: HR 1.07 row relabelled "DAA vs IFN-based therapy, all treated" (from the DAA review).
+
+**Reviewed, not yet verified (no stamps; requeue for the Verification check only):**
+
+- [[liver-disease-in-pregnancy]]: slimmed from about 4,200 to about 2,650 body words.
+  - Fidelity fixes:
+    - HELLP is intraparenchymal (not periventricular) hemorrhage.
+    - Preeclampsia 7.5% is of all pregnancies.
+    - Removed the unsourced LCHAD 20%, the UDCA first-trimester caution, and the zinc wound-healing claim.
+    - The Swansea PPV/NPV cohort is corrected.
+    - The imaging trigger is AST/ALT >1,000 or shoulder pain.
+    - HG weight loss is ≥5%.
+  - Superseded positions updated:
+    - Universal HCV screening each pregnancy.
+    - AASLD 2021 preeclampsia: proteinuria not required; delivery at 34 weeks with severe features, 37 weeks without.
+    - MRI preferred; CT <50 mGy.
+  - Surfaced: the mycophenolate AGA vs EASL conflict and three HELLP/AFLP cut-off conflicts.
+  - Visuals: a flowchart redrawn from AASLD Figure 3, and tables for normal LFTs, unique diseases, AGA Table 3, radiation doses, viral hepatitis and pre-existing disease.
+  - Copy fixed: [[chronic-hepatitis-b]] had an unsupported "(HBV DNA >1×10⁶–10⁷ IU/ml)" on the 8–30% immunoprophylaxis-failure line (ACG p.184 gives no DNA level).
+  - Headings changed, so card `{at:}` anchors need re-picking.
+  - Out of budget for the independent check.
+- [[aki-in-cirrhosis]] and [[lumen-apposing-metal-stents]]: see below if their checks finished.
+- [[terlipressin]]: copy fix from the AKI review. The HRS-AKI day-1 albumin "1 g/kg (max 100 g)" cap was removed; no source caps the treatment dose (the 100 g/d cap is the volume challenge's).
+
+
+**Pages reviewed + verified:**
+
+- [[direct-acting-antivirals]]:
+  - Removed unsourced content: an SVR/mechanism intro, a drug-target column, a protease-inhibitor mechanism, a "longer than ≥6-month" HBV prophylaxis comparison, and a maintainer note on once-daily dosing.
+  - Units and qualifiers: eGFR <30 is now mL/min/m²; SOF/VEL in compensated cirrhosis is limited to GT 1/2/4/5/6.
+  - HCC evidence hedges were tightened.
+  - Added: Rec 4 HBV testing sequence, ribavirin 600 mg start for CTP C, on-treatment liver-injury monitoring, and the 3.6–7.8% first-year CTP-B HCC risk. Also a protease-inhibitor × decompensation table, `## Contents`, and 1 pearl.
+  - Acute HCV, cure and post-SVR surveillance now link to [[hepatitis-c]] (one home).
+  - Independent check: about 46 claims, 1 minor fix (the "because of reactivation risk" reason was the MINMON trial's, not the algorithm's).
+  - Left for triage: [[hepatitis-c]] lines ~124/~237 repeat DAA interaction detail now owned here.
+  - The card file needs re-correlation.
+- [[peginterferon-alfa-2a]]:
+  - Removed a wrong flare "discriminator" callout; the stop rule is now as in label §2.6.
+  - Removed the unsourced "DAAs displaced it" line.
+  - Depression Table 3: mild-worsening is "135 **or** 90 mcg"; moderate-stable is "consider psychiatric consultation".
+  - CHC 180 mcg is now genotypes 1–4.
+  - Added: the eye-exam scope, thyroid 4%/1% and 4%/2%, the Child-Pugh >6 vs ≥6 label mismatch, the azathioprine condition, the HDV CPU contraindications, and AASLD's "limited effect" of NA + peg-IFN.
+  - HDV is flagged off-label.
+  - New tables: Place in Therapy, and pediatric dose modification (label Table 4).
+  - Independent check: about 95 claims, 0 findings.
+  - The page is deliberately uncarded.
+
+---
+
 ## [2026-11-24] lint | Spot check of cron-verified pages and cards (interactive)
 
 **Why:** independent blind re-check of the cron's `verified:` stamps from 11-22/23, plus recently reviewed card files. Each was checked against the raw PDFs by a fresh agent, and every finding was re-confirmed against the PDF before editing.

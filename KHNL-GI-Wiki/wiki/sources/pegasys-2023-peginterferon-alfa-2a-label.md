@@ -3,8 +3,9 @@ title: "PEGASYS (Peginterferon Alfa-2a) Injection — FDA Prescribing Informatio
 category: source
 tags: [hepatitis-b, hepatitis-d, hepatitis-c, interferon, dosing, drug-label, fda]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-25
 sources: []
+verified: 2026-11-25
 raw: "Drug Labels/Pegasys Label.pdf"
 ---
 
@@ -21,7 +22,7 @@ raw: "Drug Labels/Pegasys Label.pdf"
 
 The FDA prescribing information for **peginterferon alfa-2a (peg-IFN-α-2a)**, fetched to close the gap [[hepatitis-d]] states on its own face: AASLD hepatitis B virus (HBV) guidance names the indication for hepatitis D virus (HDV) — elevated HDV RNA *and* elevated alanine aminotransferase (ALT) → weekly subcutaneous peg-IFN-α for 12 months — but gives **no µg dose**, only the route.
 
-**The label does not cover HDV.** Its indications are **chronic hepatitis C (CHC)** and **chronic hepatitis B (CHB)** only; use in HDV is off-label and the label says nothing about it. What it does supply is the dose and the full safety apparatus for the same drug, same route, same weekly schedule: **180 mcg subcutaneously once weekly into the thigh or abdomen for 48 weeks** in adults with CHB, which is the regimen HDV use is built on. Everything on this page is attributed to the CHB/CHC label, and the wiki states the HDV application as off-label extrapolation, not as a labelled dose.
+**The label does not cover HDV.** Its indications are **chronic hepatitis C (CHC)** and **chronic hepatitis B (CHB)** only; use in HDV is off-label and the label says nothing about it. What it does supply is the dose and the full safety apparatus for the same drug, same route, same weekly schedule: **180 mcg subcutaneously once weekly into the thigh or abdomen for 48 weeks** in adults with CHB. Everything on this page is attributed to the CHB/CHC label, and the wiki states the HDV application as off-label extrapolation, not as a labelled dose.
 
 The rest of the document is the part that actually governs prescribing: a **boxed warning** (fatal or life-threatening neuropsychiatric, autoimmune, ischemic and infectious disorders), **four contraindications** including **autoimmune hepatitis** and **hepatic decompensation (Child-Pugh >6, class B and C)**, and dose-modification tables keyed to **absolute neutrophil count, platelet count and ALT** that convert "monitor closely" into specific numbers. There is a **renal dose reduction** (135 mcg weekly if creatinine clearance <30 mL/min, including hemodialysis) and a **laboratory monitoring schedule** with the trials' entry criteria offered as acceptable baseline values.
 
@@ -42,7 +43,7 @@ Two things matter specifically to a hepatology reader. **ALT flares during hepat
 | Population | Dose |
 |---|---|
 | **Adults, CHB** | **180 mcg subcutaneously once weekly, thigh or abdomen, for 48 weeks** |
-| Adults, CHC (all genotypes, with other HCV drugs) | 180 mcg subcutaneously once weekly; duration per the companion drug's labelling |
+| Adults, CHC (genotypes 1–4, with other HCV drugs) | 180 mcg subcutaneously once weekly; duration per the companion drug's labelling |
 | Adults, CHC, peg-IFN + ribavirin only | 180 mcg weekly — **48 weeks** genotypes 1 and 4, **24 weeks** genotypes 2 and 3 |
 | Adults, CHC monotherapy | 180 mcg weekly for **48 weeks** |
 | Adults, CHC with HIV coinfection | 180 mcg weekly; **48 weeks regardless of genotype** if given with ribavirin alone |
@@ -79,7 +80,7 @@ Two things matter specifically to a hepatology reader. **ALT flares during hepat
 | Severity | Initial management (4–8 weeks) | After 8 weeks |
 |---|---|---|
 | **Mild** | No dose change; evaluate **weekly** by visit or phone | Stable → continue weekly visits · Improves → normal schedule · **Worsens → consider psychiatric consultation; discontinue, or reduce to 135 mcg, or 90 mcg weekly** |
-| **Moderate** | **Reduce to 135 mcg or 90 mcg weekly**; evaluate weekly (office visit at least every other week) | Stable → psychiatric consultation, continue reduced dose · Improves and stable 4 weeks → may return to normal visits and continue reduced or normal dose · **Worsens → immediate psychiatric consultation and permanent discontinuation** |
+| **Moderate** | **Reduce to 135 mcg or 90 mcg weekly**; evaluate weekly (office visit at least every other week) | Stable → consider psychiatric consultation, continue reduced dose · Improves and stable 4 weeks → may return to normal visits and continue reduced or normal dose · **Worsens → immediate psychiatric consultation and permanent discontinuation** |
 | **Severe** | **Discontinue permanently**; obtain **immediate** psychiatric consultation | Psychiatric therapy necessary |
 
 **Dose modification — renal impairment (label Table 5)**
@@ -109,11 +110,11 @@ Two things matter specifically to a hepatology reader. **ALT flares during hepat
 **Warnings and precautions — the ones with a stop rule**
 
 - **Neuropsychiatric (§5.2):** suicide, suicidal and homicidal ideation, relapse of drug addiction, overdose — in patients **with and without** prior psychiatric illness. Use with extreme caution with any history of depression; **stop immediately and institute psychiatric intervention** in severe cases.
-- **Hepatic failure and hepatitis flares (§5.9):** cirrhotic CHC patients risk decompensation and death; **discontinue immediately** for decompensation. **Hepatitis B flares during therapy are not uncommon** — transient, potentially severe ALT rises **>10 × ULN** in **12% (HBeAg-negative) and 18% (HBeAg-positive)** on treatment, and **7% and 12%** post-treatment; flares may carry rising bilirubin and alkaline phosphatase, and less often prolonged prothrombin time and falling albumin.
+- **Hepatic failure and hepatitis flares (§5.9; flare rates and companions §6.1):** cirrhotic CHC patients risk decompensation and death; **discontinue immediately** for decompensation. **Hepatitis B flares during therapy are not uncommon** — transient, potentially severe ALT rises **>10 × ULN** in **12% (HBeAg-negative) and 18% (HBeAg-positive)** on treatment, and **7% and 12%** post-treatment; flares may carry rising bilirubin and alkaline phosphatase, and less often prolonged prothrombin time and falling albumin.
 - **Colitis (§5.12):** ulcerative and hemorrhagic/ischemic colitis, **sometimes fatal, within 12 weeks of starting**. Typical presentation **abdominal pain, bloody diarrhea, fever** → **discontinue immediately**; colitis usually resolves **within 1–3 weeks** of stopping.
 - **Pancreatitis (§5.13):** sometimes fatal → **suspend** for suggestive symptoms or signs, **discontinue** if pancreatitis is diagnosed.
 - **Bone marrow suppression (§5.4):** severe cytopenias; rarely aplastic anemia. Use with caution if baseline neutrophils **<1,500/mm³**, platelets **<90,000/mm³**, or hemoglobin **<10 g/dL**. ⚠ **Pancytopenia within 3–7 weeks** has been reported with concomitant **azathioprine**; stop all three, and **do not reintroduce peg-IFN/ribavirin with concomitant azathioprine**.
-- **Ophthalmologic (§5.7):** retinopathy, macular edema, retinal artery or vein thrombosis, optic neuritis, serous retinal detachment. **Eye examination at baseline for all patients**; periodic exams with pre-existing retinopathy; **discontinue** for new or worsening disease.
+- **Ophthalmologic (§5.7):** retinopathy, macular edema, retinal artery or vein thrombosis, optic neuritis, serous retinal detachment. **Eye examination at baseline for all patients**; periodic exams with pre-existing ophthalmologic disorders (e.g., diabetic or hypertensive retinopathy); **discontinue** for new or worsening disease.
 - **Endocrine (§5.6):** causes or aggravates hypo- and hyperthyroidism; hyperglycemia, hypoglycemia and diabetes observed. **Do not start** if these are uncontrollable by medication at baseline.
 - **Autoimmune (§5.5):** myositis, hepatitis, thrombotic and idiopathic thrombocytopenic purpura, psoriasis, rheumatoid arthritis, interstitial nephritis, thyroiditis, systemic lupus erythematosus.
 - **Cardiovascular (§5.3), cerebrovascular (§5.8), pulmonary (§5.10), infections (§5.11), hypersensitivity and serious skin reactions (§5.14), peripheral neuropathy with telbivudine (§5.16).**
@@ -130,13 +131,13 @@ Two things matter specifically to a hepatology reader. **ALT flares during hepat
 
 - **Most common in adults (incidence >40%): fatigue/asthenia, pyrexia, myalgia, headache.** Pediatric reactions are similar.
 - Most common life-threatening or fatal events with peg-IFN + ribavirin — depression, suicide, relapse of drug abuse/overdose, bacterial infections — each **<1%**. Hepatic decompensation in **2% (10/574)** of CHC/HIV subjects.
-- **Laboratory shifts:** severe lymphopenia (<500/mm³) in ~5% of monotherapy and 14% of combination recipients; moderate-to-severe thrombocytopenia (<50,000/mm³) in 4% of CHC and 8% of CHC/HIV; severe anemia (<10 g/dL) in 13% on combination therapy. Thyroid abnormality requiring treatment, dose change or discontinuation in 4% (monotherapy) and 4%/2% (combination) — **about half persisted into follow-up**.
+- **Laboratory shifts:** severe lymphopenia (<500/mm³) in ~5% of monotherapy and 14% of combination recipients; moderate-to-severe thrombocytopenia (<50,000/mm³) in 4% of CHC and 8% of CHC/HIV; severe anemia (<10 g/dL) in 13% on combination therapy. Hypothyroidism / hyperthyroidism requiring treatment, dose change or discontinuation in 4% / 1% (monotherapy) and 4% / 2% (combination) — **about half persisted into follow-up**.
 - **Immunogenicity:** binding antibodies to interferon alfa-2a in **9% (CHC)** and **29% (CHB, 24 weeks)**; low-titer neutralizing antibodies in 3% and 13%. Clinical significance unknown.
 - **Postmarketing:** pure red cell aplasia, hearing impairment and loss, tongue pigmentation, **liver and renal graft rejection**, limb abscess, dehydration, serious skin reactions, seizures.
 
 **Drug interactions (label §7)**
 
-- **Cytochrome P450 1A2 inhibition** → **theophylline** area under the curve rises ~25%; monitor levels and adjust.
+- **Cytochrome P450 1A2 inhibition** → **theophylline** area under the curve rises 25%; monitor levels and adjust.
 - **Methadone** levels 10–15% higher than baseline; monitor for toxicity.
 - **Nucleoside analogues** — monitor closely for toxicity; reduce or discontinue peg-IFN, ribavirin, or both if events worsen. **Zidovudine:** monitor for worsening neutropenia and anemia.
 - No effect on CYP2C9, 2C19, 2D6 or 3A4 substrates.
@@ -161,6 +162,7 @@ Two things matter specifically to a hepatology reader. **ALT flares during hepat
 ## Contradictions / Open Questions
 
 - **The label does not address hepatitis D at all, and the wiki must not imply it does.** Its indications are CHC and CHB. The HDV use AASLD describes is **off-label**, and the 180 mcg weekly dose reaches [[hepatitis-d]] as an extrapolation from the labelled CHB regimen, attributed to this document and marked off-label. **The duration differs too** — AASLD's HDV course is **12 months**, the labelled CHB course **48 weeks**; neither document reconciles them, and the page says so rather than picking one.
-- **The HDV treatment *trigger* is still unquantified.** [[hepatitis-d]] flags that AASLD gives no HDV RNA IU/mL threshold and no ALT cut-point for "elevated". A product label cannot fill that — it is a patient-selection question. The row on `needed-sources.md` for the **EASL 2023 hepatitis delta guideline** stays open for exactly that reason, and this ingest does not close it.
+- **The HDV treatment *trigger* is still unquantified.** [[hepatitis-d]] flags that AASLD gives no HDV RNA IU/mL threshold and no ALT cut-point for "elevated". A product label cannot fill that — it is a patient-selection question.
 - **No contradiction with the ingested guidelines.** [[aasld-idsa-2025-chb-treatment]] prefers nucleos(t)ide analogues and calls peg-IFN rarely used; the label does not argue otherwise. A label is authoritative for dose and labelled safety, not for whether to prescribe.
-- **The "flare" is ambiguous without the label's numbers.** An ALT rise on peg-IFN for hepatitis B may be an expected immune flare (12–18% exceed 10 × ULN on treatment) or incipient decompensation. The label separates them by what accompanies the rise — **bilirubin, prothrombin time, albumin and decompensation**, not the ALT value alone. Any page stating the flare rate must state the discriminator with it.
+- **Flare vs decompensation.** On-treatment ALT flares are common (12–18% exceed 10 × ULN) and may themselves carry rising bilirubin and alkaline phosphatase, less often prolonged prothrombin time and low albumin (§6.1). The label's stop rule is ALT rising progressively despite dose reduction, or ALT accompanied by rising bilirubin or hepatic decompensation (§2.6, §5.9).
+- **Child-Pugh threshold is inconsistent within the label:** §2.2 and §4 define decompensation as Child-Pugh **>6** (class B and C); §8.6 says **≥6**.

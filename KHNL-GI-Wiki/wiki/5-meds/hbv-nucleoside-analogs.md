@@ -151,7 +151,7 @@ Selection among the three preferred NAs is driven by: availability/cost · age �
 | Histologic | Necroinflammation improved by ≥2 points with no worsening of fibrosis |
 
 - **Functional cure (HBsAg loss) is the desired endpoint** — better clinical outcomes and long-term durability. Definitions of functional and partial cure: [[chronic-hepatitis-b]].
-- **When the indication is preventing onward transmission**, the target is HBV DNA **below the lower limit of quantification**. For healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III exposure-prone procedures, SHEA guidance is **HBV DNA <1000 IU/mL**; thresholds differ between advisory bodies and the American Association for the Study of Liver Diseases (AASLD)/Infectious Diseases Society of America (IDSA) guideline endorses no single number.
+- **When the indication is preventing onward transmission**, the target is HBV DNA **below the lower limit of quantification**. For healthcare workers performing Society for Healthcare Epidemiology of America (SHEA) category III exposure-prone procedures, SHEA guidance is **HBV DNA <1000 IU/mL**; SHEA and other committees worldwide allow variable thresholds (American Association for the Study of Liver Diseases (AASLD)/Infectious Diseases Society of America (IDSA) 2025).
 
 ---
 

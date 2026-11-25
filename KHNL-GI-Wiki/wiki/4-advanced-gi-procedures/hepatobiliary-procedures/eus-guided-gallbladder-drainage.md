@@ -125,7 +125,7 @@ Statement numbers throughout are the consensus document's own ([[i-eus-2025-eus-
 Two options once cholecystitis resolves; **which one is an individualized decision** (Statement 18):
 
 1. **Per-oral cholecystoscopy at 4–6 weeks** through the LAMS: complete stone clearance (basket ± laser lithotripsy) and **exchange of the LAMS for double-pigtail plastic stents** to maintain the fistula long-term — the choice **when long-term life expectancy is predicted**. Technical success 93.1%; 56% of patients pass stones spontaneously; overall stone clearance 88% after a mean 1.25 sessions ([[aga-2023-eus-gallbladder-drainage]]). In 128 patients, replacing the LAMS with two 7F double-pigtail stents at 4 weeks gave a mean stent patency of **421 days with no recurrent cholecystitis** ([[i-eus-2025-eus-gallbladder-drainage]]).
-2. **Leave the LAMS permanently** — the frail patient, or one unwilling to undergo a second procedure: delayed adverse events 7.1% at median 275 days follow-up, **3-year stent patency 86%** ([[aga-2023-eus-gallbladder-drainage]]). Taking the stent out after the gallbladder is cleared carries a **40% risk of recurrent cholelithiasis and cholecystitis** ([[i-eus-2025-eus-gallbladder-drainage]]).
+2. **Leave the LAMS permanently** — the frail patient, or one unwilling to undergo a second procedure: delayed adverse events 7.1% (median follow-up 275 days), **3-year stent patency 86%** ([[aga-2023-eus-gallbladder-drainage]]). Taking the stent out after the gallbladder is cleared carries a **40% risk of recurrent cholelithiasis and cholecystitis** ([[i-eus-2025-eus-gallbladder-drainage]]).
 
 **Periprocedural and follow-up positions** ([[i-eus-2025-eus-gallbladder-drainage]]):
 

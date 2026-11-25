@@ -3,7 +3,8 @@ title: "ACG/ASGE 2025: Quality Indicators for EUS"
 category: source
 tags: [eus, endoscopic-ultrasound, quality-indicators, fna, fnb, pancreatobiliary, eus-guided-drainage, quality-improvement]
 created: 2026-05-07
-updated: 2026-10-04
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Quality indicators of EUS.pdf"
 ---
@@ -93,8 +94,8 @@ Wording condensed; each indicator is "frequency with which…". **P** = priority
   - Rectal cancer: tumor location, surrounding structures (iliac vessels, genitourinary organs, sphincters), lymphadenopathy.
   - Photodocumentation should mirror the text.
 - **Luminal cancer staging (#6):** EUS T-staging accuracy in esophageal cancer 71%–92% vs computed tomography (CT) 42%–60%; N-staging weaker. Rectal ultrasound: T 80%–90%, N 70%–80%, but MRI has largely supplanted it for primary rectal staging. For suspected superficial lesions, pathology of the resection specimen beats EUS for depth (T1a vs T1b vs T2).
-- **Subepithelial lesions (#7):** up to 30% of suspected subepithelial lesions (SELs) are extrinsic. Hypoechoic from muscularis propria → likely leiomyoma or GI stromal tumor; hyperechoic from submucosa → likely lipoma. Submucosal origin may permit endoscopic resection; muscularis propria origin → full-thickness resection or surgery. EUS imaging alone ~43%–80% accurate for benign vs malignant; adding fine-needle sampling raises accuracy to 75%–100%. Use EUS-FNB or EUS-FNA with rapid on-site evaluation (ROSE).
-- **[[liver-biopsy|Liver biopsy]] (#8):** adequacy defined in the literature as total length >15 mm with >6 complete portal triads (stricter society definition: >2 cm and >11 triads). Pooled diagnostic yield ~94%–95%, adequacy 84%, AEs 3%. Target set at >85% to allow for expert-center bias. 19-gauge FNB needles (fork-tip or Franseen) give longer specimens and more portal triads than FNA but more AEs (6% vs 1%); Franseen yield 99% vs 88% for other FNB designs. Heparin flush with wet suction improves yield.
+- **Subepithelial lesions (#7):** up to 30% of suspected subepithelial lesions (SELs) are extrinsic. Hypoechoic from muscularis propria → likely leiomyoma or GI stromal tumor; hyperechoic from submucosa → likely lipoma. Submucosal origin may permit endoscopic resection; muscularis propria origin → full-thickness resection or surgery. EUS imaging alone for benign vs malignant SELs: ~43%–50% accuracy, 64%–80% sensitivity, 77%–80% specificity; adding fine-needle sampling raises accuracy to 75%–100%. Use EUS-FNB or EUS-FNA with rapid on-site evaluation (ROSE).
+- **[[liver-biopsy|Liver biopsy]] (#8):** adequacy defined in the literature as total length >15 mm with >6 complete portal triads (stricter society definition: >2 cm and >11 triads). Pooled diagnostic yield ~94%–95%, adequacy 84%, AEs 3%. Target set at >85% to allow for expert-center bias. 19-gauge FNB needles (fork-tip or Franseen) give longer specimens and more portal triads than FNA but more AEs (6% vs 1%); Franseen needles had higher diagnostic yield in a meta-analysis (99% vs 88%; comparator not specified). Heparin flush with wet suction improves yield.
 - **[[pancreatic-cancer|Pancreatic mass]] detection (#9):** EUS sensitivity 93%–100%, specificity 53%–100%; especially useful for tumors <2.0 cm. In CT-indeterminate cases: pooled sensitivity 85%, specificity 58% (mean lesion 2.1 cm).
 - **Pancreatic mass evaluation (#10):** measure lesion; assess lymph nodes by AJCC station (celiac = station 9; peripancreatic = 17 and 18); vascular invasion (length, luminal compromise, thrombus); liver metastases; ascites. Vascular invasion: sensitivity 66%–85%, specificity 89%–94%. Lymph node involvement: sensitivity 69%, specificity 81%. EUS found liver metastases in 16% of patients in one cohort, 22% of them missed on CT.
 - **Pancreatic mass sampling (#11):** pooled sensitivity 85% / specificity 98% (33 studies); 86.8% / 95.8% (41 studies). Target ≥87% is higher than in prior versions.
@@ -111,7 +112,7 @@ Wording condensed; each indicator is "frequency with which…". **P** = priority
 - **Report (#17):** report elements per the common-indicator document, expert opinion, and the document's Supplementary Appendix 1.
 - **AE documentation (#18):** one study found 0% of reports listed AEs; 15%–45% of AEs go unrecognized or unreported → actively contact patients, ideally **2 weeks** after the procedure.
 - **Diagnostic EUS AEs (#19):**
-  - Perforation: esophageal 0.02% overall in a 13,000-procedure series, gastric/duodenal 0.06%; more with linear echoendoscope. Risk factors: trainee involvement, older age, difficult esophageal intubation history, esophageal malignancy, cervical osteophytes.
+  - Perforation: esophageal 0.02% overall in a 13,000-procedure series, gastric/duodenal 0.06%; more with linear echoendoscope. Risk factors: trainee involvement, operator inexperience, older age, difficult esophageal intubation history, esophageal malignancy, cervical osteophytes.
   - Bleeding after FNA: pooled 0.13% (>10,900 patients); not linked to needle size or pass number.
   - Infection after pancreatic cyst FNA: pooled 0.4%. Transrectal FNA of cystic lesions: substantial infection rate despite antibiotics.
   - Pancreatitis after FNA/FNB of pancreatic lesions: 0.5%–1.5% (0.92% pooled for cysts).

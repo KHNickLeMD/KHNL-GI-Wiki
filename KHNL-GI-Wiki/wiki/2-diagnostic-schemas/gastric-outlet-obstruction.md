@@ -149,7 +149,7 @@ flowchart TD
 - Treat the underlying ulcer diathesis in parallel — *H. pylori* eradication, acid suppression ([[proton-pump-inhibitors|proton pump inhibitor (PPI)]]).
 
 > [!pitfall] Do not stent a benign gastric outlet obstruction with an off-the-shelf enteral stent
-> **Every dedicated enteral stent available in the US is uncovered and not removable**, so it should not be used for benign disease. A covered self-expandable metal stent (SEMS) in benign GOO is **off-label**: a 22-patient series showed 81.8% early GOOSS improvement, sustained in 67%, but **migration in 62.5%**. Off-label covered LAMS is described for short benign pyloroduodenal strictures ([[asge-2021-gastroduodenal-obstruction]]).
+> **Every dedicated enteral stent available in the US is uncovered and not removable**, so it should not be used for benign disease. A covered self-expandable metal stent (SEMS) in benign GOO is **off-label**: a 22-patient series showed 81.8% early GOOSS improvement, sustained in 67%, but **migration in 62.5%**. Off-label covered LAMS is described for short, benign peptic strictures ([[asge-2021-gastroduodenal-obstruction]]).
 
 ### Malignant GOO — the prognosis threshold
 

@@ -26,7 +26,7 @@ Chronic hepatitis B (CHB) is defined as hepatitis B surface antigen (HBsAg)-posi
 
 - Male: 35 U/L
 - Female: 25 U/L
-(These stricter values govern all treatment phase determinations)
+(Recommended to guide management decisions — [[aasld-idsa-2025-chb-treatment]] Figures 2, 3)
 
 ### Severity Assessment
 
@@ -35,7 +35,8 @@ Non-invasive fibrosis staging preferred:
 - **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** cutoff **7 kPa** → F2 or higher (sensitivity 69%, specificity 83%); **≥8 kPa** = high-sensitivity threshold for advanced fibrosis (F3/F4)
 - **FIB-4:** **>1.45** = high-sensitivity threshold for advanced fibrosis (F3/F4)
 - Elastography outperforms FIB-4 overall; neither reliable in pregnancy — assess for [[cirrhosis|cirrhosis]] in pregnancy by ultrasound and/or clinical evaluation instead
-- Generic (non-HBV-specific) VCTE/FIB-4 cut-offs for compensated advanced chronic liver disease (cACLD) and clinically significant portal hypertension (CSPH): see [[noninvasive-liver-disease-assessment]] — [[aasld-idsa-2025-chb-treatment]] gives no cirrhosis-level kPa or FIB-4 cutoff
+- **Cirrhosis — any one of:** abdominal imaging consistent with cirrhosis (nodular liver with splenomegaly or varices), elastography liver stiffness measurement **≥11 kPa**, FIB-4 **≥3.25**, or liver biopsy F4 ([[aasld-idsa-2025-chb-treatment]] Figures 3–4)
+- Generic (non-HBV-specific) VCTE/FIB-4 cut-offs for compensated advanced chronic liver disease (cACLD) and clinically significant portal hypertension (CSPH): see [[noninvasive-liver-disease-assessment]]
 - Liver biopsy: reserved for diagnostic uncertainty or staging ambiguity
 
 ### Classification / Typing
@@ -119,8 +120,8 @@ Two classes; NAs strongly preferred:
 **Indeterminate / grey zone phase** (HBeAg−, no cirrhosis, DNA/ALT outside inactive or immune-active definitions):
 
 - **AASLD now suggests antivirals via shared decision-making** at each follow-up visit (Conditional/Very Low) — major shift from 2018 [[aasld-idsa-2025-chb-treatment]]
-- Factors favoring treatment: age >40, male sex, platelets <180 k/mm³, FIB-4 >1.45, elastography ≥8 kPa
-- Advanced fibrosis (F3/F4) → treat
+- More likely to benefit: age >40, male sex, platelets <180 k/mm³
+- **Advanced fibrosis (F3/F4) → treatment recommended**; high-sensitivity non-invasive thresholds FIB-4 >1.45 or elastography ≥8 kPa
 - If not treating: ALT + HBV DNA every 3–6 months year 1, every 6 months thereafter
 - Elevated ALT + DNA <2000 → evaluate for other etiologies
 
@@ -243,7 +244,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 **American College of Gastroenterology (ACG) 2016 additional pregnancy guidance** [[acg-2016-liver-disease-pregnancy]]:
 
 - MTCT rates without prophylaxis: 70–90% (HBeAg+) vs. 10–40% (HBeAg−); standard active-passive immunoprophylaxis reduces MTCT to ~5%
-- Immunoprophylaxis fails in 8–30% of highly viremic mothers (HBV DNA >1×10⁶–10⁷ IU/ml); threshold for antiviral prophylaxis: >200,000 IU/ml (same threshold as AASLD 2025)
+- Immunoprophylaxis fails in 8–30% of highly viremic mothers; threshold for antiviral prophylaxis: >200,000 IU/ml (same threshold as AASLD 2025)
 - Antiviral options: tenofovir or telbivudine in third trimester (Rec 23 — strong, low evidence); 2025 AASLD prefers TDF/TAF over telbivudine
 - **Elective C-section is NOT recommended** to prevent perinatal HBV transmission (Rec 24 — strong, very low evidence)
 - **Breastfeeding is permitted** in HBV-infected mothers on appropriate immunoprophylaxis (Rec 25 — strong, very low evidence); avoid if cracked/bleeding nipples; nucleos(t)ides excreted in breast milk at low levels
@@ -278,7 +279,7 @@ Recurrence 80–100% without prophylaxis, <10% with it. The 2025 recommendations
 
 Ultrasound + AFP every 6 months. Survey **all CHB with cirrhosis** (Child-Pugh A–B, or transplant-eligible C) and the **non-cirrhotic subsets with increased risk** — defined by age plus country of origin, family history of HCC, PAGE-B ≥10, [[hepatitis-d|HDV]] or HIV co-infection, and higher-risk persons after HBsAg loss ([[aasld-idsa-2025-chb-treatment]] Table 4, Recs 6–9).
 
-→ **Every criterion in operative form** — the age/sex cutoffs, the ≥2%-prevalence definition of "endemic country", the co-infection age thresholds, the post-HBsAg-loss triggers, the triple/quadruple-co-infection rule, and the PAGE-B/REACH-B validation caveats — **is on [[hcc-surveillance]]**, the single home for the surveillance-indication table. HBV/HCV co-infection: [[direct-acting-antivirals|treat HCV first]], then survey per HBV mono-infection criteria (Rec 9).
+→ **Every criterion in operative form** — the age/sex cutoffs, the ≥2%-prevalence definition of "endemic country", the co-infection age thresholds, the post-HBsAg-loss triggers, the triple/quadruple-co-infection rule, and the PAGE-B/REACH-B validation caveats — **is on [[hcc-surveillance]]**, the single home for the surveillance-indication table. HBV/HCV co-infection: [[direct-acting-antivirals|treat HCV]] and survey per HBV mono-infection criteria (Rec 9).
 
 ### Horizontal Transmission Prevention
 

@@ -148,7 +148,7 @@ flowchart TD
     F -->|No| G["Step 3 — surgical debridement<br/>minimally invasive preferred over open"]
 ```
 
-- Escalation trigger inside step 1: **no clinical improvement within 48–72 hours** of nasocystic lavage plus transmural drainage ([[asge-2016-pancreatic-fluid-collections]]).
+- Escalation trigger inside step 1: step-up to necrosectomy after **no clinical improvement within 48–72 hours** of nasocystic lavage plus transmural drainage "has been advocated by some authors" — ASGE text, not a graded recommendation ([[asge-2016-pancreatic-fluid-collections]]).
 - The original step-up trial sequence (percutaneous drainage → minimally invasive retroperitoneal necrosectomy → open necrosectomy) reduced morbidity and mortality vs primary open necrosectomy, confirmed at long-term follow-up.
 - **Pure endoscopic vs step-up, the trade-off** (1 randomized controlled trial, n = 98, step-up arm performed as VARD): pure endoscopic gave **less organ failure** (Clavien–Dindo IV OR 0.36, 0.14–0.95) and 16 fewer hospital days, with surgical reintervention and complications trending in its favor but not significant; step-up gave **fewer repeat procedures** — IR reintervention OR 4.48 (1.36–14.70) and endoscopic reintervention OR 2.96 (1.18–7.39) against pure endoscopic. Mortality and 7-year quality of life were equivalent. Hence Rec 7's "either" ([[sages-2026-walled-off-pancreatic-necrosis]]).
 - **Standardize the algorithm** — a PANTER-style predefined step-up sequence is what makes outcomes reproducible.

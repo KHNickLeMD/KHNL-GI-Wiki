@@ -79,7 +79,7 @@ Pre-treatment and on-treatment testing are specified and are more prescriptive t
 ## Relevance to Wiki
 
 - **[[hbv-nucleoside-analogs]] → closes the last third of the declared dose gap.** With this label and [[viread-2018-tenofovir-df-label]], all three preferred agents now have adult doses, administration rules and renal cut-points on the page; the sentence recording that TDF and TAF doses were absent is removed.
-- **Gives the renal contrast that justifies agent choice.** TAF needs **no** renal adjustment above CrCl 15 mL/min and none on hemodialysis; TDF needs interval extension from CrCl <50 mL/min and has **no recommendation at all** below 10 mL/min off dialysis. That is the labelled content behind the guideline's "use TAF instead of TDF in renal disease".
+- **Gives the renal contrast that justifies agent choice.** TAF needs **no** renal adjustment above CrCl 15 mL/min and none on hemodialysis; TDF needs interval extension from CrCl <50 mL/min and has **no recommendation at all** below 10 mL/min off dialysis. That is the labelled content behind the guideline's "renal or bone disease (avoid TDF)" selection rule.
 - **Adds a decompensated-cirrhosis constraint the wiki did not carry** — see Contradictions.
 - **Adds the pre-treatment and on-treatment renal laboratory set** (creatinine, CrCl, urine glucose, urine protein, ± phosphorus), which AASLD/IDSA 2025 does not specify.
 

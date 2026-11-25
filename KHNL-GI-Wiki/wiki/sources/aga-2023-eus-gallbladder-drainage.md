@@ -3,7 +3,8 @@ title: "AGA 2023 Clinical Practice Update on Role of EUS-Guided Gallbladder Drai
 category: source
 tags: [eus-gbd, acute-cholecystitis, gallbladder-drainage, lams, percutaneous-cholecystostomy, transpapillary-drainage, cholecystoscopy, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-11-03
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2023 CPU EUS-Guided Gallbladder Drainage in Acute Cholecystitis.pdf"
 ---
@@ -25,7 +26,7 @@ raw: "GI Guidelines/AGA/AGA 2023 CPU EUS-Guided Gallbladder Drainage in Acute Ch
 
 [[acute-cholecystitis|Acute cholecystitis]] is definitively treated by cholecystectomy, but comorbid patients may be inoperable. Percutaneous transhepatic gallbladder drainage (PT-GBD) is the most common nonsurgical decompression method but carries **50%–75% morbidity** and **recurrent cholecystitis in up to 15.4%**, driving development of endoscopic alternatives: **endoscopic transpapillary gallbladder drainage (ET-GBD)** at [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] (cystic duct cannulation + plastic stent) and **[[eus-guided-gallbladder-drainage|endoscopic ultrasound (EUS)-guided gallbladder drainage (EUS-GBD)]]** — transmural stenting from duodenum or stomach into the gallbladder, now facilitated by lumen-apposing metal stents (LAMS).
 
-The Update's core message: endoscopic gallbladder drainage (GBD) is a feasible, efficacious alternative to percutaneous drainage for **high-risk surgical candidates**; choosing the optimal drainage route depends on individual patient characteristics (comorbidities, gallbladder position/cystic duct anatomy, in-dwelling metal biliary stents, ascites, future surgical candidacy) and local expertise; EUS-GBD must be done by experts in advanced therapeutic [[endoscopic-ultrasound|EUS]]; and multidisciplinary collaboration with interventional radiology and surgery is paramount. Comparative data (5 studies, 488 patients, incl. the DRAC-1 randomized controlled trial [RCT]) show EUS-GBD has technical/clinical success comparable to PT-GBD with shorter stays, less pain, fewer reinterventions, and less recurrent cholecystitis; EUS-GBD also outperforms ET-GBD for technical/clinical success when cystic duct pathology is present.
+The Update's core message: endoscopic gallbladder drainage (GBD) is a feasible, efficacious alternative to percutaneous drainage for **high-risk surgical candidates**; choosing the optimal drainage route depends on individual patient characteristics (comorbidities, gallbladder position/cystic duct anatomy, in-dwelling metal biliary stents, ascites, future surgical candidacy) and local expertise; EUS-GBD should be done by experts in advanced therapeutic [[endoscopic-ultrasound|EUS]]; and multidisciplinary collaboration with interventional radiology and surgery is paramount. Comparative data (5 studies, 488 patients, incl. the DRAC-1 randomized controlled trial [RCT]) show EUS-GBD has technical/clinical success comparable to PT-GBD with shorter stays, less pain, fewer reinterventions, and less recurrent cholecystitis; EUS-GBD also outperforms ET-GBD for technical/clinical success when cystic duct pathology is present.
 
 ---
 
@@ -80,7 +81,7 @@ This Update is a commentary: it issues a single unnumbered **DESCRIPTION** state
 **Follow-up after EUS-GBD — 2 options:**
 
 1. **Per-oral cholecystoscopy at 4–6 weeks** for stone clearance + exchange LAMS for double-pigtail plastic stents to maintain the fistula long-term (technical success 93.1%; 56% had spontaneous stone passage, the rest needed stone-retrieval baskets and/or laser lithotripsy; overall stone clearance 88% after mean 1.25 cholecystoscopy sessions, SD 0.46).
-2. **Leave LAMS in permanently** (frail patients, refuse second procedure): delayed AEs 7.1% at median 275 d; 3-year stent patency 86%.
+2. **Leave LAMS in permanently** (frail patients, refuse second procedure): delayed AEs 7.1% (median follow-up 275 d); 3-year stent patency 86%.
 
 **Training:**
 
@@ -111,7 +112,7 @@ This Update is a commentary: it issues a single unnumbered **DESCRIPTION** state
 ## Contradictions / Open Questions
 
 - Consistent with [[asge-2024-therapeutic-eus-biliary]] (EUS-GBD favored over percutaneous cholecystostomy in nonsurgical candidates where expertise exists) — this Clinical Practice Update (CPU) adds the ET-GBD arm and the selection criteria between all 3 routes.
-- **Mortality signal diverges from recurrence signal:** network meta-analysis found lowest recurrent cholecystitis with EUS-GBD but lowest mortality with ET-GBD — no head-to-head RCT of ET-GBD vs EUS-GBD; the authors call for randomized/prospective comparisons incl. cost analysis.
+- **Mortality signal diverges from recurrence signal:** network meta-analysis found lowest recurrent cholecystitis with EUS-GBD but lowest mortality with ET-GBD — the authors call for randomized/prospective comparisons incl. cost analysis.
 - LAMS for gallbladder drainage remains **off-label** (FDA approval pending more outcome/safety data).
 - **Scope limit stated by the authors:** despite expanding use (salvage biliary drainage, gallstone removal) and ongoing studies, endoscopic management of cholecystitis and symptomatic gallstones is *not* offered as mainstream treatment — "we are still a long way from abandoning standard of care with cholecystectomy."
 - The Update numbers no recommendations and grades no evidence; it is an expert commentary, not a systematic review.

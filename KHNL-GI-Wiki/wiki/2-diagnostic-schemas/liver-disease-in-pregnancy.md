@@ -3,37 +3,29 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-11-20
+updated: 2026-11-25
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, easl-2025-autoimmune-hepatitis, idsa-2024-ciai-imaging-cholecystitis-cholangitis, idsa-2024-ciai-risk-imaging-microbiology]
 ---
 
 ## Contents
 - [[#Definition / Scope]]
-  - [[#Normal Physiologic Changes in Liver Tests During Pregnancy]]
+  - [[#Normal Liver Tests in Pregnancy]]
 - [[#Differential Diagnosis]]
-  - [[#Pregnancy-Specific Liver Diseases (by trimester)]]
-  - [[#Coincident Liver Diseases]]
+  - [[#Diseases Unique to Pregnancy]]
+  - [[#Distinguishing ICP, HELLP and AFLP]]
+  - [[#Coincident or Pre-existing Liver Disease]]
 - [[#Diagnostic Algorithm]]
+  - [[#Imaging]]
 - [[#Key Tests]]
 - [[#Red Flags / Alarm Features]]
-- [[#Pregnancy-Specific Liver Diseases — Detail]]
+- [[#Management of Diseases Unique to Pregnancy]]
   - [[#Hyperemesis Gravidarum (HG)]]
   - [[#Intrahepatic Cholestasis of Pregnancy (IHCP)]]
-  - [[#Preeclampsia / Eclampsia with Hepatic Involvement]]
+  - [[#Preeclampsia and Eclampsia]]
   - [[#HELLP Syndrome]]
   - [[#Acute Fatty Liver of Pregnancy (AFLP)]]
 - [[#Viral Hepatitis in Pregnancy]]
-  - [[#Hepatitis A (HAV)]]
-  - [[#Hepatitis E (HEV)]]
-  - [[#Herpes Simplex Virus (HSV) Hepatitis]]
-  - [[#Chronic Hepatitis B (HBV) in Pregnancy]]
-  - [[#Hepatitis C (HCV) in Pregnancy]]
 - [[#Chronic Liver Disease in Pregnancy]]
-  - [[#Autoimmune Hepatitis (AIH)]]
-  - [[#Primary Biliary Cholangitis (PBC)]]
-  - [[#Wilson's Disease (WD)]]
-  - [[#Cirrhosis and Portal Hypertension]]
-  - [[#Post-Liver Transplantation]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -41,377 +33,260 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2
 
 ## Definition / Scope
 
-[[abnormal-liver-chemistries|Abnormal liver tests]] occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
+- [[abnormal-liver-chemistries|Abnormal liver tests]] in ~3–5% of pregnancies ([[acg-2016-liver-disease-pregnancy|American College of Gastroenterology (ACG) 2016]])
+- Three groups ([[aasld-2021-reproductive-liver|American Association for the Study of Liver Diseases (AASLD) 2021]]):
+  - **Unique to pregnancy** — hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (ICP), preeclampsia/eclampsia, hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome, acute fatty liver of pregnancy (AFLP)
+  - **Exacerbated by pregnancy** — gallstones, vascular diseases, [[cirrhosis]]
+  - **Coincidental** — viral hepatitis, [[drug-induced-liver-injury|drug-induced liver injury (DILI)]], [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]], others
 
-1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|drug-induced liver injury (DILI)]], [[autoimmune-hepatitis|autoimmune hepatitis]], primary biliary cholangitis (PBC), [[wilson-disease|Wilson's disease]], [[cirrhosis]]
-2. **Diseases unique to or exacerbated by pregnancy**: hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), preeclampsia/eclampsia with hepatic involvement, HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome
+### Normal Liver Tests in Pregnancy
 
-Understanding normal physiologic changes is essential before interpreting liver tests in pregnancy.
+| Test | [[acg-2016-liver-disease-pregnancy\|ACG 2016]] Table 2 | [[aasld-2021-reproductive-liver\|AASLD 2021]] Table 2 (1st / 2nd / 3rd trimester) |
+|---|---|---|
+| Aspartate aminotransferase (AST), alanine aminotransferase (ALT) | ↔ | Normal throughout |
+| Bilirubin | ↔ | Normal throughout |
+| Gamma-glutamyl transferase (GGT) | ↔ | Normal throughout |
+| Bile acids | — | Normal throughout |
+| Prothrombin time / international normalized ratio (INR) | ↔ | — |
+| 5′ nucleotidase | ↔ | — |
+| Alkaline phosphatase (ALP) | ↑ | Normal / ↑ / ↑ |
+| Albumin | ↓ | Normal or ↓ in each trimester |
+| Alpha-fetoprotein (AFP) | ↑ | Normal or ↑ / ↑ / ↑ |
+| Hemoglobin | ↓ | — |
 
-### Normal Physiologic Changes in Liver Tests During Pregnancy
+*Liver tests in normal pregnancy*
+*Source: recreated from ACG 2016 Table 2 and AASLD 2021 Table 2*
+*[[acg-2016-liver-disease-pregnancy|ACG 2016 Liver Disease and Pregnancy]] · [[aasld-2021-reproductive-liver|AASLD 2021 Reproductive Health and Liver Disease]]*
+*↔ = unchanged · ↑ = increased · ↓ = decreased · — = not listed · ACG = American College of Gastroenterology · AASLD = American Association for the Study of Liver Diseases*
 
-| Test | Change in Pregnancy |
-|------|---------------------|
-| Aspartate aminotransferase (AST) / alanine aminotransferase (ALT) | Unchanged (↔) |
-| Bilirubin | Unchanged (↔) |
-| Prothrombin/international normalized ratio (INR) | Unchanged (↔) |
-| Albumin | Decreased (↓) — hemodilution |
-| Alkaline phosphatase (ALP) | Increased (↑) — placental isoenzyme |
-| Hemoglobin | Decreased (↓) — hemodilution |
-| Alpha-fetoprotein | Increased (↑) — fetal production |
-| 5' nucleotidase | Unchanged (↔) |
-| Gamma-glutamyl transferase (GGT) | Unchanged (↔) |
-
-Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone in pregnancy does not require workup. Cardiac output increases 40–45% in pregnancy; liver blood flow shows little relative change.
+- **Elevated aminotransferases, bilirubin or bile acids in pregnancy are abnormal → investigate** (AASLD guidance statement)
+- **ALP elevation alone → no further workup** (ACG Figure 1)
 
 ---
 
 ## Differential Diagnosis
 
-### Pregnancy-Specific Liver Diseases (by trimester)
+### Diseases Unique to Pregnancy
 
-| Disorder | Trimester | Key Features |
-|----------|-----------|--------------|
-| Hyperemesis gravidarum | First (through ~20 wk) | Persistent vomiting, >5% weight loss, ketonuria; mild-moderate transaminase elevation |
-| Intrahepatic cholestasis of pregnancy | Second/Third | Pruritus (palms/soles); elevated bile acids; normal to mildly elevated bilirubin |
-| Preeclampsia with hepatic involvement | After 20 wk | New hypertension ≥140/90 + proteinuria ≥300 mg/24h; hepatomegaly, right upper quadrant (RUQ) pain |
-| Eclampsia | After 20 wk | Preeclampsia + grand mal seizures |
-| HELLP syndrome | After 22 wk (typically 28–36 wk) | Hemolysis + elevated liver enzymes + platelets <100,000 cells/µl |
-| Acute fatty liver of pregnancy | Third (median 36 wk) | Nausea/vomiting, abdominal pain, [[hepatic-encephalopathy\|encephalopathy]], hypoglycemia, coagulopathy |
+**Gestational age is the first clue** — each disease has a typical window, though they overlap ([[aasld-2021-reproductive-liver]]).
 
-### Coincident Liver Diseases
+| Disease | Typical onset | Clinical | Labs | Diagnosis |
+|---|---|---|---|---|
+| **HG** | 1st trimester (rarely 2nd/3rd) | Vomiting, weight loss ≥5% of prepregnancy weight, dehydration | AST/ALT abnormal in ~50%, rarely >1,000 U/L, improve with hydration; ketonuria; electrolyte abnormalities; jaundice rare | Clinical; upper endoscopy rarely indicated |
+| **ICP** | 2nd or 3rd trimester; 80% after 30 wk | Generalized pruritus, worst on palms and soles, no rash | AST/ALT 2–30× upper limit of normal (ULN); total bile acids >10 μmol/L | Clinical + bile acids >10 μmol/L is sufficient; AST/ALT rise not required; ultrasound to exclude biliary causes if needed |
+| **Preeclampsia / eclampsia** | After 20 wk (usually 3rd trimester or immediately postpartum) | New hypertension + maternal organ dysfunction (renal, hepatic, neurologic, hematologic); proteinuria often present, not required. Eclampsia = + seizures | — | Clinical |
+| **HELLP** | Weeks 27–37; 20% within 48 h of delivery | Abdominal pain, nausea/vomiting; usually with preeclampsia, but blood pressure can be normal | AST/ALT typically >500 U/L; bilirubin <5 mg/dL; hemolysis (schistocytes, spherocytes, reticulocytes); hyperuricemia; lactate dehydrogenase (LDH) >600 U/L | Clinical + maternal organ dysfunction or uteroplacental dysfunction / fetal growth restriction; liver biopsy not advised |
+| **AFLP** | 3rd trimester (week 29 on) or postpartum | Abdominal pain, nausea/vomiting, jaundice, hypoglycemia; [[hepatic-encephalopathy\|encephalopathy]] if hepatic failure | AST/ALT 300–1,000 U/L; ↓antithrombin III, ↑prothrombin time (PT), ↓fibrinogen, ↑bilirubin, ↑LDH, thrombocytopenia; in [[acute-liver-failure\|acute liver failure (ALF)]] also hypoglycemia, hyperuricemia, disseminated intravascular coagulation (DIC) | Clinical; [[acute-fatty-liver-of-pregnancy#Establishing the Diagnosis\|Swansea criteria]] (high sensitivity, low specificity once ALF is present) |
 
-- Biliary: cholelithiasis (3.5% in pregnancy), [[acute-cholecystitis|cholecystitis]], [[choledocholithiasis]], [[acute-pancreatitis|biliary pancreatitis]]
-- Viral: [[chronic-hepatitis-b]], [[hepatitis-c|hepatitis C]] ([[hepatitis-c-in-pregnancy]]), hepatitis A virus (HAV), hepatitis E virus (HEV), herpes simplex virus (HSV) hepatitis
-- Autoimmune: [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
-- Metabolic/genetic: [[wilson-disease]], [[nafld-masld]]
-- Cirrhosis/portal hypertension (see below)
-- [[drug-induced-liver-injury]]
+*Onset, findings and diagnosis of the liver diseases unique to pregnancy*
+*Source: recreated from AASLD 2021 Table 7, with onset weeks from its Figure 2 and the preeclampsia row from its text*
+*[[aasld-2021-reproductive-liver|AASLD 2021 Reproductive Health and Liver Disease]]*
+*HG = hyperemesis gravidarum · ICP = intrahepatic cholestasis of pregnancy · HELLP = hemolysis, elevated liver enzymes, low platelets · AFLP = acute fatty liver of pregnancy · AST/ALT = aspartate/alanine aminotransferase · ULN = upper limit of normal · LDH = lactate dehydrogenase · PT = prothrombin time · ALF = acute liver failure · DIC = disseminated intravascular coagulation*
+
+### Distinguishing ICP, HELLP and AFLP
+
+| Feature | ICP | HELLP | AFLP |
+|---|---|---|---|
+| Frequency in pregnancies | 0.3–0.5% | 0.2–0.6% | 0.01% |
+| Family history | Often | No | Occasionally |
+| Pregnancy characteristics | Multiparity, multifetal pregnancy | Multiparity, age >35 y | Multifetal pregnancy, male fetus |
+| Preeclampsia | No | Yes | ~50% |
+| Imaging | Normal | Infarcts, hematoma, rupture; no ascites | Fatty infiltration, sometimes [[ascites]] |
+| Labs | Bilirubin <5 mg/dL; ↑ALP and GGT; ↑bile acids | Bilirubin <5 mg/dL; hemolysis; platelets <100 × 10⁹/L; ↑uric acid; ± proteinuria; ALT <500 U/L; ↑LDH | Bilirubin <5 mg/dL; hypoglycemia; ↑creatinine; ± proteinuria and thrombocytopenia; ↑ammonia; ALT <500 U/L; prolonged PT; DIC >75% |
+| Maternal outcome | Recurrence in later pregnancy 45–70% | Seizures, acute renal failure, hepatic rupture; mortality 1–25% | Acute renal failure; mortality 7–18% |
+| Fetal outcome | Stillbirth | Mortality 11% | Mortality 9–23% |
+
+*Features separating the three third-trimester liver diseases*
+*Source: recreated from American Gastroenterological Association (AGA) 2024 Table 3*
+*[[aga-2024-pregnancy-gi-liver|AGA 2024 Clinical Practice Update: Pregnancy-Related GI and Liver Disease]]*
+*ICP = intrahepatic cholestasis of pregnancy · HELLP = hemolysis, elevated liver enzymes, low platelets · AFLP = acute fatty liver of pregnancy · ALP = alkaline phosphatase · GGT = gamma-glutamyl transferase · ALT = alanine aminotransferase · LDH = lactate dehydrogenase · PT = prothrombin time · DIC = disseminated intravascular coagulation · AGA = American Gastroenterological Association*
+
+> [!pitfall] Aminotransferase level does not separate HELLP from AFLP
+> The guidelines disagree: AGA 2024 Table 3 gives ALT <500 U/L for both; AASLD 2021 Table 7 gives AST/ALT typically >500 U/L in HELLP and 300–1,000 U/L in AFLP. Use the whole pattern — hypoglycemia, coagulopathy, hemolysis, imaging.
+
+- Other source disagreements: HELLP jaundice in 5% ([[acg-2016-liver-disease-pregnancy|ACG 2016]]) vs up to 40% ([[aasld-2021-reproductive-liver|AASLD 2021]]); DIC in AFLP >75% (AGA 2024 Table 3) vs 10% (AASLD 2021 text)
+
+### Coincident or Pre-existing Liver Disease
+
+- Biliary: cholelithiasis (3.5% of pregnancies), [[acute-cholecystitis|cholecystitis]], [[choledocholithiasis]], [[acute-cholangitis|cholangitis]], [[acute-pancreatitis|biliary pancreatitis]] ([[acg-2016-liver-disease-pregnancy]])
+- Viral: [[hepatitis-a|hepatitis A virus (HAV)]], [[chronic-hepatitis-b|hepatitis B virus (HBV)]], [[hepatitis-c-in-pregnancy|hepatitis C virus (HCV)]], [[hepatitis-e|hepatitis E virus (HEV)]], herpes simplex virus (HSV) — see [[#Viral Hepatitis in Pregnancy]]
+- Autoimmune/cholestatic: [[autoimmune-hepatitis|AIH]], [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]], [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]
+- Metabolic/genetic: [[wilson-disease|Wilson disease (WD)]], [[nafld-masld|nonalcoholic fatty liver disease]]; also [[celiac-disease]], vascular disease ([[budd-chiari-syndrome]]) — AASLD Figure 3
+- DILI; [[cirrhosis]] and [[portal-hypertension]]; liver masses ([[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]])
 
 ---
 
 ## Diagnostic Algorithm
 
-**Step 1 — Initial workup (same as non-pregnant patient)** [[acg-2016-liver-disease-pregnancy]] Rec 1
+- **Workup is the same as in a non-pregnant patient** — history (prior pregnancies, travel, environmental, drug and high-risk exposures), examination, focused serology ([[acg-2016-liver-disease-pregnancy]] Rec 1 — strong, very low level of evidence; [[aasld-2021-reproductive-liver]])
+- Sort by **pattern** and, at the same time, by **gestational age** for the diseases unique to pregnancy
 
-- Complete history (prior pregnancies, high-risk behaviors, medications), physical exam, standard serology
-- Classify pattern: **hepatocellular** (AST/ALT predominant) vs. **biliary** (bilirubin ± ALP)
+```mermaid
+flowchart TD
+    A(["Abnormal liver tests in pregnancy"])
+    A -- "Cholestatic pattern" --> U["Ultrasound without Doppler"]
+    U -- "Negative" --> C["Consider DILI, PBC, PSC"]
+    C --> C2(["AMA; PBC-specific ANA;<br/>noncontrast MRCP if high suspicion<br/>for biliary disease"])
+    A -- "Hepatocellular pattern" --> H["Consider viral hepatitis, AIH, DILI,<br/>NASH/ASH, Wilson disease, celiac disease,<br/>vascular disease (may need Doppler)"]
+    H --> H2(["HAV IgM, HBsAg, HBc IgM, HBV DNA, HDV Ab,<br/>HCV Ab, HEV IgM, HSV DNA, CMV DNA, EBV Abs<br/>ANA, anti-smooth muscle Ab, quantitative IgG, celiac Ab<br/>Ceruloplasmin (consider 24-h urine copper, slit-lamp exam,<br/>non-ceruloplasmin-bound copper)"])
+    A -- "Concurrently, by gestational age" --> P["Consider HG, ICP, preeclampsia/eclampsia,<br/>HELLP, AFLP"]
+    P --> P2(["Bile acids, coagulation studies, reticulocyte count,<br/>haptoglobin, uric acid, platelet count, urine protein"])
+    class A start
+    class U,C,H,P test
+    class C2,H2,P2 act
+```
+*Evaluation of abnormal liver tests in pregnancy*
+*Source: redrawn from AASLD 2021 Figure 3*
+*[[aasld-2021-reproductive-liver|AASLD 2021 Reproductive Health and Liver Disease]]*
+*DILI = drug-induced liver injury · PBC = primary biliary cholangitis · PSC = primary sclerosing cholangitis · AMA = antimitochondrial antibody · ANA = antinuclear antibody · MRCP = magnetic resonance cholangiopancreatography · AIH = autoimmune hepatitis · NASH = nonalcoholic steatohepatitis · ASH = alcohol-associated steatohepatitis · HAV/HBV/HCV/HDV/HEV = hepatitis A/B/C/D/E virus · HBsAg = hepatitis B surface antigen · HBc = hepatitis B core · Ab = antibody · IgM/IgG = immunoglobulin M/G · HSV = herpes simplex virus · CMV = cytomegalovirus · EBV = Epstein-Barr virus · HG = hyperemesis gravidarum · ICP = intrahepatic cholestasis of pregnancy · HELLP = hemolysis, elevated liver enzymes, low platelets · AFLP = acute fatty liver of pregnancy*
 
-**Step 2 — Hepatocellular pattern**
+- ACG 2016 Figure 1 (older) has the same split; it adds that bilirubin ± ALP with **no obstruction on imaging → pregnancy-related workup**
+- **[[liver-biopsy|Liver biopsy]]** — rarely needed; diagnosis is usually made without it ([[aasld-2021-reproductive-liver]]). If required: percutaneous is safe; transjugular adds 0.05–0.1 rad fetal exposure ([[acg-2016-liver-disease-pregnancy]])
+- Endoscopy and [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] in pregnancy — timing, sedation and radiation on those pages and [[endoscopy-sedation]]
 
-- Rule out: viral hepatitis (HAV immunoglobulin M [IgM], hepatitis B surface antigen [HBsAg]/hepatitis B core antibody [HBcAb] IgM, hepatitis B virus [HBV] DNA, hepatitis C virus [HCV] antibody [Ab], HEV IgM, HSV polymerase chain reaction [PCR]), herpes, medications
-- Consider pregnancy-related workup (see trimester-specific diseases below)
-- If acute hepatitis with suspected HSV: empiric acyclovir immediately (Rec 21)
+### Imaging
 
-**Step 3 — Biliary/cholestatic pattern (elevated bilirubin ± ALP)**
+- **Ultrasound first** — no ionizing radiation, no known fetal risk; limited Doppler of the hepatic vessels allowed, minimize exposure time ([[aasld-2021-reproductive-liver]]; [[acg-2016-liver-disease-pregnancy]] Rec 2 — strong, low). 95% sensitive for gallstones (ACG)
+- **[[mri-mrcp|Magnetic resonance imaging (MRI)/MRCP]] without gadolinium is preferred over computed tomography (CT)**, in all trimesters; **gadolinium is contraindicated** (crosses the placenta, excreted into amniotic fluid) ([[aasld-2021-reproductive-liver]])
+  - Older: ACG 2016 Rec 3 allowed MRI without gadolinium in the **second and third trimester** only (conditional, low)
+- **CT** — noncontrast abdominal CT generally safe; keep cumulative fetal dose as low as possible and **<50 mGy**; iodinated contrast only if essential ([[aasld-2021-reproductive-liver]]). ACG 2016 Rec 4: judicious use, minimized protocols (2–5 rads) (conditional, very low); anomaly risk not increased <5 rad
 
-- Abdominal ultrasound first (Rec 2) — 95% sensitive for gallstones
-- If evidence of obstruction → [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] if symptomatic choledocholithiasis, [[acute-cholangitis|cholangitis]], biliary pancreatitis (Rec 7)
-- No evidence of obstruction with elevated bilirubin → consider IHCP (bile acid level)
-- ALP elevation alone → may be placental (no further workup needed if isolated)
+| Modality | Fetal dose (mGy) | Maternal dose (mSv) |
+|---|---|---|
+| CT abdomen/pelvis (no contrast) | 13–25 | 3–45 |
+| Chest radiograph, two views | 0.0005–0.01 | 0.06–0.29 |
+| Abdominal radiograph | 0.1–0.3 | 0.01–1.1 |
+| Double-contrast barium enema | 1.0–20 | 2.0–18.0 |
+| Small-bowel examination | 7 | 3.0–7.8 |
+| ERCP (varies with fluoroscopy time) | 0.1–0.3 | 2–6 |
 
-**Step 4 — Imaging**
+*Radiation exposure with common procedures*
+*Source: recreated from AASLD 2021 Table 3*
+*[[aasld-2021-reproductive-liver|AASLD 2021 Reproductive Health and Liver Disease]]*
+*CT = computed tomography · ERCP = endoscopic retrograde cholangiopancreatography*
 
-- **Ultrasound**: first-line, no radiation, safe in all trimesters (Rec 2)
-- **Magnetic resonance imaging (MRI) without gadolinium**: second/third trimester (Rec 3); avoid gadolinium (crosses placenta → amniotic fluid accumulation)
-- **Computed tomography (CT)**: judiciously, minimized radiation protocols 2–5 rads (Rec 4); fetal risk of anomalies not increased at <5 rad
-- **Suspected [[acute-cholecystitis|acute cholecystitis]] or cholangitis:** ultrasound **or** MRI can be considered as the initial imaging; the Infectious Diseases Society of America (IDSA) panel is unable to recommend one over the other (knowledge gap; no diagnostic-accuracy studies in pregnancy) ([[idsa-2024-ciai-imaging-cholecystitis-cholangitis]])
-- **Other suspected intra-abdominal infection** ([[idsa-2024-ciai-risk-imaging-microbiology]], IDSA 2024; wiki numbering): appendicitis → **ultrasound first** (R5), **MRI if ultrasound is equivocal/non-diagnostic and suspicion persists** (R6) — both conditional recommendation, very low certainty of evidence; [[diverticulitis]] or intra-abdominal abscess → ultrasound or MRI, no preference (R13, R17; knowledge gap)
-- **[[liver-biopsy|Liver biopsy]]**: rarely needed; percutaneous approach is safe; transjugular alternative with limited radiation exposure (0.05–0.1 rad)
+- **Suspected intra-abdominal infection** — Infectious Diseases Society of America (IDSA) 2024 (no diagnostic-accuracy studies in pregnancy):
+  - [[acute-cholecystitis|Acute cholecystitis]] or cholangitis → ultrasound **or** MRI; panel unable to recommend one over the other (knowledge gap) ([[idsa-2024-ciai-imaging-cholecystitis-cholangitis]])
+  - Appendicitis → **ultrasound first** (R5), **MRI if ultrasound equivocal/non-diagnostic and suspicion persists** (R6) — both conditional, very low certainty; [[diverticulitis]] or abscess → ultrasound or MRI, no preference (R13, R17; knowledge gap) ([[idsa-2024-ciai-risk-imaging-microbiology]]; wiki numbering)
 
 ---
 
 ## Key Tests
 
-| Indication | Preferred Test |
-|------------|---------------|
-| Initial evaluation, biliary disease | Abdominal ultrasound |
-| Suspected IHCP | Serum bile acids; ALT; bilirubin |
-| Suspected AFLP | Swansea Criteria workup (see [[#Acute Fatty Liver of Pregnancy (AFLP)]]); glucose; ammonia; coagulation studies; liver ultrasound |
-| Suspected HELLP | Complete blood count (CBC) with differential, lactate dehydrogenase (LDH), peripheral smear, liver function tests (LFTs) |
-| Suspected HSV hepatitis | HSV PCR (blood); empiric acyclovir without waiting |
-| HBV perinatal risk | HBsAg status, hepatitis B e antigen (HBeAg), HBV DNA quantification |
-| HCV screening | Anti-HCV antibody (in women with risk factors) |
-| Acute hepatitis in pregnancy | HAV-IgM, HBsAg/HBcAb-IgM, HCV Ab, HEV-IgM, HSV PCR |
-| Liver biopsy | Percutaneous (safe); transjugular alternative; rarely needed in pregnancy |
+| Question | Test |
+|---|---|
+| Biliary cause? | Abdominal ultrasound; noncontrast MRCP if stone suspected but not seen |
+| ICP? | Total serum bile acids (>10 μmol/L); repeat if normal; HCV test if not done ([[aasld-2021-reproductive-liver]]) |
+| Disease unique to pregnancy? | The gestational-age panel in the flowchart, read against the two tables above; abdominal imaging in suspected HELLP or AFLP ([[aasld-2021-reproductive-liver]]) |
+| Acute hepatitis? | HAV IgM, HBsAg + hepatitis B core IgM, HEV IgM, HSV polymerase chain reaction (PCR) ([[acg-2016-liver-disease-pregnancy]] Rec 20 — strong, very low) |
+| Chronic HBV? | HBV DNA + liver biochemistries ([[aga-2024-pregnancy-gi-liver]] Best Practice Advice [BPA] 12) |
+| HCV? | Screening every pregnancy — [[#Viral Hepatitis in Pregnancy]] |
 
 ---
 
 ## Red Flags / Alarm Features
 
-- **Hypoglycemia + encephalopathy + coagulopathy in third trimester** → AFLP until proven otherwise → immediate delivery
-- **Hemolytic anemia + thrombocytopenia + elevated LFTs** → HELLP; delivery after 34 weeks
-- **New hypertension + proteinuria + liver involvement** → severe preeclampsia; deliver after 36 weeks
-- **Fever + anicteric hepatitis with normal or absent mucocutaneous lesions** → suspect HSV hepatitis → empiric acyclovir immediately
-- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing; **the delivery-timing table lives in [[#Intrahepatic Cholestasis of Pregnancy (IHCP)]]** below, including the overlap caveat — not repeated here
-- **HBV DNA >200,000 IU/ml in third trimester** → antiviral prophylaxis needed despite hepatitis B immune globulin (HBIG)/vaccine plan
-- **Epigastric/RUQ pain + elevated transaminases** in preeclamptic patient → suspect subcapsular hematoma or hepatic rupture → CT/MRI urgently
-- **Cirrhosis + pregnancy** → multidisciplinary management mandatory; screen for varices in second trimester
+- **Encephalopathy** → high suspicion for AFLP ([[aasld-2021-reproductive-liver]]) — [[#Acute Fatty Liver of Pregnancy (AFLP)]]
+- **Hemolysis + thrombocytopenia + raised liver enzymes** → HELLP — [[#HELLP Syndrome]]
+- **Abdominal or shoulder pain, or hypotension, in HELLP/preeclampsia** → image now for hepatic hemorrhage, infarction or rupture ([[aasld-2021-reproductive-liver]]); ACG 2016 adds AST/ALT >1,000 U/L as a trigger for cross-sectional imaging
+- **Hepatic rupture or ALF** in HELLP or AFLP → transfer to a transplant center ([[aasld-2021-reproductive-liver]])
+- **Fever + anicteric severe hepatitis** (± upper respiratory symptoms; mucocutaneous lesions in <50%) → suspect HSV → empiric acyclovir ([[acg-2016-liver-disease-pregnancy]] Rec 21)
+- **Total bile acids ≥100 μmol/L in ICP** → highest risk of intrauterine fetal demise ([[aga-2024-pregnancy-gi-liver]])
+- **Cirrhosis or portal hypertension** → multidisciplinary care in a tertiary center ([[aga-2024-pregnancy-gi-liver]] BPA 3); variceal screening ([[#Chronic Liver Disease in Pregnancy]])
 
 ---
 
-## Pregnancy-Specific Liver Diseases — Detail
+## Management of Diseases Unique to Pregnancy
 
 ### Hyperemesis Gravidarum (HG)
 
-*Full nausea and vomiting of pregnancy (NVP)/HG antiemetic ladder and Pregnancy-Unique Quantification of Emesis (PUQE) scoring: see [[nausea-and-vomiting-of-pregnancy]].*
+*Antiemetic ladder and Pregnancy-Unique Quantification of Emesis (PUQE) score: [[nausea-and-vomiting-of-pregnancy]].*
 
-**Definition:** Persistent vomiting with >5% weight loss, dehydration, and ketonuria; occurs 0.3–2% of pregnancies; first trimester, typically resolves by 20 weeks gestation. American Gastroenterological Association (AGA) 2024 adds: **elevated liver enzymes in 40%–50% of HG**; early NVP treatment may reduce progression to HG ([[aga-2024-pregnancy-gi-liver]] best practice advice [BPA] 4).
-
-**Liver involvement:** 50–60% of hospitalized patients have mild aminotransferase elevation; AST/ALT can exceed 20× ULN (rarely); [[jaundice]] and hepatic synthetic dysfunction are uncommon.
-
-**Risk factors:** Molar pregnancy, multiple gestations, trophoblastic disease, prior HG, fetal abnormalities (triploidy, trisomy 21, hydrops fetalis).
-
-**Management:**
-
-- Supportive: IV fluids, electrolyte repletion, antiemetics
-- Hospitalization as needed for severe dehydration/electrolyte abnormalities (Rec 11 — strong recommendation, very low evidence)
-- Liver abnormalities resolve when vomiting stops; no specific liver-directed therapy
+- **Supportive:** rehydration, correction of electrolytes, **thiamine**, antiemetics ([[aasld-2021-reproductive-liver]]); may require hospitalization ([[acg-2016-liver-disease-pregnancy]] Rec 11 — strong, very low)
+- Early treatment of nausea and vomiting of pregnancy may reduce progression to HG ([[aga-2024-pregnancy-gi-liver]] BPA 4)
+- Liver tests normalize with hydration and end of vomiting; **persistent abnormalities after symptoms resolve → look for another cause** ([[aasld-2021-reproductive-liver]])
 
 ### Intrahepatic Cholestasis of Pregnancy (IHCP)
 
-*Full disease script: [[intrahepatic-cholestasis-of-pregnancy]].*
+*Full disease script, incl. bile-acid-stratified delivery timing: [[intrahepatic-cholestasis-of-pregnancy]].*
 
-**Definition:** Most common pregnancy-specific liver disease; prevalence 0.3–5.6% (AGA 2024: 0.3–0.5%); second and third trimesters; characterized by pruritus (palms and soles, then generalized) + elevated bile acids. Recurs in 45%–70% of subsequent pregnancies ([[aga-2024-pregnancy-gi-liver]]).
+- **Diagnosis:** pruritus in the 2nd or 3rd trimester + total bile acids >10 μmol/L, no other cause of pruritus; AST/ALT rise frequent, not required ([[aasld-2021-reproductive-liver]]; [[aga-2024-pregnancy-gi-liver]] BPA 10). Test for HCV if not done
+- **[[ursodeoxycholic-acid|Ursodeoxycholic acid (UDCA)]] 10–15 mg/kg/day** (total daily dose) ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy]] Rec 13 — strong, moderate)
+- **Delivery:** AGA 2024 relays Society for Maternal-Fetal Medicine timing — **total bile acids ≥100 μmol/L → 36 weeks** (or at diagnosis if later); lower bands on the disease page. Supersedes ACG 2016 Rec 12 (37 weeks for all)
+- Vitamin K if PT prolonged ([[aasld-2021-reproductive-liver]]); pruritus persisting **>6 weeks postpartum** → evaluate for chronic liver disease ([[aga-2024-pregnancy-gi-liver]])
 
-**Pathophysiology:** Estrogen/progesterone effect on bile salt export pumps; genetic predisposition; higher prevalence in women with hepatitis C, cholelithiasis, nonalcoholic fatty liver disease (NAFLD).
+### Preeclampsia and Eclampsia
 
-**Diagnosis:**
-
-- Serum bile acids >10 µmol/l (diagnostic); >40 µmol/l = high risk for fetal distress
-- Aminotransferases may be elevated (up to >1,000 U/l)
-- Ultrasound to exclude cholelithiasis
-- Jaundice in <25% of patients (typically mild)
-- Evaluate for alternative etiology if cholestasis fails to resolve after delivery
-
-**Fetal risks:** Preterm labor, prematurity, intrauterine death (more common in last month of pregnancy; few deaths occur before 37 weeks).
-
-**Management:**
-
-- **[[ursodeoxycholic-acid|Ursodeoxycholic acid]] (UDCA) 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acid patterns in babies; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
-- Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
-- **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]], relaying the Society for Maternal-Fetal Medicine [SMFM] and the European Association for the Study of the Liver [EASL]):
-
-  | Total bile acids | Delivery |
-  |---|---|
-  | **≥100 μmol/L** | **36 weeks**, or **at diagnosis if already past 36 wk** (SMFM). EASL: consider earlier — stillbirth risk in this group rises **after 35 weeks** |
-  | **<100 μmol/L** | **36 or 39 weeks**, the later figure if diagnosed late in gestation |
-  | **<40 μmol/L** | **Delivery at term is reasonable** |
-
-  - ⚠ **The bands as published overlap** — a patient at 20 μmol/L satisfies both the "<100" row (36 or 39 wk) and the "<40" row (term). The source does not resolve this; it says only that *"management should be individualized."* Read <40 μmol/L as the low-risk group in which term delivery is defensible, and 40–100 μmol/L as the group the 36-or-39-week rule is really aimed at. **Do not read the table as three disjoint bands.**
-  - **Supersedes** the [[acg-2016-liver-disease-pregnancy|American College of Gastroenterology (ACG) 2016]] blanket *"early delivery at 37 weeks"* (newer tier-1 source).
-- Fat-soluble vitamin supplementation if malabsorption
-- Pruritus resolves after delivery; if it persists **>6 weeks postpartum**, evaluate for underlying chronic liver disease ([[aga-2024-pregnancy-gi-liver]])
-
-**Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery. Evaluate for an alternative etiology if cholestasis persists.
-
-### Preeclampsia / Eclampsia with Hepatic Involvement
-
-**Definition:** Preeclampsia = new hypertension (systolic blood pressure [SBP] ≥140 or diastolic blood pressure [DBP] ≥90 mmHg) + proteinuria (≥300 mg/24h) after 20 weeks. Organ dysfunction (including liver) = severe preeclampsia. Eclampsia = preeclampsia + grand mal seizures.
-
-**Hepatic features:**
-
-- Hepatic involvement in up to 7.5% of all pregnancies with preeclampsia; only 25% of preeclampsia is severe
-- Epigastric/RUQ pain from hepatomegaly stretching Glisson's capsule; fibrin deposition in liver
-- AST/ALT elevations can be striking; complications include subcapsular hematoma and hepatic rupture
-- Liver chemistry abnormalities parallel risk of adverse maternal (not fetal) outcomes
-
-**Diagnosis:** Clinical + labs (LFTs, CBC, urine protein). Liver tests do not exclusively guide clinical decisions. Imaging (CT/MRI) if AST/ALT >1,000 U/l or abdominal pain radiating to right shoulder (to exclude hepatic complications).
-
-**Management:**
-
-- **Low-dose aspirin prophylaxis** ([[aga-2024-pregnancy-gi-liver]] BPA 11): **81 mg/day beginning weeks 12–16 of gestation, continued until delivery**, for patients with pre-eclampsia risk factors (prior pre-eclampsia, multiple gestation, diabetes mellitus, hypertension, chronic kidney disease, or autoimmune disease); lowers risk of fetal growth restriction and fetal demise.
-- **Timing (⚠ corrected 2026-09-03 — this bullet previously read "expectant management advised *after* 34 weeks," inverting the source):** [[acg-2016-liver-disease-pregnancy|ACG 2016]] states *"An expectant approach is advised **until after 34 weeks** gestation to limit fetal morbidity."* Expectant management is the **pre-34-week** strategy. Delivery is the only curative treatment, and **after 36–37 weeks there is no advantage in continuing the pregnancy.**
-- **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence) — consistent with the above, not in conflict with it
-- Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; [[liver-transplantation|liver transplantation]] for continued decompensation
+- **Liver involvement makes it severe preeclampsia** ([[acg-2016-liver-disease-pregnancy]] Rec 14); epigastric/right upper quadrant pain from hepatomegaly stretching Glisson's capsule; risk of subcapsular hematoma and hepatic rupture
+- Liver-test abnormality tracks **maternal, not fetal**, risk; normal enzymes do not exclude disease (ACG 2016)
+- **Delivery** ([[aasld-2021-reproductive-liver]]):
+  - Without severe features → **37 weeks**; with severe features → **34 weeks**; eclampsia → as soon as possible after maternal stabilization, regardless of gestational age
+  - Guidance statement: deliver by 37 weeks, monitoring for eclampsia and HELLP
+  - Older: ACG 2016 Rec 14 — severe preeclampsia **after 36 weeks** → prompt delivery (strong, very low); its text advises an expectant approach **until after 34 weeks**
+- **Prevention:** aspirin **81 mg/day from weeks 12–16 until delivery** for those with risk factors — prior preeclampsia, multiple gestation, diabetes, hypertension, chronic kidney disease, autoimmune disease ([[aga-2024-pregnancy-gi-liver]] BPA 11)
 
 ### HELLP Syndrome
 
-**Definition:** Hemolysis + elevated liver enzymes + low platelets (<100,000 cells/µl). Complicates up to 20% of severe preeclampsia/eclampsia. Presents 28–36 weeks; 30% manifest in first week postpartum.
-
-**Clinical features:**
-
-- RUQ/epigastric pain, nausea, vomiting, malaise, headache, edema, weight gain
-- Hypertension and proteinuria in ~80% of cases
-- Jaundice rare (only 5%)
-- No pathognomonic clinical signs; may be asymptomatic
-
-**Diagnosis:** Recognition of typical laboratory pattern — hemolytic anemia, thrombocytopenia, elevated AST/ALT, elevated serum bilirubin, elevated LDH.
-
-**Maternal/fetal risks:** Mortality 1–3%; periventricular hemorrhage, hepatic infarction, subcapsular hematoma.
-
-**Management:**
-
-- **Prompt delivery especially after 34 weeks gestation** (Rec 15 — strong, very low evidence)
-- **Platelet transfusion to 40,000–50,000 cells/µl before delivery**, especially if C-section anticipated (Rec 16 — conditional, very low evidence); no contraindication to platelet transfusion; transfusion to >40,000 cells/µl advised when invasive procedures are anticipated
-- Glucocorticoids: used in pregnancies <34 weeks to accelerate pulmonary maturity; dexamethasone resulted in greater improvement in platelet count (Cochrane review) but no difference in maternal morbidity/mortality
-- Mississippi Protocol (corticosteroids, magnesium sulfate, blood pressure control) is a standard care approach
-- Thrombocytopenia can be marked — no contraindication to platelet transfusion
+- Complicates up to 20% of severe preeclampsia/eclampsia ([[acg-2016-liver-disease-pregnancy]]); hypertension in 85% ([[aasld-2021-reproductive-liver]])
+- **Imaging if abdominal pain, shoulder pain or hypotension** — hepatic hemorrhage, rupture or infarction in up to 45% ([[aasld-2021-reproductive-liver]])
+- **Delivery:** expeditious, after maternal stabilization ([[aasld-2021-reproductive-liver]]); [[acg-2016-liver-disease-pregnancy|ACG 2016]] Rec 15 — prompt delivery, especially after 34 weeks (strong, very low)
+- **Platelets:** transfuse to **40,000–50,000 cells/μL before delivery**, especially if cesarean likely ([[acg-2016-liver-disease-pregnancy]] Rec 16 — conditional, very low); >40,000 cells/μL before invasive procedures
+- Glucocorticoids <34 weeks speed fetal lung maturity; dexamethasone raises platelet count without changing maternal morbidity/mortality or perinatal death (Cochrane review cited by ACG 2016)
+- **Hepatic rupture or ALF → transfer to a transplant center** ([[aasld-2021-reproductive-liver]])
+- **Hepatic hematoma/rupture:** supportive care for most contained hematomas; surgery for enlarging hematoma or rupture with hemodynamic instability; percutaneous hepatic artery embolization in stable patients; [[liver-transplantation|liver transplantation]] for continued decompensation ([[acg-2016-liver-disease-pregnancy]]). AASLD 2021: coagulation support, antibiotics, transfusion; angiography with embolization or surgery if these fail
 
 ### Acute Fatty Liver of Pregnancy (AFLP)
 
-*Full disease script: [[acute-fatty-liver-of-pregnancy]].*
+*Full disease script, incl. the Swansea criteria table: [[acute-fatty-liver-of-pregnancy]].*
 
-**Definition:** Rare, life-threatening; microvesicular fatty infiltration of the liver leading to hepatic failure. Third trimester (median identification at 36 weeks). Incidence ~5 cases per 100,000 maternities (AGA 2024: ~0.01% of pregnancies). AGA 2024 notes the **Swansea criteria have limitations** distinguishing AFLP from other pregnancy liver diseases and from acute liver failure of any cause; **liver biopsy is rarely needed** ([[aga-2024-pregnancy-gi-liver]] BPA 11).
-
-**Risk factors:** Twin pregnancies, low body mass index (BMI).
-
-**Pathophysiology:** LCHAD (long-chain 3-hydroxyacyl-CoA dehydrogenase) deficiency link — fetal/placental LCHAD-deficient offspring spill unmetabolized long-chain fatty acids into maternal circulation → maternal hepatotoxicity. ~20% of women with AFLP are heterozygous for LCHAD deficiency; homozygous LCHAD infants at risk.
-
-**Clinical presentation:** Non-specific initially — nausea, vomiting, abdominal pain, concomitant preeclampsia in ~50% of women. Hepatic failure with encephalopathy, coagulopathy, hypoglycemia. Renal dysfunction and pancreatitis common.
-
-**Diagnosis — Swansea criteria:** ≥6 of 14 criteria in the absence of another cause. Full criteria table with thresholds: [[acute-fatty-liver-of-pregnancy#Establishing the Diagnosis]]. 85% positive predictive value (PPV), 100% negative predictive value (NPV) for hepatic microvesicular steatosis (validated in a UK cohort of 5.0 cases/100,000 maternities).
-
-**Management:**
-
-- **Prompt delivery — expectant management is not appropriate** (Rec 17 — strong, very low evidence)
-- Early recognition and supportive care essential (post-partum course depends on interval between symptom onset and delivery)
-- If hepatic function does not improve post-delivery → evaluate for [[liver-transplantation|liver transplantation]] ([[acute-liver-failure]])
-- **Molecular testing for LCHAD deficiency in all women with AFLP and their children** (Rec 18 — conditional, moderate evidence)
-- **Offspring monitoring for LCHAD deficiency** (hypoketotic hypoglycemia, fatty liver; Rec 19 — conditional, very low evidence)
+- Third trimester (median 36 weeks at identification); risk factors twin pregnancy, low body mass index ([[acg-2016-liver-disease-pregnancy]]); primiparity, male fetus ([[aasld-2021-reproductive-liver]])
+- **Diagnosis is clinical**; Swansea criteria ≥6 of 14 without another cause; limited in separating AFLP from ALF of other cause ([[aga-2024-pregnancy-gi-liver]]); liver biopsy rarely required ([[aasld-2021-reproductive-liver]])
+- **Expeditious delivery after maternal stabilization — expectant management is not appropriate** ([[acg-2016-liver-disease-pregnancy]] Rec 17 — strong, very low; [[aasld-2021-reproductive-liver]])
+- Image to exclude hepatic hemorrhage, infarct or rupture; **rupture or ALF → transplant center** ([[aasld-2021-reproductive-liver]])
+- **Long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD):** molecular testing of every mother and child ([[acg-2016-liver-disease-pregnancy]] Rec 18 — conditional, moderate); monitor offspring for hypoketotic hypoglycemia and fatty liver (ACG Rec 19 — conditional, very low); screen newborns at birth, genetic counseling for affected families ([[aasld-2021-reproductive-liver]])
 
 ---
 
 ## Viral Hepatitis in Pregnancy
 
-### Hepatitis A (HAV)
+| Virus | Pregnancy-specific decisions | Detail |
+|---|---|---|
+| HAV | Test HAV IgM in acute hepatitis (Rec 20); CDC (relayed by ACG 2016): HAV immunoglobulin for the neonate if maternal infection is within 2 weeks of delivery | [[hepatitis-a]] |
+| HEV | Test HEV IgM in acute hepatitis (Rec 20) — anticipate progression to ALF and need for transplant evaluation; otherwise supportive | [[hepatitis-e]] |
+| HSV | Rare, mortality up to 74%; clues fever, upper respiratory symptoms, anicteric severe hepatitis; mucocutaneous lesions in <50%. HSV PCR, and **start acyclovir as soon as suspected** (Rec 21 — strong, very low); stop if PCR negative | — |
+| HBV | Hepatitis B immunoglobulin + vaccine series for every infant of an infected mother (Rec 22 — strong, low). **HBV DNA >200,000 IU/mL → tenofovir in the third trimester** (Rec 23 — strong, low; [[aga-2024-pregnancy-gi-liver]] BPA 12). No elective cesarean (Rec 24); breastfeeding allowed (Rec 25); monitor for postpartum flare (AGA 2024) | [[chronic-hepatitis-b]] |
+| HCV | **Screen every pregnancy** (Centers for Disease Control and Prevention [CDC], relayed by [[aga-2024-pregnancy-gi-liver]]) — replaces risk-based screening (ACG 2016 Rec 26). Minimize invasive fetal procedures (Rec 27); no elective cesarean (Rec 28); breastfeeding allowed (Rec 29). Treatment: ACG 2016 Rec 30 — none in pregnancy; AASLD 2021 — insufficient safety data to recommend direct-acting antivirals (DAAs) for reducing transmission; AGA 2024 relays IDSA/AASLD that DAAs may be considered case by case | [[hepatitis-c-in-pregnancy]] |
 
-- Acute HAV not significantly altered by pregnancy state; HAV-IgM testing in pregnant women with acute hepatitis
-- HAV during pregnancy: preterm labor and premature membrane rupture reported but no significant impact on maternal/fetal outcomes
-- The Centers for Disease Control and Prevention (CDC) recommends HAV immunoglobulin for neonate if maternal HAV infection occurs within 2 weeks of delivery
-- Vertical transmission of HAV has been reported (outbreaks in neonatal intensive care units [ICUs])
-
-### Hepatitis E (HEV)
-
-- HEV associated with high maternal and infant mortality in Southeast Asia; rates rare in US/Europe but under-diagnosed
-- Screen for HEV-IgM in pregnant women with acute hepatitis to anticipate possible progression to [[acute-liver-failure]]
-- Treatment is otherwise supportive
-
-### Herpes Simplex Virus (HSV) Hepatitis
-
-- Very rare but extremely high mortality (up to 74% reported); difficult to diagnose
-- Clinical clues: fever, upper respiratory infection symptoms, anicteric severe hepatitis; pathognomonic mucocutaneous lesions in <50% of cases
-- HSV PCR should be performed when HSV hepatitis suspected
-- **Empiric acyclovir should be initiated when HSV hepatitis is suspected** (Rec 21); early treatment associated with improved outcomes; do not wait for confirmatory results
-- Acyclovir is recommended by the American College of Obstetricians and Gynecologists (ACOG) as prophylaxis at 36 weeks in women with prior HSV infection
-- High index of suspicion in any pregnant patient with fever, anicteric severe hepatitis on labs
-
-### Chronic Hepatitis B (HBV) in Pregnancy
-
-See also: [[chronic-hepatitis-b]]
-
-**Perinatal transmission:**
-
-- Mother-to-child transmission (MTCT) without prophylaxis: 70–90% in HBeAg+ mothers; 10–40% in HBeAg− mothers
-- Active–passive immunoprophylaxis (HBIG + HBV vaccine within 12h of birth, 2 additional doses within 6–12 months) reduces MTCT to ~5%
-- Immunoprophylaxis fails in 8–30% of children born to highly viremic mothers (HBV DNA >1×10⁶–10⁷ IU/ml)
-
-**Antiviral therapy:**
-
-- Offer **tenofovir disoproxil fumarate (TDF) or telbivudine** in the third trimester to women with HBV DNA **>200,000 IU/ml** (Rec 23 — strong, low evidence). Starting in the third trimester minimises fetal drug exposure; **treatment below 200,000 IU/ml is not indicated** unless she has liver disease warranting suppression in its own right.
-  - **Dose:** the trial ACG cites used **telbivudine 600 mg daily** from gestational week 20–32 in HBeAg+ women with HBV DNA >7 log₁₀ copies/ml (2×10⁶ IU/ml). ACG gives **no TDF dose**.
-  - ⚠ **Units, as printed in the source.** [[acg-2016-liver-disease-pregnancy|ACG 2016]] writes this threshold as **">10⁶ log copies/ml (200,000 IU/ml)"** — "10⁶ log copies" is malformed (it means >10⁶ copies/ml, i.e. 6 log₁₀). Reproduced here as printed rather than silently corrected; **use the IU/ml figure**, which is unambiguous.
-- High viral load = **7–8% MTCT risk even with prophylaxis**
-- Discontinue antiviral after delivery (for MTCT reduction only) with monitoring for HBV flare
-- Treatment for maternal liver disease follows standard guidelines ([[chronic-hepatitis-b]])
-
-**Delivery and breastfeeding:**
-
-- **Elective C-section not recommended to prevent perinatal HBV transmission** (Rec 24 — strong, very low evidence)
-- **Breastfeeding permitted** — low transmission risk in infants who receive appropriate immunoprophylaxis (Rec 25)
-- Breastfeeding should be avoided with cracked or bleeding nipples; nucleos(t)ide analogs excreted in breast milk at low levels
-
-### Hepatitis C (HCV) in Pregnancy
-
-See also: [[hepatitis-c-in-pregnancy]]
-
-**Transmission:**
-
-- 3–10% vertical transmission at birth; highest risk with human immunodeficiency virus (HIV) co-infection
-- No perinatal prevention strategy that clearly reduces risk
-- Minimize invasive procedures (amniocentesis, invasive fetal monitoring) in infected mothers (Rec 27)
-- Elective C-section does not reduce HCV vertical transmission (Rec 28)
-
-**Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended. ⚠ **This is 2016 guidance and is likely superseded** — check current American Association for the Study of Liver Diseases (AASLD)/IDSA HCV guidance or ACOG/CDC screening recommendations for the present position on universal screening in pregnancy.
-
-**Treatment:** No HCV therapy during pregnancy (Rec 30 — strong, very low evidence); interferon and ribavirin strictly contraindicated; no safety data for [[direct-acting-antivirals|direct-acting antivirals (DAAs)]] during pregnancy
-
-**Breastfeeding:** Permitted; no evidence of increased HCV transmission risk via breastfeeding (Rec 29); avoid if cracked/bleeding nipples
+*Viral hepatitis in pregnancy — decisions that change because the patient is pregnant*
+*Source: built from ACG 2016 Recs 20–30, AGA 2024 BPA 12 and text, and AASLD 2021 (Rec numbers are ACG 2016)*
+*[[acg-2016-liver-disease-pregnancy|ACG 2016]] · [[aga-2024-pregnancy-gi-liver|AGA 2024]] · [[aasld-2021-reproductive-liver|AASLD 2021]]*
+*HAV/HBV/HCV/HEV = hepatitis A/B/C/E virus · HSV = herpes simplex virus · IgM = immunoglobulin M · CDC = Centers for Disease Control and Prevention · ALF = acute liver failure · PCR = polymerase chain reaction · BPA = Best Practice Advice · DAA = direct-acting antiviral · IDSA = Infectious Diseases Society of America*
 
 ---
 
 ## Chronic Liver Disease in Pregnancy
 
-### Autoimmune Hepatitis (AIH)
+- **Immunosuppression for chronic liver disease or after transplant: continue at the lowest effective dose; no [[mycophenolate-mofetil|mycophenolate mofetil (MMF)]] in pregnancy** ([[aga-2024-pregnancy-gi-liver]] BPA 13); its text: stop MMF at least 6–12 weeks before conception planning begins. [[easl-2025-autoimmune-hepatitis|EASL 2025]] asks ≥3 months for AIH (non-US; the US advice stands)
+- Complex disease (advanced cirrhosis, transplant) → multidisciplinary birth planning, preferably in a tertiary center ([[aga-2024-pregnancy-gi-liver]] BPA 3)
 
-See also: [[autoimmune-hepatitis]]
+| Condition | Pregnancy-specific decisions | Detail |
+|---|---|---|
+| AIH | **Continue corticosteroids and/or [[thiopurines\|azathioprine]]** (ACG Rec 31 — strong, very low). Flares up to 30% (AGA 2024); EASL 2025: 13% in pregnancy, 41% postpartum (median 11 weeks) → keep monitoring after delivery. Higher risk of gestational diabetes, hypertensive complications, prematurity, small for gestational age, low birth weight (EASL meta-analysis, odds ratios 2.20–3.04); no rise in neonatal death, stillbirth or malformations | [[autoimmune-hepatitis#AIH in Pregnancy]] |
+| PBC | **Continue UDCA** (ACG Rec 32 — strong, very low) | [[primary-biliary-cholangitis#Pregnancy]] |
+| WD | **Continue penicillamine, trientine or zinc, reducing the dose if possible** (ACG Rec 33 — strong, very low); stopping risks decompensation and placental/fetal copper deposition. ACG 2016 relays WD practice guidelines: cut penicillamine/trientine 25–50% to aid wound healing in case cesarean is needed | [[wilson-disease]] |
+| Cirrhosis / portal hypertension | **Variceal screening:** before pregnancy; else [[upper-endoscopy\|upper endoscopy]] early in the 2nd trimester if not done within 1 year before conception or with ongoing injury/decompensation (AASLD 2021; AGA 2024 BPA 6; ACG Rec 34 — strong, low). **Small varices** → consider nonselective beta-blocker (NSBB); **medium/large** → band ligation or NSBB, propranolol preferred (AASLD 2021; ACG Rec 35 — conditional, very low). **Acute bleed** → octreotide or somatostatin, proton pump inhibitor, cephalosporin, endoscopy; **avoid terlipressin**. Mode of delivery by obstetric indications only (AASLD 2021). Up to 30% bleed from varices, 50–78% with known varices; maternal mortality 20–50% per bleed (ACG 2016) | [[portal-hypertension]], [[variceal-upper-gi-bleeding]] |
+| Liver transplant | **Continue all immunosuppression except mycophenolic acid** (ACG Rec 36 — strong, moderate); most experts wait ≥1 year (some 2) before pregnancy; acute rejection and graft loss higher if pregnancy within 6 months; everolimus/sirolimus may impair cesarean wound healing (ACG 2016) | [[liver-transplantation]] |
 
-- Autoimmune hepatitis (AIH) associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
-- **Maintain corticosteroids and/or [[thiopurines|azathioprine (AZA)]] during pregnancy** (Rec 31 — strong, very low evidence); [[easl-2025-autoimmune-hepatitis|EASL 2025]] likewise continues thiopurine maintenance ± corticosteroids throughout pregnancy (strong)
-- AZA: pregnancy category D; however, [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] safety data (>3,000 pregnancies) show no increase in congenital abnormalities
-- **Flares: 13% during pregnancy, 41% postpartum at a median of 11 weeks after delivery** — postpartum flares require intensification of immunosuppression, so keep monitoring well past delivery. **Complete biochemical response (CBR) at conception and through pregnancy reduces both flares and prematurity** ([[easl-2025-autoimmune-hepatitis]])
-- **Obstetric risk in AIH** (meta-analysis, 14 studies, >1,400 patients; [[easl-2025-autoimmune-hepatitis]]): gestational diabetes odds ratio (OR) **2.84** (95% CI 1.78–4.54) · hypertensive complications (preeclampsia, eclampsia, HELLP) OR **2.22** (1.76–2.79) · premature birth OR **2.20** (1.66–2.91) · small for gestational age OR **2.48** (1.37–4.51) · low birth weight OR **3.04** (1.85–5.01). **Neonatal mortality, stillbirth and congenital malformations were not significantly increased**, independent of immunosuppression
-- **[[mycophenolate-mofetil|Mycophenolate mofetil (MMF)]] is teratogenic — withdraw it at least 3 months before conception** (strong), and **never use it for a first presentation of AIH in pregnancy** — use standard regimens **excluding MMF** (strong) ([[easl-2025-autoimmune-hepatitis]])
-- **AIH with [[cirrhosis]] in pregnancy → close monitoring by a multidisciplinary obstetric–hepatology team** (strong) ([[easl-2025-autoimmune-hepatitis]])
-- AIH may initially present during pregnancy; differential includes preeclampsia and AFLP
-- Corticosteroid monotherapy used for flare management (AZA historically limited in pregnancy, though evidence supports continuation)
-
-*EASL 2025 adds (strong recommendations unless stated):*
-
-- **Mycophenolate mofetil (MMF) is teratogenic — withdraw at least 3 months before conception**; counsel **both female and male** patients. While on MMF: negative pregnancy test and two contraceptive methods, continued **to at least 12 weeks after** the drug is stopped
-- **AIH presenting for the first time in pregnancy** → standard therapeutic regimens, **excluding MMF**
-- **Flares: 13% during pregnancy, 41% postpartum at a median of 11 weeks after delivery** — both require treatment intensification. Earlier estimates were higher (intrapartum >20%, postpartum 30–50%)
-- **Conceive in remission:** complete biochemical response at conception and during pregnancy reduces both flares and prematurity
-- Maternal–fetal risk, meta-analysis of 14 studies and >1,400 patients: gestational diabetes odds ratio (OR) **2.84**, hypertensive complications (preeclampsia, eclampsia, HELLP) **2.22**, premature birth **2.20**, small for gestational age **2.48**, low birth weight **3.04**. **Neonatal mortality, stillbirth and congenital malformations are not increased**, independent of immunosuppression
-
-### Primary Biliary Cholangitis (PBC)
-
-See also: [[primary-biliary-cholangitis]]
-
-- PBC typically presents at older age; pregnancy infrequent but possible
-- **Continue UDCA during pregnancy** (Rec 32 — strong, very low evidence); UDCA is pregnancy category B; risk of discontinuation (disease flare) outweighs risk of therapy
-- Limited data in first trimester; caution warranted with UDCA initiation in first trimester
-
-### Wilson's Disease (WD)
-
-See also: [[wilson-disease]]
-
-- Wilson disease (WD) reduces fertility (copper deposition in uterus interferes with embryo implantation); but pregnancy possible
-- **Continue treatment (penicillamine, trientine, or zinc) during pregnancy with dose reduction if possible** (Rec 33 — strong, very low evidence)
-- Penicillamine/trientine: reduce dose by 25–50% to promote wound healing if cesarean section planned
-- Zinc: option during pregnancy (limited comparative data); does not have same wound-healing concerns
-- Treatment discontinuation risks: hepatic decompensation/liver failure AND copper deposition in placenta/fetal liver
-
-### Cirrhosis and Portal Hypertension
-
-- Pregnancy in cirrhosis associated with increased prematurity, spontaneous abortion, and maternal-fetal mortality
-- Up to 30% of cirrhotic pregnant women bleed from esophageal varices; risk 50–78% if pre-existing varices
-- [[variceal-upper-gi-bleeding|Variceal bleeding]] mortality per episode: 20–50% maternal mortality, even higher fetal loss risk
-- **Screen for esophageal varices by [[upper-endoscopy|upper endoscopy]] in second trimester** if [[portal-hypertension|portal hypertension]] suspected (Rec 34 — strong, low evidence); most prudent timing after organogenesis complete in first trimester and before greatest bleed risk at delivery
-- **Treat large varices with [[nonselective-beta-blockers|beta-blockers]] and/or band ligation** (Rec 35 — conditional, very low evidence)
-  - Propranolol: pregnancy category C; used for fetal arrhythmias, hypertension — overall safe; risks of intrauterine growth restriction (IUGR), neonatal bradycardia, hypoglycemia
-  - Nadolol: category C but long half-life, low protein-binding — less preferred
-  - Band ligation: safe in pregnancy; evidence extrapolated from non-pregnant patients
-- [[somatostatin-analogs|Octreotide]]: pregnancy category B; safe as adjunct in acute variceal bleeding
-- Cesarean section may carry increased surgical bleeding risk; no comparative data vs. vaginal delivery
-- Multidisciplinary management with maternal-fetal medicine + hepatology essential
-
-### Post-Liver Transplantation
-
-- Fertility rapidly restored after transplantation (80% normalize menstrual cycle within 1 year)
-- Recommend waiting ≥1–2 years post-transplant before pregnancy (lower immunosuppression doses, lower rejection risk, lower opportunistic infection risk)
-- Pregnancy in liver transplant recipients: higher rates of preterm birth, low birth weight (LBW), cesarean section, maternal hypertension, preeclampsia; higher acute rejection risk if pregnancy within 6 months
-- **Continue all immunosuppression except mycophenolic acid** (Rec 36 — strong, moderate evidence)
-  - **Mycophenolic acid / MMF**: CONTRAINDICATED — risk of congenital malformations (external ear/other facial abnormalities, distal limb, heart, esophagus, kidney) and embryo-fetal toxicity
-  - [[tacrolimus|Tacrolimus]], [[calcineurin-inhibitors|cyclosporine]], AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
-  - Everolimus/sirolimus: impaired wound healing — consider if cesarean section is planned
-- Breastfeeding: traditionally discouraged; growing small series report safety with minimal adverse events; pharmacokinetic data show minimal excretion of tacrolimus and cyclosporine in breast milk
+*Pre-existing liver disease in pregnancy — decisions that change because the patient is pregnant*
+*Source: built from ACG 2016 Recs 31–36 and text, AGA 2024 BPA 3, 6, 13, AASLD 2021 guidance statements, and EASL 2025 (Rec numbers are ACG 2016)*
+*[[acg-2016-liver-disease-pregnancy|ACG 2016]] · [[aga-2024-pregnancy-gi-liver|AGA 2024]] · [[aasld-2021-reproductive-liver|AASLD 2021]] · [[easl-2025-autoimmune-hepatitis|EASL 2025 AIH]]*
+*AIH = autoimmune hepatitis · PBC = primary biliary cholangitis · UDCA = ursodeoxycholic acid · WD = Wilson disease · NSBB = nonselective beta-blocker · BPA = Best Practice Advice · EASL = European Association for the Study of the Liver*
 
 ---
 
 ## See Also
 
-[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-cholangitis]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[thiopurines]], [[inflammatory-bowel-disease]]
+[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-cholangitis]], [[acute-liver-failure]], [[hepatitis-a]], [[hepatitis-e]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[cirrhosis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[endoscopy-sedation]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[mycophenolate-mofetil]], [[thiopurines]], [[ursodeoxycholic-acid]]
 
 ---
 

@@ -3,7 +3,8 @@ title: "ASGE Guideline on the Role of Endoscopy in the Management of Benign and 
 category: source
 tags: [gastric-outlet-obstruction, stent, sems, gastrojejunostomy, eus-ge, lams, balloon-dilation, palliation, asge]
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2021 Benign and Malignant Gastroduodenal Obstruction (Jue).pdf"
 ---
@@ -36,7 +37,7 @@ Endoscopic ultrasound–guided gastroenterostomy (EUS-GE) sits outside the PICO 
 **2. Covered versus uncovered SEMS.** In patients with incurable malignant GOO undergoing palliative endoscopic stent placement, there is **insufficient evidence to preferentially recommend covered over uncovered SEMS**. The final decision should be based on regional stent availability, patient characteristics, and patient preferences. *(Conditional recommendation, moderate quality of evidence)*
 
 **3. Benign GOO — endoscopic versus surgical management.** There is **insufficient evidence to support endoscopic management over surgical management** of benign GOO. *(Conditional recommendation, low quality of evidence)*
-> **Comment.** Factors to consider in choosing management: **etiology** of the benign GOO, **length of the stricture**, and **response to initial EBD**.
+> **Comment.** Factors to consider in choosing management: **etiology** of the benign GOO, **length of the stricture**, and **response to initial EBD** (the Results-section version adds patients' **health and comorbidities**).
 
 *The Summary and Conclusions section restates Recommendation 3 as "insufficient evidence to uniformly support either endoscopic or surgical management for mixed varieties of benign GOO."*
 
@@ -59,7 +60,7 @@ Endoscopic ultrasound–guided gastroenterostomy (EUS-GE) sits outside the PICO 
 | Serious adverse events (3 RCTs) | RR 1.15 (0.33–3.98) | Moderate |
 | Serious adverse events **requiring reintervention** (3 RCTs) | RR **4.71** (1.36–16.30) — higher with SEMS | Moderate |
 
-- Cost: median 90-day cost of SEMS + readmissions **$18,500** (range $4100–$49,500) vs **$37,200** ($12,200–$67,800) for surgery in a US claims analysis; a decision-analysis model put enteral stent placement at $8213 vs laparoscopic GJ $10,340 over 1 month. A claims review suggested surgical GJ may be beneficial over SEMS for **life expectancy ≥2 months** (incremental cost-effectiveness ratio $192 per day with a Gastric Outlet Obstruction Scoring System [GOOSS] score ≥2, i.e. soft solids to regular diet, adjusted for survival).
+- Cost: median 90-day cost of SEMS + readmissions **$18,500** (range $4100–$49,500) vs **$37,200** ($12,200–$67,800) for surgery in a US claims analysis; a decision-analysis model put enteral stent placement at $8213 vs laparoscopic GJ $10,340 over 1 month. The only cost analysis run alongside an RCT suggested surgical GJ may be beneficial over SEMS for **life expectancy ≥2 months** (incremental cost-effectiveness ratio $192 per day with a Gastric Outlet Obstruction Scoring System [GOOSS] score ≥2, i.e. soft solids to regular diet, adjusted for survival).
 - The panel cautions that observational studies reporting longer survival with surgical GJ are confounded by selection (better albumin, better performance status).
 
 ### Covered versus uncovered SEMS (Table 6; 5 RCTs)
@@ -72,7 +73,7 @@ Endoscopic ultrasound–guided gastroenterostomy (EUS-GE) sits outside the PICO 
 | Adverse events | 22.3% | 30.5% | RD −0.08 (−0.17 to 0.00) | Moderate |
 
 - All five RCTs were conducted in East Asia; three included only gastric cancer (247/443 patients, 55.8%), limiting generalizability to other etiologies. **No covered enteral stent is FDA-approved/available in the US for malignant GOO.**
-- Occlusion in uncovered stents is usually manageable endoscopically (ablation, stent-in-stent); migration of covered stents may be harder to treat and may carry higher perforation risk. Anchoring covered duodenal SEMS with clips or endoscopic suturing is **not yet of proven benefit**.
+- Occlusion in uncovered stents may be less difficult to address endoscopically (ablation and stent-in-stent have been described); migration of covered stents may be harder to treat and may carry higher perforation risk. Anchoring covered duodenal SEMS with clips or endoscopic suturing is **not yet of proven benefit**.
 - No cost comparison between covered and uncovered SEMS was identified.
 
 ### EUS-guided gastroenterostomy (outside the PICO questions)
@@ -86,7 +87,7 @@ Endoscopic ultrasound–guided gastroenterostomy (EUS-GE) sits outside the PICO 
 - Systematic review of 14 retrospective studies, 596 patients. Heterogeneity precluded pooling.
 - **High response to EBD** when GOO is due to PUD **with inflammatory factors addressed** — smoking and NSAIDs discontinued, *H. pylori* treated.
 - **Less responsive to EBD:** corrosive/caustic strictures; strictures from chronic pancreatitis; **long strictures (>3 cm)**; strictures that have required **multiple dilations** (need for multiple EBD predicts treatment failure and the need for surgery).
-- Covered SEMS for benign GOO: Korean series of 22 patients (21/22 from PUD) showed 81.8% early improvement in GOOSS, sustained in 67%, but **migration in 62.5%** (n = 15). **Use of covered SEMS in benign disease is off-label in the US**; all dedicated enteral stents available in the US are uncovered and should not be used for benign disease because they are not removable. Off-label covered LAMS for short benign pyloroduodenal strictures is described in case series.
+- Covered SEMS for benign GOO: Korean series of 22 patients (21/22 from PUD) showed 81.8% early improvement in GOOSS, sustained in 67%, but **migration in 62.5%** (n = 15). **Use of covered SEMS in benign disease is off-label in the US**; all dedicated enteral stents available in the US are uncovered and should not be used for benign disease because they are not removable. Off-label covered LAMS for short, benign peptic strictures is described in case series.
 - Surgery is typically reserved as salvage after insufficient endoscopic therapy or a severe endoscopic adverse event (e.g. perforation). Modern pyloroplasty and laparoscopic GJ are reported with low morbidity and mortality.
 
 ### Pediatric considerations

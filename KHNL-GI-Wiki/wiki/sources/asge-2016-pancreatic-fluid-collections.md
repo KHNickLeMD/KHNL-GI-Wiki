@@ -3,7 +3,8 @@ title: "ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of 
 category: source
 tags: [pancreatitis, pancreatic-fluid-collection, pseudocyst, walled-off-necrosis, eus, drainage, necrosectomy, asge]
 created: 2026-06-28
-updated: 2026-10-22
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2016 Endoscopy in Inflammatory Pancreatic Fluid Collections.pdf"
 ---
@@ -22,7 +23,7 @@ American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice sta
 
 Collections are categorized by the 2012 revised Atlanta classification: acute peripancreatic fluid collection, pancreatic pseudocyst, acute necrotic collection, and walled-off necrosis (WON). *Full definitions and contrast-enhanced computed tomography (CT) criteria for all four: [[pancreatic-fluid-collection-drainage]].* Most acute PFCs resolve spontaneously and need no intervention; acute peripancreatic fluid collections and acute necrotic collections generally are not drained because of their recent onset (<4 weeks) and absent mature wall.
 
-Twelve numbered recommendations govern three decisions: **whether to drain** (symptomatic or rapidly enlarging pseudocyst; any infected PFC failing conservative management; symptomatic sterile necrosis >8 weeks after onset of [[acute-pancreatitis|acute pancreatitis]]), **when** (after the wall matures), and **how** ([[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided transmural drainage considered before surgery for pseudocysts; transmural and/or percutaneous drainage before necrosectomy or surgery for WON). Before drainage, cystic neoplasm and pseudoaneurysm must be excluded. Procedures are performed only where surgical and interventional radiology support is available.
+Twelve numbered recommendations govern three decisions: **whether to drain** (symptomatic or rapidly enlarging pseudocyst; any infected PFC failing conservative management; symptomatic sterile necrosis >8 weeks after onset of [[acute-pancreatitis|acute pancreatitis]]), **when** (after the wall matures), and **how** (endoscopic drainage considered before surgery for pseudocysts, using [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] when there is no luminal bulge or portal hypertension is suspected; transmural and/or percutaneous drainage before necrosectomy or surgery for WON). Before drainage, cystic neoplasm and pseudoaneurysm must be excluded. Procedures are performed only where surgical and interventional radiology support is available.
 
 Techniques and outcomes of endoscopic necrosectomy are explicitly **outside the document's scope**.
 
@@ -56,7 +57,7 @@ The document numbers its recommendations 1–12 in its own Summary section and a
 - **Rec 6 — sterile necrosis, two separate triggers.** Drainage of sterile WON is indicated for **gastric outlet or biliary obstruction** caused by the collection, which may occur **within 4 to 8 weeks** of onset; and for **refractory abdominal pain, ongoing systemic illness, anorexia, or weight loss lasting >8 weeks** after onset. Choice of management option should reflect local expertise and the severity of comorbidities.
 - **Rec 7 — diagnosing infected necrosis without a needle.** Infected necrosis is not initially distinguishable from sterile necrosis clinically, but usually becomes apparent **2 to 4 weeks** after onset, when its incidence peaks. Signs: new-onset or persistent sepsis · clinical deterioration despite adequate support with no alternative source of infection · **gas bubbles within the PFC** on radiologic imaging. EUS-FNA carries a high false-negative rate and may contaminate a previously sterile collection; intervening on clinical suspicion alone was accurate in **>90%** of cases in one study.
 - **Rec 9 — when EUS is required rather than optional.** No luminal bulge, or suspected [[portal-hypertension|portal hypertension]]. EUS is also preferred for an unusual collection location, documented intervening varices, or a prior failed direct endoscopic approach; where an endoscopically visible indentation exists and portal hypertension is absent, direct endoscopic and EUS-assisted drainage were equivalent.
-- **Rec 10 — the escalation trigger.** Step up to transmural necrosectomy when there is **no clinical improvement within 48 to 72 hours** of nasocystic lavage plus transmural drainage.
+- **Rec 10 — escalation (text, not a recommendation).** For WON without clinical improvement within **48 to 72 hours** of nasocystic lavage plus transmural drainage, step-up to endoscopic transmural necrosectomy "has been advocated by some authors."
 - **Rec 12 and peri-procedural care.** Anticoagulants and antiplatelets other than aspirin ideally discontinued (acute and delayed bleeding risk); deep sedation or anesthesia typical; carbon dioxide insufflation to minimize gas embolism; antibiotics typically given, especially for suspected WON.
 
 ### Other points

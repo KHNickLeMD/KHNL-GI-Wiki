@@ -65,7 +65,7 @@ The abstract enumerates twelve statements, but the article's final section is he
 | Threshold above which surveillance is cost-effective | 0.8%–1.5% per year |
 | Child-Turcotte-Pugh **class B** cirrhosis, HCC in first year after SVR | 3.6%–7.8% |
 | Non-cirrhotic after SVR | Low risk — **exception: high baseline fibrosis-4 index (FIB-4)**, implying advanced fibrosis |
-| DAA-SVR vs IFN-SVR, all treated | HR 1.07 (95% CI 0.55–2.08) |
+| DAA vs IFN-based therapy, all treated | HR 1.07 (95% CI 0.55–2.08) |
 | DAA-SVR vs IFN-SVR, cirrhosis | 21.2 vs 22.8 HCC per 1000 person-years (*P* = .78; log-rank *P* = .17) |
 
 - **Risk over time (>19,000 DAA-SVR patients, mean 2.5 y):** overall incidence **1.14%** (95% CI 0.99–1.30) in year 1 falling to **0.84%** (0.72–0.99) in year 2; **with cirrhosis 2.27%** (1.93–2.64) year 1 → **1.73%** (1.43–2.07) year 2. Downward trend, but absolute risk stays high enough to keep surveying.
