@@ -137,7 +137,7 @@ quality_reviewed: 2026-11-13
 
 **Intragastric balloon** — the positioning decision at this level ([[aga-2021-intragastric-balloons]]):
 
-- **Who:** **suggested** — with lifestyle modification, over lifestyle modification alone — in patients who have **failed a trial of conventional weight-loss strategies** (conditional, moderate certainty). The **only selection criterion the guideline gives is BMI 30–40 kg/m²** (the range US trials enrolled).
+- **Who:** **suggested** — with lifestyle modification, over lifestyle modification alone — in patients who have **failed a trial of conventional weight-loss strategies** (conditional, moderate certainty). BMI **30–40 kg/m²** is the range US trials enrolled, not a stated criterion.
 - **What it buys:** greatest %TBWL at **6–8 months**, incrementally smaller benefit thereafter; **no efficacy data beyond 1 year**. An intragastric balloon (IGB) augments lifestyle modification — it is not a standalone cure, and the guideline prescribes **no implantation duration**.
 - **What it costs:** serious adverse events are **higher than with lifestyle alone**, and intolerance takes a minority of balloons out early — rates, relative risk and periprocedural orders are on the balloon page linked above.
 - **Required alongside it:** the concomitant lifestyle modification above (**strong**), [[proton-pump-inhibitors|proton pump inhibitor (PPI)]] prophylaxis (**strong**), and a planned maintenance intervention for after removal — diet, pharmacotherapy, repeat IGB, or bariatric surgery, by shared decision-making.

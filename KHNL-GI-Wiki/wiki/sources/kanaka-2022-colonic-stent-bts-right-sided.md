@@ -3,13 +3,14 @@ title: "Colonic stent as a bridge to surgery versus emergency resection for righ
 category: source
 tags: [colorectal-cancer, malignant-large-bowel-obstruction, colonic-stent, sems, bridge-to-surgery, right-sided-colon, meta-analysis]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Other Studies/Colonic stent as a bridge to surgery versus emergency resection for right‑sided malignant large bowel obstruction- a meta‑analysis.pdf"
 ---
 
 ## Bibliographic Info
-- **Article:** [Kanaka S, Matsuda A, Yamada T, Ohta R, Sonoda H, Shinji S, Takahashi G, Iwai T, Takeda K, Ueda K, Kuriyama S, Miyasaka T, Yoshida H. Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis. Surg Endosc. 2022;36(5):2760–2770.](https://doi.org/10.1007/s00464-022-09071-7)
+- **Article:** [Kanaka S, Matsuda A, Yamada T, Ohta R, Sonoda H, Shinji S, Takahashi G, Iwai T, Takeda K, Ueda K, Kuriyama S, Miyasaka T, Yoshida H. Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis. Surg Endosc. 2022;36:2760–2770.](https://doi.org/10.1007/s00464-022-09071-7)
 - **Authors:** Shintaro Kanaka, Akihisa Matsuda, Takeshi Yamada, Ryo Ohta, Hiromichi Sonoda, Seiichi Shinji, Goro Takahashi, Takuma Iwai, Kohki Takeda, Koji Ueda, Sho Kuriyama, Toshimitsu Miyasaka, Hiroshi Yoshida
 - **Year:** 2022 (received 1 Jul 2021; accepted 20 Jan 2022; published online 3 Feb 2022)
 - **Journal/Publisher:** *Surgical Endoscopy* — Department of Gastrointestinal Hepato-Biliary-Pancreatic Surgery, Nippon Medical School, Tokyo
@@ -26,7 +27,7 @@ The clinical question exists because the two sides of the colon have been treate
 
 **The result favours BTS on every outcome that was significant.** Postoperative complications fell from 31.3% to 19.3% (odds ratio [OR] 0.78, 95% confidence interval [CI] 0.66–0.92) and postoperative mortality from 5.2% to 0.9% (OR 0.51, 95% CI 0.28–0.92). BTS patients were far more likely to get a primary anastomosis (97.8% vs 85.9%), far less likely to receive a stoma (2.0% vs 11.0%), and about three times as likely to have a laparoscopic rather than open operation (48.5% vs 15.7%).
 
-**Read the effect sizes against the evidence grade, which the authors themselves rate as very low to low.** Grading of Recommendations Assessment, Development and Evaluation (GRADE) certainty was **very low** for postoperative complications, primary anastomosis, anastomotic leakage, surgical site infection and ileus, and **low** for mortality, stoma construction and laparoscopic surgery. Mean Methodological Index for Non-Randomized Studies (MINORS) score was 14.57 ± 1.72 ("fair" for non-randomized studies). Crucially, **severe complications did not differ** (Clavien–Dindo ≥III or requiring reintervention: OR 0.98, 95% CI 0.68–1.41) — so the complication benefit sits in the milder end of the distribution. The authors' own dominant concern is **selection bias toward "easy-to-stent cases"**: right-sided SEMS is technically harder (tumour site in the right colon independently predicted technical difficulty, OR 2.5, 95% CI 1.61–4.01, P<0.0001, in a cited Japanese post hoc analysis), so the patients who got a stent may be a favourable subset.
+**Read the effect sizes against the evidence grade, which the authors themselves rate as very low to low.** Grading of Recommendations Assessment, Development and Evaluation (GRADE) certainty was **very low** for postoperative complications, primary anastomosis, anastomotic leakage, surgical site infection and ileus, and **low** for mortality, stoma construction and laparoscopic surgery. Mean Methodological Index for Non-Randomized Studies (MINORS) score was 14.57 ± 1.72 ("fair" for non-randomized studies). Crucially, **severe complications did not differ** (Clavien–Dindo ≥III or requiring reintervention: OR 0.98, 95% CI 0.68–1.41). The authors' own dominant concern is **selection bias toward "easy-to-stent cases"**: right-sided SEMS is technically harder (tumour site in the right colon independently predicted technical difficulty, OR 2.5, 95% CI 1.61–4.01, P<0.0001, in a cited Japanese post hoc analysis), so the patients who got a stent may be a favourable subset.
 
 ---
 
@@ -37,7 +38,7 @@ The clinical question exists because the two sides of the colon have been treate
 - **BTS** = preoperative SEMS decompression, then **elective** resection. **ER** = emergency one-stage tumour resection.
 - **Inclusion:** (1) acute malignant proximal/right-sided colonic obstruction, and (2) a comparative study reporting morbidity and mortality for BTS vs ER.
 - **"Right-sided" was defined inconsistently across the seven studies** — cecum to hepatic flexure (1 study), to proximal transverse colon (1), or **to the entire transverse colon (5)**. This qualifier travels with every number below: most of the pooled data treats the whole transverse colon as "right-sided."
-- Interval from SEMS to surgery ranged across studies from **7.5 to 28.1 days** (medians).
+- Interval from SEMS to surgery ranged across studies from about **7 to 28.1 days** (Table 1; Li 2020 reports 7–14 days; two studies did not report it).
 
 **Primary outcomes**
 
@@ -62,7 +63,7 @@ The clinical question exists because the two sides of the colon have been treate
 | Ileus | 6 | 6.7 : 3.1 | 1.28 | 0.96–1.71 | 0.09 | 4.87 | 0 | 0.43 |
 
 - **Ileus is the one signal pointing the other way** — numerically more frequent after BTS (6.7% vs 3.1%), not statistically significant.
-- Laparoscopic-surgery result carries **substantial heterogeneity (I²=67%, P<0.01)** and should be read as the weakest of the significant findings.
+- Laparoscopic-surgery result carries **substantial heterogeneity (I²=67%, P<0.01)** (GRADE certainty low).
 
 **Timing of surgery after stenting**
 
@@ -94,10 +95,11 @@ The clinical question exists because the two sides of the colon have been treate
 
 ## Contradictions / Open Questions
 
-- **Internal inconsistency in the paper's own odds ratios — surfaced, not silently resolved.** The Methods state "An OR < 1 favored the BTS group," and for adverse outcomes (complications, mortality, leakage, surgical site infection) the ORs are consistent with the rates. But for the three **favourable** outcomes the direction cannot be read literally: **primary anastomosis 97.8% vs 85.9% with OR 0.31**, and **laparoscopic surgery 48.5% vs 15.7% with OR 0.21** — an OR below 1 alongside a higher rate in BTS. These ORs are evidently computed on the complement (failure of primary anastomosis; open surgery), which is consistent with the "OR<1 favours BTS" convention but **not** with the Results prose, which says of the laparoscopic analysis "The OR was significantly higher in the BTS group than in the ER group (OR = 0.21…)". **The raw event rates are unambiguous and are what any clinical claim on a wiki page should rest on**; the ORs for those three rows are reproduced above verbatim but should not be quoted as "odds of achieving" the outcome.
+- **Internal inconsistency in the paper's own odds ratios — surfaced, not silently resolved.** The Methods state "An OR < 1 favored the BTS group," and for adverse outcomes (complications, mortality, leakage, surgical site infection) the ORs are consistent with the rates. But for the two **favourable** outcomes below the direction cannot be read literally: **primary anastomosis 97.8% vs 85.9% with OR 0.31**, and **laparoscopic surgery 48.5% vs 15.7% with OR 0.21** — an OR below 1 alongside a higher rate in BTS. These ORs are evidently computed on the complement (failure of primary anastomosis; open surgery), which is consistent with the "OR<1 favours BTS" convention but **not** with the Results prose, which says of the laparoscopic analysis "The OR was significantly higher in the BTS group than in the ER group (OR = 0.21…)". **The raw event rates are unambiguous and are what any clinical claim on a wiki page should rest on**; the ORs for those two rows are reproduced above verbatim but should not be quoted as "odds of achieving" the outcome.
 - **The headline benefit may be selection, not treatment.** The authors state this plainly: right-sided SEMS is technically demanding (long distance from the anus, colonic tortuosity, poor preparation, lower success rates than left-sided), so the stented patients may be the "easy-to-stent cases" in all seven non-randomized studies. Propensity matching in the single largest study is the main counterweight.
 - **No RCT exists and the authors doubt one is feasible** — right-sided MLBO is less common than left-sided, so an adequately powered trial is difficult. This is the ceiling on the evidence, not a gap awaiting a paper.
-- **Severe complications did not differ.** Any statement that BTS "reduces complications" must carry this: the difference is in overall/milder morbidity, and Clavien–Dindo ≥III events were equivalent (OR 0.98, 0.68–1.41).
+- **Severe complications did not differ.** Any statement that BTS "reduces complications" must carry this: Clavien–Dindo ≥III events (or reintervention) did not differ significantly (OR 0.98, 0.68–1.41).
+- **Primary-anastomosis data differ within the paper:** Table 4 pools **5** studies, Table 3 lists **6**, and the Results text gives 134/137 vs 1653/1925 — counts that do not match Table 3.
 - **Heterogeneity beyond the statistics** — sample size, SEMS type, technical quality, pathological staging, study design, follow-up, and even the **definitions of morbidity and mortality** differed between papers. The authors state these "affect the results considerably."
 - **The ESGE 2020 SEMS recommendation of BTS for left-sided MLBO is reported here only secondhand, through this paper's introduction.** For the left-sided recommendation itself, see ESGE 2020 (van Hooft et al., *Endoscopy* 2020;52:389–407).
 - **Tier note:** this is a tier-2 source (meta-analysis of retrospective cohorts). Where it overlaps the tier-1 [[asge-2013-crc-staging-management]] it does not conflict — American Society for Gastrointestinal Endoscopy (ASGE) 2013 is silent on left-vs-right and on comparative outcomes, so this contributes net-new, non-conflicting information rather than overriding a guideline.

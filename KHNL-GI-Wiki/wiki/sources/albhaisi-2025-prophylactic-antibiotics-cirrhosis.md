@@ -3,14 +3,15 @@ title: "Prophylactic Antibiotics for Upper Gastrointestinal Bleeding in Patients
 category: source
 tags: [cirrhosis, upper-gi-bleeding, variceal-bleeding, antibiotic-prophylaxis, systematic-review, meta-analysis]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-25
 sources: []
+verified: 2026-11-25
 raw: "GI RCTs/Prosty 2025 Prophylactic Antibiotics UGIB Cirrhosis.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Prosty C, Noutsios D, Dubé LR, Baden R, Davar K, Freling S, Bhuket T, Yee HF Jr, Spellberg B, McDonald EG, Lee TC. Prophylactic Antibiotics for Upper Gastrointestinal Bleeding in Patients With Cirrhosis: A Systematic Review and Bayesian Meta-Analysis. *JAMA Intern Med* 2025;185(10):1194–1203.](https://doi.org/10.1001/jamainternmed.2025.3832)
+- **Article:** [Prosty C, Noutsios D, Dubé LR, Baden R, Davar K, Freling S, Bhuket T, Yee HF Jr, Spellberg B, McDonald EG, Lee TC. Prophylactic Antibiotics for Upper Gastrointestinal Bleeding in Patients With Cirrhosis: A Systematic Review and Bayesian Meta-Analysis. *JAMA Intern Med*. Published online August 11, 2025.](https://doi.org/10.1001/jamainternmed.2025.3832)
 - **Authors:** Connor Prosty, Dean Noutsios, Laurie-Rose Dubé, Rachel Baden, Kusha Davar, Sarah Freling, Taft Bhuket, Hal F. Yee Jr, Brad Spellberg, Emily G. McDonald, Todd C. Lee
 - **Year:** 2025 (published online August 11, 2025)
 - **Journal/Publisher:** JAMA Internal Medicine
@@ -25,7 +26,9 @@ International guidelines recommend **5–7 days** of antibiotic prophylaxis for 
 
 **The composition of the evidence is the key to reading this paper.** Only **2 of the 14 RCTs actually compared a shorter course to a longer one** (2–3 d vs 5–7 d of a third-generation cephalosporin; 92 vs 87 patients). The other **12 compared any prophylaxis (1–10 d) to none at all** (570 vs 573 patients). So the headline "shorter durations are noninferior" is driven mostly by prophylaxis-vs-nothing trials, and the two comparisons behave very differently — a distinction that changes the bedside conclusion.
 
-For **all-cause mortality**, noninferiority was met overall (97.3% probability). For **bacterial infections**, shorter durations were clearly inferior overall — but that inferiority is confined almost entirely to the no-prophylaxis comparison, while the short-vs-long cephalosporin comparison actually favored the shorter course. The practical reading is therefore *not* "prophylaxis is unnecessary" but "**giving prophylaxis matters; how long you give it is genuinely uncertain.**"
+For **all-cause mortality**, noninferiority was met overall (97.3% probability). For **bacterial infections**, shorter durations were inferior overall — driven by the no-prophylaxis comparison (0.5% probability of noninferiority); in the short-vs-long cephalosporin comparison the probability of noninferiority was higher (81.0%) but the estimate was imprecise.
+
+**Authors' conclusion (p. E8):** findings are "hypothesis-generating" and suggest **routine prophylaxis may be unnecessary** given recent endoscopic and medical advances; the infection reduction did not translate into lower mortality ("colonization was prevented more so than sepsis", p. E7). Noninferiority signal strongest at an absolute mortality risk **<9%**; risk scores could identify lower-risk patients (**<9%–11%**) in whom prophylaxis "could reasonably be withheld or abbreviated" (p. E7).
 
 Certainty of evidence was **low** (mortality), **very low** (early rebleed), and **low** (bacterial infections). Eight of 14 studies were at high risk of bias, 12 were unblinded, 8 did not adequately screen for or exclude active infection at entry, and no study had a prespecified statistical analysis plan. The authors conclude the current guideline recommendation is not based on high-quality evidence and call for an adequately powered, double-blind RCT.
 
@@ -53,12 +56,13 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 
 **Early rebleed** (secondary) — noninferiority **not** met
 - 91/545 (16.7%) vs 69/544 (12.7%); probability of noninferiority **73.8%**; RD 2.9% (95% CrI −4.2 to 10.0); I² = 71.7%; 11 studies
+- No prophylaxis vs prophylaxis: 60.6% (RD 4.0%, −4.2 to 12.3; 9 studies) · shorter vs longer: 79.8% (RD −1.5%, −18.2 to 15.2; 2 studies)
 
 **Bacterial infections** (secondary) — shorter durations **inferior overall**
 
 | Comparison | Events | Probability of noninferiority | RD (95% CrI) |
 |---|---|---|---|
-| **Overall** (14 studies) | 182/665 (27.4%) vs 78/657 (11.9%) | — (inferior) | **15.2% (5.0 to 25.9)** |
+| **Overall** (14 studies) | 182/665 (27.4%) vs 78/657 (11.9%) | **2.4%** | **15.2% (5.0 to 25.9)** |
 | No prophylaxis vs prophylaxis (12) | 176/573 (30.7%) vs 68/570 (11.9%) | **0.5%** | 18.8% (8.6 to 29.4) |
 | Shorter vs longer cephalosporin (2) | 6/92 (6.5%) vs 10/87 (11.5%) | **81.0%** | −5.0% (−29.1 to 19.0) |
 
@@ -77,7 +81,7 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 - **No study** had a prespecified statistical analysis plan; most did not report loss to follow-up
 - **No study reported adverse events**
 
-**Authors' call for future research:** an adequately powered, **double-blind** RCT comparing longer (5–7 d) to shorter (2–3 d) durations, conducted in the era of restrictive transfusion targets and covered transjugular intrahepatic portosystemic shunt (TIPS) stents, that excludes bacteremia and spontaneous bacterial peritonitis (SBP) before enrollment and uses properly defined infection outcomes.
+**Authors' call for future research:** an adequately powered, **double-blind** RCT comparing longer (5–7 d), shorter (2–3 d or periprocedural) and **no** antibiotic prophylaxis, conducted in the era of restrictive transfusion targets and covered transjugular intrahepatic portosystemic shunt (TIPS) stents, that excludes bacteremia and spontaneous bacterial peritonitis (SBP) before enrollment and uses properly defined infection outcomes.
 
 *Journal-club discussion points (not from the published article):* practical barriers to changing practice include high 6-week mortality in variceal hemorrhage, difficulty obtaining consent in encephalopathic patients, and the absence of US-based data.
 
@@ -90,7 +94,7 @@ Certainty of evidence was **low** (mortality), **very low** (early rebleed), and
 ## Contradictions / Open Questions
 
 - **Guidelines (tier 1) recommend 5–7 days and remain the standard** ([[aasld-2021-ascites-sbp-hrs]], [[baveno-vii-2022-portal-hypertension]], [[acg-2021-ugib]]). This meta-analysis is tier 2 and does not overturn them; it documents that the duration is weakly evidenced.
-- The pooled result is easily misread as "prophylaxis may be unnecessary." The infection data argue the opposite: **omitting prophylaxis entirely had a 0.5% probability of noninferiority** for infections (RD 18.8%).
+- The authors suggest routine prophylaxis may be unnecessary, yet **omitting prophylaxis had a 0.5% probability of noninferiority for bacterial infections** (RD 18.8%) — the authors attribute this to prevented colonization and high-risk-of-bias, unblinded infection outcomes, since mortality did not differ.
 - Only 2 RCTs (179 patients total) address the question clinicians actually face — 2–3 d vs 5–7 d — so the short-vs-long estimates are imprecise (mortality CrI −11.4 to 4.7).
 - Infection definitions were heterogeneous and mostly unblinded, so the infection benefit of prophylaxis is itself at high risk of bias.
 - No adverse-event data in any trial: the harms side of longer courses (*C. difficile*, resistance) is unquantified here. See [[clostridioides-difficile]].

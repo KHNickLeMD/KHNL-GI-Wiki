@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update: Expert Review on Endoscopic Bariatric Ther
 category: source
 tags: [obesity, bariatric, endoscopic-bariatric-therapy, intragastric-balloon, endoscopic-sleeve-gastroplasty, aspiration-therapy, duodenojejunal-bypass-sleeve, aga, cpu]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2017 CPU Endoscopic Bariatric Therapies.pdf"
 ---

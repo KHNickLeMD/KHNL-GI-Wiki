@@ -3,14 +3,15 @@ title: "WEO 2024: International Consensus on the Management of Large (≥20 mm) 
 category: source
 tags: [colorectal, polypectomy, emr, esd, lst, jnet, kudo, paris, en-bloc, piecemeal, consensus, weo]
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/Other/WEO 2024 Large Colorectal LST Consensus (Djinbachian).pdf"
 ---
 
 ## Bibliographic Info
 - **Article:** [Djinbachian R, Rex DK, Chiu HM, et al. International consensus on the management of large (≥20 mm) colorectal laterally spreading tumors: World Endoscopy Organization Delphi study. Digestive Endoscopy 2024;36:1253–1268.](https://doi.org/10.1111/den.14826)
-- **Authors:** Roupen Djinbachian, Douglas K. Rex, Han-Mo Chiu, Norio Fukami, … Yutaka Saito, Daniel von Renteln (43 experts from 18 countries; Saito and von Renteln share last co-authorship)
+- **Authors:** Roupen Djinbachian, Douglas K. Rex, Han-Mo Chiu, Norio Fukami, … Yutaka Saito, Daniel von Renteln (49 authors; voting panel of 43 experts from 18 countries; Saito and von Renteln share last co-authorship)
 - **Year:** 2024
 - **Journal/Publisher:** Digestive Endoscopy (Japan Gastroenterological Endoscopy Society / Wiley) — open access
 - **DOI:** [10.1111/den.14826](https://doi.org/10.1111/den.14826)
@@ -20,11 +21,11 @@ raw: "GI Guidelines/Other/WEO 2024 Large Colorectal LST Consensus (Djinbachian).
 
 A World Endoscopy Organization (WEO) Delphi consensus on large (**≥20 mm**) colorectal **laterally spreading tumors (LSTs)** — i.e. large nonpedunculated colorectal polyps. Its purpose is explicitly to reconcile **diverging Eastern and Western paradigms** on en bloc versus piecemeal resection, chromoendoscopy, lesion selection and follow-up.
 
-**Method.** A six-member steering committee drafted 51 statements across five domains; **43 experts from 18 countries on six continents** (deliberately including pathologists and surgeons as well as gastroenterologists, and regions under-represented in the literature) voted in **three anonymous rounds, January–May 2023**. Consensus = **≥80% "strongly agree" or "agree"** on a 5-point Likert scale. Unlike many Delphi documents, **each statement also carries a GRADE strength and quality of evidence**, assessed and presented to voters before each round.
+**Method.** A six-member steering committee drafted 51 statements across five domains; **43 experts from 18 countries on six continents** (deliberately including pathologists and surgeons as well as gastroenterologists, and regions under-represented in the literature) voted in **three anonymous rounds, January–May 2023**. Consensus = **≥80% "strongly agree" or "agree"** on a 5-point Likert scale. **Each statement also carries a GRADE strength and quality of evidence**; evidence was presented to experts during voting.
 
 **Result: 42 statements reached consensus** — 3 on training and competency, 10 on preresection evaluation, 14 on resection indications and technique, 7 on postresection evaluation, 8 on postresection care. Of the 51 presented in round 1, 25 passed; after heavy modification 46 core statements went to round 2 (39 passed); round 3 took 5 statements (4 modified, 1 new) and passed 3.
 
-**Two topics were dropped outright** for <50% agreement and being judged unlikely to pass even after modification: **specific EMR and ESD case numbers for competency**, and **favoring any one optical-diagnosis classification system over the others**. That second drop is why the statements name JNET, Kudo, Paris, WASP and the LST classification side by side rather than mandating one.
+Statements removed for <50% agreement (judged unlikely to pass even after modification) **included**: **specific EMR and ESD case numbers for competency**, and **favoring any one optical-diagnosis classification system over the others**.
 
 The organizing logic is that **resection method follows the optically predicted depth of submucosal invasion**, with the **rectum treated separately from the proximal colon** throughout, because rectal lesions carry more advanced histology and higher submucosal invasion rates while also being safer to resect en bloc.
 
@@ -106,7 +107,7 @@ An important framing caveat the document states about itself: **there is no cons
 - **Serrated lesions, piecemeal cold snare:** meta-analysis local recurrence **4.7%** (95% CI 0.9–8.5) after cold snare resection of ≥20 mm sessile serrated lesions (SSLs); retrospective series show <5% recurrence at first and second follow-up, with no increase in adverse events. **But** incomplete resection of 1–20 mm polyps across expert and nonexpert endoscopists was **28.5% for SSLs vs 13.3% for adenomas** — so the piecemeal cold snare approach **should be reserved for experts trained in optical diagnosis and advanced resection**, and generalizability to nonexpert centers is untested. En bloc with a cold snare becomes less feasible the larger the lesion.
 - **SSL with an overt focus of dysplasia: no recommendation could be made** on cold vs hot snare or en bloc vs piecemeal — no data. Current approaches include piecemeal or en bloc resection of the whole lesion, or en bloc resection of the dysplastic focus with piecemeal resection of the rest. SSLs with dysplasia carried **22.2%** metachronous advanced lesions in one retrospective study.
 - **Submucosal invasion rates by morphology and site** (prospective, 1712 LSTs with no overt signs of invasion): **proximal granular homogeneous 0.7%**; **rectal granular homogeneous 1.2%**. Another series found <1% proximally and none in 75 rectal granular homogeneous lesions. Rectal lesions overall have more advanced histology and higher invasion rates.
-- **JNET 2A positive predictive value for adenoma without high-grade dysplasia or submucosal invasion: 91.0–98.3%.** **JNET 2B positive predictive value for high-grade dysplasia or submucosal invasion: only 50.9%** — which is precisely why 2B triggers en bloc resection and optional Kudo restratification rather than a confident call.
+- **JNET 2A positive predictive value for adenoma without high-grade dysplasia or submucosal invasion: 91.0–98.3%.** **JNET 2B positive predictive value for high-grade dysplasia or submucosal invasion: only 50.9%**.
 - **Number of pieces drives recurrence:** ~**10% recurrence after 3 pieces, up to 25% after 4 pieces** in >20 mm lesions. Residual microscopic tissue was found in the **margin of 19.5%** and the **base of 23.8%** of post-EMR defects. Thermal margin ablation brings piecemeal EMR recurrence to **<5%** in expert centers. **Cold snare piece size is capped around 8 mm** — tissue transection fails above that in most instances.
 - **Inadvertent piecemeal resection of invasive cancer:** among 3372 LSTs, 142 such cases — **no residual cancer where the deep margin was R0**. Risk factors for nodal metastasis were **poor differentiation and lymphovascular invasion**.
 - **Recurrences are usually manageable:** in 1800 lesions with 213 recurrences on long-term follow-up, recurrences tended to be small and were treated endoscopically with **>90% success**.
@@ -131,7 +132,7 @@ An important framing caveat the document states about itself: **there is no cons
 
 - **No agreed threshold for "low", "moderate" or "high" risk of submucosal invasion.** The statements use those words, and the document states plainly that no consensus exists on what percentage each means — so the risk label comes from the morphologic and optical descriptors, not from a number.
 - **Statement 1.5's agreement percentage is printed two different ways** — **95%** in Table 1, **93%** in the body text (strongly agree 44% + agree 49%). Recorded as both; the body's arithmetic is self-consistent.
-- **No single optical classification is endorsed.** The statement favoring one system over others failed at <50% agreement, so JNET, Kudo, Paris, WASP and the LST classification all appear as co-equal tools. Statement 3.5 requires only that *some* system predicting submucosal invasion be recorded.
+- **No single optical classification is endorsed.** The statement favoring one system over others failed at <50% agreement. Statement 3.5 requires only that *some* system predicting submucosal invasion be recorded.
 - **No competency case number.** The panel rejected specific EMR/ESD case thresholds, leaving "adequate caseload" (2.2) and self-audit (2.3) as the only competency standards.
 - **No recommendation for the serrated lesion with a dysplastic focus** — explicitly a data gap, not an omission.
 - **Deep (≥1000 μm) submucosal invasion without adverse features is deliberately left undecided** (5.7, shared decision making) rather than resolved toward surgery or surveillance.

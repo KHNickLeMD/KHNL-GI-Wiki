@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Surveillance After Pathologically Curati
 category: source
 tags: [esd, surveillance, barretts, esophageal-cancer, gastric-cancer, colorectal-cancer, rectal-cancer, dysplasia, aga]
 created: 2026-09-22
-updated: 2026-09-22
+verified: 2026-11-25
+updated: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU Post-ESD Surveillance for Early GI Neoplasia.pdf"
 ---
@@ -26,7 +27,7 @@ Post-[[endoscopic-submucosal-dissection|ESD]] surveillance in the United States 
 
 The central practical problem the Update addresses is pathologic: many Western pathologists do not process ESD specimens by the Japanese method (2–3 mm serial sectioning, special stains for lymphovascular invasion), and there is no uniformly accepted definition of a negative (R0) margin. Because of that uncertainty, the authors argue for **closer post-ESD surveillance in the US** than Asian protocols would demand, until Western pathology practice standardizes and longer-term outcome data mature.
 
-Surveillance is technique-dependent as well as interval-dependent: high-definition endoscopy augmented by image-enhancing modalities (dye-based or electronic chromoendoscopy), optical magnification where available, central and peripheral biopsies of the post-ESD scar, and careful inspection of the rest of the organ for **metachronous** lesions — the dominant late failure mode at every site.
+Surveillance is technique-dependent as well as interval-dependent: high-definition endoscopy augmented by image-enhancing modalities (dye-based or electronic chromoendoscopy), optical magnification where available, central and peripheral biopsies of the post-ESD scar, and careful inspection of the rest of the organ for **metachronous** lesions.
 
 The suggested intervals **do not apply to hereditary malignancy syndromes** ([[hereditary-diffuse-gastric-cancer|hereditary gastric cancer]], [[lynch-syndrome]]), which may need definitive surgery or more intense surveillance.
 
@@ -55,7 +56,8 @@ The suggested intervals **do not apply to hereditary malignancy syndromes** ([[h
 - There is **no minimal distance requirement** between tumor cells and the resection margin for ESD — unlike surgical R0 resection.
 - When the lesion sits inside a field that itself contains lesser dysplasia ([[barretts-esophagus|Barrett's esophagus]], severe [[atrophic-gastritis]]), the consensus advice is to consider the resection **R0 if the highest histologic grade of the target neoplasm is not present at the margins**. Example given: R0 for high-grade dysplasia (HGD) in Barrett's esophagus (BE) when a large HGD nodule was completely removed but flat low-grade dysplasia (LGD) is present at the specimen margin.
 - **R1 horizontal-margin** positivity (microscopic) with otherwise low-risk histology → additional therapy by ESD or EMR is possible.
-- **R1 deep/vertical-margin** positivity after ESD of a malignant neoplasm → **prompt referral for surgery**.
+- **R1 deep/vertical-margin** positivity after ESD of a malignant neoplasm → **in most cases, prompt referral for surgery**.
+- **After ESD of malignant tumors with lymph-node metastasis risk**, consider review at a **multidisciplinary GI tumor board** (p. 2030).
 
 ### Esophageal dysplasia and squamous cell carcinoma
 
@@ -91,9 +93,11 @@ The suggested intervals **do not apply to hereditary malignancy syndromes** ([[h
 | LGD | 2–3 mo to initiate mucosal ablative therapy, then repeat every 2–3 mo until CE-IM achieved | At 12 mo for surveillance after CE-IM/ESD | At 3 y after CE-IM/ESD (a 2-y interval), and then every 2–3 y | No | No | 0 |
 | HGD | 2–3 mo to initiate mucosal ablative therapy, then repeat every 2–3 mo until CE-IM achieved | At 6 mo for surveillance after CE-IM/ESD | 6 mo later, and then annually | No | No | 0 |
 | T1a EAC (m1–m3) | 2–3 mo to initiate mucosal ablative therapy, then repeat every 2–3 mo until CE-IM achieved | At 6 mo for surveillance after CE-IM/ESD | Every 6 mo for 2 y after CE-IM/ESD, and then annually | May consider EUS with each EGD | May consider CT chest and abdomen annually for 3–5 y | 1–2 |
-| T1b, Sm1 EAC (<500 µm submucosal invasion) | 2–3 mo to initiate mucosal ablative therapy, then repeat every 2–3 mo until CE-IM achieved | At 3, 6, and 12 mo for surveillance after CE-IM ESD | Every 6 mo for a total of 2 y after CE-IM, and then annually | May consider EUS with each EGD | May consider CT chest and abdomen annually for 3–5 y | 7.5 |
+| T1b, Sm1 EAC (<500 µm submucosal invasion) | 2–3 mo to initiate mucosal ablative therapy, then repeat every 2–3 mo until CE-IM achieved | At 3, 6, and 12 mo for surveillance after CE-IM/ESD | Every 6 mo for a total of 2 y after CE-IM, and then annually | May consider EUS with each EGD | May consider CT chest and abdomen annually for 3–5 y | 7.5 |
 
 *CE-IM here means endoscopic and histologic eradication.*
+
+- **EAC with significant lymph-node risk** (e.g., noncurative ESD in a patient medically unfit for esophagectomy): surveillance with EUS and CT of the chest and abdomen **may be considered** (pp. 2032–2033).
 
 **Figure 1 — pathway for clinical management after ESD for Barrett's dysplasia and esophageal adenocarcinoma**
 
@@ -128,7 +132,7 @@ flowchart TD
 - First surveillance endoscopy: **6 months for T1a EGC**, **3–6 months for T1b–Sm1 EGC**. At least one additional examination during the first year; if no neoplasia is identified, subsequent examinations can be annual. Annual examinations identified metachronous EGCs early enough for ESD or EMR in **96%** of cases.
 - A **2021 Japanese guideline** reclassified T1a EGCs with **<1% LN metastasis risk** — formerly "expanded criteria" — as now meeting **absolute criteria** for curative ESD.
 - **Differentiated T1b EGCs, ≤3 cm, <500 µm submucosal invasion, no lymphovascular invasion, R0** still meet criteria for potentially curative resection, although not included in the absolute criteria. EUS or cross-sectional imaging should be incorporated into surveillance of these T1b lesions (and may be considered for selected T1a lesions) at **6–12-month intervals for 3–5 years**.
-- **Histologic grade drives cure:** differentiated (G1, G2) favorable; undifferentiated (G3, G4) unfavorable. Mixed-histology rules as stated by Japanese guidelines:
+- **Histologic grade drives cure:** differentiated (G1, G2) favorable; undifferentiated (G3, G4) unfavorable. Mixed-histology rules (first bullet: Japanese guidelines; the others are the authors' examples):
   - Resected **T1a, <3 cm, ulcerated, mixed histology** — still curative if the histology is **predominantly differentiated** (risk of metastatic disease remains <1%).
   - A **T1a lesion >2 cm with no ulcer is noncurative if the undifferentiated region is >2 cm**, even though a majority of the lesion has differentiated histology.
   - A **T1b lesion with <500 µm submucosal invasion that is predominantly differentiated but has undifferentiated histology focally invading into the submucosa is not curative** → consider surgical resection.
@@ -202,9 +206,9 @@ flowchart TD
 
 ## Contradictions / Open Questions
 
-- **Deliberately more intensive than Asian practice.** The authors state US surveillance may need to be closer than Asian protocols because Western ESD specimen processing (2–3 mm serial sectioning, LVI stains) is not uniform and there is **no uniformly accepted definition of a negative R0 margin**. So these intervals are a US-context adjustment, not a difference in biology.
+- **Deliberately more intensive than Asian practice.** The authors state US surveillance may need to be closer than Asian protocols because Western ESD specimen processing (2–3 mm serial sectioning, LVI stains) is not uniform and there is **no uniformly accepted definition of a negative R0 margin**. Closer US surveillance is warranted until pathology practices are better standardized.
 - **NCCN and oncologic guidelines were not written with ESD in mind**, and the surgical-resection guidance they contain (which makes no distinction between cancer invading <1000 µm and deeper submucosal disease) is not directly generalizable to patients after local excision by ESD.
-- **Evidence level is low throughout** and no interval has been validated against outcomes — there are no studies evaluating the impact of different surveillance intervals on early detection of neoplasia or on mortality after endoscopic resection of esophageal SCC, and no prospective trials comparing transanal surgery with rectal ESD.
+- **Evidence level is generally low** — there are no studies evaluating the impact of different surveillance intervals on early detection of neoplasia or on mortality after endoscopic resection of esophageal SCC, and no prospective trials comparing transanal surgery with rectal ESD.
 - **Hereditary syndromes are out of scope** — the intervals explicitly do not apply to [[lynch-syndrome]] or hereditary gastric cancer.
 
 ---

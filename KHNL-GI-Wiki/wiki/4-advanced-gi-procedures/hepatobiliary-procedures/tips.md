@@ -106,10 +106,10 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - **No specific MELD threshold contraindicates TIPS** in general, although higher MELD predicts higher mortality — no conflict with the futility rule below, which is scoped to **salvage/rescue** TIPS in uncontrolled bleeding
 - Most variceal-bleeding trials excluded **CTP >13**; patients **>75** were excluded, and TIPS in those >70 has been infrequent (recent data suggest acceptable outcomes in highly selected patients >70)
 - Risk–benefit differs when TIPS is last-resort and life-saving (uncontrolled hemorrhage) vs when alternatives exist (secondary prevention, refractory ascites)
-- **Futility (GS 23 — superseded by Baveno VIII):** MELD **>30**, lactate **>12 mmol/L**, or CTP **>13** → no salvage/rescue TIPS unless as a **short-term bridge to transplant**. These mark extreme risk — lactate >12 mmol/L and/or MELD >30 carried **>90% 6-week mortality**, and 1-year mortality with CTP >13 may approach **100%**
+- **Futility (GS 23):** MELD **>30**, lactate **>12 mmol/L**, or CTP **>13** → no salvage/rescue TIPS unless as a **short-term bridge to transplant**. These mark extreme risk — lactate >12 mmol/L and/or MELD >30 carried **>90% 6-week mortality**, and 1-year mortality with CTP >13 may approach **100%**
 
-> [!pitfall] The numeric futility rule no longer excludes anyone
-> [[aasld-2024-tips]] GS 23 inherited its thresholds from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31, and **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 has replaced them: salvage TIPS should be discussed for any refractory variceal bleeding, regardless of age and of the Child-Pugh and MELD scores, case by case** (LoE 3, strong). Baveno VIII is newer, so this page follows it. Baveno VIII 5.46 still asks that futility account for liver function and tumour prognosis where HCC is present.
+> [!pitfall] Baveno VIII drops the numeric futility rule; AASLD keeps it
+> [[aasld-2024-tips]] GS 23 (US) still applies the thresholds above. **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37** (modified from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31) says salvage TIPS should be discussed for any refractory variceal bleeding, **regardless of age and of the Child-Pugh and MELD scores, case by case** (LoE 3, strong). US guidance governs this page; Baveno VIII 5.46 asks that futility account for liver function and tumour prognosis where HCC is present.
 
 ## Technique
 

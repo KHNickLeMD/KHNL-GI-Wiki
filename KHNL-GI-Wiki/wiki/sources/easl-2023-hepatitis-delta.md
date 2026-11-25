@@ -3,7 +3,8 @@ title: "EASL Clinical Practice Guidelines on hepatitis delta virus (2023)"
 category: source
 tags: [hepatitis-delta, hdv, hepatitis-b, bulevirtide, peg-interferon, cirrhosis, hcc, liver-transplantation, easl]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/EASL/EASL 2023 Hepatitis Delta Virus CPG.pdf"
 ---
@@ -11,7 +12,7 @@ raw: "GI Guidelines/EASL/EASL 2023 Hepatitis Delta Virus CPG.pdf"
 ## Bibliographic Info
 
 - **Article:** [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on hepatitis delta virus. *Journal of Hepatology* 2023;79(2):433–460](https://doi.org/10.1016/j.jhep.2023.05.001)
-- **Authors:** EASL Clinical Practice Guideline Panel — Chair: Maurizia Rossana Brunetto; Secretary: Gabriele Ricco; Panel: Kosh Agarwal, Tarik Asselah, Patrizia Farci, Liana Gheorghe, Francesco Negro, Heiner Wedemeyer, Cihan Yurdaydin; EASL Governing Board representative: Maria Buti
+- **Authors:** EASL Clinical Practice Guideline Panel — Chair: Maurizia Rossana Brunetto; Secretary: Gabriele Ricco; Panel: Kosh Agarwal, Tarik Asselah, Patrizia Farci, Liana Gheorghe, Francesco Negro, George Papatheodoridis, Heiner Wedemeyer, Cihan Yurdaydin; EASL Governing Board representative: Maria Buti
 - **Year:** 2023 (received 1 May 2023; accepted 1 May 2023; online 24 June 2023)
 - **Journal/Publisher:** Journal of Hepatology (Elsevier) — August 2023, vol. 79, pp. 433–460
 - **DOI:** [10.1016/j.jhep.2023.05.001](https://doi.org/10.1016/j.jhep.2023.05.001)
@@ -106,9 +107,9 @@ Supporting points:
 Supporting detail on NIT performance in CHD (why the cut-offs are unsettled):
 
 - Transient elastography (TE) **performs better at ruling out than ruling in** cirrhosis in CHD.
-- Reported TE thresholds for cirrhosis: **10, 12.5 and 14 kPa** — sensitivity/specificity 95/75%, 77.8/82.5% and 75/81.5% respectively; the 14 kPa cut-off gave 78% sensitivity, 86% specificity, **negative predictive value (NPV) 93%, positive predictive value (PPV) 64%**.
-- In the largest histology-controlled report (n = 235) fibrosis-score performance was poor — sensitivity 13% (aspartate aminotransferase-to-alanine aminotransferase ratio [AAR]), 27% (aspartate aminotransferase-to-platelet ratio index [APRI]), 29% (Fibrosis-4 index [FIB-4]), 31% (FibroTest) — vs TE sensitivity 47%, NPV 77%.
-- **53% of 230 patients** with cirrhosis on biopsy were **misclassified** by fibrosis scores (only 29% by TE) — necro-inflammation, which is prominent in CHD, inflates stiffness.
+- Reported TE thresholds for cirrhosis: **10, 12.5 and 12 kPa** (235 patients across three reports) — sensitivity/specificity 95/75%, 77.8/82.5% and 75/81.5% respectively; a proposed 14 kPa cut-off gave 78% sensitivity, 86% specificity, **negative predictive value (NPV) 93%, positive predictive value (PPV) 64%**.
+- In a report of 330 patients, all biopsied, fibrosis-score performance was poor — sensitivity 13% (aspartate aminotransferase-to-alanine aminotransferase ratio [AAR]), 27% (aspartate aminotransferase-to-platelet ratio index [APRI]), 29% (Fibrosis-4 index [FIB-4]), 31% (FibroTest) — vs TE sensitivity 47%, NPV 77%.
+- **53% of 230 patients** (only 29% with biopsy-proven cirrhosis) were **misclassified by fibrosis scores as having cirrhosis**.
 - A **CHD-specific score, the delta-4 fibrosis score (D4FS)**, combines TE with gamma-glutamyltransferase (GGT), platelet count and ALT: AUROC 0.94 for cirrhosis in the validation cohort.
 - EASL's position: use the **Baveno VII TE thresholds** to identify compensated advanced chronic liver disease (cACLD) and clinically significant [[portal-hypertension|portal hypertension]] (CSPH) — see [[baveno-viii-2026-portal-hypertension]] for the current version.
 
@@ -128,7 +129,7 @@ Supporting detail on NIT performance in CHD (why the cut-offs are unsettled):
 
 - The guideline defines what it means by the stratum: **advanced fibrosis = bridging fibrosis, METAVIR F3 or Ishak stage 4–5**; **cirrhosis = METAVIR F4, Ishak stage 6**.
 - Because **no NIT threshold is validated** to define advanced fibrosis in CHD, the decision to start surveillance **must rest on imaging, clinical or bio-humoral signs** of advanced liver disease rather than on a stiffness number.
-- Non-cirrhotic patients with **bridging (F3) fibrosis** may reasonably be surveilled, especially with other HCC risk factors (alcohol, tobacco, obesity, family history, aflatoxin exposure, sub-Saharan African origin, HIV or HCV coinfection).
+- Non-cirrhotic patients with **bridging (F3) fibrosis** may reasonably be surveilled, especially with other HCC risk factors (alcohol, tobacco, obesity, family history, aflatoxin exposure [e.g. patients from sub-Saharan Africa], HIV or HCV coinfection).
 - **Alpha-fetoprotein (AFP) is optional**, as in the EASL and AASLD HCC guidelines; computed tomography (CT) or contrast-enhanced magnetic resonance imaging (MRI) may be substituted where ultrasound is technically inadequate (severe obesity, hepatic steatosis).
 
 ### Patient Monitoring and Selection for Treatment
@@ -174,8 +175,8 @@ Supporting detail:
 - **PegIFNα is contraindicated in decompensated cirrhosis.** In compensated cirrhosis, specifically look for **CSPH and oesophageal [[variceal-upper-gi-bleeding|varices]]** — the risk of major adverse events is higher in this subset and the cost/benefit must be weighed carefully.
 - **Virologic response (undetectable HDV RNA 24 weeks post-treatment): 29% (17–47%)** in a meta-analysis of 13 studies; pegIFNα outperformed standard IFNα (**25% vs 17%**).
 - **More than 50% of responders at 24 weeks post-treatment relapse later, up to 10 years after the end of treatment** — yet patients undetectable at 6 months post-treatment, or at any point in follow-up, still had **fewer liver-related events** than non-responders.
-- **On-treatment prediction:** week-24 HDV RNA is the strongest predictor — undetectable HDV RNA at week 24 had a **PPV of 100%** for virologic response at 24 weeks post-treatment. A **<1 log decline at the end of therapy** identified non-response with 67% sensitivity, 85% specificity, 67% PPV, **91% NPV**. HBsAg **<1,000 IU/mL at week 24**, and a **1.61 log HDV RNA decline at week 24** (AUROC 0.791, sensitivity 86%, specificity 68%), separate responders from non-responders.
-- **Prolongation beyond 48 weeks** (to 2 years) increased virologic response in some studies but **did not improve liver histology in most patients**; it may be considered in good-compliance patients with a slow virologic response or progressive HBsAg decline.
+- **On-treatment prediction:** week-24 HDV RNA is the strongest predictor — undetectable HDV RNA at week 24 had a **PPV of 100%** for virologic response at 24 weeks post-treatment. Week-24 HDV RNA response (**≤1 log decline**) identified non-response (<1 log decline at end of therapy) with 67% sensitivity, 85% specificity, 67% PPV, **91% NPV**. HBsAg **<1,000 IU/mL at week 24**, and a **1.61 log HDV RNA decline at week 24** (AUROC 0.791, sensitivity 86%, specificity 68%), separate responders from non-responders.
+- **Prolongation to 2 years** did **not** increase virologic response in most studies, but **liver histology improved in most patients treated for 96 weeks** (HIDIT-II); it may be considered in good-compliance patients with a slow virologic response or progressive HBsAg decline.
 - Combining pegIFNα with **NAs or ribavirin does not improve the virologic response.**
 - **Watch for autoimmune hepatitis triggered by treatment** — anti-liver-kidney microsomal (LKM)-3 antibodies are frequently detected in CHD (up to 13% in Italian cohorts), and [[autoimmune-hepatitis]] can be triggered in a minority of patients.
 
@@ -187,7 +188,7 @@ Supporting detail:
 |---|---|---|
 | 18 | **All patients with CHD and compensated liver disease should be considered for BLV** | LoE 3, strong recommendation, consensus |
 | 19 | **The optimal dose and duration have not yet been defined** (LoE 5, consensus). Until further data are available, **long-term treatment with BLV 2 mg once daily may be considered** | LoE 5, weak recommendation, consensus |
-| 20 | The **combination of pegIFNα and BLV may be considered** in patients without pegIFNα intolerance or contraindications | LoE 5, weak recommendation, strong consensus |
+| 20 | The **combination of pegIFNα and BLV may be considered** in patients without pegIFNα intolerance or contraindications | LoE 5, weak recommendation, consensus |
 
 Supporting detail:
 
@@ -198,7 +199,7 @@ Supporting detail:
 - **Safety:** well tolerated, no drug-related serious adverse events or treatment discontinuations across studies. Mild fatigue, nausea, headache, dizziness, platelet/white-cell reduction; injection-site reactions mild and transient.
 - ⚠ **Bile acids rise in everyone on BLV** — a transient, dose-related increase in total bile acids was reported in all studies (median values up to **20 µmol/L on 2 mg and 80 µmol/L on 10 mg**), and is **symptomless, including no pruritus**.
 - ⚠ **Drug interactions:** BLV partially inhibits **OATP1B1 and OATP1B3** at higher doses (not usually reached at the approved 2 mg subcutaneous dose) — avoid co-administering NTCP substrates where possible, including **fluvastatin, atorvastatin, pravastatin, rosuvastatin and thyroid hormones**. Co-administration of tenofovir and BLV **decreased clearance of the CYP3A substrate midazolam**.
-- Where available, **BLV plus pegIFNα should be offered to compliant patients and preferably within clinical protocols.**
+- Where available, **BLV plus pegIFNα should be offered to compliant patients and possibly within clinical protocols.**
 - **NAs must be considered at the time of BLV discontinuation** and initiated if HBV replication relapses, because blocking entry of both viruses exposes the patient to HBV reactivation on stopping.
 
 *Question: When should NAs be used in patients with CHD?*
@@ -239,7 +240,7 @@ Supporting detail:
 | # | Recommendation | Grade |
 |---|---|---|
 | 26 | Virological response should be **determined during and after therapy** | LoE 3, strong recommendation, strong consensus |
-| 27 | **HDV RNA quantified every 6 months during treatment**, and whenever there is a clinical indication | LoE 5, strong recommendation, strong consensus |
+| 27 | **HDV RNA quantified every 6 months during treatment**, and whenever there is a clinical indication | LoE 5, strong recommendation, consensus |
 | 28 | **PegIFNα-based finite therapy:** test HDV RNA **at the end of treatment, at 6 and 12 months, and yearly thereafter** | LoE 4, strong recommendation, strong consensus |
 | 29 | **On BLV discontinuation:** test HDV RNA **at discontinuation, then 1, 3, 6 and 12 months, and yearly thereafter**, to detect relapse of viral replication | LoE 4, strong recommendation, consensus |
 | 30 | **HBsAg testing every year** during and after therapy | LoE 3, strong recommendation, consensus |
@@ -252,7 +253,7 @@ Supporting detail:
 |---|---|---|
 | 33 | Test **biochemical markers of liver disease activity — aminotransferases, full blood count, and liver function tests whenever clinically indicated** — during antiviral treatment | LoE 3, strong recommendation, strong consensus |
 | 34 | Frequency **at least every 3–6 months**, timing modulated by stage of liver disease and type of treatment | LoE 3, strong recommendation, strong consensus |
-| 35 | **PegIFNα-based finite therapy:** test at the end of treatment, at **least at months 6 and 12** after the end of treatment, and yearly thereafter | LoE 4, strong recommendation, strong consensus |
+| 35 | **PegIFNα-based finite therapy:** test at the end of treatment, at **least at months 6 and 12** after the end of treatment, and yearly thereafter | LoE 4, strong recommendation, consensus |
 | 36 | **On BLV discontinuation:** test at discontinuation and **at least at 1, 3, 6 and 12 months**, or more frequently as clinically needed | LoE 4, strong recommendation, strong consensus |
 
 **Liver imaging, histology and clinical events**
@@ -335,7 +336,7 @@ Operational detail given in the text (not graded):
 - **HCC surveillance population — resolved in favour of AASLD-IDSA 2025.** EASL 2023 restricts 6-monthly ultrasound to CHD with **advanced fibrosis or cirrhosis**; [[aasld-idsa-2025-chb-treatment|AASLD-IDSA 2025]] suggests surveillance in **all HBV-HDV co-infected adults independent of cirrhosis status** (Conditional, Very Low; HCC incidence 18.65 vs 4.84 per 1,000 person-years). Same tier, **AASLD-IDSA 2025 is newer**, so the wiki asserts surveillance for all. EASL's stratum definitions are retained because they are the only ones printed.
 - **Threshold for starting treatment.** [[aga-2025-hepatitis-delta|AGA 2025]] reports the AASLD HBV-guidance indication as **elevated HDV RNA *and* elevated ALT** without quantifying either. EASL 2023 does not use a threshold at all — **all CHD patients are considered**. These are different framings rather than different numbers; the practical effect of EASL's position is that the missing thresholds do not gate treatment.
 - **PegIFNα duration.** AASLD guidance (via AGA 2025) gives **12 months**; EASL gives **48 weeks** as the preferred schedule, with personalised durations permitted. No document reconciles the four-week difference.
-- **Bulevirtide dose and duration remain formally undefined** (LoE 5). EASL suggests **2 mg long-term**; the US expanded-access programme uses **10 mg**, while EASL's own data show 10 mg gives no efficacy advantage.
+- **Bulevirtide dose and duration remain formally undefined** (LoE 5). EASL suggests **2 mg long-term**; the US expanded-access programme supplies **10 mg** ([[aga-2025-hepatitis-delta|AGA 2025]]), while EASL's own data show 10 mg gives no efficacy advantage.
 - **NIT cut-offs in CHD are not established** — the guideline says so explicitly rather than giving a number, and the CHD-specific D4FS is not yet validated for routine use.
 - **Does HDV viraemia level carry prognostic weight?** The guideline leaves this open: higher viral load correlates with higher aminotransferases and worse clinical outcomes in some cohorts, but whether viraemia level itself is prognostic "remains to be clarified."
 - **HBIG discontinuation after 1–2 years post-transplant** is an open safety question the panel flags for trials.

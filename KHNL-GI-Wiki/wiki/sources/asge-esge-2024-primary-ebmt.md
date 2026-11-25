@@ -3,7 +3,8 @@ title: "American Society for Gastrointestinal Endoscopy–European Society of Ga
 category: source
 tags: [endoscopic-bariatric-therapy, ebmt, obesity, intragastric-balloon, endoscopic-sleeve-gastroplasty, endoscopic-gastric-remodeling, aspiration-therapy, duodenojejunal-bypass-liner, duodenal-mucosal-resurfacing, guideline, grade]
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/ASGE/ASGE-ESGE 2024 Primary Endoscopic Bariatric and Metabolic Therapies (Jirapinyo).pdf"
 ---
@@ -32,7 +33,7 @@ The panel included bariatric endoscopists, a bariatric surgeon, obesity medicine
 
 **Why weight loss is the target.** Comorbidity endpoints begin to improve at **5% TWL** (falls in glucose, insulin, triglycerides and alanine aminotransferase). The guideline cites further thresholds: **7% TWL** reduced incident type 2 diabetes mellitus (T2DM) in the Diabetes Prevention Program; **≥8% TWL** gave the greatest HbA1c reduction in Look AHEAD; **≥10% TWL** reduced cardiovascular and all-cause mortality. In metabolic dysfunction–associated steatohepatitis (MASH), **≥10% TWL** resolved MASH in 90% and regressed fibrosis in 45%.
 
-**Bottom line.** **IGB and EGR are suggested with LM** (conditional, moderate certainty) and were the only EBMTs commercially available and routinely used when the guideline was written. AT and DJBL would be suggested if they return to the market. TPS and DMR should be used **only in clinical trials**. Every EBMT should be offered **with LM** (diet, physical activity, behavioral therapy) inside a multidisciplinary team. The panel attributes the conditional strength largely to **reduced equity**: most countries do not cover EBMTs, so only patients who can pay have access.
+**Bottom line.** **IGB and EGR are suggested with LM** (conditional, moderate certainty) and were the only EBMTs commercially available and routinely used when the guideline was written. AT and DJBL would be suggested if they return to the market. TPS and DMR should be used **only in clinical trials**. Every EBMT should be offered **with LM** (diet, physical activity, behavioral therapy) inside a multidisciplinary team. The IGB and EGR conditional recommendations are driven primarily by **moderate variability in patient values and preferences**; the Discussion adds **reduced equity** (no widespread coverage, so only patients who can pay have access) as a major factor.
 
 ## Key Findings / Claims
 
@@ -43,7 +44,7 @@ The panel included bariatric endoscopists, a bariatric surgeon, obesity medicine
    - BMI 27.0–29.9 with a comorbidity: data exist for **IGB, EGR and DJBL**. The cutoff of 27 is conservative because most overweight studies started at 27 or 28, and half required a comorbidity (T2DM).
    - Class III obesity: data exist for **IGB, EGR, AT and DJBL**.
    - **No upper BMI limit**, because EBMTs serve as primary therapy or as a bridge to bariatric surgery. Studies enrolled BMIs up to 78 kg/m².
-   - Pooled weight loss: **11.9% TWL** (95% confidence interval [CI] 7.7–16.0) at 6–12 months for BMI 27–29.9; **13.1% TWL** (10.8–15.4) for class III. In classes I–II (14 randomized controlled trials [RCTs], n = 2787), the **MD was 7.1% TWL** (5.4–8.8) over LM at 12 months, or at IGB removal. The treated arms ranged from 5.0% to 18.6% TWL.
+   - Pooled weight loss: **11.9% TWL** (95% confidence interval [CI] 7.7–16.0) at 6–12 months for BMI 27–29.9; **13.1% TWL** (10.8–15.4) for class III. In classes I–II (14 randomized controlled trials [RCTs], n = 2787), the **MD was 7.1% TWL** (5.4–8.8) over LM at 12 months, or at IGB removal (the Discussion gives 6.3% [5.3–7.3] at 12 months). The treated arms ranged from 5.0% to 18.6% TWL.
    - HbA1c: −1.0% (BMI 27–29.9) and −1.3% (class III) at 12 months; in classes I–II, the MD was 0.7% over control.
    - SAEs: **2.7%** (BMI 27–29.9) and **6.9%** (class III). In classes I–II, the risk ratio was **4.4 vs control**, or **14 extra SAEs per 1000**; the treated arms ranged from 0% to 10.6%.
 
@@ -52,7 +53,7 @@ The panel included bariatric endoscopists, a bariatric surgeon, obesity medicine
    - 7 RCTs: the **MD was 6.9% TWL** (4.1–9.7) at removal (6–8 months), 10.7% vs 3.4%. At 12 months the **MD was 4.4% TWL** (2.9–6.0), 7.9% vs 3.3%. Patients should expect to **regain some weight within 6 months of removal**.
    - SAEs: **32 extra per 1000** (58/1028 vs 0/798), an SAE rate of 5.6%, mostly short-lived accommodative nausea, vomiting, dehydration and pain. Examples: esophageal injury 4/473, gastric ulcer or bleeding 5/650, severe dehydration 5/704, aspiration pneumonia 2/42, perforation 2/653, obstruction 1/802, deaths 0/741.
    - Mechanism: at least 400 mL of space occupation, plus slower gastric emptying. Both need the balloon in place, which explains regain after removal. Repeat IGB was not evaluated.
-3. **Undergoing IGB placement:** suggest **antiemetics periprocedurally**. — *Conditional, very low certainty.* Expert survey (15 experts, 2587 fluid-filled IGBs): all gave antiemetics before placement, most often ondansetron (93%), aprepitant (73%), dexamethasone (60%) and a scopolamine patch (60%). Postoperative nausea and vomiting (PONV) occurred in 31.6% within 72 h, with an emergency department (ED) visit in 7.7%. On discharge, 93% prescribed ondansetron (86%), a scopolamine patch (64%), aprepitant (36%) or lorazepam (36%); PONV was 24.5% and ED visits 9.2% within 30 days.
+3. **Undergoing IGB placement:** suggest **antiemetics periprocedurally**. — *Conditional, very low certainty.* Expert survey (15 experts, 2587 fluid-filled IGBs): all gave antiemetics before placement, most often ondansetron (93%), aprepitant (73%), dexamethasone (60%) and a scopolamine patch (60%). Postoperative nausea and vomiting (PONV) occurred in 31.6% within 72 h, with an emergency department (ED) visit in 7.7%. On discharge, 93% prescribed ondansetron (86%), a scopolamine patch (64%), aprepitant (36%) or lorazepam (36%); PONV was 24.5% (Supplementary Table 23: 25.5%) and ED visits 9.2% within 30 days.
 4. **Undergoing IGB placement:** suggest **pain medications periprocedurally**. — *Conditional, very low certainty.* No regimen is specified (choose by institutional policy, clinical context and availability). Survey: 80% prescribe acetaminophen (67%), hyoscyamine (58%) or opioids (42%); 27.5% have pain and 3.1% visit the ED for pain within 30 days. **Use opioids sparingly**, because about 10% of opioid-naive bariatric surgical patients become addicted after a periprocedural dose.
 5. **Undergoing IGB placement:** suggest **proton pump inhibitors (PPIs) while the IGB is in place**, over no PPIs. — *Conditional, very low certainty.* There is no comparative study. Most RCT patients took PPIs and had gastric ulcer or bleeding SAEs <1%. All 15 experts prescribe a PPI for the whole dwell time.
 
@@ -101,6 +102,6 @@ The panel included bariatric endoscopists, a bariatric surgeon, obesity medicine
 
 ## Contradictions / Open Questions
 - **PPI with IGB: same direction, different strength.** [[aga-2021-intragastric-balloons|AGA 2021]] **recommends** a PPI (strong, moderate certainty). ASGE–ESGE 2024 **suggests** one (conditional, very low certainty). Both say to use it. The newer guideline wins the page; the difference is surfaced on [[intragastric-balloon]].
-- **BMI eligibility is wider than AGA.** AGA 2021's only IGB criterion is BMI 30–40 kg/m², the range US trials enrolled. ASGE–ESGE 2024 adds **27–29.9 with a comorbidity** and sets **no upper limit**. AGA 2017 gave no EBT BMI cut-point at all.
+- **BMI eligibility is wider than AGA.** AGA 2021 selects on failed conventional weight-loss strategies; BMI 30–40 kg/m² is only the range US trials enrolled. ASGE–ESGE 2024 adds **27–29.9 with a comorbidity** and sets **no upper limit**. AGA 2017 gave no EBT BMI cut-point at all.
 - **Wording mismatch inside this guideline:** Recommendation 9 says "prophylactic antibiotics" in Table 1 and "short-term antibiotics" in the text. Recommendation 10 says "short-term PPIs periprocedurally" in Table 1 and "short-term PPIs after the procedure" in the text. The EGR hospital-care rate for PONV within 72 h is 2.5% in the supplementary table and 2.9% in the appendix text.
 - **Metoclopramide:** the EGR survey lists it as a discharge antiemetic (29%). The Brazilian IGB consensus advises against it after balloon placement. These are different procedures, so this is not a direct conflict.

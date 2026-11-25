@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Guidelines on Intragastric Balloons in the Managem
 category: source
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, guideline, aga, ppi]
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 Intragastric Balloons for Obesity.pdf"
 ---
@@ -80,7 +81,7 @@ Numbering, strength, and certainty below are the guideline's own (its Table 3). 
 - **PPI (Rec 3):** no RCT has directly assessed PPI use in IGB patients. Indirect evidence — PPIs reduce rebleeding risk in high-risk upper gastrointestinal (GI) bleeding stigmata; in 4 RCTs, IGB patients given PPI had fewer device-/non-procedure-related serious adverse events, especially upper GI bleeding. Rationale: gastric mucosa can erode and bleed during and after placement. Use the lowest dose, frequency, and duration given PPI risks (enteric infections incl. *Clostridium difficile*, community-acquired pneumonia, bone fracture, kidney disease, micronutrient deficiency).
 - **Antiemetics (Rec 4):** 2 RCTs. Midazolam + ondansetron vs ondansetron alone trended toward benefit for nausea/vomiting (RR 0.57; 95% CI 0.32–1.02), with lower early balloon removal (0/29 vs 3/28; RR 0.14; 95% CI 0.01–2.56). A second trial (alizapride, tropisetron, tropisetron + droperidol) was not applied because those agents have limited US availability. Evidence graded low to very low; no specific regimen endorsed.
 - **Nutritional screening (Rec 5):** no direct and no indirect evidence for perioperative laboratory screening. Observational bariatric data: preoperative thiamine deficiency 0%–29% (5 studies), folate deficiency 0%–24% (4 studies), no hypomagnesemia in 3 pre-sleeve-gastrectomy cohorts. The panel still advises individual clinical judgment on whether to screen.
-- **Multivitamins (Rec 6):** no direct evidence for post-IGB dosing. In bariatric cohorts, prophylactic 1–3 multivitamin tablets/day left postoperative thiamine deficiency at 0%–9%; 1 multivitamin/day maintained normal folate for 3–12 mo; de novo folate deficiency 6%–9.2% without prophylaxis; hypomagnesemia persisted up to 5 y despite 1–2 multivitamins with minerals; asymptomatic hypokalemia from vomiting 6.8%–8.5% at 1 week post-placement.
+- **Multivitamins (Rec 6):** no direct evidence for post-IGB dosing. In bariatric cohorts, prophylactic 1–3 multivitamin tablets/day left postoperative thiamine deficiency at 0%–9%; 1 multivitamin/day maintained normal folate for 3–12 mo; de novo folate deficiency 6%–9.2% without prophylaxis; no hypomagnesemia up to 5 y after sleeve gastrectomy with 1–2 multivitamins with minerals (3 cohorts, n = 205); asymptomatic hypokalemia from vomiting 6.8%–8.5% at 1 week post-placement.
 - **Post-removal (Rec 7):** sibutramine 10 mg/day vs moderate-/high-intensity diet for 6 mo after removal — both groups lost 17 kg and >6 kg/m² BMI at 1 y, pharmacotherapy only slightly better (>10% total weight loss RR 1.50, 95% CI 0.81–2.78). Liraglutide 3 mg/day added to IGB for 6 mo beat IGB alone (10% total weight loss MD 14.72%, 95% CI 8.81–21.26; weight MD 3.8 kg loss, 95% CI 2.43–5.17). Sequential IGB (2 RCTs; second balloon, 13-mo endpoint) gave greater BMI reduction (MD 5.49 kg/m², 95% CI 4.82–6.16) but more frequent risks/complications. Bariatric surgery after IGB (1 observational cohort): 16.6 kg/m² greater BMI reduction and 42.5% greater excess weight loss at 12 mo vs refusing maintenance. IGB before laparoscopic gastric banding shortened hospitalization by 1 day and lowered intraoperative risk and moderate-to-severe postoperative complications. Overall quality of evidence: low.
 - **BMI eligibility note:** US trials were limited to BMI 30–40 kg/m²; some international trials included patients outside that range.
 
@@ -88,7 +89,7 @@ Numbering, strength, and certainty below are the guideline's own (its Table 3). 
 
 ## What the Guideline Does Not Specify
 
-- No contraindications to IGB placement, no patient-selection criteria beyond the BMI 30–40 kg/m² range studied in US trials, and no age criteria.
+- No contraindications to IGB placement and no age criteria; selection is Rec 1 (adults with obesity seeking weight loss who failed conventional strategies) — BMI 30–40 kg/m² is only the range the US trials enrolled.
 - No balloon dwell time or removal timing is prescribed; outcomes are simply reported at 6, 9, and 12 months after placement.
 - No fill volume, filling medium, or named device is specified — device choice is left to shared decision-making.
 - No PPI agent, dose, frequency, or duration is given; the instruction is only to use the lowest dose, frequency, and duration.

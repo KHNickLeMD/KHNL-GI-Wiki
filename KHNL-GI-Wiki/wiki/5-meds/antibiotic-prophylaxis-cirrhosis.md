@@ -77,7 +77,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 | Outcome | No prophylaxis vs prophylaxis (12 trials) | Shorter vs longer cephalosporin (2 trials) | All trials — shorter, incl. none, vs longer (14 trials) |
 |---|---|---|---|
 | All-cause mortality | **+2.1%** (−1.9 to 6.6); 89.8% | −3.4% (−11.4 to 4.7); 97.9% | +0.9% (−2.6 to 4.9); 97.3% |
-| Bacterial infection | **+18.8%** (8.6 to 29.4); 0.5% | −5.0% (−29.1 to 19.0); 81.0% | +15.2% (5.0 to 25.9); noninferiority not met |
+| Bacterial infection | **+18.8%** (8.6 to 29.4); 0.5% | −5.0% (−29.1 to 19.0); 81.0% | +15.2% (5.0 to 25.9); 2.4% |
 | Early rebleeding | +4.0% (−4.2 to 12.3); 60.6% | −1.5% (−18.2 to 15.2); 79.8% | +2.9% (−4.2 to 10.0); 73.8% |
 
 - Each cell: **risk difference (RD), 95% credible interval, then the probability of noninferiority** against a prespecified **5% margin**. A **positive RD is worse with the first-named (shorter or absent) strategy** ([[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]).
@@ -110,4 +110,4 @@ See [[variceal-upper-gi-bleeding]] for full clinical context and [[antibiotic-pr
 5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
 6. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
 7. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
-8. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
+8. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prosty 2025: Prophylactic Antibiotics for Upper GI Bleeding in Cirrhosis — Systematic Review and Bayesian Meta-Analysis]]

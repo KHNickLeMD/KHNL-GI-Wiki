@@ -3,7 +3,8 @@ title: "AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Tra
 category: source
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, brto, rifaximin, guidance, aasld]
 created: 2026-06-04
-updated: 2026-11-01
+updated: 2026-11-25
+verified: 2026-11-25
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2024 TIPS Variceal Embolization RTO.pdf"
 ---
@@ -22,13 +23,13 @@ raw: "GI Guidelines/AASLD/AASLD 2024 TIPS Variceal Embolization RTO.pdf"
 
 ## Summary
 
-This guidance covers transjugular intrahepatic portosystemic shunt (TIPS) and adjunctive endovascular techniques (variceal embolization, balloon-occluded retrograde transvenous obliteration [BRTO]/retrograde transvenous obliteration [RTO]) for complications of [[portal-hypertension]] — variceal hemorrhage, refractory [[ascites]], and hepatic hydrothorax. It standardizes stent type, target gradient, peri-procedural [[hepatic-encephalopathy]] prophylaxis, and the role of preemptive ("early") TIPS.
+This guidance covers transjugular intrahepatic portosystemic shunt (TIPS) and adjunctive endovascular techniques (variceal embolization, balloon-occluded retrograde transvenous obliteration [BRTO]/retrograde transvenous obliteration [RTO]) in the management of **variceal hemorrhage** in [[portal-hypertension]] (refractory [[ascites]] and hepatic hydrothorax appear only as background; no statement addresses them). It standardizes stent type, target gradient, peri-procedural [[hepatic-encephalopathy]] prophylaxis, and the role of preemptive ("early") TIPS.
 
 ---
 
 ## Key Guidance Statements
 
-*All 34 guidance statements, verbatim. This document is **consensus practice guidance — not GRADE-rated**, so no statement carries a strength or certainty rating; the numbering is the document's own. Grouped under the document's headings.*
+*All 34 guidance statements, verbatim. This document is **consensus practice guidance — not GRADE-rated**, so no statement carries a strength or certainty rating; the numbering is the document's own. Group labels are the wiki's, following the document's sections (GS 1–5 Technique; GS 6–9 Follow-up after TIPS placement).*
 
 **TIPS — technique and hemodynamics**
 
@@ -97,7 +98,7 @@ Priority research areas named by the document: optimal intraprocedural PSPG decr
 
 ## Contradictions / Open Questions
 
-- **The numeric futility rule (GS 23) has been withdrawn by the consortium that wrote it.** These thresholds were inherited from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31. [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 replaces them — salvage TIPS should be discussed for any refractory variceal bleeding regardless of age and of the Child-Pugh and MELD scores, case by case (level of evidence 3, strong) — and its research agenda calls for a new externally validated futility score. Both are tier-1 and Baveno VIII is newer, so [[tips]] follows Baveno VIII and keeps the AASLD numbers only as the still-widely-carried older rule.
+- **Numeric futility rule (GS 23) — dropped by Baveno VIII.** AASLD bases GS 23 on cited cohort data (MELD >30, lactate >12 mmol/L, Child-Pugh >13); [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31 carried similar numbers. [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 (modified from 6.31) drops them — salvage TIPS should be discussed for any refractory variceal bleeding regardless of age and of the Child-Pugh and MELD scores, case by case (level of evidence 3, strong) — and its research agenda (RA5.13) calls for a new externally validated futility score. Both are tier-1 and Baveno VIII is newer, so [[tips]] follows Baveno VIII and keeps the AASLD numbers only as the still-widely-carried older rule.
 - **Preemptive-TIPS criteria:** Baveno VIII 5.31 adds a third limb (HVPG ≥20 mm Hg at the time of bleeding) and extends the window when 72 h is missed (5.32); GS 20 has neither.
 - **Rifaximin prophylaxis:** GS 6 scopes it to elective TIPS for rebleeding prevention; Baveno VIII 6.16 broadens it to any elective-TIPS candidate.
 - **Accelerated obliteration variants:** GS 12 prefers CARTO/PARTO at experienced institutions, where [[aga-2021-bleeding-gastric-varices|AGA 2021]] holds that they are not supported by the same volume of data as conventional BRTO. AASLD 2024 is newer and governs on [[tips]].
@@ -106,7 +107,7 @@ Priority research areas named by the document: optimal intraprocedural PSPG decr
 
 ## Clinical Relevance
 
-Defines modern TIPS practice: covered stents, gradient-guided dilation, early TIPS for high-risk bleeders, and rifaximin to limit post-TIPS encephalopathy — integrating shunt and obliteration techniques across [[variceal-upper-gi-bleeding]] and refractory [[ascites]]. Also relevant to [[portal-vein-thrombosis]] and [[budd-chiari-syndrome]] management.
+Defines modern TIPS practice: covered stents, gradient-guided dilation, early TIPS for high-risk bleeders, and rifaximin to limit post-TIPS encephalopathy — integrating shunt and obliteration techniques across [[variceal-upper-gi-bleeding]]. Also relevant to [[portal-vein-thrombosis]] and [[budd-chiari-syndrome]] management.
 
 ---
 
