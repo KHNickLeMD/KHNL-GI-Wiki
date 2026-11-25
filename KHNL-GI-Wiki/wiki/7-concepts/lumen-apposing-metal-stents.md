@@ -4,6 +4,8 @@ category: concept
 tags: [lams, therapeutic-eus, transmural-drainage, stents, eus-gbd, pancreatic-fluid-collection, eus-ge, edge, device]
 created: 2026-11-04
 updated: 2026-11-25
+quality_reviewed: 2026-11-25
+verified: 2026-11-25
 sources: [i-eus-2026-eus-gastroenterostomy, asge-2026-colonic-strictures, asge-2021-gastroduodenal-obstruction, aga-2023-eus-gallbladder-drainage, asge-2016-pancreatic-fluid-collections, acg-2025-eus-quality, aga-2021-malignant-alimentary-tract-obstruction, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -92,7 +94,7 @@ Sources: [[aga-2023-eus-gallbladder-drainage]] (both techniques), [[aga-2020-cpu
 ### Puncture-to-Lumen Distance
 
 - **Gallbladder: enteral puncture site <10 mm from the gallbladder lumen** for safe deployment ([[aga-2023-eus-gallbladder-drainage]]).
-- Farther than that → a different route, not a longer stent: AGA 2023's Figure 3 algorithm sends a gallbladder **>10 mm from the gastrointestinal (GI) tract wall** to transpapillary drainage first ([[aga-2023-eus-gallbladder-drainage]]; route choice on [[acute-cholecystitis]]).
+- Farther than that → AGA 2023's Figure 3 algorithm sends a gallbladder **>10 mm from the gastrointestinal (GI) tract wall** to transpapillary drainage first, EUS-GBD if that fails ([[aga-2023-eus-gallbladder-drainage]]; route choice on [[acute-cholecystitis]]).
 
 ### Troubleshooting
 

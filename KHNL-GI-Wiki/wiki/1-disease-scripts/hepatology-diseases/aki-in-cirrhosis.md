@@ -4,6 +4,8 @@ category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
 updated: 2026-11-25
+quality_reviewed: 2026-11-25
+verified: 2026-11-25
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, aasld-easl-2026-aclf-global-consensus]
 ---
 
@@ -61,7 +63,7 @@ International Club of Ascites (ICA) staging, [[aga-2022-aki-cirrhosis]] Figure 1
 | Stage 2 | **≥2× baseline** |
 | Stage 3 | **>3× baseline** — [[aasld-2024-aclf\|American Association for the Study of Liver Diseases (AASLD) 2024]] Table 3 adds: SCr **>4 mg/dL with an acute rise ≥0.3 mg/dL**, or **initiation of renal replacement therapy (RRT)** |
 
-- **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]] grading:** KDIGO **stage 2–3 or new RRT = renal failure**; stage 1 = renal dysfunction ([[aasld-easl-2026-aclf-global-consensus]] Statement 12, A1). Organ-failure table on the ACLF page.
+- **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]] grading:** KDIGO **stage 2–3 or new RRT = renal failure**; stage 1 = renal dysfunction ([[aasld-easl-2026-aclf-global-consensus]] Statement 12, A1, for stage 2–3; Table 2 for new RRT and stage 1). Organ-failure table on the ACLF page.
 
 ### Classification / Typing
 
@@ -258,7 +260,7 @@ flowchart TD
 - **Continuous RRT preferred** — lower fluid shifts, less hemodynamic instability.
 - Prognosis guarded: mortality **59%** with **>7 days** of RRT.
 - Two-thirds on pretransplant RRT recover renal function with LT; **~14 days** of RRT is the cutoff predicting recovery; each extra pretransplant dialysis day → **3.6%–6%** higher risk of renal nonrecovery.
-- [[aasld-easl-2026-aclf-global-consensus|2026 global ACLF consensus]]: **consider RRT for HRS-AKI that failed pharmacotherapy** if listed for or being considered for LT (Statement 49, B1; same as AASLD 2024 GS 27). HRS-AKI and ATN often coexist in ACLF — a spectrum. Timing individualised; **no routine pre-emptive RRT**, no routine intraoperative RRT during LT, no RRT for hyperammonemia alone without AKI (selected cases: right-sided volume overload, metabolic derangements).
+- [[aasld-easl-2026-aclf-global-consensus|2026 global ACLF consensus]]: **consider RRT for HRS-AKI that failed pharmacotherapy** if listed for or being considered for LT (Statement 49, B1; AASLD 2024 GS 27 states it more strongly — RRT "is recommended" for this group, use individualised). HRS-AKI and ATN often coexist in ACLF — a spectrum. Timing individualised; **no routine pre-emptive RRT**, no routine intraoperative RRT during LT, no RRT for hyperammonemia alone without AKI (selected cases: right-sided volume overload, metabolic derangements).
 
 ### TIPS
 

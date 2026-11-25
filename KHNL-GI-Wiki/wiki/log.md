@@ -97,7 +97,6 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
   - Copy fixed: [[chronic-hepatitis-b]] had an unsupported "(HBV DNA >1×10⁶–10⁷ IU/ml)" on the 8–30% immunoprophylaxis-failure line (ACG p.184 gives no DNA level).
   - Headings changed, so card `{at:}` anchors need re-picking.
   - Out of budget for the independent check.
-- [[aki-in-cirrhosis]] and [[lumen-apposing-metal-stents]]: see below if their checks finished.
 - [[terlipressin]]: copy fix from the AKI review. The HRS-AKI day-1 albumin "1 g/kg (max 100 g)" cap was removed; no source caps the treatment dose (the 100 g/d cap is the volume challenge's).
 
 
@@ -122,6 +121,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
   - New tables: Place in Therapy, and pediatric dose modification (label Table 4).
   - Independent check: about 95 claims, 0 findings.
   - The page is deliberately uncarded.
+- [[lumen-apposing-metal-stents]]: 1,576 body words.
+  - Fidelity fixes:
+    - Three claims misattributed to ASGE 2016 were re-sourced to [[aga-2020-cpu-pancreatic-necrosis]] (now cited and verified): the 1 cm vs 6–7 cm length, cautery-enhanced delivery, and long-dwell bleeding.
+    - The double-pigtail-through-LAMS rationale was reversed (ASGE 2016: flanges remove the need for an anchor).
+    - The <10 mm puncture distance is now gallbladder-only.
+    - "Peptic", not "pyloroduodenal", strictures.
+    - Bleeding 7% is "after PFCD".
+  - Visuals: an indications table (with the EUS choledochoduodenostomy row) and a new dwell-time/removal table (AGA 2023, ASGE 2026, ACG 2025). The 3 callouts were reworked.
+  - Independent check: about 62 claims, 1 minor fix (removed the unsourced "not a longer stent" gloss; added "EUS-GBD if transpapillary fails" from Figure 3).
+- [[aki-in-cirrhosis]]: about 2,400 body words.
+  - Fidelity fixes:
+    - Removed the unsourced "max 100 g" cap on the HRS-AKI treatment albumin.
+    - RRT table re-tied to BPA 12 A–C (the standard RRT criteria belong to the HRS-AKI bridge row, not ATN).
+    - Removed unsourced urine-sediment cut-offs, aminoglycosides, IgA/MPGN, and ECG monitoring.
+    - HRS-AKD is ≥1.5×.
+    - Norepinephrine is "may be preferred in shock" (GS 26).
+  - Surfaced the AASLD Stage 2 vs AGA Stage 1b vasoconstrictor threshold and the ACLF-3 terlipressin difference.
+  - Added: AASLD Table 3 Stage 3, BPA 4 no prophylactic antibiotics, palliative care, and >6 weeks RRT → SLK.
+  - Baveno VIII dropped (US guidelines cover it).
+  - Visual: a Mermaid flowchart redrawn from AGA 2022 Figure 1 (every branch checked against the rendered page).
+  - Terlipressin and albumin dosing detail is now linked to [[terlipressin]] / [[albumin]].
+  - The h4 drug headings were folded into a table.
+  - Independent check: about 110 claims, 2 minor fixes (Statement 12 vs Table 2 attribution; GS 27 "recommended" is stronger than consensus "consider").
+  - Index source count updated 5 → 4.
+  - Card file needs re-correlation (may cite Baveno VIII).
 
 ---
 
