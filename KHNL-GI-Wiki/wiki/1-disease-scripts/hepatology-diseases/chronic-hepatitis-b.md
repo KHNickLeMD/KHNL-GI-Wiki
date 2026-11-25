@@ -4,6 +4,8 @@ category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
 updated: 2026-11-25
+quality_reviewed: 2026-11-25
+verified: 2026-11-25
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver, aga-2025-hepatitis-delta, aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term, aasld-easl-2026-aclf-global-consensus, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -31,7 +33,7 @@ sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2
 ### Establishing the Diagnosis
 
 - **Screening** (Centers for Disease Control and Prevention [CDC] advice, restated by the American Association for the Study of Liver Diseases/Infectious Diseases Society of America [AASLD/IDSA] 2025): all adults **≥18 y at least once**; every pregnant person **each pregnancy** (preferably first trimester), regardless of vaccination or prior testing — **triple panel**: hepatitis B surface antigen (HBsAg), antibody to HBsAg (anti-HBs), total antibody to hepatitis B core antigen (anti-HBc) ([[aasld-idsa-2025-chb-treatment]]).
-- **HBsAg-positive (chronic hepatitis B [CHB]) → next:** quantitative hepatitis B virus (HBV) DNA (polymerase chain reaction [PCR]-based), hepatitis B e antigen (HBeAg), alanine aminotransferase (ALT), fibrosis staging (below).
+- **HBsAg-positive (chronic hepatitis B [CHB]) → next:** quantitative hepatitis B virus (HBV) DNA (polymerase chain reaction [PCR]-based), hepatitis B e antigen (HBeAg), alanine aminotransferase (ALT) (AASLD/IDSA 2025 states this sequence in pregnancy); fibrosis staging for all HBsAg-positive persons (Figure 5; below).
 - **ALT upper limit of normal (ULN): 35 U/L men, 25 U/L women** — recommended to guide management (AASLD/IDSA 2025 Figures 2–3).
 - [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate measure of inflammation severity.
 - **Hepatitis D virus (HDV):** the American Gastroenterological Association (AGA) 2025 clinical practice update suggests **universal anti-HDV screening of all HBV patients**; anti-HDV-positive → HDV RNA to confirm viremia; automated (double) reflex testing where feasible ([[aga-2025-hepatitis-delta]]). Management: [[hepatitis-d]].
@@ -261,7 +263,7 @@ flowchart TD
 - Invasive procedure such as amniocentesis anticipated (raises transmission at HBV DNA **>2,000,000 IU/mL**), or high preterm-labor risk → consider starting earlier.
 - Breastfeeding safe on TDF or TAF. Infant: HBIG + first vaccine dose within 12 h of birth; test HBsAg + anti-HBs at 9–12 months.
 - **American College of Gastroenterology (ACG) 2016** ([[acg-2016-liver-disease-pregnancy]]): **no elective cesarean** to prevent transmission (Rec 24 — strong, very low); breastfeeding allowed (Rec 25 — strong, very low) unless nipples cracked or bleeding; Rec 23 also allowed telbivudine — AASLD/IDSA 2025 prefers TDF/TAF.
-- **AGA 2024 Best Practice Advice (BPA) 12** ([[aga-2024-pregnancy-gi-liver]]) allows continuing to 12 weeks postpartum; AASLD/IDSA 2025 (newer) stops at delivery when prevention is the only indication. Monitor for postpartum flare.
+- **AGA 2024** commentary to Best Practice Advice (BPA) 12 ([[aga-2024-pregnancy-gi-liver]]) allows continuing to 12 weeks postpartum; AASLD/IDSA 2025 (newer) stops at delivery when prevention is the only indication. Monitor for postpartum flare.
 - Obstetric context: [[liver-disease-in-pregnancy]].
 
 ### Post–Liver Transplant Prophylaxis

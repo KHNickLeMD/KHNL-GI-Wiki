@@ -75,8 +75,8 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aga-aasl
 | Mixed | Both Alk Phos and AST/ALT elevated | 2–5 |
 | Isolated hyperbilirubinemia | Bilirubin elevated, Alk Phos and AST/ALT normal | — |
 
-- **R = (ALT ÷ ALT ULN) ÷ (Alk Phos ÷ Alk Phos ULN)**; also applied in [[drug-induced-liver-injury|drug-induced liver injury (DILI)]] ([[acg-2017-liver-chemistries]], Patterns Summary statements 1–5)
-- Bilirubin can also rise in the first three patterns; patterns name the predominant elevation — other tests may be elevated too
+- **R = (ALT ÷ ALT ULN) ÷ (Alk Phos ÷ Alk Phos ULN)**; also used in [[drug-induced-liver-injury|drug-induced liver injury (DILI)]] ([[acg-2017-liver-chemistries]], Patterns Summary statements 1–5)
+- Patterns name the predominant elevation; bilirubin and other tests can rise in the first three
 
 ### Causes of Elevated AST and ALT
 
@@ -113,8 +113,7 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aga-aasl
 ### Step 1 — Repeat/Confirm
 
 - **Repeat the lab panel and/or do a clarifying test** (e.g., GGT if Alk Phos is elevated) to confirm the abnormality before starting an evaluation — Recommendation (Rec) 1, Strong recommendation, very low level of evidence ([[acg-2017-liver-chemistries]])
-- History: liver-disease risk factors, associated conditions (inflammatory bowel disease, hematologic, pulmonary, cardiac disease), alcohol, and **all prescribed and over-the-counter drugs, complementary/alternative medicines, dietary and herbal supplements** (Rec 11, Strong, very low); family history of hemochromatosis, Wilson's disease, A1AT deficiency
-- Exam: stigmata of chronic liver disease and signs pointing to a specific etiology
+- History: risk factors, associated diseases, alcohol, **all prescribed and over-the-counter drugs, complementary/alternative medicines, dietary and herbal supplements** (Rec 11, Strong, very low), family history of inherited liver disease; exam for stigmata of chronic liver disease
 
 ### Step 2 — Pattern Recognition
 
@@ -274,23 +273,21 @@ All Strong recommendation, very low level of evidence unless marked ([[acg-2017-
 
 | Target | Who | Test → next step |
 |--------|-----|------------------|
-| [[hepatitis-c\|Hepatitis C]] | Chronic: risk factors (intranasal/intravenous drug use, tattoos, piercings, transfusions, high-risk sex, born 1945–1965) · acute hepatitis (Rec 2) | Anti-HCV (sensitivity 92–97%; positive 6–8 weeks after exposure) → confirm with HCV RNA by nucleic acid testing; acute: anti-HCV **and** HCV RNA |
-| [[chronic-hepatitis-b\|Hepatitis B]] | Persistently elevated AST/ALT; highest risk: born where HBsAg prevalence >2%, men who have sex with men, injection drug use, dialysis, HIV, pregnancy, contacts of hepatitis B–infected persons (Rec 3) | Chronic: HBsAg; acute: HBsAg + IgM antibody to hepatitis B core antigen (anti-HBc) · chronic infection → refer to a physician with expertise |
+| [[hepatitis-c\|Hepatitis C]] | Risk factors; acute hepatitis (Rec 2) | Anti-HCV (sensitivity 92–97%) → confirm with HCV RNA by nucleic acid testing; acute: anti-HCV **and** HCV RNA |
+| [[chronic-hepatitis-b\|Hepatitis B]] | Persistently elevated AST/ALT; risk groups (Rec 3) | Chronic: HBsAg; acute: HBsAg + IgM antibody to hepatitis B core antigen (anti-HBc) |
 | [[hepatitis-a\|Hepatitis A]] / [[hepatitis-e\|hepatitis E]] | Acute hepatitis + possible fecal-oral exposure (A); return from endemic areas (Central America, Asia) with negative A, B, C tests (E) (Rec 4) | IgM HAV; IgM hepatitis E virus (HEV) |
 | NAFLD | Mild ALT elevation + elevated BMI or metabolic syndrome features (diabetes, overweight/obesity, hyperlipidemia, hypertension) (Rec 5) | Ultrasound; [[liver-stiffness-measurement\|vibration-controlled transient elastography]] with controlled attenuation parameter may help (role still emerging) |
 | Alcoholic liver disease | Women >140 g/week, men >210 g/week, with AST>ALT → at risk (Rec 6) | Counsel alcohol cessation; GGT complementary, not diagnostic |
 | [[hereditary-hemochromatosis\|Hemochromatosis]] | All abnormal liver chemistries **in the absence of acute hepatitis** (Rec 7) | Iron, transferrin saturation, ferritin → HFE mutation analysis if saturation ≥45% and/or ferritin elevated; ferritin is an acute-phase reactant |
-| [[autoimmune-hepatitis\|AIH]] | Abnormal AST and ALT, especially with other autoimmune conditions (Rec 8) | ANA, ASMA, globulin level; diagnosis requires liver biopsy |
+| [[autoimmune-hepatitis\|AIH]] | Abnormal AST and ALT, especially with other autoimmune conditions (Rec 8) | ANA, ASMA, globulin level |
 | [[wilson-disease\|Wilson's disease]] | Persistently elevated AST and ALT, especially age <55 y (Rec 9) | Ceruloplasmin → if low: 24-h urine copper + slit-lamp exam for Kayser-Fleischer rings |
-| [[alpha-1-antitrypsin-deficiency-liver-disease\|A1AT deficiency]] | Persistently elevated AST or ALT (Rec 10: A1AT phenotype) | 2026 consensus: serum level with normal C-reactive protein (CRP) — <11 μM (<57 mg/dL) likely ZZ · 11–20 μM (57–90 mg/dL) mild/intermediate · >20 μM (>90 mg/dL) minimal risk of severe deficiency → genotyping (preferred) or isoelectric-focusing phenotyping; MZ can have a normal level ([[aga-aasld-easl-2026-aatd-liver-disease]]) |
+| [[alpha-1-antitrypsin-deficiency-liver-disease\|A1AT deficiency]] | Persistently elevated AST or ALT (Rec 10) | Rec 10: A1AT phenotype. Newer 2026 consensus: serum level with normal C-reactive protein (CRP) — <11 μM (<57 mg/dL) likely ZZ · 11–20 μM (57–90 mg/dL) mild/intermediate · >20 μM (>90 mg/dL) minimal risk of severe deficiency → genotyping (preferred) or isoelectric-focusing phenotyping; MZ can have a normal level ([[aga-aasld-easl-2026-aatd-liver-disease]]) |
 | DILI | All abnormal liver chemistries (Rec 11) | Medication and supplement history; LiverTox (livertox.nih.gov) |
 | PBC / PSC | Alk Phos elevation ± bilirubin (Recs 14–15) | AMA (positive in >95% of PBC) · MRCP or ERCP + IgG4 ([[igg4-related-cholangitis\|IgG4-associated form]]) |
 | [[celiac-disease\|Celiac disease]] | Persistently elevated liver chemistries | Tissue transglutaminase IgA + serum IgA, or tissue transglutaminase IgA + deamidated gliadin peptide IgG |
 | Muscle disease | AST-predominant, after common causes excluded | Creatine kinase and/or aldolase |
 | Thyroid disease | Compatible history | Thyroid stimulating hormone; selective free thyroxine (T4), free/total triiodothyronine (T3) |
 | Tick-borne illness | Endemic region + compatible history | Borrelia burgdorferi, ehrlichiosis/anaplasmosis, babesiosis testing |
-
-- Rec 10 (2017) screened by A1AT phenotype alone; the newer 2026 consensus starts with the serum level and confirms by genotype
 
 ### Imaging
 
@@ -301,11 +298,10 @@ All Strong recommendation, very low level of evidence unless marked ([[acg-2017-
 ### Liver Biopsy Indications
 
 - **When serology and imaging fail to give a diagnosis, to stage a condition, or when multiple diagnoses are possible** — Rec 12, Strong, very low ([[acg-2017-liver-chemistries]])
-- Grade and stage: hepatitis B, hepatitis C, NAFLD; **required to diagnose NASH**
-- Confirm a specific diagnosis: Wilson's disease (quantitative copper), hemochromatosis (hepatic iron index), A1AT deficiency (periodic acid–Schiff-positive globules)
+- Grade and stage hepatitis B, hepatitis C, NAFLD; **required to diagnose NASH** and AIH
+- Confirm Wilson's disease (quantitative copper), hemochromatosis (hepatic iron index), A1AT deficiency (periodic acid–Schiff-positive globules)
 - Hemochromatosis: C282Y homozygous or C282Y/H63D compound heterozygous **with elevated AST/ALT or ferritin >1,000 μg/l**, or non-HFE hemochromatosis → biopsy to stage fibrosis and quantify iron
-- AIH: histologic confirmation required
-- PBC: not routinely; for suspected AMA-negative disease or staging · PSC: rarely required
+- PBC: not routinely (suspected AMA-negative disease, staging); PSC: rarely
 
 ---
 
@@ -315,8 +311,7 @@ All Strong recommendation, very low level of evidence unless marked ([[acg-2017-
   - Acute liver failure (prolonged PT and [[hepatic-encephalopathy|hepatic encephalopathy]] without previous liver disease) needs immediate evaluation **regardless of ALT level** → [[acute-liver-failure]], [[liver-transplantation|liver transplant center]] referral
 - **Moderate, severe or massive AST/ALT elevation** → immediate evaluation ([[#Step 3 — AST/ALT Elevation|Step 3]])
 - **Cholestasis + history of cholangitis or colonic inflammatory bowel disease** → cholangiography even if ultrasound is normal ([[primary-sclerosing-cholangitis|PSC]])
-- **Pregnancy** — liver disorders of pregnancy are time-sensitive for mother and fetus; consider by trimester cholelithiasis, intrahepatic cholestasis of pregnancy, acute fatty liver of pregnancy, pre-eclampsia, flare of chronic liver disease ([[acg-2017-liver-chemistries]])
-  - Alk Phos (placental) and albumin (hemodilution) shift normally; any transaminase or bilirubin abnormality needs evaluation → [[liver-disease-in-pregnancy]] ([[acg-2016-liver-disease-pregnancy]])
+- **Pregnancy** — time-sensitive for mother and fetus; by trimester consider cholelithiasis, intrahepatic cholestasis of pregnancy, acute fatty liver of pregnancy, pre-eclampsia, flare of chronic liver disease ([[acg-2017-liver-chemistries]]); Alk Phos (placental) and albumin (hemodilution) shift normally, but any transaminase or bilirubin abnormality needs evaluation ([[acg-2016-liver-disease-pregnancy]]) → [[liver-disease-in-pregnancy]]
 
 | History clue | Suggests ([[acg-2017-liver-chemistries]]) |
 |--------------|----------|
@@ -325,9 +320,6 @@ All Strong recommendation, very low level of evidence unless marked ([[acg-2017-
 | Hypercoagulable state + abnormal liver tests + ascites | [[budd-chiari-syndrome\|Budd-Chiari syndrome]] |
 | Hematologic malignancy with recent chemotherapy | Sinusoidal obstruction syndrome (veno-occlusive disease) |
 | Diabetes, skin pigmentation, cardiac disease, arthritis, hypogonadism | Hemochromatosis |
-| Jaundice + history of blood disorders | Hemolysis |
-| Light-colored stools, pruritus, dark urine | Intrahepatic cholestasis |
-| Fatigue and pruritus with cholestatic chemistries, more often women | PBC |
 
 ---
 

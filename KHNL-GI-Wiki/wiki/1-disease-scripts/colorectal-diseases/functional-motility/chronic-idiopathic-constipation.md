@@ -4,6 +4,8 @@ category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
 updated: 2026-11-25
+quality_reviewed: 2026-11-25
+verified: 2026-11-25
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, aga-2019-opioid-induced-constipation, esge-2020-gi-motility-part-2]
 ---
 
@@ -46,7 +48,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 | Frequency item | Fewer than 3 defecations per week | Fewer than 3 spontaneous bowel movements (SBMs) per week |
 | Unchanged | ≥2 items; loose stools rare without laxatives; insufficient criteria for irritable bowel syndrome (IBS); 3 months, onset ≥6 months before diagnosis | Same |
 
-- **CC vs IBS with constipation (IBS-C):** the distinction is **predominant abdominal pain or discomfort** — pain may occur in CC but is not the predominant feature [[rome-v-2026-bowel-disorders]]. Rome V lowered the IBS pain threshold to **≥3 days/month in the last 3 months** (Rome IV: ≥1 day/week) and re-added "discomfort", so more patients now sort into IBS-C [[rome-v-2026-dgbi]]. IBS-C regimens: [[irritable-bowel-syndrome]].
+- **CC vs IBS with constipation (IBS-C):** the distinction is **predominant abdominal pain or discomfort** — pain may occur in CC but is not the predominant feature [[rome-v-2026-bowel-disorders]]. Rome V lowered the IBS pain threshold to **≥3 days/month in the last 3 months** (Rome IV: ≥1 day/week) and re-added "discomfort" [[rome-v-2026-dgbi]]. IBS-C regimens: [[irritable-bowel-syndrome]].
 - **Outside the AGA–ACG evidence base:** the 2023 joint guideline of the American Gastroenterological Association (AGA) and American College of Gastroenterology (ACG) excluded IBS-C, opioid-induced constipation, and constipation from hypothyroidism or [[celiac-disease|celiac disease]], and does not address malignancy or pregnancy [[aga-acg-2023-constipation]].
 
 ### Severity Assessment
@@ -115,7 +117,7 @@ Alarm features: [[chronic-constipation#Red Flags / Alarm Features]].
 All from [[asge-2014-constipation]]:
 
 - **No endoscopy in the initial evaluation** without alarm features or suspicion of organic gastrointestinal (GI) disease (Rec 1, moderate quality). Yield in isolated constipation is low — comparable to average-risk screening.
-- **Colonoscopy:** rectal bleeding, heme-positive stool, iron deficiency anemia, weight loss, or obstructive symptoms; before surgery for constipation; age >50 y never screened (Rec 3 — screening now starts at 45: [[colorectal-cancer-screening]]).
+- **Colonoscopy:** rectal bleeding, heme-positive stool, iron deficiency anemia, weight loss, or obstructive symptoms; before surgery for constipation; age >50 y never screened (Rec 3; current screening ages: [[colorectal-cancer-screening]]).
   - **Should be considered** in selected patients to exclude obstruction from cancer, stricture or extrinsic compression.
   - Younger patients: flexible sigmoidoscopy may suffice to exclude distal disease.
 - **Incidental findings:** [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer syndrome]] (indicates [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
@@ -159,7 +161,7 @@ All from [[aga-acg-2023-constipation]] Table 1 (strength / certainty) and Table 
 
 ### Step 3: Prescription Agents (when OTC fails)
 
-For adults with CIC **who do not respond to OTC agents**; each may replace or be added to OTC agents [[aga-acg-2023-constipation]]. No head-to-head trials.
+For adults with CIC **who do not respond to OTC agents**; each may replace or be added to OTC agents [[aga-acg-2023-constipation]]. The guideline compared each drug with placebo only and did not aim to rank agents.
 
 | Agent | Class | Rec | Strength / certainty | Dose (Table 4) |
 |---|---|---|---|---|
