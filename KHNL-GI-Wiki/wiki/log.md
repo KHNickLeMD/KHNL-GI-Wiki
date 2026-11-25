@@ -8,6 +8,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ## [2026-11-25] lint | Quality review — release sweep (interactive)
 
+**Totals:**
+- 4 pages reviewed and verified: [[direct-acting-antivirals]], [[peginterferon-alfa-2a]], [[lumen-apposing-metal-stents]], [[aki-in-cirrhosis]].
+- 1 reviewed without verification: [[liver-disease-in-pregnancy]]. It has no stamps and requeues; the run ran out of budget before its check.
+- 15 source pages verified. Management-changing errors fixed: AKI norepinephrine unit, CHB F3/F4 + SHEA, AKI albumin volume-depletion qualifier, AKI BPA omissions.
+- No figures embedded (no CC-licensed source); no card files touched.
+
 **Skipped:** [[gallbladder-cancer]] and [[somatostatin-analogs]] (top of queue) — their NCCN source pages cannot be verified against the raw file because the NCCN licence forbids LLM use; they wait for Nick's decision on NCCN pages.
 
 **Source pages verified:**
