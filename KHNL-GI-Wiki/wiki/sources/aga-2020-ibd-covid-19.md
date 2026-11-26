@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Inflammatory Bowel Disease
 category: source
 tags: [ibd, crohns, ulcerative-colitis, covid-19, immunosuppression, biologic, endoscopy, aga, cpu]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AGA/AGA 2020 CPU IBD During COVID-19.pdf"
 ---
@@ -20,7 +21,7 @@ raw: "GI Guidelines/AGA/AGA 2020 CPU IBD During COVID-19.pdf"
 
 Tier-1 AGA Institute Clinical Practice Update, commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board, with internal and external peer review. Its stated purpose was "to rapidly review the emerging evidence and provide timely expert recommendations regarding the management of patients with inflammatory bowel disease during the coronavirus disease 2019 pandemic."
 
-The document answers a set of questions listed in its Table 1 (risk of infection, risk of coronavirus disease 2019 [COVID-19], effect of bowel inflammation, outcomes, whether therapies increase or protect against risk, whether to modify therapy, infusion centres, and management of the exposed / infected / confirmed-COVID-19 patient). Its operative content is a **three-scenario therapy framework** — the patient with inflammatory bowel disease (IBD) who is **not infected** with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the patient who is **infected but has no manifestations of COVID-19**, and the patient with **confirmed COVID-19** — rendered as a decision algorithm in Figure 1. Guidance is explicitly built on the contemporaneous British Society of Gastroenterology and International Organization for the Study of Inflammatory Bowel Disease (IOIBD) consensus statements, because no outcome data existed.
+The document answers a set of questions listed in its Table 1 (risk of infection, risk of coronavirus disease 2019 [COVID-19], effect of bowel inflammation, outcomes, whether COVID-19 triggers IBD relapse or new-onset IBD, whether therapies increase or protect against risk, whether to modify therapy, infusion centres, and management of the exposed / infected / confirmed-COVID-19 patient). Its operative content is a **three-scenario therapy framework** — the patient with inflammatory bowel disease (IBD) who is **not infected** with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the patient who is **infected but has no manifestations of COVID-19**, and the patient with **confirmed COVID-19** — rendered as a decision algorithm in Figure 1. Guidance is explicitly built on the contemporaneous British Society of Gastroenterology and International Organization for the Study of Inflammatory Bowel Disease (IOIBD) consensus statements, because no outcome data existed.
 
 Its central clinical position is that patients with IBD are **not** at baseline increased risk of SARS-CoV-2 infection or of developing COVID-19, that remission should be maintained rather than therapy pre-emptively stopped, and that the de-escalation of immunosuppression is graded to the presence and severity of the viral illness, not to its mere possibility.
 
@@ -32,7 +33,7 @@ Its central clinical position is that patients with IBD are **not** at baseline 
 
 ### Take-Home Points (verbatim, as numbered by the document)
 
-1. "COVID-19 is the disease caused by the SARS-CoV-2 virus, but patients with IBD do not appear to be at higher risk for infection with SARS-CoV-2 or development of COVID-19."
+1. "COVID-19 is the disease caused by the SARS-CoV-2 virus, but patients with IBD do not appear to be at a higher risk for infection with SARS-CoV-2 or development of COVID-19."
 2. "Patients with IBD who do not have infection with SARS-CoV-2 should not discontinue their IBD therapies and should continue infusion schedules at appropriate infusion centers."
 3. "Patients with IBD who have known SARS-CoV-2 but have not developed COVID-19 should hold thiopurines, methotrexate, and tofacitinib. Dosing of biological therapies should be delayed for 2 weeks of monitoring for symptoms of COVID-19."
 4. "Patients with IBD who develop COVID-19 should hold thiopurines, methotrexate, tofacitinib, and biological therapies during the viral illness. These can be restarted after complete symptom resolution or, if available, when follow-up viral testing is negative or serologic tests demonstrate the convalescent stage of illness."
@@ -45,10 +46,28 @@ Its central clinical position is that patients with IBD are **not** at baseline 
 | Stratum | Definition (as printed in Figure 1) |
 |---|---|
 | **Mild COVID-19** | Not hospitalized, **OR** hospitalized with oxygen saturation (SpO₂) > 94% and no evidence of pneumonia |
-| **Moderate COVID-19** | Hospitalized patient with hypoxia, radiographic evidence of pneumonia |
+| **Moderate COVID-19** | Hospitalized patient with hypoxia, **OR** radiographic evidence of pneumonia |
 | **Severe COVID-19** | Patient requiring mechanical ventilation ± pressors, or evidence of end-organ damage |
 
 Figure 1 footnote — **symptoms and findings of COVID-19** used to trigger testing: fever (83%–99%); cough (59%–82%); fatigue (44%–70%); anorexia (40%–84%); shortness of breath (31%–40%); sputum production (28%–33%); myalgias (11%–35%); headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea (<10%); lymphopenia (83%); computed tomography chest showing bilateral, peripheral ground-glass opacities.
+
+### Figure 1 branches and treatment boxes
+*Figure 1 (p. 353) — paywalled (Elsevier); content recreated as a table.*
+
+| Branch | Figure 1 action |
+|---|---|
+| IBD in remission, no COVID-19 symptoms/findings | Continue IBD therapy |
+| IBD in remission, SARS-CoV-2 test negative | Monitor symptoms for progression in case of false-negative test; continue IBD therapy |
+| Active IBD symptoms, no COVID-19 symptoms, or SARS-CoV-2 test negative | Consider IBD relapse unrelated to COVID-19 → confirm inflammation non-endoscopically (CRP, fecal calprotectin/lactoferrin, other) → sufficient drug present? (thiopurine metabolites or serum biologic concentration) |
+| — drug insufficient, not adherent | Restart prior therapy |
+| — drug insufficient but adherent, or drug sufficient | Judge IBD activity: **mild** → consider topical (rectal) therapies, oral budesonide, symptomatic therapies; **moderate to severe** → treat as you normally would with existing therapy (benefits outweigh risks); consider avoiding thiopurines, methotrexate, tofacitinib |
+| COVID-19 symptoms/findings but tested negative | Consider retesting for SARS-CoV-2 or obtain serologies in 2 weeks |
+| **Mild COVID-19** | 1. Taper corticosteroids/switch to budesonide · 2. Continue 5-ASA, budesonide, rectal therapies, enteral nutrition · 3. Hold thiopurines, methotrexate, tofacitinib · 4. Delay biologics 2 weeks to see if COVID-19 resolves or convalescent titers develop; if not, continue to hold biologics |
+| **Moderate or severe COVID-19** ("treatment considerations for COVID-19") | Items 1–3 as for mild · 4. Delay biologics **at least** 2 weeks to see if COVID-19 resolves or convalescent titers of SARS-CoV-2 develop; if not, continue to hold · 5. Focus on life support and treatment of COVID-19 with anti-inflammatory, anti-cytokine, and/or anti-viral therapies |
+| After COVID-19 | Resume therapies after symptom resolution or when SARS-CoV-2 re-testing is negative or when entering convalescent phase of immunity |
+
+- Footnote \*\*: clearance of SARS-CoV-2 may enable resumption of IBD therapy; role of serologic antibody testing unclear at the time (viral clearance testing may or may not be possible or appropriate).
+- Footnote \*\*\*: treatment of COVID-19 under investigation; consider therapies that have safety and efficacy in IBD.
 
 ### Three-scenario therapy framework
 
@@ -81,8 +100,9 @@ Figure 1 footnote — **symptoms and findings of COVID-19** used to trigger test
 - If results suggest relapsing IBD, treatment should be based on the activity of the inflammation and the severity of the IBD.
 
 ### Hospitalized patient with severe IBD and COVID-19
-- Given poor outcomes in severe acute respiratory syndrome and respiratory syncytial virus patients treated with high-dose corticosteroids, and data suggesting cyclosporine and tacrolimus interfere with SARS-CoV replication, the CPU suggests **limiting intravenous steroids to 3 days**, at which point the decision to proceed to a calcineurin inhibitor or infliximab is made.
-- **Cytomegalovirus testing may be done as a serum polymerase chain reaction** to avoid the need for colonoscopic procedures, with ganciclovir started if quantitatively suggestive of active infection. Clearance of cytomegalovirus is enhanced when IBD therapy is added to ganciclovir, and thiopurines and cyclosporine may have anti-coronavirus properties.
+- Given poor outcomes in severe acute respiratory syndrome and respiratory syncytial virus patients treated with high-dose corticosteroids, and data suggesting cyclosporine and tacrolimus interfere with SARS-CoV replication, the CPU suggests (in the patient hospitalized for IBD with milder or incidentally identified COVID-19) **limiting intravenous steroids to 3 days**, at which point the decision to proceed to a calcineurin inhibitor or infliximab is made.
+- **Cytomegalovirus testing may be done as a serum polymerase chain reaction** to avoid the need for colonoscopic procedures, with ganciclovir started if quantitatively suggestive of active inflammation (as printed). Clearance of cytomegalovirus is enhanced when IBD therapy is added to ganciclovir, and thiopurines and cyclosporine may have anti-coronavirus properties.
+- **Severe COVID-19 in a hospitalized patient:** IBD therapy "likely will take a back seat," but the choice of COVID-19 therapy should take the co-existing IBD into account, if feasible.
 - If a patient is hospitalized for IBD and also has milder or incidentally identified COVID-19, **address the severe acute issues from the IBD** and apply the standard algorithms for hospitalized IBD care.
 - **Surgical consultation is advised as per standard clinical practice.** The desire to minimize surgical intervention during the pandemic puts more emphasis on finding an effective medical "stop-gap," but some patients will still require surgery.
 - For **mildly active disease**, use the safer therapies above. For **moderate to severe disease**, holding therapies may not be safe or practicable; the risks and benefits of escalating IBD therapy must be weighed against the severity of the COVID-19. For an outpatient with mild COVID-19 symptoms, IOIBD supports using any of the usual treatments that would be considered pre-COVID-19.

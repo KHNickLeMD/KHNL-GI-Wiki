@@ -278,7 +278,7 @@ flowchart TD
 
 **Management:**
 1. **Exclude CDI**; **flexible sigmoidoscopy within 24–72 h** (severity + CMV biopsies); **assess for toxic megacolon** (Rec 49 — transverse colon **>5.5 cm** on plain film + toxicity = worse outcome).
-2. **Supportive:** pharmacologic VTE prophylaxis; avoid NSAIDs, [[ibd-pain-management|narcotics]], anticholinergics; no total parenteral nutrition (TPN)/bowel rest; **early surgical consult and colectomy counseling** ([[aga-2026-inpatient-ibd]]).
+2. **Supportive:** pharmacologic VTE prophylaxis; avoid NSAIDs, [[ibd-pain-management|narcotics]], anticholinergics; no total parenteral nutrition (TPN)/bowel rest ([[acg-2025-uc]]); AGA 2026 instead advises NSAIDs with caution and avoiding opioids if possible; **early surgical consult and colectomy counseling** ([[aga-2026-inpatient-ibd]]).
 3. **Intravenous (IV) corticosteroids** ([[aga-2026-inpatient-ibd]]): methylprednisolone **40–60 mg/day** (>60 mg only adds adverse events) or hydrocortisone 100 mg three or four times daily.
    - **Trigger:** ≥6 bloody BM/day + ≥1 systemic sign + **CRP ≥12 mg/L (1.2 mg/dL)** — the real-time stand-in for ESR >30 (95% sensitivity, 85% positive predictive value).
 4. **Day 3 — Oxford (Travis) index** (either predicts **85% colectomy**):

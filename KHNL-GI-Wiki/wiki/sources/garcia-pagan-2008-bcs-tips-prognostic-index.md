@@ -3,7 +3,8 @@ title: "TIPS for Budd-Chiari Syndrome: Long-Term Results and Prognostic Factors 
 category: source
 tags: [budd-chiari, TIPS, prognosis, score, portal-hypertension, liver-transplantation]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Other Studies/Garcia-Pagan 2008 TIPS for Budd-Chiari BCS-TIPS PI.pdf"
 ---
@@ -59,15 +60,15 @@ The authors are explicit that the index is **not externally validated** and "can
 - **OLT-free survival 88% at 1 year, 78% at 5 years**, despite 98% of the cohort being intermediate- or high-risk by Rotterdam.
 - **High-risk stratum: 5-year OLT-free survival 71% vs 42% predicted** by the Rotterdam score.
 - **TIPS technically successful in 93%** of patients in whom it was attempted; a formal contraindication (e.g. chronic complete portal vein thrombosis) existed in only **10%**.
-- Where no hepatic vein stump remained, **direct puncture from the intrahepatic inferior vena cava (IVC)** was used — 47 patients (38%) had the shunt created from the IVC or a hepatic vein stump route.
+- Where no hepatic vein stump remained, **direct puncture from the intrahepatic inferior vena cava (IVC)** was used: portal vein punctured via a hepatic vein stump in 47 patients (38%), from the IVC (transcaval) in 70 (56.5%), not recorded in 7 (5.5%).
 - **Hepatic encephalopathy (HE) after TIPS: 21% actuarial at 1 year** (95% CI 14–29), median onset **1.2 months**. Transient and easily controlled in 22 patients; **4 had recurrent HE and all 4 were listed for OLT**.
 - Only **8 patients (6.5%)** of the whole cohort ultimately required OLT. **66% of patients continued to deteriorate** on medical management before TIPS, which is what selected them.
 - Comparison the authors draw: **84% 5-year survival with TIPS here vs 71.4% with OLT** in the European BCS cohort — with the point that OLT costs a graft and lifelong immunosuppression.
 
 ## Relevance to Wiki
 
-- **[[budd-chiari-syndrome]]** — closes the gap the page declares in its own text: *"Neither guideline prints the component variables or point values of the BCS-TIPS prognostic index, so that score cannot be computed from this page."* The formula, the >7 cut-off and its operating characteristics are now on the page.
-- The page's **Rotterdam Prognostic Index** section ([[darwish-murad-2004-rotterdam-bcs-score]]) gains its direct comparator: this cohort is the evidence that **TIPS beats the Rotterdam-predicted survival in high-risk BCS**, which is why the score cannot be used to withhold TIPS.
+- **[[budd-chiari-syndrome]]** — the BCS-TIPS PI formula, the >7 cut-off and its operating characteristics.
+- The page's **Rotterdam Prognostic Index** section ([[darwish-murad-2004-rotterdam-bcs-score]]) gains its direct comparator: in high-risk patients, 5-year OLT-free survival after TIPS was **30% better than the Rotterdam score predicted**.
 - **[[tips]]** — the BCS indication and the 93% technical success / IVC-puncture point belong there; one line, linked back.
 
 ## Contradictions / Open Questions

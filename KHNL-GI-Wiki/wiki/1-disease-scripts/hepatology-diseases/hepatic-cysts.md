@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
-updated: 2026-11-16
+updated: 2026-11-26
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -18,6 +18,9 @@ sources: [acg-2024-focal-liver-lesions]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
+  - [[#Imaging Appearance of a Simple Cyst]]
+  - [[#Imaging Appearance of MCN-L]]
+  - [[#Tumor Markers and Aspiration — Both Unhelpful]]
 - [[#Therapeutics]]
   - [[#Simple Hepatic Cysts]]
   - [[#Polycystic Liver Disease (PCLD)]]
@@ -34,36 +37,33 @@ sources: [acg-2024-focal-liver-lesions]
 
 ### Establishing the Diagnosis
 
-**Simple hepatic cyst:** thin-walled structure lined by **cuboidal bile duct epithelium** and filled with isotonic fluid; the result of a **ductal plate malformation that does not communicate with the biliary tree** ([[acg-2024-focal-liver-lesions]]).
+**Simple hepatic cyst:** thin-walled, lined by **cuboidal bile duct epithelium**, filled with isotonic fluid; a **ductal plate malformation with no communication with the biliary tree** ([[acg-2024-focal-liver-lesions]]).
 
-- Solitary or multiple; often coexist with other mass lesions
-- **Female predominance**; prevalence **increases with age**; **no established correlation with oral contraceptive pill (OCP) use or pregnancy**
+- **Female predominance**, rises with age; **no established link to oral contraceptive pill (OCP) use or pregnancy**
 - Usually **asymptomatic and incidental** unless very large
-- Diagnosable on conventional **gray-scale ultrasound — sensitivity and specificity 90%**
+- Diagnosed on conventional **gray-scale ultrasound (US) — sensitivity and specificity 90%**
 
-**The whole diagnostic question is simple vs complex.** Specific high-risk features — **septations, fenestrations, calcifications, mural thickening or nodularity, heterogeneity, and daughter cysts** — separate a simple cyst from lesions with malignant or infectious potential (mucinous cystic neoplasm of the liver [MCN-L], choledochal cysts, hydatid cysts — see [[#Classification / Typing]]) and mandate cross-sectional imaging.
+**The diagnostic question is simple vs complex.** High-risk US features — **septations, fenestrations, calcifications, mural thickening or nodularity, heterogeneity, daughter cysts** — separate a simple cyst from lesions with malignant or infectious potential (next step under [[#Diagnostics]]).
 
-*Caveat:* **2.5%–5% of simple cysts contain up to 2 septa**; this group includes congenital cysts, **Caroli disease**, biliary hamartomas, and polycystic liver disease. A cyst with those characteristics on ultrasound (US) still needs **no further imaging or follow-up**.
+> [!pearl] Up to 2 septa can still be a simple cyst
+> **2.5%–5% of simple cysts have up to 2 septa** (congenital cysts, Caroli disease, biliary hamartomas, polycystic liver disease). Seen on US with these characteristics → **no further imaging or follow-up** ([[acg-2024-focal-liver-lesions]]).
 
 ### Severity Assessment
 
-No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]):
-
-1. **Simple or complex on ultrasound?** → complex features mandate computed tomography (CT)/magnetic resonance imaging (MRI) (Rec 13)
-2. **Symptomatic?** → asymptomatic simple cysts get nothing, regardless of size (Rec 12)
-3. **Cyst burden / organ compromise?** → drives polycystic liver disease (PCLD) therapy and transplant eligibility
+No score. Management turns on **simple vs complex** on US, **symptoms**, and, in polycystic liver disease (PCLD), **cyst burden**.
 
 ### Classification / Typing
 
 | Type | Key features | Malignant potential |
 |---|---|---|
-| **Simple hepatic cyst** | Thin-walled; anechoic with through transmission; smooth margins; no septa/nodules/solid components | None |
-| **Polycystic liver disease** | **>10–20** hepatic cysts with simple-cyst characteristics; few or no kidney cysts; a ciliopathy; isolated (autosomal dominant polycystic liver disease [ADPLD]) or with **autosomal dominant polycystic kidney disease (ADPKD)** | None (but major morbidity) |
-| **Hydatid cyst** | *Echinococcus granulosus*; daughter cysts, floating membranes ("water-lily"), calcification; endemic exposure | None (infectious) |
-| **Mucinous cystic neoplasm of the liver** | 2019 World Health Organization (WHO) reclassification of **biliary cystadenoma / cystadenocarcinoma**; septa ± mural nodularity; ovarian-type subepithelial stroma; **no biliary communication** | **Up to ~10%** malignant transformation (historically 20%–30%) |
-| **Choledochal cyst (Todani types I–V)** | Focal biliary ductal dilation; full type-by-type anatomic definitions under [[#Choledochal Cysts]] | **7.5%–30%** overall; type I and IV highest |
-| **Biliary hamartoma / peribiliary cyst** | Benign malformations | None |
-| **Intraductal papillary neoplasm of the bile duct (IPNB)** | Frond-like intraductal soft tissue | **High** — premalignant |
+| **Simple hepatic cyst** | See [[#Establishing the Diagnosis]] and [[#Imaging Appearance of a Simple Cyst]] | No follow-up needed (Rec 12) |
+| **PCLD** | **At least >10–20** hepatic cysts with simple-cyst characteristics; few or no kidney cysts; no biliary connection; a ciliopathy. Isolated (autosomal dominant PCLD) or with **autosomal dominant polycystic kidney disease (ADPKD)** | None |
+| **Mucinous cystic neoplasm of the liver (MCN-L)** | Formerly biliary cystadenoma/cystadenocarcinoma (2019 World Health Organization [WHO] reclassification); ± **ovarian-type subepithelial stroma**; multilocular (90%); **no biliary communication**; **<5% of liver cysts** | **Up to 10%** with the updated 2010 WHO criteria; historically 20%–30% |
+| **Choledochal cyst (Todani I–V)** | Cystic dilation of the intrahepatic and/or extrahepatic bile ducts; types under [[#Choledochal Cysts]] | **7.5%–30%**; types I and IV highest |
+| **Hydatid cyst** | *Echinococcus granulosus*; staged on US (Table 7) | Infectious |
+| **Biliary hamartoma** (von Meyenburg complex) | Multiple, often peripheral, usually **<1.5 cm**; no biliary communication | Rare (case reports) |
+| **Peribiliary cyst** | Perihilar, **<1 cm**, "string of pearls" around hilar portal veins; no biliary communication; common with chronic liver disease and/or [[portal-hypertension]] | Benign malformation |
+| **Intraductal papillary neoplasm of the bile duct (IPNB)** | Intraductal mass and/or ductal dilation; a precursor of [[cholangiocarcinoma]] | **High — 40%–80% harbor malignancy** |
 
 ---
 
@@ -71,15 +71,13 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 
 *Workup: see [[focal-liver-lesions]].*
 
-**For a cystic liver lesion:**
+**Complex cyst on US — computed tomography (CT) or magnetic resonance imaging (MRI) excludes** ([[acg-2024-focal-liver-lesions]]):
 
-- **Pyogenic liver abscess** — fever, elevated white blood cell count (WBC), right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; [[entamoeba-histolytica-infection|amoebic abscess]] (tropical exposure, elevated serology)
-- **Infected simple cyst**
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]] with necrosis** — in a [[cirrhosis|cirrhotic]] background; solid areas
-- **MCN-L** — middle-aged women; cystic + solid components; **does not communicate with bile ducts**; ovarian-type stroma
-- **IPNB** — **communicates** with the bile duct; ductal dilation on [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]
-- **Hydatid cyst** — daughter cysts, detached membranes
-- **Cystic metastasis** — [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|gastrointestinal stromal tumor]]; known primary malignancy
+- Infected cyst · pyogenic abscess · cystic metastasis
+- Hydatid cyst — daughter cysts, detached membranes
+- MCN-L — septa features under [[#Imaging Appearance of MCN-L]]
+- **IPNB** — MCN-L, unlike IPNB, shows **no biliary communication, no intraductal mass, and no dominant bile duct dilation**
+- Choledochal cyst — see [[#Choledochal Cysts]]
 
 ---
 
@@ -89,131 +87,156 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 
 | Modality | Findings |
 |---|---|
-| **Ultrasound** (first-line; sensitivity/specificity **90%**) | Homogeneously **anechoic**, through transmission, smooth margins |
-| **CT** | **No internal architecture**; hypodense with **fluid attenuation <20 Hounsfield units**; **absent** post-contrast enhancement |
-| **MRI** | T1 hypointense, T2 markedly hyperintense; **no enhancement**; **decreasing** intensity at higher b-value diffusion-weighted imaging (DWI) |
-| **MRCP** | When biliary communication is in question (Caroli disease, IPNB vs MCN-L) |
+| **US** (first line) | Homogeneously **anechoic**, through transmission, smooth margins |
+| **CT** | **No internal architecture**; hypodense, **fluid attenuation <20 Hounsfield units**; **absent** post-contrast enhancement |
+| **MRI** | T1 hypointense, T2 hyperintense, **no enhancement**; **decreasing** intensity at higher b-value diffusion-weighted imaging |
 
-**Complex cyst on US → CT or MRI (Rec 13, Strong / Low)** to exclude infected cyst, pyogenic abscess, cystic metastasis, hydatid cyst, or MCN-L. MRI is preferred for wall/septation characterization.
+- **Complex cyst on US → CT or MRI** (Rec 13, Strong / Low); **MRI is the preferred modality for cystic lesions in general**
+
+### Imaging Appearance of MCN-L
+
+| Finding | Performance for MCN-L |
+|---|---|
+| Septations present | **95% sensitive** |
+| Septations arising directly from the cyst wall (vs within a lobulation) | **100% sensitive, 56% specific** vs simple cyst |
+| Mural calcifications | **90% specific**; seen in up to **65%** |
+| Septal enhancement and mural nodularity on MRI | Nearly **100% sensitive** |
+| Upstream biliary ductal dilation from the cyst | Highly specific |
+
+- Also favoring MCN-L: multiple septations; septa that indent the cyst wall or enhance. **Up to 76% in the left lobe**, predilection for **segment IV**
 
 ### Tumor Markers and Aspiration — Both Unhelpful
 
-- **Serum carbohydrate antigen (CA) 19-9 is elevated in up to 50%** of patients with simple cysts and in ~50% of PCLD without malignancy; **cyst fluid can contain CA 19-9 without malignancy** — it does **not** distinguish simple from malignant cysts ([[acg-2024-focal-liver-lesions]])
-- **Fluid aspiration or [[liver-biopsy|biopsy]] of a suspected MCN-L is NOT recommended** to separate benign from malignant — **low sensitivity** (Key Concept [KC] 45)
-- Cyst aspiration alone is useful to confirm a cyst is the source of symptoms, but is **not definitive treatment** (high recurrence)
+- **Serum carbohydrate antigen (CA) 19-9** is elevated in **up to 50%** of patients with simple cysts, **~50% of PCLD without malignancy**, and **28%–73% of biliary cystadenocarcinomas**; serum or cyst-fluid CA 19-9 does **not** separate simple from malignant cysts, or MCN-L from cystadenocarcinoma ([[acg-2024-focal-liver-lesions]])
+- **Fluid aspiration or [[liver-biopsy|biopsy]] of MCN-L is not recommended** to separate benign from malignant — **low sensitivity** (Key Concept [KC] 45)
 
 ---
 
 ## Therapeutics
 
+```mermaid
+flowchart TD
+    A(["Focal cystic liver lesion on ultrasound or nondiagnostic imaging"]) --> B["Evaluate history, physical, laboratory workup"]
+    B -- "Cirrhosis present" --> C(["Refer to American Association for the Study of Liver Diseases (AASLD) guidance on hepatocellular carcinoma"])
+    B -- "Simple cyst" --> D["Symptomatic?"]
+    D -- "No" --> E(["No follow-up needed"])
+    D -- "Yes" --> F(["Surgical treatment; alternative: aspiration with sclerotherapy"])
+    B -- "PCLD" --> G(["Stop exogenous estrogen use"])
+    G -- "Symptoms such as early satiety, weight loss, portal hypertension" --> H(["Consider surgical resection, cyst fenestration or liver transplant"])
+    H --> I(["Consider lanreotide"])
+    B -- "MCN-L" --> J(["Complete resection; if not a surgical candidate, surveillance imaging"])
+    B -- "Biliary hamartoma" --> K(["No surveillance needed"])
+    B -- "Echinococcal cyst" --> L(["Antihelminthic drugs before surgery or cyst puncture or PAIR (puncture, aspiration, injection of scolicidal agent, reaspiration)"])
+    L --> M(["Surveillance if not resectable"])
+    B -- "Choledochal cyst" --> N(["Manage by Todani type (table under Choledochal Cysts)"])
+    class A start
+    class B,D test
+    class F,G,H,I,J,L,M,N act
+    class C,E,K stop
+```
+*Management of a focal cystic liver lesion by cyst type*
+*Source: redrawn from Figure 1b of the ACG 2024 focal liver lesions guideline; its choledochal-cyst branch is the Todani table below*
+*[[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]*
+*AASLD = American Association for the Study of Liver Diseases · MCN-L = mucinous cystic neoplasm of the liver · PAIR = puncture, aspiration, injection of scolicidal agent, reaspiration · PCLD = polycystic liver disease*
+
 ### Simple Hepatic Cysts
 
-- **Asymptomatic, regardless of size → expectant management; no routine surveillance and no intervention** (Rec 12, Strong / Low)
+- **Asymptomatic, regardless of size → expectant management; no routine surveillance or intervention** (Rec 12, Strong / Low)
 - **Asymptomatic *complex* cyst, regardless of size → multidisciplinary tumor board + consider surveillance imaging in 6–12 months** (KC 41)
 - **Symptoms** arise when cysts enlarge, rupture, or compress: significant abdominal pain or pressure, shortness of breath, early satiety, epigastric fullness, or **lower-extremity edema from inferior vena cava (IVC) compression**
 
-**Symptomatic simple cyst → surgical cyst fenestration or aspiration with sclerotherapy** (Rec 14, Conditional / Low):
+**Symptomatic → surgical cyst fenestration or aspiration with sclerotherapy** (Rec 14, Conditional / Low); **no post-intervention imaging needed**.
 
 | Option | Detail |
 |---|---|
-| **Surgical fenestration** (deroofing / marsupialization) | **Lowest recurrence** and allows histologic examination; open vs laparoscopic based on operative candidacy, patient preference, and center expertise |
-| **Aspiration + sclerotherapy** | 100% ethanol, tetracycline, or other sclerosants. **Maximum benefit may take up to 6 months → do not repeat intervention within 6 months.** No post-intervention imaging needed |
-| **Aspiration alone** | **Not recommended** as definitive treatment — high recurrence |
+| **Surgical fenestration** (deroofing / marsupialization) | **Lowest recurrence**; allows histology. Surgery and open vs laparoscopic by operative candidacy, preference, center expertise |
+| **Aspiration + sclerotherapy** | 100% ethanol, tetracycline, or other sclerosants. **Maximum benefit may take up to 6 months → do not repeat within 6 months** |
+| **Aspiration alone** | Helps confirm the cyst causes the symptoms; **not definitive treatment** — high recurrence |
 
 ### Polycystic Liver Disease (PCLD)
 
-**Definition and screening:**
+**Screening and genetics:**
 
-- Autosomal dominant PCLD = **at least >10–20 hepatic cysts** with simple-cyst characteristics and few/no kidney cysts; cysts are **not connected to the biliary system**; part of the **ciliopathy** spectrum
-- **ADPKD:** renal cysts → renal failure; **60%–80% also have hepatic cysts** → **screen ADPKD patients for PCLD with abdominal ultrasound**
-- Conversely, **PCLD patients should get an initial kidney ultrasound to exclude ADPKD**
-- Isolated PCLD prevalence **1–10 per million**; ADPKD carries germline **PKD1/PKD2** mutations
-- **Genetic testing is generally not recommended** — the 6 identified PCLD genes account for only **30%–45%** of cases; it may help in a **young patient with PCLD and few renal cysts who does not meet ADPKD diagnostic criteria**. Isolated PCLD does not carry the extrarenal manifestations of ADPKD (e.g. intracranial aneurysms)
-- **Female predominance >80%**; prevalence rises with age; associated with pregnancy and OCP use. Estrogen-containing OCPs in premenopausal women → **15.5% higher height-adjusted total liver volume per 10 years of use**
+- **ADPKD → screen for PCLD with abdominal US** (60%–80% have hepatic cysts); **PCLD → initial kidney US to exclude ADPKD**
+- **Genetic testing generally not recommended** (the 6 known PCLD genes explain only **30%–45%**); may help exclude ADPKD in a **young patient with PCLD and few renal cysts who does not meet diagnostic criteria**
+- Isolated PCLD: prevalence **1–10 per million**; no extrarenal ADPKD manifestations (e.g. intracranial aneurysms). ADPKD carries germline **PKD1** or **PKD2** mutations
+- **Female predominance (>80%)**; associated with pregnancy and OCP use — estrogen-containing OCPs in premenopausal women → **15.5% higher height-adjusted total liver volume per 10 years of use**
 
 **Clinical course:**
 
-- Symptoms of cyst burden: palpable hepatomegaly, early satiety, abdominal discomfort, dyspnea, lower-extremity edema, weight loss → malnutrition, frailty, poor quality of life (QoL) (see [[nutrition-in-liver-disease]])
-- Complications: cyst rupture, infection, bleeding, compression of the IVC, portal vein, or biliary tree
-- **Liver enzymes and synthetic function are usually preserved**; the most common elevations are **gamma-glutamyltransferase (GGT) and alkaline phosphatase**
-- **No imaging surveillance in asymptomatic PCLD** — there is no malignant potential
+- Cyst burden → hepatomegaly, early satiety, dyspnea, edema, weight loss → malnutrition, frailty, poor quality of life (QoL) ([[nutrition-in-liver-disease]]); rupture, infection, bleeding, compression of IVC, portal vein, or bile ducts
+- **Liver enzymes and synthetic function usually preserved** except in advanced cases; commonest elevations **gamma-glutamyltransferase (GGT) and alkaline phosphatase**
+- **No imaging surveillance in asymptomatic PCLD** — no malignant potential
 
-**Treatment** — goals are **symptom relief and preservation of quality of life** (KC 42); option choice is based on cyst characteristics, hepatic reserve, and center expertise (KC 43):
+**Treatment** — goals are **symptom relief and preservation of QoL** (KC 42); choice by cyst characteristics, underlying hepatic reserve, and center expertise (KC 43):
 
 | Option | Detail |
 |---|---|
-| **Discontinue exogenous estrogen** | Rec 15 (Conditional / Very low) — studies show increased cyst volume with continued use |
+| **Discontinue exogenous estrogen** (women) | Rec 15 (Conditional / Very low) — cyst volume increases with continued use |
 | **Aspiration + sclerotherapy** | Primarily for **large** cysts; immediately effective but **high recurrence** |
 | **Surgical fenestration** | Significant volume reduction and immediate relief, but **30% recurrence**; complications — [[ascites]], bile leak, pleural effusion, bleeding |
-| **Hepatic resection** | When fenestration is unlikely to succeed and transplant is not required; **laparoscopic preferred**; outcomes excellent |
-| **[[liver-transplantation\|Liver transplantation]] ± simultaneous kidney transplant** | The **only curative option**; for refractory symptoms from significant cyst burden, marked synthetic dysfunction, malnutrition, or major QoL impairment (KC 44) |
-| **[[somatostatin-analogs\|Somatostatin analogs]]** | **Rec 16 (Strong / Moderate)** — for PCLD with **numerous small- to medium-sized cysts throughout the liver not amenable to resection, fenestration, or aspiration sclerotherapy**, or for **symptomatic ADPKD with concurrent PCLD** |
+| **Hepatic resection** | When fenestration is unlikely to succeed and transplant is not required; **laparoscopic preferred** when feasible; outcomes excellent |
+| **[[liver-transplantation\|Liver transplantation]] ± simultaneous kidney transplant** | The **only curative option** — consider for **refractory symptoms from significant cyst burden** (KC 44); excellent long-term survival with marked synthetic dysfunction, malnutrition, or major QoL impairment |
+| **[[somatostatin-analogs\|Somatostatin analogs]]** | **Rec 16 (Strong / Moderate)** — **numerous small- to medium-sized cysts throughout the liver not amenable to surgical resection, cyst fenestration, or aspiration sclerotherapy**, or **symptomatic ADPKD with concurrent PCLD** |
 
-**Somatostatin-analog specifics** ([[acg-2024-focal-liver-lesions]]):
+**Somatostatin analogs — what to expect** ([[acg-2024-focal-liver-lesions]]):
 
-- Largest randomized controlled trial (RCT) — **lanreotide long-acting release (LAR) 120 mg intramuscularly (IM) every 4 weeks**: height-adjusted liver volume reduced by **almost 6%** (95% confidence interval [CI] −9.18 to −2.63; P<0.001), with a further **3.87%** reduction 4 months after the last injection ≈ **140 mL** of volume; symptom improvement has been shown with a decrease of **>100 mL**
-- Biggest reductions within the **first 6 months**, lasting **2–4 years**; **symptoms recur after discontinuation**
-- Well tolerated — **<5% discontinue**; **steatorrhea-type symptoms** are the most common and are self-limited, often fading after the first few injections
-- **mTOR inhibitors — data not favorable:** an RCT of everolimus added to long-acting octreotide showed **no significant improvement** in cyst volume (a small sirolimus pilot in ADPKD showed initial improvement)
-- **Ursodiol:** a multicenter RCT showed **no improvement** in isolated PCLD; some improvement in ADPKD on post-hoc analysis only
+- Largest randomized controlled trial (RCT): **lanreotide long-acting release (LAR) 120 mg intramuscularly every 4 weeks** → height-adjusted liver volume down **almost 6%** (≈ **140 mL**); symptom improvement has been shown with decreases **>100 mL**
+- Biggest reductions in the **first 6 months**, lasting up to **2–4 years**; **symptoms recur after discontinuation**; **<5% discontinue**; steatorrhea-type symptoms commonest, self-limited
+- Not effective: everolimus (a mammalian target of rapamycin [mTOR] inhibitor) added to octreotide; ursodiol in isolated PCLD (RCTs)
 
-**Model for End-Stage Liver Disease (MELD) exception points (Table 6)** — for PCLD with severe PCLD-related symptoms **plus any one** of:
+**Model for End-Stage Liver Disease (MELD) exception points (Table 6)** — PCLD **not clinically eligible for resection/fenestration or alternative therapy**, with **severe PCLD-related symptoms plus any one of**:
 
-- Hepatic decompensation or severe [[portal-hypertension|portal hypertensive]] complications
+- Hepatic decompensation or severe portal hypertensive complications
 - Concurrent hemodialysis
 - Glomerular filtration rate (GFR) **<20 mL/min**
 - Previous kidney transplant
-- Moderate-to-severe protein-calorie malnutrition documented by a registered dietitian (**Global Leadership Initiative on Malnutrition (GLIM)** phenotypic criteria, **American Society for Parenteral and Enteral Nutrition (ASPEN)** criteria, **Nutrition Focused Physical Examination (NFPE)**, or **Subjective Global Assessment (SGA-C)** score)
-  - The guideline does not define these four instruments (see [[nutrition-in-liver-disease]]); the dietitian's own instrument governs
-- Severe sarcopenia by skeletal muscle index (SMI) — **SMI cut-points (and the frailty/sarcopenia tools generally) live on [[nutrition-in-liver-disease]]**; not restated here
+- Moderate-to-severe protein-calorie malnutrition documented by a registered dietitian (Global Leadership Initiative on Malnutrition phenotypic criteria, American Society for Enteral and Parenteral Nutrition criteria, Nutrition Focused Physical Examination, or Subjective Global Assessment score)
+- Severe sarcopenia by skeletal muscle index (SMI) **<39 cm²/m² in women or <50 cm²/m² in men**, or equivalent
 
-*Patients on dialysis, with GFR <20 mL/min, or requiring a kidney transplant should undergo **simultaneous liver–kidney transplant**.*
+**Severe symptoms + dialysis, GFR <20 mL/min, or needing a kidney transplant → simultaneous liver–kidney transplant**, with waitlist exception points.
 
 ### Mucinous Cystic Neoplasm of the Liver (MCN-L)
 
-- **2019 WHO reclassification** of biliary cystadenoma/cystadenocarcinoma; epithelial cystic neoplasm lined by cuboidal, columnar, or mucin-producing epithelium, ± **ovarian-type subepithelial stroma**; invasive and noninvasive subtypes
-- **<5% of all liver cysts**; septa are mucinous (95%) or serous (5%); unilocular or **multilocular (90%)**; **no biliary communication**
-- **Malignant transformation up to ~10%** with the updated 2010 WHO criteria (historically reported at **20%–30%**)
-- Strong **female predominance (1:4)**, fifth–sixth decade; not clearly linked to OCPs
-- **Up to 76% arise in the left hepatic lobe**, with a predilection for **segment IV**
-- CA 19-9 elevated in **28%–73%** of biliary cystadenocarcinomas but does **not** discriminate benign from malignant
-- Subtypes with **ovarian-type stroma** are more common and seen in women; those **without** occur equally in men and women and have a **high rate of malignant recurrence with poor prognosis**
-- **Management:** thick septations, fenestrations, nodularity, calcifications, or mixed solid-and-cystic components → **prompt evaluation for complete surgical resection** (KC 46a). Not a surgical candidate → **surveillance imaging** (interval cannot be specified); changes suggesting malignant degeneration → **multidisciplinary tumor board** for nonsurgical options (KC 46b)
+- **Female predominance (1:4)**, fifth–sixth decade. Subtype **without ovarian-type stroma**: men and women equally, **high rate of malignant recurrence, poor prognosis**
+- **Complete surgical resection (laparoscopic or open) is the gold standard** — incomplete resection risks recurrence or progression to cystadenocarcinoma
+- Thick septations, fenestrations, nodularity, calcifications, or mixed solid-and-cystic components → **prompt evaluation for complete surgical resection** (KC 46a)
+- Not a surgical candidate → **surveillance imaging** (interval cannot be specified); changes suggesting malignant degeneration → **multidisciplinary tumor board** for nonsurgical options (KC 46b)
+
+> [!pitfall] Do not fenestrate or sclerose a suspected MCN-L
+> Cyst aspiration, sclerosis, partial resection, and fenestration are not recommended — recurrence reported at 81% in some studies ([[acg-2024-focal-liver-lesions]]).
 
 ### Choledochal Cysts
 
-- **Malignancy risk 7.5%–30%** — **<1%** in young children, rising each decade to **30%–40% in those >50 years**. Most common malignancy is **[[cholangiocarcinoma|cholangiocarcinoma]] (~70%)**, then **[[gallbladder-cancer|gallbladder cancer]] (23.5%)**
-- **Types I and IV** are most associated with malignancy; transformation is **extremely rare in types II and III**. An **anomalous pancreaticobiliary junction (APBJ)** further increases risk
-- Most common symptom is **abdominal pain (60%)**; the classic triad of pain + [[jaundice|jaundice]] + palpable mass is rarely seen
-- **Imaging discriminator:** malignant obstruction usually causes **diffuse** intrahepatic biliary dilation, whereas a choledochal cyst causes **focal** dilation
+- **1:4 male-to-female**; more common in Asian populations; **80% present in the first decade**, adult incidence rising; thought to arise from **reflux of pancreatic enzymes through an anomalous pancreaticobiliary junction (APBJ)**
+- Commonest symptom **abdominal pain (60%)**; the triad of pain + [[jaundice]] + palpable mass is rare
+- **Diagnosis:** [[mri-mrcp|MRI with magnetic resonance cholangiopancreatography (MRCP)]], [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]], or percutaneous transhepatic cholangiography; MRCP detects an APBJ without instrumentation
+- **Imaging discriminator:** choledochal cyst → **focal** intrahepatic ductal dilation; malignant obstruction → usually **diffuse**
+- **Malignancy 7.5%–30%** — **<1%** in young children, rising each decade to **30%–40% over age 50**; [[cholangiocarcinoma]] **~70%**, then [[gallbladder-cancer|gallbladder cancer]] **23.5%**; **types I and IV** most associated, **extremely rare in II and III**; an APBJ adds risk
 
-**Todani classification** — anatomic, based on the location and extent of biliary involvement ([[acg-2024-focal-liver-lesions]], Figure 15). Every management row below is keyed to this type, so assign the type first:
+**Todani classification** — anatomic, by location and extent of biliary involvement; management is based on type and malignancy risk (KC 49a). *See Figure 15 in [[acg-2024-focal-liver-lesions]] for the Todani diagrams.*
 
-| Todani type | Anatomic definition | Management (KC 49a) |
-|---|---|---|
-| **I** | Cystic or **fusiform dilation of the extrahepatic bile duct** — **most common** type in both children and adults | Complete cyst excision with **Roux-en-Y hepaticoenterostomy** |
-| **II** | **Extrahepatic (supraduodenal) diverticulum** | Simple cyst excision or diverticulectomy |
-| **III** | **Intraduodenal diverticulum (choledochocele)** — lacks the female predominance and **rarely** undergoes malignant transformation | Endoscopic unroofing (endoscopic or transduodenal sphincteroplasty) — see [[ercp\|endoscopic retrograde cholangiopancreatography (ERCP)]] — or transduodenal excision for larger cysts |
-| **IV** | **Both extrahepatic and intrahepatic** cystic dilation (**IVA**) or **multiple extrahepatic** dilations (**IVB**) — **second most common** | Extrahepatic cyst excision ± partial hepatectomy + hepaticoenterostomy; rarely [[liver-transplantation\|transplant]] |
-| **V (Caroli disease)** | **Intrahepatic bile ducts only** — **least common**. Distinguish from **Caroli *syndrome***, which adds congenital hepatic fibrosis and kidney cysts | Hepatic resection or, in selected cases, [[liver-transplantation\|liver transplantation]] |
+| Todani type | Anatomic definition | Treatment | Surveillance after treatment (Figure 1b) |
+|---|---|---|---|
+| **I** | Cystic or **fusiform dilation of the extrahepatic bile duct** — **most common** in children and adults | Complete cyst excision with **Roux-en-Y hepaticoenterostomy** | **Continue even after resection**, with MRI/MRCP — ongoing malignancy risk; interval cannot be specified (KC 49b) |
+| **II** | **Extrahepatic (supraduodenal) diverticulum** | Simple cyst excision or diverticulectomy | None needed |
+| **III** | **Intraduodenal diverticulum (choledochocele)** — no female predominance | Endoscopic unroofing (endoscopic or transduodenal sphincteroplasty) or transduodenal excision for larger cysts | None needed |
+| **IV** | **Extrahepatic + intrahepatic** dilation (**IVA**) or **multiple extrahepatic** dilations (**IVB**) — **second most common** | Extrahepatic cyst excision ± partial hepatectomy + hepaticoenterostomy; rarely liver transplant | **Continue even after resection** (KC 49b) |
+| **V (Caroli disease)** | **Intrahepatic bile ducts only** — **least common**. Caroli *syndrome* adds congenital hepatic fibrosis and kidney cysts | Hepatic resection or, in select cases, liver transplantation, by extent of disease | None needed |
 
-- Arise from **reflux of pancreatic enzymes** into the biliary tree through an **APBJ**; ~4:1 female predominance; more common in Asian populations; 80% present in the first decade, though adult incidence is rising.
-- Diagnosis: **[[mri-mrcp|MRI/MRCP]]**, [[ercp|ERCP]], or percutaneous transhepatic cholangiography; MRCP can detect an APBJ without instrumenting the biliary tree.
-
-- **Types I and IV require ongoing surveillance imaging even after resection** because malignancy risk persists (KC 49b; interval cannot be specified)
-- **Types IV and V with unresectable disease → consider liver transplantation** (KC 50)
+- **Types IV and V, resection not feasible → consider liver transplantation** (KC 50)
 
 ### Hydatid / Echinococcal Cysts
 
-**Background:** cystic echinococcosis (CE) from *Echinococcus granulosus*; rural sheep-grazing areas — South America, Eastern Europe, Russia, Middle East, Central Asia, China, Australia, East Africa. Cysts occur in the **liver (70%)** and **lungs (20%)**. Grow slowly over years to **10–15 cm**; inner germinal layer + outer acellular laminated layer; larger cysts hold **>1 L of highly antigenic fluid** and millions of protoscolices, are **high-pressure**, and tend to **rupture after trauma or surgical manipulation** → abdominal pain, severe allergic reaction or **anaphylaxis**, peritonitis, ascites, septic shock. Bile duct compression → obstructive [[jaundice]] or [[acute-cholangitis|cholangitis]].
-
-**Imaging stages:** active — anechoic well-defined cyst with small floating echogenic foci; progressing — septated cyst with internal daughter cysts, enhancing walls/septa, intermediate T1 if proteinaceous debris; the **"water-lily" sign** = floating internal membranes from a **detached endocyst**; inactive — densely calcified with rim or septal calcification. Serology is useful but limited by availability and assay heterogeneity.
+- Cystic echinococcosis (CE); rural sheep-grazing areas; **liver 70%**, lungs 20%
+- Large cysts are **high-pressure** with **over a liter of highly antigenic fluid** → **rupture after trauma or surgical manipulation** → **anaphylaxis**, peritonitis, septic shock; bile duct compression → obstructive jaundice or [[acute-cholangitis|cholangitis]]
+- Diagnosis is by imaging (serology useful but limited by availability and assay heterogeneity): initial phase — anechoic, well-defined, small floating echogenic foci; active — septated with daughter cysts, enhancing walls/septa; **"water-lily" sign** = floating membranes from a **detached endocyst**; inactive — dense rim or septal calcification
 
 **WHO Informal Working Group on Echinococcosis (WHO-IWGE) classification and treatment (Table 7)** ([[acg-2024-focal-liver-lesions]]):
 
 | Class | Echographic aspect | Stage | Treatment |
 |---|---|---|---|
-| **CE 1** | Univesicular fluid collection / simple cyst | Active | **<5 cm: albendazole**; **>5 cm: PAIR (puncture, aspiration, injection of scolicidal agent, reaspiration) + albendazole** |
+| **CE 1** | Univesicular fluid collection / simple cyst | Active | **<5 cm: albendazole**; **>5 cm: PAIR + albendazole** |
 | **CE 2** | Multivesicular fluid collection with multiple daughter cysts or septa (honeycomb) | Active | Catheterization or surgery + albendazole |
 | **CE 3A** | Fluid collection with detached membrane (water-lily sign) | Transitional | **<5 cm: albendazole**; **>5 cm: PAIR + albendazole** |
 | **CE 3B** | Daughter cysts in a solid matrix | Transitional | Catheterization or surgery + albendazole |
@@ -222,29 +245,32 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 
 **Medical therapy:**
 
-- **Albendazole** (superior) or mebendazole. Indicated **before** surgery or cyst puncture — prevents recurrence and secondary seeding, decreases cyst pressure, and **mitigates the anaphylaxis risk of percutaneous drainage** — and in inoperable cases (KC 51a)
-- Start before the procedure and **continue 1–6 months afterward**; **cyclical regimens are no longer recommended**
-- **Monitor white cell count and liver tests** — albendazole causes hepatic dysfunction and agranulocytosis
-- **Medical therapy alone is not recommended** unless percutaneous aspiration or surgery is contraindicated — **>40% of cysts remain active or reactivate after 2 years** of monotherapy (KC 51b)
-- ⚠ *[[acg-2024-focal-liver-lesions]] gives the indication, the duration (1–6 months after the procedure) and the monitoring, but **no albendazole dose** — it states only that "the exact duration of medical treatment before and after surgical or percutaneous therapy varies according to experts." The WHO-IWGE ladder above is therefore actionable as to **which** treatment, not **how much**; take the mg/kg dose from the package insert.*
+- **Albendazole** (superior to mebendazole) **before surgery or cyst puncture in symptomatic or active cysts** — prevents recurrence and seeding, lowers cyst pressure, **mitigates anaphylaxis risk of percutaneous drainage**; also inoperable cases (multiple cysts and peritoneal involvement, or poor surgical candidate) (KC 51a)
+- Start before the procedure and **continue 1–6 months afterward** (exact duration varies by expert); **cyclical regimens are no longer recommended**. ACG 2024 gives no albendazole dose
+- **Monitor white cell count and liver tests** — hepatic dysfunction and agranulocytosis
+- **Medical therapy alone is not recommended** unless percutaneous aspiration or surgery is contraindicated — **>40% remain active or reactivate after 2 years** of monotherapy (KC 51b)
 
-**Procedural therapy** — for **large cysts (>5 cm)**, cysts likely to rupture, non-responders to medical therapy, or contraindications to medical therapy (liver or bone-marrow disorders):
+**Procedural therapy** — for **large cysts (>5 cm)**, cysts likely to rupture, non-response to medical therapy, or contraindications to it (liver or bone-marrow disorders):
 
-- **PAIR + adjunct antihelminthic** is an effective alternative to surgery in **uncomplicated** cysts when surgery is not an option (Rec 18, Conditional / Low)
-- **Surgery (Rec 17, Conditional / Very low)** for **complicated** cysts — **biliary fistula or communication with the biliary tree, multiseptated cysts, rupture or hemorrhage, secondary infection, or percutaneously inaccessible cysts** — provided there is no contraindication to surgery. These are precisely the settings where **PAIR is contraindicated**. Approach ranges from simple cyst resection to radical pericystectomy; hepatic resection is occasionally needed
-- Asymptomatic, inactive, or calcified cysts may be observed
-- Manage at a center with combined surgical and infectious-disease expertise
+- **Uncomplicated cyst, surgery not an option → PAIR + adjunct antihelminthic** (Rec 18, Conditional / Low)
+- **PAIR is contraindicated** with biliary fistula or a cyst communicating with the biliary tree, complex multiseptated cysts, or percutaneously inaccessible cysts
+- **Complicated cyst → surgery**, provided no contraindication to surgery (Rec 17, Conditional / Very low): **biliary fistula or biliary communication, multiseptated cyst, rupture or hemorrhage, secondary infection, or percutaneously inaccessible cyst**; simple cyst resection to radical pericystectomy, occasionally hepatic resection
+- Asymptomatic, inactive, or calcified cysts may be observed with surveillance imaging (not required in all cases)
+- Treat where surgical and infectious-disease expertise are available
 
 ### Biliary Hamartomas, Peribiliary Cysts, and IPNB
 
-- **Biliary hamartomas and peribiliary cysts** are benign malformations and **require no surveillance imaging** (KC 47)
-- **IPNB** are **premalignant** biliary lesions with a high risk of malignant transformation → **continued surveillance imaging is recommended even after surgical resection** (KC 48)
+- **Biliary hamartomas and peribiliary cysts** are benign malformations — **no surveillance imaging** (KC 47)
+- **IPNB** — premalignant with a high risk of malignant transformation (KC 48)
+  - Risk factors: hepatolithiasis, clonorchiasis, [[primary-sclerosing-cholangitis|primary sclerosing cholangitis]], choledochal cysts, [[familial-adenomatous-polyposis|familial adenomatous polyposis]], Gardner syndrome
+  - **Treatment: surgical resection of the bile duct ± hepatectomy**, by size, extent, and invasiveness
+  - **Continued surveillance imaging even after resection** — undetected lesions remote from the main tumor cause recurrence (KC 48)
 
 ---
 
 ## See Also
 
-[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[li-rads]], [[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[somatostatin-analogs]], [[mri-mrcp]], [[ercp]], [[liver-biopsy]], [[nutrition-in-liver-disease]], [[entamoeba-histolytica-infection]], [[jaundice]], [[ascites]], [[acute-cholangitis]], [[endoscopic-ultrasound]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[primary-sclerosing-cholangitis]], [[familial-adenomatous-polyposis]], [[li-rads]], [[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[somatostatin-analogs]], [[mri-mrcp]], [[ercp]], [[liver-biopsy]], [[nutrition-in-liver-disease]], [[jaundice]], [[ascites]], [[acute-cholangitis]], [[endoscopic-ultrasound]]
 
 ---
 

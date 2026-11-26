@@ -3,7 +3,8 @@ title: "AASLD 2022 Practice Guidance on Wilson Disease"
 category: source
 tags: [wilson-disease, WD, ATP7B, copper, ceruloplasmin, chelation, D-penicillamine, trientine, zinc, liver-transplantation, neurologic-WD, Leipzig-score, NWI, ALF, pregnancy]
 created: 2026-05-28
-updated: 2026-08-27
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2022 Wilson Disease Dx Management.pdf"
 ---
@@ -187,7 +188,7 @@ Sum the five parameters.
 - Oral chelation has produced survival and improvement in select patients, **especially (but not limited to) those with NWI <11**.
 - Liver transplantation should be considered in severe ALI, **more so if NWI >10 and it fails to decrease over time**.
 - The **breakpoint zone is NWI 10–11** — interpretation there is unreliable (particularly in children); **serial repeated scoring** is highly informative.
-- The NWI was derived in pediatric WD and **validated in adults**; on receiver operating characteristic (ROC) analysis its area under the curve (AUC) was similar to the Nazer score and Model for End-Stage Liver Disease (MELD), marginally best. It differs from the superseded Nazer score by adding WBC, albumin, and INR (rather than prothrombin time). The **Nazer** score — not the NWI — was the one unreliable around a breakpoint of **6–7**.
+- The NWI was derived in pediatric WD and **validated in adults**; on receiver operating characteristic (ROC) analysis its area under the curve (AUC) was similar to the Nazer score and Model for End-Stage Liver Disease (MELD), marginally best. It differs from the superseded Nazer score by adding WBC, albumin, and INR (rather than prothrombin time). The **Nazer** score — not the NWI — was the one unreliable around a breakpoint of **6–7** (Nazer score ≥7 predicted death; ≤6 predicted survival with chelation therapy).
 
 ### ALF due to WD — recognition
 
@@ -227,7 +228,7 @@ ALF due to WD accounts for ~**3% of all ALF** and carries **80%–99% mortality 
 
 **Trientine dihydrochloride** — initial adult dose ~15–20 mg/kg/day (**maximum 2000 mg/day**) in 2–3 divided doses, **ramped up over 2–3 weeks**. Maintenance adults 10–15 mg/kg/day in 2–3 divided doses. Children: initial 20 mg/kg/day rounded to nearest 250 mg in 2–3 divided doses; **exceeding 20 mg/kg/day may increase adverse effects**; maintenance 10–15 mg/kg/day (normal growth often does the dose reduction). Give **1 h before or 2 h after meals**; take with ample fluid (esophageal irritation). The **dihydrochloride** salt should be stored **refrigerated** to prevent oxidative degradation.
 
-**Trientine tetrahydrochloride** — approved by the FDA in **2022**; **stable at ambient temperature**. Bioequivalence with the dihydrochloride has not been established, so it may require **individual dose adjustment** guided by 24-h urinary copper. Once-daily dosing in clinically stable patients may be safe and enhance adherence but **requires confirmatory studies**.
+**Trientine tetrahydrochloride** — approved by the FDA in **2022 for previously treated D-penicillamine–tolerant patients**; **stable at ambient temperature**. Bioequivalence with the dihydrochloride has not been established, so it may require **individual dose adjustment** guided by 24-h urinary copper. (Trientine generally: once-daily dosing in clinically stable patients may be safe and enhance adherence but **requires confirmatory studies**.)
 
 **Zinc** (dosed as **elemental zinc**) — larger children and adults **150 mg/day in three divided doses**; must be taken **at least twice daily** to be effective. Children <50 kg: **75 mg/day in three divided doses**. Dose for children <5 years is **not well defined**; 50 mg/day in two divided doses has been postulated. **Taking zinc with food interferes with absorption and effectiveness.** Salt choice does not appear to affect efficacy but may affect tolerability.
 
@@ -279,11 +280,11 @@ Footnotes from the source:
 ## Contradictions / Open Questions
 
 - **Not a graded document.** No Grading of Recommendations Assessment, Development and Evaluation (GRADE) evidence quality or recommendation strength is attached to any of the 38 statements — all are consensus/narrative-based.
-- **No genotype–phenotype correlation.** >380 pathogenic *ATP7B* variants with no predominant mutation; most patients are compound heterozygotes, so genotype does not predict phenotype.
+- **No firm genotype–phenotype correlations.**
 - **Neurologic WD as a primary LT indication remains controversial** — outcome data are scattered, uncontrolled, and conflicting; controlled trials are required.
-- **Trientine tetrahydrochloride** — bioequivalence with the dihydrochloride is **not established**; once-daily dosing needs confirmatory studies; individual dose adjustment by 24-h urinary copper may be needed.
+- **Trientine tetrahydrochloride** — bioequivalence with the dihydrochloride is **not established**; once-daily trientine dosing needs confirmatory studies; individual dose adjustment by 24-h urinary copper may be needed.
 - **Combination chelator + zinc for severe disease remains investigational.**
-- **Children <3 years without organ damage** — timing of treatment initiation is undefined; no systematic studies distinguish asymptomatic-with-organ-damage from asymptomatic-without.
+- **Children <3 years without organ damage** — Table 6: entirely healthy affected infant/toddler found on screening → reevaluate every 6 months; plan to start treatment at 3 years old unless earlier evidence of organ damage. No systematic studies distinguish asymptomatic-with-organ-damage from asymptomatic-without.
 - **All WD scoring systems require prospective validation, periodic review, and possible revision**; NWI is unreliable at the 10–11 breakpoint and in some pediatric cohorts. The Leipzig D-penicillamine-challenge criterion is acknowledged as insufficiently stringent.
 - **Newborn screening** — WD is suitable for it, but no testing strategy has been established.
 - **Dietary copper restriction has little evidence base** — "few evidence-based data support a copper-restricted diet," and WD cannot be treated by diet alone.

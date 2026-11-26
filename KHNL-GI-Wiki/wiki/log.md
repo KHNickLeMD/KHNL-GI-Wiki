@@ -6,6 +6,23 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] lint | Quality review — release sweep, fourth run ($40 budget)
+
+**Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`; one subagent per page; unverified source pages verified first.
+
+**Skipped:** [[gallbladder-cancer]] and [[somatostatin-analogs]] (NCCN sources — EULA bars LLM use; awaiting Nick). [[ercp]] (15 of 23 source pages unverified — too large for one run).
+
+**Pages reviewed + verified:**
+- [[inflammatory-bowel-disease]] — **inpatient supportive care said "avoid NSAIDs"; AGA 2026 says use with caution, avoid opioids if possible (management)**; **VTE prophylaxis lacked "without absolute contraindications", agents (LMWH or fondaparinux) and the post-discharge high-risk rule (management)**; ASGE failed-consensus NSAID hold "≥4 wk"; unsourced CBC, histologic-healing and ⁷⁵SeHCAT wording fixed; COVID restart triggers restored. Old flowchart redrawn from AGA 2018 Figure 1 in role-class style with caption; calprotectin table; `## Contents` added; new sibling `## Endoscopic Monitoring of Treatment Response`; ~3,000 → ~2,600 words. Gate: NOMATCH 1 (COVID table row paraphrase; confirmed). Independent check (~110 claims): 1 management — **3-day IV steroid limit is for patients hospitalized for IBD with milder/incidental COVID-19, not severe viral illness ("back seat")** → fixed; 1 minor — 5-ASA "continue" in infected-asymptomatic not addressed by source → cell changed. Copies fixed: [[ulcerative-colitis]] ASUC supportive line credited "avoid NSAIDs" to AGA 2026 → re-credited to ACG 2025 with the AGA difference; [[aga-2020-ibd-covid-19]] 3-day scope; `index.md` (moderate stratum "or"; 3-day scope). Cards fixed in place: a31d08 (VTE contraindication qualifier, agents, discharge rule), a31d14 Back Extra (safe in confirmed illness).
+
+**Source pages verified:**
+- [[garcia-pagan-2008-bcs-tips-prognostic-index]] — ~52 claims; formula, coefficients, cut-off >7 and operating characteristics correct. Minor: TIPS access route split (hepatic vein stump 47 [38%], transcaval 70 [56.5%], not recorded 7); unsourced "score cannot be used to withhold TIPS" → the paper's 30% improvement over Rotterdam prediction.
+- [[darwish-murad-2004-rotterdam-bcs-score]] — ~110 claims; formula, coding, class bands and survival correct. Minor: deaths from combined causes 3 (8 = cause not retrievable); sex was not a multivariate candidate; "cohort predates modern stepwise management" contradicted by the paper (treated per then-current standards) → removed; BCS-TIPS components now pointed to Garcia-Pagán.
+- [[aga-2020-ibd-covid-19]] — ~75 claims; all 6 Take-Home Points present. **Moderate COVID-19 stratum is hypoxia OR radiographic pneumonia (page implied both; management, rendered p.4).** Minor: CMV ganciclovir trigger "active inflammation" as printed; Take-Home Point 1 quote exact. Added the missing Figure 1 branches/treatment boxes as a table (mild vs moderate/severe biologic delay "at least" 2 weeks, item 5, relapse branch, retest-in-2-weeks branch, footnotes) and the severe-COVID "back seat" line.
+- [[aasld-2022-wilson-disease]] — ~195 claims; all 38 guidance statements present and correct. Minor (borderline management): trientine tetrahydrochloride FDA approval scoped to previously treated D-penicillamine–tolerant patients (E64); once-daily dosing is about trientine generally; unsourced ">380 variants, no predominant mutation" → "no firm genotype–phenotype correlations"; Table 6 infant/toddler rule (reevaluate every 6 months, treat at 3 years unless organ damage); Nazer ≥7/≤6 bands added (E58).
+
+---
+
 ## [2026-11-26] update | Card pass — dedup, stale verified pages re-carded, card quality review ($10)
 
 **Dedup:** 2 candidate pairs. Merged celiac-plexus-block [cb000b] into endoscopic-ultrasound [e50003] (added `{also:celiac-plexus-block}`). Judged FLIP-panometry [fe110b] vs botulinum-toxin [b01103] distinct (diagnosis vs predicting botox response).

@@ -3,26 +3,39 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-11-11
+updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [aga-2026-inpatient-ibd, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2020-ibd-covid-19, asge-2025-ibd-endoscopy-consensus]
 ---
 
+## Contents
+- [[#Overview]]
+- [[#Where Each Topic Lives]]
+- [[#Index Endoscopy and Biopsy Protocol]]
+- [[#Endoscopic Monitoring of Treatment Response]]
+- [[#Inpatient Management of Hospitalized IBD]]
+- [[#Functional GI Symptoms in Quiescent IBD]]
+  - [[#Scale of the Overlap]]
+  - [[#Is It Inflammation? (BPA 1–4)]]
+  - [[#Biomarker Limits — the Decision Inputs Behind BPA 1–2]]
+  - [[#Diagnostic Algorithm]]
+  - [[#Acquired Mechanisms to Work Up Before Calling Symptoms Functional]]
+  - [[#Managing the Functional Component (BPA 5–14)]]
+- [[#IBD Therapy During an Acute Systemic Viral Illness]]
+
 ## Overview
 
-Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated disorders of the gastrointestinal (GI) tract: [[crohns-disease|Crohn's disease (CD)]] and [[ulcerative-colitis|ulcerative colitis (UC)]].
-
-**Distinguishing the two — see [[uc-vs-crohns-comparison]].** That page carries the guideline-sourced distribution/depth/granuloma/smoking/surgery comparison (American College of Gastroenterology [ACG] 2025 UC and ACG 2025 Crohn's) and flags which classical teachings the guidelines do *not* assert.
+Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated disorders of the gastrointestinal (GI) tract: [[crohns-disease|Crohn's disease (CD)]] and [[ulcerative-colitis|ulcerative colitis (UC)]]. Distinguishing the two: [[uc-vs-crohns-comparison]].
 
 ## Where Each Topic Lives
 
 | Topic | Page |
 |---|---|
 | Disease-specific diagnosis and therapy | [[crohns-disease]], [[ulcerative-colitis]] |
-| Index endoscopy indication, biopsy sites/density/timing | [[#Index Endoscopy and Biopsy Protocol]] (below) |
-| UC vs CD distinguishing features | [[uc-vs-crohns-comparison]] |
-| Endoscopic activity scoring (Mayo Endoscopic Subscore [MES], Ulcerative Colitis Endoscopic Index of Severity [UCEIS], Simple Endoscopic Score for Crohn's Disease [SES-CD], Rutgeerts) | [[ibd-endoscopic-scoring]] |
-| Vaccination, cancer screening, bone/mental health in the cancer-free patient | [[ibd-preventive-care]] |
-| Cancer risk from inflammation/drugs; what to do with IBD drugs once a cancer develops or with a prior cancer | [[ibd-in-malignancy]] |
+| Endoscopic activity scores | [[ibd-endoscopic-scoring]] |
+| Vaccination, cancer screening, bone/mental health | [[ibd-preventive-care]] |
+| Cancer risk; IBD drugs after or with a cancer | [[ibd-in-malignancy]] |
 | Anal cancer screening (general high-risk framework) | [[anal-cancer-screening]] |
 | Colitis-associated [[colorectal-cancer\|colorectal cancer (CRC)]] dysplasia surveillance | [[ulcerative-colitis#Colorectal Cancer Surveillance]] (technique on [[colonoscopy]]) |
 | Pregnancy and IBD (drug safety, monitoring, delivery) | [[crohns-disease#Pregnancy]] |
@@ -37,16 +50,16 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 
 ## Index Endoscopy and Biopsy Protocol
 
-*Cross-cutting rules from [[asge-2025-ibd-endoscopy-consensus|ASGE 2025 IBD Endoscopy Consensus]] — a **modified Delphi consensus with no evidence grades**; each statement carries only a panel agreement percentage. Disease-specific endoscopic findings stay on [[crohns-disease]] and [[ulcerative-colitis]].*
+*Cross-cutting rules from [[asge-2025-ibd-endoscopy-consensus|American Society for Gastrointestinal Endoscopy (ASGE) 2025 IBD Endoscopy Consensus]] — a **modified Delphi consensus with no evidence grades**. Disease-specific findings: [[crohns-disease]], [[ulcerative-colitis]].*
 
 - **Indication:** ileocolonoscopy in every patient with chronic diarrhea (**>4–6 wk**), persistent bleeding, new or unexplained anemia, weight loss, growth failure in children, or other alarming presentation. **Ileocolonoscopy with biopsy sampling is required for the diagnosis** of both CD and UC.
 - **Index biopsy set — at least 4 sets, one each from:** terminal ileum, right colon, left colon, rectum — **plus biopsies of every endoscopically reachable stricture.**
 - **Timing: biopsy before starting medical therapy.** Treated UC becomes patchy in about **one-third** of patients, which defeats extent assessment and CD-vs-UC separation.
 - **Density: 3 samples per region of interest is the minimum** needed to overcome microscopic heterogeneity and grade inflammation accurately in active colitis.
 - **Where to aim:** strictures, representative nodular and inflamed mucosa, and **the edge of an ulcer**. Endoscopically normal ileum and colon may also be sampled.
-- **Hold inflammation-inducing drugs,** [[nsaid-enteropathy|NSAIDs]] in particular, before a diagnostic ileocolonoscopy. A **4-week** hold specifically **failed to reach consensus** — so does the preference for polyethylene glycol over sodium phosphate preparation, despite the synopsis citing endoscopic mucosal lesions in 3.3% of a 730-patient sodium-phosphate series.
+- **Avoid inflammation-inducing drugs,** [[nsaid-enteropathy|nonsteroidal anti-inflammatory drugs (NSAIDs)]] in particular, before a diagnostic ileocolonoscopy. A **≥4-week** hold specifically **failed to reach consensus**, as did avoiding sodium phosphate preparation in favour of polyethylene glycol.
 - **Document a bowel preparation score** for diagnostic and therapeutic IBD endoscopy ([[bowel-preparation]]).
-- **Around the index exam:** CT enterography or magnetic resonance enterography to verify diagnosis, assess extent and look for stricture and fistula. [[intestinal-ultrasound|Intestinal ultrasound (IUS)]] "can be considered, where available" — the stronger statement encouraging onsite IUS **failed consensus**.
+- **Around the index exam:** computed tomography (CT) enterography or magnetic resonance enterography to verify diagnosis, assess extent and look for stricture and fistula. [[intestinal-ultrasound|Intestinal ultrasound (IUS)]] "can be considered, where available" — the stronger statement encouraging onsite IUS **failed consensus**.
 
 > [!pearl] Three histologic findings that settle an ambiguous biopsy
 > **Paneth cell metaplasia** distal to the splenic flexure marks chronic injury in CD or UC — it appears in only **0%–1.9%** of non-IBD distal colon (infectious, ischemic, prolapse). **Pyloric gland metaplasia** with severe active inflammation or crypt distortion in small-bowel mucosa, in a young patient with no prior bowel surgery, is strongly indicative of CD. Absence of granulomas never excludes CD — they appear in only **9%–67%** of patients ([[asge-2025-ibd-endoscopy-consensus]]).
@@ -54,30 +67,39 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 > [!pitfall] Two mimics are diagnosed by *where* you biopsy
 > [[segmental-colitis-associated-with-diverticulosis|Segmental colitis associated with diverticulosis]] spares the rectum → **biopsy the rectum** to separate it from IBD. Solitary rectal ulcer syndrome, rectal prolapse and rectocele inflame the distal rectum, preferentially the **anterior wall** → biopsy there ([[asge-2025-ibd-endoscopy-consensus]]).
 
-- **Monitoring after a therapy change:** flexible sigmoidoscopy, colonoscopy or ileocolonoscopy **with** clinical and laboratory biomarkers; interval and modality depend on IBD type, the drug's mechanism of action, and the response. Use a formal activity index — SES-CD for CD, Mayo for UC, Rutgeerts for postoperative CD ([[ibd-endoscopic-scoring]]).
-- **Endoscopic mucosal healing without histologic healing is sufficient to continue the current therapy** — endoscopic remission in the absence of histologic remission is **not** a treatment failure, and histologic healing is not yet a target in any guideline ([[treat-to-target-ibd]]).
+## Endoscopic Monitoring of Treatment Response
+
+*Same source ([[asge-2025-ibd-endoscopy-consensus]]).*
+
+- **After starting, escalating or switching therapy:** flexible sigmoidoscopy, colonoscopy or ileocolonoscopy **with** clinical and laboratory biomarkers to document response; interval and modality depend on IBD type, the drug's mechanism of action, and the response.
+- **Score it:** Simple Endoscopic Score for Crohn's Disease (SES-CD) for CD, Mayo for UC, Rutgeerts for postoperative CD ([[ibd-endoscopic-scoring]]).
+- **Endoscopic mucosal healing without histologic healing is sufficient to continue the current therapy** — endoscopic remission without histologic remission is **not** a treatment failure; histologic healing has not been set as a therapeutic target in clinical guidelines ([[treat-to-target-ibd]]).
 
 ## Inpatient Management of Hospitalized IBD
 
 *Cross-cutting framework from [[aga-2026-inpatient-ibd|American Gastroenterological Association (AGA) 2026 Clinical Practice Update (CPU) on Inpatient Management of IBD]]. Disease-specific pathways: [[ulcerative-colitis]] (Acute Severe UC) and [[crohns-disease]] (Fulminant/Hospitalized CD).*
 
 - **When to admit:** severe disease refractory to outpatient therapy, high suspicion for an IBD-related complication (intestinal obstruction, intra-abdominal abscess), or significant nutritional risk/failure to thrive. Increasingly patients are admitted for **failing outpatient therapy** rather than fulminant presentation.
-- **Initial workup:** IBD-tailored history/exam; complete blood count (CBC) (anemia), C-reactive protein (CRP) and/or fecal calprotectin; assess disease activity with **biomarkers + endoscopy when indicated**; evaluate for IBD-related complications and **concomitant infections** ([[clostridioides-difficile|C. difficile]], cytomegalovirus [CMV]). Preparatory labs for anticipated drugs: fasting lipid panel before [[calcineurin-inhibitors|cyclosporine]]/[[jak-inhibitors|Janus kinase (JAK) inhibitor]]; latent tuberculosis (TB) (tuberculin skin test [TST] or interferon-gamma release assay [IGRA] — IGRA preferred if bacille Calmette-Guérin [BCG]-vaccinated) and [[chronic-hepatitis-b|hepatitis B virus (HBV)]] testing; [[nutrition-in-hospitalized-patients|malnutrition screen]] (e.g., Malnutrition Universal Screening Tool [MUST]).
-- **Supportive care:** Intravenous (IV) hydration/electrolytes, treat anemia, pain control; avoid nonsteroidal anti-inflammatory drugs (NSAIDs).
-- **Venous thromboembolism (VTE) prophylaxis:** all hospitalized IBD patients should receive **prophylactic [[anticoagulation-gi-bleeding|anticoagulation]]** (open question: benefit of continuing at discharge).
+- **Initial workup:** IBD-tailored history/exam; anemia evaluation, C-reactive protein (CRP) and/or fecal calprotectin; assess disease activity with **biomarkers + endoscopy when indicated**; evaluate for IBD-related complications and **concomitant infections** ([[clostridioides-difficile|C. difficile]], cytomegalovirus).
+  - **Preparatory labs for anticipated drugs:** fasting lipid panel before [[calcineurin-inhibitors|cyclosporine]] or a [[jak-inhibitors|Janus kinase inhibitor]]; latent tuberculosis (tuberculin skin test or interferon-gamma release assay — the latter preferred if bacille Calmette-Guérin vaccinated); [[chronic-hepatitis-b|hepatitis B]] testing.
+  - **[[nutrition-in-hospitalized-patients|Malnutrition screen]]** with a validated tool (e.g., Malnutrition Universal Screening Tool), dietitian referral as indicated.
+- **Supportive care:** intravenous (IV) hydration/electrolytes, treat acute anemia, pain control — **avoid opioids if possible; use NSAIDs with caution** (may exacerbate intestinal ulceration). Pain detail: [[ibd-pain-management]].
+- **Venous thromboembolism (VTE) prophylaxis:** all hospitalized IBD patients **without absolute contraindications** should receive **prophylactic [[anticoagulation-gi-bleeding|anticoagulation]]** — subcutaneous low-molecular-weight heparin or fondaparinux. Inpatient IBD carries **2×** the VTE risk of non-IBD inpatients.
+  - **Continuing after discharge:** decide individually for those at especially high risk — recent surgery (within 3 months), active malignancy, lower-limb trauma, immobilization, thrombophilia; data are insufficient to support the practice.
 - **Discharge:** appropriate after resolution/stabilization of the acute indication — does **not** require CRP or imaging normalization; establish a clear outpatient transition plan (named responsible clinician, patient education) to reduce readmission.
 
 ## Functional GI Symptoms in Quiescent IBD
 
-*Symptoms do not track inflammation in either direction. Framework from [[aga-2018-functional-gi-symptoms-ibd|AGA 2018 CPU on Functional Gastrointestinal Symptoms in Patients With IBD]], which numbers 14 Best Practice Advice (BPA) statements and assigns **no** evidence grade, strength, or quality rating to any of them.*
+*Symptoms do not track inflammation in either direction. From [[aga-2018-functional-gi-symptoms-ibd|AGA 2018 CPU on Functional Gastrointestinal Symptoms in Patients With IBD]]: 14 numbered Best Practice Advice (BPA) statements, **no** evidence grades.*
 
 ### Scale of the Overlap
 
-- Pooled [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] prevalence across IBD: **39% (95% confidence interval [CI] 30%–48%)**; **odds ratio (OR) 4.89 (95% CI 3.43–6.98)** vs controls. The Update's own caveat: IBS was defined by Manning, Rome I, Rome II, Rome III or other validated questionnaires, and the 4 case-control studies were of low quality — the numbers "should be taken with caution." Disease-specific split on [[crohns-disease]]; endoscopic-remission discordance on [[ulcerative-colitis]].
-- Persistent diarrhea and abdominal pain in **16.3%** of IBD patients despite mucosal healing, associated with increased intestinal permeability.
-- An IBS diagnosis in IBD tracked **higher narcotic use** — **17% vs 11% in CD** and **9% vs 5% in UC/indeterminate colitis** (both P < .001).
-- **The stake is overtreatment.** Escalating anti-inflammatory therapy for symptoms driven by functional pathophysiology adds adverse-event risk with no symptomatic benefit. The Crohn's Disease Activity Index (CDAI) can be as high in IBS as in IBD — "no therapeutic decision should be taken based on clinical consideration alone."
-- **Cost concentrates in the psychosocially burdened few: 15% of IBD patients account for approximately 50% of health care expenditures**, apparently driven by concomitant chronic pain, depression and poor social support ([[aga-2018-psychogastroenterology]]).
+- Pooled [[irritable-bowel-syndrome|irritable bowel syndrome (IBS)]] prevalence across IBD: **39% (95% confidence interval [CI] 30%–48%)** — low-quality data the Update says "should be taken with caution." Disease-specific split on [[crohns-disease]]; endoscopic-remission discordance on [[ulcerative-colitis]].
+- Persistent diarrhea and abdominal pain in **16.3%** of IBD patients despite mucosal healing.
+- **15% of IBD patients account for approximately 50% of health care expenditures**, apparently driven by concomitant chronic pain, depression and poor social support ([[aga-2018-psychogastroenterology]]).
+
+> [!pitfall] Don't escalate on symptoms alone
+> Escalating anti-inflammatory therapy for functional symptoms adds adverse-event risk with no symptomatic benefit; the Crohn's Disease Activity Index (CDAI) can be as high in IBS as in IBD — "no therapeutic decision should be taken based on clinical consideration alone" ([[aga-2018-functional-gi-symptoms-ibd]]).
 
 ### Is It Inflammation? (BPA 1–4)
 
@@ -88,13 +110,25 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | **3** | Anatomic abnormalities or structural complications should be considered in patients with obstructive symptoms including abdominal distention, pain, nausea and vomiting, obstipation or constipation. |
 | **4** | Alternative pathophysiologic mechanisms should be considered and evaluated (small intestinal bacterial overgrowth, bile acid diarrhea, carbohydrate intolerance, [[chronic-pancreatitis\|chronic pancreatitis]]) based on predominant symptom patterns. |
 
-**Clinical assessment that precedes any test:** bowel-pattern history with the presence *and severity* of associated pain, incontinence episodes, urgency and tenesmus; alarm features (weight loss, nocturnal symptoms, bleeding, high-volume or high-frequency diarrhea, fevers); recent antibiotic use; symptom duration. **Alarm features, or acute onset in previously well-controlled disease, keep suspicion for inflammation high.** Examine for distension and masses, inspect for perianal disease, and — absent obvious perianal pathology — perform a **careful digital rectal exam** for mass lesions and for a rectal evacuation disorder.
+**Clinical assessment that precedes any test:**
+
+- History: bowel pattern; presence *and severity* of pain, incontinence episodes, urgency, tenesmus; alarm features (weight loss, nocturnal symptoms, bleeding, high-volume or high-frequency diarrhea, fevers); recent antibiotic use; symptom duration.
+- **Alarm features, or acute onset in previously well-controlled disease → keep suspicion for inflammation high.**
+- Exam: distension, masses, perianal disease; absent obvious perianal pathology, a **careful digital rectal exam** for mass lesions and a rectal evacuation disorder.
 
 ### Biomarker Limits — the Decision Inputs Behind BPA 1–2
 
-- **CRP: up to 15% of patients fail to mount a CRP response.** A normal CRP does not exclude active inflammation. Optimal cutoffs "remain a source of debate."
-- **Fecal calprotectin (FC) interpretive bands, as stated by this Update:** **<50 µg/g** may be reassuring and point toward consideration of a non-IBD etiology for persisting symptoms; **50–250 µg/g may be challenging to interpret**, since upper normal limits may vary and mild calprotectin elevation may be seen with nonspecific low-grade inflammation; **200–250 µg/g** was the range predicting endoscopic remission in both UC and CD. Single-study cutoffs cited: **<60 µg/g** for deep remission in UC (sensitivity 86%, specificity 87%) and **≤40.5 µg/g** for histologic remission (sensitivity 41%, specificity 100%).
-  - These are *interpretive* bands for persistent symptoms, not treat-to-target values — for the latter see [[ulcerative-colitis]] and [[crohns-disease]], whose newer guideline sources take precedence.
+- **CRP: up to 15% of patients fail to mount a CRP response.** Optimal biomarker cutoffs "remain a source of debate."
+- **Fecal calprotectin (FC)** — interpretive values for persistent symptoms as stated by this Update (not treat-to-target values; those live on [[ulcerative-colitis]] and [[crohns-disease]], whose newer guideline sources take precedence):
+
+| FC | What the Update says it means |
+|---|---|
+| **<50 µg/g** | May be reassuring; points toward a non-IBD etiology for persisting symptoms |
+| **50–250 µg/g** | May be challenging to interpret — upper normal limits vary; mild elevation occurs with nonspecific low-grade inflammation |
+| **200–250 µg/g** | Range of thresholds that may predict endoscopic remission in both UC and CD |
+| **<60 µg/g** | Predicted deep remission in UC (sensitivity 86%, specificity 87%; 1 retrospective review) |
+| **≤40.5 µg/g** | Predicted histologic remission (sensitivity 41%, specificity 100%; 1 prospective study) |
+
 - **The operative interval behind BPA 2: serial calprotectin every 3–6 months** in patients with mild symptoms, to catch impending flares early.
 - If a flare is suspected → **endoscopy with biopsies, or dedicated small-bowel imaging in CD.**
 
@@ -102,28 +136,24 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 
 ```mermaid
 flowchart TD
-    A["Suspicion of functional gastrointestinal symptoms"] --> B["Clinical assessment<br/>Laboratory assessment for inflammatory markers<br/>(e.g. CRP, calprotectin)"]
-    B --> C["Unequivocal inflammation*"]
-    B --> D["Borderline inflammation*"]
-    B --> E["No evidence of active inflammation"]
-    C --> F["Endoscopic/histopathologic<br/>&/or imaging assessment"]
-    D --> F
-    F --> G["Active inflammatory disease"]
-    F --> H["Symptoms less consistent with<br/>degree of inflammation"]
-    G --> I["Optimize anti-inflammatory therapy"]
+    A(["Suspected functional GI symptoms"]) --> B["Clinical assessment<br/>+ inflammatory markers (e.g. CRP, calprotectin)"]
+    B -- "Unequivocal or borderline inflammation*" --> F["Endoscopic / histopathologic<br/>and/or imaging assessment"]
+    B -- "No evidence of active inflammation" --> K["Non-inflammatory (functional) symptoms:<br/>identify pathophysiologic contributors<br/>(mechanisms table below)"]
+    F -- "Active inflammatory disease" --> I(["Optimize anti-inflammatory therapy"])
+    F --> H["Symptoms less consistent<br/>with degree of inflammation"]
+    H --> K
     H -.-> I
-    H --> J["Non-inflammatory (functional) symptoms"]
-    E --> J
-    J --> K["Identify pathophysiologic contributors"]
-    K --> L["Treat as for IBS"]
-    K --> M["Specific, targeted therapy"]
-    L --> N["Dietary therapy"]
-    L --> O["Psychotherapy"]
-    L --> P["Pharmacotherapy"]
-    L --> Q["Physiotherapy"]
+    K --> L(["Treat as for IBS"])
+    K --> M(["Specific, targeted therapy<br/>(mechanisms table below)"])
+    L --> N(["Dietary therapy · psychotherapy ·<br/>pharmacotherapy · physiotherapy"])
+    class A start
+    class B,F,H,K test
+    class I,L,M,N act
 ```
-
-*Figure 1 — Evaluation of suspected functional GI symptoms in IBD. \*Cut-off values for inflammatory markers such as calprotectin vary according to the clinical scenario; the figure sets no single threshold. ([[aga-2018-functional-gi-symptoms-ibd]])*
+*Evaluation of suspected functional GI symptoms in IBD (\*calprotectin and other marker cut-offs vary with the clinical scenario; dotted arrow as in the source)*
+*Source: redrawn from Figure 1 of the AGA 2018 Clinical Practice Update (four therapy boxes merged into one)*
+*[[aga-2018-functional-gi-symptoms-ibd|AGA 2018 CPU on Functional GI Symptoms in IBD]]*
+*GI = gastrointestinal · IBD = inflammatory bowel disease · CRP = C-reactive protein · IBS = irritable bowel syndrome*
 
 ### Acquired Mechanisms to Work Up Before Calling Symptoms Functional
 
@@ -132,7 +162,7 @@ flowchart TD
 | Anxiety and depression (inflammation-associated gut–brain axis change) | Pain, IBS, fatigue | Psychological or psychiatric evaluations | Psychological therapy, antidepressant, anxiolytic |
 | Hypervigilance, central sensitization of pain processing | Pain, IBS | — | Similar approaches as for IBS (see [[ibd-pain-management]]) |
 | Altered visceral sensory neurons (neuroinflammation); activation/sensitization of nociceptors; ↑mast cell density | Pain, IBS | — | — |
-| [[bile-acid-diarrhea\|Bile acid diarrhea]] | Diarrhea, IBS | ⁷⁵SeHCAT testing*, fecal bile acids | Bile salt sequestrant |
+| [[bile-acid-diarrhea\|Bile acid diarrhea]] | Diarrhea, IBS | Selenium-75-homocholic acid taurine (⁷⁵SeHCAT) testing*, fecal bile acids | Bile salt sequestrant |
 | [[small-intestinal-bacterial-overgrowth\|Small intestinal bacterial overgrowth]] | Diarrhea, bloating, gas, pain, IBS | Breath testing, culture of small bowel aspirates | Antibiotics |
 | [[exocrine-pancreatic-insufficiency\|Pancreatic exocrine insufficiency]] | Pain, weight loss, bloating, diarrhea | Fecal elastase | Pancreatic enzyme replacement |
 | Lactose or fructose malabsorption | Gas, bloating, diarrhea, IBS | Breath testing | Dietary restriction |
@@ -141,14 +171,14 @@ flowchart TD
 | [[defecation-disorders\|Pelvic floor dyssynergia]] | Pain, constipation, IBS | Rectal exam, anorectal physiological studies | [[biofeedback-therapy\|Biofeedback therapy]] |
 | [[celiac-disease\|Celiac disease]] (not IBD-specific) | Diarrhea, gas, malabsorption | Celiac serology, small intestinal biopsy | Gluten-free diet |
 
-\*⁷⁵SeHCAT (23-seleno-25-homotaurocholic acid) testing is not widely available in most countries outside Europe or Canada.
+\*⁷⁵SeHCAT testing is not widely available in most countries outside Europe or Canada.
 
-- **Pancreatic exocrine insufficiency is commoner than expected in IBD** — **OR 10.5 (95% CI 2.5–44.8)** vs controls by fecal elastase screening; falsely low elastase may simply reflect diarrhea, and its clinical significance in IBD remains undefined.
-- **Structural disease hides from ileocolonoscopy.** Active small-bowel CD, stenosis and fistulas can be missed without systematic cross-sectional small-bowel imaging. Transmural fibrosis also occurs in UC (thickened muscularis mucosa, increased collagen in mucosa, submucosa and sometimes muscularis propria/subserosa) and is likely to affect colonic motility and anorectal function **even without strictures or active mucosal disease**.
+- **Pancreatic exocrine insufficiency:** increased prevalence in IBD by fecal elastase screening, but falsely low elastase may reflect diarrhea, and its clinical significance in IBD remains undefined.
+- **Structural disease hides from ileocolonoscopy.** Active small-bowel CD, stenosis and fistulas can be missed without systematic cross-sectional small-bowel imaging. Fibrosis in UC is likely to affect colonic motility and anorectal function **even without strictures or active mucosal disease**.
 
 ### Managing the Functional Component (BPA 5–14)
 
-Therapy is borrowed from IBS — the Update notes "a paucity of randomized controlled trials or even prospective studies" in IBD.
+Therapy is borrowed from IBS — the Update notes "a paucity of randomized controlled trials or even prospective studies" in IBD. FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides, and polyols.
 
 | # | Best practice advice (verbatim) | Where the detail lives |
 |---|---|---|
@@ -163,30 +193,29 @@ Therapy is borrowed from IBS — the Update notes "a paucity of randomized contr
 | **13** | Physical exercise should be encourage[d] in IBD patients with functional GI symptoms. | — |
 | **14** | Until further evidence is available, complementary and alternative therapies should not be routinely offered for functional symptoms in IBD. | — |
 
-- **BPA 11's evidence base:** of **30 patients with IBD in remission and defecatory disorders, 30% had clinically relevant benefit from biofeedback therapy.**
-- **BPA 13:** moderate exercise is safe in quiescent or mildly active IBD and improves well-being without detectable effect on inflammatory activity; higher exercise levels tracked with decreased risk of active disease in CD patients in remission. Whether it helps the *functional* symptoms specifically is untested.
-- **BPA 14:** the complementary/alternative data (marijuana, curcumin, aloe vera, acupuncture, moxibustion) were not directed at functional symptoms and "have generally been of low quality."
+- **BPA 5 qualifier:** dietary instruction should be delivered by a dietitian, given common undernutrition in IBD.
+- **BPA 13:** moderate exercise is safe in quiescent or mildly active IBD; whether it helps the *functional* symptoms specifically is untested.
 
 ## IBD Therapy During an Acute Systemic Viral Illness
 
-*Framework from [[aga-2020-ibd-covid-19|AGA 2020 CPU on Management of IBD During the COVID-19 Pandemic]], written for coronavirus disease 2019 (COVID-19) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Its epidemiology and investigational-therapy content is of historical interest only; the hold-versus-continue ladder below is the part that generalizes. **Ungraded expert commentary** — no numbered Best Practice Advice, no evidence grades.*
+*From [[aga-2020-ibd-covid-19|AGA 2020 CPU on Management of IBD During the COVID-19 Pandemic]], written for coronavirus disease 2019 (COVID-19) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). **Ungraded expert commentary** — no numbered Best Practice Advice, no evidence grades.*
 
-**Baseline position:** patients with IBD are **not** at increased risk of acquiring the infection. Do not pre-emptively stop therapy — relapse "strains available medical resources, may require steroid therapy, or necessitate hospitalization, outcomes that are all much worse than the known risks of existing IBD therapies."
+**Baseline position:** patients with IBD do **not** appear to be at increased risk of infection. Do not pre-emptively stop therapy — relapse may require steroids or hospitalization, outcomes "much worse than the known risks of existing IBD therapies."
 
 | Agent class | Not infected | Infected, no symptoms | Confirmed illness |
 |---|---|---|---|
-| [[mesalamine-5-asa\|Aminosalicylates]], topical rectal therapy, diet, antibiotics | Continue | Continue | **Continue — considered safe** |
+| [[mesalamine-5-asa\|Aminosalicylates]], topical rectal therapy, diet, antibiotics | Continue | Not addressed | **Continue — considered safe** |
 | Oral budesonide | Continue | Switch to it from prednisone where feasible | Likely safe; may continue if needed for control |
 | Systemic [[corticosteroids-ibd\|corticosteroids]] | Continue | Reduce to **prednisone <20 mg/day** | **Avoid; discontinue quickly** — watch for adrenal insufficiency |
 | [[thiopurines]], [[methotrexate]], [[jak-inhibitors\|tofacitinib]] | Continue | **Hold** | **Hold** |
-| [[anti-tnf-agents\|Anti-TNF agents]], [[il-23-and-il-12-23-inhibitors\|ustekinumab]] | Continue | **Delay dosing 2 weeks** while monitoring | **Hold** |
-| [[vedolizumab]] | Continue | Delay dosing 2 weeks | Hold if the IBD is stable (consensus was uncertain it is necessary) |
+| [[anti-tnf-agents\|Anti–tumor necrosis factor (TNF) agents]], [[il-23-and-il-12-23-inhibitors\|ustekinumab]] | Continue | **Delay dosing 2 weeks** while monitoring | **Hold** |
+| [[vedolizumab]] | Continue | Delay dosing 2 weeks | Hold if the IBD is stable (an international consensus group was uncertain it is necessary) |
 
-- **Restart** after 2 weeks if no illness develops; after confirmed illness, restart on complete symptom resolution, negative repeat viral testing, or serologic evidence of convalescence. No interval or threshold is defined for any of the three — the trigger is left to clinical judgement.
-- **Infusion centres stay open.** Continue scheduled infusions where the centre prescreens for exposure and symptoms, checks temperatures at the door, spaces chairs **at least 6 feet apart**, uses and supplies masks and gloves, and deep-cleans after each patient. **Do not electively switch to an injectable** to avoid the centre — switching from infliximab to adalimumab was associated with relapse. **Home infusion is not recommended** (a travelling nurse can become a vector).
-- **New digestive symptoms during the viral illness:** first exclude [[clostridioides-difficile|C. difficile]] and other enteric pathogens; then confirm active inflammation **nonendoscopically** — C-reactive protein, fecal calprotectin, or cross-sectional imaging — reading all three with caution, since the viral illness itself can raise them.
-- **Hospitalized with severe IBD and the viral illness:** limit intravenous steroids to **3 days**, then decide between a [[calcineurin-inhibitors|calcineurin inhibitor]] and infliximab. Cytomegalovirus can be assessed by **serum polymerase chain reaction** to avoid [[colonoscopy]]. Surgical consultation as per standard practice.
-- **Endoscopy:** urgent and emergent indications only — procedures that will "urgently change management." In IBD that means biopsies to diagnose new severe disease, excluding cytomegalovirus when noninvasive tests are equivocal, or mucosal inspection that would direct surgery. Use **N95, N99, or powered air-purifying respirators rather than surgical masks, plus double-gloving**, for both [[upper-endoscopy|upper]] and lower endoscopy **regardless of the patient's infection status**.
+- **Restart** after 2 weeks if no illness develops; after confirmed illness, restart on complete symptom resolution or, if available, negative follow-up viral testing or serologic evidence of convalescence.
+- **Infusion centres stay open** if they prescreen for exposure and symptoms, check temperatures at the door, space chairs **at least 6 feet apart**, use and supply masks and gloves, and deep-clean after each patient. **Do not electively switch to an injectable** (infliximab → adalimumab switching was associated with relapse). **Home infusion is not recommended** (a travelling nurse can become a vector).
+- **New digestive symptoms during the viral illness:** first exclude [[clostridioides-difficile|C. difficile]] and other enteric pathogens; then confirm active inflammation **nonendoscopically** — CRP, fecal calprotectin, or cross-sectional imaging — read with caution, since the viral illness itself can make them abnormal.
+- **Hospitalized for IBD with milder or incidentally found viral illness:** treat the acute IBD by standard inpatient algorithms; limit intravenous steroids to **3 days**, then decide between a [[calcineurin-inhibitors|calcineurin inhibitor]] and infliximab. Cytomegalovirus can be assessed by **serum polymerase chain reaction** to avoid [[colonoscopy]]. Surgical consultation as per standard practice. **Severe viral illness:** IBD therapy "likely will take a back seat"; choose viral-illness therapy with the IBD in mind, if feasible.
+- **Endoscopy:** urgent and emergent only — where it will "urgently change management" (in IBD: biopsies to diagnose new severe disease, excluding cytomegalovirus when noninvasive tests are equivocal, or inspection that would direct surgery). Use **N95, N99, or powered air-purifying respirators rather than surgical masks, plus double-gloving**, for both [[upper-endoscopy|upper]] and lower endoscopy **regardless of the patient's infection status**.
 
 ## See Also
 

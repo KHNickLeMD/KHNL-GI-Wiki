@@ -3,7 +3,8 @@ title: "Determinants of Survival and the Effect of Portosystemic Shunting in Pat
 category: source
 tags: [budd-chiari-syndrome, rotterdam-score, prognostic-score, hepatic-vein-thrombosis, portosystemic-shunt, tips, hepatology]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Other Studies/Darwish Murad 2004 Budd-Chiari Determinants of Survival Rotterdam Score.pdf"
 ---
@@ -41,7 +42,7 @@ Multivariate Cox regression identified **four baseline variables** independently
 
 The second question the paper asks is whether **portosystemic shunting (PSS)** helps. Analysed as a time-dependent covariate — which removes the response-time bias that inflates shunt results in uncontrolled series — PSS showed a **trend toward improved survival only in class II**, the intermediate-prognosis group and the largest subgroup. Mortality risk rose the later the shunt was placed.
 
-The score is a **derivation without external validation in this paper**, and the cohort predates modern stepwise BCS management. The current guidelines restrict it accordingly — see *Contradictions / Open Questions*.
+The score is a **derivation without external validation in this paper**; the authors state patients were treated according to then-current therapeutic standards. The current guidelines restrict it accordingly — see *Contradictions / Open Questions*.
 
 ## Key Findings / Claims
 
@@ -67,7 +68,7 @@ The score is a **derivation without external validation in this paper**, and the
 | 15 years | 59% | 51–68 |
 
 - During follow-up **52 patients (22%) died** and **29 (12%)** underwent orthotopic liver transplantation; 20 were lost to follow-up.
-- Causes of death: liver failure 17, postoperative multiorgan failure 12, sepsis 4, new malignancy 2, cardiovascular disease 3, cerebrovascular accident 2, variceal bleeding 1, combinations 8.
+- Causes of death: liver failure 17, postoperative multiorgan failure 12, sepsis 4, new malignancy 2, cardiovascular disease 3, cerebrovascular accident 2, variceal bleeding 1, combinations 3; cause not retrievable in 8.
 
 ### The Four Independent Predictors
 Multivariate Cox regression, stratified by country, in the **205 patients with complete data** (Table 3):
@@ -80,7 +81,7 @@ Multivariate Cox regression, stratified by country, in the **205 patients with c
 | Bilirubin (µmol/L), continuous | .07 | 1.004 | 1.00–1.01 | **0.004** |
 
 - **Item scores are the natural logarithms of the corresponding risk ratios** — this is how the formula was built, not an arbitrary point assignment.
-- Age, sex, site of outflow obstruction and alanine aminotransferase were entered and eliminated by stepwise backward selection. **Albumin added nothing** when tested in the model.
+- Age, site of outflow obstruction and alanine aminotransferase were entered and eliminated by stepwise backward selection. **Albumin added nothing** when tested in the model.
 - Variables significant on univariate analysis but **not** independent: Child-Pugh score (*P* < .001), sodium (*P* = .03), creatinine (*P* = .01), albumin (*P* = .02).
 
 ### The Rotterdam Prognostic Index
@@ -135,18 +136,18 @@ Multivariate Cox regression, stratified by country, in the **205 patients with c
 - **Derivation only — no external validation cohort in this paper.** The classes were defined and evaluated in the same 205 patients.
 - **Retrospective**, from chart review; 205 of 237 had complete data for all four variables.
 - **Treatment was not randomized.** PSS and anticoagulation were given by physician choice, so every therapy comparison is confounded by indication even after time-dependent adjustment.
-- Cohort diagnosed **1984–2001**, before the current stepwise BCS algorithm and before routine TIPS.
+- Cohort diagnosed **1984–2001**; TIPS was 15% of shunts.
 - The ascites and bilirubin coefficients are retained in the formula despite *P* values of **.08** and **.07** respectively.
 
 ## Relevance to Wiki
-- **[[budd-chiari-syndrome]]** — supplies the component variables, coding, formula, score range and class boundaries of the Rotterdam score, which the page named but could not compute. Also the survival figures by class, the late-shunting mortality gradient, and the class-II PSS signal.
+- **[[budd-chiari-syndrome]]** — supplies the component variables, coding, formula, score range and class boundaries of the Rotterdam score. Also the survival figures by class, the late-shunting mortality gradient, and the class-II PSS signal.
 - **[[tips]]** — BCS-specific shunt data: 15% of shunts in this cohort were TIPS, with no survival difference by shunt type, and the timing gradient applies to shunting generally.
 - Tier-2 primary research. It **adds detail only** — it does not override [[baveno-viii-2026-portal-hypertension]] or [[acg-2020-hepatic-mesenteric-circulation]] on how the score may be used.
 
 ## Contradictions / Open Questions
 - **The guidelines restrict this score; the paper does not.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.36 states that available BCS prognostic scores "should not determine individual patient management alone, but can be used for research purposes" (level of evidence 3, strong). [[acg-2020-hepatic-mesenteric-circulation]] key concept 26 agrees that prognostic scoring systems are not helpful in guiding choice of therapy. **The guidelines win on [[budd-chiari-syndrome]]**; the components are recorded there for reference, not as a management trigger.
 - **The endpoint is characterized differently.** ACG 2020 describes the Rotterdam score as validated for *intervention-free* but not *transplant-free* survival. This paper's stated primary endpoint is **transplantation-free survival**, and a sensitivity analysis using death alone also held (*P* < .001). The discrepancy is unresolved by the documents in the wiki.
-- **The Baveno VII position is superseded.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the separate **BCS-TIPS prognostic index** with a score >7 as a trigger to consider transplantation before TIPS; Baveno VIII withdrew it. **The BCS-TIPS index is a different score from the Rotterdam index and its components are not in this paper** or in any other wiki source.
+- **The Baveno VII position is superseded.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the separate **BCS-TIPS prognostic index** with a score >7 as a trigger to consider transplantation before TIPS; Baveno VIII withdrew it. **The BCS-TIPS index is a different score from the Rotterdam index; its components are in [[garcia-pagan-2008-bcs-tips-prognostic-index]], not this paper.**
 - **Class-II shunting is a trend, not a result.** RR 0.63 with a confidence interval crossing 1 (0.26–1.49) and *P* = .29. The paper calls for prospective confirmation; none is in the wiki.
 
 ## See Also
