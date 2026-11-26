@@ -4,6 +4,7 @@ category: source
 tags: [portal-vein-thrombosis, budd-chiari, vascular-liver, anticoagulation, sos-vod, procedural-bleeding, hht, incph, guidance, aasld]
 created: 2026-06-04
 updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2021 Vascular Disorders Portal Vein Thrombosis.pdf"
 ---
@@ -53,7 +54,7 @@ The document numbers and grades nothing; grouping below is the wiki's, under the
 - Procedural bleeding risk is complex → **collaboration between specialists** to set the risk level and plan periprocedural hemostasis.
 - Conflicting data → **no data-driven INR or platelet cutoff** at which procedural bleeding risk is reliably increased.
 - **Identify and correct modifiable bleeding risk factors** before procedures, especially high-risk elective ones — recommended. Named factors: antithrombotic drugs, acute kidney injury (AKI), infection.
-- Text: post–endoscopic variceal ligation (EVL) bleeding is delayed and not predicted by INR/platelets; advanced cirrhosis, Child-Turcotte-Pugh (CTP) class C, was the main risk factor → prophylaxis based on traditional hemostasis tests before EVL is not recommended (p. 374–375).
+- Text: post–endoscopic variceal ligation (EVL) bleeding is delayed and not predicted by INR/platelets; advanced cirrhosis, Child-Turcotte-Pugh (CTP) class C, was the main risk factor → prophylaxis based on traditional hemostasis tests before EVL is not recommended (p. 375).
 
 *Guidance Statements, "Platelet Interventions and Therapies Targeting Primary Hemostasis," p. 377*
 - Reasonable to perform **both low- and high-risk procedures without prophylactically correcting the platelet count** (low bleeding risk of many procedures, transfusion risks, no evidence that raising platelets reduces bleeding, rescue transfusion/hemostasis available if bleeding occurs).

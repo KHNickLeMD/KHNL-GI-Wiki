@@ -4,6 +4,8 @@ category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
 updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [acg-2024-focal-liver-lesions]
 ---
 
