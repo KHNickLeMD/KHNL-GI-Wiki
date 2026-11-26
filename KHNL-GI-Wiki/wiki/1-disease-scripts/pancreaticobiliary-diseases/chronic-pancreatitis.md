@@ -236,7 +236,7 @@ Indicated when etiology is unclear — especially **early onset (<35 yr)**, fami
 *Governing source: [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] (all six recommendations **conditional**). [[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]] agrees on direction but **is superseded on stent number**.*
 
 > [!pearl] Ask the surgeon before the first ERCP
-> **No contraindication to surgery → surgical evaluation *before* initiating endoscopic management** (more durable pain relief). Contraindication to surgery, or patient prefers a less-invasive modality → **endoscopic management first** (Rec 1). ([[asge-2024-chronic-pancreatitis-endoscopy]])
+> **No contraindication to surgery → surgical evaluation *before* initiating endoscopic management**. Contraindication to surgery, or patient prefers a less-invasive modality → **endoscopic management first** (Rec 1). ([[asge-2024-chronic-pancreatitis-endoscopy]])
 
 - **Multidisciplinary approach strongly recommended** after failed medical pain management — confirm access to an expert endoscopist, a pancreatic surgeon and lithotripsy before choosing a route.
 - Surgery is one-time and gives **more durable** pain relief; endotherapy needs serial ERCPs over up to 12 mo ([[aga-2022-recurrent-pancreatitis-endoscopy]], best practice advice [BPA] 4).

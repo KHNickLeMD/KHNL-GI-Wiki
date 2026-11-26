@@ -3,14 +3,15 @@ title: "ACG 2020: Chronic Pancreatitis"
 category: source
 tags: [chronic-pancreatitis, pancreas, guideline, acg, hpb]
 created: 2026-05-19
-updated: 2026-11-16
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/ACG/ACG 2020 Chronic Pancreatitis.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Gardner TB, Adler DG, Forsmark CE, Sauer BG, Taylor JR, Whitcomb DC. ACG 2020: Chronic Pancreatitis. Am J Gastroenterol 2020;115:322–339.](https://doi.org/10.14309/ajg.0000000000000535)
+- **Article:** [Gardner TB, Adler DG, Forsmark CE, Sauer BG, Taylor JR, Whitcomb DC. ACG Clinical Guideline: Chronic Pancreatitis. Am J Gastroenterol 2020;115:322–339.](https://doi.org/10.14309/ajg.0000000000000535)
 - **Authors:** Gardner TB, Adler DG, Forsmark CE, Sauer BG, Taylor JR, Whitcomb DC
 - **Year:** 2020
 - **Journal/Publisher:** Am J Gastroenterol 2020;115:322–339
@@ -95,7 +96,7 @@ The guideline issues **11 numbered GRADE recommendations** (Table 2) and **10 nu
 
 - Antioxidant regimen studied: selenium, ascorbic acid, β-carotene, α-tocopherol, methionine. Two meta-analyses (9 and 12 trials) found an overall reduction in pain, but with a small effect size; optimal type and dose remain unclear.
 - Surgical vs endoscopic drainage: in the randomised trial underpinning Rec 7, complete/partial pain relief at 24 months was 32% (endoscopic) vs 75% (surgical), *P* = 0.007; endoscopic patients required more reinterventions (median 8 vs 3, *P* < 0.001).
-- Celiac plexus block: reported pain relief ranges widely (25–96%); median response duration ~68% for EUS-guided and 61% for percutaneous procedures. May be repeated on an "as-needed" basis, generally ≥3 months apart, if the initial block gave clinical benefit.
+- Celiac plexus block: reported pain relief ranges widely (25–96%); median response rate 68% for EUS-guided and 61% for percutaneous procedures. May be repeated on an "as-needed" basis, generally ≥3 months apart, if the initial block gave clinical benefit.
 
 ### EPI / Nutrition
 
@@ -106,11 +107,11 @@ The guideline issues **11 numbered GRADE recommendations** (Table 2) and **10 nu
 
 ### Diagnostic algorithm (Figures 1–2)
 
-Clinicopathologic algorithm: Suspicion → CT/MRI → EUS → s-MRCP → histology (negative at each step → consider alternative). Mechanistic algorithm (Fig 2) layers 3 levels: A (typical clinical/imaging/serum), B (family history, genetics, sweat chloride), C (IgG4, response to therapy, steroid trial for autoimmune pancreatitis [AIP]).
+Clinicopathologic algorithm (Fig 1): Suspicion → CT/MRI → (negative) EUS → (negative) secretin-enhanced MRCP → (negative) genetic testing for CP → (positive) pancreatic histology; a positive CT/MRI, EUS, s-MRCP or histology = consistent with CP; negative genetic testing or negative histology = not consistent with CP, consider alternative diagnosis. Mechanistic algorithm (Fig 2) layers 3 levels: A (typical clinical/imaging/serum), B (family history, genetics, sweat chloride), C (IgG4, response to therapy, steroid trial for autoimmune pancreatitis [AIP] type 2).
 
 ### Severity scoring
 
-M-ANNHEIM severity index — points are summed across six domains (Table 6):
+M-ANNHEIM severity index — points are summed across seven domains (Table 6):
 
 | Domain | Finding | Points |
 |---|---|---|
@@ -137,12 +138,11 @@ Total → severity level: **A** Minor 0–5 · **B** Increased 6–10 · **C** A
 
 - Primary source for [[chronic-pancreatitis]] disease script.
 - Reinforces [[acute-pancreatitis]] → RAP → CP progression model.
-- Relates to [[biliary-stricture]] (CP = most common benign extrahepatic stricture cause in Western countries).
 
 ## Contradictions / Open Questions
 
 - Mechanistic definition (2016/2018) vs. traditional clinicopathologic definition — guideline endorses transition; future guidelines likely will rely on mechanistic framework.
-- Pain management evidence base is weak across the board (most recs Conditional/Very Low) — wide practice variation expected.
+- Pain recommendations range from strong/moderate (Rec 7) to conditional/very low (Rec 10) — evidence is mixed.
 - Routine pancreatic malignancy screening in CP: Key Concept 5 — a lack of evidence that screening patients with CP for pancreatic malignancy is beneficial.
 
 ## See Also

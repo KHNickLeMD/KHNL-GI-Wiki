@@ -91,7 +91,7 @@ The panel included bariatric endoscopists, a bariatric surgeon, obesity medicine
 
 ### General points
 - **Durability:** EGR is effective to **at least 5 years**. Inadequate weight loss or regain can follow any EBMT. Options include repeat procedures, adding antiobesity medication, intensifying LM, or switching device, but the guideline did not evaluate them. **EBMTs do not prevent later bariatric surgery.**
-- **Cost-effectiveness:** ESG was cost-effective vs LM alone in class II obesity in the US and the UK, and vs GLP-1 receptor agonists (GLP-1RAs) and sleeve gastrectomy in the US.
+- **Cost-effectiveness (class II obesity):** ESG was cost-effective vs LM alone in the US and the UK, and vs GLP-1 receptor agonists (GLP-1RAs) and sleeve gastrectomy in the US.
 - **Evidence gaps:** long-term effects on comorbidities and mortality; combining EBMTs with each other or with antiobesity medications; personalization; periprocedural care; cost-effectiveness.
 
 ## Relevance to Wiki

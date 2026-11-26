@@ -130,7 +130,7 @@ The document gives **no evidence grades and no recommendation numbers** — it i
 ### HCC surveillance, portal hypertension, and liver transplantation (Table 4)
 
 - The indication for **HCC surveillance** and **portal hypertension management** should be based on published recommendations for the management of cirrhosis of any etiology.
-- After first hepatic decompensation (clinically evident ascites, variceal bleeding, or overt hepatic encephalopathy), patients with decompensated AATD-LD have a **higher risk of further decompensation, acute-on-chronic liver failure, requirement for liver transplantation, or death compared with other etiologies**.
+- After first hepatic decompensation (clinically evident ascites, variceal bleeding, or overt hepatic encephalopathy), patients with decompensated AATD-LD **may have a higher risk of further decompensation, acute-on-chronic liver failure, requirement for liver transplantation, or death compared with other etiologies**.
 - **Early consideration for liver transplantation is warranted in patients with decompensated AATD-LD.** Liver transplantation is the **only curative option** for decompensated AATD-LD.
 - These patients may have **higher risks of post-transplantation complications** compared with other etiologies; **early referral to a center with expertise in both transplant hepatology and AATD-LD is strongly recommended**.
 - **Any patient with decompensation, including ascites, variceal bleeding, or hepatic encephalopathy, should be evaluated promptly** to facilitate timely transplant listing and optimize pretransplantation care.

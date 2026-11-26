@@ -203,7 +203,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Grade 2 HE: ICU admission, neuro checks q1h
 - Grade 3–4 HE: endotracheal intubation (consider propofol; avoid opioids and benzodiazepines)
 - Lactulose: may be used in grade 1–2 HE (discontinue in grade 3–4 and before surgery due to bowel gas distension)
-- No conclusive evidence for lactulose or [[rifaximin]] specifically in ALF (evidence extrapolated from cirrhosis)
+- No conclusive evidence for or against lactulose or [[rifaximin]] in ALF; centers' rifaximin use is extrapolated from chronic liver disease data. Grade 3–4 HE → intubate and discontinue lactulose
 - Increased ICP — first line: hyperosmolar therapy (mannitol, hypertonic saline), hyperventilation, continuous renal replacement therapy (CRRT)
   - **3% saline**: bolus **250–500 mL**, or continuous infusion titrated to keep serum Na **<160 mmol/L**
   - Common practice targets serum Na **145–150 mmol/L**, but [[acg-2023-alf]] states it **found no supporting literature** for that target
@@ -216,12 +216,12 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **CRRT for hyperammonemia:**
 
 - Initiate early for grade 2+ encephalopathy, even without acute kidney injury (AKI) (conditional, very low quality)
-- Use CRRT over intermittent hemodialysis (less cardiovascular instability, better ammonia clearance)
+- Use CRRT over intermittent hemodialysis (less cardiovascular instability and cerebral edema; CRRT effectively lowers ammonia)
 
 **Coagulopathy:**
 
 - Do NOT routinely correct coagulopathy (conditional, very low quality) — INR does not reflect true bleeding risk
-- [[cirrhosis-hemostasis|Viscoelastic testing]] (rotational thromboelastometry/thromboelastography) preferred over INR to assess bleeding risk
+- [[cirrhosis-hemostasis|Viscoelastic testing]] (rotational thromboelastometry/thromboelastography) may provide a more accurate assessment of bleeding risk than INR; more studies are needed before recommending it uniformly
 - Correct with fresh frozen plasma (FFP), platelets, or Factor VII only before high-risk invasive procedures (e.g., ICP monitor placement)
 
 **Infection:**
@@ -239,11 +239,10 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 **Nutrition and metabolic:**
 
-- Glucose: maintain 150–180 mg/dL with continuous 10% dextrose in water (D10W); monitor mental status q1–2h
+- Hypoglycemia: constant dextrose 10% infusion to keep glucose 150–180 mg/dL; monitor mental status q1–2h
 - Avoid hypotonic fluids (risk of hyponatremia/cerebral edema)
 - [[nutrition-in-liver-disease|Enteral nutrition]] if unable to eat within 5–7 days; protein 1.0–1.5 g/kg/day
 - If severe hyperammonemia (**>150 µmol/L**): consider delaying/reducing protein for first 24–48h, then restart at 1.0 g/kg/day with ammonia monitoring
-  - *Unit note: [[acg-2023-alf]] prints this threshold as "150 mmol/L"; ammonia is reported in **µmol/L** and 150 mmol/L is a 1,000-fold typographic error in the source. Stated here in the correct unit.*
 - Monitor Mg and phosphorus q8–12h; replete as needed
 
 ### Etiology-Specific Treatments
@@ -300,7 +299,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 **[[autoimmune-hepatitis|AIH]]:**
 
-- Acute severe AIH (AS-AIH) without ALF: **IV corticosteroids** (prednisone/prednisolone 0.5–1 mg/kg/day or 60 mg/day total)
+- Acute severe AIH (AS-AIH): **IV corticosteroids** (Key Concept); for AS-AIH without ALF the text gives prednisone or prednisolone alone, **0.5–1 mg/kg or 60 mg total daily** in adults
 - SURFASA score (INR + bilirubin **within 3 days of initiating corticosteroids**) predicts non-response — 88% specificity, 84% sensitivity for LT or death → refer non-responders for LT [[acg-2023-alf]]
 
 **SURFASA — computing and applying it** [[de-martin-2021-surfasa-acute-severe-aih]]
@@ -342,7 +341,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **Ischemic hepatitis:**
 
 - Restore hemodynamic stability (vasopressors, treat underlying cause)
-- Consider NAC (limited evidence from case series)
+- NAC: two case reports suggest benefit — not yet supported in larger numbers
 - LT generally not indicated
 
 **Indeterminate/cryptogenic ALF:**

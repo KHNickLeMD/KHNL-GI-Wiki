@@ -3,7 +3,9 @@ title: "Endoscopic Sleeve Gastroplasty (ESG)"
 category: advanced-procedure
 tags: [obesity, endoscopic-sleeve-gastroplasty, endoscopic-gastric-remodeling, endoscopic-bariatric-therapy, endoscopic-suturing, overstitch, bariatric, weight-management]
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [asge-esge-2024-primary-ebmt, jirapinyo-2025-esg-delphi-standards, aga-2017-endoscopic-bariatric-therapies]
 ---
 
@@ -28,7 +30,7 @@ sources: [asge-esge-2024-primary-ebmt, jirapinyo-2025-esg-delphi-standards, aga-
 **Endoscopic sleeve gastroplasty (ESG)** treats [[obesity]] with endoluminal **full-thickness sutures** placed along the greater curvature with an endoscopic suturing device (OverStitch). The stomach becomes a narrow "sleeve" and its volume falls by **~70%** ([[jirapinyo-2025-esg-delphi-standards]]).
 
 - **Family:** the American Society for Gastrointestinal Endoscopy–European Society of Gastrointestinal Endoscopy (ASGE–ESGE) 2024 guideline groups ESG with [[endoscopic-bariatric-therapies|primary obesity surgery endoluminal (POSE)]] (Incisionless Operating Platform [IOP]) and Endomina plication as **endoscopic gastric remodeling (EGR)**. The suture is the implant in all three, and all reduce gastric **width and length** and are thought to **delay gastric emptying** ([[asge-esge-2024-primary-ebmt]]).
-- **Regulatory status:** OverStitch has a Conformité Européenne (CE) mark and **US Food and Drug Administration (FDA) De Novo authorization for obesity** (2022). IOP and Endomina have a CE mark and FDA 510(k) clearance for tissue approximation only.
+- **Regulatory status:** OverStitch has a Conformité Européenne (CE) mark and **US Food and Drug Administration (FDA) De Novo authorization for obesity** ([[asge-esge-2024-primary-ebmt]]), granted in 2022 ([[jirapinyo-2025-esg-delphi-standards]]). IOP and Endomina have a CE mark and FDA 510(k) clearance for tissue approximation only ([[asge-esge-2024-primary-ebmt]]).
 - **Availability:** in 2024, **[[intragastric-balloon|intragastric balloon (IGB)]] and EGR were the only endoscopic bariatric and metabolic therapies (EBMTs) commercially available and routinely used.**
 - Class-level context (other devices, American Gastroenterological Association [AGA] 2017 program advice): [[endoscopic-bariatric-therapies]].
 
@@ -40,7 +42,7 @@ sources: [asge-esge-2024-primary-ebmt, jirapinyo-2025-esg-delphi-standards, aga-
 | **Upper BMI limit?** | **None.** ESG can be primary therapy or a bridge to [[bariatric-surgery]]. | ASGE–ESGE Rec 1 |
 | **Is EGR advised?** | **Suggested: EGR plus lifestyle modification (LM) over LM alone.** | ASGE–ESGE Rec 6 — conditional, **moderate** certainty |
 | **Which device?** | Evidence is **insufficient to favor one device**. Choose by clinical context, patient values, availability and operator experience. | ASGE–ESGE Rec 6 |
-| **Contraindications?** | No list in either source. The Delphi panel names **active smoking** and **clinically significant [[portal-hypertension\|portal hypertension]]** as examples. | [[jirapinyo-2025-esg-delphi-standards\|Delphi 2025]] (expert opinion) |
+| **Contraindications?** | Neither ASGE–ESGE 2024 nor the Delphi consensus gives a full list. The Delphi panel names **active smoking** and **clinically significant [[portal-hypertension\|portal hypertension]]** as examples. | [[jirapinyo-2025-esg-delphi-standards\|Delphi 2025]] (expert opinion) |
 
 - **Why conditional:** patient values vary; some prefer LM alone despite losing less weight. Use **shared decision-making**. Most insurers and national systems do not cover ESG, which limits access to patients who can pay ([[asge-esge-2024-primary-ebmt]]).
 - Always pair ESG with **LM** (diet, physical activity, behavioral therapy) and a multidisciplinary team: dietitians, exercise physiologists, behavioral and obesity-medicine experts, bariatric surgeons.
@@ -61,17 +63,17 @@ xychart-beta
     y-axis "TWL at 12 months (%)" 0 --> 20
     bar [18.2, 16.5, 7.0]
 ```
-*Weight loss at 12 months by gastric-remodeling device*
+*Weight loss at 12 months by gastric-remodeling device (OverStitch 16 studies, IOP 4, Endomina 1)*
 *Source: data from the observational meta-analysis (21 studies, 5250 patients) in the ASGE–ESGE 2024 guideline*
 *[[asge-esge-2024-primary-ebmt|ASGE–ESGE 2024 Primary EBMT Guideline]]*
 *TWL = total weight loss · EGR = endoscopic gastric remodeling · ESG = endoscopic sleeve gastroplasty · IOP = Incisionless Operating Platform · POSE = primary obesity surgery endoluminal*
 
-> [!pitfall] Sham control and old technique shrink the RCT number
+> [!pitfall] Sham control and old technique shrink RCT results
 > The RCT pooled estimate is conservative. The lowest arm (4.95% TWL) was a **sham-controlled POSE** trial; its unblinded lead-in group lost 40% more, and an open-label trial of the same technique reached 13.0%. Older POSE trials also plicated the **fundus**, whereas current ESG stitches the **gastric body** ([[asge-esge-2024-primary-ebmt]]).
 
 ## Adverse Events
 
-- **RCTs (EGR vs control):** serious adverse events (SAEs) **14/435 vs 1/253**, relative risk **5.6** (95% CI 1.1–30.1); overall SAE rate **3.2%**. Many were short-lived nausea, vomiting, dehydration and pain that resolved without sequelae ([[asge-esge-2024-primary-ebmt]]).
+- **RCTs (EGR vs control):** serious adverse events (SAEs) **14/435 vs 1/253**, relative risk **5.6** (95% CI 1.1–30.1); overall SAE rate **3.2%**. Some were short-lived nausea, vomiting, dehydration and pain that resolved without sequelae ([[asge-esge-2024-primary-ebmt]]).
 - **ESG RCT examples (n = 131), 1 each:** abdominal abscess treated endoscopically; upper gastrointestinal (GI) bleeding managed conservatively; **malnutrition treated by endoscopic reversal of the ESG**.
 - **POSE RCT examples (n = 221):** extraluminal bleeding needing laparoscopy (1); hepatic abscess drained percutaneously (1); pain, nausea or vomiting prolonging admission (9).
 - **Early ESG series:** 5 of 242 (2%), all recovered without surgery: 2 perigastric fluid collections drained percutaneously, 1 self-limited bleed from a splenic laceration, 1 pulmonary embolism at 72 h, and 1 pneumoperitoneum with pneumothorax needing a chest tube ([[aga-2017-endoscopic-bariatric-therapies|AGA 2017]]).
@@ -105,7 +107,7 @@ xychart-beta
 | | Pull the helix and wall in, maneuver the scope, and place a **full-thickness** stitch (T7) |
 | | Create suture slack and work from a distance from the wall · load the needle driver without crossing the suture (T8–T9) |
 | **Closing each suture** | Drop the tissue anchor at the end of the pattern (T10) · cinch firmly enough to compress the stomach **without overtensioning**; **no suture visible** after cinching (T11) |
-| **Suture pattern** | **Suture 1:** start at the **incisura**, first stitch on the **anterior wall**; **6–12 full-thickness bites**; **continuous** pattern, either single-row running or U-pattern (T16–T18) |
+| **Suture pattern** | **Suture 1:** start at the **incisura**, first stitch on the **anterior wall**; **6–12 full-thickness bites** (number depends on running vs U-pattern); **continuous** pattern, either single-row running or U-pattern (T16–T18) |
 | | *Optional* **suture 2:** an interrupted reinforcement suture right next to the running or U-suture (T19) |
 | | **6–10 sutures in total** (T20) · **identify the fundus and do not suture it** (T21) |
 | **Finishing** | Troubleshoot as needed; recognize and manage intraprocedural adverse events such as bleeding (T12–T13) · remove the device **with the handle closed** (T14) |
@@ -114,10 +116,12 @@ xychart-beta
 > [!pearl] A thick fold means extragastric tissue
 > A thick gastric fold on the helix suggests it has caught tissue next to the stomach. A thin fold suggests adequate capture without external structures. *See Figure 1 in [[jirapinyo-2025-esg-delphi-standards]] for endoscopic images: thick vs thin folds, partial- vs full-thickness stitches, the running and reinforcement sutures, and the fundus.*
 
-> [!pitfall] The suture pattern changes weight loss
+> [!pitfall] MERIT's suture pattern is considered inadequate
 > MERIT used a suture pattern that gave only **13.6% total weight loss**, which most experts consider inadequate ([[jirapinyo-2025-esg-delphi-standards]]).
 
 - **Why:** the fundus is thin and vascular (risk, no benefit). The overtube and APC are optional because experienced operators pass the device safely and know the anatomy without marking.
+- **No suture pattern has strong evidence of superiority;** new patterns should be developed within clinical studies.
+- **Not endorsed:** grasping tissue with forceps instead of the helix (limited safety and efficacy data). Scope torquing to minimize alpha loops in the U-pattern is not mandatory (too advanced for some endoscopists).
 - **Extent differs from the older description:** AGA 2017 described sutures running from the prepyloric antrum to the gastroesophageal junction. The 2025 consensus starts at the incisura and spares the fundus.
 
 ## Training
@@ -130,13 +134,13 @@ xychart-beta
 - Diagnose and manage adverse events.
 - Communicate well with the team.
 
-Institutional privileging and the general EBT knowledge base are on [[endoscopic-bariatric-therapies#Training and Credentialing]].
+Institutional privileging and the general endoscopic bariatric therapy (EBT) knowledge base are on [[endoscopic-bariatric-therapies#Training and Credentialing]].
 
 ## After ESG
 
 - **Regain can happen** after any EBMT. Options are repeat procedures, adding [[glp-1-receptor-agonists|antiobesity medication]], intensifying LM, or switching to another device or procedure; the guideline did not evaluate them ([[asge-esge-2024-primary-ebmt]]).
 - **ESG does not prevent later [[bariatric-surgery]].**
-- **Cost-effectiveness:** ESG was cost-effective vs LM alone in class II obesity in the US and the UK, and vs glucagon-like peptide-1 receptor agonists and sleeve gastrectomy in the US.
+- **Cost-effectiveness (class II obesity):** ESG was cost-effective vs LM alone in the US and the UK, and vs glucagon-like peptide-1 receptor agonists and sleeve gastrectomy in the US ([[asge-esge-2024-primary-ebmt]]).
 
 ---
 

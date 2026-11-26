@@ -3,7 +3,8 @@ title: "AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Li
 category: source
 tags: [hepatic-encephalopathy, HE, cirrhosis, lactulose, rifaximin, MHE, covert-HE, overt-HE, ammonia, TIPS, portosystemic-shunting, liver-transplantation, nutrition, BCAAs]
 created: 2026-05-28
-updated: 2026-09-20
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AASLD/AASLD EASL 2014 Hepatic Encephalopathy.pdf"
 ---
@@ -22,7 +23,7 @@ raw: "GI Guidelines/AASLD/AASLD EASL 2014 Hepatic Encephalopathy.pdf"
 
 ## Summary
 
-This joint American Association for the Study of Liver Diseases (AASLD)/European Association for the Study of the Liver (EASL) practice guideline standardizes the terminology, classification, diagnosis, and treatment of hepatic encephalopathy (HE) in chronic liver disease (CLD) in adults. The focus is Type C HE (cirrhosis-related) and Type B HE (portosystemic shunting without intrinsic hepatocellular disease); Type A (acute liver failure [ALF]–associated HE) is covered separately. The guideline explicitly acknowledges the high degree of heterogeneity in prior literature due to inconsistent definitions and grading, and aims to provide a framework to address this.
+This joint American Association for the Study of Liver Diseases (AASLD)/European Association for the Study of the Liver (EASL) practice guideline standardizes the terminology, classification, diagnosis, and treatment of hepatic encephalopathy (HE) in chronic liver disease (CLD) in adults. The focus is Type C HE (cirrhosis-related) and Type B HE (resulting predominantly from portosystemic bypass or shunting); Type A (acute liver failure [ALF]–associated HE) is covered separately. The guideline explicitly acknowledges the high degree of heterogeneity in prior literature due to inconsistent definitions and grading, and aims to provide a framework to address this.
 
 The guideline adopts the ISHEN (International Society for Hepatic Encephalopathy and Nitrogen Metabolism) classification system — characterizing HE on four axes simultaneously: underlying disease type (A/B/C), severity (Minimal/Covert/West Haven Grades 1–4), time course (episodic/recurrent/persistent), and precipitating factors (spontaneous or precipitated/specify).
 
@@ -85,16 +86,16 @@ Every case is described by one component from each axis; the full West Haven/ISH
 
 | Axis | Categories | Operative detail given by the guideline |
 |---|---|---|
-| Underlying disease | Type **A** / **B** / **C** | A = [[acute-liver-failure\|ALF]] (managed under separate ALF guidance, may raise intracranial pressure [ICP], not covered here); B = portosystemic bypass/shunting without intrinsic hepatocellular disease; C = [[cirrhosis]]. B and C present alike |
+| Underlying disease | Type **A** / **B** / **C** | A = [[acute-liver-failure\|ALF]] (managed under separate ALF guidance, may raise intracranial pressure [ICP], not covered here); B = predominantly portosystemic bypass/shunting; C = [[cirrhosis]]. B and C present alike |
 | Severity | Unimpaired → Minimal → Grades 1–4 (West Haven); **Covert** = Minimal + Grade 1, **Overt** = Grades 2–4 | Onset of disorientation or asterixis marks the onset of OHE. Disorientation and asterixis have good inter-rater reliability; Grade 1 does not |
 | Time course | Episodic / **Recurrent** / **Persistent** | Recurrent = bouts recurring at an interval of **6 months or less**. Persistent = behavioral alterations always present, interspersed with relapses of overt HE |
 | Precipitating factors | Nonprecipitated / **Precipitated (specify)** | Episodic OHE, by decreasing frequency: infections, gastrointestinal (GI) bleeding, diuretic overdose, electrolyte disorder, constipation, unidentified. Recurrent OHE: electrolyte disorder, infections, unidentified, constipation, diuretic overdose, GI bleeding |
 
-**Tests named for MHE/CHE (Recommendation 7).** No single test is valid across the spectrum, so use **at least two**, one of which should be widely accepted enough to serve as a comparator — in practice paper-pencil (**Psychometric Hepatic Encephalopathy Score [PHES]**) plus one computerized (**continuous reaction time [CRT]**, **inhibitory control test [ICT]**, **SCAN**, or **Stroop**) or neurophysiological (**critical flicker frequency [CFF]** or **electroencephalography [EEG]**) test. Test only patients without confounders (neuropsychiatric disease, psychoactive medication, current alcohol use); repeat in 6 months if normal. A positive test before stopping HE drug therapy identifies patients at risk of recurrent HE.
+**Tests named for MHE/CHE (Recommendation 7).** No single test is valid across the spectrum, so use **at least two**, one of which should be widely accepted enough to serve as a comparator. For multicenter studies, the consensus diagnosis uses paper-pencil (**Psychometric Hepatic Encephalopathy Score [PHES]**) plus one computerized (**continuous reaction time [CRT]**, **inhibitory control test [ICT]**, **SCAN**, or **Stroop**) or neurophysiological (**critical flicker frequency [CFF]** or **electroencephalography [EEG]**) test; single-center/routine use may rely on familiar tests that have normative reference data. Test only patients without confounders (neuropsychiatric disease, psychoactive medication, current alcohol use); repeat in 6 months if normal. A positive test before stopping HE drug therapy identifies patients at risk of recurrent HE.
 
 ## Key Clinical Data Points
 
-- MHE/CHE prevalence in cirrhosis: 20–80%; in patients with chronic liver disease the occurrence "seems to be as high as 50%". Predicts OHE development, poor quality of life, and impaired driving
+- MHE/CHE prevalence in cirrhosis: 20–80%; in patients with chronic liver disease the occurrence "seems to be as high as 50%". Testing can prognosticate OHE development and indicates poor quality of life and reduced socioeconomic potential; a diagnosis of MHE/CHE does not automatically make the patient a dangerous driver
 - OHE at cirrhosis diagnosis: 10–14% general; 16–21% decompensated; 10–50% with [[tips|TIPS]]
 - Risk of a **first** bout of OHE: 5–25% within 5 years of cirrhosis diagnosis, depending on risk factors (MHE/CHE, infection, variceal bleeding, ascites, probably diabetes and hepatitis C)
 - Cumulative OHE in cirrhosis: 30–40% at some point during disease course
@@ -120,7 +121,7 @@ Every case is described by one component from each axis; the full West Haven/ISH
 ## Contradictions / Open Questions
 
 - **Protein restriction:** This 2014 guideline endorses 1.2–1.5 g/kg/day; AASLD 2024 ACLF GS 42 endorses 1.2–2.0 g/kg ideal body weight (IBW)/day in critically ill ACLF. Both oppose protein restriction. Consistent direction, ACLF endpoint is higher.
-- **Rifaximin dosing post-TIPS:** Neither rifaximin nor lactulose prevents post-TIPS HE (Grade III, B, 1). Careful patient selection (prior recurrent HE = relative TIPS contraindication) is the preferred strategy.
+- **Post-TIPS HE prophylaxis:** one study found neither rifaximin nor lactulose prevented post-TIPS HE better than placebo; routine prophylaxis is not recommended (Rec 27, GRADE III, B, 1). Careful case selection has reduced severe post-TIPS HE; if it occurs, shunt diameter reduction can reverse it.
 - **Ammonia monitoring in ACLF:** This 2014 guideline: ammonia adds no value in CLD. AASLD 2024 ACLF GS 11: routine ammonia NOT recommended in ACLF. Entirely consistent.
 - **Newer agents:** ornithine phenylacetate had been studied but further clinical reports were awaited at publication. Glyceryl phenylbutyrate was tested in one randomized controlled trial (RCT) in patients with ≥2 HE episodes in the prior 6 months on standard therapy, with fewer HE episodes and hospitalizations and longer time to first event; the guideline calls for confirmation before a clinical recommendation.
 - **Lactulose's own evidence base is weak:** a large meta-analysis did not fully support lactulose as a therapeutic agent for OHE, though it excluded the largest trials for technical reasons; most recent lactulose trials were open-label. Lactitol is preferred in some centres. Flumazenil transiently improves mental status without improving recovery or survival. Simple laxatives alone lack the prebiotic effect of the disaccharides. Probiotics could not be recommended as therapeutic options.

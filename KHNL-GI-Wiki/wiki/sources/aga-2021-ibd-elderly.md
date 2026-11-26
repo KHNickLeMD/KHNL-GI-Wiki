@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Inflammatory Bowel Disease
 category: source
 tags: [ibd, crohns, ulcerative-colitis, elderly, older-adults, frailty, immunosenescence, vaccination, health-maintenance, polypharmacy, surgery, thiopurines, anti-tnf, vedolizumab, ustekinumab, tofacitinib, budesonide]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU IBD in Elderly.pdf"
 ---
@@ -239,4 +240,4 @@ flowchart TD
 - **Combination therapy in older patients is unresolved** — REACT post hoc found no added risk; a separate cohort found twice the rate of early therapy discontinuation.
 - **Tofacitinib safety is extrapolated from rheumatoid arthritis (RA)**, not IBD; the boxed-warning VTE signal comes from an interim analysis in RA patients with cardiovascular risk factors.
 - **Surgical risk data conflict** — small studies show no difference in postoperative complications by age; the NSQIP analysis shows higher 30-day mortality and complications.
-- **Newer positioning frameworks supersede Figure 2 for drug sequencing.** Figure 2 predates the IL-23 (p19) inhibitors and the selective JAK-1 inhibitors now ranked on [[crohns-disease]] and [[ulcerative-colitis]] by the AGA living guidelines; this Update's contribution is the **age- and frailty-specific safety overlay**, not the efficacy ordering.
+- **Figure 2 is not a full drug-sequencing guide.** It names no IL-23 (p19) inhibitor or selective JAK-1 inhibitor; drug positioning lives on [[crohns-disease]] and [[ulcerative-colitis]]. This Update's contribution is the **age- and frailty-specific safety overlay**, not the efficacy ordering.

@@ -1,16 +1,17 @@
 ---
-title: "ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease"
+title: "ACG Clinical Guideline: Malnutrition and Nutritional Recommendations in Liver Disease"
 category: source
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-09-29
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Nutrition in Liver Disease.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ. ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease. Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379.](https://doi.org/10.14309/ajg.0000000000003379)
+- **Article:** [Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ. ACG Clinical Guideline: Malnutrition and Nutritional Recommendations in Liver Disease. Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379.](https://doi.org/10.14309/ajg.0000000000003379)
 - **Authors:** Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ
 - **Year:** 2025 (published online May 2, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379
@@ -19,7 +20,7 @@ raw: "GI Guidelines/ACG/ACG 2025 Nutrition in Liver Disease.pdf"
 
 ## Summary
 
-First ACG guideline on malnutrition and nutrition in liver disease. Covers the spectrum of steatotic liver disease ([[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]], metabolic dysfunction-associated steatohepatitis (MASH), [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]]/alcohol-associated hepatitis (AAH)) through decompensated cirrhosis. Malnutrition (most commonly sarcopenia) is common in cirrhosis, worsens with disease severity, and adversely affects mortality, waitlist, and post-transplant outcomes.
+ACG guideline on malnutrition and nutrition in liver disease. Covers the spectrum of steatotic liver disease ([[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]], metabolic dysfunction-associated steatohepatitis (MASH), [[alcohol-associated-liver-disease|alcohol-associated liver disease (ALD)]]/alcohol-associated hepatitis (AAH)) through decompensated cirrhosis. Malnutrition (most commonly sarcopenia) is common in cirrhosis, worsens with disease severity, and adversely affects mortality, waitlist, and post-transplant outcomes.
 
 Key practical recommendations: small frequent meals + nighttime snack (7–10 PM) + ≥2 cups coffee/day for stable outpatients with cirrhosis; do NOT restrict protein in [[hepatic-encephalopathy|hepatic encephalopathy (HE)]]; branched-chain amino acids (BCAAs) + standard therapy for HE (strong recommendation); late evening snacks reduce risk of [[ascites]] and HE (strong recommendation); vitamin E 800 IU/day in MASH without cirrhosis.
 
@@ -30,11 +31,11 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 | 1 | Early oral/enteral nutrition supplementation in hospitalized cirrhosis patients | Conditional/Low |
 | 2 | Nutritional supplementation therapy in cirrhosis or alcohol-associated hepatitis | Conditional/Very low |
 | 3 | MASH without cirrhosis: natural vitamin E 800 IU/day | Conditional/Low |
-| 4 | Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] development | Conditional/Low |
+| 4 | Coffee, preferably ≥2 cups/day, in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]] development | Conditional/Low |
 | 5 | Cirrhosis + ascites on diuretics: no recommendation for or against strict sodium restriction | Insufficient evidence |
 | 6 | **Do NOT restrict dietary protein** in decompensated cirrhosis with hepatic encephalopathy | Conditional/Very low |
-| 7 | Vegetable-source protein diet in cirrhosis + HE requiring nutritional supplementation (better tolerated than animal protein) | Conditional/Low |
-| 8 | **BCAAs + standard of care** (lactulose + [[rifaximin]]) in cirrhosis with hepatic encephalopathy | **Strong/Moderate** |
+| 7 | Diet enriched in vegetarian sources of protein in cirrhosis + HE requiring nutritional supplementation (better tolerated than animal protein) | Conditional/Low |
+| 8 | **BCAAs (when available) + standard of care** (lactulose + [[rifaximin]]) in cirrhosis with hepatic encephalopathy | **Strong/Moderate** |
 | 9 | **Late evening snacks** (counseling) in cirrhosis — improve body mass index (BMI), lean muscle mass, reduce ascites and HE risk | **Strong/Moderate** |
 
 ## Key Concepts (Table 3, Selected)
@@ -57,13 +58,13 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 
 **Micronutrients:**
 
-- Zinc supplementation for hypozincemia or symptoms/signs of zinc deficiency
+- Zinc supplementation should be considered for hypozincemia and/or symptoms/signs of zinc deficiency
 - Vitamin D: limited evidence; supplement if level is low (bone and liver benefits possible)
 
 **Special populations:**
 
 - ALD/AAH: detailed dietary assessment; ensure adequate nutritional intake
-- MASH: lifestyle modification (diet + exercise) → decreases adverse clinical outcomes; independent of fibrosis severity
+- MASH: lifestyle modification (diet + exercise) → decreases adverse clinical outcomes; independent of MASH disease severity
 - Free water restriction when Na <126 mEq/L in cirrhosis with fluid retention (ascites/edema)
 
 ## Recommendations
@@ -76,14 +77,14 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 | **Steatotic Liver Disease** | | |
 | Natural vitamin E 800 IU/day in MASH without cirrhosis | Conditional | Low |
 | **Coffee** | | |
-| Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or HCC development | Conditional | Low |
+| Coffee, preferably ≥2 cups/day, in chronic liver disease to reduce hepatic fibrosis progression or HCC development | Conditional | Low |
 | **Sodium Restriction** | | |
 | No recommendation for or against strict sodium restriction in cirrhosis with ascites on diuretics | Insufficient evidence | — |
 | **Hepatic Encephalopathy — Protein** | | |
 | Do NOT restrict dietary protein in decompensated cirrhosis with hepatic encephalopathy | Conditional | Very Low |
-| Use vegetable-source protein diet in cirrhosis with HE requiring nutritional supplementation | Conditional | Low |
+| Use a diet enriched in vegetarian sources of protein in cirrhosis with HE requiring nutritional supplementation | Conditional | Low |
 | **Hepatic Encephalopathy — BCAAs** | | |
-| Use BCAAs + standard of care (lactulose + rifaximin) in cirrhosis with hepatic encephalopathy | Strong | Moderate |
+| Use BCAAs (when available) + standard of care (lactulose + rifaximin) in cirrhosis with hepatic encephalopathy | Strong | Moderate |
 | **Late Evening Snacks** | | |
 | Counsel cirrhosis patients on late evening snacks to improve BMI, lean muscle mass, and reduce ascites and HE risk | Strong | Moderate |
 
@@ -93,7 +94,8 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 
 ## Contradictions / Open Questions
 
-- Sodium restriction in cirrhosis with ascites: insufficient evidence for or against strict restriction despite widespread use
+- Sodium restriction in cirrhosis with ascites: insufficient evidence for or against strict restriction (the guideline notes AASLD recommends moderate restriction to 2,000 mg/d salt [88 mEq sodium] with diuretics)
 - Vitamin E only for MASH without cirrhosis; not studied adequately in cirrhotic MASH
-- Coffee recommendation based on observational data (no randomized controlled trials [RCTs]); mechanism may include antioxidant/anti-inflammatory/antifibrotic effects
+- Coffee recommendation based on epidemiologic studies, meta-analyses and animal data; polyphenols have antioxidant and anti-inflammatory properties
 - Optimal protein intake quantity and source (vegetable vs animal) still needs prospective study
+- **Free-water restriction threshold is internally inconsistent:** Key Concept 17 says serum sodium below **126 mEq/L**; the body text says most organizations recommend fluid restriction when sodium falls below **125 mEq/L**. This page follows Key Concept 17.

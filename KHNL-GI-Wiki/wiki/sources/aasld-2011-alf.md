@@ -3,7 +3,8 @@ title: "AASLD Position Paper: The Management of Acute Liver Failure: Update 2011
 category: source
 tags: [acute-liver-failure, hepatology, transplant, cerebral-edema, acetaminophen, kings-college-criteria, intracranial-hypertension]
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2011 Acute Liver Failure Management.pdf"
 ---
@@ -81,7 +82,7 @@ The document numbers its own recommendations **1–48** and labels each with a *
 | Herpes simplex / varicella-zoster | **Acyclovir 5–10 mg/kg every 8 hours for at least 7 days.** Patients are often **anicteric and appear septic**; skin lesions present in only about **50%**. Biopsy helps make the diagnosis. |
 | Wilson disease | 2–3% of US ALF cases; fulminant presentation **uniformly fatal without transplantation**. Coombs-negative hemolytic anemia with bilirubin **>20 mg/dL**; Kayser-Fleischer rings in **~50%**; ceruloplasmin low but **normal in up to 15%**; very low alkaline phosphatase or uric acid; **bilirubin (mg/dL) to alkaline phosphatase (IU/L) ratio >2.0** is a rapid, reliable indirect indicator. Lower copper with albumin dialysis, continuous hemofiltration, plasmapheresis, or plasma exchange. **Penicillamine is not recommended in ALF** — risk of hypersensitivity. |
 | Autoimmune hepatitis | Autoantibodies **absent in up to 30%** → biopsy if suspected and antibodies negative. Steroids (**prednisone 40–60 mg/day**) may be tried in early-stage ALF **without multi-organ failure**, but may be deleterious; do **not** delay transplant evaluation awaiting a response. |
-| Acute fatty liver of pregnancy / hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome | Generally confined to the last trimester. Triad of jaundice, coagulopathy, low platelets, often with hypoglycemia; pre-eclampsia features common; steatosis on imaging, Oil-red O staining on biopsy. Intrahepatic hemorrhage or hepatic rupture are rare emergencies. Recovery is usually rapid after delivery; postpartum deterioration needing transplantation is recognized. |
+| Acute fatty liver of pregnancy / hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome | Generally confined to the last trimester. Triad of jaundice, coagulopathy, low platelets, which may occasionally be associated with hypoglycemia; pre-eclampsia features common; steatosis on imaging, Oil-red O staining on biopsy. Intrahepatic hemorrhage or hepatic rupture are rare emergencies. Recovery is usually rapid after delivery; postpartum deterioration needing transplantation is recognized. |
 | Acute ischemic injury ("shock liver") | After cardiac arrest, significant hypovolemia/hypotension, or severe congestive heart failure; documented hypotension not always found. Aminotransferases and lactate dehydrogenase markedly elevated, improving rapidly once the circulation stabilizes. Simultaneous renal dysfunction and muscle necrosis. **Transplantation is seldom indicated.** |
 | Budd-Chiari syndrome | Abdominal pain, [[ascites]], striking hepatomegaly. Confirm with imaging (computerized tomography (CT), Doppler ultrasonography, venography, magnetic resonance venography) and test for hypercoagulable conditions. Transplantation rather than venous decompression when hepatic failure is present. |
 | Malignant infiltration | Massive hepatic enlargement; diagnose by imaging and biopsy. **Transplantation is not an option.** Breast cancer, small cell lung cancer, lymphoma, melanoma, myeloma. |
@@ -119,7 +120,7 @@ The document numbers its own recommendations **1–48** and labels each with a *
 | Cerebral edema — grade III/IV encephalopathy | Continue the above · Intubate trachea (may require sedation) · Elevate head of bed · Consider placement of ICP monitoring device · Immediate treatment of seizures required; prophylaxis of unclear value · Mannitol: use for severe elevation of ICP or first clinical signs of herniation · Hypertonic saline to raise serum sodium to 145–155 mmol/L · Hyperventilation: effects short-lived; may use for impending herniation |
 | Infection | Surveillance for and prompt antimicrobial treatment of infection required · Antibiotic prophylaxis possibly helpful but not proven |
 | Coagulopathy | Vitamin K: give at least one dose · Fresh frozen plasma (FFP): give only for invasive procedures or active bleeding · Platelets: give only for invasive procedures or active bleeding · Recombinant activated factor VII: possibly effective for invasive procedures · Prophylaxis for stress ulceration: give histamine-2 (H2) blocker or proton pump inhibitor (PPI) |
-| Hemodynamics / renal failure | Volume replacement · Pressor support (dopamine, epinephrine, norepinephrine) as needed to maintain adequate MAP · Avoid nephrotoxic agents · Continuous modes of hemodialysis if needed · Vasopressin recommended in hypotension refractory to volume resuscitation and no epinephrine |
+| Hemodynamics / renal failure | Volume replacement · Pressor support (dopamine, epinephrine, norepinephrine) as needed to maintain adequate MAP · Avoid nephrotoxic agents · Continuous modes of hemodialysis if needed · Vasopressin recommended in hypotension refractory to volume resuscitation and norepinephrine (table prints "no repinephrine") |
 | Metabolic concerns | Follow closely: glucose, potassium, magnesium, phosphate · Consider nutrition: enteral feedings if possible or total parenteral nutrition |
 
 ### Coagulopathy, Bleeding, Hemodynamics, Metabolic
@@ -135,7 +136,7 @@ The document numbers its own recommendations **1–48** and labels each with a *
 
 ### Prognosis and Transplantation
 - **Transplant-free survival was ≥50%** for ALF due to acetaminophen, hepatitis A, shock liver, or pregnancy-related disease; **all other etiologies showed <25%** transplant-free survival.
-- Overall mortality has improved to **30–40%**; spontaneous survival has risen from **10–20% to about 40%**; 1-year survival after transplantation is **>60%**.
+- Overall mortality has improved to **30–40%**; spontaneous survival has risen from **10–20% to about 40%**; overall survival has risen to **over 60%** with the advance of transplantation; 1-year post-transplant survival is lower than after transplantation for chronic liver failure.
 - **King's College Hospital criteria** derived from a retrospective cohort of nearly 600 patients: positive predictive values **70% to nearly 100%**, negative predictive values **25–94%**; meta-analysis pooled **sensitivity 68–69%, specificity 82–92%**.
 - **Clichy criteria** (acute hepatitis B cohort): **factor V <20% in patients <30 years**, or **factor V <30% in any patient with grade 3–4 encephalopathy**, predicted mortality with positive predictive value **82%** and negative predictive value **98%**. Factor V is less available and subsequent studies found it **less accurate** than the King's College criteria.
 - **Listing and outcomes:** ALF is one of few conditions allowing **United Network for Organ Sharing status 1A** ("super urgent" in the United Kingdom). About half of ALF patients undergo transplantation; ALF is <10% of US transplants and ~11% in Europe. Roughly **35% of listed patients recover spontaneously**, so as many as **20% of ALF patients may be transplanted needlessly**. In the largest US study **44% were listed, 29% received a graft, and 10% of the overall group (25% of those listed) died on the waiting list**.
@@ -163,7 +164,7 @@ The document numbers its own recommendations **1–48** and labels each with a *
 | Decision | Criteria |
 |---|---|
 | List for OLT if | INR **>6.5** **and** encephalopathy present (irrespective of grade) |
-| — *or* **any three** of the following (encephalopathy present, irrespective of grade) | Age **<10 or >40 years**‡ · jaundice for **>7 days** before development of encephalopathy‡ · INR **>3.5** · serum bilirubin **≥17 mg/dL** · unfavorable etiology (Wilson disease, idiosyncratic drug reaction, seronegative hepatitis) |
+| — *or* **any three** of the following (encephalopathy present, irrespective of grade) | Age **<10 or >40 years**‡ · jaundice for **>7 days** before development of encephalopathy‡ · INR **≥3.5** · serum bilirubin **≥17 mg/dL** · unfavorable etiology (Wilson disease, idiosyncratic drug reaction, seronegative hepatitis) |
 
 - ‡ Age and jaundice-to-encephalopathy interval **have not been found predictive of outcome in recent analyses**.
 
@@ -202,7 +203,7 @@ All 48 recommendations as the document numbers and grades them; condensed only w
 30. In the absence of ICP monitoring, frequent (hourly) neurological evaluation is recommended to identify early evidence of intracranial hypertension (III)
 31. In the event of intracranial hypertension, a mannitol bolus (0.5-1.0 gm/kg body weight) is recommended as first-line therapy; however, the prophylactic administration of mannitol is not recommended (II-2)
 32. In ALF patients at highest risk for cerebral edema (serum ammonia >150 μM, grade 3/4 hepatic encephalopathy, acute renal failure, requiring vasopressors to maintain MAP), the prophylactic induction of hypernatremia with hypertonic saline to a sodium level of 145-155 mEq/L is recommended (I)
-33. Short-acting barbiturates and the induction of hypothermia to a core body temperature of 3435 C may be considered for intracranial hypertension refractory to osmotic agents as a bridge to liver transplantation (II-3)
+33. Short-acting barbiturates and the induction of hypothermia to a core body temperature of 34–35°C may be considered for intracranial hypertension refractory to osmotic agents as a bridge to liver transplantation (II-3)
 34. Corticosteroids should not be used to control elevated ICP in patients with ALF (I)
 35. Periodic surveillance cultures are recommended to detect bacterial and fungal pathogens as early as possible. Antibiotic treatment should be initiated promptly according to surveillance culture results at the earliest sign of active infection or deterioration (progression to high grade hepatic encephalopathy or elements of the SIRS [systemic inflammatory response syndrome]) (III)
 36. Prophylactic antibiotics and antifungals have not been shown to improve overall outcomes in ALF and therefore cannot be advocated in all patients, particularly those with mild hepatic encephalopathy (III)
@@ -212,7 +213,7 @@ All 48 recommendations as the document numbers and grades them; condensed only w
 40. If dialysis support is needed for acute renal failure, it is recommended that a continuous mode rather than an intermittent mode be used (I)
 41. Pulmonary artery catheterization is rarely necessary in patients with ALF and is associated with significant morbidity. Instead, appropriate volume status should be ensured with a volume challenge (III)
 42. Systemic vasopressor support with agents such as norepinephrine should be administered in volume-refractory hypotension or to ensure adequate CPP. Vasopressin or terlipressin can be added to norepinephrine in norepinephrine-refractory cases, but should be used cautiously in severely encephalopathic patients with intracranial hypertension (II-1)
-43. Goals of circulatory support in patients with ALF are a MAP 75 mmHg and CPP 60-80 mmHg (II)
+43. Goals of circulatory support in patients with ALF are a MAP ≥75 mmHg and CPP 60-80 mmHg (II)
 44. Metabolic homeostasis must be carefully maintained in ALF patients. Overall nutritional status as well as glucose, phosphate, potassium and magnesium levels should be monitored frequently, with expeditious correction of derangements (III)
 45. Currently available prognostic scoring systems do not adequately predict outcome and determine candidacy for liver transplantation. Reliance entirely upon these guidelines is thus not recommended.(III)
 46. Urgent hepatic transplantation is indicated in acute liver failure where prognostic indicators suggest a high likelihood of death (II-3)

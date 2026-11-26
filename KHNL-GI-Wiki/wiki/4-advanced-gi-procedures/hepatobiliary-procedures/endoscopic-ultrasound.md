@@ -130,7 +130,7 @@ Grades use the document's own scale (1A strongest → 3 expert opinion; scale on
 
 ### FNA vs FNB — Diagnostic Yield
 
-**Needle choice (solid pancreatic masses):** use **EUS-FNB over FNA** — higher diagnostic yield/adequacy, more tissue for ancillary testing, fewer passes; **22-gauge** needles are reasonable, and **rapid on-site evaluation (ROSE) is not mandatory when FNB is used** (conditional recommendations, [[asge-2024-solid-pancreatic-masses]]). Needle-tip design, pass counts, and specimen media live on [[pancreatic-cancer]]. For [[biliary-stricture|malignant distal biliary obstruction]] from a pancreatic head mass, prefer **self-expandable metal stents over plastic** for durable drainage (coordinate with ERCP).
+**Needle choice (solid pancreatic masses):** use **EUS-FNB over FNA** (Rec 1, strong/moderate — higher diagnostic accuracy and sample adequacy, fewer passes); **22-gauge over 25-gauge** (Rec 2, conditional/moderate); ASGE suggests **against routine rapid on-site evaluation (ROSE)** (Rec 4, conditional/low) ([[asge-2024-solid-pancreatic-masses]]). Needle-tip design, pass counts, and specimen media live on [[pancreatic-cancer]]. For [[biliary-stricture|malignant distal biliary obstruction]] from a pancreatic head mass, prefer **self-expandable metal stents over plastic** for durable drainage (coordinate with ERCP).
 
 The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality]]):
 

@@ -3,7 +3,8 @@ title: "Establishing Standards of Practice for Endoscopic Sleeve Gastroplasty: A
 category: source
 tags: [endoscopic-sleeve-gastroplasty, endoscopic-bariatric-therapy, obesity, endoscopic-suturing, consensus, delphi, training]
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/Other/Delphi 2025 ESG Standards of Practice (Jirapinyo).pdf"
 ---

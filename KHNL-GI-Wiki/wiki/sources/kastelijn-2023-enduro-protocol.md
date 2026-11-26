@@ -78,7 +78,7 @@ Its practical value is procedural, not comparative: both arms are **protocolized
 - **Excessive gastric residual volume** preventing safe sedation → **reschedule after extensive gastric decompression**; this is explicitly **not** counted as technical failure.
 - **EUS-GE technical failure or complication → crossover to SGJ is permitted**, with explicit prior informed consent.
 - **Biliary intervention is not performed in the same session** as EUS-GE or SGJ; concomitant biliary obstruction is managed per standard of care.
-- **Do not re-endoscope through the LAMS within the first 6 weeks** of placement — the fistula tract may not be mature.
+- Protocol rule: **do not re-endoscope through the LAMS within the first 6 weeks** of placement — the fistula tract may not be mature.
 - **Persistent GOO symptoms** are defined as nausea, **vomiting >2 times in 24 h**, or inability to tolerate at least soft solid intake. Managed with nil per mouth, nasogastric tube, and prokinetics (metoclopramide, domperidone, or erythromycin). If intake is still **GOOSS 0–1 at post-procedure day 5**, place a **jejunal feeding tube endoscopically** after excluding ileus (distended abdomen, absent or high-pitched peristalsis, no flatus or faeces) — endoscopic placement also lets you assess anastomotic patency. Parenteral nutrition if jejunal feeding is not tolerated.
 - **Recurrent GOO symptoms → upper endoscopy is advised.**
 - Pre-existing tube feeding is **stopped** after the procedure to give oral intake a fair trial, and restarted only if the patient demonstrably cannot maintain adequate oral intake.

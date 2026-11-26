@@ -92,7 +92,7 @@ Statement 2.3 was voted **before** recall/removal notices were issued affecting 
 - Overall (benign and malignant): higher clinical success **OR 2.20 (1.04–4.62)**; significantly lower total adverse events **OR 0.20 (0.13–0.30)**. No clear difference in severe adverse events (OR 0.53, 0.23–1.19) or reintervention (OR 0.63, 0.20–1.99).
 - **Malignant-only subgroup:** clinical success **comparable** (OR 1.14, 0.63–2.09); total adverse events significantly lower with EUS-GE (**OR 0.25, 0.13–0.46**); no clear difference in severe adverse events (OR 0.86, 0.12–6.06) or reintervention (OR 0.97, 0.25–3.76).
 
-**Overall EUS-GE performance** (meta-analysis of 36 studies, 1846 patients): technical success **96.9%**, clinical success **90.6%**, overall adverse events **13.0%**, **LAMS misdeployment 4.6%** (the majority of events), severe adverse events **1.2%**, procedure-related mortality **0.3%**.
+**Overall EUS-GE performance** (meta-analysis of 36 studies, 1846 patients): technical success **96.9%**, clinical success **90.6%**, overall adverse events **13.0%**, **LAMS misdeployment 4.6%** (the majority of events), serious adverse events **1.2%**, procedure-related mortality **0.3%**.
 
 **Benign GOO** (largest meta-analysis, 376 patients, 15 studies): technical success **95.8%**, clinical success **93.4%**, adverse events **11.6%**, recurrence **11.6%** at median 14 months.
 
