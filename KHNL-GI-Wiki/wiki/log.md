@@ -6,6 +6,26 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] lint | Manual pass — ingest by budget ($25)
+
+**Start state:** `git pull` up to date; no untracked files under `raw/` (nothing to commit from the inbox); no source page carries `ingest: partial`.
+
+**Pick:** `Intl Consensus 2025 Organ Failure Definitions in Cirrhosis (Bajaj).pdf` — US-led (Gastroenterology 2025), named first for this pass in the 2026-11-25 06:00 entry. `IANS 2024 Anal Cancer Screening Consensus.pdf` is still a 6,417-byte saved HTML page — not ingestable.
+
+**`[[bajaj-2025-organ-failure-definitions-cirrhosis]]` — new source (Bajaj et al., Defining Organ Failures in Patients With Cirrhosis: Consensus Statements, Gastroenterology 2025;169:1043–1062).**
+- *Extract* (fresh agent; all 20 pages, every table/figure page rendered): Table 1 legacy definitions, all of Table 2 (dysfunction/failure/dynamic criteria per organ), all **36** Table 3 statements (two footnoted <70%: transplant referral for stage 2–3 AKI 57%, simultaneous liver–kidney transplant 69%) and all **20** Table 4 statements, Table 5 agenda, Figures 1–5 described. The paper numbers nothing → labels (T3-Liver-1…) are the wiki's. No evidence grading. Licence: Elsevier on behalf of AGA Institute, no CC → no figures.
+- *Gate:* 5 ABSENT (1 parse artifact; "2 mg/dL" confirmed on rendered p.9 and reworded; 3 deliberate cross-page comparison values), 1 OTHER and 2 NOMATCH (comparison lines, not claims from this PDF); 86 SIGN lines read off rendered pp. 2–16.
+- *Verify* (fresh agent, ~250 claims): 0 management, 2 minor — biomarker line lumped ferritin/ammonia/LDH-albumin-bile acids/IL-6-NGAL-copeptin as "prognostic but not specific" (LDH/albumin/bile acids are *surrogate markers of hepatic dysfunction*; ammonia not called non-specific) → split as printed; EASL-CLIF expansion corrected (EASL + European Foundation for the Study of Chronic Liver Failure). Tables 3/4 complete. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced on the source page:* liver bilirubin ≥7.5 vs >7.5 (Conclusions); INR ≥1.3 vs >1.3; four circulatory wordings (<65 vs ≤65); respiratory ≤300 adopted though text cites Berlin <200; kidney failure proposed as AKI ≥2 although that statement failed (37%); immune failure absent from the Conclusions' ACLF definition.
+- *Source priority:* expert panel, not a society document, and older than [[aasld-easl-2026-aclf-global-consensus]] → the 2026 liver (≥5 mg/dL), brain (West Haven 3–4), respiratory (≤225) and circulatory (vasopressors) definitions stay on the pages; this paper adds only what 2026 leaves undefined.
+- *Propagated:* [[acute-on-chronic-liver-failure]] → Severity Assessment gains a provisional **immune and gut dysfunction/failure** table (2026 Statement 16 calls both undefined), the UTI/cellulitis/pneumonia caveat, NLR worsening/improvement, and one line stating the panel's differing cut-offs. Gate: no flags on the new lines (2 pre-existing NOMATCH at L212/L323 untouched). Changed-line check (fresh agent, 14 claims): 1 minor — respiratory line dropped SpO₂:FiO₂ ≤315 and the HFNC ≥30 L/min / ≥5 cm H₂O qualifiers → fixed. Page has no `verified:` (unchanged status).
+- *Not propagated (deliberate):* [[aki-in-cirrhosis]] already carries HRS-AKD/CKD criteria, the 220–244 µg/g NGAL cutoff and complete/partial response from its US sources, and is over the length ceiling; the paper's AKI-stage and transplant-referral statements are either weaker than or failed against what the page holds. [[hepatic-encephalopathy]] (~4,000 words, slim candidate) — HE grading is owned by the 2026 consensus already on the page; the "acute encephalopathy" terminology and West Haven↔GCS mapping are left on the source page.
+- `index.md`: source row added (Other); ACLF row 4 → 5 sources.
+- *Cards:* none — [[acute-on-chronic-liver-failure]] has no `verified:` (new cards only from verified pages).
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-25] lint | Quality review — release sweep (second $40 manual run)
 
 **Scope:** Quality review step only (`review-queue.py --pages 10`), by budget. No ingest, no new pages.

@@ -3,8 +3,8 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-11-13
-sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension, moreau-2013-canonic-aclf, aasld-easl-2026-aclf-global-consensus]
+updated: 2026-11-26
+sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension, moreau-2013-canonic-aclf, aasld-easl-2026-aclf-global-consensus, bajaj-2025-organ-failure-definitions-cirrhosis]
 ---
 
 ## Contents
@@ -117,6 +117,17 @@ Acute-on-chronic liver failure (ACLF): acute deterioration in chronic liver dise
 | Respiration | 225 < PaO₂/FiO₂ ≤300, or 244 < SpO₂/FiO₂ ≤333* | **Mechanical ventilation** for respiratory failure, **PaO₂/FiO₂ ≤225**, or SpO₂/FiO₂ ≤244 (B1) |
 
 *\*Assessed only in high-dependency or intensive care unit (ICU) settings; MAP needs continuous monitoring (Statement 15, C1). No dysfunction = no AKI, West Haven 0–1, MAP ≥65, PaO₂/FiO₂ >300 or no supplemental oxygen. Immune and gut failure are not yet defined (Statement 16).*
+
+**Provisional immune and gut criteria** — from an earlier international expert panel (2025; not a society document, no evidence grading), the only criteria on file ([[bajaj-2025-organ-failure-definitions-cirrhosis]], Table 2):
+
+| Organ | Dysfunction | Failure |
+|---|---|---|
+| Immune | CSPH with no history of infections, and neutrophil-to-lymphocyte ratio (NLR) ≤9 | Cirrhosis with CSPH **and** ≥1 of: invasive fungal infection, SBP, spontaneous bacteremia, *Vibrio* infection, severe sepsis or septic shock |
+| Gut | GI symptoms (nausea, vomiting, constipation, diarrhea, dysmotility, altered intestinal permeability) from cirrhosis and hospitalization that impair digestion or absorption, without systemic consequences | Inability to meet nutritional needs by mouth or the enteral route, not restored despite intervention to use the enteral route |
+
+- UTI, cellulitis, soft-tissue infection and pneumonia may not necessarily constitute immune failure — their prognosis differs.
+- Immune worsening: septic shock, secondary infections, NLR rising to >9; improvement: NLR falling to ≤3.
+- The same panel's liver (bilirubin ≥7.5 mg/dL and INR ≥1.5), brain (West Haven ≥2), circulatory (MAP <65 mmHg ± vasopressors) and respiratory (PaO₂:FiO₂ ≤300 or SpO₂:FiO₂ ≤315 [if SpO₂ ≤97%] on high-flow nasal cannula ≥30 L/min or noninvasive ventilation/continuous positive airway pressure with ≥5 cm H₂O end-expiratory pressure) cut-offs differ from the 2026 table above, which applies.
 
 **2026 grade** (Statement 10, B1):
 
@@ -383,3 +394,4 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 3. [[moreau-2013-canonic-aclf|Acute-on-Chronic Liver Failure Is a Distinct Syndrome That Develops in Patients With Acute Decompensation of Cirrhosis (CANONIC, 2013)]]
 4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+5. [[bajaj-2025-organ-failure-definitions-cirrhosis|Defining Organ Failures in Patients With Cirrhosis: Consensus Statements (Bajaj 2025)]]
