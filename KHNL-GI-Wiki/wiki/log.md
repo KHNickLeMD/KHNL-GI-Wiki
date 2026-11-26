@@ -6,6 +6,43 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] update | Card pass — dedup, stale verified pages re-carded and correlated ($10, second run)
+
+**Dedup:** 16 candidate pairs judged and marked — 2 merged, 15 distinct (one extra pair found while judging).
+- `extraesophageal-reflux` [e82002] → merged into `laryngopharyngeal-symptoms` [1a1004] (`{also:}` added)
+- `liver-transplantation` [1a3016] → merged into `ursodeoxycholic-acid` [d2c008] (drug page owns the dose; `{also:}` added)
+
+**Pages carded / re-carded (notes before → after; every note correlated with the verified page):**
+- `inflammatory-bowel-disease` 17 → 20: 3 notes corrected (Back Extra wording, "confirmed" illness); fecal calprotectin band table added (rule 12); new: histologic-vs-endoscopic healing, NSAID hold before diagnostic ileocolonoscopy, anterior-wall rectal biopsy for SRUS/prolapse
+- `budd-chiari-syndrome` 16 → 19: 9 notes corrected (score role re-sourced to ACG KC 26, wrong `{at:}`, Back Extra claims not on page removed, LMWH→VKA sequence re-sourced to AASLD); new: varices vs anticoagulation, angioplasty selection, PTFE-covered TIPS/DIPS
+- `short-bowel-syndrome` 20 → 23: 4 Back Extra lines not on page removed; new: continuous gastric tube feeding, antimotility agents in dilated bowel, teduglutide positioning
+- `uc-vs-crohns-comparison` 3 → 3: 1 retired (natural-history %), 1 new (biopsy a normal-looking rectum)
+- `abnormal-liver-tests-after-liver-transplant` new file, 5 notes (repeat LFTs 1–2 wk, Doppler → angiography for HAT, late arterial disease as biliary strictures, late ascites/edema, late HE)
+- `postural-orthostatic-tachycardia-syndrome` 4 → 4: 2 notes corrected (population on front, Back Extra sequence)
+- `tacrolimus` 9 → 9: Back Extra teratogen line added
+- `anticoagulation-gi-bleeding` 17 → 18: 11 notes corrected (unsupported rationale, trial names and figures not on page removed); new: life-threatening bleed definition
+- `hepatic-cysts` 34 → 36: 1 corrected; new: no fenestration/sclerosis for suspected MCN-L, Todani III treatment
+- `achalasia` 14 → 14: 5 corrected (Eckardt max/anchors, absent peristalsis, `{at:}`, AGA BPA 12 wording)
+- `endoscopic-full-thickness-resection` 8 → 9: 1 corrected; new: fourth-layer SEL management (ASGE 2017 Fig 3)
+- `heller-myotomy` 6 → 5: 4 corrected (`{at:}`, "may raise", 11-year result); 1 retired (reflux rates by definition)
+- `ibd-in-malignancy` 7 → 7: 2 corrected (fixed pre-existing 41-word cap problem)
+- `potassium-competitive-acid-blockers` 2 → 2: no change needed (other facts owned by GERD/PUD/H. pylori/vonoprazan cards)
+- `bismuth-quadruple-therapy` 6 → 7: 6 broken `{at:}` anchors fixed; new: Pylera 10-day course
+- `gastric-malt-lymphoma` 5 → 4: 1 retired (self-evident biopsy note)
+- `fish` 2 → 2: `{at:}` and Back Extra corrected
+- `lubiprostone` 5 → 6: 3 corrected; new: IBS-C dose
+- `brush-cytology` 2 → 3: new: multimodality sampling (ACG Rec 3 / ASGE Rec 1), carded nowhere before
+
+**Skipped:** `peginterferon-alfa-2a` (standing non-cardable, label-sourced); `li-rads-treatment-response` (source is a review, not tier-1 → no cards).
+
+- `brca-pathogenic-variants` 1 → 1: Back Extra corrected (Lynch "up to 17-fold", age-40 family-history screening); pancreatic surveillance owned by `pancreatic-cancer-screening` cards
+
+**Build:** 4,889 notes; "cards stale" 93 → 74; no problems on any file touched this pass (remaining problems are pre-existing on untouched files).
+
+**Remaining eligible (next pass):** `wilson-disease`, `immune-checkpoint-inhibitor-hepatitis`, `peutz-jeghers-syndrome`, `low-fodmap-diet`, `tegaserod`, `recurrent-acute-pancreatitis`, `fammm-syndrome`, `anorectal-abscess`, then 2021-and-older pages. Card quality review (`review-queue.py --cards`) not reached this run.
+
+---
+
 ## [2026-11-26] lint | Quality review — release sweep, fourth run ($40 budget)
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`; one subagent per page; unverified source pages verified first.
