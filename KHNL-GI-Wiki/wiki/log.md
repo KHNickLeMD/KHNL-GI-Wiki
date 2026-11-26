@@ -24,6 +24,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — [[acute-on-chronic-liver-failure]] has no `verified:` (new cards only from verified pages).
 - `ingest: partial` removed.
 
+**Next pick:** `ADQI-ICA 2024 AKI in Cirrhosis Consensus (Nadim).pdf` — international ADQI/ICA joint consensus with US-led authorship; fills AKI-phenotype/definition gaps on [[aki-in-cirrhosis]].
+
+**`[[adqi-ica-2024-aki-cirrhosis]]` — new source (Nadim, Kellum et al., ADQI–ICA joint consensus, J Hepatol 2024;81:163–183; CC BY 4.0).**
+- *Extract* (fresh agent; all 21 pages, sign/table pages rendered): all **33** graded statements (the paper numbers none → Q-labels by question heading are the wiki's), grades in its own vocabulary (strong/weak, grade A/B/D, best practice; grade definitions only in its online Table S1), Tables 1–2, Box 1 (revised HRS-AKI criteria), Figures 1–6 as tables/branch descriptions, paediatric section.
+- *Gate:* first run 5 ABSENT / 2 OTHER (US-source values in Contradictions lines lacking `[[slug]]` — links added); final ABSENT 0 · OTHER 0 · NOMATCH 3 (labelling note, a rationale paraphrase checked on p.165, an agreement bullet) · SIGN 43 read off rendered pp. 2–5, 7–14.
+- *Verify* (fresh agent, ~190 claims; 33/33 statements, all grades match): 0 management, 2 minor — alfapump maker is a grant funder, not an author disclosure → fixed; "HRS-AKI/ATI overlap in ACLF" overscoped (overlap is for HRS-AKI generally) → fixed. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced:* urine output ≤0.5 mL/kg ≥6 h (statements) vs <0.5 (Figure 1); stop after 48 h (statement) vs 48–72 h (Table 2); MAP rise ≥10 vs >10 mmHg; exactly 90 days fits neither HRS-AKD nor HRS-CKD; AKI stage thresholds never printed.
+- *Source priority:* international (non-US) consensus → gap-fill only. Its departures from US sources (drops the 2-day albumin challenge; structural damage/CKD no longer exclude HRS-AKI; crystalloid-first vs AGA 2024 albumin; no stage-2 vasoconstrictor gate) stay on the source page's Contradictions and were **not** written onto topic pages.
+- *Propagated:* [[aki-in-cirrhosis]] → baseline-SCr fallbacks for no value within 3 months (Q2.1 12-month rule; Q2.2 lower of admission SCr or eGFR-75 back-calculation) with the "lowest stable vs most recent" difference stated and the AGA rule governing; Prevention gains Q6.3 (against systematic albumin for non-SBP infections or to target albumin >3.0 g/dL); new `### Follow-up After AKI` (kidney check within 1 month, 30-day → 7-day timeline by severity, CKD assessment at 90 days, albuminuria, cystatin C, Q10.1/Q10.2). Abbreviation order fixed (ADQI/ICA/eGFR now expanded at first use; later re-expansions removed). Gate: no flags on new lines (1 pre-existing NOMATCH L245). Changed-line check (fresh agent, 19 claims): no findings → `verified:` re-stamped 2026-11-26.
+- *Not propagated (deliberate):* [[terlipressin]] / [[albumin]] doses and the vial conversion (US sources own dosing; terlipressin page over ceiling), [[acute-on-chronic-liver-failure]] (no ACLF kidney definition in this document).
+- `index.md`: source row added (Other); AKI row 4 → 5 sources.
+- *Cards* (`/cards/1-disease-scripts/hepatology-diseases/aki-in-cirrhosis.md`, under `# Draft`; deck not rebuilt — the 05:00 pass builds): 3c21b0 (no known baseline → lower of admission SCr or eGFR-75 back-calculation), 3c21b1 (post-discharge kidney check 1 month / CKD assessment 90 days), 3c21b2 (albumin against for non-SBP infections / target >3.0 g/dL). `page_updated:` 2026-11-26. Footer may need `ADQI`/`ICA` in the exporter's `ACRONYMS`.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-25] lint | Quality review — release sweep (second $40 manual run)

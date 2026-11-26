@@ -3,10 +3,10 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-11-25
+updated: 2026-11-26
 quality_reviewed: 2026-11-25
-verified: 2026-11-25
-sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, aasld-easl-2026-aclf-global-consensus]
+verified: 2026-11-26
+sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, aasld-easl-2026-aclf-global-consensus, adqi-ica-2024-aki-cirrhosis]
 ---
 
 ## Contents
@@ -31,6 +31,7 @@ sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2
   - [[#Renal Replacement Therapy (BPA 12)]]
   - [[#TIPS]]
   - [[#Liver Transplantation (BPA 14)]]
+  - [[#Follow-up After AKI]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -48,12 +49,15 @@ Acute kidney injury (AKI) by Kidney Disease: Improving Global Outcomes (KDIGO) c
 
 **Baseline SCr:** most recent value within the prior 3 months when none is available from the prior 7 days.
 
+- *No value within 3 months* — [[adqi-ica-2024-aki-cirrhosis|Acute Disease Quality Initiative (ADQI)–International Club of Ascites (ICA) 2024]] fallbacks: most recent value up to **12 months** prior (Q2.1); no known baseline → the **lower of** admission SCr or SCr back-calculated from an **estimated glomerular filtration rate (eGFR) of 75 mL/min/1.73 m²** (Q2.2, weak recommendation)
+- ADQI-ICA uses the **lowest stable** (not the most recent) value in the 3-month window; the AGA rule above governs
+
 > [!pitfall] A "normal" creatinine can hide renal impairment
 > In [[cirrhosis]], SCr underestimates loss of glomerular filtration rate (GFR): impaired hepatic creatine production, low muscle mass, female sex, tubular creatinine secretion, and hyperbilirubinemia (assay interference) ([[aga-2022-aki-cirrhosis]]).
 
 ### Severity Assessment (ICA-AKI Staging)
 
-International Club of Ascites (ICA) staging, [[aga-2022-aki-cirrhosis]] Figure 1. Stage 1 is bounded by a **multiple of baseline**; the 1a/1b split turns on the **absolute** SCr — both are needed to stage.
+ICA staging, [[aga-2022-aki-cirrhosis]] Figure 1. Stage 1 is bounded by a **multiple of baseline**; the 1a/1b split turns on the **absolute** SCr — both are needed to stage.
 
 | Stage | SCr threshold |
 |---|---|
@@ -74,7 +78,7 @@ International Club of Ascites (ICA) staging, [[aga-2022-aki-cirrhosis]] Figure 1
 | Old term | Current term | Definition ([[aga-2022-aki-cirrhosis]] Table 1) |
 |---|---|---|
 | Hepatorenal syndrome (HRS) type 1 (SCr doubling within 2 wk to >2.5 mg/dL) | **HRS–acute kidney injury (HRS-AKI)** | Criteria below |
-| HRS type 2 (gradual SCr rise to >1.5 mg/dL) | **HRS–nonacute kidney injury (HRS-NAKI): HRS–acute kidney disease (HRS-AKD)** | Estimated GFR (eGFR) **<60 mL/min/1.73 m² for <3 mo**, or SCr rise **≥1.5× baseline within 3 mo**, no other cause of kidney disease |
+| HRS type 2 (gradual SCr rise to >1.5 mg/dL) | **HRS–nonacute kidney injury (HRS-NAKI): HRS–acute kidney disease (HRS-AKD)** | eGFR **<60 mL/min/1.73 m² for <3 mo**, or SCr rise **≥1.5× baseline within 3 mo**, no other cause of kidney disease |
 | | **HRS-NAKI: HRS–chronic kidney disease (HRS-CKD)** | eGFR **<60 mL/min/1.73 m² for ≥3 mo**, no other cause of kidney disease |
 
 #### Types of AKI in Cirrhosis
@@ -199,6 +203,7 @@ flowchart TD
 - No large-volume paracentesis without albumin — dose per litre on [[paracentesis]]
 - Antibiotics with GI bleeding; SBP prophylaxis ([[antibiotic-prophylaxis-cirrhosis]])
 - Counsel against alcohol ([[alcohol-associated-liver-disease]])
+- [[adqi-ica-2024-aki-cirrhosis|ADQI-ICA 2024]] Q6.3 (strong recommendation, grade A): **no systematic albumin** in decompensated cirrhosis to prevent AKI in **non-SBP infections**, or solely to keep serum albumin **>3.0 g/dL**
 
 ### Initial Management — All AKI (BPA 5)
 
@@ -282,6 +287,16 @@ flowchart TD
 - After LT: kidney-alone listing with high priority for persistent renal dysfunction — end-stage renal disease or **GFR <20 mL/min**
 - AASLD 2024: pretransplant RRT **>6 weeks** → consider simultaneous liver-kidney transplant
 
+### Follow-up After AKI
+
+[[adqi-ica-2024-aki-cirrhosis|ADQI-ICA 2024]] (Q10, Figure 6):
+
+- Check kidney function **within 1 month of discharge** at minimum ("we suggest"); sooner as AKI severity rises — the Figure 6 timeline runs from within 30 days (short stage 1 AKI, SCr back to baseline) to **within 7 days** (stage 3 or dialysis-requiring AKI)
+- **Persistent kidney dysfunction at 90 days → formal assessment for chronic kidney disease (CKD)**
+- Routine **albuminuria** screening after AKI; SCr may overestimate kidney function → consider serum cystatin C
+- Tailor follow-up to kidney and liver severity with hepatology–nephrology collaboration (Q10.1, best practice statement); nephrology, transplant and palliative evaluation at the severe end
+- Personalised **palliative care evaluation** — symptom burden, patient/caregiver wellbeing, goals of care (Q10.2, best practice statement)
+
 ---
 
 ## See Also
@@ -296,3 +311,4 @@ flowchart TD
 2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
 3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
 4. [[aasld-easl-2026-aclf-global-consensus|AASLD/EASL/APASL/ALEH/SOLDA 2026 Global Multisociety Consensus on ACLF Definitions]]
+5. [[adqi-ica-2024-aki-cirrhosis|ADQI-ICA 2024: Acute Kidney Injury in Patients With Cirrhosis — Joint Multidisciplinary Consensus Meeting]]
