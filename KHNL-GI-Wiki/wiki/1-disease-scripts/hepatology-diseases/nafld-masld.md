@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-11-08
-sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis]
+updated: 2026-11-26
+sources: [aga-aasld-acg-2012-nafld, aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers, aga-2021-lifestyle-modification-nafld, aga-2022-lean-nafld, aga-2017-elastography-liver-fibrosis, younossi-2026-global-masld-consensus]
 ---
 
 ## Contents
@@ -200,7 +200,11 @@ Cornerstone at every stage, with or without drugs ([[aasld-2025-semaglutide-mash
 
 - **Sequence:** FIB-4 → if ≥1.3, elastography or ELF → confirm the F2–F3 window; PEth + AUDIT-C before starting ([[aasld-2025-semaglutide-mash]]).
 - **NIT signs of cirrhosis that exclude both drugs:** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, or platelets <150,000/mm³ ([[aasld-2025-semaglutide-mash]]).
-- **Combination** resmetirom + GLP-1 RA not formally studied — individualize ([[aasld-2025-semaglutide-mash]], [[aasld-2024-resmetirom]]).
+- **Choosing the drug** — Global NASH/MASH Council consensus ([[younossi-2026-global-masld-consensus]]):
+  - Shared decision-making, with lifestyle optimization.
+  - Treatment-naïve + T2DM or obesity → **semaglutide generally preferred** (potential cardiometabolic benefit).
+  - Prior GLP-1 RA for obesity or T2DM → **resmetirom preferred**.
+- **Combination** resmetirom + GLP-1 RA not formally studied — individualize ([[aasld-2025-semaglutide-mash]], [[aasld-2024-resmetirom]]). Consensus: **no upfront combination in treatment-naïve patients**; adding the other agent after a suboptimal response to monotherapy is acceptable ([[younossi-2026-global-masld-consensus]]).
 
 #### Other Agents (AASLD Guidance Statements)
 
@@ -277,3 +281,4 @@ CVD is the most common cause of death in MASLD ([[aasld-2025-semaglutide-mash]])
 12. [[aga-2022-lean-nafld|AGA Clinical Practice Update: Diagnosis and Management of Nonalcoholic Fatty Liver Disease in Lean Individuals: Expert Review (2022)]]
 13. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
 14. [[aga-aasld-acg-2012-nafld|The Diagnosis and Management of Non-alcoholic Fatty Liver Disease: Practice Guideline by the AGA, AASLD, and ACG (2012)]]
+15. [[younossi-2026-global-masld-consensus|Global NASH/MASH Council 2026: Updated Global Consensus on MASLD Risk Stratification, Treatment Initiation, and Response Monitoring]]

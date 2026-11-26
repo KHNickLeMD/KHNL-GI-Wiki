@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] lint | 06:00 pass — ingest by budget ($25)
+
+**Start state:** `git pull` up to date; no untracked files under `raw/` (nothing to commit from the inbox); no source page carries `ingest: partial`.
+
+**Daily source fetch:** nothing qualified — every remaining `needed-sources.md` download row is 🔒 or 🌐; nothing downloaded.
+
+**Pick:** `Global Consensus 2026 MASLD Treatment Initiation Monitoring (Younossi).pdf` — named as next pick in the previous pass; US-led consensus (Clin Gastroenterol Hepatol 2026), ~9,300 words.
+
+**`[[younossi-2026-global-masld-consensus]]` — new source (Younossi et al., Global NASH/MASH Council, Updated global consensus on MASLD risk stratification, treatment initiation and response monitoring, Clin Gastroenterol Hepatol 2026;24:2333–2347).**
+- *Extract* (fresh agent; whole text, pp. 1–11 rendered, figures at 160–300 dpi): all **30** Table 1 statements with the document's own numbers (1.3–1.6, 2.1–2.6, 3.1–3.9, 5.1, 5.3, 5.5–5.13), printed vote counts and agreement %; no grading scheme. Text-only consensus points (treatment statements live in Supplementary Table 5, not on file), unnumbered graphical abstract, Figures 1–3 as tables/branch lists. Licence: Elsevier/AGA Institute, all rights reserved incl. AI training — same notice as already-ingested `global-consensus-2025-pregnancy-ibd` / Bajaj 2025; no figures embedded.
+- *Gate:* ABSENT 40 (37 figure-only values read off rendered graphical abstract / Figures 1–3; 3 are the skipped statement numbers named on purpose) · OTHER 8 (this source's numbers on comparison lines also citing AASLD pages) · NOMATCH 22 (figure-built lines and comparison paraphrases; AASLD comparison values re-checked against AASLD raw PDFs) · SIGN 56 all read off rendered pages.
+- *Verify* (fresh agent, ~150 claims; Table 1 complete, 30/30 correct): 0 management, 1 minor — abstract's 10–20 kPa / ELF 9.2–11.3 window does say "after exclusion of cirrhosis" → Contradictions line corrected. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced:* competing passed thresholds (ELF <9.0 vs <9.2; referral ≥9.2 vs ≥9.8; VCTE 8–15 vs 10–15 kPa); graphical abstract vs Figure 2 ELF bands; > vs ≥ for cirrhosis and progression; 48 weeks vs ≥1 y; 5.9 (stop) and 5.10 (add resmetirom) both passed; "T2D or/and obesity"; MRE expanded as "enterography".
+- *Source priority:* non-US-society consensus → gap-fill only. AASLD rules stay on pages (ELF <7.7 rule-out, VCTE 8–15 kPa window, ≥25% VCTE resmetirom response, stop semaglutide on worsening); differences surfaced inline.
+- *Propagated:* [[nafld-masld]] (drug choice by profile; no upfront combination in treatment-naïve; sequential add-on), [[resmetirom]] (Figure 2 liver-enzyme schedule incl. 4 weeks, 6-month VCTE to gauge not judge; consensus response/progression actions 5.8/5.11–5.13 marked as differing from AASLD), [[semaglutide]] (dose escalation from lower dose for another indication; 5.10 vs 5.9 vs AASLD stop), [[noninvasive-liver-disease-assessment]] (ELF 7.7 difference with AASLD governing; ELF second line regardless of VCTE; discordant NITs → repeat second-line NIT at ~6 months in selected cases). Gate: no unresolved flags on new lines (resmetirom L114 OTHER/NOMATCH = Figure 2 image values, confirmed on rendered p. 8). Changed-line check (fresh agent, 21 claims): 1 management — ELF 7.7 line let the consensus override AASLD and conflated F3–4 rule-out with F2–4 low risk → rewritten with AASLD governing; 2 minor — "no upfront combination" lacked "treatment-naïve"; discordant-NIT line said "not voted" (unverifiable) and dropped "selected cases" → both fixed. [[resmetirom]] `verified:` re-stamped 2026-11-26; the other three pages carry no `verified:` (unchanged).
+- *Not propagated (deliberate):* VCTE 10–15 kPa window, cirrhosis cut-offs, 1–3-year FIB-4 interval (AASLD sets these); [[glp-1-receptor-agonists]] lean-mass measures and weight-loss targets (pages over ceiling; AASLD 2025 / AGA 2021 already carry protein and weight targets).
+- `index.md`: source row added (Sources → Other); counts nafld-masld 10→11, semaglutide 4→5, resmetirom 2→3, NILDA 8→9. **Also fixed:** last pass filed `[[delphi-2026-eus-cds-lams]]` and `[[adqi-ica-2024-aki-cirrhosis]]` under *Disease Scripts → Other* — moved to *Sources → Other*.
+- *Cards:* none written — only [[resmetirom]] is verified, and its liver-test schedule is already carded from AASLD 2024 (fa7005); the new lines are non-governing consensus differences. Card file `page_updated:` → 2026-11-26.
+- Slim candidates: [[nafld-masld]] (~2,730 words), [[semaglutide]] (~2,590), [[noninvasive-liver-disease-assessment]] (~2,970).
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-26] update | Anki card pass — dedup, stale verified pages, card quality review ($10 budget)
 
 **Dedup:** `anki-dupes.mjs` listed 0 unjudged pairs — nothing to merge. Two duplicates found by hand while correlating: `hepatitis-c [b51011]` merged into `direct-acting-antivirals [da1108]` (cyclosporine DDI; drug page owns it), `small-bowel-bleeding [b5b009]` merged into `angioectasia [a90008]` (hormonal therapy).

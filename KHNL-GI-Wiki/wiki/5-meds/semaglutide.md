@@ -3,8 +3,8 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-11-12
-sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
+updated: 2026-11-26
+sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy, younossi-2026-global-masld-consensus]
 ---
 
 ## Contents
@@ -131,6 +131,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 - **Adjust the pace by clinical judgment** for the individual patient's response, tolerance, and adverse effects.
 - **Missed doses:** >2 consecutive missed → clinical judgment; resume the same dose if previously well tolerated (expert opinion), otherwise lower the next dose. **≥3 consecutive missed → consider restarting the titration schedule.**
 - **A submaximal dose may be the endpoint** — some patients respond strongly below 2.4 mg and can continue that dose long term.
+- **Already on lower-dose semaglutide for another indication** → escalation to the MASH-approved dose can be considered if tolerated (Global NASH/MASH Council consensus, [[younossi-2026-global-masld-consensus]]).
 - Combination use with [[resmetirom]] at 2.4 mg/week has not been formally studied.
 
 ### Monitoring and Safety
@@ -159,6 +160,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 - **Beneficial response** (continue semaglutide): VCTE LSM decrease ≥30%; MRE LSM decrease ≥20%; MRI-PDFF decrease ≥30%; ALT decrease ≥17 U/L or ≥20%; ELF decrease ≥0.5
 - **Uncertain benefit** (sub-threshold improvement, no cirrhosis progression): Re-evaluate strategy — re-optimize lifestyle, consider other therapy with/without stopping semaglutide
 - **Non-response** (NITs worsen or suggest cirrhosis progression): Stop semaglutide
+- Global NASH/MASH Council consensus differs (AASLD governs): progression at ≥1 year (ELF rise >0.5 or LSM rise >30%, confirmed by a second-line NIT) → **add resmetirom and continue semaglutide** for its cardiometabolic benefits (Statement 5.10, 87% agreement); stop and start an alternative (Statement 5.9, 70%) also passed ([[younossi-2026-global-masld-consensus]])
 
 ### Safety Profile
 
@@ -229,3 +231,4 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 3. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]
 4. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+5. [[younossi-2026-global-masld-consensus|Global NASH/MASH Council 2026: Updated Global Consensus on MASLD Risk Stratification, Treatment Initiation, and Response Monitoring]]

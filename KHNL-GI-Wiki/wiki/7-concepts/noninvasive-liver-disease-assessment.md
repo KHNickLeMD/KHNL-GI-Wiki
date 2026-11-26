@@ -3,8 +3,8 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-11-14
-sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers, aga-2017-elastography-liver-fibrosis]
+updated: 2026-11-26
+sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers, aga-2017-elastography-liver-fibrosis, younossi-2026-global-masld-consensus]
 quality_reviewed: 2026-11-14
 ---
 
@@ -82,6 +82,7 @@ Cut points below are for **nonalcoholic fatty liver disease (NAFLD)/MASLD** ([[a
 
 - **FIB-4** is inaccurate **<35 y** and loses specificity in older adults — in patients **>65 y use <2.0** (not <1.3) to exclude AF ([[aga-2023-nafld-noninvasive-biomarkers]]).
 - **ELF** is approved for clinical use in the US as a **prognostic** biomarker; **ELF ≥11.3 is associated with increased risk of hepatic decompensation in cirrhosis** ([[aasld-2023-nafld]]).
+- **ELF <7.7 rule-out of F3–4 / F4** (table above, [[aasld-2023-nafld]]) **governs this page.** The Global NASH/MASH Council consensus differs: it says ELF 7.7 is no longer considered valid and should not be used, and sets a different measure — ELF **<9.2** (or <9.0; Statements 1.3–1.4) = low risk for F2–4 ([[younossi-2026-global-masld-consensus]]).
 - Simple, cheap, nonproprietary tests (FIB-4, NFS) are **recommended over complex proprietary panels** for AF detection in NAFLD and for staging in HCV (both strong, moderate quality) ([[aasld-2024-nilda-blood]]).
 - In **alcohol-associated liver disease** and **chronic cholestatic disease**, evidence is insufficient to recommend blood-based NILDA for fibrosis staging (ungraded) ([[aasld-2024-nilda-blood]]).
 - **Confounders** ([[aasld-2024-nilda-blood]] Table 6):
@@ -140,7 +141,7 @@ Cut points below are for **nonalcoholic fatty liver disease (NAFLD)/MASLD** ([[a
 
 - Head to head for **MASH with fibrosis stage ≥2**, MEFIB beat FAST: AUROC **0.901** (0.875–0.928) vs **0.725** (0.683–0.767); PPV 95.3% vs 83.5%; NPV 90.1% vs 71.8% (all P ≤ .001). For **at-risk MASH** as the AGA defines it, AUROC **0.768** (0.728–0.808) vs **0.687** (0.640–0.733). AGA 2023 judged the clinical role of these combination scores not yet defined ([[aga-2023-nafld-noninvasive-biomarkers]]).
 - FAST's PPV ranged **0.33–0.81** across validation cohorts ([[aasld-2023-nafld]]).
-- Where imaging is not readily available, a second **blood** test (e.g. ELF) is an acceptable second NIT ([[aasld-2024-nilda-blood]], [[aga-2023-nafld-noninvasive-biomarkers]]).
+- Where imaging is not readily available, a second **blood** test (e.g. ELF) is an acceptable second NIT ([[aasld-2024-nilda-blood]], [[aga-2023-nafld-noninvasive-biomarkers]]). The Global NASH/MASH Council consensus goes further: ELF as second-line test **regardless of VCTE availability** (87% of the panel; all agreed when VCTE is unavailable) ([[younossi-2026-global-masld-consensus]]).
 
 ## Elastography vs the Serum Indices — Head to Head
 
@@ -168,6 +169,8 @@ The evidence behind preferring imaging elastography over APRI/FIB-4 is etiology-
 ## When NITs Are Not Enough
 
 *The three triggers that send a patient to biopsy despite NITs — indeterminate/discordant NITs, conflict with other findings, suspected alternative etiology — are stated in full on [[liver-biopsy]] → Noninvasive Alternatives.*
+
+- **Discordant NITs:** in selected cases, repeating a second-line NIT after ~6 months is a pragmatic alternative to histology (consensus Discussion; prospective data needed) ([[younossi-2026-global-masld-consensus]]).
 
 **Interpret NITs in clinical context** (exam, biochemical, radiographic, endoscopic data) to optimize PPV, and **use each NIT per manufacturer specifications** — e.g. **not in patients with [[ascites]] or with pacemakers** — to minimize discordant results and adverse events; observe probe selection and quality measures ([[aga-2023-nafld-noninvasive-biomarkers]]).
 
@@ -202,3 +205,4 @@ Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM, a
 7. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
 8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
 9. [[aga-2017-elastography-liver-fibrosis|American Gastroenterological Association Institute Guideline on the Role of Elastography in the Evaluation of Liver Fibrosis (2017)]]
+10. [[younossi-2026-global-masld-consensus|Global NASH/MASH Council 2026: Updated Global Consensus on MASLD Risk Stratification, Treatment Initiation, and Response Monitoring]]

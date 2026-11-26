@@ -3,10 +3,10 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-11-16
-sources: [aasld-2024-resmetirom, aasld-2023-nafld, aasld-2025-semaglutide-mash]
+updated: 2026-11-26
+sources: [aasld-2024-resmetirom, aasld-2023-nafld, aasld-2025-semaglutide-mash, younossi-2026-global-masld-consensus]
 quality_reviewed: 2026-11-12
-verified: 2026-11-16
+verified: 2026-11-26
 ---
 
 **Resmetirom (Rezdiffra)** is an oral, liver-directed **thyroid hormone receptor-β (THR-β) agonist** — approved by the US Food and Drug Administration (FDA) for **metabolic dysfunction-associated steatohepatitis (MASH)** (accelerated approval, March 2024) with **moderate-to-advanced fibrosis (stages F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial plus MAESTRO-NAFLD-1 safety data. See [[nafld-masld|metabolic dysfunction-associated steatotic liver disease (MASLD)]] for disease context; the American Association for the Study of Liver Diseases (AASLD) guidance below is the source for everything on this page unless stated otherwise ([[aasld-2024-resmetirom]]).
@@ -111,6 +111,7 @@ Adults with MASH and F2–F3 fibrosis. [[liver-biopsy|Liver biopsy]] is **not** 
 - Beyond 12 months there are insufficient data for a recommendation; continued hepatic function panels **every 6 months** are suggested.
 - **Thyroid:** no systematic monitoring if baseline function is normal. With known thyroid disease or on thyroid hormone replacement, check TSH and free thyroxine (T4) at **3–6 month intervals**, at the treating clinician's discretion.
 - Image-based liver stiffness is strongly preferred at baseline where available; **repeat the same modality at 12 months**.
+- Global NASH/MASH Council consensus schedule (Figure 2) adds liver enzymes at **4 weeks** (then 3, 6 and 12 months) and consider a **6-month VCTE** to gauge response — not to determine efficacy ([[younossi-2026-global-masld-consensus]]).
 
 ### Stopping for hepatotoxicity
 
@@ -155,6 +156,10 @@ flowchart TD
 - **MRI-PDFF:** reduction **<30%** at 52 weeks → histologic response rate no different from placebo (~10%). A ≥30% reduction predicts better histology but with a positive predictive value under 50%, so it cannot stand alone; MRI-PDFF should not be required to start or continue therapy. **Controlled attenuation parameter (CAP) change does not predict response and should not be used to judge futility.**
 - **Blood-based NILDA** (e.g. ELF): improvement has not correlated consistently with MASH resolution or fibrosis regression, but **worsening** from baseline may be read as futility.
 - The AASLD NILDA guideline generally advises against imaging NILDA as a standalone test for tracking fibrosis change. All of the above rests on 52-week data; long-term outcome data were not available when the guidance was written, and these thresholds may change.
+- **Global NASH/MASH Council consensus uses different criteria** (AASLD above governs), judged after ≥1 year (Figure 2: 48 weeks) ([[younossi-2026-global-masld-consensus]]):
+  - Response = LSM fall **≥30%** by VCTE or ELF fall **≥0.5** → continue (Statement 5.11).
+  - Progression = ELF rise **>0.5** or LSM rise **>30%**, **confirmed by a second-line noninvasive test** → stop and start an alternative treatment (Statement 5.8).
+  - Neither → continue (Statement 5.12) or consider a switch (Statement 5.13); Figure 2: continue and consider adding semaglutide.
 
 > [!pearl] Stabilizing fibrosis can be the win
 > In advanced fibrosis, apparent lack of fibrosis improvement should not by itself mandate discontinuation — stabilization may carry important long-term benefit ([[aasld-2024-resmetirom]]).
@@ -177,3 +182,4 @@ flowchart TD
 1. [[aasld-2024-resmetirom|Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance]]
 2. [[aasld-2023-nafld|AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)]]
 3. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
+4. [[younossi-2026-global-masld-consensus|Global NASH/MASH Council 2026: Updated Global Consensus on MASLD Risk Stratification, Treatment Initiation, and Response Monitoring]]
