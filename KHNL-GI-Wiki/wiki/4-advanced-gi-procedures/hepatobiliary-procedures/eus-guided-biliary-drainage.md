@@ -3,8 +3,8 @@ title: "EUS-Guided Biliary Drainage (EUS-BD)"
 category: advanced-procedure
 tags: [eus, eus-bd, eus-cds, eus-hgs, edge, biliary-drainage, biliary-obstruction, ercp, ptbd, lams, interventional-eus, asge, esge]
 created: 2026-10-06
-updated: 2026-11-17
-sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction, esge-2026-biliary-strictures]
+updated: 2026-11-26
+sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, acg-2023-biliary-strictures, aga-2021-malignant-alimentary-tract-obstruction, esge-2026-biliary-strictures, delphi-2026-eus-cds-lams]
 ---
 
 ## Contents
@@ -15,6 +15,7 @@ sources: [jges-2026-eus-biliary-drainage-consensus, asge-2024-therapeutic-eus-bi
   - [[#EUS-CDS vs EUS-HGS]]
   - [[#Surgically Altered Anatomy]]
   - [[#When PTBD or Surgery Is Preferred]]
+- [[#Technique]]
 - [[#ASGE 2024 Recommendations]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
@@ -187,6 +188,17 @@ ASGE 2024 does not compare EUS-BD with **surgical biliary bypass** and makes no 
 
 For perihilar strictures, ACG 2023 found **insufficient evidence to recommend ERCP over PTBD** for drainage of a suspected malignant perihilar stricture — individualize ([[acg-2023-biliary-strictures]]). ESGE 2026 (non-US) differs: ERCP over PTBD for **preoperative** hilar drainage (Strong, moderate), and for **palliative Bismuth III–IV** disease, ERCP or ERCP combined with EUS-BD is preferable to **primary** PTBD, with complementary PTBD still required in some cases (conditional, very low). EUS-HGS for hilar malignant obstruction gives technical success **91%–100%**, clinical success **65%–100%** and AEs **8%–35%**; against PTBD it gave better clinical success (**100% vs 75%**) and fewer AEs (**13% vs 58%**). *The liver-volume drainage target and the hilar stent-type rule live on [[biliary-stricture]].*
 
+## Technique
+
+EUS-CDS with a LAMS — international (mainly European) expert Delphi of 32 panelists, agreement 90.6–100% per item ([[delphi-2026-eus-cds-lams]]):
+
+- **Duct size:** recommended for CBD **≥15 mm** (Statement 13); can be considered at **≥12 and <15 mm** in selected cases when expertise is available (Statement 14)
+- **Stent:** small-caliber LAMS tailored to CBD diameter (Statement 15)
+- **Deployment:** free-hand insertion (Statement 16); over-the-wire release only selectively in challenging scenarios (Statement 17); pure cutting current (Statement 18); intra-channel release of the proximal flange (Statement 19)
+- **Setting:** fluoroscopy, to facilitate adverse-event management (Statement 21); positioning and sedation per operator preference and local protocol (Statement 10)
+- **Maldeployment:** individualized salvage focused on adequate bile duct drainage with the lowest adverse-event risk (Statement 22); operators must know salvage modalities and adverse-event management (Statement 20)
+- **Aftercare:** oral intake within 24 h after an uncomplicated procedure (Statement 23); no routine LAMS surveillance or revision (Statement 24)
+
 ## ASGE 2024 Recommendations
 
 Numbering is the document's own. Developed with the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework; **every recommendation in the document is conditional** — "we suggest," not "we recommend."
@@ -316,3 +328,4 @@ Fourteen experts from six countries, Delphi method, **≥80% agreement required*
 4. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
 5. [[aga-2021-malignant-alimentary-tract-obstruction|AGA Clinical Practice Update: Endoscopic Management of Malignant Alimentary Tract Obstruction (2021)]]
 6. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
+7. [[delphi-2026-eus-cds-lams|EUS-Guided Choledochoduodenostomy With Lumen-Apposing Metal Stents: A Recommendation From an Expert Delphi Consensus (2026)]]

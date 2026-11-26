@@ -38,6 +38,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards* (`/cards/1-disease-scripts/hepatology-diseases/aki-in-cirrhosis.md`, under `# Draft`; deck not rebuilt — the 05:00 pass builds): 3c21b0 (no known baseline → lower of admission SCr or eGFR-75 back-calculation), 3c21b1 (post-discharge kidney check 1 month / CKD assessment 90 days), 3c21b2 (albumin against for non-SBP infections / target >3.0 g/dL). `page_updated:` 2026-11-26. Footer may need `ADQI`/`ICA` in the exporter's `ACRONYMS`.
 - `ingest: partial` removed.
 
+**Next pick:** `Delphi 2026 EUS-CDS with LAMS (Khoury).pdf` (UEG Journal, open access; ~8,700 words — sized to finish verified within the remaining budget). Fills EUS-guided choledochoduodenostomy technique on [[eus-guided-biliary-drainage]].
+
+**`[[delphi-2026-eus-cds-lams]]` — new source (Khoury et al., EUS-guided choledochoduodenostomy with LAMS: expert Delphi consensus, UEG J 2026;14:e70267; CC BY-NC-ND).**
+- *Extract* (fresh agent; all pages, Tables 1–3 and Figures 1–2 rendered): all **24** accepted statements as numbered (votes, round, agreement %, median/IQR, Oxford evidence level), the 4 failed first-round wordings beside their revisions, the 4 rejected Table 2 rows (contraindications; coaxial double-pigtail plastic stent 77.4%), Figure 2 selection algorithm as bullets. Panel 32 (30 endoscopists, 2 surgeons; 25 Europe), 2 rounds, ≥80% + median ≥4 + IQR ≤1.
+- *Gate:* 1 ABSENT on first run (grade-word parse; reworded) → final ABSENT 0 · OTHER 2 (this Delphi's 80.6% credited by the script to linked US pages on the same line) · NOMATCH 3 (Figure 2 text not in text layer — 220 dpi render; "8-8 mm" as printed; values from ESGE/JGES pages) · 12 SIGN read off rendered pp. 2–4, 6–7, 9–10.
+- *Verify* (fresh agent, ~160 claims; 24 + 4 + 4 statements complete): **no findings**. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced:* Statement 2 evidence level 2b (Table 3) vs low (§3.7); Figure 2's contraindication box labelled with a rejected statement's 77.4%; Figure 2 "12–14 mm" and unvoted "<12 mm generally not recommended"; 29 vs 36 invited; "8-8 mm" stent size unclear.
+- *Source priority:* differences from US sources kept on the source page's Contradictions, not written to topic pages — route without GOO (ASGE 2024 Rec 2: either EUS-HGS or EUS-CDS; Delphi prefers EUS-CDS), antibiotic prophylaxis (ACG/ASGE 2025 vs "insufficient evidence"), resectability/Whipple caution, ascites, coaxial stent (ESGE 2026).
+- *Propagated:* [[eus-guided-biliary-drainage]] → new `## Technique` (duct-size gate ≥15 / ≥12 to <15 mm, small-caliber LAMS, free-hand insertion, selective over-the-wire, pure cut, intra-channel proximal flange release, fluoroscopy, maldeployment salvage, oral intake within 24 h, no routine surveillance; Statements 10, 13–24), `## Contents` updated. Gate: no flags on new lines (1 pre-existing NOMATCH L189). Changed-line check (fresh agent, 15 claims): no findings; "non-US" reworded to "international (mainly European)" on its advice (one North American panelist). Page has no `verified:` (unchanged); ~4,450 words → slim candidate.
+- `index.md`: source row added (Other). The EUS-BD row carries no source count; description left.
+- *Cards:* none — [[eus-guided-biliary-drainage]] has no `verified:`.
+- No figures embedded (ND licence allows whole-figure embedding only; Figure 2 carries an internally inconsistent box — left as text).
+- `ingest: partial` removed.
+
+**Not run this pass:**
+- Card dedup, `{at:}` backfill, card quality review; deck rebuild (05:00 pass builds).
+- *Quality review* (budget).
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**.
+- Daily source fetch: not this pass (06:00 cron only).
+
+**Slim candidates noted:** [[acute-on-chronic-liver-failure]] (~4,900 words), [[eus-guided-biliary-drainage]] (~4,450), [[hepatic-encephalopathy]] (~4,000), [[aki-in-cirrhosis]] (~2,900).
+
+**Backlog status:** backlog mode stays **ON**. Three files ingested and verified this pass. Remaining uningested: ~35 non-US/international consensus files (BSG 2018/2026, ECCO 2025 ×2 / 2026, UEG 2025 ×3, UEG-EPC 2026, UEG-ESNM 2025, WEO 2025 ×2, IAP 2025, Maastricht VI, Taipei II, Fiesole 2026, Global MASLD 2026 [US-led, ~9,300 words — good next pick], fatty pancreas, biliary drainage trial methodology, European cholangioscopy 2025, EASL 2024 ×2, EASL 2025 eCCA, ESGE 2020 SEMS), Chavan 2023, NCCN ×3 (EULA, skipped), broken IANS 2024 file. The AGA/ASGE-folder USMSTF PDFs are co-published twins of ingested documents — not backlog. **60 gated lectures/chalk talks** not touched (explicit selection required).
+
 ---
 
 ## [2026-11-25] lint | Quality review — release sweep (second $40 manual run)
