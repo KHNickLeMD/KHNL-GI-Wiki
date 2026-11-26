@@ -4,6 +4,8 @@ category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
 updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -255,7 +257,7 @@ flowchart TD
 - At least twice yearly: liver biochemistries, INR, CBC, urinalysis (chelators), exam (GS 21); chelator patients need CBC + urinalysis indefinitely
 - **24-h urinary copper yearly** — on drug, or after 48 h off D-penicillamine/trientine; more often if adherence is in question or the dose changes (GS 22)
 - Serum copper and ceruloplasmin for trends (GS 22); repeat KF-ring exam if adherence is in question
-- More frequent visits at initiation, with worsening or side effects, or suspected nonadherence (GS 25)
+- More frequent monitoring at initiation, with worsening symptoms or drug side effects, and with suspected nonadherence (GS 25 covers suspected nonadherence)
 
 | Drug | Initiation: urinary copper | Maintenance 24-h copper (μg/24 h) | Overtreatment 24-h copper | Failure on chronic therapy: 24-h copper |
 |---|---|---|---|---|
@@ -347,9 +349,9 @@ Copper removal may improve neurological features (GS 36); adjuncts may relieve p
 ### Wilson's Disease in Pregnancy (GS 33–35)
 
 - **Preconception (GS 33):** genetic counseling, medication safety; stable WD before conception; partner *ATP7B* genotyping optional; folate; current or previous decompensated cirrhosis → counsel against pregnancy
-- **Continue treatment throughout pregnancy** (GS 34; ACG 2016 Rec 33, strong recommendation, very low evidence, [[acg-2016-liver-disease-pregnancy]]) — interruption has caused ALF or deterioration, and fetal copper deposition
-- **Zinc:** safe, dose unchanged; switching to zinc before pregnancy is an option only once stability on zinc is shown (GS 34)
-- **Chelators:** reduce to the minimum that keeps stability, ~25–50% of the pre-pregnancy dose — ideally in the first trimester, otherwise any time, preferably by the start of the third trimester; especially important if cesarean is anticipated (wound healing); keep the lower dose 2–3 weeks after delivery, then resume the pre-pregnancy dose. ACG 2016 calls the evidence for pre-cesarean reduction very limited
+- **Continue treatment throughout pregnancy** (GS 34; ACG 2016 Rec 33 — continue penicillamine, trientine or zinc, with dose reduction if possible; strong recommendation, very low evidence, [[acg-2016-liver-disease-pregnancy]]) — interruption has caused ALF or deterioration, and fetal copper deposition
+- **Zinc:** safe, dose unchanged (AASLD 2022; ACG 2016 Rec 33 lists zinc among drugs to dose-reduce if possible — AASLD is newer and governs); switching to zinc before pregnancy is an option only once stability on zinc is shown (GS 34)
+- **Chelators:** reduce to the minimum that keeps stability — a reduction of approximately 25%–50% of the pre-pregnancy dose (ACG 2016: reduce *by* 25–50%) — ideally in the first trimester, otherwise any time, preferably by the start of the third trimester; especially important if cesarean is anticipated (wound healing); keep the lower dose 2–3 weeks after delivery, then resume the pre-pregnancy dose. ACG 2016 calls the evidence for pre-cesarean reduction very limited
 - Teratogenicity: D-penicillamine FDA category D (thyroid abnormalities, diffuse cutis laxa reported); trientine category C, data sparse
 - Monitor WD about once per trimester; [[portal-hypertension|portal hypertension]] → high-risk obstetric unit; varices → [[nonselective-beta-blockers|nonselective beta-blocker]] or banding
 - **Breastfeeding (GS 35):** weigh pros and cons individually — D-penicillamine enters breast milk (check infant CBC); few data on trientine; little known about pharmacological zinc doses

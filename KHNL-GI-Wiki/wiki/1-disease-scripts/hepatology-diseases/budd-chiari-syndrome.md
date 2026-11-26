@@ -3,116 +3,116 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-10-28
+updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt, darwish-murad-2004-rotterdam-bcs-score, garcia-pagan-2008-bcs-tips-prognostic-index]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+    - [[#BCS-TIPS Prognostic Index]]
+    - [[#Rotterdam Prognostic Index]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Stepwise Management Algorithm]]
+  - [[#Step 1 — Anticoagulation]]
+  - [[#Step 2 — Angioplasty / Stenting]]
+  - [[#Step 3 — TIPS]]
+  - [[#Step 4 — Liver Transplantation]]
+  - [[#HCC Surveillance]]
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, which may occur at the level of the hepatic venules, hepatic veins, or the suprahepatic inferior vena cava (IVC). The obstruction causes sinusoidal congestion, centrilobular necrosis, and ultimately [[portal-hypertension|portal hypertension]] and hepatic failure if untreated.
+**Definition.** Budd-Chiari syndrome (BCS; hepatic vein thrombosis) = hepatic venous outflow obstruction anywhere from the small hepatic veins to the inferior vena cava (IVC)–right atrium junction, **without intracardiac or pericardial obstruction** ([[aasld-2021-vascular-pvt|American Association for the Study of Liver Diseases (AASLD) 2021]]).
+- **Primary** = endoluminal venous lesion, usually thrombus or web (AASLD)
+- **Secondary** = extrinsic compression **or endoluminal neoplastic/parasitic obstruction** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.23); [[acg-2020-hepatic-mesenteric-circulation|American College of Gastroenterology (ACG) 2020]] excludes secondary BCS from its guidance
 
-**Epidemiology** [[aasld-2021-vascular-pvt]]: rare, mainly young patients (**median age 46 y**); incidence **<1 per million person-years** (range 0.17–0.88) and prevalence **1.40–7.69 per million**. [[acg-2020-hepatic-mesenteric-circulation]] reports 0.5–2 per million in Western countries vs the highest prevalence, **5–7 per million, in Asia**.
+**When to suspect:**
+- Any liver disease, recent or chronic, of **unknown etiology**; more so with a known prothrombotic disorder (AASLD)
+- ACG Key Concept (KC) 17: especially **new-onset [[ascites]] and/or abdominal pain**
 
-**Presentation** — ranges from asymptomatic to acute liver failure, with the **chronic** form the most common presentation ([[acg-2020-hepatic-mesenteric-circulation]]):
+**Presentation** — asymptomatic to [[acute-liver-failure|acute liver failure]] (extensive, rapid thrombosis; AASLD); chronic form most common (ACG):
+- Early: acute-onset ascites, abdominal pain, abnormal liver tests → then [[portal-hypertension|portal hypertension]] complications ([[variceal-upper-gi-bleeding|variceal bleeding]], [[hepatic-encephalopathy|hepatic encephalopathy]]) (ACG)
+- At diagnosis: ascites **83%**, hepatomegaly **67%**, abdominal pain **61%**; esophageal varices **>50%** (AASLD)
+- **~15%–20% asymptomatic** — usually partial thrombosis with decompressive collaterals (AASLD)
+- Labs: raised bilirubin and aminotransferases, prothrombin time prolonged when severe; **high ascitic fluid protein** (AASLD)
+- IVC obstruction: abdominal varices, lower-limb edema or ulcers (AASLD)
 
-- **Acute BCS**: sudden-onset right upper quadrant or epigastric pain, hepatomegaly, rapidly progressive [[ascites]], and [[jaundice]]. **Acute liver failure arises when thrombosis is extensive and rapidly formed** [[aasld-2021-vascular-pvt]]
-- **Subacute BCS**: weeks to months course; abdominal discomfort, ascites, splenomegaly, gradual hepatic dysfunction
-- **Chronic BCS**: [[cirrhosis|cirrhosis]], established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
-- **~15%–20% are asymptomatic** and diagnosed incidentally — usually partial thrombosis with decompressive collaterals, atrophy of the affected segments and hypertrophy of the well-drained ones ([[aasld-2021-vascular-pvt]]; American College of Gastroenterology [ACG] gives ~20%)
+**Diagnostic criterion** (Baveno VIII 8.25): **venous luminal obstruction**, or **hepatic vein collaterals + no patent hepatic veins**. Imaging and biopsy: [[#Diagnostics]].
 
-**Frequency of findings at diagnosis** [[aasld-2021-vascular-pvt]]: ascites **83%**, hepatomegaly **67%**, abdominal pain **61%**; [[variceal-upper-gi-bleeding|oesophageal varices]] detected in **>50%**. Typical labs: bilirubin and aminotransferase elevation, prolonged prothrombin time (PT) in severe cases; **ascitic fluid protein is characteristically high**. IVC obstruction (thrombus or compression by a hypertrophied caudate lobe) adds abdominal wall varices, lower-limb edema, or ulcers.
-
-**Primary vs secondary ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.21–8.23):** BCS is any obstruction of the hepatic venous outflow tract from the small hepatic veins to the IVC–right atrial junction — and **BCS is the preferred designation for *any* hepatic venous outflow tract obstruction (HVOTO)** (8.22; Baveno VII 8.7 said "any *primary*" HVOTO). It is **secondary** when the mechanism is **extrinsic compression *or endoluminal neoplastic/parasitic obstruction***, and **primary** otherwise (8.23). ⚠ **Baveno VIII adds the endoluminal limb** — VII 8.8 named only extrinsic compression by a benign or malignant tumour, which left endoluminal tumour thrombus and parasitic obstruction unclassified.
-
-**Diagnostic rules (Baveno VIII 8.24–8.27):** presentation is extremely diverse, so consider BCS in **any** patient with acute, acute-on-chronic, or chronic liver disease (8.24). Diagnosis = demonstration of **venous luminal obstruction**, or **hepatic vein collaterals plus absence of patent hepatic veins** (8.25).
-
-- **Radiologically confirmed BCS needs no [[liver-biopsy|liver biopsy]]** (8.26) — VIII states positively what VII 8.11 stated as a prohibition
-- **Biopsy *is* necessary when cross-sectional imaging fails to demonstrate large hepatic vein obstruction**, to confirm **small hepatic vein** BCS (8.27)
-
-**Key diagnostic features:**
-
-- Caudate lobe hypertrophy (spares caudate because it has separate hepatic veins draining directly to IVC)
-- Absent or reversed hepatic venous flow on Doppler
-- Characteristic "comma-shaped" or enlarged caudate lobe on cross-sectional imaging
-
-**Underlying etiology.** How often a prothrombotic disorder is found differs slightly between the two guidelines: **~75%** of patients ([[aasld-2021-vascular-pvt]], 2021) vs **at least 1 thrombotic disorder in 79%–84%** ([[acg-2020-hepatic-mesenteric-circulation]], 2020). **Two or more** coexist in **≥35%** (American Association for the Study of Liver Diseases [AASLD]) / **25%–46%** (ACG), and **no risk factor is found in 15%–30%** (AASLD).
-
-Prevalences below are the hepatic vein thrombosis (HVT)/BCS column of [[aasld-2021-vascular-pvt]] **Table 7** (patients *without* cirrhosis):
+**Etiology:** prothrombotic disorder in **~75%** (AASLD; ACG ≥1 in 79%–84%); **≥2 coexist in ≥35%** (ACG 25%–46%); none found in 15%–30% (AASLD).
 
 | Cause | Prevalence in BCS | Note |
 |---|---|---|
-| Myeloproliferative neoplasm (MPN) — polycythemia vera, essential thrombocythemia (ET), primary myelofibrosis | **41%** (ACG: "about half") | Most common in Western patients; frequently **masked by hypersplenism**. Platelet count **>200,000/µL together with splenomegaly >15 cm** in severe portal hypertension has significant positive predictive value |
-| Antiphospholipid syndrome | **10%** | Isolated anticardiolipin antibodies have low specificity in symptomatic liver disease |
-| Paroxysmal nocturnal hemoglobinuria (PNH) | **7%** | Uncommon presentation |
+| Myeloproliferative neoplasm (MPN) | **41%** (ACG: ~half) | Most common in Western patients; often **masked by hypersplenism**; JAK2 V617F in 86% |
 | Oral contraceptives or recent pregnancy | **23%** | Over-represented in Western patients |
-| Behçet disease | **2%–3%** | Major cause in the Mediterranean region; IVC involvement common |
+| Antiphospholipid syndrome | **10%** | Isolated anticardiolipin antibodies: low specificity in liver disease |
+| Paroxysmal nocturnal hemoglobinuria (PNH) | **7%** | Uncommon |
+| Protein C / protein S / antithrombin deficiency | **5% / 4% / 1%** | Plasma levels nonspecific with liver dysfunction |
+| Behçet disease | **2%–3%** | Major cause in the Mediterranean |
 | [[celiac-disease\|Celiac disease]] | **1%** | Over-represented in North Africa |
-| Protein C deficiency / protein S deficiency / antithrombin deficiency | **5% / 4% / 1%** | Plasma levels are non-specific in liver dysfunction — see workup caveats under [[#Diagnostics]] |
-| Factor V Leiden | **8% population prevalence in Europeans** (not a BCS-specific rate) | Over-represented in Western patients; molecular diagnosis |
-| Factor II (prothrombin) G20210A | **3% population prevalence in Europeans** (not a BCS-specific rate) | Role uncertain in BCS |
-| Tumor invasion (IVC) | — | [[hepatocellular-carcinoma\|hepatocellular carcinoma (HCC)]], renal cell carcinoma, adrenal carcinoma → **secondary** BCS by the Baveno VIII definition above (endoluminal neoplastic obstruction is the limb VIII added) |
-| Membranous obstruction / segmental stenosis of IVC | — | ~10% of Western cases but **>80% in China**; in Chinese isolated-IVC and combined types prothrombotic disorders are uncommon and cases are linked to low socioeconomic status and abdominal infection |
+| Factor V Leiden / prothrombin G20210A | 8% / 3% **population** prevalence in Europeans (no BCS rate given) | Molecular diagnosis |
 
-> Because two or more risk factors are so common, **investigation for secondary prothrombotic factors is required even when one conspicuous thrombophilia has already been found** (ACG Key Concept [KC] 16); hematology consultation is recommended (ACG KC 19).
+*Thrombotic risk factors in hepatic vein thrombosis/BCS without cirrhosis*
+*Source: data from AASLD 2021 Table 7, hepatic vein thrombosis/BCS column*
+*[[aasld-2021-vascular-pvt|AASLD 2021 Vascular Liver Disorders Guidance]]*
+*BCS = Budd-Chiari syndrome · MPN = myeloproliferative neoplasm · PNH = paroxysmal nocturnal hemoglobinuria · JAK2 = Janus kinase 2*
+
+> [!pearl] One cause found is not the end of the workup
+> ≥2 risk factors are common → keep looking for a second prothrombotic factor after a conspicuous one is found; refer to hematology (ACG KC 16, KC 19; AASLD).
 
 ### Severity Assessment
 
-**Prognostic scores do not decide management.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.36: *"The currently available prognostic BCS scores should not determine individual patient management alone, but can be used for research purposes."* (level of evidence [LoE] 3, strong.) **Child-Pugh** and **Model for End-Stage Liver Disease (MELD)** still apply when cirrhosis is present (the Child-Turcotte-Pugh [CTP] point table, the MELD 3.0 formula, and the MELD-variant comparison live on [[cirrhosis]]).
-
-> ⚠ **This resolves a standing contradiction on this page, against Baveno VII.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the **BCS-TIPS prognostic index**, with a **score >7** as a trigger to consider **liver transplantation before [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]] placement**. [[acg-2020-hepatic-mesenteric-circulation]] KC 26 said the opposite — that "prognostic scoring systems are not helpful in guiding choice of therapy," noting the **Rotterdam score** is validated for *intervention-free* but not *transplant-free* survival and "should not be used to dictate treatment in individual patients." **Baveno VIII now agrees with ACG.** The BCS-TIPS index >7 rule is **withdrawn as a management trigger**; transplant is instead considered for **uncontrolled clinical manifestations despite the stepwise approach** and for BCS presenting as acute liver failure.
+**Prognostic scores do not decide management.** ACG KC 26: not helpful in choosing therapy (Rotterdam validated for intervention-free survival; transplant-free prediction "remains unsatisfactory"). Baveno VIII 8.36: "should not determine individual patient management alone, but can be used for research purposes" (level of evidence 3, strong).
+- ⚠ **Changed:** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 used **BCS-TIPS index >7** to consider transplant before [[tips|transjugular intrahepatic portosystemic shunt (TIPS)]]; Baveno VIII withdrew it. Scores below = understanding only
 
 #### BCS-TIPS Prognostic Index
 
-Research tool, not a management trigger — see the Baveno VIII restriction above. Derived in 124 patients treated with TIPS at 6 European centres, 1993–2006 ([[garcia-pagan-2008-bcs-tips-prognostic-index]]).
+124 patients given TIPS, 6 European centres, 1993–2006 ([[garcia-pagan-2008-bcs-tips-prognostic-index]]).
 
-> **BCS-TIPS PI = age (years) × 0.08 + bilirubin (mg/dL) × 0.16 + INR × 0.63**
+> **BCS-TIPS index = age (years) × 0.08 + bilirubin (mg/dL) × 0.16 + international normalized ratio (INR) × 0.63**
 
-- Weights are the **natural logarithms of the Cox regression coefficients** for the only three independent predictors of **1-year transplant-free survival after TIPS**; bilirubin is in **mg/dL** here, unlike the Rotterdam score below.
-- **Cut-off >7** — the most specific discriminative value: **sensitivity 58%, specificity 99%**, positive predictive value 88%, negative predictive value 96%, area under the curve **0.86**.
-- It flags a **very small group**: 8 of 122 patients scored >7, and **7 of those 8 died or were transplanted** within a year, against 5 of 114 scoring ≤7.
-- The derivation paper itself says the index **has not been externally validated and cannot be recommended until it is** — the same limit Baveno VIII and ACG apply.
+- Predicts death or transplant **within 1 year after TIPS**; **>7**: sensitivity **58%**, specificity **99%**; only 8 of 122 scored >7
+- Authors: not externally validated; "cannot be recommended until prospectively validated"
 
-> [!pitfall] A low BCS-TIPS PI is not reassurance
-> At **58% sensitivity** the index misses roughly four in ten of the deaths and transplants it is meant to flag; its value is the specificity at the top end, not a safe lower band. And the cohort it was derived in is the evidence **against** withholding TIPS on a score — those patients were 98% intermediate- or high-risk by Rotterdam, yet **5-year transplant-free survival in the high-risk stratum was 71% with TIPS against the 42% Rotterdam predicts** ([[garcia-pagan-2008-bcs-tips-prognostic-index]]).
-
-Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, international normalized ratio [INR] >1.5), failure to respond to anticoagulation + angioplasty within weeks.
+> [!pitfall] A low BCS-TIPS index is not reassurance
+> At 58% sensitivity it misses ~4 in 10 deaths/transplants. And high-risk Rotterdam patients in its cohort had **71%** 5-year transplant-free survival with TIPS vs **42%** predicted — no case for withholding TIPS on a score ([[garcia-pagan-2008-bcs-tips-prognostic-index]]).
 
 #### Rotterdam Prognostic Index
 
-Research tool, not a management trigger — see the Baveno VIII restriction above. Derived in 237 patients with non-malignant BCS, 1984–2001 ([[darwish-murad-2004-rotterdam-bcs-score]]).
+237 patients with non-malignant BCS, 1984–2001; no external validation in the paper ([[darwish-murad-2004-rotterdam-bcs-score]]).
 
 > **Score = (1.27 × encephalopathy) + (1.04 × ascites) + (0.72 × prothrombin time) + (0.004 × bilirubin)**
 
 | Variable | Coding |
 |---|---|
-| Encephalopathy | present = 1, absent = 0 (graded by Glasgow Coma Scale) |
+| Encephalopathy | present = 1, absent = 0 |
 | Ascites | present = 1, absent = 0 |
-| Prothrombin time | INR **>2.3** = 1, INR **≤2.3** = 0 |
-| Bilirubin | continuous, **in µmol/L** — the coefficient is not calibrated for mg/dL |
+| Prothrombin time | INR **>2.3** = 1; **≤2.3** = 0 |
+| Bilirubin | continuous, **µmol/L** (not mg/dL) |
 
-- Item weights are the **natural logarithms of the risk ratios** from the multivariate Cox model, not assigned points. Observed scores ran 0.02–4.03.
-- Class boundaries are the **quartiles of the score distribution** in the derivation cohort, not clinically chosen cut-points.
-
-| Class | Score | 5-year transplantation-free survival (95% CI) |
+| Class | Score | 5-year transplantation-free survival (95% confidence interval [CI]) |
 |---|---|---|
 | **I** — good | 0 to 1.1 | **89%** (79–99) |
 | **II** — intermediate | >1.1 to 1.5 | **74%** (65–83) |
 | **III** — poor | ≥1.5 | **42%** (28–56) |
 
-- Whole-cohort survival: **82%** at 1 y, **69%** at 5 y, **62%** at 10 y, **59%** at 15 y.
-- The score was **derived and evaluated in the same cohort** — the paper contains no external validation, and treatment was not randomized.
-
-**HCC risk** — elevated, and occurs **without cirrhosis**, but the estimates differ by population and design:
+**[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]] risk** — raised, **without cirrhosis**:
 
 | Estimate | Source |
 |---|---|
-| Pooled **prevalence 15.4%** (95% confidence interval [CI] **6.8%–26.7%**) across 16 studies (12 Asian, 2 African, 1 European/North American), excluding concomitant viral hepatitis — significant heterogeneity | [[acg-2020-hepatic-mesenteric-circulation]] |
-| **Cumulative incidence 4%** in a European cohort (n=97, median follow-up 5 y) | [[acg-2020-hepatic-mesenteric-circulation]] |
-| **Cumulative incidence 6% at 7 years** (French cohort); risk appears higher with **long-term IVC obstruction** | [[aasld-2021-vascular-pvt]] |
+| Pooled **prevalence 15.4%** (95% CI 6.8%–26.7%), 16 studies, mostly Asian, viral hepatitis excluded; heterogeneous | ACG |
+| **Cumulative incidence 4%**, European cohort (n=97, median follow-up 5 y) | ACG |
+| **6% at 7 years** (French study); higher with **long-term IVC obstruction** | AASLD |
 
-**~40% of BCS patients develop nodular liver lesions** during follow-up; benign ones are typically **multiple (>10), small (<4 cm), hypervascular and disseminated**, and **~25% of them carry a hepatic-adenoma phenotype** (distinct immunohistochemistry from conventional [[hepatocellular-adenoma|adenomas]]). Surveillance mechanics are under *Therapeutics → HCC Surveillance*.
+- **~40%** develop nodules — mostly benign regenerative ([[focal-liver-lesions|nodular regenerative hyperplasia, adenomas]]): typically **multiple (>10), small (<4 cm), hypervascular, disseminated** (AASLD)
+- ~1/3 of benign lesions **wash out**; ~25% have a [[hepatocellular-adenoma|hepatic-adenoma]] phenotype (ACG) → imaging alone misleads
 
 ---
 
@@ -120,39 +120,40 @@ Research tool, not a management trigger — see the Baveno VIII restriction abov
 
 *Workup: see [[ascites]] for the ascites/portal-hypertension arm and [[abnormal-liver-chemistries]] for the aetiologic liver-test evaluation.*
 
-- **Sinusoidal obstruction syndrome (SOS/veno-occlusive disease [VOD])** — occurs after hematopoietic stem cell transplantation (SCT) or exposure to pyrrolizidine alkaloids; histologically identical to BCS but no hepatic vein thrombosis on imaging; caudate preserved
-- **Right heart failure / constrictive pericarditis** — elevated jugular venous pressure (JVP), prominent v-waves, hepatojugular reflux; IVC and hepatic vein not occluded; doppler shows pulsatile hepatic venous flow
-- **[[portal-vein-thrombosis]]** — obstruction at portal level, not hepatic outflow; caudate not spared; hepatomegaly less prominent initially
-- **[[acute-liver-failure|Acute liver failure]] from other causes** — viral hepatitis, [[drug-induced-liver-injury|drugs]], [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy (AFLP)]]; hepatic veins patent on Doppler
+- **Sinusoidal obstruction syndrome (SOS)** — small hepatic venule occlusion; acute SOS can present **1–3 weeks after exposure** (e.g., hematopoietic stem cell transplantation); subacute SOS months to years later, most commonly with chronic low-dose pyrrolizidine alkaloids; right upper quadrant pain, weight gain, hepatomegaly, ascites. Uncertain → transjugular biopsy with [[hepatic-venous-pressure-gradient|hepatic venous pressure gradient (HVPG)]] (AASLD)
+- **Intracardiac or pericardial obstruction** — excluded by the BCS definition (AASLD); congestive heart disease excluded as a separate entity ([[darwish-murad-2004-rotterdam-bcs-score]])
+- **Other acute, acute-on-chronic or chronic liver disease** — consider BCS in each (Baveno VIII 8.24)
 
 ---
 
 ## Diagnostics
 
-**Imaging (first-line)** [[acg-2020-hepatic-mesenteric-circulation]]:
+**Imaging:**
+- **Doppler ultrasound (US), experienced operator = first-line** (AASLD; ACG Rec 16, Conditional/Low); **sensitivity >75%**
+  - Thrombus, non-visualized or flowless-cord hepatic vein, collaterals, caudate hypertrophy, **caudate vein >3 mm** (AASLD)
+- **Contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI)** (ACG Rec 16): thrombus extension, tumor thrombus, response to anticoagulation, indeterminate nodules, and **high suspicion despite negative/inconclusive Doppler**; study of choice without an experienced US operator (AASLD)
+- **Hepatic venography** — uncertain cases; **"spider web"** collaterals (AASLD); rarely needed (ACG KC 18)
 
-- **Doppler ultrasound**: first-line (Conditional, Low evidence); **sensitivity >75%** in experienced hands [[aasld-2021-vascular-pvt]]. Findings: thrombus, non-visualisation of the hepatic vein or its transformation into a flowless cord, collateral veins, absent or reversed hepatic venous flow, caudate lobe hypertrophy, and a **caudate vein >3 mm** in diameter
-- **Contrast-enhanced computed tomography (CT)** or **magnetic resonance imaging (MRI)**: obtain to **assess thrombus extension, rule out tumour thrombus, determine response to anticoagulation, evaluate indeterminate hepatic nodules, and whenever suspicion is high despite a negative/inconclusive Doppler** (Conditional, Low evidence). CT/MR additionally show rapid contrast clearance from the caudate lobe and patchy enhancement from uneven portal perfusion; [[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]] when bile duct involvement suspected
-- **Hepatic venography** — reserved for uncertain cases; the typical sign is a **"spider web"** collateral pattern
+**[[liver-biopsy|Liver biopsy]]** — not needed when imaging confirms BCS (ACG KC 18; Baveno VIII 8.26); **needed when imaging shows no large hepatic vein obstruction** and small-vein BCS is suspected (AASLD; 8.27).
 
-**Thrombophilia workup** — required in every BCS patient, but **not every test is indicated in every patient**; arrange with a hematologist ([[aasld-2021-vascular-pvt]] Table 8):
+**Thrombophilia workup** — at diagnosis, with a hematologist; not every test in every patient (AASLD):
 
 | Test | Who | Caveats |
 |---|---|---|
-| **JAK2 V617F** | All BCS without a major provoking factor | **Do it even if the complete blood count (CBC) is unremarkable** — occult MPN is frequent. Identifies ~86% of the MPN cases |
-| **CALR mutation** | If JAK2 negative | Much less common; positive predictive value (PPV) is significant with **platelets >200,000/µL + spleen >15 cm** in severe portal hypertension |
-| **Bone marrow biopsy** | If JAK2 **and** CALR negative but clinical concern persists (e.g. thrombocytosis, suspicion of polycythemia vera) | Confirms occult MPN |
-| **Antiphospholipid antibodies** — anticardiolipin, anti-β2-glycoprotein-1 (solid-phase IgG and IgM), lupus anticoagulant | All BCS without a major provoking factor | Solid-phase assays **may be drawn in the acute phase**; **lupus anticoagulant must NOT be** (acute changes and anticoagulation interfere). Clinically significant if **>40 GPL or MPL units, or >99th percentile**. Diagnosis of the syndrome requires **persistence on repeat testing ≥12 weeks** later |
-| **PNH flow cytometry** | All BCS without a major provoking factor | Higher index of suspicion with hemolytic anemia and/or cytopenias |
-| **Heritable thrombophilia** — factor V Leiden, prothrombin gene polymorphism, protein C, protein S, antithrombin | **Not routinely recommended** | Results do not generally change management; **protein C/S and antithrombin fall in acute thrombosis and liver dysfunction** and may not reflect an inherited deficiency |
+| **JAK2 V617F** | All without a major provoking factor | **Even if complete blood count (CBC) not suggestive** — occult MPN frequent |
+| **CALR mutation** | If JAK2 negative | Significant positive predictive value with **platelets >200,000/µL + spleen >15 cm** in severe portal hypertension |
+| **Bone marrow biopsy** | JAK2 and CALR negative, but thrombocytosis or concern for polycythemia vera | Diagnoses mutation-negative MPN |
+| **Antiphospholipid antibodies** — anticardiolipin, anti-β2-glycoprotein-1, lupus anticoagulant | All without a major provoking factor | Solid-phase IgG/IgM **can be drawn acutely**; **lupus anticoagulant must not be**. Significant if **>40 IgG/IgM phospholipid (GPL/MPL) units or >99th percentile**; syndrome needs **persistence ≥12 weeks** |
+| **PNH flow cytometry** | All without a major provoking factor | More suspicion with hemolytic anemia and/or cytopenias |
+| **Heritable thrombophilia** — factor V Leiden, prothrombin gene, protein C, protein S, antithrombin | **Not routinely recommended** | Doesn't change management; protein C/S and antithrombin fall with acute thrombosis or liver disease |
 
-> **Contradiction on inherited thrombophilia testing.** [[acg-2020-hepatic-mesenteric-circulation]] KC 16 calls for investigation of **acquired *and inherited*** thrombotic conditions in all BCS patients; [[aasld-2021-vascular-pvt]] (2021, newer) says heritable-thrombophilia testing is **not routinely recommended** because it does not change management. The page follows AASLD for the panel and ACG for the "look for a second factor even after finding the first" rule.
+*Specialty thrombophilia testing in BCS*
+*Source: data from AASLD 2021 Tables 7–8 (BCS/hepatic vein thrombosis rows)*
+*[[aasld-2021-vascular-pvt|AASLD 2021 Vascular Liver Disorders Guidance]]*
+*JAK2 = Janus kinase 2 · CALR = calreticulin · CBC = complete blood count · MPN = myeloproliferative neoplasm · GPL/MPL = IgG/IgM phospholipid units · PNH = paroxysmal nocturnal hemoglobinuria*
 
-*Provoking-factor exception:* the workup above is **not required after recent major abdominal surgery/trauma or significant intra-abdominal inflammation**, and generally not in pre-existing cirrhosis ([[aasld-2021-vascular-pvt]] Table 8).
-
-**[[liver-biopsy|Liver biopsy]]**: usually not required if imaging is diagnostic; histology shows centrilobular congestion, sinusoidal dilation, hepatocyte necrosis in pericentral zones; useful when SOS vs. BCS uncertain.
-
-**[[hcc-surveillance|HCC surveillance]]**: begins at diagnosis — modality, interval, and nodule characterisation are under *Therapeutics → HCC Surveillance* below.
+- Not required after **recent major abdominal surgery/trauma or significant intra-abdominal inflammation**; generally not with pre-existing cirrhosis (AASLD Table 8)
+- ⚠ ACG KC 16 tests acquired **and inherited** thrombophilia in all BCS; AASLD (newer) does not routinely test heritable thrombophilia — the page follows AASLD
 
 ---
 
@@ -160,74 +161,90 @@ Research tool, not a management trigger — see the Baveno VIII restriction abov
 
 ### Stepwise Management Algorithm
 
-Management follows a defined stepwise approach — escalate to the next step only when current therapy is insufficient [[acg-2020-hepatic-mesenteric-circulation]]:
+**Step-up**, less to more invasive by clinical response; (AASLD; ACG Rec 17, Strong/Moderate; Baveno VIII 8.31); early referral to a tertiary center (AASLD).
 
 ```mermaid
 flowchart TD
-    S1["Step 1 — Anticoagulation<br/>+ treat the underlying cause<br/>(e.g. JAK2 → hydroxyurea / anagrelide; MPN management)"]
-    S2["Step 2 — Percutaneous angioplasty ± stenting<br/>of focal hepatic vein or IVC stenosis"]
-    S3["Step 3 — TIPS<br/>decompresses sinusoidal congestion"]
-    S4["Step 4 — Liver transplantation"]
-    S1 -->|"Failure = worsening liver and/or renal function,<br/>ascites, or hepatic encephalopathy (ACG Rec 17)"| S2
-    S2 -->|"Failure, or no stenosis amenable to angioplasty"| S3
-    S3 -->|"Failure = persistent hepatic failure,<br/>uncontrolled portal hypertension"| S4
+    A(["BCS diagnosed"]) --> B(["Therapeutic anticoagulation<br/>+ treat prothrombotic disorder"])
+    A -- "Acute liver failure (ACG Rec 17; AASLD)" --> L(["Liver transplant;<br/>TIPS/DIPS while waiting"])
+    B --> C["Clinical response?"]
+    C -- "Responding (AASLD step-up)" --> K(["Continue medical therapy"])
+    C -- "Fails: worse liver and/or renal function,<br/>ascites, or hepatic encephalopathy (ACG Rec 17)" --> D["Short-segment hepatic vein or<br/>suprahepatic IVC stenosis?<br/>(ACG KC 21; AASLD)"]
+    D -- "Yes" --> E(["Angioplasty;<br/>stent if angioplasty fails (AASLD)"])
+    D -- "No" --> F(["TIPS with PTFE-covered stent;<br/>DIPS if hepatic veins completely occluded<br/>(AASLD; ACG KC 22–23)"])
+    E -- "Fails (AASLD)" --> F
+    F -- "TIPS failure (ACG Rec 17)" --> L
+    class A start
+    class C,D test
+    class B,E,F,L act
+    class K stop
 ```
+*Step-up management of Budd-Chiari syndrome*
+*Source: built from ACG 2020 Rec 17 and Key Concepts 21–23 and the AASLD 2021 BCS guidance statements (neither guideline has a BCS flowchart)*
+*[[acg-2020-hepatic-mesenteric-circulation|ACG 2020 Hepatic and Mesenteric Circulation]] · [[aasld-2021-vascular-pvt|AASLD 2021 Vascular Liver Disorders Guidance]]*
+*BCS = Budd-Chiari syndrome · IVC = inferior vena cava · TIPS = transjugular intrahepatic portosystemic shunt · DIPS = direct intrahepatic portosystemic shunt · PTFE = polytetrafluoroethylene · KC = Key Concept · Rec = Recommendation*
 
-**Evidence** (Strong, Moderate — ACG Rec 17): in the largest prospective multicentre European study (n=157, median follow-up 5 y) the stepwise approach gave **overall survival 77%**; **88.5%** received long-term anticoagulation and **44% needed no invasive intervention at all**. Angioplasty and/or thrombolysis was the initial invasive step in 14%, of whom 64% still escalated to TIPS or liver transplantation (LT) [[acg-2020-hepatic-mesenteric-circulation]]. With **medical therapy alone, only one quarter of patients are alive at 5 years** [[aasld-2021-vascular-pvt]] — which is what makes timely escalation, not indefinite medical management, the point of the algorithm.
+- **Evidence** (ACG): European prospective cohort, n=157 — survival **77%**; **44%** needed no invasive intervention
+- **Medical therapy alone: one quarter alive at 5 years**; recognizing when to step up is the main challenge (AASLD)
+- **"Improvement"** (Baveno VIII 8.35; ACG/AASLD give no criteria): combination of decreasing ascites formation, bilirubin, creatinine and/or INR when elevated (or rising factor V on vitamin K antagonist), **assessed periodically, e.g. every 2 weeks**
 
 ### Step 1 — Anticoagulation
 
-- **Therapeutic anticoagulation should be initiated as soon as possible after diagnosis and continued long-term, *including after [[liver-transplantation|liver transplantation]]*** ([[baveno-viii-2026-portal-hypertension]] 8.32). Baveno VII 8.19 said only "long-term anticoagulation should be given to all patients with primary BCS" — VIII adds the **urgency** ("as soon as possible") and the **post-transplant** continuation
-- **Start with low-molecular-weight heparin (LMWH), then transition to an oral anticoagulant** (8.5). **Avoid unfractionated heparin** (heparin-induced thrombocytopenia [HIT] risk); reserve it for glomerular filtration rate (GFR) <30 mL/min or a pending invasive procedure
-- **Direct oral anticoagulants (DOACs) may be the primary oral choice** in vascular liver disease (8.6) — unless there is **double/triple-positive antiphospholipid syndrome**, **pregnancy**, **Child-Pugh C–equivalent liver dysfunction**, or **GFR <30 mL/min**. Anticoagulant choice should **not** be driven by which vascular liver disease it is (8.4), and the regimen should be **revisited regularly in a multidisciplinary team** against liver function, kidney function, and adherence (8.7)
-- **Do not delay anticoagulation for endoscopic variceal prophylaxis** (8.10); **Endoscopic variceal ligation (EVL) is safe on LMWH or vitamin K antagonist (VKA)**, with **no data for DOACs** (8.11)
-- Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence)
-- Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
-- Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
-- Antiphospholipid syndrome (APLS): indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
-- **Pregnancy and contraception:** the Baveno VIII vascular-liver-disease rules apply — non-oestrogen contraception, oral anticoagulants replaced by therapeutic-dose LMWH once pregnancy is detected, variceal screening in the second trimester, [[nonselective-beta-blockers|propranolol]] for prophylaxis, and vaginal delivery preferred if platelets >20 G/L (8.15–8.20). One home: [[porto-sinusoidal-vascular-disorder|porto-sinusoidal vascular disorder (PSVD)/non-cirrhotic portal fibrosis (NCPF) → Therapeutics]] and [[liver-disease-in-pregnancy]]
+- **All BCS — even without a recognized prothrombotic disorder — therapeutic anticoagulation** (AASLD; ACG Rec 17), started early (AASLD; Baveno VIII 8.32 "as soon as possible")
+- **Agent** (AASLD; ACG):
+  - Immediate low-molecular-weight heparin (LMWH) → vitamin K antagonist (VKA) = most frequent; warfarin long-term
+  - **Avoid long-term unfractionated heparin (UFH)** — heparin-induced thrombocytopenia (AASLD); Baveno VIII 8.5 reserves UFH for glomerular filtration rate (GFR) <30 mL/min or pending procedures
+  - **Direct oral anticoagulants (DOACs): data very limited** (AASLD); not investigated in BCS (ACG)
+- **Major bleeding up to 22.8 episodes/100 patient-years**, mostly from invasive procedures and portal hypertension (ACG)
+- **Varices don't contraindicate anticoagulation** — standard variceal prophylaxis (ACG KC 20); don't postpone anticoagulation for it (Baveno VIII 8.10); endoscopic variceal ligation is safe on LMWH or VKA, no DOAC data (8.11)
+- **Treat the underlying disorder** with hematology (ACG KC 19): MPN → cytoreduction (hydroxyurea, pegylated interferon, busulfan, ruxolitinib); PNH → eculizumab may be considered (ACG)
+- **Pregnancy:** stop oral anticoagulants once detected → therapeutic LMWH (Baveno VIII 8.16); full vascular-liver-disease pregnancy rules on [[porto-sinusoidal-vascular-disorder]] and [[liver-disease-in-pregnancy]]
 
-**What counts as "improvement" before escalating** ([[baveno-viii-2026-portal-hypertension]] 8.35): a **combination** of — decreasing rate of ascites formation; decreasing serum bilirubin; decreasing serum creatinine; and/or decreasing INR when elevated (or rising factor V on vitamin K antagonists). **Assess it periodically, e.g. at 2-weekly intervals** — Baveno VIII adds the interval, which Baveno VII 8.23 left open, so "no improvement on medical therapy" is now a judgement made on a schedule rather than at an arbitrary point. **Actively assess for venous stenoses suitable for percutaneous recanalisation and treat them accordingly** (8.33).
+> ⚠ **DOAC contradiction.** Baveno VIII 8.6 (international consensus): DOACs "may be the primary choice" except double/triple-positive antiphospholipid syndrome, pregnancy, Child-Pugh C–equivalent dysfunction or GFR <30 mL/min. ACG/AASLD call the BCS data limited; the page follows ACG/AASLD.
 
 ### Step 2 — Angioplasty / Stenting
 
-- For short-segment stenosis or web/membrane in hepatic vein or IVC
-- Achieves recanalization and restores hepatic venous drainage
-- More common indication in membranous obstruction (East Asian / African patients)
-- Balloon dilation ± metallic stenting
+- **Only short-segment stenosis** of a hepatic vein (ACG KC 21) or suprahepatic IVC (AASLD) — ~10% of Western cases, **>80% in China** (AASLD)
+- **Stent only after angioplasty fails** — the one randomized trial favouring routine stenting had selection bias and no survival difference (AASLD)
+- Long-term success only **about one third** (ACG)
+- Thrombolysis: systemic ineffective; local infusion + angioplasty only in selected recent, incomplete thrombosis (ACG; AASLD)
 
 ### Step 3 — TIPS
 
-- Preferred when no focal stenosis amenable to angioplasty, or when angioplasty fails
-- Decompresses hepatic sinusoids → reduces congestion and allows hepatocyte recovery
-- **[[tips|TIPS]]** patency important: use covered (polytetrafluoroethylene [PTFE]) stents
-- Post-TIPS: continue anticoagulation; monitor for encephalopathy
-- Bridges to [[liver-transplantation|liver transplantation]] if needed — but in the largest TIPS series it is usually **definitive, not a bridge**: only **6.5%** went on to transplant, with **transplant-free survival 88% at 1 year and 78% at 5 years**, and TIPS technically successful in **93%** of attempts (a formal contraindication, e.g. chronic complete [[portal-vein-thrombosis|portal vein thrombosis]], existed in only 10%). Where no hepatic vein stump remains, the shunt is created by **direct puncture from the intrahepatic IVC**. Post-TIPS encephalopathy **21% at 1 year**, median onset 1.2 months, recurrent in 4 of 124 ([[garcia-pagan-2008-bcs-tips-prognostic-index]])
-- **Do not let the decompression step drift.** In the Rotterdam cohort, mortality rose the longer shunting was delayed after diagnosis — relative risk 1.07 if shunted at <1 month, **3.05 at 1–6 months**, **4.15 at >6 months**. Surgical shunts and TIPS performed alike. Observational and confounded by indication, but the direction is consistent with the stepwise approach's intent ([[darwish-murad-2004-rotterdam-bcs-score]])
+- **TIPS or DIPS with PTFE-covered stents = treatment of choice** when medical therapy or angioplasty fails or isn't feasible (AASLD; Baveno VIII 8.34)
+  - Covered stents (ACG KC 22): dysfunction **87% → ≤30%–40%** (ACG)
+  - **DIPS** (direct IVC-to-portal-vein puncture) in **>40%** (AASLD); US-guided when complete hepatic vein occlusion prevents TIPS (ACG KC 23)
+  - Centers of expertise (AASLD); technique: [[tips]]
+- **Outcome:** 5-year transplant-free survival **72%–78%** (ACG); 124-patient series: technical success **93%**, post-TIPS encephalopathy **21% at 1 year** ([[garcia-pagan-2008-bcs-tips-prognostic-index]])
+- **Surgical shunts only if TIPS/DIPS not feasible or fails** (AASLD; ACG KC 24); perioperative mortality 10%–20% (ACG)
+
+> [!pearl] Escalate promptly, not indefinitely
+> Step-up is safe only with close follow-up and **TIPS soon after less invasive therapy fails to improve** (AASLD). Rotterdam cohort (portosystemic shunts, mostly surgical; 15% TIPS): mortality relative risk 1.07 if shunted <1 month after diagnosis (not significant), **3.05 at 1–6 months**, **4.15 at >6 months** (observational; [[darwish-murad-2004-rotterdam-bcs-score]]).
 
 ### Step 4 — Liver Transplantation
 
-- Triggered by **uncontrolled clinical manifestations despite the stepwise approach**, by cirrhotic BCS failing all other measures, or by uncontrolled portal hypertension. **No longer triggered by a prognostic score** — see *Severity Assessment*
-- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **salvage TIPS if possible, independently of listing** ([[baveno-viii-2026-portal-hypertension]] 8.37)
-- Post-transplant: **anticoagulation continues after transplantation** (8.32) — thrombophilia persists
-- Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
+- **For failure of medical and interventional therapy** (AASLD) / **TIPS failure** (ACG Rec 17)
+- **[[acute-liver-failure|Acute liver failure]]: liver transplantation (LT) may be the first step** (ACG Rec 17; AASLD) — **TIPS/DIPS while waiting** may improve liver function and avoid LT (AASLD); Baveno VIII 8.37: salvage TIPS "independent of LT listing"
+- Pretransplant TIPS did **not** worsen post-LT prognosis (AASLD)
+- ~7% need LT; 5-year survival **>70%** (AASLD). **Recurrent thrombosis up to 20%** (ACG)
+- **After LT:** consider long-term anticoagulation, especially with persistent prothrombotic risk such as MPN (ACG KC 25); keep treating a disorder LT doesn't cure (AASLD). Baveno VIII 8.32 continues anticoagulation after LT outright; ACG's "consider" governs. See [[liver-transplantation]]
 
 ### HCC Surveillance
 
-**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.28–8.30** — [[focal-liver-lesions|hepatic nodules]] in chronic BCS are frequent and **most often benign**, but HCC also occurs:
+- **Chronic BCS: US every 6 months ± alpha-fetoprotein (AFP)**, as in cirrhosis (AASLD) — for all chronic BCS, not only those with cirrhosis
+  - ACG Rec 18 (Conditional/Low): US **+** AFP every 6 months; AASLD (newer) makes AFP optional. Program: [[hcc-surveillance]]
+- **Nodules:** triphasic contrast CT or MRI (ACG KC 27); uncertain → contrast cross-sectional imaging and/or biopsy (AASLD); Baveno VIII 8.30 adds MRI with hepatobiliary contrast; refer to expert centers (ACG Rec 18)
 
-- **Monitor with periodic imaging *and* alpha-fetoprotein (AFP) at a 6-month interval**, "similar to HCC surveillance in cirrhosis" (8.29). ⚠ Baveno VII 8.15 said it was "still unclear" whether ultrasound or MRI should be used for periodic screening; Baveno VIII drops that uncertainty and anchors the interval to standard [[hcc-surveillance|HCC surveillance]]
-- **AFP >15 ng/mL should raise suspicion for HCC** (8.29) — **new numeric threshold**; Baveno VII named AFP as part of surveillance without a cut-off
-- **[[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] cannot be applied in BCS** (8.30, new). Use **MRI with hepatobiliary contrast agents** to distinguish benign from malignant lesions, and obtain **histological confirmation** for lesions suspected of being HCC
-- Ultrasound (US) + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]] — concordant
-- Do **not** defer surveillance for absence of fibrosis — the elevated risk is independent of cirrhosis (see *Severity Assessment*)
-- If HCC found: standard staging and treatment; however, transplant may be needed if LT is planned for BCS anyway
+> [!pitfall] Imaging criteria cannot diagnose HCC in BCS
+> [[li-rads|Liver Imaging Reporting and Data System (LI-RADS)]] excludes BCS — altered perfusion makes arterially enhancing benign lesions common. **HCC needs histological confirmation** (AASLD; Baveno VIII 8.30).
+
+> ⚠ **AFP cut-off contradiction.** Baveno VIII 8.29: AFP **>15 ng/mL** should raise HCC suspicion. AASLD: that threshold **cannot be recommended until validated** (ACG cites one study: positive predictive value 100%, negative 91%). The page follows AASLD — no AFP action threshold.
 
 ---
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[hepatocellular-adenoma]], [[acute-liver-failure]], [[drug-induced-liver-injury]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]], [[li-rads]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[liver-disease-in-pregnancy]], [[celiac-disease]]
+[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[hepatocellular-adenoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[hcc-surveillance]], [[liver-biopsy]], [[hepatic-venous-pressure-gradient]], [[focal-liver-lesions]], [[li-rads]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[liver-disease-in-pregnancy]], [[celiac-disease]]
 
 ---
 
