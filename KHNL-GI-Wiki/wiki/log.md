@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] update | Anki card pass — dedup, stale verified pages, card quality review ($10 budget)
+
+**Dedup:** `anki-dupes.mjs` listed 0 unjudged pairs — nothing to merge. Two duplicates found by hand while correlating: `hepatitis-c [b51011]` merged into `direct-acting-antivirals [da1108]` (cyclosporine DDI; drug page owns it), `small-bowel-bleeding [b5b009]` merged into `angioectasia [a90008]` (hormonal therapy).
+
+**Cards written / re-correlated (verified pages, page_updated set):**
+- [[endoscopic-band-ligation]] 7 → 8: new eb1007 (all-three conditions for banding a cardiofundal varix); fe9493 GS ref, c1f44b ("compensated" not on page), 54def1 (rescue TIPS + MELD >18 / emergency EVL), 3 colonic anchors → `colonic-diverticula`, invented "reach, not wall thickness" Back Extra cut
+- [[noncardiac-chest-pain]] 1 → 1: everything else already carded on owner pages
+- [[tenapanor]] 3 → 3: outdated "guidelines state no contraindications" line cut (label content not cardable)
+- [[remimazolam]] 9 → 10: "every ≥2 min / ≥2–3 min" intervals fixed; new c4a00a flumazenil 0.2 mg reversal; kidney-transplant wording
+- [[abdominal-migraine]] 4 → 4: no change needed
+- [[botulinum-toxin]] 6 → 6: b01102 recut to ACG's stance (does not significantly affect later myotomy); b01103 FLIP qualifier (reduced EGJ opening); b01105 Back Extra (30% additional treatment)
+- [[albumin]] 6 → 6: two Back Extras matched to the page (≤5 L tap rationale; 2026 ACLF consensus on shock)
+- [[loperamide]] 19 → 17: 1c4008 merged into `acute-diarrhea [ad9006]`; 1c4020 moved to `acute-diarrhea [ad9020]` (fact lives on that page's algorithm)
+- [[endoscopic-management-of-perforation]] 16 → 16: Back Extra duodenum row (AGA gives no 2 cm cut-off)
+- [[cholangioscopy]] 6 → 6: ca1003 Back Extra ("restricts" overstated)
+- [[hereditary-mixed-polyposis-syndrome]] 4 → 4: no change needed
+- [[meckels-diverticulum]] 2 → 3: new dc0004 (emergent laparotomy, ASGE 2026)
+- [[endoscopic-sleeve-gastroplasty]] 10 → 10; [[celiac-plexus-block]] 10 → 11 (new cb000b, AGA 2022 BPA 8 not routine); [[sclerosing-mesenteritis]] 12 → 12 (2 broken + 7 vague anchors fixed)
+- [[t-cell-mediated-rejection-liver-transplant]] new card file, 6 notes (biopsy before treatment, steroid-refractory TCMR, prophylaxis with pulse steroids, CDR immunosuppression ladder, CDR non-responders to steroids/ATG, ≥10 portal tracts). RAI split, biomarkers and CDR duct-loss threshold already carded on [[liver-transplantation]], not duplicated
+- [[direct-acting-antivirals]] 7 → 6: da1103/da1104 moved to `hepatitis-c [b51016]/[b51017]` (facts live there); new da1108 cyclosporine DDI
+- [[peginterferon-alfa-2a]] skipped on purpose (label-sourced; standing skip)
+
+**Card quality review (cards_reviewed set):**
+- `sclerosing-mesenteritis` 12 → 12, regimen table added · `celiac-plexus-block` 11 → 11, block-vs-neurolysis table · `remimazolam` 10 → 10, dosing table · `endoscopic-sleeve-gastroplasty` 10 → 10, e5c006 recut from a "no preferred device" stance to Rec 6 + device table
+- `hepatic-hemangioma` 12 → 12: 2 broken anchors fixed, modality table; page_updated brought current
+- `pancreatic-cancer` 10 → 10: ad1003 drainage exception matched to the page (symptomatic + substantial delay; other drainage reasons in Back Extra); NCCN pointer cut from ad1002; AJCC T table
+- `intragastric-balloon` 10 → 11: 19b006 recut into the BIBC 2018 absolute-contraindication note (US guidelines list none); 19b007 adds green urine → removal within 72 h; new 19b00c pancreatitis remove/leave by severity
+- `hypermobile-ehlers-danlos-syndrome` 9 → 9: **e01009 lower-GI diet cloze carried "dairy-free" (page puts it under MCAS)** — fixed; no other copy in deck or wiki; e01003 unsupported "joints stiffen" line cut; e01008 BPA attribution; broken anchor
+- `colonic-stricture` 10 → 10: all notes matched; benign-stricture options table added to 0d4a01
+- `angioectasia` 9 → 8: a90004 retired (pooled rebleeding data); a90007 recut to the thalidomide regimen; a90009 IOE mortality/yield (no longer on this page) removed
+
+**Remaining:** card queue continues with [[colorectal-esd]], [[glp-1-receptor-agonists]], [[nonampullary-duodenal-adenoma]] (2025-tier stale files); review queue continues from `review-queue.py --cards`. Footer acronym for `bibc-2018-*` slugs not checked. Build: no problems on any touched file; the rest are the standing stale/anchor backlog.
+
+---
+
 ## [2026-11-26] lint | Quality review — release sweep, second run ($40 budget)
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`; one subagent per page; unverified source pages verified first. [[gallbladder-cancer]] and [[somatostatin-analogs]] skipped again (NCCN sources, see the earlier entry today).
