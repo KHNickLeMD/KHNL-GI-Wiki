@@ -27,6 +27,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Slim candidates: [[nafld-masld]] (~2,730 words), [[semaglutide]] (~2,590), [[noninvasive-liver-disease-assessment]] (~2,970).
 - `ingest: partial` removed.
 
+**Next pick:** `European Consensus 2025 Cholangioscopy Pancreatoscopy (Palmeri).pdf` — UEG J 2025, open access (CC BY-NC-ND), ~10,400 words; non-US Delphi, gap-fill for [[cholangioscopy]] (~1,500 words, room for technique/indications). Larger backlog files (20k–50k words) do not fit the remaining budget verified.
+
+**`[[palmeri-2025-european-cholangioscopy-pancreatoscopy]]` — new source (Palmeri E, …, Hindryckx P. European Consensus Recommendations for Direct Cholangioscopy and Pancreatoscopy Using a Modified Delphi Process. UEG J 2025;13:1652–1667; CC BY-NC-ND).**
+- *Extract* (fresh agent; whole text, PDF pp. 3–11 rendered, Figure 2 at 200 dpi): all **42** statements with the document's own numbers S1–S42 (Tables 1–3), agreement % and GRADE quality as printed (12 moderate / 14 low / 16 very low); 1 rejected statement (simethicone; wording only in the supplement, not on file); Figure 2 algorithm branch by branch; Figure 1 Delphi flow. Mendoza / Edmonton criteria, "dominant stricture" and pancreatoscopy classifications are named but not printed — stated on the page.
+- *Gate:* ABSENT 5 (Figure 1 graphic values read off rendered p. 3; abstract value) · OTHER 0 · NOMATCH 2 (summary/labelling lines) · SIGN 4 read off rendered pages. One unverifiable cross-page claim deleted by the extractor.
+- *Verify* (fresh agent, ~190 claims; S1–S42 complete): **no findings**. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced:* round-1 acceptance 39/43 vs 41/43 vs 39 (92.9%); 97.6% vs 97.7%; category counts (abstract 12/8/13/9 vs tables 20/8/14); round-1 rejection despite a three-round rule; lithotripsy cited as "S22" (is S23); "recommended" vs S12 "may be preferred"; S29/S30 at exactly 80%.
+- *Source priority:* non-US → gap-fill only. ASGE 2023 Rec 2 (cholangioscopic biopsy for nondistal strictures / after nondiagnostic ERCP, expert centres) governs over S30 (D-SOC in the initial workup of any unexplained stricture); S3/S4/S21/S23 restate US sources and were not propagated.
+- *Propagated:* [[cholangioscopy]] → `## Technique` (training S1–S2; scope introduction S5/S12/S15/S16; irrigation/suction S18–S19; ≥3 targeted biopsies S38, 10% formalin S42, re-sample suspicious-negative S39; lithotripsy S24–S26/S28; CO₂ pitfall extended with S17), new `### Other Biliary Indications` (S9/S13/S14), `### Percutaneous Cholangioscopy` (S6–S8), `### Pancreatoscopy` (S10/S11/S20/S22/S27, MD-IPMN 13%–62% change in surgical approach), PSC/IgG4 S40/S41, visual + biopsy S36/S37, one S30-vs-ASGE line; `## Contents` and See Also updated; body ~2,150 words. Gate: no flags on new lines. Changed-line check (fresh agent, ~45 claims): 0 management, 1 minor — "no size cutoff given" true of S22 but the Discussion cites a >10 mm difficult-stone example → reworded "S22 itself gives no size cutoff". `verified:` re-stamped 2026-11-26.
+- *Not propagated (deliberate, budget):* [[biliary-stricture]] (biopsy technique now homed on [[cholangioscopy]] — link, don't copy), [[intraductal-papillary-mucinous-neoplasm]], [[chronic-pancreatitis]], [[primary-sclerosing-cholangitis]] — covered from the cholangioscopy page.
+- `index.md`: source row added (Sources → Other); cholangioscopy 8 → 9 sources.
+- *Cards* (`/cards/4-advanced-gi-procedures/hepatobiliary-procedures/cholangioscopy.md`, under `# Draft`; deck not rebuilt — 05:00 pass builds): ca1007 (≥3 targeted biopsies; suspicious + negative → re-sample), ca1008 (MD-IPMN pancreatoscopy guides resection). CO₂ (S17) left to existing ca1005. `page_updated:` 2026-11-26. Footer may need `UEG`-style handling of the `palmeri` slug in `ACRONYMS`.
+- `ingest: partial` removed.
+
 ---
 
 ## [2026-11-26] update | Anki card pass — dedup, stale verified pages, card quality review ($10 budget)
