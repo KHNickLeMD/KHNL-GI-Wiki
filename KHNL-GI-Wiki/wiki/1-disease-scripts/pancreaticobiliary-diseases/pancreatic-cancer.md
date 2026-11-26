@@ -3,7 +3,9 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-11-08
+updated: 2026-11-26
+verified: 2026-11-26
+quality_reviewed: 2026-11-26
 sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer, sis-2024-intra-abdominal-infection]
 ---
 
@@ -32,15 +34,18 @@ Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocri
 
 ### Establishing the Diagnosis
 
-- **Presentation (symptomatic disease — late):** painless [[jaundice|jaundice]] (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, anorexia.
-  - Head lesions → cholestatic biochemistry (↑ bilirubin, ↑ alkaline phosphatase). **Body/tail lesions typically have normal liver biochemistry** because there is no biliary obstruction — so they present at a more advanced stage and are less often resectable ([[asge-2016-solid-pancreatic-neoplasia]]).
-- **Screen-detected disease** (high-risk individuals) is instead found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia ([[asge-2022-pancreatic-cancer-screening]]).
-- **Sequence:** cross-sectional imaging (pancreas-protocol computed tomography [CT] or magnetic resonance imaging [MRI]/[[mri-mrcp|magnetic resonance cholangiopancreatography (MRCP)]]) first — it detects, localizes, and determines resectability — then endoscopy for tissue when the patient is not going directly to surgery.
-- **Tissue is not always required:** if CT findings strongly suggest a resectable carcinoma and the patient is an operative candidate, direct referral for resection (e.g. pancreaticoduodenectomy) is reasonable.
+- **Presentation:** obstructive [[jaundice]], abdominal pain, anorexia, weight loss, acute pancreatitis, new-onset or poorly controlled diabetes, or steatorrhea; sometimes found incidentally on imaging ([[asge-2016-solid-pancreatic-neoplasia]]).
+  - **Head lesions** → most present with obstructive jaundice; cholestatic liver tests (↑ bilirubin, ↑ alkaline phosphatase).
+  - **Body/tail lesions** → normal liver biochemistry (no biliary obstruction); symptoms generally not until advanced disease, so less often resectable.
+- **Screening yield** (high-risk individuals) is measured as detection of high-risk lesions, pancreatic cancer, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia ([[asge-2022-pancreatic-cancer-screening]]).
+- **Sequence:** cross-sectional imaging (pancreas-protocol multidetector computed tomography [CT]; [[mri-mrcp|magnetic resonance imaging (MRI)]] selectively) first — detects, localizes, judges resectability — then [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]] for staging and tissue when the patient is not going directly to surgery ([[asge-2016-solid-pancreatic-neoplasia]]).
+- **Biopsy is individualized** by need for preoperative chemotherapy, resectability, and feasibility of surgery (American Society for Gastrointestinal Endoscopy [ASGE] 2016, ⊕⊕⊕⊕):
+  - CT strongly suggests resectable carcinoma + operative candidate → direct referral for resection (e.g. pancreaticoduodenectomy) is reasonable.
+  - Nonoperative tissue diagnosis is worth getting when a mimic is possible ([[autoimmune-pancreatitis|autoimmune pancreatitis]], lymphoma), for enrollment in a neoadjuvant chemotherapy protocol, or for preoperative counseling.
 
 ### Staging and Resectability
 
-TNM staging of pancreatic adenocarcinoma (American Joint Committee on Cancer [AJCC] 7th ed., as reproduced in [[asge-2016-solid-pancreatic-neoplasia|American Society for Gastrointestinal Endoscopy (ASGE) 2016]]):
+TNM staging of pancreatic adenocarcinoma (American Joint Committee on Cancer [AJCC] 7th ed., as reproduced in [[asge-2016-solid-pancreatic-neoplasia|ASGE 2016]] Table 3):
 
 | | Criterion |
 |---|---|
@@ -64,46 +69,41 @@ TNM staging of pancreatic adenocarcinoma (American Joint Committee on Cancer [AJ
 | III | T4 | Any N | M0 |
 | IV | Any T | Any N | M1 |
 
-- **The single arterial criterion that defines an unresectable primary in this system is celiac-axis or SMA involvement (T4).**
-- **Borderline-resectable disease is not defined by this system.** ASGE 2016 stages resectability on CT by tumor extension, liver metastases, and **invasion of vascular structures**, but gives no degree-of-contact thresholds — so the split between *resectable*, *borderline-resectable*, and *locally advanced* cannot be made from this page. Use the National Comprehensive Cancer Network (NCCN) Pancreatic Adenocarcinoma guideline for those definitions.
-- **Version caveat:** the table above is AJCC **7th** edition. Whether and how the 8th edition changed pancreatic T definitions is not covered here.
+- **Unresectable primary in this system = celiac-axis or SMA involvement (T4).**
+- **Borderline-resectable disease is not defined here.** ASGE 2016 assesses resectability on CT by tumor extension, liver metastases, and invasion of vascular structures, but gives no degree-of-vessel-contact thresholds separating resectable, borderline-resectable, and locally advanced disease.
+- Table is the AJCC **7th** edition; ASGE 2016 does not give the 8th.
 
 ### Risk Stratification / Genetic Susceptibility
 
-Germline pathogenic variants account for a meaningful share of PDAC — [[brca-pathogenic-variants|BRCA1/2]] variants are present in up to 7% of all pancreatic cancer patients. Conditions conferring increased risk:
+[[brca-pathogenic-variants|BRCA1/2]] germline pathogenic variants are present in up to 7% of all pancreatic cancer patients. **High risk** = lifetime risk **>5%** or relative risk (RR) **>5** (threshold adopted by [[asge-2022-pancreatic-cancer-screening|ASGE 2022]]). Genetic-susceptibility conditions ASGE 2022 addresses:
 
-- **[[brca-pathogenic-variants|BRCA2]]** — pooled relative risk (RR) ~5.1; lifetime risk to age 80 ~5.2%–7.4%.
-- **[[brca-pathogenic-variants|BRCA1]]** — pooled RR ~1.9; lifetime risk ~3.5%–3.8% (lower than BRCA2; may not clearly cross the 5% high-risk threshold).
+- **BRCA2** — pooled RR 5.1 → lifetime risk to age 80 ~5.2% (~7.4% by standardized incidence ratio).
+- **BRCA1** — pooled RR 1.9 → lifetime risk ~3.5%–3.8%; does not clearly cross the 5% threshold, screening still suggested (start with caution, counsel on harms).
 - **PALB2** pathogenic variant.
-- **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — kindreds with ≥2 first-degree relatives with pancreatic cancer and no known hereditary cancer syndrome; thought to be autosomal-dominant inheritance of a rare allele.
-- **[[fammm-syndrome|Familial atypical multiple mole melanoma (FAMMM)]]** — high relative risk.
-- **[[peutz-jeghers-syndrome|Peutz-Jeghers syndrome]]** — among the highest relative risks.
-- **ATM** heterozygotes with a first- or second-degree relative with pancreatic cancer.
-- **[[lynch-syndrome|Lynch syndrome]]** with a first- or second-degree relative with pancreatic cancer.
+- **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — kindred with ≥2 first-degree relatives with pancreatic cancer, no known hereditary cancer syndrome.
+- **[[fammm-syndrome|Familial atypical multiple mole melanoma (FAMMM)]]** and **[[peutz-jeghers-syndrome|Peutz-Jeghers syndrome]]** — very high risk.
+- **ATM** heterozygotes and **[[lynch-syndrome|Lynch syndrome]]** — only **with a first- or second-degree relative with pancreatic cancer**.
 - **[[hereditary-pancreatitis|Autosomal-dominant hereditary pancreatitis]]**.
 
-*The list above is ordinal, not quantitative: the **relative risk of pancreatic cancer for each syndrome** (from Peutz-Jeghers at the top down to ATM), paired with its screening start age, is tabulated on [[pancreatic-cancer-screening]] from [[acg-2015-hereditary-gi-cancer]] — consult it before deciding whether a given carrier crosses the threshold to screen.*
+Per-syndrome relative risks ([[acg-2015-hereditary-gi-cancer|American College of Gastroenterology (ACG) 2015]]) are tabulated on [[pancreatic-cancer-screening]].
 
-Per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should be considered for screening **regardless of family history** of pancreatic cancer, because ~2 of 3 BRCA-associated cancers would otherwise be missed. A family history of pancreatic cancer *not* meeting FPC criteria confers ~2-fold increased risk but is generally not an indication for screening on its own; diabetes, older age, smoking, [[obesity]], and [[chronic-pancreatitis|chronic pancreatitis]] raise risk to a lesser degree than the genetic conditions above.
+- **BRCA1/2 carriers qualify regardless of family history** — ~2 of 3 BRCA-associated cancers would be missed if screening required one (ASGE 2022).
+- **Not screening indications on their own:** family history not meeting FPC criteria (~2-fold risk); diabetes, older age, smoking, [[obesity]], [[chronic-pancreatitis|chronic pancreatitis]] (lesser risk than the genetic conditions).
 
 ### High-Risk Surveillance
 
-Full ASGE 2022 framework — modality choice, imaging technique standards, and what to do with findings — lives on [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI; interval is **annual**.
-
-Starting age varies by condition (per-condition table with relative risks on [[pancreatic-cancer-screening]]): BRCA1/2, PALB2, FPC, ATM, and Lynch → **50**; FAMMM → **40**; Peutz-Jeghers → **35**; hereditary pancreatitis → **40**.
-
-- **The qualifier matters:** for every condition *except* hereditary pancreatitis the rule is "that age **or 10 years earlier than the youngest relative with pancreatic cancer**," so the listed age is a ceiling, not a fixed start ([[asge-2022-pancreatic-cancer-screening|ASGE 2022]], Rec 6). Hereditary pancreatitis is given as **age 40 only**, with no such clause.
-- **Combination rule:** for **ATM** and **Lynch**, the affected-relative requirement is part of the indication — the recommendation covers ATM heterozygotes and Lynch patients **who also have a first- or second-degree relative with pancreatic cancer**. Neither is covered on the genotype alone.
-- **FPC:** screening is recommended for **all first-degree relatives** of affected family members.
+Who, how, how often, and per-condition starting ages: [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]] (ASGE 2022). In brief — screening suggested for the conditions above (Rec 1); EUS, MRI, or EUS alternating with MRI (Rec 2); **annual** (Rec 4); start age by condition (Recs 5–6).
 
 ## Differential Diagnosis
 
 *Workup: see [[jaundice]].*
 
-- Other solid pancreatic masses: [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], metastasis, lymphoma, solid pseudopapillary neoplasm.
-- Mass-forming or autoimmune (IgG4-related) [[chronic-pancreatitis|chronic pancreatitis]] — a correct pathologic diagnosis of lymphoma or [[autoimmune-pancreatitis|autoimmune pancreatitis]] mimicking PDAC may preclude surgery.
-- Cystic neoplasms with a solid component — see [[pancreatic-cysts|pancreatic cysts]] (intraductal papillary mucinous neoplasm [IPMN], mucinous cystic neoplasm).
-- [[cholangiocarcinoma|Distal cholangiocarcinoma]] and ampullary carcinoma (overlapping obstructive presentation).
+Other solid pancreatic neoplasms ([[asge-2016-solid-pancreatic-neoplasia|ASGE 2016]] Table 2):
+
+- **[[gastroenteropancreatic-neuroendocrine-tumors|Neuroendocrine tumor]]** — nonfunctioning tumors can mimic adenocarcinoma, but biliary obstruction is uncommon; on CT, enhances in the arterial phase (adenocarcinoma is typically hypointense after contrast).
+- Acinar cell carcinoma, solid pseudopapillary tumor, metastasis.
+- **Lymphoma or autoimmune pancreatitis** mimicking cancer — a correct pathologic diagnosis may spare surgery.
+- Cystic neoplasms — see [[pancreatic-cysts|pancreatic cysts]].
 
 ## Diagnostics
 
@@ -111,83 +111,97 @@ Starting age varies by condition (per-condition table with relative risks on [[p
 
 ```mermaid
 flowchart TD
-    A["Clinical suspicion of pancreatic adenocarcinoma<br/>or transabdominal ultrasound suggestive"] --> B["CT scan or MRI"]
-    B -->|"Suspect resectable"| C["EUS ± fine-needle aspiration/biopsy<br/>(FNA/FNB)"]
-    B -->|"Suspect unresectable"| D["Obtain tissue diagnosis by<br/>most appropriate means"]
-    C --> E["Confirm resectable PDAC"]
-    C --> F["Non-diagnostic specimen"]
-    C --> G["Alternative diagnosis"]
-    D --> H["Confirm unresectable PDAC"]
-    E --> I["Surgery ± neoadjuvant therapy"]
-    F --> J["Consider repeat EUS, CT-guided FNA,<br/>endoscopic retrograde cholangiopancreatography (ERCP)<br/>with brushings and biopsy, or surgery"]
-    H --> K["Palliation"]
+    A(["Clinical suspicion of pancreatic adenocarcinoma,<br/>or transabdominal ultrasound suggestive"]) --> B["CT scan or MRI"]
+    B -- "Suspect resectable" --> C["EUS ± fine-needle aspiration (FNA)"]
+    B -- "Suspect unresectable" --> D["Obtain tissue diagnosis<br/>by most appropriate means"]
+    C -- "Resectable PDAC confirmed" --> E(["Surgery ± neoadjuvant therapy"])
+    C -- "Non-diagnostic specimen" --> F(["Consider repeat EUS, CT-guided FNA,<br/>endoscopic retrograde cholangiopancreatography (ERCP)<br/>with brushings and biopsy, or surgery"])
+    D -- "Non-diagnostic specimen" --> F
+    C --> G(["Alternative diagnoses"])
+    D --> G
+    C -- "Unresectable PDAC confirmed" --> H(["Palliation"])
+    D -- "Unresectable PDAC confirmed" --> H
+    class A start
+    class B,C,D test
+    class E,F,H act
+    class G stop
 ```
-
-*Algorithm — evaluation and management of suspected pancreatic adenocarcinoma, recreated from Figure 1. ([[asge-2016-solid-pancreatic-neoplasia]])*
+*Evaluation of suspected pancreatic adenocarcinoma*
+*Source: redrawn from ASGE 2016 Figure 1*
+*[[asge-2016-solid-pancreatic-neoplasia|ASGE 2016 Solid Pancreatic Neoplasia Guideline]]*
+*CT = computed tomography · MRI = magnetic resonance imaging · EUS = endoscopic ultrasound · FNA = fine-needle aspiration · PDAC = pancreatic ductal adenocarcinoma · ERCP = endoscopic retrograde cholangiopancreatography*
 
 ### Imaging
 
-- **CT (pancreas protocol)** — most widely available; multidetector CT with fast contrast injection and precisely timed acquisition. Stages and assesses resectability by detecting tumor extension, liver metastases, and vascular invasion. **Insensitive for lesions <2 cm.**
-- **MRI / [[mri-mrcp|MRCP]]** — comparable to CT; may be superior for tumor detection and better characterizes small hepatic lesions. (Magnet strength, contrast, and coil standards live on [[mri-mrcp]]; surveillance-specific modality choice on [[pancreatic-cancer-screening]].)
-- **Percutaneous (CT-guided) biopsy** — sensitivity up to 95%, but **needle-track seeding is reported** and peritoneal carcinomatosis was significantly more common after percutaneous than EUS-guided sampling (16.3% vs 2.2%, *P* < .025) — hence EUS is preferred for tissue.
+ASGE 2016: imaging of a suspected solid pancreatic neoplasia should include **EUS and multidetector pancreas-protocol CT**, with MRI and positron emission tomography (PET)-CT selectively (⊕⊕⊕⊕); **EUS particularly when CT detection or resectability is equivocal** (⊕⊕⊕⊕).
+
+- **CT** — most widely available for resectability and liver metastases; stages by tumor extension, liver metastases, and vascular invasion. **Insensitive for lesions <2 cm.**
+- **MRI** — performed similarly to CT for resectability (one study superior for detection); better for small, non-contour-deforming tumors and small hepatic metastases. Choice of CT vs MRI depends on availability and local expertise.
+- **EUS** — most sensitive test in expert hands, especially for lesions equivocal on CT or <2 cm; more sensitive than CT for detection (91%–100% vs 53%–91%, 9 studies), equivalent for locoregional staging.
+- **Percutaneous (CT-guided) biopsy** — sensitivity up to 95%, but **needle-track seeding is reported** and peritoneal carcinomatosis was more common after percutaneous than EUS-guided sampling (16.3% vs 2.2%, *P* < .025).
 
 ### EUS Tissue Acquisition
 
-[[endoscopic-ultrasound|EUS]] is the most sensitive modality for small solid lesions; the linear-vs-radial detection data and the surveillance-modality comparison live on [[pancreatic-cancer-screening]]. ASGE 2024 recommendations for EUS-guided tissue acquisition (EUS-TA):
+[[asge-2024-solid-pancreatic-masses|ASGE 2024]] recommendations for EUS-guided tissue acquisition (EUS-TA) of a solid pancreatic mass:
 
-| Recommendation | Strength / evidence |
-|---|---|
-| **FNB needles over FNA needles** | Strong / moderate |
-| **22-gauge over 25-gauge** needles | Conditional / moderate |
-| **Fork-tip or Franseen** FNB needles over alternative designs | Strong / moderate |
-| **Against routine ROSE** (rapid on-site cytopathology evaluation) | Conditional / low |
+| Rec | Recommendation | Strength / evidence |
+|---|---|---|
+| 1 | **Fine-needle biopsy (FNB) over FNA needles** | Strong / moderate |
+| 2 | **22-gauge over 25-gauge** needles | Conditional / moderate |
+| 3 | **Fork-tip or Franseen** FNB needles over alternative designs | Strong / moderate |
+| 4 | **Against routine rapid on-site evaluation (ROSE)** | Conditional / low |
 
-- **Technique:** linear echoendoscope; color Doppler to avoid interposed vessels; fanning technique; suction with slow stylet withdrawal and/or a 5–20 mL syringe; keep the needle tip echoendoscopically visible; express tissue with an air flush (reinsert stylet if that fails).
+- **Changed since ASGE 2016**, which found FNB not shown superior to FNA (FNB only if FNA nondiagnostic and histology needed) and credited ROSE with 10%–15% higher yield; ASGE 2024 governs.
+- **Technique (ASGE 2024 Table 1):** linear echoendoscope; color Doppler to avoid interposed vessels; fanning technique; suction with slow stylet withdrawal and/or a 5–20 mL syringe; keep the needle tip echoendoscopically visible; express tissue with an air flush (reinsert stylet if that fails).
 - **Passes:** FNB → **2–4 passes**, sample directly into a **10% formalin** jar; FNA → **4–7 passes**, into **CytoLyt** (or use ROSE). Macroscopic on-site evaluation can guide pass number.
 - **Switch to 25-gauge** if the 22-gauge needle cannot be advanced into the lesion, or when manipulability will be limited (e.g. excessive endoscope torquing).
-- **When ROSE is still worth considering:** prior nondiagnostic EUS; lesion unclear or obscured by artifact (stent, pancreatitis); a preliminary diagnosis would drive an immediate decision (biliary stent selection, celiac plexus neurolysis, management of gastric outlet obstruction).
+- **When ROSE is still worth considering:** prior nondiagnostic EUS; lesion unclear or obscured by artifact (stent, pancreatitis); a preliminary diagnosis would drive an immediate decision (biliary stent selection, [[celiac-plexus-block|celiac plexus neurolysis (CPN)]], management of [[gastric-outlet-obstruction|gastric outlet obstruction]]).
 
 ### Tumor Markers
 
-- **CA 19-9** — the only FDA-approved biomarker in routine PDAC management, used for **prognosis and disease burden (recurrence/progression)**, *not* for early detection or diagnosis: elevated in the majority of pancreatic cancer patients but with both false positives and false negatives. Falsely low in Lewis-antigen-negative individuals.
+- **CA 19-9** — the only US Food and Drug Administration (FDA)-approved biomarker for routine PDAC management; used for **prognosis and disease burden (recurrence/progression)**, *not* early detection or diagnosis — elevated in most patients, but false positives and false negatives ([[asge-2016-solid-pancreatic-neoplasia]]).
 
 ## Therapeutics
 
 ### Surgery and Systemic Therapy
 
-- **Surgical resection** (Whipple/pancreaticoduodenectomy, distal pancreatectomy) is the only curative option, reserved for resectable/borderline-resectable disease — making early/screen-detected diagnosis the principal lever on survival (60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected).
-- **Chemotherapy** — fluorouracil/leucovorin/irinotecan/oxaliplatin (FOLFIRINOX) and gemcitabine-based regimens (neoadjuvant, adjuvant, palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g. maintenance **olaparib** in germline BRCA-mutated metastatic disease). *Doses and cycle intervals are not covered here.*
+- **Confirmed resectable PDAC → surgery ± neoadjuvant therapy**; unresectable → palliation (ASGE 2016 Figure 1, flowchart above).
+- **Stage at detection drives resectability:** 60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected ([[asge-2022-pancreatic-cancer-screening]]).
+- BRCA-deficient / homologous-recombination-deficient tumors respond to platinum-based chemotherapy and poly(ADP-ribose) polymerase (PARP) inhibitors (ASGE 2022).
 
 ### Endoscopic Palliation
 
-**Biliary obstruction.** Endoscopic stenting is the preferred modality for symptomatic malignant biliary (and/or gastroduodenal) obstruction in unresectable PDAC. The general drainage algorithm lives on [[biliary-stricture]]; the mass-specific stent-choice rules ([[asge-2024-solid-pancreatic-masses|ASGE 2024]]) are:
+**Biliary obstruction.** Symptomatic, unresectable PDAC with biliary and/or gastroduodenal obstruction → attempt endoscopic stent placement as the preferred palliation (ASGE 2016, ⊕⊕⊕◯). General drainage algorithm: [[biliary-stricture]]. Stent choice ([[asge-2024-solid-pancreatic-masses|ASGE 2024]]):
 
-| Situation | Stent |
-|---|---|
-| Distal malignant biliary obstruction, [[ercp\|ERCP]] planned | **Self-expanding metal stents (SEMS) over plastic** (conditional/low) |
-| SEMS being placed | **Covered over uncovered** (conditional/low) |
-| Pancreatic mass with **unconfirmed** malignancy | **Against uncovered SEMS** (strong/low) |
-| Simultaneous EUS-TA + high suspicion of malignancy | Covered SEMS |
-| No simultaneous EUS-TA | ERCP with tissue acquisition + plastic stent |
-| **Pancreatic head** cancer with liver metastasis, or expected survival **<3 mo** | Plastic |
-| Surgical resection planned **within 3 mo** | Plastic |
+| Situation | Stent | Rec / strength |
+|---|---|---|
+| Distal malignant biliary obstruction, [[ercp\|ERCP]] planned | **Self-expandable metal stent (SEMS) over plastic** | Rec 5, conditional / low |
+| SEMS being placed | **Covered over uncovered** | Rec 6a, conditional / low |
+| Pancreatic mass with **unconfirmed** malignancy | **Against uncovered SEMS** | Rec 6b, strong / low |
+| Simultaneous EUS-TA + high suspicion of malignancy | Consider covered SEMS | Table 1, ungraded |
+| No simultaneous EUS-TA | Consider ERCP with tissue acquisition + plastic stent | Table 1, ungraded |
+| **Pancreatic head** cancer with liver metastasis, or expected survival **<3 mo** | Consider plastic | Table 1, ungraded |
+| Surgical resection planned **within 3 mo** | Consider plastic | Table 1, ungraded |
 
-- Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; select the **shortest stent length that bridges the stricture by 10 mm and still ends 2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
-- **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of [[acute-cholangitis|cholangitis]] unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
-- **If the duct was drained preoperatively, send bile for culture and tell the surgeon.** Perioperative prophylaxis for hepatopancreatobiliary cancer surgery should be **targeted to the preoperative bile culture** *(Grade 1-A)*, and in pancreaticoduodenectomy after preoperative biliary drainage with **positive** bile cultures, prophylaxis should run **at least 24 hours** post-operatively to prevent organ-space surgical site infection *(Grade 2-C)* — optimal duration beyond 24 h is undefined. *Enterococcus* spp. are isolated most often, yet regimens lacking anti-enterococcal activity were effective ([[sis-2024-intra-abdominal-infection]]).
+- Technique: native papilla → consider biliary sphincterotomy first; **10-mm** fully or partially covered SEMS; **shortest length that bridges the stricture by ≥10 mm and sits ≥2 cm below the hepatic hilum**; gallbladder intact → proximal end **below the cystic duct take-off** when possible.
 
-**Gastroduodenal obstruction.** Roughly **15–20% of patients with pancreatic adenocarcinoma develop [[gastric-outlet-obstruction|gastric outlet obstruction]]** ([[kastelijn-2023-enduro-protocol]]) — it was the underlying malignancy in 28 of 39 patients in the SUSTENT trial. The choice of palliation is **keyed to expected survival**, because the options fail in opposite directions:
+> [!pitfall] No routine preoperative ERCP for resectable PDAC
+> Obstructive jaundice from resectable PDAC without [[acute-cholangitis|cholangitis]] → no preoperative ERCP unless a substantial delay in resection of a symptomatic patient is expected (ASGE 2016, ⊕⊕⊕◯). Preoperative drainage raises post-pancreaticoduodenectomy adverse events; drain for cholangitis, severe pruritus, possible delay in resection, or when neoadjuvant chemotherapy and radiation are being considered ([[asge-2016-solid-pancreatic-neoplasia]]).
 
-- **Expected survival <2 months** → **enteral (duodenal) stent** — faster relief (median 5 vs 8 days to soft solids), shorter stay, lower cost.
-- **Expected survival ≥2 months** with adequate performance status → **surgical gastrojejunostomy** — more durable, with fewer recurrent obstructions, reinterventions, and late major complications. Survival and quality of life are the same either way ([[jeurnink-2010-sustent-goo]]).
-- **Watch the biliary consequence:** a duodenal stent placed across the ampulla can foreclose later [[ercp|ERCP]] access to the bile duct — consider the common bile duct (CBD) stent up front.
+- **After preoperative drainage, bile culture guides surgical prophylaxis** ([[sis-2024-intra-abdominal-infection|Surgical Infection Society (SIS) 2024]]): hepatopancreatobiliary cancer surgery → prophylaxis **targeted to a positive preoperative bile culture** (Grade 1-A); pancreaticoduodenectomy with positive bile cultures after preoperative biliary drainage → prophylaxis **≥24 hours** to prevent organ-space surgical site infection (Grade 2-C).
+
+**Gastroduodenal obstruction.** Roughly **15–20% of patients with pancreatic adenocarcinoma develop gastric outlet obstruction** ([[kastelijn-2023-enduro-protocol]]) — the pancreas was the site of the underlying cancer in 28 of 39 patients in the SUSTENT trial. **ASGE 2016 recommends endoscopic stent placement as the preferred palliation** for symptomatic, unresectable PDAC with gastroduodenal obstruction (⊕⊕⊕◯, no survival threshold). The SUSTENT randomized controlled trial (RCT; lower tier) instead keyed the choice to expected survival, because the options fail in opposite directions:
+
+- **Expected survival <2 months** → **enteral (duodenal) stent** — faster relief (median 5 vs 8 days to soft solids), shorter stay, lower initial hospital cost.
+- **Expected survival ≥2 months** → **surgical gastrojejunostomy** — more durable, with fewer recurrent obstructions, reinterventions, and late major complications. Survival and quality of life did not differ between arms ([[jeurnink-2010-sustent-goo]]).
+- **Watch the biliary consequence:** a duodenal stent placed across the ampulla can foreclose later ERCP access to the bile duct — consider the common bile duct (CBD) stent up front.
 
 The full outcome table, its statistical caveats, the Gastric Outlet Obstruction Scoring System (GOOSS) score, and EUS-guided gastroenterostomy (EUS-GE) technique live on [[gastric-outlet-obstruction]].
 
-**Pain — [[celiac-plexus-block|celiac plexus neurolysis (CPN)]].** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
+**Pain — CPN.** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (Rec 7, conditional/low):
 
 - **When:** pain refractory to medical therapy, or opioid adverse effects not well tolerated.
-- **How:** by EUS or percutaneously. If EUS — use a **≥22-gauge FNA needle** (not the same needle used for EUS-TA); central or bilateral injection of **10–20 mL of 99% alcohol**; give **1 L intravenous (IV) normal saline** periprocedurally; monitor **~2 hours** post-procedure with vital signs and orthostatic parameters.
+- **How:** by EUS or percutaneously. If EUS — use a **22-gauge or larger FNA needle** (not the needle used for EUS-TA); central or bilateral injection of **10–20 mL of 99% alcohol**; give **1 L intravenous (IV) normal saline** periprocedurally; monitor **~2 hours** post-procedure with vital signs and orthostatic parameters.
 
 **Other.** **EUS-guided fiducial placement** when image-guided radiotherapy is planned ([[asge-2016-solid-pancreatic-neoplasia]]).
 
@@ -197,7 +211,7 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]], [[acute-cholangitis]], [[celiac-plexus-block]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[autoimmune-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]], [[acute-cholangitis]], [[celiac-plexus-block]]
 
 ---
 
@@ -205,7 +219,7 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 
 1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
 2. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]
-3. [[asge-2016-solid-pancreatic-neoplasia|ASGE Guideline: The Role of Endoscopy in the Diagnosis and the Management of Solid Pancreatic Neoplasia (2016)]]
+3. [[asge-2016-solid-pancreatic-neoplasia|ASGE Guideline: The Role of Endoscopy in the Evaluation and Management of Patients With Solid Pancreatic Neoplasia (2016)]]
 4. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 5. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 6. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]

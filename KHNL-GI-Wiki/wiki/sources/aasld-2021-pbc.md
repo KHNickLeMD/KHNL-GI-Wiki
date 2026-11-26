@@ -3,14 +3,15 @@ title: "AASLD 2021 Practice Guidance Update: Primary Biliary Cholangitis"
 category: source
 tags: [pbc, primary-biliary-cholangitis, oca, obeticholic-acid, fibrates, aasld, decompensated-cirrhosis]
 created: 2026-05-28
-updated: 2026-09-08
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2021 Primary Biliary Cholangitis Update.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo. AASLD 2021 Practice Guidance Update: Primary Biliary Cholangitis. Hepatology 2022;75:1012–1013.](https://doi.org/10.1002/hep.32117)
+- **Article:** [Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo. Primary biliary cholangitis: 2021 practice guidance update from the American Association for the Study of Liver Diseases. Hepatology 2022;75:1012–1013.](https://doi.org/10.1002/hep.32117)
 - **Authors:** Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo
 - **Year:** 2021 (approved July 30, 2021; published Hepatology 2022;75:1012–1013)
 - **Journal/Publisher:** Hepatology 2022;75:1012–1013
@@ -21,7 +22,7 @@ raw: "GI Guidelines/AASLD/AASLD 2021 Primary Biliary Cholangitis Update.pdf"
 
 ## Summary
 
-This 2021 American Association for the Study of Liver Diseases (AASLD) Practice Guidance Update is a focused, two-statement revision of the 2018 [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] Practice Guidance ([[aasld-2018-pbc]]). The sole impetus was an FDA safety warning issued in May 2021 that "restrict[ed] the use of OCA [obeticholic acid] in patients with advanced cirrhosis" because of the risk of serious liver injury. Guidance Statements 9 and 10 of the 2018 document were revised; the guidance states explicitly that these are the only changes.
+This 2021 American Association for the Study of Liver Diseases (AASLD) Practice Guidance Update is a focused, two-statement revision of the 2018 [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] Practice Guidance ([[aasld-2018-pbc]]). The sole impetus was an FDA safety warning issued in May 2021 that "restrict[ed] the use of OCA [obeticholic acid] in patients with advanced cirrhosis" because of the risk of serious liver injury. Guidance Statements 9 and 10 of the 2018 document were revised ("two guidance statements … have been revised").
 
 The critical change is that OCA (Ocaliva) is now **contraindicated** in advanced [[cirrhosis]] — where the 2018 document had said only that OCA and fibrates were "discouraged" in decompensated disease — and "advanced cirrhosis" is given an operational definition (see the criteria table below) rather than a Child-Pugh class. Additionally, the guidance recommends careful monitoring of **any** patient with cirrhosis receiving OCA, "even if not advanced."
 
@@ -37,7 +38,7 @@ The fibrates statement (Statement 9) was rewritten to carry its own decompensati
 
 **Revised Guidance Statement 10.** *OCA is contraindicated in patients with advanced cirrhosis. This is defined as cirrhosis with current or prior evidence of liver decompensation (e.g., encephalopathy, coagulopathy) or portal hypertension (e.g., ascites, gastroesophageal varices, or persistent thrombocytopenia). Furthermore, we would recommend careful monitoring of any patient with cirrhosis, even if not advanced, receiving OCA.*
 
-*(These are the entirety of the document's normative content — AASLD states that only Statements 9 and 10 of the 2018 guidance were revised.)*
+*(These are the entirety of the document's normative content — the update states that two 2018 guidance statements, 9 and 10, have been revised.)*
 
 ---
 
@@ -80,7 +81,6 @@ The contraindication is conditional on this definition, so it is the decision. *
 - OCA is **contraindicated** in advanced cirrhosis as defined by current-or-prior decompensation or portal hypertension — a broader trigger than the 2018 guidance's "Child-Pugh-Turcotte B or C" language.
 - Careful monitoring is recommended for **any** cirrhotic patient on OCA, "even if not advanced."
 - Fibrates remain off-label alternatives after inadequate UDCA response, but are **discouraged** in decompensated liver disease. *(This update names no specific fibrate, no dose, and no "inadequate response" criterion — see Contradictions / Open Questions below.)*
-- All other 2018 guidance statements remain unchanged.
 
 ---
 

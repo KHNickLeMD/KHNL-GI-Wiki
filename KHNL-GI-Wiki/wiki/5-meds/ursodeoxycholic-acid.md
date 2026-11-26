@@ -3,7 +3,7 @@ title: "Ursodeoxycholic Acid (UDCA)"
 category: med
 tags: [udca, ursodiol, bile-acid, cholestasis, pbc, psc, icp, pregnancy, liver, hpb, transplant]
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-11-26
 sources: [aasld-2018-pbc, aasld-2021-pbc, aasld-2022-psc, acg-2015-psc, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2023-nafld, aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-autoimmune-hepatitis, acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -70,16 +70,16 @@ UDCA is indicated for every PBC patient with abnormal liver enzyme values regard
 
 | Criteria (arranged by year) | Response definition |
 |---|---|
-| Rochester I | ALP ≤2× upper limit of normal (ULN) |
-| Barcelona | Reduction in ALP ≥40% from baseline, or normalization of ALP |
-| Paris I | ALP ≤3× ULN; aspartate aminotransferase (AST) ≤2× ULN; **and** total bilirubin ≤1 mg/dL |
+| Rochester I | ALP 2× upper limit of normal (ULN) |
+| Barcelona | Reduction in ALP 40% from baseline, or normalization of ALP |
+| Paris I | ALP 3× ULN; aspartate aminotransferase (AST) 2× ULN; **and** total bilirubin 1 mg/dL |
 | Rotterdam | Total bilirubin <1× ULN **and** albumin >1× lower limit of normal (LLN) |
-| Toronto | ALP ≤1.67× ULN |
-| Paris II | ALP ≤1.5× ULN; AST ≤1.5× ULN; **and** total bilirubin ≤1 mg/dL |
-| Rochester II | ALP ≤2× ULN |
-| Global | ALP ≤2× ULN |
+| Toronto | ALP 1.67× ULN |
+| Paris II | ALP 1.5× ULN; AST 1.5× ULN; **and** total bilirubin 1 mg/dL |
+| Rochester II | ALP 2× ULN |
+| Global | ALP 2× ULN |
 
-*ALP, alkaline phosphatase; AST, aspartate aminotransferase; ULN, upper limit of normal; LLN, lower limit of normal. Paris I/II require **all** listed components; the single-analyte criteria require only the one. ([[aasld-2018-pbc]] Table 1)*
+*ALP, alkaline phosphatase; AST, aspartate aminotransferase; ULN, upper limit of normal; LLN, lower limit of normal. Paris I/II require **all** listed components; the single-analyte criteria require only the one. Table 1 prints the cutoffs without comparison signs except for Rotterdam; the text describes ALP response as less than twice the upper limit. ([[aasld-2018-pbc]] Table 1)*
 
 - The **"Global" row above is a binary ALP criterion** and is not the same thing as the continuous **GLOBE score**; the continuous GLOBE and UK-PBC prognostic models — and their variables and thresholds — are on [[primary-biliary-cholangitis]].
 - Serum **ALP and total bilirubin** are the biochemical values that predict outcome on treatment.
