@@ -3,14 +3,15 @@ title: "ACG 2018: Diagnosis and Management of Pancreatic Cysts"
 category: source
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance]
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/ACG/ACG 2018 Diagnosis & Management of Pancreatic Cysts.pdf"
 ---
 
 ## Bibliographic Info
 
-- **Article:** [Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG. ACG 2018: Diagnosis and Management of Pancreatic Cysts. *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018.](https://doi.org/10.1038/ajg.2018.14)
+- **Article:** [Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG. ACG Clinical Guideline: Diagnosis and Management of Pancreatic Cysts. *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018.](https://doi.org/10.1038/ajg.2018.14)
 - **Authors:** Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG
 - **Year:** 2018
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018
@@ -27,7 +28,7 @@ Cyst types span non-neoplastic (pseudocysts) and neoplastic (serous cystadenomas
 
 MRI/magnetic resonance cholangiopancreatography (MRCP) is the preferred imaging modality for diagnosis and surveillance. [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-fine-needle aspiration (FNA) adds value when diagnosis is unclear or management decisions hinge on cyst fluid analysis. Cytology has poor sensitivity (~65%) but excellent specificity (~91%) for cancer. Cyst fluid carcinoembryonic antigen (CEA) identifies mucinous cysts (IPMNs/MCNs) with sensitivity 63% and specificity 93% but cannot distinguish high-grade dysplasia or cancer. Molecular markers (KRAS, GNAS) are promising but not yet standard of care.
 
-Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. The Table 3 high-risk characteristics (mural nodule or solid component, main pancreatic duct **>5 mm**, change in main duct caliber with upstream atrophy, size **>3 cm**, growth **>3 mm/year**, jaundice from the cyst, [[acute-pancreatitis|acute pancreatitis]] from the cyst, elevated carbohydrate antigen (CA) 19-9, or high-grade dysplasia (HGD)/[[pancreatic-cancer|cancer]] on cytology) should prompt EUS±FNA and/or multidisciplinary group referral; new-onset or worsening diabetes is a separate trigger under Recommendation 10. Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
+Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. The Table 3 high-risk characteristics (mural nodule or solid component, main pancreatic duct **>5 mm**, change in main duct caliber with upstream atrophy, size **≥3 cm**, growth **≥3 mm/year**, jaundice from the cyst, [[acute-pancreatitis|acute pancreatitis]] from the cyst, elevated carbohydrate antigen (CA) 19-9, or high-grade dysplasia (HGD)/[[pancreatic-cancer|cancer]] on cytology) warrant increased surveillance or referral for further evaluation (Rec 14); the Recommendation 11 features prompt EUS±FNA and/or multidisciplinary group referral, and rapid growth or new-onset/worsening diabetes prompts short-interval imaging (Rec 10). Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
 
 ---
 
@@ -55,6 +56,8 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 **Recommendation 8.** Molecular markers may help identify IPMNs and MCNs. Their use may be considered in cases in which the diagnosis is unclear and the results are likely to change management. *(Conditional recommendation, very low quality of evidence)*
 
+*Figure 1 (approach to a patient with a pancreatic cyst) is redrawn as two flowcharts on [[pancreatic-cysts#Establishing the Diagnosis]].*
+
 ### Pancreatic Cyst Surveillance
 
 **Recommendation 9.** Cyst surveillance should be offered to surgically fit candidates with asymptomatic cysts that are presumed to be IPMNs or MCNs. *(Conditional recommendation, very low quality of evidence)*
@@ -64,7 +67,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 **Recommendation 11.** Patients with IPMNs or MCNs with any of the following features should undergo EUS±FNA and/or be referred to a multidisciplinary group for further evaluation: *(Strong recommendation, very low quality of evidence)*
 
 - (a) Any of the following symptoms or signs: jaundice secondary to the cyst, acute pancreatitis secondary to the cyst, significantly elevated serum CA 19-9
-- (b) Any of the following imaging findings: the presence of a mural nodule or solid component either within the cyst or in the pancreatic parenchyma, dilation of the main pancreatic duct of >5 mm, a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion, mucinproducing cysts measuring ≥3 cm in diameter
+- (b) Any of the following imaging findings: the presence of a mural nodule or solid component either within the cyst or in the pancreatic parenchyma, dilation of the main pancreatic duct of >5 mm, a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion, IPMNs or MCNs measuring ≥3 cm in diameter
 - (c) The presence of high-grade dysplasia or pancreatic cancer on cytology
 
 **Recommendation 12.** Patients with a solid-pseudopapillary neoplasm should be referred to a multidisciplinary group for consideration of surgical resection. *(Strong recommendation, low quality of evidence)*
@@ -75,20 +78,19 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 **Surveillance intervals by cyst size — Figure 2, recreated in full**
 
-⚠ The figure's branch point is the box labelled *"Increase in cyst size"* carrying a double-asterisk, and the figure legend defines that asterisk as **≥3 mm/year**. Without that number the algorithm cannot be run, so it is carried into the column header below rather than left as "if it grows."
-
-| Largest cyst size | Initial surveillance* | If **stable** size and appearance | If **increase in cyst size** (≥3 mm/year) |
+| Largest cyst size | Initial surveillance* | If **stable** size and appearance | If **increase in cyst size** (\*\*) |
 |---|---|---|---|
-| **<1 cm** | MRI q2 years × 4 years | Consider lengthening of interval imaging | Consider shorter interval with MRI or [[endoscopic-ultrasound\|EUS]] ± FNA **within 6 months** → then MRI in 1 year and return to original surveillance based on cyst size |
-| **1–2 cm** | MRI q1 year × 3 years | MRI q2 years × 4 years | Consider shorter interval with MRI or EUS ± FNA **within 6 months** → then MRI in 1 year and return to original surveillance based on cyst size |
-| **2–3 cm** | MRI **or EUS** q6–12 months for 3 years | MRI q1 year × 4 years → if still stable, consider lengthening of interval | Refer to multidisciplinary group and consider EUS ± FNA |
-| **>3 cm** | Consider referral to multidisciplinary group **and** MRI alternating with EUS q6 months × 3 years | MRI alternating with EUS q year × 4 years → if still stable, consider lengthening of interval | *(Figure 2 routes this size directly through multidisciplinary referral; no separate growth branch is drawn)* |
+| **<1 cm** | MRI q2 years × 4 years | Consider lengthening of interval imaging | Consider shorter interval with MRI or [[endoscopic-ultrasound\|EUS]] ± FNA **within 6 months** → if stable size and appearance: MRI in 1 year, then return to original surveillance based on cyst size |
+| **1–2 cm** | MRI q1 year × 3 years | MRI q2 years × 4 years → if stable, consider lengthening of interval | Consider shorter interval with MRI or EUS ± FNA **within 6 months** → if stable size and appearance: MRI in 1 year, then return to original surveillance based on cyst size |
+| **2–3 cm** | MRI **or EUS** q6–12 months for 3 years | MRI q1 year × 4 years → if stable, consider lengthening of interval | Refer to multidisciplinary group and consider EUS ± FNA |
+| **>3 cm** | Consider referral to multidisciplinary group **and** MRI alternating with EUS q6 months × 3 years | MRI alternating with EUS q year × 4 years → if stable, consider lengthening of interval | Refer to multidisciplinary group and consider EUS ± FNA |
 
-\* Figure 2 footnote: *"Surveillance should preferably be performed with same imaging modality in attempt to capture consistency in size measurements."*
+*Surveillance of presumed IPMN or MCN by largest cyst size*
+*Source: table from ACG 2018 Figure 2 (the figure draws one shared "increase in cyst size" box for <1 cm and 1–2 cm, and a second for 2–3 cm and >3 cm)*
+*[[acg-2018-pancreatic-cysts|ACG 2018 Pancreatic Cysts Guideline]]*
+*\* Surveillance should preferably use the same imaging modality, for consistent size measurements · \*\* ≥3 mm/year · MRI = magnetic resonance imaging · EUS = endoscopic ultrasound · FNA = fine-needle aspiration · IPMN = intraductal papillary mucinous neoplasm · MCN = mucinous cystic neoplasm*
 
-*(Transcribed from Figure 2. The figure draws a single shared "increase in cyst size" branch for the <1 cm and 1–2 cm columns, which is why both rows carry the same escalation; the >3 cm column has no growth branch of its own. The figure image itself is not reproduced here.)*
-
-⚠ **Comparator inconsistency inside the source — do not silently normalize it.** The same growth threshold is printed three ways: Table 3 says **">3 mm/year"**, Recommendation 10 says **"(of >3 mm/year)"**, and the Figure 2 footnote and body text say **"≥3 mm/year"**. Likewise cyst size: Table 3 says **"Size >3 cm"** while Recommendation 11(b) and the body say **"≥3 cm"**. The distinction is immaterial at most measured values but the page reproduces each as printed.
+**Growth threshold — printed two ways:** Recommendation 10 says **"(of >3 mm/year)"**; Table 3, the Figure 2 footnote and the body text say **≥3 mm/year**.
 
 **Recommendation 15.** Surveillance should be discontinued if a patient is no longer a surgical candidate. *(Strong recommendation, very low quality of evidence)*
 
@@ -98,11 +100,24 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 **Recommendation 17.** Patients with a surgically resected serous cystadenoma, pseudocyst, or other benign cysts do not require any follow-up after resection. *(Strong recommendation, very low quality of evidence)*
 
-**Recommendation 18.** Resected MCNs without pancreatic cancer do not require postoperative surveillance. *(Strong recommendation, low quality of evidence)*
+**Recommendation 18.** Resected MCNs without an associated pancreatic cancer do not require postoperative surveillance. *(Strong recommendation, low quality of evidence)*
 
 **Recommendation 19.** All surgically resected IPMN require postoperative surveillance. *(Strong recommendation, very low quality of evidence)*
 
 **Recommendation 20.** Patients should be followed on a yearly basis for at least 5 years following resection of a solid-pseudopapillary neoplasm. *(Conditional recommendation, very low quality of evidence)*
+
+**Post-resection follow-up by final pathology** (Summary of evidence for Recs 17–20; ungraded):
+
+| Resected lesion | Recurrence data | Follow-up |
+|---|---|---|
+| SCA, pseudocyst, other benign cyst | — | None |
+| MCN with low-, intermediate- or high-grade dysplasia | No synchronous lesion or recurrence without invasive carcinoma (large systematic review) | None |
+| MCN with invasive cancer | No risk of a new MCN in the remnant; ~25% recurrence of the original cancer | Standard surveillance-based pancreatic cancer guidelines for 5 years; none after 5 years |
+| IPMN with pancreatic cancer | Recurrence 17–65% | Per pancreatic cancer guidelines |
+| IPMN with HGD | Recurrence 13–31%; median time to recurrence 19–47 months (range 4–180) | MRI or EUS every 6 months |
+| IPMN with low- or intermediate-grade dysplasia, **no** IPMN in the remnant | Recurrence 0–22%; insufficient evidence to support no surveillance; longer intervals may be reasonable | MRI every 24 months appears reasonable |
+| IPMN with low- or intermediate-grade dysplasia, IPMN **in the remnant** | — | Follow by size of the largest remnant IPMN (Figure 2), using the shortest interval (e.g., 1.5 cm cyst → yearly); concerning features in the remnant → further investigation |
+| SPN | Excellent prognosis with negative margins; recurrence 4.4%, median time to recurrence 50.5 months | Yearly imaging for at least 5 years, then eventual cessation |
 
 ---
 
@@ -179,7 +194,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 
 ## High-Risk Characteristics for Mucinous Pancreatic Cysts (Table 3 — verbatim)
 
-These are the criteria behind Recommendation 11; **any one** of them warrants [[endoscopic-ultrasound|EUS]] ± FNA and/or referral to a multidisciplinary group. Reproduced with the source's own comparators.
+Per Recommendation 14, these concerning features warrant increased surveillance or referral for further evaluation; in their absence, cyst size guides the surveillance interval. They overlap with, but are not the same list as, the Recommendation 11 triggers for [[endoscopic-ultrasound|EUS]] ± FNA and/or multidisciplinary referral (see below).
 
 | Domain | Characteristic |
 |---|---|
@@ -189,19 +204,19 @@ These are the criteria behind Recommendation 11; **any one** of them warrants [[
 | **Imaging findings** | Mural nodule or solid component within the cyst **or pancreatic parenchyma** |
 | | Main pancreatic duct diameter of **>5 mm** |
 | | **Change in main duct caliber with upstream atrophy** |
-| | Size **>3 cm** |
-| | Increase in cyst size **>3 mm/year** |
+| | Size **≥3 cm** |
+| | Increase in cyst size **≥3 mm/year** |
 | **Cytology** | High-grade dysplasia or pancreatic cancer |
 
 - **Qualifiers that must travel with these numbers:** the CA 19-9 criterion applies only when no benign cause for elevation exists (Recommendation 11a words it as "significantly elevated"); the mural-nodule criterion counts a solid component **in the parenchyma**, not only inside the cyst; and Recommendation 11(b) adds a criterion Table 3 does not print — **"a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion."**
-- **New-onset or worsening diabetes mellitus is *not* in Table 3.** It is a separate Recommendation-10 trigger (alongside rapid growth) for a **short-interval MRI or EUS±FNA**, which is a lesser action than the Table 3 referral pathway. Keeping the two apart matters: Table 3 → EUS±FNA and/or multidisciplinary referral; Rec 10 → short-interval reimaging.
+- **Growth is in Table 3 but not in Recommendation 11.** Rapid growth (Rec 10: >3 mm/year) and **new-onset or worsening diabetes mellitus** (not in Table 3) are the Recommendation 10 triggers for a **short-interval MRI or EUS±FNA**; the discussion puts that at 6 months, with referral for further evaluation if concerning features or ongoing rapid growth follow.
 
 ---
 
 ## Relevance to Wiki
 
 - Creates new entity page: [[pancreatic-cysts]] (disease script in pancreaticobiliary-diseases)
-- Updates [[endoscopic-ultrasound]] — EUS-FNA role in cyst evaluation, antibiotic recommendations
+- Updates [[endoscopic-ultrasound]] — EUS-FNA role in cyst evaluation
 - Cross-links to [[acute-pancreatitis]], [[chronic-pancreatitis]] (pseudocyst etiology)
 - Cross-links to [[ercp]] — role limited to main duct IPMN evaluation only; no longer recommended for routine cyst diagnosis/surveillance
 
@@ -210,16 +225,15 @@ These are the criteria behind Recommendation 11; **any one** of them warrants [[
 ## Contradictions / Open Questions
 
 - Evidence quality is universally low to very low across all 20 recommendations; guideline is largely expert-opinion driven
-- **Internal comparator inconsistency:** Table 3 uses **>3 cm** / **>3 mm per year**, while Recommendation 11(b), Recommendation 10's parenthetical, the Figure 2 footnote and the body text variously use **≥3 cm** and **≥3 mm/year**. Reproduced as printed above rather than normalized.
+- **Growth threshold printed two ways:** Recommendation 10 says **>3 mm/year**; Table 3, the Figure 2 footnote and the body text say **≥3 mm/year**. Cyst size is **≥3 cm** throughout (Table 3, Figure 1, Recommendation 11b).
 - **>5 mm vs >6 mm main pancreatic duct:** the meta-analytic risk estimate the guideline cites (OR 7.27) is for duct dilation **>6 mm**, but Table 3 and Recommendation 11(b) set the action threshold at **>5 mm** — deliberately conservative, and stated as such ("we recommend use of a conservative duct diameter"). Anyone citing the 7.27 OR alongside the 5 mm cutoff should know they come from different numbers.
-- **Table 3 vs Recommendation 11(b) are not identical lists.** Rec 11(b) adds "a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion," which Table 3 omits; Table 3 lists "change in main duct caliber with upstream atrophy," which Rec 11(b) omits. A page reproducing only one of the two loses a criterion.
+- **Table 3 vs Recommendation 11(b) are not identical lists.** Rec 11(b) adds "a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion," which Table 3 omits; Table 3 lists "change in main duct caliber with upstream atrophy," which Rec 11(b) omits; Table 3 lists growth ≥3 mm/year, which Rec 11 omits (growth is a Rec 10 trigger). A page reproducing only one of the two loses a criterion.
 - Optimal cyst size cutoff for surgery remains debated (≥3 cm vs. ≥4 cm); guideline recommends referral at ≥3 cm with multidisciplinary discussion
 - Whether to stop surveillance after 5 years of stability is unresolved; American Gastroenterological Association (AGA; 2015) recommended stopping at 5 years; this ACG guideline defers, stating insufficient evidence to recommend discontinuation in still-surgically-fit patients
-- Cyst ablation (ethanol ± paclitaxel): insufficient evidence for routine use; should be offered only in clinical trials
+- Cyst ablation (ethanol ± paclitaxel): insufficient evidence for routine use; may be considered in patients who refuse, or are not candidates for, surgery — ideally enrolled in a clinical trial
 - PET-CT: insufficient evidence to support routine use
 - Secretin-MRCP: small incremental value (communication visualized in only 5% additional patients); may not justify cost
 - Molecular markers (KRAS/GNAS): promising but costly and not yet validated for clinical risk stratification
-- This is a 2018 guideline — several subsequent society guidelines (AGA 2015 cited; Fukuoka/European 2017 consensus) have differing surveillance interval recommendations
 
 ## See Also
 

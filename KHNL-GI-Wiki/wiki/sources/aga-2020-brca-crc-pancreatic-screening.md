@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Colorectal and Pancreatic Cancer Risk an
 category: source
 tags: [brca1, brca2, colorectal-cancer, pancreatic-cancer, screening, hereditary-cancer, aga, clinical-practice-update]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AGA/AGA 2020 CPU BRCA1-2 CRC and Pancreatic Screening.pdf"
 ---
@@ -36,7 +37,7 @@ The update's expert perspective, in its own terms:
 - Any carrier **with symptoms** — the document names **rectal bleeding** and **iron deficiency anemia** — → consider **expedited diagnostic evaluation**.
 - *BRCA* carriers **without signs or symptoms of CRC and without family history of CRC or advanced adenoma** → **follow average-risk guidelines** for screening, until further evidence is available to clarify whether alternate strategies may be warranted.
 
-**The reasoning behind the threshold, which is the part that makes the rule usable:** a **2-fold** increased risk over the general population — the level conferred by having a first-degree relative with CRC — is the criterion current guidelines use for earlier or more intensive screening. It is not clear that the **1.5-fold** increased risk among *BRCA1* carriers is sufficient to warrant earlier or more intensive screening. For scale, CRC risks in *BRCA1/2* carriers are significantly lower than in Lynch syndrome, where risk is increased **10- to 17-fold**.
+**The reasoning behind the threshold, which is the part that makes the rule usable:** a **2-fold** increased risk over the general population — the level conferred by having a first-degree relative with CRC — is the criterion current guidelines use for earlier or more intensive screening. It is not clear that the **1.5-fold** increased risk among *BRCA1* carriers is sufficient to warrant earlier or more intensive screening. For scale, CRC risks in *BRCA1/2* carriers are significantly lower than in Lynch syndrome, where risk is increased **up to 17-fold**.
 
 ### The decision rule for PDAC screening
 
@@ -120,7 +121,7 @@ Results were independent of study design, ascertainment, age and sex; the meta-a
 - **[[pancreatic-cancer-screening]]** — the CAPS 93%-consensus criterion for *BRCA2* (≥1 affected first-degree relative [FDR], or ≥2 affected relatives of any degree, GRADE 2), the non-consensus for *BRCA1*, the differing NCCN first-/second-degree criterion, and the endoscopic ultrasound (EUS)/magnetic resonance cholangiopancreatography (MRCP) modality evidence.
 - **[[colorectal-cancer-screening]]** — the age-40 family-history trigger for carriers, the average-risk default absent family history, and the 2-fold-risk threshold logic that explains why carrier status alone does not change screening.
 - **[[pancreatic-cancer]]** / **[[familial-pancreatic-cancer]]** — *BRCA1/2* prevalence in unselected vs familial PDAC.
-- **[[lynch-syndrome]]** — the 10- to 17-fold comparator that calibrates how much weaker the *BRCA* CRC signal is.
+- **[[lynch-syndrome]]** — the up-to-17-fold comparator that calibrates how much weaker the *BRCA* CRC signal is.
 
 ## Contradictions / Open Questions
 

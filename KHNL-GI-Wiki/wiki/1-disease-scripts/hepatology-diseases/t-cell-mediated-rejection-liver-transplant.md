@@ -3,9 +3,10 @@ title: "T-Cell–Mediated Rejection — Liver Transplant"
 category: disease-script
 tags: [t-cell-mediated-rejection, tcmr, acute-cellular-rejection, late-rejection, chronic-ductopenic-rejection, vanishing-bile-duct-syndrome, liver-transplant, rejection, banff, immunosuppression]
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-26
 sources: [aasld-ast-2025-liver-transplant-graft-complications, aasld-2012-liver-transplant-long-term]
-verified: 2026-11-18
+verified: 2026-11-26
+quality_reviewed: 2026-11-26
 ---
 
 Cellular rejection of a [[liver-transplantation|liver allograft]]. **Acute T-cell–mediated rejection (TCMR)**, also called acute cellular rejection, occurs in **10%–30%** of liver transplant (LT) recipients, usually within the **first 3 months**. For comparison, acute [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection (AMR)]] is rare in ABO-compatible recipients, chronic AMR occurs in <10%, and plasma cell-rich rejection (PCR) is reported in 3%–5% of recipients transplanted for indications other than autoimmune hepatitis (AIH) ([[aasld-ast-2025-liver-transplant-graft-complications]]). This page also covers **chronic ductopenic rejection (CDR)**, which can follow severe or recurrent acute rejection.
@@ -43,12 +44,12 @@ Cellular rejection of a [[liver-transplantation|liver allograft]]. **Acute T-cel
 
 - Graded by the Banff **rejection activity index (RAI)** on the biopsy ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 6 and Figure 3):
 
-| Grade | RAI | What it triggers |
-|---|---|---|
-| Mild | <4 | Augment existing immunosuppression |
-| Moderate or severe | ≥4 (4–6 or 7–9) | High-dose intravenous (IV) corticosteroids + augment existing immunosuppression |
+| Grade | RAI |
+|---|---|
+| Mild | <4 |
+| Moderate or severe | ≥4 (4–6 or 7–9) |
 
-- AASLD/AST 2025 does not give the RAI component scoring; read the RAI off the pathology report.
+- Treatment by grade: [[#Acute and Late TCMR]]. AASLD/AST 2025 does not give the RAI component scoring; read the RAI off the pathology report.
 - **Late TCMR** carries the worse outlook: response to corticosteroids may be lower, and it has been associated with lower graft survival and with ductopenic rejection in those who respond poorly ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
 ### Classification / Typing
@@ -78,9 +79,11 @@ Cellular rejection of a [[liver-transplantation|liver allograft]]. **Acute T-cel
 |---|---|
 | Late-onset cellular rejection ([[aasld-2012-liver-transplant-long-term]]) | Reduction of immunosuppression (iatrogenic or from noncompliance); pre-LT autoimmune liver disease; concurrent interferon |
 | CDR ([[aasld-ast-2025-liver-transplant-graft-complications]]) | Severe or recurrent episodes of acute rejection; young recipient age; male-to-female sex mismatch; history of AIH or biliary disease; non-Caucasian race; donor age older than 40 years; presence of donor-specific antibodies (DSA) |
+| Ductopenic rejection ([[aasld-2012-liver-transplant-long-term]]) | Recurrent and unresponsive cellular rejection; transplantation for autoimmune disease; exposure to interferon; loss of a previous graft to ductopenic rejection |
 
 - TCMR and CDR occur more commonly in recipients transplanted for [[autoimmune-hepatitis|AIH]] than for other liver diseases.
-- Recipients transplanted for [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] are at higher risk of rejection, including late TCMR, which may complicate the diagnosis of recurrent PBC ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+- Recipients transplanted for [[primary-biliary-cholangitis|primary biliary cholangitis (PBC)]] are at higher risk of rejection, including late TCMR, which may complicate the diagnosis of recurrent PBC.
+- Recipients transplanted for [[primary-sclerosing-cholangitis|primary sclerosing cholangitis (PSC)]]: TCMR risk is higher, up to 70%, than with other LT indications; TCMR and multiple TCMR episodes are associated with recurrent PSC ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
 ## Differential Diagnosis
 
@@ -89,13 +92,13 @@ Cellular rejection of a [[liver-transplantation|liver allograft]]. **Acute T-cel
 - **AMR** — acute and chronic criteria on its own page. Assess DSA in severe or steroid-resistant rejection (Rec 54, Strong, Level 3; [[aasld-ast-2025-liver-transplant-graft-complications]]).
 - **PCR** (formerly de novo AIH) — compared with acute TCMR: significantly greater plasma cell infiltrate, more common enrichment by immunoglobulin G4 (IgG4)-positive plasma cells, more prevalent central perivenulitis, increased incidence of DSA, and higher incidence of portal microvascular endothelial complement 4d deposition ([[aasld-ast-2025-liver-transplant-graft-complications]]). Criteria and treatment: [[liver-transplantation#Graft Rejection]].
 - **Late cellular rejection** — infection, recurrent and de novo autoimmune disease, and drug toxicity. It can be hard to tell from [[hepatitis-c|hepatitis C virus]] infection, and the two often coexist ([[aasld-2012-liver-transplant-long-term]]).
-- **Ductopenic rejection** — recurrent PBC or [[primary-sclerosing-cholangitis|primary sclerosing cholangitis]], and drug toxicity ([[aasld-2012-liver-transplant-long-term]]).
+- **Ductopenic rejection** — recurrent PBC or PSC, and drug toxicity ([[aasld-2012-liver-transplant-long-term]]).
 
 ## Diagnostics
 
 ### Liver Biopsy
 
-- [[liver-biopsy|Liver biopsy]] is the diagnostic test; protocol biopsies in stable recipients are not recommended ([[liver-transplantation#Diagnostics]]).
+- [[liver-biopsy|Liver biopsy]] is the diagnostic test; protocol liver biopsy is not recommended in the routine management of stable adult LT recipients (Rec 34, Strong, Level 4; [[aasld-ast-2025-liver-transplant-graft-complications]]).
 - **Suspected ductopenia:** a sample with **at least 10 portal tracts** is advisable to establish with confidence that bile ducts are injured and lost ([[aasld-2012-liver-transplant-long-term]]).
 - **Suboptimal response to treatment:** a repeat biopsy may be necessary to exclude other developing causes of graft dysfunction; work closely with the pathologist ([[aasld-ast-2025-liver-transplant-graft-complications]]).
 
@@ -125,7 +128,7 @@ flowchart TD
 *TCMR = T-cell–mediated rejection · RAI = rejection activity index · IV = intravenous*
 
 - **Augmenting existing immunosuppression** on every rung includes switching cyclosporine → [[tacrolimus]], with or without adding another class of immunosuppressant (antimetabolite or mammalian target of rapamycin [mTOR] inhibitor). Late TCMR is treated the same as acute TCMR.
-- **Mild, early or late — Rec 37 (Strong, Level 3):** augment existing immunosuppression, including cyclosporine → tacrolimus if applicable. Mild acute TCMR may resolve without additional immunosuppression.
+- **Mild, early or late — Rec 37 (Strong, Level 3):** augment existing immunosuppression. Mild acute TCMR may resolve without additional immunosuppression.
 - **Moderate or severe, early or late — Rec 38 (Strong, Level 3):** high-dose IV corticosteroids on top of augmentation, and consider adding another class if applicable.
   - Dose: eg, methylprednisolone **500–1000 mg IV daily for 1–3 days**, then a taper that varies among centers (eg, prednisone 40–80 mg daily, decreased by 10–20 mg decrements until tapered off).
   - Give infection prophylaxis concurrently with high-dose corticosteroids ([[liver-transplantation#Infection Prophylaxis and Treatment]]).

@@ -43,7 +43,7 @@ Screening is suggested for individuals at increased risk **because of genetic su
 | [[lynch-syndrome\|Lynch syndrome]] (MMR genes) | **Yes** — 1st- or 2nd-degree relative with PDAC | 9–11-fold; lifetime risk 0.4–3.7% ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | 50 |
 | Autosomal-dominant [[hereditary-pancreatitis\|hereditary pancreatitis]] (PRSS1) | No | 53-fold ([[acg-2015-hereditary-gi-cancer\|ACG 2015]]) | **40** (no earlier-start clause) |
 
-*\*Start at the listed age **or 10 years earlier than the youngest relative with pancreatic cancer**, whichever comes first (all conditions except hereditary pancreatitis, for which ASGE gives age 40 only).*
+*\*Start at the listed age **or 10 years earlier than the youngest relative with pancreatic cancer** (all conditions except hereditary pancreatitis, for which ASGE gives age 40 only).*
 
 - **Why the ages differ:** screening starts ~**1 standard deviation (SD) below the mean age of PDAC diagnosis** for that population; for conditions conferring **RR ≥10** ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]) it starts **2 SD below** the mean.
 - **What changed:** all [[brca-pathogenic-variants|BRCA1/2]] carriers are now screened **regardless of family history** — prior guidelines required one. Rationale: among BRCA carriers who developed PDAC, only **33%** had a 1st- or 2nd-degree relative with PDAC, so ~**2 of 3** cancers would be missed by a family-history filter; family histories are also incomplete in small families.

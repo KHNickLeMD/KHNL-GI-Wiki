@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-11-20
+updated: 2026-11-26
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis, aga-2015-asymptomatic-neoplastic-pancreatic-cysts, iap-2024-kyoto-ipmn, aga-2026-older-adult-cyst-hcc-surveillance]
 ---
 
@@ -159,7 +159,7 @@ flowchart TD
 
 ### Severity Assessment
 
-**High-Risk Features (Table 3) — Warrant EUS±FNA and/or Multidisciplinary Referral (Rec 11 — Strong/VLow):**
+**High-Risk Features (Table 3) — Warrant Increased Surveillance or Referral for Further Evaluation (Rec 14); Rec 11 Features → EUS±FNA and/or Multidisciplinary Referral (Strong/VLow):**
 
 *Symptoms/signs:*
 
@@ -175,19 +175,19 @@ flowchart TD
 - Main pancreatic duct (MPD) diameter >5 mm
   - MPD >6 mm: OR 7.27 (95% CI 3.0–17.4) for high-grade dysplasia/cancer
 - Focal change in MPD caliber with upstream atrophy — equivalently, *focal dilation of the pancreatic duct concerning for main-duct IPMN, or an obstructing lesion* (Rec 11b wording)
-- Size **≥3 cm** (Rec 11b: "mucin-producing cysts measuring ≥3 cm in diameter"; Table 3 prints ">3 cm" — the source is internally inconsistent by 1 mm)
-- Increase in cyst size **>3 mm/year** (Table 3)
+- Size **≥3 cm** (Table 3; Rec 11b: "IPMNs or MCNs measuring ≥3 cm in diameter")
+- Increase in cyst size **≥3 mm/year** (Table 3)
 
 *Cytology:*
 
 - High-grade dysplasia or pancreatic cancer
 
-**Which of these actually triggers referral — the two lists are not the same:** Table 3's "high-risk features" and **Rec 11**'s referral triggers differ in one place. **Rec 11 does *not* include growth rate.** A cyst growing >3 mm/year without any other feature is a **Rec 10** trigger (short-interval imaging), *not* a Rec 11 trigger (EUS±FNA / multidisciplinary referral).
+**Which of these actually triggers referral — the two lists are not the same:** Table 3's "high-risk features" and **Rec 11**'s referral triggers differ. Most importantly, **Rec 11 does *not* include growth rate.** A cyst growing >3 mm/year without any other feature is a **Rec 10** trigger (short-interval imaging), *not* a Rec 11 trigger (EUS±FNA / multidisciplinary referral).
 
 **Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA at 6 months):**
 
 - New-onset or worsening diabetes mellitus (DM; ~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
-- Rapid increase in cyst size **>3 mm/year** (Rec 10 and Table 3 both print `>`; **the surveillance algorithm's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows the algorithm)
+- Rapid increase in cyst size **>3 mm/year** (Rec 10 prints `>`; **Table 3, the surveillance algorithm's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows the algorithm)
 
 ---
 
@@ -277,8 +277,8 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 - Ethanol alone or combined with paclitaxel: cyst resolution in 33–79% of cases; adverse events ~12% (fever, abdominal pain, pancreatitis, peritonitis, splenic/[[portal-vein-thrombosis|portal vein thrombosis]])
 - Does not eliminate cancer risk (one case of cancer following ethanol ablation)
 - IPMN patients remain at risk for concomitant cancer elsewhere in the parenchyma
-- **Insufficient evidence for routine use** — should ideally be offered only in clinical trials
-- May be considered in patients who refuse surgery or are not surgical candidates
+- **Insufficient evidence for routine use**
+- May be considered in patients who refuse surgery or are not surgical candidates — ideally enrolled in a clinical trial
 
 ---
 
@@ -422,11 +422,11 @@ flowchart TD
 |---|---|
 | SCA, pseudocyst, other benign cysts | None required (Strong/VLow) |
 | MCN without pancreatic cancer | None required (Strong/Low) |
-| MCN with invasive carcinoma | Standard pancreatic cancer surveillance guidelines for 5 years; no new MCN surveillance after 5 years |
+| MCN with invasive carcinoma | No risk of a new MCN in the remnant, but ~25% recurrence of the original cancer → standard surveillance-based pancreatic cancer guidelines for 5 years; no surveillance after 5 years |
 | IPMN (all resected) | Required (Strong/VLow) |
 | IPMN with pancreatic cancer | High recurrence (17–65%); follow per pancreatic cancer guidelines |
 | IPMN with high-grade dysplasia | Recurrence 13–31%; MRI or EUS q6 months |
-| IPMN with low-/intermediate-grade dysplasia | Insufficient evidence; MRI q24 months is reasonable if no remnant IPMN; if remnant IPMN present, follow by size of largest remaining cyst (size-based surveillance table above) |
+| IPMN with low-/intermediate-grade dysplasia | Insufficient evidence; MRI q24 months is reasonable if no remnant IPMN; if remnant IPMN present, follow by size of largest remaining cyst (size-based surveillance table above), using the shortest interval (e.g., 1.5 cm cyst → yearly) |
 | SPN | Yearly imaging for at least 5 years (Conditional/VLow) |
 
 **AGA 2026 after resection** ([[aga-2026-older-adult-cyst-hcc-surveillance|AGA 2026 CPU]]; differs from ACG 2018 above — newer):

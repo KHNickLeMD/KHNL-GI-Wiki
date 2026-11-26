@@ -124,7 +124,7 @@ CAPS 2020 family-history patterns, regardless of gene mutation status ("relative
 
 ### Start Age, Interval, and Findings
 
-- **Start:** age **50**, or **10 years earlier than the youngest relative with pancreatic cancer** — whichever comes first (ASGE 2022 Rec 6d; ACG 2015 Rec 23, conditional/very low). CAPS 2020 statement 1 agrees (grade 2); **age 55** was an accepted alternative (grade 2) and **age 45** was voted down (grade 4 — probably don't).
+- **Start:** age **50**, or **10 years earlier than the youngest relative with pancreatic cancer** (ASGE 2022 Rec 6d; ACG 2015 Rec 23, conditional/very low). CAPS 2020 statement 1 agrees (grade 2); **age 55** was an accepted alternative (grade 2) and **age 45** was voted down (grade 4 — probably don't).
 - **Interval:** **annual** (ASGE 2022 Rec 4, conditional/very low; ACG 2015 Rec 23). CAPS 2020 sets **12 months** when surveillance finds no pancreatic abnormality (statement 9, 90.4%, grade 2).
 - **A pancreatic cystic lesion found on surveillance** in a hereditary-pancreatic-cancer–prone family member carries a higher cancer risk than a sporadic cyst and requires evaluation at a centre experienced with these patients; the decision to operate is difficult and is best individualized after multidisciplinary assessment (ACG 2015 Rec 24, conditional/low). Lesion strata, intervals after an abnormal finding, and the operative thresholds are on [[pancreatic-cancer-screening]].
 - **Stopping age:** CAPS 2020 reached no consensus on when to stop surveillance; see [[pancreatic-cancer-screening]].
