@@ -6,6 +6,32 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-26] update | Card pass — dedup, stale verified pages re-carded, card quality review ($10)
+
+**Dedup:** 2 candidate pairs. Merged celiac-plexus-block [cb000b] into endoscopic-ultrasound [e50003] (added `{also:celiac-plexus-block}`). Judged FLIP-panometry [fe110b] vs botulinum-toxin [b01103] distinct (diagnosis vs predicting botox response).
+
+**Pages re-carded (page_updated bumped, every note correlated to the verified page):**
+- `ampullary-adenoma` — 11 notes corrected (Back Extras no longer on page; ESGE overestimation 15% → 21%; ASGE 4 cm size rule → AGA 2026 <4–5 cm / >5 cm); 2 new (unresectable-tumor drainage BPA 7; colonoscopy for sporadic adenoma)
+- `primary-biliary-cholangitis` — re-sourced to AASLD–AGA 2026: response timing, UDCA, PPAR second-line, sp100/gp210 rewritten; 4 new (LSM ≥10 kPa, linerixibat, post-LT UDCA prophylaxis, PPAR monitoring); OCA notes retired (withdrawn from the US market); sequestrant spacing and fibrate doses retired here (live on ursodeoxycholic-acid, which is not yet verified)
+- `colorectal-esd` — 7 Back Extras fixed; 4 new (first-attempt/referral, 3–4 mm incision rim, hybrid ESD, colorectal eFTR)
+- `glp-1-receptor-agonists` — 2 fixed; other new facts already owned by semaglutide / obesity / endoscopy-sedation
+- `nonampullary-duodenal-adenoma` — 9 fixed (3 wrong anchors, diet "over 6–8 weeks" error); 2 new (EUS for concerning polyps, defect inspection for perforation); 2 merged into familial-adenomatous-polyposis [fa9014], [fa9009]
+- `esophageal-stricture` — 6 fixed (anchors, Back Extras); new facts already owned by esophageal-dilation / PPI cards
+- `ibd-preventive-care` — 7 fixed (Zostavax no longer available; RSV AGA inconsistency; rotavirus wording)
+- `endoscopic-hemostasis` — 5 fixed (TAE-vs-surgery data moved to upper-gi-bleeding; ACG Statement 16 now the tested fact; modality table rebuilt from page cells)
+- `laryngopharyngeal-symptoms` — empiric trial re-sourced to AGA 2023 (followed over San Diego); 1 new (laryngeal recalibration therapy)
+- `hiatal-hernia` — 3 fixed; 2 new (asymptomatic PEH watchful waiting, SAGES 2013 repair by type)
+- `ibd-in-older-adults` — 2 fixed; 1 new (BPA Treatment 5 agent preference)
+- Skipped by standing rule: `peginterferon-alfa-2a` (not cardable)
+
+**Card quality review (cards_reviewed set):** the 9 re-carded files above plus gallbladder-polyps (no change), resmetirom (2 fixed: not-recommended list, 12-month stop rule), lumen-apposing-metal-stents (no change), preprocedure-testing (3 fixed, 2 cap problems cleared; still stale for re-carding), ibd-in-older-adults. Back Extra tables added: hiatal-hernia types, LPS reflux-monitoring Table 3, PBC PPAR agents.
+
+**Open:** ursodeoxycholic-acid [d2c008] and liver-transplantation [1a3016] card recurrent-PBC UDCA at 10–15 mg/kg/day "for histologically proven" recurrence (AASLD 2012); AASLD–AGA 2026 Rec 6 now gives prophylaxis at 13–15 mg/kg/day started ASAP — re-check those pages at their next verification.
+
+**Deck:** 4,851 → 4,867 notes; build clean for every touched file.
+
+---
+
 ## [2026-11-26] lint | Quality review — release sweep, third run ($40 budget)
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`; one subagent per page; unverified source pages verified first.
