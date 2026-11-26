@@ -41,6 +41,27 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards* (`/cards/4-advanced-gi-procedures/hepatobiliary-procedures/cholangioscopy.md`, under `# Draft`; deck not rebuilt — 05:00 pass builds): ca1007 (≥3 targeted biopsies; suspicious + negative → re-sample), ca1008 (MD-IPMN pancreatoscopy guides resection). CO₂ (S17) left to existing ca1005. `page_updated:` 2026-11-26. Footer may need `UEG`-style handling of the `palmeri` slug in `ACRONYMS`.
 - `ingest: partial` removed.
 
+**Next pick:** `Intl Consensus 2026 Biliary Drainage Trial Methodology (Chen).pdf` — smallest remaining backlog file (~5,000 words), sized to finish verified within the remaining budget.
+
+**`[[chen-2026-biliary-drainage-trial-methodology]]` — new source (Chen YI, Forbes N, … Elmunzer BJ; STANDARD-BD Consensus Working Group. Methodological Standards for Biliary Drainage Trials in Malignant Distal Biliary Obstruction. Gastroenterology 2026, Commentary, uncorrected proof; doi:10.1053/j.gastro.2026.09.009).**
+- *Extract* (fresh agent; whole text, pp. 1–3 rendered, Figures 1–2 at 250 dpi): all **14** statements as numbered, each "appropriate" by RAND/UCLA after 2 rounds (no agreement %, no grading printed — stated on the page), with the systematic-review figure behind each; tables for the MDBO definition, baseline items, success definitions, Statements 7–14; Figure 2 stent-dysfunction pathway redrawn as Mermaid (paywalled — Elsevier/AGA, all rights reserved incl. AI training).
+- *Gate:* ABSENT 5 (Figure 2 image-only values read at 250 dpi; TG18 CRP cut-off checked on the TG18 raw PDF) · OTHER 0 · NOMATCH 4 (paraphrase, labelling note, figure-only content) · SIGN 22 read off rendered pages.
+- *Verify* (fresh agent, ~120 claims; 14/14 statements, Mermaid redraw checked against Figure 2): **no findings**. `verified: 2026-11-26`.
+- *Internal inconsistencies surfaced:* stent-dysfunction imaging criterion (text vs Figure 2), Figure 1 "biochemical and/or imaging" vs text's bilirubin requirement, Figure 2's TG18 box (≥38 °C vs TG18 >38 °C; "leukocytosis" <4,000; no CRP cut-off).
+- *Not propagated (deliberate):* trial-design standards for investigators, no bedside recommendation; the only candidate line (standard success/dysfunction definitions) belongs on [[eus-guided-biliary-drainage]], which is ~4,450 words (slim candidate) — left for that page's slimming/quality review. TG18 criteria stay owned by [[tg18-2018-cholangitis-criteria]]. Source page therefore has no inbound topic-page link yet.
+- `index.md`: source row added (Sources → Other). *Cards:* none (no topic page touched; source pages are never carded).
+- ⚠ File is the uncorrected proof (author queries open) — re-check against the final version if Nick drops it.
+- `ingest: partial` removed.
+
+**Not run this pass:**
+- *Quality review* (budget spent on three verified ingests).
+- Card dedup, `{at:}` backfill, card quality review; deck rebuild (05:00 pass builds).
+- *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**.
+
+**Licence note for Nick:** Younossi 2026 and Chen 2026 (Elsevier/AGA) carry "All rights are reserved, including those for text and data mining, AI training, and similar technologies" — the same notice as already-ingested Bajaj 2025 and the pregnancy-IBD consensus; ingested per that precedent, but flagged given the NCCN EULA decision.
+
+**Backlog status:** backlog mode stays **ON**. Three files ingested and verified this pass. Remaining uningested tier-1 files are all non-US/international and large (≈10k–50k words: BSG 2018/2026, ECCO 2025 ×2 / 2026, UEG 2025 ×3, UEG-EPC 2026, UEG-ESNM 2025, WEO 2025 ×2, IAP 2025, Maastricht VI, Taipei II, Fiesole 2026, fatty pancreas 2026, EASL 2024 ×2 / 2025 eCCA, ESGE 2020 SEMS), Chavan 2023 (GI Other Studies), NCCN ×3 (EULA, skipped), broken IANS 2024 file; 60 gated lectures untouched. Next pick: `UEG 2025 Malabsorption Consensus Part 1 (Lenti).pdf` (~12,100 words).
+
 ---
 
 ## [2026-11-26] update | Anki card pass — dedup, stale verified pages, card quality review ($10 budget)
