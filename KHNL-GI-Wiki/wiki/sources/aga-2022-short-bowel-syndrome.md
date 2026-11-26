@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Short Bowel Syndrome: Expe
 category: source
 tags: [short-bowel-syndrome, intestinal-failure, parenteral-nutrition, teduglutide, glp-2, oral-rehydration, micronutrients, metabolic-bone-disease, intestinal-transplantation, aga, clinical-practice-update]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 CPU Short Bowel Syndrome.pdf"
 ---
@@ -27,7 +28,7 @@ SBS is a clinicopathological syndrome resulting from loss of intestinal length d
 
 Residual anatomy is then used as the organizing prognostic scheme: **group 1** (end-jejunostomy), **group 2** (jejunum anastomosed to partial colon — jejunocolonic), **group 3** (jejuno-ileo-colic anastomosis retaining entire colon and ileocecal valve). Group 3 is the most favorable phenotype and group 1 the most severe; high-output end-jejunostomy patients are the most difficult to manage. Any surgical opportunity that converts a group 1 patient toward group 2 or 3 generally improves prognosis, subject to underlying active bowel disease (e.g. Crohn's disease, radiation enteritis).
 
-Management advice spans 12 Best Practice Advice topics: comprehensive dietitian-led nutrition assessment with lifelong laboratory, fluid-balance, weight, micronutrient and bone-density monitoring; a **hyperphagic** diet (intake increased by at least 50% over estimated needs, divided into 5–6 meals) with fat restriction only where it helps (colon in continuity), plus mandatory oxalate restriction in those with a colon; **glucose–electrolyte oral rehydration solution** for net-secretor jejunostomy patients; parenteral nutrition (PN) initiation, catheter choice and weaning; antisecretory and antimotility pharmacotherapy; drug-dosing pitfalls in a short gut; autologous reconstructive surgery (longitudinal intestinal lengthening and tapering [LILT]/Bianchi and serial transverse enteroplasty [STEP]); **teduglutide** (glucagon-like peptide-2 [GLP-2] analogue) as a carefully-selected, late, malignancy-screened option; prevention of PN- and anatomy-related complications; and **early referral for intestinal transplantation** before PN failure produces the need for a simultaneous liver graft.
+Management advice spans 12 Best Practice Advice topics: comprehensive dietitian-led nutrition assessment with lifelong laboratory, fluid-balance, weight, micronutrient and bone-density monitoring; a **hyperphagic** diet (intake increased by at least 50% over estimated needs, divided into 5–6 meals) with fat restriction only where it helps (colon in continuity), plus essential oxalate restriction in those with a colon at risk of hyperoxaluria and oxalate stones; **glucose–electrolyte oral rehydration solution** for net-secretor jejunostomy patients; parenteral nutrition (PN) initiation, catheter choice and weaning; antisecretory and antimotility pharmacotherapy; drug-dosing pitfalls in a short gut; autologous reconstructive surgery (longitudinal intestinal lengthening and tapering [LILT]/Bianchi and serial transverse enteroplasty [STEP]); **teduglutide** (glucagon-like peptide-2 [GLP-2] analogue) as a carefully-selected, late, malignancy-screened option; prevention of PN- and anatomy-related complications; and **early referral for intestinal transplantation** before PN failure produces the need for a simultaneous liver graft.
 
 The overarching message is that SBS care is multidisciplinary — dietitians, nurses, surgeons, gastroenterologists/internists, and social workers — and that the timing of referral (surgical rehabilitation, growth-factor therapy, transplantation) matters as much as the individual therapies.
 
@@ -76,22 +77,20 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 | Micronutrient | Lab measurement | Typical supplementation |
 |---|---|---|
 | Vitamin A | Serum retinol | Oral: 5000–50,000 IU daily (sometimes more); intramuscular (IM) administration also available |
-| Vitamin B12 | Serum vitamin B12, methylmalonic acid | Subcutaneous (SC)/IM: 300–1000 mg monthly*; oral and intranasal administration also available |
+| Vitamin B12 | Serum vitamin B12, methylmalonic acid | Subcutaneous (SC)/IM: 300–1000 µg monthly; oral and intranasal administration also available |
 | Vitamin C | Serum vitamin C (ascorbic acid) | Oral: 200–500 mg daily; IV administration also available |
-| Vitamin D | Serum 25-hydroxyvitamin D, parathyroid hormone | Oral: 50,000 IU once weekly (or calcitriol 0.25–2 mg daily*); IM administration also available |
+| Vitamin D | Serum 25-hydroxyvitamin D, parathyroid hormone | Oral: 50,000 IU once weekly (or calcitriol 0.25–2 µg daily); IM administration also available |
 | Vitamin E | Serum alpha-tocopherol | Oral: 400 IU up to 3 times daily |
 | Folate | Serum, red blood cell folate | Oral: 1 mg daily |
 | Iron | Serum ferritin, iron, iron-binding capacity | Oral: 100–200 mg once daily or every other day; IV and IM administration also available |
 | Zinc | Serum zinc | Oral: 50 mg elemental zinc (220 mg tablet) once or twice daily |
-| Selenium | Serum selenium | Oral: 100–200 mg daily* |
-| Chromium | Serum chromium | Oral: 100–200 mg up to 3 times daily* |
+| Selenium | Serum selenium | Oral: 100–200 µg daily |
+| Chromium | Serum chromium | Oral: 100–200 µg up to 3 times daily |
 | Multivitamin | — | Oral: 1–2 capsules daily |
 | Copper | Serum copper | Oral: 2 mg elemental copper daily (higher dose may be needed); IV administration also available |
 | Manganese (in patients on home PN) | Serum manganese | None |
 
 *IM, intramuscular; IV, intravenous; PN, parenteral nutrition; SC, subcutaneous.*
-
-> ⚠ **Unit caveat (\*).** The rows marked with an asterisk (vitamin B12, calcitriol, selenium, chromium) read "mg" where a microgram dose would be expected. **Check the published table before using these four values for dosing.**
 
 ### Supplementary Table 1 — Initial nutrition assessment in the patient with SBS
 
@@ -223,14 +222,13 @@ The overarching message is that SBS care is multidisciplinary — dietitians, nu
 
 - **No formal evidence grading.** Expert review, not a systematic review; Best Practice Advice items carry no GRADE strength or evidence-quality rating and are presented as titled narrative sections rather than short numbered statements.
 - **Two competing residual-length definitions coexist in the source itself** — 200 cm or less is the "general agreement," with 150 cm or less proposed as possibly more appropriate. The update does not adjudicate.
-- **No teduglutide dose.** Route (daily SC injection) is given; **mg/kg/day dosing, duration, and monitoring schedule are not stated**. Take the dose from the package insert or the STEPS trial report.
+- **No teduglutide dose.** Route (daily SC injection) is given; **mg/kg/day dosing, duration, and monitoring schedule are not stated**.
 - **No formal severity score or staging system for SBS.** Severity is conveyed through anatomic group, residual jejunal length, ostomy output, and PN dependence — not a validated index.
 - **No explicit differential diagnosis section.** Only the SBS-vs-IF distinction and the two named non-SBS causes of IF (chronic intestinal pseudo-obstruction, refractory intestinal malabsorptive syndromes).
-- **Micronutrient units in Table 1 are unreliable as text-extracted** (see caveat under Table 1). Four rows require verification against the published table before use.
 - **No diagnostic testing for malabsorption is specified** — no fecal fat, citrulline, or absorption-study thresholds; assessment is anatomic, clinical, and biochemical.
 - **SIBO in SBS is invoked but not operationalized** — no diagnostic criteria or antibiotic regimens for SBS-associated SIBO.
 - **Pediatric SBS is explicitly out of scope**, though the authors note management overlap.
-- **Figures not captured.** Figure 1 (anatomic classification of SBS), Figures 2–3 (LILT/Bianchi and STEP principles), and Supplementary Figure 1 (algorithm for management of the patient with SBS requiring parenteral support) could not be extracted in this environment — described in text on the entity page instead.
+- **Figures.** No Creative Commons licence, so none embedded. Supplementary Figure 1 (management algorithm for the patient with SBS requiring parenteral support) is redrawn as a flowchart on [[short-bowel-syndrome]]; Figure 1 (anatomic groups) is a table there; Figures 2–3 (LILT/Bianchi and STEP principles) are referenced, not reproduced.
 
 ---
 

@@ -3,7 +3,8 @@ title: "ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acut
 category: source
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/ACG/ACG CAG 2022 Management of Anticoagulants and Antiplatelets During Acute Gastrointestinal Bleeding and the Periendoscopic Period.pdf"
 ---
@@ -22,7 +23,7 @@ raw: "GI Guidelines/ACG/ACG CAG 2022 Management of Anticoagulants and Antiplatel
 
 ## Summary
 
-This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute gastrointestinal (GI) bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 18 statements, all conditional (very low or low certainty), with several PICOs reaching "no recommendation" due to insufficient evidence.
+This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute gastrointestinal (GI) bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 18 statements: 13 conditional recommendations (all very low certainty except Statement 12, low) and 5 where the panel could not reach a recommendation (2, 14B, 16, 17, 18).
 
 **Acute GI Bleeding (Statements 1–10):**
 
@@ -35,7 +36,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Elective Periendoscopic Period (Statements 11–18):**
 
-- Continue warfarin rather than temporarily interrupt for most elective procedures (Statement 11); if interrupted, no bridging except in mechanical heart valve patients (Statement 12)
+- Continue warfarin rather than temporarily interrupt (1–7 days) for elective/planned procedures (Statement 11); if interrupted, no bridging except in mechanical heart valve patients (Statement 12)
 - Temporarily interrupt DOACs rather than continue (Statement 13); typical interruption ~1–2 days pre-procedure
 - Interrupt P2Y12 inhibitor while continuing ASA in dual antiplatelet therapy (DAPT) patients (Statement 14A); no recommendation for single-agent P2Y12 inhibitor monotherapy (Statement 14B)
 - Continue ASA monotherapy (secondary prevention) for elective procedures (Statement 15)
@@ -59,7 +60,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Rivaroxaban/apixaban — andexanet alfa:**
 
-- Single uncontrolled cohort (N=90 GI bleed patients): 85% excellent/good hemostasis at 12 hours, but no control group, high thrombotic event rate (9.7%), high cost (~$49,500 for high-dose regimen)
+- Single uncontrolled cohort: among 62 GI-bleeding patients in the efficacy group, 85% excellent/good hemostasis at 12 hours; no control group; thrombotic events + 30-day mortality reported only for the whole cohort (9.7% and 13.9% of 352 patients); high cost (~$49,500 for high-dose regimen)
 - Selective use may be appropriate in life-threatening bleed within 24 hours of last dose
 
 **DOACs — 4-factor PCC:**
@@ -80,14 +81,14 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Procedural bleeding risk stratification (Table 3):**
 
-- High bleeding risk (30-day major bleed >2%): [[polypectomy]] ≥1 cm, percutaneous endoscopic gastrostomy (PEG)/percutaneous endoscopic jejunostomy (PEJ), [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with sphincterotomy, endoscopic mucosal resection (EMR)/endoscopic submucosal dissection (ESD), [[endoscopic-ultrasound|endoscopic ultrasound (EUS)-fine-needle aspiration (FNA)]], endoscopic hemostasis (excl. argon plasma coagulation [APC]), radiofrequency ablation (RFA), [[poem|peroral endoscopic myotomy (POEM)]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
-- Low/moderate bleeding risk (≤2%): [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] ± biopsy, [[colonoscopy]] ± biopsy, flexible sigmoidoscopy ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
+- High bleeding risk (30-day major bleed >2%): [[polypectomy]] ≥1 cm, percutaneous endoscopic gastrostomy (PEG)/percutaneous endoscopic jejunostomy (PEJ), [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] with sphincterotomy, endoscopic mucosal resection (EMR)/endoscopic submucosal dissection (ESD), [[endoscopic-ultrasound|endoscopic ultrasound (EUS)-fine-needle aspiration (FNA)]], endoscopic hemostasis (excl. argon plasma coagulation [APC]), radiofrequency ablation (RFA), [[poem|peroral endoscopic myotomy (POEM)]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, tumor ablation, cystogastrostomy, pneumatic/bougie dilation, laser ablation and coagulation
+- Low/moderate bleeding risk (≤2%): [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] ± biopsy, [[colonoscopy]] ± biopsy, flexible sigmoidoscopy ± biopsy, ERCP with stent (biliary or pancreatic) placement or papillary balloon dilation without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, balloon dilation of luminal stenoses, polypectomy <1 cm, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
 
 **Thromboembolic risk stratification (Table 4):**
 
-- High: any mitral valve prosthesis; caged-ball or tilting disc aortic valve; recent (<3 mo) stroke/transient ischemic attack (TIA); CHADS2 5–6 or CHA2DS2-VASc ≥7; recent (<3 mo) VTE; severe thrombophilia; rheumatic valvular disease
-- Moderate: bileaflet aortic valve (AV) prosthesis + atrial fibrillation (AF) or other stroke risk factors; CHADS2 2–4; CHA2DS2-VASc 5–6
-- Low: bileaflet AV prosthesis without AF, no other stroke risk; CHADS2 0–1; CHA2DS2-VASc 1–4; VTE >12 months ago; non-severe thrombophilia; active cancer
+- High: any mitral valve prosthesis; caged-ball or tilting disc aortic valve; recent (within 3 mo) stroke/transient ischemic attack (TIA); CHADS2 5 or 6 or CHA2DS2-VASc ≥7; recent (within 3 mo) VTE; severe thrombophilia; rheumatic valvular heart disease. Footnote: may also include stroke/TIA >3 mo ago with CHADS2 <5, previous thromboembolism during temporary VKA interruption, or certain surgeries (e.g., cardiac valve replacement, carotid endarterectomy, major vascular surgery)
+- Moderate: bileaflet aortic valve (AV) prosthesis + ≥1 of atrial fibrillation (AF), previous stroke/TIA, hypertension, diabetes, congestive heart failure, age >75 y; CHADS2 2–4 (no previous stroke or TIA); CHA2DS2-VASc 5 or 6; VTE within past 3–12 mo; non-severe thrombophilia; recurrent VTE; active cancer (treated within 6 mo or palliative)
+- Low: bileaflet AV prosthesis without AF and no other risk factors for stroke; CHADS2 0 or 1; CHA2DS2-VASc 1–4; VTE more than 12 mo ago and no other risk factors
 
 **Warfarin periendoscopic:**
 
@@ -130,17 +131,17 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 | Do not use 4-factor PCC for DOAC-related GI bleeding (routine use) | Conditional | Very Low |
 | **Acute GI Bleeding — Antiplatelet Management** | | |
 | Do not transfuse platelets for antiplatelet-related GI bleeding | Conditional | Very Low |
-| Do not hold cardiac ASA (secondary prevention) during GI bleeding | Conditional | Low |
-| If ASA is held, resume on the day hemostasis is endoscopically confirmed | Conditional | Low |
+| Do not hold cardiac ASA (secondary prevention) during GI bleeding | Conditional | Very Low |
+| If ASA is held, resume on the day hemostasis is endoscopically confirmed | Conditional | Very Low |
 | **Periendoscopic — Warfarin** | | |
-| Continue warfarin rather than temporarily interrupt for most elective endoscopic procedures | Conditional | Low |
+| Continue warfarin rather than temporarily interrupt (1–7 days) for elective/planned endoscopic procedures | Conditional | Very Low |
 | If warfarin interrupted: no bridging except in mechanical heart valve patients | Conditional | Low |
 | **Periendoscopic — DOAC** | | |
-| Temporarily interrupt DOACs rather than continue for elective endoscopic procedures | Conditional | Low |
+| Temporarily interrupt DOACs rather than continue for elective endoscopic procedures | Conditional | Very Low |
 | **Periendoscopic — Antiplatelet** | | |
 | Interrupt P2Y12 inhibitor while continuing ASA in DAPT patients | Conditional | Very Low |
 | No recommendation for or against interruption of single-agent P2Y12 inhibitor monotherapy | No recommendation | Insufficient evidence |
-| Continue ASA monotherapy (secondary prevention) for elective endoscopic procedures | Conditional | Low |
+| Continue ASA 81–325 mg/d monotherapy (secondary prevention) for elective endoscopic procedures | Conditional | Very Low |
 | No recommendation on timing of resumption for warfarin after elective endoscopy | No recommendation | Insufficient evidence |
 | No recommendation on timing of resumption for DOAC after elective endoscopy | No recommendation | Insufficient evidence |
 | No recommendation on timing of resumption for P2Y12 inhibitor after elective endoscopy | No recommendation | Insufficient evidence |
@@ -155,14 +156,13 @@ This is the primary evidence-based reference for anticoagulation management in G
 
 ## Contradictions / Open Questions
 
-- All 18 statements are conditional with very low or low certainty of evidence; no strong recommendations were issued
+- No strong recommendations: 13 conditional (Statement 12 low certainty, the rest very low); 5 could not reach a recommendation
 - No recommendation achievable for PCC vs. placebo in warfarin-related GI bleeding (insufficient comparator data)
 - No recommendation on optimal timing of resumption for warfarin, DOACs, or P2Y12 inhibitors after elective endoscopy — this is a major clinical gap
 - No recommendation for or against P2Y12 inhibitor monotherapy interruption before elective endoscopy
 - Reversal agents (idarucizumab, andexanet alfa) are recommended against for routine use despite biological plausibility, based primarily on lack of controlled data and high cost; clinicians must use judgment for life-threatening bleeds
 - DOAC periendoscopic interruption timing was informed largely by the PAUSE study, which lacked a "continue DOAC" comparator arm
 - Guideline does not address advanced endoscopic procedures specifically (ESD, POEM) in sufficient depth due to lack of evidence
-- No guidance on edoxaban (included in DOAC class but not studied separately in GI bleeding cohorts)
 
 ## See Also
 

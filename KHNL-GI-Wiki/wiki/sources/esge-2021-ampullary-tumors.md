@@ -3,7 +3,8 @@ title: "ESGE 2021: Endoscopic Management of Ampullary Tumors — European Societ
 category: source
 tags: [ampullary-adenoma, endoscopic-papillectomy, ampullary-cancer, ercp, eus, lst-p, intraductal-extension, esge]
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/Other/ESGE 2021 Endoscopic Management of Ampullary Tumors (Vanbiervliet).pdf"
 ---
@@ -22,12 +23,12 @@ The first part of a two-part ESGE guideline, covering the whole arc of ampullary
 
 **Scope limits, stated by the document:** it does **not** cover ampullary or duodenal lesions associated with predisposing genetic syndromes (including [[familial-adenomatous-polyposis|familial adenomatous polyposis]]) or lesions of submucosal/neuroendocrine origin, which belong to a companion ESGE guideline. ⚠ **But it says the diagnosis, evaluation, papillectomy technique and complication-management statements are the same for the syndromic forms** — only the indications for treatment and the follow-up differ. The recommendations also apply to a **minor-papilla tumor in a patient with [[pancreas-divisum|pancreas divisum]]**.
 
-Three things make it more decision-usable than its predecessor: it **puts numbers on the size and intraductal-extension thresholds** that separate endoscopy from surgery (en bloc up to 20–30 mm; surgery at >4 cm or >20 mm intraductal extension; ablative salvage at ≤20 mm), it **reverses the submucosal-injection practice** for papillectomy proper while keeping it for the laterally spreading component, and it **prints a definite surveillance schedule** rather than an interval range.
+Three things make it more decision-usable than its predecessor: it **puts numbers on the size and intraductal-extension thresholds** that separate endoscopy from surgery (en bloc up to 20–30 mm; surgery at >4 cm or >20 mm intraductal extension; 3–4 cm case by case; complementary ablation with papillectomy for intraductal extension ≤20 mm), it **reverses the submucosal-injection practice** for papillectomy proper while keeping it for the laterally spreading component, and it **prints a definite surveillance schedule** rather than an interval range.
 
 ## Key Findings / Claims
 
 ### Recommendations — all 35 statements
-⚠ **The document numbers only the 8 statements in its "Main Recommendations" box** (marked ★ below); the other 27 appear unnumbered in the text. The numbering here is the wiki's, in document order. Grades are the document's own (Strong/Weak recommendation; High/Moderate/Low/Very low quality evidence).
+⚠ **The document numbers only the 8 statements in its "Main Recommendations" box** (marked ★ below); the other 27 appear unnumbered in the text. The numbering here is the wiki's, roughly in document order. Grades are the document's own (Strong/Weak recommendation; High/Moderate/Low/Very low quality evidence).
 
 #### Detection, sampling and diagnosis
 | # | Recommendation | Grade |
@@ -83,7 +84,7 @@ Three things make it more decision-usable than its predecessor: it **puts number
 | 29 | **Routine rectal 100 mg diclofenac or indomethacin immediately before** papillectomy, in all patients without a contraindication to nonsteroidal anti-inflammatory drugs (NSAIDs) | Weak; low |
 | 30 | The decision for **prophylactic endoscopic hemostasis, and the technique**, should be **individualized** | **Strong**; very low |
 | 31 | **Standard hemostasis techniques** for post-papillectomy bleeding — epinephrine injection, electrocoagulation, clips, noncontact techniques, argon plasma coagulation (APC) | **Strong**; low |
-| 32 | **Angiographic embolization** for massive bleeding unresponsive to endoscopic therapy | **Strong**; very low |
+| 32 | **Consider angiographic embolization** for massive bleeding unresponsive to endoscopic therapy | **Strong**; very low |
 
 #### Follow-up and recurrence
 | # | Recommendation | Grade |
@@ -98,8 +99,8 @@ Three things make it more decision-usable than its predecessor: it **puts number
 - Post-papillectomy histology showed **normal intestinal mucosa in 8%** and **inflammatory tissue in 13.8%** in two large retrospective series.
 - ⚠ **Biopsying straight after a sphincterotomy degrades the result** — post-sphincterotomy cytoarchitectural atypia drove sensitivities of only **21%–37%**, and accuracy fell to **56.25% vs 81.25%**. **Sample at least 10 days after sphincterotomy.** Repeated histological examination improves diagnosis by **14%**.
 - **EUS-FNA** for a suspected invasive adenocarcinoma: **sensitivity 82.4%, specificity 100%, accuracy 88.8%** — and it should be done **before** sphincterotomy.
-- **Virtual chromoendoscopy (narrow-band imaging)** against biopsy pathology in one single-center retrospective study: **sensitivity 89%, specificity 97%, negative predictive value 97%**.
-- **Staging accuracy:** for nodal involvement, pooled morphological-criteria **sensitivity 70% (95% confidence interval [CI] 62%–77%), specificity 74% (67%–80%)**.
+- **Virtual chromoendoscopy (narrow-band imaging)** during follow-up after papillectomy, against biopsy pathology in one single-center retrospective study: **sensitivity 89%, specificity 97%, negative predictive value 97%**.
+- **Staging accuracy:** for nodal involvement, EUS meta-analysis (14 studies, 422 patients), pooled morphological-criteria **sensitivity 70% (95% confidence interval [CI] 62%–77%), specificity 74% (67%–80%)**.
 
 ### Outcomes of endoscopic papillectomy (Spadaccini 2020 pooled analysis, 29 studies, 1,751 patients)
 | Outcome | Pooled rate (95% CI) |
@@ -114,14 +115,15 @@ Three things make it more decision-usable than its predecessor: it **puts number
 | Cholangitis | **2.7%** (1.9–4.0) |
 | Papillary stenosis (long-term) | **2.4%** (1.6–3.4) |
 | **Mortality** | **0.3%** |
-| **Recurrence** | **11.8%** (8.4–16.5) |
+| **Recurrence** | **11.8%** (8.4–16.5) — from a separate literature review (23 studies, 1,130 patients, follow-up 9.6–84.5 mo) |
 
-- ⚠ **En bloc resection was the *only* factor affecting curative resection** — odds ratio (OR) 3.55 (95% CI 1.11–5.99, *P* = 0.004); in one of the largest retrospective series it also predicted complete resection (OR 4.05, 1.71–9.59, *P* < 0.001). That is the whole justification for recommendation 13's 20–30 mm en bloc ceiling.
+- ⚠ **En bloc resection was the *only* factor affecting curative resection** — odds ratio (OR) 3.55 (95% CI 1.11–5.99, *P* = 0.004); in one of the largest retrospective series it also predicted complete resection (OR 4.05, 1.71–9.59, *P* < 0.001).
+- **Size band:** en bloc resection may be technically feasible up to 3 cm and surgery is indicated >4 cm; tumors **3–4 cm → case by case**.
 - **Median time to recurrence 14.2 months** (range 6–27) in a 967-patient series; **shorter for adenoma confined to the papilla (9.2 months, interquartile range 4.2–25.7) than for LST-p (13.1 months, 4.6–33.1)**. **Up to two-thirds of recurrences are found at the first follow-up session**, but a small number developed **delayed recurrence and adenocarcinoma beyond 5 years** — which is why the document calls for long-term and indefinite monitoring. **The vast majority of recurrences were benign, and no interval cancer is described in the literature under a well-established monitoring protocol.**
 - **Endoscopic retreatment of recurrence works:** oncological cure in **80.9%** (95% CI 73–87) pooled; **38%–100%** in recent large retrospective series, often over several sessions.
-- **Surgery for comparison:** pancreaticoduodenectomy carries **postoperative morbidity 34%–59%, mortality 1%–2%**, with 5-year survival after resection from about **40%**. **No prospective study compares endoscopic papillectomy with surgery.**
+- **Surgery for comparison:** pancreaticoduodenectomy carries **postoperative morbidity 34%–59%, mortality 1%–2%**, with 5-year survival after resection **40%–60%**. **No prospective study compares endoscopic papillectomy with surgery.**
 - **Prophylactic APC after papillectomy** reduced delayed bleeding in a propensity-matched retrospective study (**7.3% vs 31.7%**, OR 0.180, *P* < 0.01) — ⚠ but a randomized trial of 54 patients gave conflicting data, which is why recommendation 30 says *individualize* rather than *do it*.
-- **LST-p is a definition, not an impression:** a laterally spreading ampullary tumor with a **≥10 mm extension beyond the ampullary mound**, or with an extrapapillary component involving the duodenal wall.
+- **LST-p is a definition, not an impression:** a laterally spreading ampullary tumor with a **≥10 mm extension beyond the ampullary mound**, or with an extrapapillary component involving the duodenal wall that is **greater than the size of the papillary adenoma**.
 
 ### Figure 1 — diagnostic and therapeutic algorithm
 Recreated as a diagram on [[ampullary-adenoma]].
@@ -136,8 +138,8 @@ Recreated as a diagram on [[ampullary-adenoma]].
 
 ## Contradictions / Open Questions
 - ⚠ **Submucosal injection before papillectomy — a direct reversal.** [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] treats injection as optional and uses the **non-lifting sign as the strongest predictor of malignancy**. ESGE 2021 **recommends against submucosal injection for endoscopic papillectomy** (strong, moderate) — while **recommending it for the laterally spreading component** (strong, moderate). Newer same-tier document → **ESGE governs the technique on [[ampullary-adenoma]]**, with the two uses distinguished so the reader does not read "no injection" as applying to an LST-p.
-- ⚠ **Sphincterotomy before papillectomy.** ASGE 2015: "often performed to aid drainage/access; no consensus." ESGE 2021: **avoid it** (weak, very low) — the stated reason is the absence of data that pre-resection biductal sphincterotomy helps post-resection cannulation or stenting, against the known loss of biopsy accuracy. ESGE governs; the grade is weak and the page says so.
-- **Intraductal extension — the thresholds moved outward.** ASGE 2015 said extension **<1 cm** does not necessarily preclude endoscopic therapy. ESGE 2021 recommends **endoscopic papillectomy only where there is no intraductal extension** (rec 12), **surgery at >20 mm** (rec 14), and ablative salvage (RFA / cystotome) with temporary stenting for **≤20 mm in expert centers** (rec 21). ESGE's framing is the one the page now carries; ASGE's 1 cm figure is recorded as the older position.
+- ⚠ **Sphincterotomy before papillectomy.** ASGE 2015: "often performed to aid drainage/access; no consensus." ESGE 2021: **avoid it** (weak, very low) — the stated reasons: limited data, fewer en bloc and single-session resections, thermal injury hampering histopathology of the resected specimen, and more adverse events. ESGE governs; the grade is weak and the page says so.
+- **Intraductal extension — the thresholds moved outward.** ASGE 2015 said extension **<1 cm** does not necessarily preclude endoscopic therapy. ESGE 2021 recommends **endoscopic papillectomy for adenoma without intraductal extension** (rec 12, strong), **surgery for intraductal involvement >20 mm** (rec 14), and for **≤20 mm in expert centers** papillectomy plus complementary techniques (cystotome thermal ablation or RFA) with temporary biliary stenting (rec 21; Figure 1). ESGE's framing is the one the page now carries; ASGE's 1 cm figure is recorded as the older position.
 - **Surveillance schedule.** ASGE 2015: first look at **1–6 months**, then every **3–12 months for ≥2 years**, endpoint unestablished. ESGE 2021 gives a definite schedule — **within 3 months, 6 months, 12 months, then yearly for at least 5 years** (strong) — and adds that recurrence beyond 5 years warrants indefinite follow-up. ESGE governs.
 - ⚠ **One internal inconsistency in the document itself:** recommendation 8 is written with the verb *suggests* but carries the label **"Strong recommendation, low quality evidence."** Reproduced as printed rather than reconciled.
 - **European guideline, no US counterpart.** There is **no ASGE or AGA update on ampullary tumors since 2015** in the corpus. Under the wiki's US-first rule this document is used because nothing newer and American exists, not in preference to one.

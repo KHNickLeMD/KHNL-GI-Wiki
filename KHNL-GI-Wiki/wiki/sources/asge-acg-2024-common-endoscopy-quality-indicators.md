@@ -3,7 +3,8 @@ title: "ASGE/ACG 2024: Quality Indicators Common to All GI Endoscopic Procedures
 category: source
 tags: [quality, quality-indicators, endoscopy, sedation, antithrombotics, informed-consent, photodocumentation, adverse-events, specimen-handling, team-pause]
 created: 2026-10-25
-updated: 2026-11-16
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/ASGE/ASGE-ACG 2024 Quality Indicators Common to All GI Endoscopic Procedures (Elmunzer).pdf"
 ---
@@ -13,7 +14,7 @@ raw: "GI Guidelines/ASGE/ASGE-ACG 2024 Quality Indicators Common to All GI Endos
 - **Article:** [Elmunzer BJ, Anderson MA, Mishra G, et al. Quality indicators common to all GI endoscopic procedures. *Gastrointest Endosc* 2024;100:382–94.](https://doi.org/10.1016/j.gie.2024.05.001)
 - **Authors:** Elmunzer BJ, Anderson MA, Mishra G, Rex DK, Yadlapati R, Shaheen NJ — ASGE/ACG Task Force on Quality in Endoscopy
 - **Year:** 2024
-- **Journal/Publisher:** *Gastrointestinal Endoscopy* 100(3):382–94. Published jointly and identically in the *American Journal of Gastroenterology* (2026;121:1781–91), differing only in minor stylistic and spelling conventions
+- **Journal/Publisher:** *Gastrointestinal Endoscopy* 100(3):382–94. Published jointly and identically in the *American Journal of Gastroenterology*, differing only in minor stylistic and spelling conventions
 - **DOI:** [10.1016/j.gie.2024.05.001](https://doi.org/10.1016/j.gie.2024.05.001)
 - **Type:** guideline (joint society quality-indicator document)
 
@@ -23,7 +24,7 @@ The **base layer** of the American Society for Gastrointestinal Endoscopy (ASGE)
 
 Almost the whole set is **process** measures graded **3 (expert opinion only)** with a target of **>98%**, and the reason is stated explicitly: for most of these indicators the task force considered **failure to perform them a "never event"**, so the target was set where only very unusual circumstances would excuse a miss. That framing is the document's defining feature — unlike the colonoscopy and ERCP sets, **variation in practice and outcomes was deliberately *not* the basis for inclusion**, because these activities are expected to happen almost universally with minimal variability.
 
-**Six priority indicators** are named: **appropriate indication** (#1), **prophylactic antibiotics** (#5), **antithrombotic management** (#6) and **adverse-event documentation** (#17) are the four described in the Priority Quality Indicators section as reliably measurable in a manageable number of examinations and very likely to improve care. (The table also marks #1, #5, #6 and #17 as priority indicators.)
+**Four priority indicators** are named: **appropriate indication** (#1), **prophylactic antibiotics** (#5), **antithrombotic management** (#6) and **adverse-event documentation** (#17) are the four described in the Priority Quality Indicators section as reliably measurable in a manageable number of examinations and very likely to improve care. (The table also marks #1, #5, #6 and #17 as priority indicators.)
 
 The substantive clinical content sits in the discussions rather than the indicator statements: the **antithrombotic** section, the **sedation risk-assessment and monitoring** section, the **adverse-event** definitions and rates, and the **minimal elements of an endoscopy report**.
 
@@ -64,7 +65,7 @@ Strength, measure type and target exactly as the document's table gives them. **
 
 ### Strength-of-recommendation scheme (Table 2)
 
-Identical to the one used by the colonoscopy and ERCP documents — the task force's own 8-level scheme (1A, 1B, 1C+, 1C, 2A, 2B, 2C, 3), adapted from Guyatt, **not GRADE**. **3 = expert opinion only.** Fifteen of the 19 indicators here carry it.
+A previously used framework (Table 2) — 8-level scheme (1A, 1B, 1C+, 1C, 2A, 2B, 2C, 3), adapted from Guyatt, **not GRADE**. **3 = expert opinion only.** Fifteen of the 19 indicators here carry it.
 
 ### Sedation (indicators 4, 10, 11)
 
@@ -85,7 +86,7 @@ Identical to the one used by the colonoscopy and ERCP documents — the task for
 - **Diagnostic procedures, including those with mucosal biopsy sampling, are low risk for procedure-related bleeding and do not require cessation of antiplatelet or anticoagulant agents.**
 - **Some therapeutic procedures are high risk**, and most such cases without extenuating circumstances **require cessation of anticoagulants**.
 - **Some interventions traditionally thought to require interruption may not** — the document names **cold snare resection of small polyps in patients on clopidogrel** — and this should be considered in the plan.
-- **Patients at high thromboembolic risk** may need bridging, deferment of endoscopy, and/or specialist consultation. The high-risk conditions named: **atrial fibrillation with other cardiac conditions** (heart failure, valvular disease), **history of thromboembolism**, **mechanical mitral valve**, **coronary artery stent placed within a year**, **acute coronary syndrome**, and **nonstented percutaneous coronary intervention after myocardial infarction**.
+- **Patients at high thromboembolic risk** may need bridging, deferment of endoscopy, and/or specialist consultation. The high-risk conditions named: **atrial fibrillation associated with other cardiac conditions (e.g., heart failure or valvular disease) or a history of thromboembolism** (as printed), **mechanical mitral valve**, **coronary artery stent placed within a year**, **acute coronary syndrome**, and **nonstented percutaneous coronary intervention after myocardial infarction**.
 - **In most nontherapeutic procedures, antithrombotics may be resumed immediately if they were discontinued.** After a high-bleeding-risk intervention, timing of resumption is individualized on the type of endoscopic therapy and the thromboembolic risk.
 - **Almost all endoscopic procedures can be performed safely on 81–325 mg of daily aspirin**, and recent guidelines recommend **against periprocedural interruption of aspirin prescribed for secondary cardiovascular prevention**. Evidence suggests **aspirin is frequently stopped inappropriately** before endoscopy, and education reduces this — a potentially important quality-improvement initiative for an endoscopy unit.
 
@@ -144,9 +145,9 @@ Twenty required elements: date · patient identification · **endoscopist(s), in
 
 - **Discharge (13):** every endoscopy unit should have a **written policy** of criteria the patient must meet — generally a prespecified level of consciousness, certain hemodynamic parameters, and freedom from excess pain or other untoward symptoms — and satisfaction of those criteria must be **documented**.
 - **Patient instructions (14):** written, and covering dietary restrictions, **resumption or change in medications including antithrombotics and new prescriptions**, return to activities such as driving, contact information for questions or emergencies, **signs and symptoms of delayed adverse events and exactly whom to contact**, how biopsy results will be communicated, and follow-up appointments or the lack of need for them.
-- **Credentialing (8):** ASGE credentialing guidelines recommend **objective criteria and direct observation**, not simply the number of procedures performed, to define competency. Competence measures should be **universal and not vary by provider specialty**; **competency in one procedure does not imply competency in another**; and competency requires the endoscopist to perform the **minimum therapeutic maneuvers specific to that procedure** — standard polypectomy for colonoscopy, stent placement for distal biliary obstruction at ERCP.
+- **Credentialing (8):** ASGE credentialing guidelines recommend **objective criteria and direct observation**, not simply the number of procedures performed, to define competency. Competence measures should be **universal and not vary by provider specialty**; **competency in one procedure should not necessarily imply competency in another**; and competency requires the endoscopist to perform the **minimum therapeutic maneuvers specific to that procedure** — standard polypectomy for colonoscopy, stent placement for distal biliary obstruction at ERCP.
 - **Open-access endoscopy** (nongastroenterologists scheduling without prior consultation) has been widely practiced for over two decades and most studies show these procedures are usually done for appropriate indications — but quality-improvement efforts should include **feedback to referring physicians on indication appropriateness** and processes to triage some open-access referrals to clinic.
-- **Specimen verification (12):** specimen mishandling causes missed diagnoses, delayed or improper treatment and increased cost; the most frequent errors are **miscommunication and lack of standardization**. A policy on **reconciliation of specimen requisition** so that physician and staff agree on labeling is the meaningful, feasible measure, and verification **must be performed for every specimen container**.
+- **Specimen verification (12):** specimen mishandling causes missed diagnoses, delayed or improper treatment and increased cost; the most frequent errors are **miscommunication and lack of standardization**. A policy on **reconciliation of specimen requisition** so that physician and staff agree on labeling is the meaningful, feasible measure, and verification **should be performed for every specimen container**.
 
 ## Relevance to Wiki
 
@@ -159,7 +160,7 @@ Twenty required elements: date · patient identification · **endoscopist(s), in
 ## Contradictions / Open Questions
 
 - **Internal inconsistencies, not contradictions with other sources:** indicator 1 is graded 1C+ in the table and 1C in the text; indicator 6's target is >95% in the table and 95% in the text; indicator 19 is an outcome measure in the table and a process measure in the text. Recorded as published — do not silently pick one.
-- **Priority indicators: four.** Table 1 marks #1, #5, #6 and #17, and the *Priority Quality Indicators* section discusses the same four. The companion ERCP document's reprint of this table marks the same four. Any later claim of a different number needs a source.
+- **Priority indicators: four.** Table 1 marks #1, #5, #6 and #17, and the *Priority Quality Indicators* section discusses the same four.
 - **Mallampati is used but not validated for endoscopy** — the document says so plainly. It should not be presented as a validated endoscopic risk tool.
 - **No nothing-by-mouth rule for GLP-1 receptor agonists.** The document explicitly defers, saying policy "will evolve as clinical data emerge". Any such rule on the wiki must come from a different source.
 - **Patient satisfaction (indicator 19) has no performance target**, and the document says true outcome indicators of patient experience may become feasible only as benchmarks are defined. Nothing to assert.

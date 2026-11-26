@@ -4,7 +4,7 @@ category: med
 tags: [udca, ursodiol, bile-acid, cholestasis, pbc, psc, icp, pregnancy, liver, hpb, transplant]
 created: 2026-09-24
 updated: 2026-11-26
-sources: [aasld-2018-pbc, aasld-2021-pbc, aasld-2022-psc, acg-2015-psc, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2023-nafld, aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-autoimmune-hepatitis, acg-2020-hepatic-mesenteric-circulation]
+sources: [aasld-2018-pbc, aasld-2021-pbc, aasld-2022-psc, acg-2015-psc, aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2023-nafld, aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-autoimmune-hepatitis, acg-2020-hepatic-mesenteric-circulation, aasld-aga-2026-pbc]
 ---
 
 ## Contents
@@ -141,7 +141,7 @@ No approved pharmacotherapy exists for PSC; all patients should be considered fo
 ## After Liver Transplantation
 
 - **Recurrent PBC, histologically proven:** UDCA **10–15 mg/kg/day** may be considered — it improves liver tests, but **no impact on graft survival has been documented** (*grade 2, level B*). ([[aasld-2012-liver-transplant-long-term]] Rec 84). OCA is the second-line option for recurrent PBC. ([[aasld-ast-2025-liver-transplant-graft-complications]])
-- **No prophylactic UDCA** for a PBC recipient whose allograft histology is normal (*grade 2, level B*). ([[aasld-2012-liver-transplant-long-term]] Rec 84)
+- **Prophylaxis after transplant for PBC:** the societies **suggest UDCA prophylaxis** to prevent recurrence of PBC and graft failure, started as soon as possible after transplant at **13–15 mg/kg/d** (conditional, very low certainty). ([[aasld-aga-2026-pbc]] Rec 6) This supersedes AASLD 2012's "no prophylactic UDCA" for a recipient with normal allograft histology (*grade 2, level B*). ([[aasld-2012-liver-transplant-long-term]] Rec 84)
 - **Recurrent PSC:** UDCA is not proven effective and is not routinely recommended. ([[aasld-2012-liver-transplant-long-term]])
 
 ---
@@ -202,3 +202,4 @@ The full PBC follow-up schedule (thyroid-stimulating hormone (TSH), bone density
 9. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 10. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
 11. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+12. [[aasld-aga-2026-pbc|AASLD–AGA 2026: Management of Primary Biliary Cholangitis]]

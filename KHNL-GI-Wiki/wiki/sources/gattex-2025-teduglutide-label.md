@@ -3,7 +3,8 @@ title: "GATTEX (Teduglutide) for Injection — FDA Prescribing Information"
 category: source
 tags: [teduglutide, glp-2, short-bowel-syndrome, intestinal-failure, parenteral-nutrition, dosing, renal-dosing, drug-label, fda]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "Drug Labels/Gattex Teduglutide Label.pdf"
 ---
@@ -19,11 +20,11 @@ raw: "Drug Labels/Gattex Teduglutide Label.pdf"
 
 ## Summary
 
-The FDA prescribing information for **teduglutide**, the only glucagon-like peptide-2 (GLP-2) analogue approved in the US and the single agent behind every GLP-2 recommendation the wiki carries. It was fetched to close a dose gap the wiki had declared on its own front matter: the American Gastroenterological Association (AGA) clinical practice updates behind [[glp-2-agonists]] and [[short-bowel-syndrome]] place GLP-2 analogues in the management ladder but **give no dose, no monitoring schedule and no adverse-effect detail**.
+The FDA prescribing information for **teduglutide**, a glucagon-like peptide-2 (GLP-2) analogue and the single agent behind every GLP-2 recommendation the wiki carries. It was fetched to close a dose gap the wiki had declared on its own front matter: the American Gastroenterological Association (AGA) clinical practice updates behind [[glp-2-agonists]] and [[short-bowel-syndrome]] place GLP-2 analogues in the management ladder but **give no dose, no monitoring schedule and no adverse-effect detail**.
 
 The dose is **0.05 mg/kg once daily by subcutaneous injection**, for adults and for children ≥1 year alike, with **one adjustment: halve it to 0.025 mg/kg once daily** when the estimated glomerular filtration rate (eGFR) is **<60 mL/min/1.73 m²** — moderate or severe renal impairment, or end-stage renal disease. Hepatic impairment needs no adjustment at Child-Pugh A or B, and the drug has **not been studied in Child-Pugh C**. There are **no contraindications**.
 
-What makes this label worth a wiki page beyond the dose is the **endoscopic surveillance program it mandates**, which is a gastroenterologist's job and is specified nowhere else in the corpus. Because teduglutide is intestinotrophic, the label requires **colonoscopy plus upper endoscopy with polypectomy within the 6 months before starting** in adults, **repeat at the end of the first year**, and — if no polyp is found — **no less frequently than every 5 years** thereafter. **A gastrointestinal (GI) cancer diagnosed on therapy means stopping the drug.** The baseline and 6-monthly laboratory set (bilirubin, alkaline phosphatase, lipase, amylase) exists for the same reason: cholecystitis, cholelithiasis, cholangitis and pancreatitis were all seen in the trials.
+What makes this label worth a wiki page beyond the dose is the **endoscopic surveillance program it mandates**, which is a gastroenterologist's job and is specified nowhere else in the corpus. Because teduglutide is intestinotrophic, the label requires **colonoscopy plus upper endoscopy with polypectomy within the 6 months before starting** in adults, **repeat at the end of the first year**, and — if no polyp is found — **no less frequently than every 5 years** thereafter. **Active gastrointestinal (GI) malignancy (GI tract, hepatobiliary, pancreatic) on therapy means stopping the drug.** The baseline and 6-monthly laboratory set (bilirubin, alkaline phosphatase, lipase, amylase) exists for the same reason: cholecystitis, cholelithiasis, cholangitis and pancreatitis were all seen in the trials.
 
 Three further safety signals drive real decisions. **Intestinal or stomal obstruction** was reported in 4% at the recommended dose and in 9% at twice it, with no cases on placebo — the drug is temporarily stopped and may be restarted once the obstruction resolves. **Fluid overload and congestive heart failure** follow from the enhanced absorption the drug is prescribed for; parenteral support is adjusted rather than the drug automatically stopped. And the same enhanced absorption raises levels of **concomitant oral drugs** — the label's one worked example is a patient on prazepam who progressed to coma in the first week of therapy and recovered 5 days after both drugs were stopped.
 
@@ -54,14 +55,14 @@ Three further safety signals drive real decisions. **Intestinal or stomal obstru
 **On-treatment surveillance**
 
 - **Adults:** repeat colonoscopy and upper endoscopy (or alternate imaging) **at the end of year 1**. If **no polyp** is found, repeat **no less frequently than every 5 years**. If a polyp is found, follow standard polyp-surveillance intervals.
-- **Children:** **fecal occult blood testing annually**; colonoscopy/sigmoidoscopy **after 1 year and every 5 years thereafter** on continuous therapy; upper endoscopy to be considered.
+- **Children:** **fecal occult blood testing annually** (new or unexplained blood in stool → colonoscopy/sigmoidoscopy and upper GI endoscopy); colonoscopy/sigmoidoscopy **after 1 year and every 5 years thereafter** on continuous therapy; upper endoscopy to be considered.
 - **Laboratory testing every 6 months** (bilirubin, alkaline phosphatase, lipase, amylase), or more often if needed. A clinically meaningful rise → image the biliary tract, liver or pancreas and **reassess whether to continue**.
-- **Diagnosis of GI cancer → discontinue.** Non-GI malignancy → continue or stop on a benefit–risk judgment.
+- **Active GI malignancy (GI tract, hepatobiliary, pancreatic) → discontinue.** Non-GI malignancy → continue or stop on a benefit–risk judgment.
 
 **Warnings that change management**
 
-- **Acceleration of neoplastic growth.** Hyperplastic and neoplastic change is the mechanism-level concern (rat and mouse carcinogenicity studies: bile-duct and jejunal adenomas, gallbladder papillary adenomas, jejunal adenocarcinoma at high dose). 14 adult trial patients were diagnosed with GI-tract polyps after starting; postmarketing reports include colorectal, gastric and small-intestinal polyps.
-- **Intestinal obstruction.** **4% (3/77) at 0.05 mg/kg/day vs 9% (3/32) at twice the dose; none on placebo.** Onset 1 day to 6 months. **Temporarily discontinue**, manage clinically, and restart if appropriate. Of 8 obstruction episodes in the extension studies, **2 needed endoscopic dilation and 1 needed surgery**.
+- **Acceleration of neoplastic growth.** Hyperplastic and neoplastic change is the mechanism-level concern (rat and mouse carcinogenicity studies: bile-duct and jejunal adenomas, gallbladder papillary adenomas, jejunal adenocarcinoma at high dose). 14 adult trial patients were diagnosed with GI-tract polyps after initiation of study treatment (placebo-controlled: 1/59 placebo vs 1/109 teduglutide 0.05 mg/kg/day); postmarketing reports include colorectal, gastric and small-intestinal polyps.
+- **Intestinal obstruction.** **4% (3/77) at 0.05 mg/kg/day vs 9% (3/32) at twice the dose; none on placebo.** Onset 1 day to 6 months. **Temporarily discontinue**, manage clinically, and restart if appropriate. Of 8 patients with an obstruction/stenosis episode in the extension studies, **2 needed endoscopic dilation and 1 needed surgery**.
 - **Biliary and pancreatic disease.** Cholecystitis, cholangitis and cholelithiasis reported; 3 adults developed cholecystitis (all with prior gallbladder disease, 1 with perforation requiring next-day cholecystectomy). Pancreatitis, chronic pancreatitis and a pancreatic pseudocyst also reported.
 - **Fluid overload and congestive heart failure (CHF).** Peripheral edema 10% vs 3% on placebo; fluid overload 1% vs 0%; **2 cases of CHF (3%)**. Deemed related to the enhanced fluid absorption the drug produces. **Adjust parenteral support** and reassess, particularly with underlying cardiovascular disease.
 - **Stopping the drug also destabilizes fluid balance** — monitor fluid and electrolytes after discontinuation.

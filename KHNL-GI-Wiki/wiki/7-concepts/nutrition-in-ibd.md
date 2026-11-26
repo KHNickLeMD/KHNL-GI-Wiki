@@ -121,7 +121,6 @@ Generic inpatient screening tools (Nutritional Risk Screening 2002, Malnutrition
 | Vitamin B12 | Extensive ileal disease, terminal ileal resection **>30 cm**, ileoanal pouch (bacterial overgrowth) | **Yearly** if high risk or with clinical features — fatigue, anemia, loss of appetite, weight loss, glossitis, neuropathy; serum levels may overestimate body stores | **1000 µg intramuscular (IM) or subcutaneous (SC) q1–4 wk for life** — IM gives more rapid uptake, SC is more comfortable and self-administered; both preferred over sublingual for long-term repletion |
 
 - [[aga-2024-diet-nutrition-ibd|AGA 2024]] gives no vitamin D testing interval or repletion dose. Untreated deficiency causes loss of bone mineral density and metabolic bone disease; bone-densitometry indications for the steroid-exposed patient with IBD are on [[ibd-preventive-care]].
-- It prints the B12 dose as "1000 mg"; vitamin B12 injection is dosed in micrograms.
 - Also consider **zinc, copper, folate** (especially on [[methotrexate]] or [[mesalamine-5-asa|sulfasalazine]]) and **fat-soluble vitamins** by risk factor. Many micronutrients are acute-phase reactants — ferritin and copper rise with inflammation, zinc, folate, and selenium fall — so check levels in quiescent disease and recheck after repleting.
 
 ## See Also

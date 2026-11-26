@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Management of Ampullary Neoplasms: Exper
 category: source
 tags: [ampullary-adenoma, ampullary-neoplasm, papillectomy, ampullectomy, ercp, eus, fap, surveillance, aga]
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-26
+verified: 2026-11-26
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU Management of Ampullary Neoplasms (Barakat).pdf"
 ---
@@ -21,9 +22,9 @@ raw: "GI Guidelines/AGA/AGA 2026 CPU Management of Ampullary Neoplasms (Barakat)
 
 The first AGA Clinical Practice Update dedicated to ampullary neoplasms, covering the whole arc of care for an ampullary adenoma — diagnosis, staging and patient selection, the technical conduct of endoscopic papillectomy, and post-resection surveillance. Ampullary neoplasia is rare (**0.6%–0.8% of gastrointestinal cancers**, prevalence **<0.1%**) but its incidence among young adults has risen over the past 20 years, and ampullary cancer carries a **5-year survival of 20% to 75%** depending on stage at diagnosis. The authors' stated aim is that high-quality endoscopic assessment and complete resection lower recurrence risk and catch patients earlier.
 
-The clinical core is patient selection. **20%–40% of ampullary adenomas already harbor malignancy**, so sampling must be adequate (**at least 6 biopsies**) and performed through a side-viewing duodenoscope, which also lets the endoscopist avoid the pancreatic orifice. Endoscopic ultrasound (EUS) then stages the lesion, above all for **intraductal extension**, which is the single measurement that most often moves a patient to surgery.
+The clinical core is patient selection. **20%–40% of ampullary adenomas already harbor malignancy**, so sampling must be adequate (**at least 6 biopsies**) and performed through a side-viewing duodenoscope, which also lets the endoscopist avoid the pancreatic orifice. Endoscopic ultrasound (EUS) then stages the lesion, above all for **intraductal extension**, with surgical consultation when it exceeds 1 cm (BPA 5).
 
-Technique advice is unusually concrete and in two places runs against reflex practice: **avoid prepapillectomy biliary and pancreatic sphincterotomy** (electrocautery artifact degrades the histopathologic assessment and bleeding obscures the field), and **do not routinely inject submucosally** — injection does not aid resection and is associated with higher rates of incomplete resection, reserved instead for laterally spreading components along the duodenal wall.
+Technique advice is unusually concrete and in two places runs against reflex practice: **avoid prepapillectomy biliary and pancreatic sphincterotomy** (electrocautery artifact degrades the histopathologic assessment and bleeding prior to resection), and **do not routinely inject submucosally** — injection does not aid resection and is associated with higher rates of incomplete resection, reserved instead for laterally spreading components along the duodenal wall.
 
 Surveillance is anchored on a **3-month first examination with biopsy of the scar even when it looks normal**, then 6 and 12 months and annually for at least 5 years, with an intensified every-2-to-3-month track for large piecemeal resections and positive margins. The update is explicit that **these Best Practice Advice statements carry no formal ratings** of evidence quality or strength, because no systematic review was performed.
 
@@ -36,7 +37,7 @@ Surveillance is anchored on a **3-month first examination with biopsy of the sca
 ### Epidemiology and risk
 
 - Ampullary neoplasia represents **0.6%–0.8% of gastrointestinal cancers**; prevalence **<0.1%**. Incidence among **young adults has risen over the past 20 years**.
-- Most ampullary tumors are sporadic, but **genetic polyposis syndromes raise the risk about 3-fold**.
+- Most ampullary tumors are sporadic, but **genetic polyposis syndromes raise the risk up to 3-fold**.
 - **20%–40% of ampullary adenomas harbor malignancy** — the figure that drives the ≥6-biopsy rule.
 - Ampullary cancer **5-year survival 20%–75%**, by stage at diagnosis.
 - Early lesions are frequently asymptomatic; as they grow they cause biliary obstruction, cholangitis or pancreatitis. Those symptoms should prompt cross-sectional imaging — **ideally magnetic resonance cholangiopancreatography (MRCP)**.
@@ -46,7 +47,7 @@ Surveillance is anchored on a **3-month first examination with biopsy of the sca
 | Favors endoscopic papillectomy (BPA 4) | Against / requires further consideration |
 |---|---|
 | Well-defined margins | **Definitive contraindications (BPA 6):** metastatic spread · invasive cancer extending beyond the mucosal layer · **>1 cm intraductal extension in a surgically fit patient** |
-| **Size less than 4–5 cm** | **Relative contraindications (BPA 6):** lesions **over 5 cm** · early-stage/T1 cancers · concerns about follow-up adherence · inadequate pancreaticobiliary expertise |
+| **Size less than 4–5 cm** | **Relative contraindications (BPA 6):** lesions **over 5 cm** · early-stage/T1 cancers · concerns about follow-up adherence (narrative also cites inadequate pancreaticobiliary expertise) |
 | Nonfriable lesion | Notable weight loss and jaundice; substantial ductal dilation with an abrupt cutoff at the ampulla on cross-sectional imaging |
 | Soft to endoscopic probing | Lesions **larger than 4 cm that are friable, ulcerated, or fixed**; signs of dilated ducts, particularly with intraductal extension |
 | **Intraductal extension limited to 1 cm or less** | Irregular or nonstructured villi on narrow-band imaging (indicative of adenocarcinoma) — sample those areas |
@@ -59,11 +60,11 @@ Surveillance is anchored on a **3-month first examination with biopsy of the sca
 
 ### Figure 1 — Algorithm for approaching ampullary neoplasms
 
-A single decision tree from "suspected ampullary lesion" through surveillance, with each node labelled by the BPA that governs it. Recreated on [[ampullary-adenoma]] as an embedded figure.
+A single decision tree from "suspected ampullary lesion" through surveillance, with each node labelled by the BPA that governs it. Summarized on [[ampullary-adenoma]] (not embedded — Elsevier, all rights reserved).
 
 ### Figure 2 — Management after endoscopic papillectomy
 
-A four-column pathway map (immediate escalation · default surveillance · intensified eradication · long-term modifiers) hanging off the 3-month scar biopsy. Recreated on [[ampullary-adenoma]] as an embedded figure.
+A four-column pathway map (immediate escalation · default surveillance · intensified eradication · long-term modifiers) hanging off the 3-month scar biopsy. Summarized on [[ampullary-adenoma]] (not embedded — Elsevier, all rights reserved).
 
 ### Surveillance schedule
 
@@ -113,10 +114,10 @@ A four-column pathway map (immediate escalation · default surveillance · inten
 
 ## Supporting commentary (condensed)
 
-- **Why no prepapillectomy sphincterotomy** — a preresection cholangiogram and pancreatogram can be useful to exclude intraductal extension and give fluoroscopic guidance for accessing the pancreatic duct post-papillectomy, and may be performed at the endoscopist's discretion; but **sphincterotomy** itself causes cautery artifact that impairs histopathologic assessment and can hinder en bloc resection.
+- **Why no prepapillectomy sphincterotomy** — a preresection cholangiogram and pancreatogram can be useful to exclude intraductal extension and give fluoroscopic guidance for accessing the pancreatic duct post-papillectomy, and may be performed at the endoscopist's discretion; but some studies suggest prepapillectomy **sphincterotomy** may cause cautery artifact that impairs histopathologic assessment and may hinder en bloc resection.
 - **Why not inject** — in a prospective multicenter study of 50 patients with ampullary adenomas undergoing snare papillectomy, the **injected group achieved complete resection in 50% versus 80% without injection**. Injection is helpful only for lateral extension along the duodenal wall, where it facilitates resection and reduces perforation risk.
 - **Bleeding** — pooled bleeding rate after papillectomy **10.6%**, with endoscopic treatment effective in **96%**. A recent randomized trial found **hemostatic gel more effective than epinephrine injection** for primary hemostasis.
-- **Biliary drainage** — SEMS are favored over plastic stents (longer patency, fewer cholangitis events, less reintervention, fewer stent-related hospitalizations). A large national-database analysis found **ERCP associated with lower adverse events, lower hospitalization cost and shorter length of stay than percutaneous transhepatic biliary drainage**; EUS-guided biliary drainage is also safe and effective, either after failed ERCP or as primary therapy, and mitigates pancreatitis risk.
+- **Biliary drainage** — SEMS are favored over plastic stents (longer patency, fewer cholangitis events, less reintervention, fewer stent-related hospitalizations). When endoscopic resection is not an option and obstructive jaundice or cholangitis is present, **ERCP with SEMS should be considered over percutaneous drainage** (national-database analysis in malignant obstruction: lower adverse events, cost and length of stay than percutaneous transhepatic drainage for pancreatic cancer; a 2017 meta-analysis reported comparable clinical success, complications and 30-day mortality); EUS-guided biliary drainage is also safe and effective, either after failed ERCP or as primary therapy, and mitigates pancreatitis risk.
 - **FAP is a special case** — patients with FAP have **higher adverse event rates** after endoscopic papillectomy and **high recurrence rates**, and removing an ampullary adenoma **does not eliminate or substantially reduce** the recurrence or development of new upper gastrointestinal malignancy. The rate of progression of ampullary adenomas in FAP is **low relative to other patients (11%–14%)**. Because of this, **some experts recommend surveillance endoscopy with biopsies instead of excision** in FAP patients with ampullary adenomas, provided there is no rapid growth or evidence of HGD — accepting the risk of missing unsampled HGD or carcinoma. Duodenal surveillance intensity is set by **Spigelman stage** plus ampullary status, and gastric phenotype (fundic gland polyposis or gastric adenomas) also informs intensity.
 - **Intramucosal malignancy on biopsy is unsettled** — spread via lymph nodes and lymphatic channels, and vascular invasion, have been reported in these lesions, and it is difficult to determine whether there is tumor invasion into the sphincter of Oddi. The authors advise **referral for surgical consultation and joint decision-making**.
 - **Intraductal radiofrequency ablation** for limited ductal extension achieves **~76% clinical success** at short-term follow-up in observational data and a 2024 systematic review/meta-analysis, but with nontrivial adverse events (**biliary strictures ~22%**) — use in expert centers with prophylactic stenting when indicated. Adjunct **APC** for mucosal remnants on the papillary surface is associated with improved local control in cohort studies.
