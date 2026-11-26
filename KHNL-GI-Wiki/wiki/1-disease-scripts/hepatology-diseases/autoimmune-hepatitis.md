@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-11-18
+updated: 2026-11-26
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-2025-autoimmune-hepatitis, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc, de-martin-2021-surfasa-acute-severe-aih, hennes-2008-simplified-aih-criteria, alvarez-1999-iaihg-revised-criteria, gerussi-2026-pbc-aih-delphi, ecco-2024-eim-ibd]
 ---
 
@@ -43,7 +43,7 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, easl-202
 
 ### Establishing the Diagnosis
 
-Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× upper limit of normal [ULN]), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out, **although coexistence with [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease|ALD]] or viral hepatitis is possible**. [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
+Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG, positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out, **although coexistence with [[nafld-masld|MASLD]], [[alcohol-associated-liver-disease|ALD]] or viral hepatitis is possible**. [[easl-2025-autoimmune-hepatitis]] [[aasld-2020-autoimmune-hepatitis]]
 
 - **Suspect AIH** in any unexplained aminotransferase elevation *irrespective of magnitude*, and in **cirrhosis of unknown cause even with normal aminotransferases**; **normal IgG does not exclude AIH** (elevated in 85–95% overall but only 25–39% of acute presentations) [[easl-2025-autoimmune-hepatitis]]
 - **Liver biopsy is required to establish the diagnosis** (EASL, LoE 1, strong) — ≥8 portal tracts, needle ≥18G (preferably 16G or wider), cylinder ≥1.5 cm (>2.5 cm better), read by a liver pathologist [[easl-2025-autoimmune-hepatitis]]
@@ -69,14 +69,14 @@ Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elev
 **Type 2 AIH:**
 
 - Anti-liver kidney microsome type 1 (anti-LKM1) positive (± anti-liver cytosol type 1 [anti-LC1], anti-LKM3); usually under age 14
-- 9–12% of US children with AIH (38% of UK children); acute onset ~40%, acute liver failure (ALF) possible
-- More aggressive; rarely enters sustained remission off medications — usually needs long-term immunosuppression
+- 9–12% of US children with AIH (38% of UK children); acute onset ~40%, acute liver failure (ALF) possible; relapse frequent
+- Remission after drug withdrawal rare — usually needs long-term immunosuppression (IS) [[aasld-2020-autoimmune-hepatitis]]
 
-**Anti-soluble liver antigen/liver pancreas (anti-SLA/LP):**
+**Anti-soluble liver antigen/liver pancreas (anti-SLA/LP):** [[aasld-2020-autoimmune-hepatitis]]
 
-- Present in either type; highly specific for AIH
-- Associated with worse prognosis and more refractory disease
-- Complete immunosuppression (IS) withdrawal is rarely successful if anti-SLA positive
+- Present in 7–22% of type 1 AIH; specificity for AIH 99%
+- Associated with severe disease and poor outcome
+- Associated with relapse after drug withdrawal (predicts relapse after treatment)
 
 **Initial serological workup:** [[aasld-2020-autoimmune-hepatitis]]
 
@@ -149,11 +149,12 @@ Autoimmune hepatitis (AIH) is an immune-mediated hepatitis characterized by elev
 
 **Key histologic features:**
 
-- **Interface hepatitis**: lymphoplasmacytic infiltration beyond limiting plate with hepatocyte necrosis — hallmark finding
-- **Rosette formation**: regenerating hepatocytes forming pseudoacinar patterns
-- **Emperipolesis**: lymphocyte traversing hepatocyte cytoplasm (highly specific but not pathognomonic)
-- Dense plasma cell infiltration
-- Centrilobular necrosis: present in acute/severe AIH
+*[[aasld-2020-autoimmune-hepatitis|AASLD 2020]]: **none of the individual findings is specific for AIH**; interface hepatitis with portal lymphocytic/lymphoplasmacytic cells extending into the lobule, emperipolesis and rosettes together are considered typical.*
+
+- **Interface hepatitis**: histologic hallmark; plasma cell infiltration in 66%, lobular hepatitis in 47%
+- **Emperipolesis** (penetration of one intact cell into another, both remaining viable): 65%
+- **Hepatocyte rosettes**: 33%
+- Centrilobular necrosis: 29%, with similar frequency with and without cirrhosis; in AIH with ALF the features predominate in the centrilobular zone
 
 ### Severity Assessment
 
@@ -230,7 +231,7 @@ Both definitions additionally require **no previously recognized liver disease**
 ### Laboratory
 
 - Aminotransferases (ALT, AST) — typically markedly elevated; pattern not unique [[acg-2017-liver-chemistries]]
-- Serum IgG (quantitative) — elevated >1.1× ULN
+- Serum IgG (quantitative) — elevated (score cut-offs in the scoring tables above)
 - **Autoantibody panel — order and method matter** [[easl-2025-autoimmune-hepatitis]]: first screen **ANA, SMA, anti-LKM1, anti-LC1 by IFT on triple rodent tissue sections (liver, kidney, stomach)**, *in parallel* with **anti-SLA/LP by solid-phase assay** (anti-SLA/LP is not detectable by IFT). Starting dilution 1:40–1:80 in adults (higher on HEp-2), **1:10–1:20 in children**
   - **Negative IFT despite suspicion → re-test at a lower dilution (1:40 adults, 1:10 children)** and refer to a reference laboratory for non-standard antibodies; extremely high IgG can cause a false-negative pro-zone effect, so also retest at *higher* serial dilutions
   - **pANNA (atypical perinuclear ANCA) only after ANA, SMA and anti-SLA/LP are negative** — isolated pANNA reactivity is rare
@@ -264,7 +265,7 @@ Both definitions additionally require **no previously recognized liver disease**
 
 - Definitive for diagnosis (interface hepatitis, plasma cell infiltrate, rosettes, emperipolesis)
 - Required for definite AIH scoring on Simplified criteria
-- Recommended before IS withdrawal to confirm histologic remission (preferred, not mandatory in adults)
+- Before IS withdrawal: AASLD — preferred but not mandatory in adults, required in children; EASL — no general recommendation (see [[#Treatment Withdrawal]])
 - Staging for fibrosis guides prognosis and treatment duration decisions
 
 ---
@@ -395,7 +396,7 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 
 **AIH-related ALF (INR ≥2.0 + HE within 26 weeks):**
 
-- HE at presentation is what defines ALF; **LT is more likely to improve survival than protracted glucocorticoid treatment** — evaluate directly, do not delay listing awaiting steroid response
+- HE at presentation is what defines ALF; **LT is more likely to improve survival than protracted glucocorticoid treatment** — evaluate directly for LT
 - Glucocorticoids have **not** improved overall survival in AIH-ALF, and survival was **worse** in treated patients with **MELD >40**; steroids may be deleterious in severe decompensation
 - See [[acute-liver-failure]] for full management protocol
 
@@ -430,10 +431,10 @@ AZA is stopped for adverse effects in ~15% in year 1 (36.5% within 6 months in t
 
 - Adults: 50–87%; children: 60–80%
 - In those meeting the strict ≥2-year biochemical-normality criterion: 46% adults, 80% children
-- **50% of all relapses occur within 12 months**; frequency falls after the first year, but late relapse is possible — surveillance is lifelong (labs q12 months after the first year)
+- **50% of all relapses occur within the first 3 months** after withdrawal and 90% within 28 months; after the first year the frequency falls to 3%/year over the next 3 years, but late relapse is possible — monitor with regular labs during the first 12 months, then annually, lifelong
 - Relapse requires prompt reinstitution of the original regimen; **adults should be treated long-term after their first relapse** — repeated relapse after withdrawal raises cirrhosis (38% vs 10%, P = 0.02) and liver-related death/LT (20% vs 3%, P = 0.02) vs relapsing once and being retreated
 
-**Anti-SLA positivity:** Withdrawal rarely successful; do not attempt in anti-SLA–positive patients
+**Anti-SLA positivity:** associated with relapse after drug withdrawal ([[aasld-2020-autoimmune-hepatitis]]); EASL counts anti-SLA/LP negativity among the favourable predictors above.
 
 ### Surveillance in AIH Cirrhosis
 
@@ -483,7 +484,7 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 > ⚠ **The two AASLD guidelines state Paris differently — know which framing you are using.** [[aasld-2018-pbc]], approaching from an established PBC diagnosis, defines Paris as **"two of the following three"** *AIH* criteria, counting **liver biopsy with moderate or severe interface hepatitis as the third criterion** (a: ALT >5× ULN; b: IgG ≥2× ULN **and/or** SMA+; c: moderate/severe interface hepatitis). [[aasld-2020-autoimmune-hepatitis]], approaching from AIH, instead requires **2 of 3 PBC criteria** *plus* **both** AIH criteria, with interface hepatitis a **prerequisite** rather than a countable item. The practical difference: under the PBC framing a patient with interface hepatitis + IgG ≥2× ULN qualifies **without** ALT >5× ULN; under the AIH framing they do not. **This page follows the newer [[aasld-2020-autoimmune-hepatitis]] framing (table above)**; the 2018 PBC wording is recorded here so readers carrying it are not caught out.
 
 - Paris criteria performance: sensitivity 92%, specificity 97% (single-centre) — but the IAIHG notes the AIH–PBC criteria were never independently validated, and the criteria **miss** patients with less pronounced cholestatic labs, who can still improve on conventional AIH immunosuppression
-- Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] component
+- Treatment: consider adding [[ursodeoxycholic-acid|ursodeoxycholic acid (UDCA)]] to predniso(lo)ne + AZA (AASLD guidance statement); in patients meeting the Paris criteria, predniso(lo)ne 30 mg/day tapered over 4 weeks to 10 mg/day + UDCA 13–15 mg/kg/day was superior to either alone
 
 **What to do in an AIH patient who looks cholestatic** ([[gerussi-2026-pbc-aih-delphi]], international Delphi consensus; ≥80% agreement threshold). This consensus renames the entity **"PBC–AIH"** and calls it a **variant** rather than an overlap, and ⚠ **its panel did not endorse the Paris criteria** — it holds that the diagnosis rests on laboratory, serological *and* histological findings together (95.1%), not on a fixed rule. The criteria table above is retained as the named historical criteria. Full framing: [[primary-biliary-cholangitis#PBC-AIH Overlap Syndrome]].
 
@@ -495,9 +496,9 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 
 **AIH-PSC overlap:** [[aasld-2020-autoimmune-hepatitis]]
 
-- Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
-- Consider when AIH diagnosis established but patient has concomitant IBD (especially [[ulcerative-colitis|ulcerative colitis (UC)]]) or ALP disproportionately elevated
-- Prognosis driven by PSC component (colitis-associated neoplasia, [[cholangiocarcinoma]] risk)
+- Typical AIH features + **absence of AMA** + large-duct PSC on cholangiogram (MRCP/ERCP), **or small-duct PSC on histology** ("onion-skinning" periductal fibrosis)
+- Consider in all patients with AIH and chronic [[ulcerative-colitis|ulcerative colitis (UC)]], unexplained cholestatic laboratory findings, or nonresponse to conventional glucocorticoids
+- Adults with AIH–PSC vs AIH: laboratory resolution 22% vs 64%, treatment failure 33% vs 10%, liver death or LT 33% vs 8%
 - See [[primary-sclerosing-cholangitis]]
 
 **AIH in the patient who already has IBD:** [[ecco-2024-eim-ibd]] Statement 12

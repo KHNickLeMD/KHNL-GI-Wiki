@@ -90,7 +90,7 @@ The main text does not number its statements (the Supplemental Figure S1 numberi
 
 ## Relevance to Wiki
 
-- **[[primary-biliary-cholangitis]]** — the main target. Replaces "PBC–AIH overlap" with the variant framing; supplies what to suspect it on (incomplete UDCA response at 12 months plus disproportionate transaminase elevation), the rule to escalate anti-cholestatic therapy before immunosuppression, the mandatory biopsy, and the **severe (≥3/4) not moderate (≥2/4) interface hepatitis** threshold for starting immunosuppression — a threshold the page did not have.
+- **[[primary-biliary-cholangitis]]** — the main target. Replaces "PBC–AIH overlap" with the variant framing; supplies what to suspect it on (incomplete UDCA response at 12 months plus disproportionate transaminase elevation), the discussion point that escalating anti-cholestatic therapy should be considered before immunosuppression, the mandatory biopsy, and the **severe (≥3/4) not moderate (≥2/4) interface hepatitis** threshold for starting immunosuppression — a threshold the page did not have.
 - **[[autoimmune-hepatitis]]** — when to suspect a PBC component in an AIH patient (AMA/gp210/sp100 plus disproportionate ALP), the "reassess the old biopsy first" rule, and the histological features that are supportive but not required.
 - Not open access (AASLD / Wolters Kluwer, reproduction prohibited) — no figure or table was captured.
 

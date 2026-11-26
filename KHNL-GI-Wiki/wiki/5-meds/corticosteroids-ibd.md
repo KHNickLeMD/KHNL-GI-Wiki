@@ -3,7 +3,7 @@ title: "Corticosteroids in IBD (systemic, budesonide CIR, budesonide MMX)"
 category: med
 tags: [ibd, crohns-disease, ulcerative-colitis, corticosteroids, budesonide, prednisone, methylprednisolone, hydrocortisone, induction, steroid-dependence, autoimmune-hepatitis]
 created: 2026-09-20
-updated: 2026-11-18
+updated: 2026-11-26
 sources: [acg-2025-crohns, acg-2025-uc, acg-2018-crohns, acg-2019-uc, acg-2025-ibd-preventive-care, aasld-2020-autoimmune-hepatitis, aga-2026-inpatient-ibd, ecco-2017-crohns-part-1, global-consensus-2025-pregnancy-ibd, easl-2025-autoimmune-hepatitis]
 ---
 
@@ -209,13 +209,13 @@ The same two drugs, a different rule set — and the one place where **budesonid
 | Recommendation | Strength | Certainty |
 |---|---|---|
 | **Rec 1** — In children and adults with AIH **without cirrhosis or acute severe AIH**: **budesonide 3 mg TID + AZA** (adults 50–150 mg/day; children 1–2 mg/kg/day) **OR prednisone/prednisolone + AZA** are **equally acceptable** first-line therapies — ⚠ superseded by EASL 2025 (budesonide not first line) | Conditional | Low |
-| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (INR 1.5–<2.0 without HE): do **NOT** use budesonide | Conditional | Very low |
+| **Rec 2** — In patients **with cirrhosis OR acute severe AIH** (INR >1.5 <2, no HE): do **NOT** use budesonide | Conditional | Very low |
 
 - **Why budesonide fails in cirrhosis:** portal-systemic shunting **bypasses the first-pass effect**, eliminating the systemic side-effect advantage that is its entire rationale.
-- **Acute severe AIH** (jaundice + INR 1.5–<2, no HE): initiate a **prednisone trial** and reassess at **1–2 weeks**; no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]]. ⚠ EASL 2025 makes the call earlier — **3–7 days** (table above).
-- **AIH-related [[acute-liver-failure|acute liver failure]]** (INR ≥2 + HE): evaluate directly for transplantation — do not delay listing while awaiting a steroid response. Budesonide is contraindicated here as well.
-- **94%–95%** of AIH patients are steroid-responsive; only **~30%** can discontinue all immunosuppression long-term.
-- **Monitoring on glucocorticoids:** **DEXA at baseline, repeated every 2–3 years**; **25-hydroxyvitamin D** at diagnosis and annually, supplement if deficient. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
+- **Acute severe AIH** (jaundice + INR >1.5 <2, no HE, no previously recognized liver disease): treatment trial of **prednisone or prednisolone alone**; no improvement in laboratory tests, or clinical worsening, within **1–2 weeks** → evaluate for [[liver-transplantation|liver transplantation]]. ⚠ EASL 2025 makes the call earlier — **3–7 days** (table above).
+- **AIH-related [[acute-liver-failure|acute liver failure (ALF)]]** (INR ≥2 + HE within 26 weeks of onset): evaluate directly for transplantation. Budesonide's role in acute severe AIH or ALF is unknown → not recommended.
+- After relapse following drug withdrawal, retreatment achieves laboratory resolution in **94%**; treatment-free remission at ≥3 years' follow-up is **19–40%**.
+- **Monitoring on glucocorticoids:** **DEXA at baseline in adults with osteoporosis risk factors, repeated every 2–3 years of continuous glucocorticoids**; **25-hydroxyvitamin D** at diagnosis and annually; elemental calcium 1,000–1,200 mg/day + vitamin D at least 400–800 IU/day while on glucocorticoids. Check **thiopurine methyltransferase (TPMT)** before AZA, **hepatitis B surface antigen (HBsAg)/hepatitis B core antibody (anti-HBc)** before immunosuppression, and give vaccines beforehand.
 - AASLD 2020 states the prednisone/prednisolone regimen as a drug pairing without printing a starting dose or taper schedule; the budesonide dose (3 mg TID) is given.
 - Both guidelines contraindicate budesonide in cirrhosis; only AASLD 2020 keeps it first line.
 
