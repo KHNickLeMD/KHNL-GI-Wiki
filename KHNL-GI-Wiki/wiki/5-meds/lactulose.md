@@ -4,6 +4,8 @@ category: med
 tags: [lactulose, nonabsorbable-disaccharide, osmotic-laxative, hepatic-encephalopathy, cirrhosis, ammonia, constipation, acute-on-chronic-liver-failure, rifaximin, breath-testing]
 created: 2026-09-23
 updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [acg-2026-hepatic-encephalopathy, aasld-easl-2014-hepatic-encephalopathy, aasld-2024-aclf, baveno-viii-2026-portal-hypertension, aga-acg-2023-constipation, acg-2025-liver-nutrition, aasld-2011-alf, acg-2023-alf, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2024-pregnancy-gi-liver, acg-2020-sibo]
 ---
 
@@ -57,7 +59,7 @@ Nonabsorbable disaccharide, used for [[hepatic-encephalopathy|hepatic encephalop
 | **Post-[[tips\|transjugular intrahepatic portosystemic shunt (TIPS)]] prophylaxis** | Routine prophylactic therapy (lactulose or rifaximin) is **not** recommended to prevent post-TIPS HE (2014 Rec 27) | GRADE III, B, 1 |
 
 - The MHE/CHE position moved: the 2014 guideline held that treatment of MHE and CHE is not routinely recommended apart from case-by-case (Rec 29, GRADE II-2, B, 1); ACG 2026 now suggests treating. Follow ACG 2026.
-- ACG 2026 makes a peri-TIPS recommendation for [[rifaximin]] only (start 14 days before elective TIPS, continue ≥6 months) — it makes no equivalent recommendation for lactulose.
+- ACG 2026 makes a peri-TIPS recommendation for [[rifaximin]] only (decompensated cirrhosis with or without prior OHE: start 14 days before elective TIPS, continue ≥6 months) — it makes no equivalent recommendation for lactulose.
 
 ---
 
@@ -136,7 +138,7 @@ Nonabsorbable disaccharide, used for [[hepatic-encephalopathy|hepatic encephalop
 - **Acute OHE:** suggest **adding [[rifaximin]] to lactulose** vs lactulose alone (ACG 2026 Rec 9, *conditional, low certainty*). A randomized controlled trial (RCT) of the combination showed a higher rate of complete HE reversal, reduced hospital stay, and reduced mortality.
 - **Recurrent episodes despite lactulose maintenance:** **add rifaximin** (ACG 2026 Rec 13, *strong, high certainty*). The 2014 guideline placed this add-on after the **second** episode (Rec 26, GRADE I, A, 1).
 - Rifaximin is an effective **add-on** to lactulose for prevention of OHE recurrence (2014 Rec 20, GRADE I, A, 1). The pivotal maintenance trial ran on a background of **91% lactulose use**.
-- **Rifaximin without lactulose — sources differ:** the 2014 guideline found no solid data for rifaximin alone. ACG 2026 suggests rifaximin in the outpatient setting to prevent HE recurrence after OHE (Rec 12, *conditional, low certainty*), and notes small/retrospective support for rifaximin monotherapy but that the preponderance of evidence favours the combination in patients who tolerate both; for >3 loose BMs see [[#Titration Endpoint and Monitoring]]. Follow ACG 2026.
+- **Rifaximin without lactulose — sources differ:** the 2014 guideline found no solid data for rifaximin alone. ACG 2026 suggests rifaximin in the outpatient setting to prevent HE recurrence after OHE (Rec 12, *conditional, low certainty* — the recommendation does not specify with or without lactulose), and notes small/retrospective support for rifaximin monotherapy but that the preponderance of evidence favours the combination in patients who tolerate both; for >3 loose BMs see [[#Titration Endpoint and Monitoring]]. Follow ACG 2026.
 - **ACLF/ICU:** the role of rifaximin as an add-on to lactulose or PEG warrants further investigation (AASLD 2024 GS 8); its value in the ICU is limited, especially in patients already on broad-spectrum antibiotics ([[acg-2026-hepatic-encephalopathy]]).
 
 ---

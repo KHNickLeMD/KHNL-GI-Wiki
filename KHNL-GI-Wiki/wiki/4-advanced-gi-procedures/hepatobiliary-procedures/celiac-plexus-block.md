@@ -3,7 +3,9 @@ title: "Celiac Plexus Block and Neurolysis (EUS-CPB / EUS-CPN)"
 category: advanced-procedure
 tags: [celiac-plexus-block, celiac-plexus-neurolysis, eus, pancreatic-pain, chronic-pancreatitis, pancreatic-cancer, pain-management, therapeutic-eus]
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-26
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 sources: [acg-2020-chronic-pancreatitis, asge-2024-chronic-pancreatitis-endoscopy, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, aga-2022-recurrent-pancreatitis-endoscopy, acg-2025-eus-quality]
 ---
 
@@ -37,7 +39,7 @@ Two different injections with two different goals — the agent, not the route, 
 | **Mechanism** | Interrupts neural signaling in response to intra-abdominal pain ([[aga-2022-recurrent-pancreatitis-endoscopy]]) | **Ablates the neurons** of the celiac ganglia ([[asge-2016-solid-pancreatic-neoplasia]]) |
 | **Usual population** | Chronic abdominal pain from [[chronic-pancreatitis\|chronic pancreatitis (CP)]] | Chronic abdominal pain from [[pancreatic-cancer\|pancreatic cancer]] ([[acg-2025-eus-quality]]) |
 
-- ACG 2020 names bupivacaine and triamcinolone as the usual block agents but does not give a dose or an injectate volume; the ingested guidelines give injectate volume only for neurolysis (see [[#Technique]]).
+- American College of Gastroenterology (ACG) 2020 names bupivacaine and triamcinolone as the usual block agents but gives no dose (injectate volume: see [[#Technique]]).
 
 ## Indications
 
@@ -50,10 +52,12 @@ Who the block is for (ASGE 2024 general concepts + panel discussion):
 - CP **nonresponsive to medical therapy**, with all other options exhausted.
 - **Nonobstructive (small-duct) CP** — no endoscopic or surgical decompression option available.
 - Patients with **opioid side effects**, or who wish to avoid opioids.
-- ⚠ Set the expectation at consent: **fewer than 60% of patients get pain relief, and it is not sustained (<6 months).**
 - A patient with an obstructed main pancreatic duct belongs in the decompression pathway instead — the stepwise pain ladder and the endoscopy-vs-surgery decision live on [[chronic-pancreatitis]].
 
-**[[acg-2020-chronic-pancreatitis|American College of Gastroenterology (ACG) 2020]], Recommendation 10 — *conditional recommendation, very low quality of evidence*:** suggests **considering celiac plexus block for treatment of pain in CP**. ACG frames it as a relatively low-risk, opioid-free way to reduce refractory pain in **selected** patients — "selected" chosen deliberately, because numerous studies have shown no significant benefit in CP, and it is not clear which patients derive the most benefit.
+> [!pitfall] Set expectations at consent
+> With EUS-guided CPB, **fewer than 60% of patients get pain relief, and it is not sustained (<6 months)** ([[asge-2024-chronic-pancreatitis-endoscopy]]).
+
+**[[acg-2020-chronic-pancreatitis|ACG 2020]], Recommendation 10 — *conditional recommendation, very low quality of evidence*:** suggests **considering celiac plexus block for treatment of pain in CP**. ACG frames it as a relatively low-risk, opioid-free way to reduce refractory pain in **certain** patients; it stresses "selected patients" because numerous studies have shown no significant benefit in CP, and it is not clear which patients derive the most benefit.
 
 **[[aga-2022-recurrent-pancreatitis-endoscopy|American Gastroenterological Association (AGA) 2022]], Best Practice Advice (BPA) 8 (ungraded):** CPB **should not be routinely performed** for pain due to CP. Proceeding in **selected patients with debilitating pain in whom other therapeutic measures have failed** can be considered **case-by-case**, but only after discussing the unclear outcomes of the intervention and its procedural risks.
 
@@ -64,9 +68,9 @@ Who the block is for (ASGE 2024 general concepts + panel discussion):
 - **Trigger:** abdominal pain **refractory to medical therapy**, or **opioid adverse effects not well tolerated**.
 - **Sequence:** given the modest benefit in pain severity and the potential undesirable effects, **analgesic therapy alone may be preferred first-line**; CPN is an add-on, not a substitute.
 - **Resectable or borderline-resectable disease:** effects are not well known — the recommendation does not extend there.
-- **Route:** EUS or percutaneous. The two have never been compared directly, and performed similarly in the supporting meta-analysis. **Prefer the endoscopic route when an upper endoscopy or EUS is already being done for another purpose, or when percutaneous CPN is not available.**
+- **Route:** EUS or percutaneous. The two have never been compared directly, and performed similarly in the supporting meta-analysis. **Prefer the endoscopic route when an [[upper-endoscopy|upper endoscopy]] or EUS is already being done for another purpose, or when percutaneous CPN is not available.**
 
-**[[asge-2016-solid-pancreatic-neoplasia|ASGE 2016]] (older, superseded on this topic by ASGE 2024):** suggests EUS-guided CPN be considered in patients with pancreatic-cancer-related pain (*conditional, ⊕⊕⊕◯*), calling CPN the preferred therapy for cancer-related pain. It adds that **early** EUS-CPN reduced pain and may moderate morphine consumption in newly diagnosed, painful, inoperable pancreatic cancer in a double-blind controlled trial.
+**[[asge-2016-solid-pancreatic-neoplasia|ASGE 2016]] (older, superseded on this topic by ASGE 2024):** *"we suggest"* EUS-guided CPN be considered in patients with pancreatic-cancer-related pain (⊕⊕⊕◯), calling CPN the preferred therapy for cancer-related pain. It adds that **early** EUS-CPN reduced pain and may moderate morphine consumption in newly diagnosed, painful, inoperable pancreatic cancer in a double-blind controlled trial.
 
 ## Technique
 
@@ -83,7 +87,7 @@ Who the block is for (ASGE 2024 general concepts + panel discussion):
 - **Laterality for CPB in CP:** in a subgroup analysis, **bilateral injections of the plexus gave better pain relief than unilateral** ([[asge-2024-chronic-pancreatitis-endoscopy]]).
 - **Percutaneous comparator:** performed under fluoroscopic or CT guidance ([[asge-2024-chronic-pancreatitis-endoscopy]]).
 - EUS may outperform the percutaneous route in CP because of **better localization and targeting of the plexus** ([[asge-2024-chronic-pancreatitis-endoscopy]]).
-- Needle caliber, alcohol volume, and the monitoring interval above are given for neurolysis; no ingested guideline specifies an equivalent needle size or injectate volume for the block.
+- Needle caliber, alcohol volume, fluids and the monitoring interval above are given for neurolysis only; none of these guidelines specifies a needle size or injectate volume for the block.
 
 ## Outcomes
 
@@ -149,7 +153,7 @@ Who the block is for (ASGE 2024 general concepts + panel discussion):
 - **Pancreatic cancer** — systematic review of 16 studies, 867 patients ([[asge-2024-solid-pancreatic-masses]]): **spinal cord infarction with paralysis 0.2%**, transient diarrhea 9%, pain exacerbation 8%, hypotension 6%. Add the AEs inherent to an invasive procedure — [[endoscopy-sedation|sedation]] events and bleeding from needle puncture.
 - **Reported major AEs of CPN** ([[asge-2016-solid-pancreatic-neoplasia]]): reversible and permanent paralysis, organ puncture, gastric necrosis.
 - Procedural risks of the block itself include bleeding and allergic reaction, plus the risks of and need for sedation ([[acg-2020-chronic-pancreatitis]]).
-- ⚠ Active alcohol consumption is a relative contraindication to elective interventional procedures in CP — see [[chronic-pancreatitis]].
+- ⚠ Elective celiac plexus procedures should be performed with caution in patients actively consuming alcohol ([[acg-2020-chronic-pancreatitis]]).
 
 ## See Also
 
