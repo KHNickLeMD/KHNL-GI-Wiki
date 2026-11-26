@@ -23,7 +23,7 @@ raw: "GI Guidelines/ACG/ACG CAG 2022 Management of Anticoagulants and Antiplatel
 
 ## Summary
 
-This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute gastrointestinal (GI) bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 18 statements: 13 conditional recommendations (all very low certainty except Statement 12, low) and 5 where the panel could not reach a recommendation (2, 14B, 16, 17, 18).
+This joint ACG/CAG guideline addresses two clinical contexts: (1) management of antithrombotic drugs in patients with acute gastrointestinal (GI) bleeding, and (2) periendoscopic management in patients undergoing elective endoscopic procedures. The guideline uses the GRADE methodology and yields 19 statements (numbered 1–18, with 14A/14B): 14 conditional recommendations (all very low certainty except Statement 12, low) and 5 where the panel could not reach a recommendation (2, 14B, 16, 17, 18).
 
 **Acute GI Bleeding (Statements 1–10):**
 
@@ -36,7 +36,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Elective Periendoscopic Period (Statements 11–18):**
 
-- Continue warfarin rather than temporarily interrupt (1–7 days) for elective/planned procedures (Statement 11); if interrupted, no bridging except in mechanical heart valve patients (Statement 12)
+- Continue warfarin rather than temporarily interrupt (1–7 days) for elective/planned procedures (Statement 11); if held, no bridging (Statement 12; the abstract adds "unless the patient has a mechanical heart valve")
 - Temporarily interrupt DOACs rather than continue (Statement 13); typical interruption ~1–2 days pre-procedure
 - Interrupt P2Y12 inhibitor while continuing ASA in dual antiplatelet therapy (DAPT) patients (Statement 14A); no recommendation for single-agent P2Y12 inhibitor monotherapy (Statement 14B)
 - Continue ASA monotherapy (secondary prevention) for elective procedures (Statement 15)
@@ -49,7 +49,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 **Vitamin K antagonist (VKA; warfarin):**
 
 - FFP fails to reliably normalize international normalized ratio (INR) (range 1.6–3.8 in one cohort); associated with fluid overload and possible thrombotic risk
-- PCC (4-factor) achieves rapid INR correction (relative risk [RR] for rapid correction vs FFP: 6.99, 95% confidence interval [CI] 3.61–13.53); preferred over FFP if reversal is needed
+- PCC (panel treated 3- and 4-factor PCC as equivalent) achieves rapid INR correction (relative risk [RR] for rapid correction vs FFP: 6.99, 95% confidence interval [CI] 3.61–13.53); preferred over FFP if reversal is needed
 - Vitamin K takes 24–48 hours to work and is not useful for acute hemostasis; may be considered only if intent is prolonged reversal or cessation of VKA
 - Caveats: PCC or FFP can be considered in life-threatening GI hemorrhage, supratherapeutic INR substantially above range, or when massive transfusion is undesirable
 
@@ -128,14 +128,14 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 | **Acute GI Bleeding — DOAC Reversal** | | |
 | Do not use idarucizumab for dabigatran-related GI bleeding (routine use) | Conditional | Very Low |
 | Do not use andexanet alfa for rivaroxaban/apixaban-related GI bleeding (routine use) | Conditional | Very Low |
-| Do not use 4-factor PCC for DOAC-related GI bleeding (routine use) | Conditional | Very Low |
+| Suggest against PCC administration for DOAC-related GI bleeding | Conditional | Very Low |
 | **Acute GI Bleeding — Antiplatelet Management** | | |
 | Do not transfuse platelets for antiplatelet-related GI bleeding | Conditional | Very Low |
 | Do not hold cardiac ASA (secondary prevention) during GI bleeding | Conditional | Very Low |
 | If ASA is held, resume on the day hemostasis is endoscopically confirmed | Conditional | Very Low |
 | **Periendoscopic — Warfarin** | | |
 | Continue warfarin rather than temporarily interrupt (1–7 days) for elective/planned endoscopic procedures | Conditional | Very Low |
-| If warfarin interrupted: no bridging except in mechanical heart valve patients | Conditional | Low |
+| If warfarin held: suggest against bridging anticoagulation (abstract adds: unless mechanical heart valve) | Conditional | Low |
 | **Periendoscopic — DOAC** | | |
 | Temporarily interrupt DOACs rather than continue for elective endoscopic procedures | Conditional | Very Low |
 | **Periendoscopic — Antiplatelet** | | |
@@ -156,7 +156,7 @@ This is the primary evidence-based reference for anticoagulation management in G
 
 ## Contradictions / Open Questions
 
-- No strong recommendations: 13 conditional (Statement 12 low certainty, the rest very low); 5 could not reach a recommendation
+- No strong recommendations: 14 conditional (Statement 12 low certainty, the rest very low); 5 could not reach a recommendation
 - No recommendation achievable for PCC vs. placebo in warfarin-related GI bleeding (insufficient comparator data)
 - No recommendation on optimal timing of resumption for warfarin, DOACs, or P2Y12 inhibitors after elective endoscopy — this is a major clinical gap
 - No recommendation for or against P2Y12 inhibitor monotherapy interruption before elective endoscopy

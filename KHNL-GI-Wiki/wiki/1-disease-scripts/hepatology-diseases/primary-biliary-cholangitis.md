@@ -5,6 +5,8 @@ tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase,
 created: 2026-05-19
 updated: 2026-11-26
 sources: [aasld-aga-2026-pbc, easl-aasld-2026-pbc-surrogate-endpoints, acg-2026-preventive-care-cirrhosis, aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension, gerussi-2026-pbc-aih-delphi, easl-2025-autoimmune-hepatitis]
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 ---
 
 ## Contents
@@ -85,7 +87,7 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in AMA-positive PBC — not incidental antinuclear antibody (ANA) positivity with mild interface hepatitis, which is common in PBC. Worse outcomes than classic PBC (portal hypertension complications, death, LT) ([[aasld-2018-pbc]]). Paris criteria (and how AASLD 2018 vs 2020 state them), AIH-side workup and regimens: [[autoimmune-hepatitis#Overlap / Variant Syndromes]].
 
 **US guidance** ([[aasld-2018-pbc]]; [[aasld-2020-autoimmune-hepatitis]]):
-- PBC with **alanine aminotransferase (ALT) >5× ULN → biopsy** for concomitant AIH (2018 Guidance Statement 3).
+- PBC with **alanine aminotransferase (ALT) >5× ULN → consider biopsy** to rule out concomitant AIH or other liver disease (2018 Guidance Statement 3).
 - Paris criteria **aid** diagnosis but may miss less cholestatic cases; **do not use the revised or simplified International Autoimmune Hepatitis Group (IAIHG) scores** for overlap (2020).
 - AMA alone in AIH is insufficient — tissue required (AMA in 8–12% of AIH without duct injury; these do not evolve into PBC) (2020).
 - **Treat the predominant histological pattern** (2018 Guidance Statement 4); **consider adding UDCA to prednisone or prednisolone + azathioprine** (2020). No randomized controlled data (2018).
@@ -99,7 +101,7 @@ Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in AMA-positive
 - Conflict: [[easl-2025-autoimmune-hepatitis]] (non-US) starts immunosuppression at **moderate** hepatitis (UDCA alone for mild). Neither is a US recommendation.
 
 > [!pearl] Second-line PBC drugs lower transaminases too
-> Peroxisome proliferator–activated receptor (PPAR) and farnesoid X receptor (FXR) agonists reduce transaminases along with cholestatic markers. The Delphi authors suggest considering optimising anti-cholestatic therapy before immunosuppression in appropriate patients and rechecking liver tests after 6–12 months or sooner (discussion text, not a voted statement; [[gerussi-2026-pbc-aih-delphi]]).
+> Peroxisome proliferator–activated receptor (PPAR) and farnesoid X receptor (FXR) agonists reduce transaminases along with cholestatic markers. The Delphi authors suggest considering optimising anti-cholestatic therapy before immunosuppression in appropriate patients; since UDCA itself can lower ALT/AST, rechecking liver tests 6–12 months (or earlier) after starting it helps separate PBC from PBC–AIH (discussion text, not a voted statement; [[gerussi-2026-pbc-aih-delphi]]).
 
 ---
 
@@ -121,7 +123,7 @@ Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in AMA-positive
 
 ### Laboratory Tests
 
-- **ALP:** elevated in virtually all; diagnostic and monitoring marker. **GGT** confirms hepatic origin.
+- **ALP:** elevated in most; diagnostic and monitoring marker. **GGT** confirms hepatic origin.
 - **ALT/AST:** mildly elevated; markedly raised ALT → [[#PBC-AIH Variant]].
 - **Bilirubin:** may be normal early; a rise signals progression (ductopenia, biliary piecemeal necrosis).
 - **Immunoglobulin M (IgM):** typically elevated; raised IgG and aminotransferases mainly reflect periportal and lobular necrosis and inflammation.
@@ -138,13 +140,13 @@ Simultaneous [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]] in AMA-positive
 
 ### Imaging
 
-- **Ultrasound** — first-line and mandatory: excludes biliary obstruction; assesses cirrhosis/portal hypertension.
+- **Expert noninvasive imaging of the liver and biliary tree** — mandatory in all patients with biochemical cholestasis.
 - **MRCP or cholangiography** — diagnosis uncertain; excludes PSC and other biliary disease.
 - **Transient elastography** — staging and risk stratification ([[#Severity Assessment]]); stable in noncirrhotic PBC on UDCA, rises significantly once cirrhosis is present.
 
 ### Liver Biopsy
 
-- **Indicated when:** AMA-negative *and* sp100/gp210 absent (should show bile duct destruction — ideally a florid duct lesion and/or granulomas) · ALT >5× ULN ([[#PBC-AIH Variant]]) · steatohepatitis suspected behind a suboptimal treatment response. **Not** a tool for monitoring treatment response.
+- **Indicated when:** AMA-negative *and* sp100/gp210 absent (should show bile duct destruction — ideally a florid duct lesion and/or granulomas) · ALT >5× ULN — consider ([[#PBC-AIH Variant]]) · occasionally, to exclude other concomitant disease such as AIH or nonalcoholic steatohepatitis. **Not** a tool for monitoring treatment response.
 - **Histology:** nonsuppurative destructive cholangitis; florid duct lesion; epithelioid granulomas early; biliary-type fibrosis, cholestatic rosettes, feathery degeneration late. **Ductopenia** = fewer than 50% of portal tracts containing bile ducts. Adequate sample: 10–15 portal tracts, multiple sections.
 - **Ludwig stages:** I — portal inflammation ± florid duct lesion, confined to portal triads · II — interface hepatitis, periportal extension, ductular proliferation · III — architectural distortion, numerous fibrous septa · IV — cirrhosis with regenerative nodules.
 
@@ -303,7 +305,7 @@ HCC risk modestly raised (3.9 per 1,000 person-years); highest in men, advanced 
 
 ### Screening First-Degree Relatives
 
-Risk raised in first-degree relatives (FDRs), especially sisters, mothers and daughters. Screening is usually recommended for female FDRs from **age 30**: ALP, then AMA if ALP elevated; AMA-negative → repeat at 5-year intervals. Value not firmly established.
+Risk raised in first-degree relatives (FDRs), especially sisters and daughters. Screening is usually recommended for female FDRs from **age 30**: ALP, then AMA if ALP elevated; AMA-negative → repeat at 5-year intervals. Value not firmly established.
 
 ### Monitoring Schedule
 

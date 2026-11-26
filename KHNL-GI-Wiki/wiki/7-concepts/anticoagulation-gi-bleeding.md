@@ -5,6 +5,8 @@ tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfar
 created: 2026-05-15
 updated: 2026-11-26
 sources: [asge-acg-2024-common-endoscopy-quality-indicators, acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 ---
 
 ## Contents
@@ -28,11 +30,9 @@ sources: [asge-acg-2024-common-endoscopy-quality-indicators, acg-cag-2022-antico
 ## Overview
 
 - **Drugs covered:** vitamin K antagonists (VKAs; warfarin), direct oral anticoagulants (DOACs; apixaban, dabigatran, edoxaban, rivaroxaban), antiplatelets (acetylsalicylic acid [ASA, aspirin]; P2Y12 receptor inhibitors clopidogrel, prasugrel, ticagrelor) ([[acg-cag-2022-anticoag-gi-bleeding]])
-- **Two settings, two questions:**
-  - Acute gastrointestinal (GI) bleeding → reverse or hold the drug?
-  - Elective endoscopy → interrupt, bridge, when to resume?
-- **Governing guideline:** 2022 American College of Gastroenterology (ACG)/Canadian Association of Gastroenterology (CAG). Every recommendation is conditional — very low certainty except Statement 12 (low); Statements 2, 14B, 16, 17 and 18 reached no recommendation.
-- **Older American Society for Gastrointestinal Endoscopy (ASGE) 2016 guideline** adds drug hold intervals and reversal options; where it differs, ACG/CAG 2022 governs and the difference is flagged inline ([[asge-2016-antithrombotic]]).
+- **Two settings:** acute gastrointestinal (GI) bleeding (reverse or hold?) and elective endoscopy (interrupt, bridge, resume?).
+- **Governing guideline:** 2022 American College of Gastroenterology (ACG)/Canadian Association of Gastroenterology (CAG) — every recommendation conditional, very low certainty except Statement 12 (low); Statements 2, 14B, 16, 17 and 18 reached no recommendation.
+- **American Society for Gastrointestinal Endoscopy (ASGE) 2016** adds hold intervals and reversal options; where it differs, ACG/CAG 2022 governs and the difference is flagged inline ([[asge-2016-antithrombotic]]).
 
 ---
 
@@ -45,8 +45,8 @@ sources: [asge-acg-2024-common-endoscopy-quality-indicators, acg-cag-2022-antico
 
 | Intervention | ACG/CAG 2022 stance | When it can still be considered |
 |---|---|---|
-| Fresh frozen plasma (FFP) | Suggest **against** (Statement 1; conditional, very low) | Life-threatening bleed; supratherapeutic international normalized ratio (INR) far above range; massive transfusion undesirable (coagulopathy, dilution) **when PCC is unavailable** |
-| Prothrombin complex concentrate (PCC) vs none | **No recommendation** (Statement 2) | Not needed for most warfarin GI bleeds; consider in life-threatening bleed, INR far above range, or massive transfusion undesirable |
+| Fresh frozen plasma (FFP) | Suggest **against** (Statement 1; conditional, very low) | Life-threatening bleed; supratherapeutic international normalized ratio (INR) far above range; massive transfusion undesirable (coagulopathy, dilution) **when prothrombin complex concentrate (PCC) is unavailable** |
+| PCC vs none | **No recommendation** (Statement 2) | Not needed for most warfarin GI bleeds; consider in life-threatening bleed, INR far above range, or massive transfusion undesirable |
 | PCC vs FFP | Suggest **PCC** (Statement 3; conditional, very low) | 3-factor and 4-factor PCC treated as equivalent |
 | Vitamin K | Suggest **against** (Statement 4; conditional, very low) | Supratherapeutic INR when the aim is reversal over 2–4 weeks or stopping the VKA — decide with hematology, cardiology or the anticoagulation prescriber |
 
@@ -77,7 +77,7 @@ sources: [asge-acg-2024-common-endoscopy-quality-indicators, acg-cag-2022-antico
   - ASA, clopidogrel and prasugrel block platelets irreversibly for the 7–10-day platelet life span; ticagrelor is reversible, 3–5 days.
 - **Cardiac ASA for secondary prevention:** suggest **against holding** it (Statement 9; conditional, very low).
 - **If ASA was held:** resume on the day hemostasis is endoscopically confirmed (Statement 10; conditional, very low) — text: within 24 h of successful endoscopic hemostasis.
-  - Why: randomized controlled trial (RCT) of 156 high-risk ulcer bleeds after endoscopic therapy — continued ASA vs 8 weeks placebo: 30-day rebleeding 10.3% vs 5.4% (not significant); 8-week mortality 1.3% vs 10.3%, lower with ASA.
+  - Why: in a randomized controlled trial (RCT) of 156 high-risk ulcer bleeds, continued ASA vs 8 weeks of placebo gave 8-week mortality 1.3% vs 10.3%, with no significant rise in 30-day rebleeding.
   - Statements 9–10 do **not** apply to primary-prevention ASA.
 - **ASGE 2016 (urgent setting):** consult the prescribing specialist before stopping antiplatelet agents (APAs) in significant GI bleeding with a drug-eluting stent (DES) <1 y, bare-metal stent (BMS) <30 days, or acute coronary syndrome (ACS) <90 days (Rec B1). Its Rec B2 (hold APAs after cardiology discussion in life-threatening or serious bleeding) and Table 2 ("can give platelets") differ from ACG/CAG Statements 8–9, which govern ([[asge-2016-antithrombotic]]).
 
@@ -111,9 +111,9 @@ flowchart TD
     E -- "No (Statement 11)" --> F(["Continue warfarin"])
     E -- "Yes (Statement 11 conclusions; Statement 12)" --> G(["Hold 5 days, no bridging heparin"])
     D -- "DOAC (Statement 13)" --> H(["Interrupt 1–2 days before, excluding procedure day"])
-    D -- "DAPT (Statement 14A)" --> I(["Hold P2Y12 inhibitor, continue aspirin"])
+    D -- "DAPT for secondary prevention (Statement 14A)" --> I(["Hold P2Y12 inhibitor, continue aspirin"])
     D -- "P2Y12 inhibitor alone (Statement 14B)" --> J(["No recommendation"])
-    D -- "Aspirin 81–325 mg/d alone (Statement 15)" --> K(["Continue aspirin"])
+    D -- "Aspirin 81–325 mg/d alone, secondary prevention (Statement 15)" --> K(["Continue aspirin"])
     class A start
     class B,D,E test
     class F,G,H,I,K act
@@ -180,21 +180,21 @@ flowchart TD
 - **Statement 11** (conditional, very low): elective/planned procedures → **continue** warfarin rather than temporarily interrupt (1–7 days). No thrombotic- or bleeding-risk qualifier in the statement itself.
 - **Operational conclusion:** continue **unless an advanced endoscopic procedure** (high-risk column above) → **5 days of interruption without bridging heparin**.
 - Evidence: pooled continuous-warfarin arms of 5 studies — 0/239 bleeding events (95% CI 0%–12.5%); no studies of advanced procedures ([[acg-cag-2022-anticoag-gi-bleeding]]).
-- ASGE 2016 agrees: continue warfarin for low-risk procedures (Rec A3); stop for the drug-specific interval before high-risk procedures in low-thromboembolic-risk patients (Rec A2). INR falls to ≤1.5 in ~93% within 5 days of stopping ([[asge-2016-antithrombotic]]).
+- ASGE 2016 is consistent (continue for low-risk procedures, Rec A3; stop before high-risk ones in low-thromboembolic-risk patients, Rec A2); INR falls to ≤1.5 in ~93% within 5 days of stopping ([[asge-2016-antithrombotic]]).
 
 ### Bridging Therapy — When Indicated vs. Not
 
 - **Bridging** = typically subcutaneous full-dose low-molecular-weight heparin (LMWH) for 3 days before and 3–5 days after the procedure.
 - **Statement 12** (conditional, **low** certainty — the only periendoscopic statement not very low): warfarin held for an elective procedure → suggest **against** bridging. The guideline abstract words it "unless the patient has a mechanical heart valve".
 - **May be appropriate (Conclusions):** mechanical valves · AF with CHADS2 >5 · prior thromboembolism during temporary VKA interruption · certain surgery (cardiac valve replacement, carotid endarterectomy, major vascular surgery). Consult a cardiologist and hematologist in these patients.
-- **Evidence:** BRIDGE RCT (1,813 AF patients; 758 GI procedures, 98.7% minor/low bleeding risk; mechanical valves excluded) — no bridging noninferior for arterial thromboembolism (0.4% vs 0.3%), less major bleeding (1.3% vs 3.2%, P = 0.005). A second RCT (1,471 patients, incl. 304 with mechanical valves) showed similar results ([[acg-cag-2022-anticoag-gi-bleeding]]).
+- **Evidence:** BRIDGE RCT (1,813 AF patients, mechanical valves excluded) — no bridging noninferior for arterial thromboembolism (0.4% vs 0.3%), less major bleeding (1.3% vs 3.2%, P = 0.005); a second RCT including 304 mechanical-valve patients agreed ([[acg-cag-2022-anticoag-gi-bleeding]]).
 - **ASGE 2016 differs:** suggests bridging for high-thromboembolic-risk patients undergoing high-risk procedures (Rec A4); individualize in moderate risk (Table 13). Superseded by Statement 12 ([[asge-2016-antithrombotic]]).
 
 ### DOAC Periendoscopic Management
 
 - **Statement 13** (conditional, very low): **interrupt** DOACs rather than continue for elective procedures.
 - **Duration:** 1–2 days before, excluding the procedure day (Conclusions). Renal impairment → longer; interval by creatinine clearance in [[#DOAC Hold Intervals by Creatinine Clearance (ASGE Tables 6–9)]].
-- **PAUSE GI subgroup** (556 procedures, mostly colonoscopy, gastroscopy, flexible sigmoidoscopy): pre-procedure hold 2.0 ± 0.5 days (day before + day of in 91.7%); only 8.1% held >2 days before; 30-day GI bleeding 2.5%, thromboembolism 0.7%, mortality 0.5%. No continue-DOAC comparator ([[acg-cag-2022-anticoag-gi-bleeding]]).
+- **PAUSE GI subgroup** (556 procedures, mostly colonoscopy, gastroscopy or sigmoidoscopy ± biopsy or polypectomy): hold was the day before + day of in 91.7%, >2 days before in only 8.1%; 30-day GI bleeding 2.5%, thromboembolism 0.7%; no continue-DOAC comparator ([[acg-cag-2022-anticoag-gi-bleeding]]).
 
 ### Antiplatelet Periendoscopic Management
 
@@ -208,8 +208,7 @@ flowchart TD
 *ACG/CAG 2022 ([[acg-cag-2022-anticoag-gi-bleeding]])*
 
 - **Statement 15 exception:** larger, complex polyps and the highest-risk procedures (e.g., ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) → interruption of secondary-prevention ASA can be considered, weighing cardiovascular risk and patient preference.
-- DAPT evidence: RCT of 387 — clopidogrel held 7 days: similar polypectomy bleeding; nonsignificant trend to fewer cardiothromboembolic events (1.3% vs 2.7%).
-- **ASGE 2016 hold intervals** before high-risk procedures: clopidogrel/prasugrel ≥5–7 days, ticagrelor 3–5 days (Recs A3, A5); continue thienopyridines for low-risk procedures (Rec A2). Table 13 footnote: there is evidence to hold APAs for ESD and EMR in low-thromboembolic-risk patients ([[asge-2016-antithrombotic]]).
+- **ASGE 2016:** before high-risk procedures hold thienopyridines ≥5–7 days (ticagrelor 3–5 days) (Recs A3, A5); continue them for low-risk procedures (Rec A2); Table 13 footnote — there is evidence to hold APAs for ESD and EMR in low-thromboembolic-risk patients ([[asge-2016-antithrombotic]]).
 
 > [!pitfall] Aspirin gets stopped when it should not be
 > Almost all endoscopic procedures can be done on 81–325 mg of daily aspirin; aspirin is frequently stopped inappropriately, and education reduces it. Cold snare resection of small polyps on clopidogrel may not require cessation ([[asge-acg-2024-common-endoscopy-quality-indicators]]).
@@ -219,8 +218,8 @@ flowchart TD
 - **No recommendation** on same-day vs 1–7-day resumption for warfarin (Statement 16), DOACs (Statement 17) or P2Y12 inhibitors (Statement 18).
 - **Decide on:** adequate hemostasis at the procedure · delayed-bleeding risk of the procedure · thrombosis risk · patient preference — with a cardiologist and hematologist; for DOACs also their rapid onset (Statements 16–17 conclusions).
 - **Patient values:** patients weigh stroke prevention above GI bleeding unless they have had a GI bleed; of those, 87% rank rebleeding risk first ([[acg-cag-2022-anticoag-gi-bleeding]]).
-- DOAC timing data: cohort of 529 — resumed day 0–3 vs after day 3, bleeding 2.3% vs 11.5% (RR 0.20, 95% CI 0.08–0.52); LMWH bridging in 18 high-risk patients may have inflated late-resumption bleeding. PAUSE resumed at 1.9 ± 1.5 days.
-- **ASGE 2016 (older):** restart warfarin the same day if no ongoing bleeding (Rec A5); after high-risk procedures delay DOAC restart until hemostasis is ensured, and if therapeutic dosing cannot restart within 12–24 h in a high-thromboembolic-risk patient, consider an unfractionated heparin (UFH) bridge (Rec A6) ([[asge-2016-antithrombotic]]). ACG/CAG 2022 excluded the studies behind same-day warfarin restart (no valid comparator).
+- DOAC timing data: one cohort (529) — restart day 0–3 vs after day 3, bleeding 2.3% vs 11.5%, confounded by LMWH bridging in the late group.
+- **ASGE 2016 (older):** restart warfarin the same day if no ongoing bleeding (Rec A5 — ACG/CAG excluded its supporting studies for lacking a valid comparator); after high-risk procedures delay DOAC restart until hemostasis is ensured, and if therapeutic dosing cannot restart within 12–24 h in a high-thromboembolic-risk patient, consider an unfractionated heparin (UFH) bridge (Rec A6) ([[asge-2016-antithrombotic]]).
 - **ASGE/ACG 2024:** after most nontherapeutic procedures, resume immediately; after high-bleeding-risk interventions, individualize by therapy type and thromboembolic risk ([[asge-acg-2024-common-endoscopy-quality-indicators]]).
 
 ### Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)

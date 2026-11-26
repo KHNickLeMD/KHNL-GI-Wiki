@@ -115,7 +115,7 @@ Three things make it more decision-usable than its predecessor: it **puts number
 | Cholangitis | **2.7%** (1.9–4.0) |
 | Papillary stenosis (long-term) | **2.4%** (1.6–3.4) |
 | **Mortality** | **0.3%** |
-| **Recurrence** | **11.8%** (8.4–16.5) — from a separate literature review (23 studies, 1,130 patients, follow-up 9.6–84.5 mo) |
+| **Recurrence** | **11.8%** (8.4–16.5) — Table 3: 157/1,331; text gives this review's recurrence data as 23 studies, 1,130 patients, follow-up 9.6–84.5 mo |
 
 - ⚠ **En bloc resection was the *only* factor affecting curative resection** — odds ratio (OR) 3.55 (95% CI 1.11–5.99, *P* = 0.004); in one of the largest retrospective series it also predicted complete resection (OR 4.05, 1.71–9.59, *P* < 0.001).
 - **Size band:** en bloc resection may be technically feasible up to 3 cm and surgery is indicated >4 cm; tumors **3–4 cm → case by case**.

@@ -3,20 +3,23 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-11-16
+updated: 2026-11-26
 sources: [aga-2026-ampullary-neoplasms, acg-2026-adenomatous-polyposis, esge-2021-ampullary-tumors, asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
+quality_reviewed: 2026-11-26
+verified: 2026-11-26
 ---
 
 # Ampullary & Duodenal Adenoma
 
-Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **nonampullary duodenum** are premalignant lesions that follow an adenoma–carcinoma sequence. Both occur sporadically or in polyposis syndromes ([[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]). Endoscopic resection is a viable alternative to surgery in selected cases.
+Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **nonampullary duodenum** are premalignant; both occur sporadically or in genetic syndromes — ampullary adenomas in [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]]; nonampullary duodenal polyps also in [[peutz-jeghers-syndrome|Peutz-Jeghers]]. Endoscopic resection is a viable alternative to surgery in selected cases ([[asge-2015-ampullary-duodenal-adenomas]]).
+
+*[[aga-2026-ampullary-neoplasms|AGA 2026]] Best Practice Advice (BPA) 1–15 are ungraded. [[esge-2021-ampullary-tumors|ESGE 2021]] (European) fills gaps; differences from US guidance are stated.*
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
-    - [[#What decides endoscopy versus surgery — the thresholds with their numbers]]
-    - [[#Staging]]
+    - [[#Endoscopy or surgery]]
     - [[#Diagnostic and therapeutic algorithm]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
@@ -34,104 +37,89 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 
 ### Establishing the Diagnosis
 
-- **Ampullary adenoma** = adenoma of the major duodenal papilla; **[[nonampullary-duodenal-adenoma|nonampullary duodenal adenoma]]** = duodenal polyp not involving the papilla.
-- Both may be **sporadic** or syndromic ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]); endoscopic screening/surveillance of FAP has increased recognition of ampullary adenomas.
-- **Side-viewing duodenoscope** generally required to visualize the papilla — adenomatous change may not be apparent by forward-view inspection alone.
-- **Cap-assisted esophagogastroduodenoscopy** when the papilla cannot be seen on forward-viewing endoscopy. ([[esge-2021-ampullary-tumors]])
-- ⚠ **20%–40% of ampullary adenomas already harbor malignancy** — which is why **at least 6 biopsies** are taken, **especially from ulcerated or indurated areas** ([[aga-2026-ampullary-neoplasms|AGA 2026]] BPA 1–2). A standard forward-viewing gastroscope gives limited ampullary visualization and biopsy access; the duodenoscope also allows more careful sampling **away from the pancreatic orifice**, minimizing postprocedure pancreatitis risk. Ampullary cancer 5-year survival runs **20%–75%** by stage, so the sampling is what buys the early diagnosis.
-- **Biopsy is required** before attempted resection to confirm adenoma and exclude cancer. **Papillectomy — diagnostic or therapeutic — is not performed until adenoma is proven** (strong recommendation). Low grade dysplasia (LGD) on biopsy also needs **histological confirmation before any treatment is started**. ([[esge-2021-ampullary-tumors]])
-  - Sample **away from the pancreatic duct orifice** (post-biopsy [[acute-pancreatitis|pancreatitis]] reported).
-  - Orient forceps **parallel to folds** to limit submucosal fibrosis (preserves later resectability).
-- ⚠ **A single biopsy misleads often enough to change practice:** accuracy **38.3%–85%**, **underestimation up to 30%**, overestimation **21% when the initial read is LGD**. **Repeating the biopsies improves the diagnosis by 14%.** ([[esge-2021-ampullary-tumors]])
-
-> [!pitfall] Do not biopsy just after a sphincterotomy
-> Post-sphincterotomy cytoarchitectural atypia drives sensitivity down to **21%–37%**, and overall accuracy from **81.25% to 56.25%**. **Wait at least 10 days** after sphincterotomy before sampling — and if [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy (**sensitivity 82.4%, specificity 100%, accuracy 88.8%**) is going to be done for a suspected invasive cancer, **do it before the sphincterotomy, not after**. ([[esge-2021-ampullary-tumors]])
-
-- **When the first histology is negative, the next step depends on whether the papilla is obstructing:** ([[esge-2021-ampullary-tumors]])
-  - **Enlarged papilla, no clinical or biochemical signs** → follow up with **EUS, side-viewing endoscopy and repeated biopsies** (strong).
-  - **Obstructive ampullary tumor suspected** → **EUS-FNA/B first, then limited sphincterotomy with repeated biopsies** (strong).
-- For nonampullary lesions, **first confirm the polyp does not involve the major papilla** (side-viewing scope or endoscopic ultrasound [EUS]) — if it does, manage ducts as for an ampullary lesion.
+- **Scope: side-viewing duodenoscope** — a forward-viewing gastroscope gives limited ampullary view and biopsy access; the duodenoscope lets you biopsy **away from the pancreatic orifice** (postprocedure pancreatitis) (AGA 2026 BPA 1).
+  - Papilla not seen on forward view → cap-assisted esophagogastroduodenoscopy (EGD) can aid inspection, but the duodenoscope stays preferred ([[aga-2026-ampullary-neoplasms|AGA 2026]]; [[esge-2021-ampullary-tumors|ESGE]] weak, moderate).
+- **≥6 biopsies, especially from ulcerated or indurated areas** — **20%–40% of ampullary adenomas harbor malignancy** (BPA 2). Ampullary cancer 5-year survival **20%–75%** by stage.
+- **Biopsy before any attempted resection** to confirm adenoma and exclude cancer ([[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] Recommendation 1, moderate quality). [[esge-2021-ampullary-tumors|ESGE]] adds: no diagnostic or therapeutic papillectomy until adenoma is proven (strong, low); confirm a low grade dysplasia (LGD) biopsy histologically before any treatment (strong, low).
+  - Orient forceps **parallel to the folds** — biopsy of flat lesions spanning >1 fold can cause submucosal fibrosis that impedes later resection (ASGE 2015).
+- **A benign biopsy does not clear the lesion:** false-negative for carcinoma in **16%–60%** (ASGE 2015); accuracy **38.3%–85%**, underestimation up to **30%**, overestimation **21%** when the first read is LGD; repeat histology improves diagnosis by **14%** (ESGE 2021).
+- **Biopsy timing around a sphincterotomy — the guidelines disagree:**
+  - ASGE 2015 (US, governs): false negatives are minimized by sampling **within 10 days after sphincterotomy**, or by taking **≥6 specimens**.
+  - ESGE 2021: post-sphincterotomy atypia drops sensitivity to **21%–37%** (accuracy **56.25% vs 81.25%**); further sampling **at least 10 days after** sphincterotomy "can be useful" (narrative, ungraded).
+  - Suspected invasive cancer → [[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]-guided fine-needle aspiration/biopsy (FNA/B) "might be another option"; if considered, do it **before** sphincterotomy (sensitivity **82.4%**, specificity **100%**) ([[esge-2021-ampullary-tumors|ESGE 2021]]).
+- **First histology negative** (ESGE 2021):
+  - Enlarged papilla, no clinical or biochemical signs → follow up with **EUS, side-viewing endoscopy and repeat biopsies** (strong, low).
+  - Obstructive ampullary tumor suspected → **EUS-FNA/B first, then limited sphincterotomy with repeat biopsies** (strong, low).
 
 ### Severity Assessment
 
-- **Endoscopic/EUS features suggesting malignancy** (consider surgery even if biopsy benign):
-  - Firmness, ulceration, friability
-  - **Non-lifting** of the periampullary component with submucosal injection (failure to lift = strongest predictor of malignancy in one study)
-  - Intraductal extension; regional adenopathy
-- **Size thresholds:**
-  - Many authors avoid endoscopic resection of ampullary lesions **≥4 cm** (though larger successful resections reported).
-  - Duodenal lesions with **>33% luminal circumference** involvement → consider surgery.
-- High-grade dysplasia warrants therapy to prevent progression and to exclude missed cancer.
+- **Concerning features, even with benign biopsies** — weigh surgery:
+  - Endoscopic: **firmness, ulceration, friability, non-lifting** of the periampullary component (ASGE 2015); lesions **>4 cm that are friable, ulcerated or fixed**; **irregular or nonstructured villi** on narrow-band imaging (NBI) — sample them (benign adenoma = pinecone/leaf-shaped villi) (AGA 2026).
+  - Clinical/imaging: **notable weight loss and jaundice**; **substantial ductal dilation with an abrupt cutoff at the ampulla** (AGA 2026).
+- **High-grade dysplasia (HGD)** usually warrants therapy — to prevent progression and exclude missed cancer (ASGE 2015).
 
-#### What decides endoscopy versus surgery — the thresholds with their numbers
+#### Endoscopy or surgery
 
-**The four features that favour endoscopic papillectomy** ([[aga-2026-ampullary-neoplasms|AGA 2026]] Best Practice Advice [BPA] 4 — *ungraded; the document assigns no evidence quality or strength*): **well-defined margins · size less than 4–5 cm · nonfriable · soft to endoscopic probing · intraductal extension limited to 1 cm or less**.
+**Favor endoscopic papillectomy** (AGA 2026 BPA 4): **well-defined margins · size <4–5 cm · nonfriable · soft to probing · intraductal extension ≤1 cm**.
 
-**Contraindications to endoscopic papillectomy** (AGA 2026 BPA 6):
-
-| Definitive | Relative / warrants further consideration |
+| Definitive contraindications (BPA 6) | Relative contraindications (BPA 6) |
 |---|---|
-| Metastatic spread | Lesions **over 5 cm** |
-| Invasive cancer extending **beyond the mucosal layer** | **Early-stage/T1 cancers** |
-| **>1 cm intraductal extension in a surgically fit patient** | Concerns about **limited follow-up adherence**; inadequate pancreaticobiliary expertise |
+| Metastatic spread | Lesion **over 5 cm** |
+| Invasive cancer **beyond the mucosal layer** | **Early-stage/T1 cancer** |
+| **>1 cm intraductal extension in a surgically fit patient** | Concern about **limited follow-up adherence** |
 
-*Grades below are [[esge-2021-ampullary-tumors|ESGE 2021]]'s, which supplies the cut-points [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] leaves as "many authors avoid".*
+- AGA's narrative also lists **inadequate pancreaticobiliary endoscopy expertise** among factors warranting further consideration.
+- **Intraductal extension (BPA 5):** **>1 cm** → suggest surgical consultation; **<1 cm** → may be treated endoscopically **with close surveillance**. Measured by EUS (BPA 3), with magnetic resonance cholangiopancreatography (MRCP) as adjunct.
+- **Robust evidence-based criteria are not established** — individualize on lesion, clinical status, preference and local expertise (AGA 2026).
 
-| Finding | Decision | Grade |
+> [!pitfall] Intraductal extension: 1 cm (AGA), not 20 mm (ESGE)
+> AGA 2026 sends **>1 cm** intraductal extension in a surgically fit patient to surgery. ESGE 2021 allows **≤20 mm** in expert centres — papillectomy **plus** complementary cystotome thermal ablation or radiofrequency ablation (RFA) with temporary biliary stenting (weak, low) — and surgery for **>20 mm**. AGA records the ESGE threshold; the US 1 cm rule governs.
+
+- **Size is unsettled.** AGA: <4–5 cm favors endoscopy; >5 cm relative contraindication. ESGE: en bloc feasible to ~3 cm, surgery **>4 cm**, **3–4 cm case by case**.
+
+**Gap-filling ESGE 2021 rules** (no US statement covers these):
+
+| Finding | Management | Grade |
 |---|---|---|
-| **Ampullary adenoma, no intraductal extension** | **Endoscopic papillectomy** | Strong; moderate |
-| **Up to 20–30 mm** | Resect **en bloc** — for R0, complete resection, optimal histopathology and lower recurrence | Strong; low |
-| **Intraductal extension <1 cm** | Amenable to **endoscopic treatment with close surveillance** (AGA 2026 BPA 5) | Ungraded |
-| **Intraductal extension ≤20 mm** | Papillectomy **plus complementary intraductal ablation** (radiofrequency ablation [RFA] or wire-guided cystotome) with **temporary biliary stenting** — **expert centers only**. ⚠ See the threshold conflict below | Weak; low |
-| **Intraductal extension >1 cm in a surgically fit patient** | **Consult surgery** — AGA 2026 makes this a *definitive* contraindication to papillectomy (BPA 5, 6) | Ungraded |
-| **Size >4 cm**, *or* technically infeasible (e.g. **periampullary diverticulum**) | **Surgery**. ⚠ **Surveillance afterwards is still mandatory** | Weak; low |
-| **Laterally spreading tumor involving the papilla (LST-p)** — **≥10 mm extension beyond the ampullary mound**, or an extrapapillary component involving the duodenal wall | **Endoscopic resection is still appropriate** — but expect **higher intraprocedural *and* delayed bleeding** | Strong; low |
-| **Tis (carcinoma in situ)** | Transduodenal ampullectomy **or** endoscopic papillectomy **may be sufficient — if final pathology shows no residual disease** | Strong; low |
-| **T1 or higher** (including a T1 adenocarcinoma found only on the papillectomy specimen) | **Pancreaticoduodenectomy with lymphadenectomy** | Strong; low |
+| Adenoma **without intraductal extension** | Endoscopic papillectomy | Strong; moderate |
+| Adenoma **up to 20–30 mm** | Resect **en bloc** (R0, histology, lower recurrence) | Strong; low |
+| Technically infeasible (e.g. **diverticulum**, size >4 cm) | Consider surgery; **surveillance still mandatory** afterwards | Weak; low |
+| **Laterally spreading tumor involving the papilla (LST-p)** — **≥10 mm** beyond the ampullary mound, or an extrapapillary duodenal-wall component **larger than the papillary adenoma** | Endoscopic resection appropriate; expect **more intraprocedural and delayed bleeding** | Strong; low |
+| **Tis** (carcinoma in situ) | Transduodenal ampullectomy or papillectomy may suffice **if final pathology shows no residual disease** | Strong; low |
+| **T1 or higher** (incl. T1 found on the papillectomy specimen) | **Pancreaticoduodenectomy with lymphadenectomy** | Strong; low |
 
-> [!pitfall] The intraductal-extension threshold is 1 cm, not 2 cm
-> [[aga-2026-ampullary-neoplasms|AGA 2026]] sends **>1 cm (>10 mm)** intraductal extension to surgery in a surgically fit patient, and records that **ESGE permits up to 20 mm** in selected expert centers. Same guideline tier, newer publication date — **follow the 1 cm rule**, and treat 10–20 mm endoscopic management as an expert-center exception rather than the default. Maximum **lesion size is explicitly unsettled** in AGA 2026 itself: 4–5 cm favours endoscopy (BPA 4), over 5 cm is a relative contraindication (BPA 6), while ESGE uses 4–4.5 cm — the document does not resolve the range, so neither does this page.
-
-- **Why intraductal extension carries this weight:** it is the major risk factor for persistent and recurrent dysplasia, and it is the measurement [[endoscopic-ultrasound|EUS]] is being done to obtain (AGA 2026 BPA 3).
-- **Imaging and endoscopic features that should give pause even when biopsies are benign** (AGA 2026): notable **weight loss and jaundice**; **substantial ductal dilation with an abrupt cutoff at the ampulla**; lesions **larger than 4 cm that are friable, ulcerated or fixed**; and **irregular or nonstructured villi on narrow-band imaging** (the benign appearance is **pinecone/leaf-shaped villi**) — sample those areas.
-- ⚠ **AGA 2026 states plainly that robust evidence-based criteria for when endoscopic papillectomy is appropriate are not yet established** — the decision is individualized on lesion characteristics, clinical status, patient preference and available expertise.
-
-- **The surgical comparator, for the consent conversation:** pancreaticoduodenectomy carries **postoperative morbidity 34%–59%, mortality 1%–2%**, with 5-year survival after resection from about **40%**. ⚠ **No prospective study compares endoscopic papillectomy with surgery.** ([[esge-2021-ampullary-tumors]])
-
-#### Staging
-- **EUS and abdominal [[mri-mrcp|MRCP]]** are the staging pair (strong). Pooled performance of morphological criteria for **nodal** involvement: **sensitivity 70%, specificity 74%** — enough to inform, not to decide alone. **[[intraductal-ultrasound|Intraductal ultrasound (IDUS)]] is for selected patients**, balanced against training, cost and its pancreatitis risk (weak). Stage with the **latest TNM** classification. ([[esge-2021-ampullary-tumors]])
-- **High-resolution virtual chromoendoscopy** aids endoscopic diagnosis and staging (weak). ([[esge-2021-ampullary-tumors]])
-- ⚠ **Do not send biopsies for molecular work to guide treatment** — immunohistochemistry, K-ras/p53 and microsatellite instability testing are confined to **resected specimens**; biopsy tissue is too heterogeneous for reliable subtyping. ([[esge-2021-ampullary-tumors]])
+- Endoscopic removal of frank adenocarcinoma is **not endorsed for routine management** (ASGE 2015).
+- **Intramucosal malignancy on biopsy:** unsettled (nodal spread and vascular invasion reported) → **surgical consultation and joint decision-making** (AGA 2026).
+- **Surgery, for consent:** local surgical excision adverse events **29%**, higher than endoscopy (not directly compared) (ASGE 2015). Pancreaticoduodenectomy for ampullary cancer: morbidity **34%–59%**, mortality **1%–2%**, 5-year survival after resection **40%–60%**; no prospective study compares papillectomy with surgery (ESGE 2021).
 
 #### Diagnostic and therapeutic algorithm
 
-
 ```mermaid
 flowchart TD
-    A(["Suspected ampullary lesion"]) -- "Incidental imaging or symptoms:<br/>jaundice, cholangitis, pancreatitis" --> B["Upper endoscopy: side-viewing duodenoscope<br/>≥ 6 biopsies, target ulcerated or indurated areas<br/>Avoid pancreatic orifice to reduce pancreatitis risk<br/>(BPA 1, 2)"]
+    A(["Suspected ampullary lesion"]) -- "Incidental imaging or symptoms:<br/>jaundice, cholangitis, pancreatitis" --> B["Upper endoscopy: side-viewing duodenoscope<br/>≥ 6 biopsies, target ulcerated or indurated areas<br/>Avoid pancreatic orifice (BPA 1, 2)"]
     B --> C["Malignancy confirmed on biopsy?"]
     C -- "Yes: metastatic or invasive cancer" --> E(["MDT review: GI, surgery, oncology<br/>(BPA 6, 15)"])
-    C -- "No" --> F["Staging and assessment<br/>EUS ± MRCP, lesion size, intraductal extension<br/>Clinical features: weight loss, jaundice, ductal dilation<br/>(BPA 3)"]
+    C -- "No" --> F["Staging and assessment<br/>EUS ± MRCP, lesion size, intraductal extension<br/>Weight loss, jaundice, ductal dilation (BPA 3)"]
     F --> G["Intraductal extension > 1 cm?"]
     G -- "Yes" --> G1(["Surgical consult"])
-    G -- "No or ≤ 1 cm" --> H["Contraindications to endoscopic resection?<br/>Metastases, mucosal invasion,<br/>size > 4–5 cm, limited follow-up<br/>(BPA 4, 6)"]
+    G -- "No or ≤ 1 cm" --> H["Contraindications to endoscopic resection?<br/>Metastases, mucosal invasion,<br/>size > 4–5 cm, limited follow-up (BPA 4, 6)"]
     H -- "Yes" --> H1(["Surgical consult or oncology referral"])
     H -- "No" --> J["Obstructive jaundice or cholangitis?"]
     E --> J
-    J -- "Yes" --> J1(["Biliary drainage: ERCP + SEMS<br/>(BPA 7)"])
-    J -- "No" --> P(["Endoscopic papillectomy<br/>En bloc snare resection, no preresection sphincterotomy<br/>Submucosal injection only if lateral wall extension<br/>(BPA 8, 9)"])
-    P --> Q(["Postprocedural prophylaxis<br/>PD stent, rectal NSAIDs, LR hydration<br/>Hemostasis as needed: epinephrine, APC, clips, spray<br/>(BPA 10, 11)"])
+    J -- "Yes" --> J1(["Biliary drainage: ERCP + SEMS (BPA 7)"])
+    J -- "No" --> P(["Endoscopic papillectomy<br/>En bloc snare, no preresection sphincterotomy<br/>Injection only if lateral wall extension (BPA 8, 9)"])
+    P --> Q(["Prophylaxis: PD stent, rectal NSAIDs, LR hydration<br/>Hemostasis as needed (BPA 10, 11)"])
     Q --> R["Complete en bloc resection, ≤ 3 cm, R0?"]
-    R -- "Yes" --> S(["Surveillance: side-viewing duodenoscope<br/>(BPA 12; tracks under Surveillance below)"])
+    R -- "Yes" --> S(["Surveillance: side-viewing duodenoscope (BPA 12)"])
     R -- "No: piecemeal or positive margins" --> T(["Ablation"])
     class A start
     class B,C,F,G,H,J,R test
     class E,G1,H1,J1,P,Q,S,T act
 ```
 *Approach to a suspected ampullary lesion, from first endoscopy to surveillance*
-*Source: redrawn from the AGA 2026 algorithm for approaching ampullary neoplasms*
+*Source: redrawn from Figure 1 of AGA 2026 (algorithm for approaching ampullary neoplasms)*
 *[[aga-2026-ampullary-neoplasms|AGA 2026 Ampullary Neoplasms Clinical Practice Update]]*
-*BPA = best practice advice · MDT = multidisciplinary team · GI = gastroenterology · EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · ERCP = endoscopic retrograde cholangiopancreatography · SEMS = self-expandable metal stent · PD = pancreatic duct · NSAIDs = nonsteroidal anti-inflammatory drugs · LR = lactated Ringer's · APC = argon plasma coagulation · R0 = microscopically negative margins*
+*BPA = best practice advice · MDT = multidisciplinary team · GI = gastroenterology · EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · ERCP = endoscopic retrograde cholangiopancreatography · SEMS = self-expandable metal stent · PD = pancreatic duct · NSAIDs = nonsteroidal anti-inflammatory drugs · LR = lactated Ringer's · R0 = microscopically negative margins*
 
 ---
 
@@ -139,127 +127,111 @@ flowchart TD
 
 *Workup: see [[subepithelial-lesion]] for the EUS-based approach to mucosal mounds at the papilla.*
 
-- **Ampullary carcinoma** (adenocarcinoma of the papilla) — may be indistinguishable endoscopically; false-negative biopsy for carcinoma 16–60%.
-- **Non-adenomatous papillary lesions:** [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid (neuroendocrine) tumor]], gangliocytic paraganglioma.
-- **Nonampullary duodenal lesions:** inflammatory polyp, Brunner's gland hyperplasia, [[subepithelial-lesion|subepithelial lesion]] (e.g. lipoma, neuroendocrine tumor [NET]), heterotopic pancreas.
+- **Ampullary carcinoma** — may be endoscopically indistinguishable from adenoma ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **Non-adenomatous papillary lesions:** [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid (neuroendocrine) tumor]], gangliocytic paraganglioma ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **Nonampullary duodenal lesions:** metaplastic foveolar epithelium, gastric heterotopia, inflammatory polyps, Brunner gland hamartoma; [[subepithelial-lesion|subepithelial lesions]] (gastrointestinal stromal tumor, neuroendocrine tumor, lipoma) ([[aga-2025-nonampullary-duodenal]]).
 - **Syndromic vs sporadic adenoma** ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]).
 
 ---
 
 ## Diagnostics
 
-| Modality | Role | Notes |
+| Test | Role | Source |
 |---|---|---|
-| Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view esophagogastroduodenoscopy (EGD) ([[upper-endoscopy]]) may miss adenomatous change |
-| Forceps biopsy | Confirm adenoma, exclude cancer | Diagnostic (adenoma+carcinoma) rate 45–80%; false-negative for carcinoma 16–60%; ≥6 specimens or sample ≤10 d post-sphincterotomy |
-| [[endoscopic-ultrasound\|EUS]] | Large ampullary lesions or duodenal polyps with features concerning for malignancy, before endoscopic or surgical resection (ASGE 2015 Recommendation 2) | Superior to computed tomography (CT)/magnetic resonance imaging (MRI)/transabdominal ultrasound for **T staging**; assesses intraductal extension and malignant extension beyond the muscularis propria |
-| [[intraductal-ultrasound\|IDUS]] | Selected patients (ESGE 2021, weak — see *Staging*); not named in any ASGE 2015 recommendation | Also assesses intraductal extension and malignant extension beyond the muscularis propria; visualizes the tumor better than EUS but may overestimate stage — figures on [[intraductal-ultrasound]] |
-| [[mri-mrcp\|MRI]] | Nodal (N) staging | Superior to EUS for nodal staging |
-| CT / positron emission tomography (PET) | Detect distant metastases | May detect small mets missed by EUS/IDUS |
-| [[ercp\|Endoscopic retrograde cholangiopancreatography (ERCP)]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
+| [[endoscopic-ultrasound\|EUS]] | Staging and intraductal extension; consider for **every adenoma potentially amenable to endoscopic resection**, except **<1 cm with no worrisome clinical or endoscopic features** | AGA 2026 BPA 3 (broadens ASGE 2015 Recommendation 2: large lesions or concerning features) |
+| EUS **+ abdominal** [[mri-mrcp\|MRCP]] | Staging pair; EUS nodal criteria pooled sensitivity **70%**, specificity **74%** | ESGE strong; low |
+| MRCP | First imaging when obstruction, cholangitis or pancreatitis is the presentation; adjunct for intraductal extent | AGA 2026 |
+| [[intraductal-ultrasound\|Intraductal ultrasound (IDUS)]] | **Selected patients**; balance training, cost and pancreatitis risk | ESGE weak; low |
+| Computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET) | EUS beats CT/MRI for **T** staging; MRI beats EUS for **N** staging; CT/PET find small metastases missed by EUS/IDUS | ASGE 2015 |
+| [[ercp\|ERCP]] ductography | Biliary **and** pancreatic duct evaluation at papillectomy to assess ductal extension — especially if EUS not done; during surveillance detects subtle intraductal extension | ASGE 2015 Recommendation 3 (low); AGA 2026 |
+| Virtual chromoendoscopy / NBI | Diagnosis and staging; NBI villous pattern (see *Severity Assessment*) | ESGE weak; low; AGA 2026 |
 
-- **[[brush-cytology|Brush cytology]]** may aid detection of malignancy in selected cases.
-- K-ras/p53/immunohistochemical and microRNA/flow-cytometry markers remain **investigational**.
-- Some experts propose that lesions <1 cm **or** those without obvious signs of malignancy (ulceration, induration, bleeding) do not require US evaluation before endoscopic removal.
-- **Intraductal extension <1 cm** into the common bile duct (CBD) or pancreatic duct (PD) does not necessarily preclude endoscopic therapy (tissue may be exposed/ablated; balloon dilation can expose intraductal tissue).
+- **[[brush-cytology|Brush cytology]]** may aid detection of malignancy in selected cases (ASGE 2015).
+- **Molecular markers** (immunohistochemistry, K-ras/p53, polymerase chain reaction, microsatellite instability): **not routinely on biopsies** to inform prognosis or treatment (ESGE weak; low) — biopsy subtyping is inconsistent; subtyping panels are for resected specimens.
 
 ---
 
 ## Therapeutics
 
-Although not directly compared, local surgical excision appears to have a higher adverse-event rate (29%) than endoscopy. Surgical options: pancreaticoduodenectomy (Whipple) or transduodenal ampullectomy (morbidity: anastomotic dehiscence/fistula up to 9%/14%; mortality 1–9%).
-
 ### Ampullary Adenoma — Endoscopic Papillectomy
 
-- **Terminology:** endoscopic removal of the papilla = **papillectomy** (true "ampullectomy" is a surgical term requiring ductal reimplantation).
-- **Resection technique:**
-  - **En bloc** snare + [[electrosurgery|electrocautery]] preferred when the lesion can be fully ensnared — shorter time, complete pathology, less residual fibrosis. (No PD stent before en bloc resection, as the snare would transect it.)
-  - **Piecemeal** resection for lesions >2 cm or residual tissue after en bloc attempt.
-  - No proven superiority of snare type, current (cut vs blended), or snare orientation; larger-channel therapeutic duodenoscope eases instrument passage.
-  - Retrieve specimens immediately (avoid migration/fragmentation); glucagon may reduce peristalsis; **CO₂ insufflation** advantageous if perforation.
-- **Adjuncts:**
-  - Chromoendoscopy (indigo carmine) to define flat-lesion margins.
-  - "Underwater" endoscopic mucosal resection (EMR) also described ([[asge-2015-ampullary-duodenal-adenomas]]).
+- **En bloc snare resection when feasible** (AGA 2026 BPA 9) — more complete histopathology, less residual tissue. ESGE: en bloc was the **only factor affecting curative resection** (odds ratio 3.55).
+- **Piecemeal** for lesions **>2 cm** or tissue left after an en bloc attempt; **no pancreatic duct stent before en bloc resection** (the snare would transect it) (ASGE 2015).
 
-> [!pitfall] Inject the laterally spreading part, not the papilla
-> **Do not inject submucosally before the papillectomy itself** — ESGE 2021 recommends **direct snare resection without submucosal injection** (strong, moderate). But **do inject before resecting a laterally spreading component** extending onto the duodenal wall, exactly as for a nonampullary duodenal [[endoscopic-mucosal-resection|EMR]] (strong, moderate). One lesion, two techniques. ⚠ This reverses [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]], which treated injection as optional and used **non-lifting as the strongest predictor of malignancy**; ESGE 2021 is the newer same-tier document and governs. ([[esge-2021-ampullary-tumors]])
+> [!pitfall] Don't inject the papilla — inject only the lateral spread
+> AGA 2026 BPA 9: submucosal injection is **generally not required** (injected 50% vs non-injected 80% complete resection in a 50-patient multicentre study), but helps for **laterally spreading components along the duodenal wall**. ESGE agrees (both strong; moderate). ASGE 2015 treated injection as optional and non-lifting as a malignancy sign.
 
-- **Sphincterotomy — after, not before.** ⚠ **Avoid biliary, pancreatic or biductal sphincterotomy *prior* to papillectomy** (weak, very low) — this supersedes ASGE 2015's "often performed, no consensus". **Afterwards**, perform biliary sphincterotomy and/or stenting for **delayed biliary drainage, intraprocedural bleeding or a high risk of early post-procedural bleeding, or intraductal extension** (treated by complementary techniques or not) (weak, very low). ([[esge-2021-ampullary-tumors]])
-- **Current:** **endocut**, to reduce intraprocedural and early post-procedural bleeding (weak, low) — there is still **no consensus on optimal power output**. ([[esge-2021-ampullary-tumors]]; physics and generator settings: [[electrosurgery]])
-- **Post-procedure pancreatitis prophylaxis — give all three.** [[aga-2026-ampullary-neoplasms|AGA 2026]] BPA 10 asks for **prophylactic pancreatic duct stenting, rectal nonsteroidal anti-inflammatory drugs (NSAIDs), and high-volume hydration with lactated Ringer's solution** together. [[esge-2021-ampullary-tumors|ESGE 2021]] supplies the doses and grades — **pancreatic duct stent** (strong, moderate) **plus rectal diclofenac or indomethacin 100 mg immediately before the procedure** in anyone without an NSAID contraindication (weak, low) — and treats lactated Ringer's as the **substitute if the stent cannot be placed** (weak, low). AGA 2026 is newer: **hydrate as well, not only on stent failure**, titrated to cardiac status and lesion size. Prophylactic biliary stent not routinely recommended unless inadequate biliary drainage or microperforation concern ([[asge-2015-ampullary-duodenal-adenomas]]). ([[esge-2021-ampullary-tumors]])
-- **Prophylactic hemostasis is a judgement call, not a protocol** — the decision and the technique are **individualized** (strong, very low). The data genuinely conflict: a propensity-matched retrospective study found adjunctive [[argon-plasma-coagulation|APC]] cut delayed bleeding **7.3% vs 31.7%** (odds ratio [OR] 0.180, *P* < 0.01), while a 54-patient randomized trial did not agree. ([[esge-2021-ampullary-tumors]])
-- **Ablation** (residual/recurrent superficial tissue): [[argon-plasma-coagulation|APC]] most common (50–60 W); place PD stent before ablating near the PD orifice; biopsy suspicious areas before ablating (ablated tissue not available for pathology) ([[asge-2015-ampullary-duodenal-adenomas]]).
-- **Treating post-papillectomy bleeding:** standard techniques — epinephrine injection, electrocoagulation, clips, noncontact methods, APC (strong, low); **angiographic embolization for massive bleeding unresponsive to endoscopy** (strong, very low). ([[esge-2021-ampullary-tumors]])
+- **No sphincterotomy before papillectomy** (biliary or pancreatic) — cautery artifact impairs histology and causes bleeding before resection (AGA 2026 BPA 8; ESGE weak, very low). A preresection cholangiogram/pancreatogram is at the endoscopist's discretion.
+- **After papillectomy**, biliary sphincterotomy and/or stenting for delayed biliary drainage, intraprocedural bleeding or high risk of early bleeding, or intraductal extension (ESGE weak; very low).
+- **Current:** endocut, to reduce intraprocedural and early bleeding (ESGE weak; low); no consensus on power; ASGE 2015 found no basis to prefer pure-cut vs blended. Generator physics: [[electrosurgery]].
+- **Practical points** (ASGE 2015): retrieve specimens immediately, not suctioned into a trap; therapeutic-channel duodenoscope; carbon dioxide insufflation; indigo carmine for flat margins.
+- **Post-papillectomy pancreatitis prophylaxis — all three** (AGA 2026 BPA 10): **prophylactic pancreatic duct stent + rectal NSAID + high-volume lactated Ringer's** (intravenous, matched to cardiac status).
+  - Dose: **rectal diclofenac or indomethacin 100 mg immediately before**, if no NSAID contraindication (ESGE weak; low). ASGE 2015 Recommendation 4: stent + rectal indomethacin (moderate).
+  - ESGE treats lactated Ringer's as the **alternative when stenting fails**; AGA (US) gives hydration to everyone.
+  - Prophylactic biliary stent **not routine** — only for perceived inadequate biliary drainage or microperforation concern (ASGE 2015).
+- **Bleeding** (pooled **10.6%**; endoscopic treatment effective in **96%**): epinephrine injection, electrocoagulation, hemoclips, [[argon-plasma-coagulation|argon plasma coagulation (APC)]], hemostatic sprays (AGA 2026 BPA 11); hemostatic gel beat epinephrine for primary hemostasis in one randomized controlled trial. Prophylactic hemostasis: **individualize** (ESGE strong; very low). Massive bleeding unresponsive to endoscopy → **consider angiographic embolization** (ESGE strong; very low).
+- **Ablation** — for piecemeal or positive-margin resections (AGA Figure 1, BPA 13) and residual/recurrent superficial tissue:
+  - APC most used (**50–60 W**); **pancreatic duct stent before ablating near its orifice**; **biopsy suspicious areas first** (ablated tissue is lost to pathology) (ASGE 2015).
+  - Intraductal RFA for limited ductal extension: **~76%** clinical success, biliary strictures **~22%** → expert centres, prophylactic stenting when indicated (AGA 2026).
+- **Consider post-procedure hospitalization** — high-risk procedure; especially after extensive resection of large lesions, comorbidity, or poor access to care (ASGE 2015).
 
-**Outcomes — pooled (29 studies, 1,751 patients):** ([[esge-2021-ampullary-tumors]])
+**Outcomes — pooled 29 studies, 1,751 patients** ([[esge-2021-ampullary-tumors]]):
 
-| Outcome | Rate (95% CI) | | Adverse event | Rate (95% CI) |
-|---|---|---|---|---|
-| Complete endoscopic resection | **94.2%** (90.5–96.5) | | **Overall** | **24.9%** (21.2–29.0) |
-| Curative endoscopic resection | **87.1%** (83.0–90.3) | | Pancreatitis | **11.9%** (10.4–13.6) |
-| En bloc resection | **82.4%** (74.7–88.1) | | Bleeding | **10.6%** (5.2–13.6) |
-| Recurrence | **11.8%** (8.4–16.5) | | Perforation | **3.1%** (2.2–4.2) |
-| | | | Cholangitis | **2.7%** (1.9–4.0) |
-| | | | Papillary stenosis (late) | **2.4%** (1.6–3.4) |
-| | | | **Mortality** | **0.3%** |
+| Outcome | Rate (95% CI) |
+|---|---|
+| Complete / curative / en bloc resection | **94.2%** (90.5–96.5) / **87.1%** (83.0–90.3) / **82.4%** (74.7–88.1) |
+| Any adverse event | **24.9%** (21.2–29.0) |
+| Pancreatitis / bleeding / perforation | **11.9%** / **10.6%** / **3.1%** |
+| Cholangitis / late papillary stenosis | **2.7%** / **2.4%** |
+| Mortality | **0.3%** |
 
-> [!pearl] En bloc is the only thing that predicted a curative resection
-> Across the pooled analysis, **en bloc resection was the single factor affecting curative resection** (OR 3.55, 95% CI 1.11–5.99, *P* = 0.004), and in one of the largest series it also predicted complete resection (OR 4.05, 1.71–9.59, *P* < 0.001). That — not a technical preference — is why the ceiling for en bloc papillectomy is set at **20–30 mm** and why lesions above it go to surgery. ([[esge-2021-ampullary-tumors]])
+*Endoscopic papillectomy outcomes*
+*Source: data from the Spadaccini 2020 pooled analysis (29 studies, 1,751 patients), cited in ESGE 2021*
+*[[esge-2021-ampullary-tumors|ESGE 2021 Endoscopic Management of Ampullary Tumors]]*
+*CI = confidence interval*
 
-- **Older predictors of long-term success** ([[asge-2015-ampullary-duodenal-adenomas]]): age >48 y, lesion ≤24 mm, male sex, absence of a polyposis syndrome (e.g. [[familial-adenomatous-polyposis|FAP]]). Intraductal growth → lower cure, more surgery.
+**FAP:**
+- **ACG 2026 Recommendation 11:** adenomatous polyposis with an ampullary adenoma, no indication for duodenectomy → **endoscopic over surgical ampullectomy** for (i) adenoma **≥10 mm**, (ii) **HGD**, or (iii) **pancreatico-biliary symptoms** — **provided no intraductal extension >10 mm** (conditional; very low certainty) ([[acg-2026-adenomatous-polyposis]]).
 
-- **When FAP does call for resection, ACG 2026 names the three triggers** — in adenomatous polyposis with an ampullary adenoma and no indication for duodenectomy, **endoscopic over surgical ampullectomy** for (i) **ampullary adenoma ≥10 mm**, (ii) **high-grade dysplasia**, or (iii) **pancreatico-biliary symptoms**, **provided there is no intraductal extension >10 mm** *(conditional; very low certainty)*. The 10 mm intraductal limit matches the AGA 2026 rule above. ([[acg-2026-adenomatous-polyposis]])
-
-> [!pearl] In FAP, resecting the ampullary adenoma may not be the right move
-> Patients with FAP have **higher adverse-event rates** and **high recurrence** after papillectomy, and removal **does not eliminate or substantially reduce** the recurrence or development of new upper gastrointestinal malignancy — while the rate of progression of ampullary adenomas in FAP is **low relative to other patients (11%–14%)**. Some experts therefore **survey with biopsies instead of excising**, provided there is no rapid growth and no high-grade dysplasia, accepting the risk of missing unsampled HGD or carcinoma. [[aga-2026-ampullary-neoplasms|AGA 2026]] presents this as a genuine individual-patient choice and does not recommend one over the other.
-
-- **Intramucosal malignancy on biopsy is unsettled** — lymph node and lymphatic spread and vascular invasion are reported, and whether tumor involves the sphincter of Oddi is hard to determine. AGA 2026 advises **surgical consultation and joint decision-making** rather than taking a position.
-- **Intraductal radiofrequency ablation** for limited ductal extension achieves **~76% clinical success** at short-term follow-up, but with **biliary strictures in ~22%** — expert centers, with prophylactic stenting where indicated. Adjunct APC for mucosal remnants on the papillary surface improved local control in cohort studies ([[aga-2026-ampullary-neoplasms]]).
-- **Adverse events also include** [[endoscopy-sedation|sedation]] events and late pancreatic/biliary stenosis.
-- Endoscopic removal of frank **ampullary adenocarcinoma is not endorsed** for routine management — see the stage-by-stage table above.
+> [!pearl] In FAP, surveillance can replace excision
+> FAP brings higher adverse-event and recurrence rates after papillectomy, and removal does not substantially reduce new upper GI malignancy; ampullary adenoma progression is low (**11%–14%**). Some experts survey with biopsies instead, if no rapid growth or HGD — accepting missed unsampled HGD or cancer. [[aga-2026-ampullary-neoplasms|AGA 2026]] leaves the choice individual.
 
 #### Biliary obstruction from an ampullary tumor
-- **Palliative:** [[ercp|ERCP]] with a **self-expandable metal stent (SEMS)** (strong, **high quality** — the document's only high-quality recommendation), by the **ERCP route rather than percutaneous**. ([[esge-2021-ampullary-tumors]])
-- ⚠ **Do not drain routinely before surgery** in a patient with ampullary cancer who is operable (strong, moderate). Reserve preoperative drainage for **[[acute-cholangitis|cholangitis]], severe symptomatic [[jaundice]] (e.g. intense pruritus), delayed surgery, or before neoadjuvant chemotherapy in a jaundiced patient** — and when it is indicated, drain **endoscopically with a SEMS** (strong, moderate). ([[esge-2021-ampullary-tumors]])
+- **Resection not feasible + significant jaundice or cholangitis** → biliary drainage ± sphincterotomy with **SEMS**, at the surgeon's discretion (AGA 2026 BPA 7). **ERCP with SEMS should be considered over percutaneous drainage**; SEMS over plastic stents; EUS-guided biliary drainage is an option after failed ERCP or as primary therapy ([[aga-2026-ampullary-neoplasms]]). [[esge-2021-ampullary-tumors|ESGE]]: ERCP + SEMS in the palliative setting (strong; high).
+- **Operable ampullary cancer:** **no routine preoperative drainage** (ESGE strong; moderate); reserve it for [[acute-cholangitis|cholangitis]], severe symptomatic [[jaundice]] (e.g. intense pruritus), delayed surgery, or before neoadjuvant chemotherapy in a jaundiced patient — then **endoscopic drainage with SEMS** (strong; moderate) ([[esge-2021-ampullary-tumors]]).
 
 ### Nonampullary Duodenal Adenoma
 
-**Everything about the nonampullary duodenum lives on [[nonampullary-duodenal-adenoma]]** — lesion description, resection technique by lesion, complications and periprocedural orders, surveillance, and the FAP/Spigelman framework. First confirm the polyp does not involve the major papilla; if it does, manage the ducts as for an ampullary lesion.
+Lives on **[[nonampullary-duodenal-adenoma]]** (description, resection technique, complications, surveillance, FAP/Spigelman). First confirm the polyp does not involve the major papilla (side-viewing scope or EUS); if it does, manage the ducts as for an ampullary lesion ([[asge-2015-ampullary-duodenal-adenomas]]).
 
 ### Surveillance
 
-- **All** patients who undergo endoscopic papillectomy or duodenal adenoma resection should enter a **surveillance program** to confirm complete removal and detect recurrence (recurrence often grows across the post-resection scar — photograph and biopsy the scar).
-- **Ampullary schedule after endoscopic papillectomy *or* surgical ampullectomy** — **duodenoscopy with biopsies of the scar and of any abnormal area**: ([[esge-2021-ampullary-tumors]], strong recommendation)
-  - **within the first 3 months** (in practice 4–8 weeks, which also retrieves the prophylactic pancreatic stent)
-  - **at 6 months and at 12 months**
-  - **yearly thereafter for at least 5 years**
-  - ⚠ This **replaces** the older "1–6 months, then every 3–12 months for ≥2 years" range ([[asge-2015-ampullary-duodenal-adenomas]]), which left the endpoint unstated.
-- **[[aga-2026-ampullary-neoplasms|AGA 2026]] keeps that spine and adds the two tracks that branch off it** (BPA 12–14, ungraded). The first examination is at **3 months with a side-viewing duodenoscope, biopsying the resection scar even when it looks endoscopically normal** plus any abnormal mucosa; at that same visit review pathology, resection method, lesion size, margin status, residual adenoma, intraductal concerns and FAP status, and that review sets the track:
+- **Every patient after papillectomy enters surveillance** (ASGE 2015 Recommendation 5). First look **at 3 months**, side-viewing duodenoscope, **biopsy the scar even if it looks normal** plus any abnormal mucosa; the same visit reviews pathology, resection method, size, margins, residual adenoma, intraductal concerns and FAP status, and sets the track (AGA 2026 BPA 12–15):
 
 | Track | Enter it when | Schedule |
 |---|---|---|
 | **Default** | No residual adenoma at 3 months | **3 → 6 → 12 months, then annually for at least 5 years** |
-| **Low-risk option** | Adenoma **≤3 cm** resected en bloc *or* piecemeal **with clear margins**, and a negative 3-month biopsy | Re-evaluate every **6–12 months for at least 2 years**, then every **3–5 years** |
-| **Intensified eradication** | Adenoma **>3 cm resected piecemeal**, **positive or indeterminate margins**, or **any residual adenoma** on surveillance biopsy | Add **adjunct thermal ablation and ductography**; repeat **every 2–3 months until eradication is confirmed histologically**. **Eradication fails or cancer is suspected** → back to multidisciplinary review and surgical planning |
-| **Immediate escalation** | **High-grade dysplasia, incomplete resection, or suspected malignancy** — or, **at any time during surveillance**, biopsy, scar appearance or interval imaging suggesting recurrent dysplasia or cancer | **Multidisciplinary team** — gastroenterology, surgery, oncology, radiology, pathology (BPA 15) — and consider definitive therapy. Restage with EUS and/or [[mri-mrcp\|MRCP]] when depth of invasion, intraductal extension or operative fitness is uncertain |
-| **[[familial-adenomatous-polyposis\|FAP]]** | Always | **Individualize by ampullary, gastric and duodenal disease burden** — not a fixed interval. **6–12 months** for advanced polyposis, **3–5 years** for minimal disease |
+| **Low-risk option** | Adenoma **≤3 cm** resected en bloc *or* piecemeal **with clear margins**, and a negative 3-month biopsy | Every **6–12 months for at least 2 years**, then every **3–5 years** |
+| **Intensified eradication** | **>3 cm resected piecemeal**, **positive or indeterminate margins**, or **any residual adenoma** | Adjunct **thermal ablation and ductography**; repeat **every 2–3 months until eradication is confirmed histologically**. Fails, or cancer suspected → multidisciplinary review and surgical planning |
+| **Immediate escalation** | **HGD, incomplete resection, or suspected malignancy** — or, at any time, biopsy/scar/imaging suggesting recurrent dysplasia or cancer | **Multidisciplinary team** (gastroenterology, surgery, oncology, radiology, pathology); restage with EUS and/or MRCP when depth, intraductal extension or operative fitness is uncertain |
+| **[[familial-adenomatous-polyposis\|FAP]]** | Always | Individualize by **ampullary, gastric and duodenal disease burden**: **6–12 months** for advanced polyposis, **3–5 years** for minimal disease |
 
 *Surveillance tracks after endoscopic papillectomy*
-*Source: table from the AGA 2026 figure on management after endoscopic papillectomy and BPA 12–15*
+*Source: table built from Figure 2 and BPA 12–15 of AGA 2026*
 *[[aga-2026-ampullary-neoplasms|AGA 2026 Ampullary Neoplasms Clinical Practice Update]]*
-*EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · FAP = familial adenomatous polyposis · BPA = best practice advice*
+*HGD = high-grade dysplasia · EUS = endoscopic ultrasound · MRCP = magnetic resonance cholangiopancreatography · FAP = familial adenomatous polyposis · BPA = best practice advice*
 
-- **Beyond 5 years is a judgement, and AGA 2026 says which way to lean:** late recurrence can occur but is uncommon, so continuing is individualized by recurrence risk, comorbidity and life expectancy; routine surveillance beyond 5 years is **not suggested for average-risk patients after durable negative exams**, but **extend it (annual or biannual) for piecemeal resection, positive or indeterminate margins, intraductal extension, HGD, or FAP**. Where the ampulla is hard to see, **cap-assisted forward-view endoscopy can help, but a duodenoscope stays preferred**.
-- **Why the first look matters most:** recurrence **11.8%** pooled, median **14.2 months**, and **up to two-thirds of recurrences are found at the first follow-up session**. Most recurrences fall in the first **2–3 years**; under an established protocol the vast majority were benign with no interval cancer described. ([[esge-2021-ampullary-tumors]], [[aga-2026-ampullary-neoplasms]])
-- **On recurrence, restage before treating** — endoscopic examination with biopsies, **plus EUS and MRCP**, before any therapy (strong). **Benign residual or recurrent lesions are managed endoscopically**, including [[argon-plasma-coagulation|APC]] and [[endoscopic-mucosal-resection|EMR]] (weak); pooled oncological cure with endoscopic retreatment is **80.9%** (95% CI 73–87), often over several sessions. ([[esge-2021-ampullary-tumors]])
-- Duodenal surveillance intervals: limited data — individualize.
-- **Offer screening [[colonoscopy]]** — sporadic ampullary/duodenal adenomas are associated with increased colorectal neoplasia risk.
+- ESGE 2021 gives the same default schedule (strong; low), also after **surgical ampullectomy**; first look commonly at 4–8 weeks, to retrieve the pancreatic stent. Supersedes ASGE 2015's "1–6 months, then every 3–12 months for ≥2 years".
+- **Beyond 5 years:** not suggested for average-risk patients after durable negative exams; **extend (annual or biannual)** for piecemeal resection, positive/indeterminate margins, intraductal extension, HGD or FAP (AGA 2026 BPA 14 — individualize; specifics from its narrative).
+- **Recurrence timing:** most within the **first 2–3 years** (AGA 2026); median **14.2 months**, **up to two-thirds found at the first follow-up** (ESGE). Pooled recurrence **11.8%** (95% CI 8.4–16.5) in the same Spadaccini 2020 review (23 studies / 1,130 patients with recurrence data) ([[esge-2021-ampullary-tumors]]).
+- **On recurrence, restage first** — biopsies **plus EUS and MRCP** (ESGE strong; low); benign residual/recurrent lesions → endoscopic treatment incl. APC and [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]] (weak; low); pooled cure **80.9%**, often over several sessions.
+- **Offer screening [[colonoscopy]]** to patients with sporadic ampullary or duodenal adenomas (ASGE 2015 Recommendation 6, suggest; low).
 
 ---
 
 ## See Also
 
-[[nonampullary-duodenal-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[intraductal-ultrasound]], [[jaundice]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[mri-mrcp]], [[acute-pancreatitis]], [[acute-cholangitis]], [[pancreas-divisum]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]], [[endoscopy-sedation]]
+[[nonampullary-duodenal-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[intraductal-ultrasound]], [[jaundice]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[mri-mrcp]], [[acute-pancreatitis]], [[acute-cholangitis]], [[pancreas-divisum]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopy-sedation]]
 
 ---
 
