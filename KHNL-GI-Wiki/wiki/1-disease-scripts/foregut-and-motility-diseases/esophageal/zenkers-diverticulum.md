@@ -3,8 +3,9 @@ title: "Zenker's Diverticulum"
 category: disease-script
 tags: [zenker-diverticulum, pharyngoesophageal-diverticulum, cricopharyngeus, septotomy, cricopharyngeal-myotomy, z-poem, dysphagia, esge]
 created: 2026-11-19
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-27
+quality_reviewed: 2026-11-27
+verified: 2026-11-27
 sources: [esge-2020-gi-motility-part-2]
 ---
 
@@ -47,8 +48,8 @@ Pulsion diverticulum through the Killian triangle, between the thyropharyngeus a
 
 *ESGE 2020 diagnostic recommendations for Zenker's diverticulum ([[esge-2020-gi-motility-part-2]])*
 
+- Suspected on symptoms, confirmed by barium swallow with video fluoroscopy; endoscopy can also diagnose it, but fluoroscopy is considered essential ([[esge-2020-gi-motility-part-2]]).
 - Fluoroscopy gives **pouch size** plus "dynamic" information on **regurgitation and aspiration** ([[esge-2020-gi-motility-part-2]]).
-- Manometry: reserve for individual cases (e.g. small Zenker's) to rule out other causes ([[esge-2020-gi-motility-part-2]]).
 
 ## Therapeutics
 
@@ -73,7 +74,7 @@ Pulsion diverticulum through the Killian triangle, between the thyropharyngeus a
 flowchart TD
     A(["Suspected Zenker's diverticulum"]) -- "Evaluation (R1)" --> B["Barium swallow radiography with video fluoroscopy"]
     B -- "Symptomatic Zenker's, any size (R3, R6)" --> C(["Flexible endoscopic treatment first-line, over open surgery"])
-    C -- "Recurrent Zenker's (R4)" --> D(["Flexible endoscopic treatment"])
+    B -- "Recurrent Zenker's after any prior treatment (R4)" --> D(["Flexible endoscopic treatment"])
     B -- "Z-POEM or tunneling considered (R7)" --> E(["Research setting only"])
     class A start
     class B test
@@ -125,9 +126,10 @@ flowchart TD
 
 ### Post-procedure Care
 
-- Monitor for complications ([[esge-2020-gi-motility-part-2]]).
-- Nil per os for **24 hours** routinely; **liquids the next day** if uneventful ([[esge-2020-gi-motility-part-2]]).
-- **No contrast study needed** before oral intake **unless perforation is suspected** ([[esge-2020-gi-motility-part-2]]); perforation management: [[endoscopic-management-of-perforation]].
+- ESGE makes no graded recommendation on post-procedure care; practice described ([[esge-2020-gi-motility-part-2]]):
+  - Monitor carefully for complications.
+  - Nil per os for **24 hours** routinely; many series allowed **liquid diet the next day** if the course was unremarkable.
+  - **No evidence that a contrast study is a prerequisite** to resume oral intake **unless perforation is suspected**; perforation management: [[endoscopic-management-of-perforation]].
 
 ### Outcomes and Recurrence
 
@@ -146,7 +148,7 @@ flowchart TD
   - Septotomy length **≤25 mm**
 - Same study, as cited in the myotomy section: failure at 6 months if septotomy <2.5 cm or pretreatment pouch >5 cm; at 48 months if septotomy <2.5 cm or post-procedure size >10 cm. ESGE prints the post-treatment size as ≥10 mm in its recurrence section and >10 cm here; septotomy-length measurement in that study is debated (pouch size assumed equal to septum length) ([[esge-2020-gi-motility-part-2]]).
 - **Treating recurrence** ([[esge-2020-gi-motility-part-2]]):
-  - Flexible septotomy for recurrence (25 recurrent vs 34 naïve): success 84% vs 82%, recurrence 24% vs 15%, complications 8% vs 8.8% (naïve vs recurrent).
+  - Flexible septotomy, treatment-naïve (n = 34) vs recurrent (n = 25): success 84% vs 82%, recurrence 24% vs 15%, complications 8% vs 8.8% — performs equally well in recurrent disease.
   - Needle-knife + diverticuloscope series (n = 134): recurrence 23.1%; 78.3% of the 23 retreated achieved remission after redo myotomy.
   - Rigid stapler (two series, 20 and 18 patients): short-term remission 81%–90%, complications 20%–28%, recurrence 5%.
 
