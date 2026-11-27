@@ -4,7 +4,7 @@ category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
 updated: 2026-11-27
-sources: [aga-2023-epi, lenti-2025-ueg-malabsorption-part-1]
+sources: [aga-2023-epi, lenti-2025-ueg-malabsorption-part-1, lenti-2025-ueg-malabsorption-part-2]
 ---
 
 # Exocrine Pancreatic Insufficiency (EPI)
@@ -30,6 +30,7 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 
 - **Suspect (high-risk conditions, best practice advice [BPA] 1):** [[chronic-pancreatitis|chronic pancreatitis (CP)]], relapsing [[acute-pancreatitis|acute pancreatitis (AP)]], [[pancreatic-cancer|pancreatic ductal adenocarcinoma (PDAC)]], cystic fibrosis, previous pancreatic surgery.
 - **Consider (moderate-risk conditions, BPA 2):** duodenal diseases — [[celiac-disease|celiac]] and [[crohns-disease|Crohn's disease]]; previous intestinal surgery; longstanding diabetes mellitus; hypersecretory states (e.g., [[peptic-ulcer-disease|Zollinger–Ellison syndrome]]).
+- **Also screen (European consensus, Part 2 Statement 2.1.3):** patients with **gastrointestinal symptoms and** metabolic syndrome, human immunodeficiency virus (HIV) infection or alcohol abuse — in addition to diabetes and primary pancreatic disorders ([[lenti-2025-ueg-malabsorption-part-2]]).
 - **Clinical features (BPA 3):** steatorrhea ± diarrhea, weight loss, [[abdominal-bloating-and-distention|bloating]], excessive flatulence, fat-soluble vitamin (A, D, E, K) deficiencies, protein-calorie malnutrition. In [[chronic-pancreatitis|CP]], symptoms build gradually and may be mild until late stage.
 
 **Pre-test probability — how likely is EPI in each high-risk condition** (this is what decides whether a normal fecal elastase-1 (FE-1) is believable):
@@ -182,3 +183,4 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 1. [[aga-2023-epi|AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency (2023)]]
 2. [[lenti-2025-ueg-malabsorption-part-1|European Consensus on Malabsorption (UEG and partner societies) Part 1: Definitions, Clinical Phenotypes, and Diagnostic Testing (2025)]]
+3. [[lenti-2025-ueg-malabsorption-part-2|European Consensus on Malabsorption (UEG and partner societies) Part 2 (2025)]]

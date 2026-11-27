@@ -3,8 +3,8 @@ title: "Atrophic Gastritis"
 category: disease-script
 tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, autoimmune-gastritis, pernicious-anemia, correa-cascade, gastric-cancer, neuroendocrine-tumor]
 created: 2026-05-15
-updated: 2026-11-12
-sources: [aga-2021-atrophic-gastritis, acg-2025-gastric-premalignant]
+updated: 2026-11-27
+sources: [aga-2021-atrophic-gastritis, acg-2025-gastric-premalignant, lenti-2025-ueg-malabsorption-part-2]
 ---
 
 Atrophic gastritis (AG) is a preneoplastic condition defined by loss of gastric glands — replaced by connective tissue (nonmetaplastic atrophy) or a non-native epithelium such as intestinal metaplasia or pseudopyloric metaplasia (metaplastic atrophy) — in a background of chronic inflammation. It represents an early committed step in the [[gastric-premalignant-conditions|Correa cascade]]: AG → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]].
@@ -230,6 +230,11 @@ Evaluate for iron and vitamin B-12 deficiency in all AG patients, irrespective o
 - **Iron:** deficiency in up to 50% of corpus-predominant AG; often appears well before B-12 deficiency
 - **Vitamin B-12:** reduced intrinsic factor and acid; PA is the late-stage AIG form
 - AGA 2021 does not specify repletion route or dose
+- **European malabsorption consensus (Part 2, Statements 3.1.5 and 2.2.8 with their text; non-US, ungraded):** monitor B12 in **all** patients with intrinsic factor deficiency (e.g., autoimmune atrophic gastritis). Doses it prints ([[lenti-2025-ueg-malabsorption-part-2]]):
+  - Total gastrectomy, extensive ileal resection or persistent malabsorptive disease → **intramuscular 1000–2000 mcg every 1–3 months**
+  - Food-bound cobalamin malabsorption → **lifelong oral 350 µg daily**, or the same intramuscular regimen
+  - Elderly: parenteral B12 only for severe anemia or neurological alterations; oral crystalline B12 may suffice in less severe cases
+  - It gives no dose specific to autoimmune atrophic gastritis
 
 ### 3. Endoscopic Surveillance
 
@@ -280,3 +285,4 @@ Arise from parietal cell loss → hypochlorhydria → hypergastrinemia → enter
 
 1. [[aga-2021-atrophic-gastritis|AGA 2021: Diagnosis and Management of Atrophic Gastritis]]
 2. [[acg-2025-gastric-premalignant|ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions]]
+3. [[lenti-2025-ueg-malabsorption-part-2|European Consensus on Malabsorption (UEG and partner societies) Part 2 (2025)]]

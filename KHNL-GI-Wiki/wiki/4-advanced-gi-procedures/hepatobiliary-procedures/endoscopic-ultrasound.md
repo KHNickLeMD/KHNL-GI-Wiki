@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-11-03
-sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus, apa-2014-chronic-pancreatitis, catalano-2009-rosemont-classification]
+updated: 2026-11-27
+sources: [asge-2023-ergonomics, acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus, apa-2014-chronic-pancreatitis, catalano-2009-rosemont-classification, chavan-2023-linear-eus-pancreas-anatomy]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -25,6 +25,7 @@ Endoscopic ultrasound (EUS) quality standards from American College of Gastroent
   - [[#Conventional (unweighted) criteria]]
   - [[#Rosemont classification]]
 - [[#EUS in Mediastinal Adenopathy / Lung-Cancer Staging]]
+- [[#Technique]]
 
 ---
 
@@ -289,6 +290,22 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ---
 
+## Technique
+
+**Linear EUS of the pancreas — station-wise approach** (teaching review, not a guideline; [[chavan-2023-linear-eus-pancreas-anatomy]]). Find each station's **homebase** first, then trace the gland with clockwise/anticlockwise torque and minimal push/pull; scan from **all** stations.
+
+| Station | Homebase | How | What it shows |
+|---|---|---|---|
+| Stomach, gastroesophageal junction (push) | Aorta | Left liver lobe → clockwise past left portal vein and inferior vena cava (IVC) → aorta → push slightly to the celiac artery → push down to centre the pancreas | Body; **clockwise + minimal withdrawal** → tail to splenic hilum; **anticlockwise + push** → portal confluence, genu, head; superior mesenteric vein (SMV) divides body from head |
+| Stomach, via liver hilum (push) | None named (follow the main portal vein) | Slight clockwise (<45 degrees) until the left portal vein turns round → push down to the hilum → follow the portal vein to the confluence with clockwise torque | Anticlockwise → genu; clockwise → tail |
+| Duodenal bulb | Portal vein (not the IVC) | Scope wedged in the bulb, long position; right kidney visible → withdraw slightly; common bile duct (CBD) not seen → release big knob, instil water | Head and neck; clockwise traces the head to the ampulla |
+| Second part of duodenum | Aorta | Slowly withdraw with clockwise torque | Head, uncinate, ampulla; clockwise traces the pancreatic duct to the body, anticlockwise the CBD to the hilum |
+
+> [!pitfall] Never push against resistance entering the duodenum
+> Entering the second part of the duodenum, start shortening from the bulb (small wheel right, clockwise shaft torque) under endoscopic vision; never push against resistance at the first–second part junction. The transducer sits 1–1.5 cm distal to the camera ([[chavan-2023-linear-eus-pancreas-anatomy]]).
+
+---
+
 ## See Also
 
 [[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-biliary-drainage]], [[eus-guided-gallbladder-drainage]], [[pancreatic-fluid-collection-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]], [[bariatric-surgery]], [[celiac-plexus-block]], [[endoscopy-ergonomics]], [[endoscopy-sedation]]
@@ -305,3 +322,6 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 6. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Antibiotic Prophylaxis Is Not Required for EUS-Guided Fine-Needle Aspiration of Pancreatic Cystic Lesions, Based on a Randomized Trial]]
 7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
 8. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]
+9. [[apa-2014-chronic-pancreatitis|APA Practice Guidelines in Chronic Pancreatitis: Diagnostic Guidelines (2014)]]
+10. [[catalano-2009-rosemont-classification|EUS-Based Criteria for the Diagnosis of Chronic Pancreatitis: The Rosemont Classification]]
+11. [[chavan-2023-linear-eus-pancreas-anatomy|Pictorial Essay of Linear Endoscopic Ultrasound Examination of Pancreas Anatomy (2023)]]

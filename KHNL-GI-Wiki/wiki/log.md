@@ -26,6 +26,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - *Cards:* none — only [[small-intestinal-bacterial-overgrowth]] is verified, and its new line is a non-governing European stance. Its card file (`page_updated: 2026-10-06`) is already queued for correlation against the 11-21 verification; left for the card pass.
 - `ingest: partial` removed.
 
+**Next pick:** `UEG 2025 Malabsorption Consensus Part 2 (Lenti).pdf` (~21,400 words, CC BY) — companion to Part 1; holds the first-line algorithm and nutrition statements.
+
+**`[[lenti-2025-ueg-malabsorption-part-2]]` — new source (Lenti MV, …, Di Sabatino A. European Consensus on Malabsorption … Part 2: Screening, Special Populations, Nutritional Goals, Supportive Care, Primary Care Perspective. UEG J 2025;13:773–797; CC BY).**
+- *Extract* (fresh agent; whole text, tables and Figures 1A/1B/2 rendered): all **35** statements with the document's own numbers (2.1.1–2.1.4, 2.2.1–2.2.9, 2.3.1, 3.1.1–3.1.8, 3.2.1, 3.3.1–3.3.7, 4.1–4.5; page warns that Part 1 reuses 3.x/4.x numbers); no grade/strength/agreement printed; Tables 1–3, micronutrient and B12 dose tables; Figures 1A (adult), 1B (pediatric), 2 (primary care) transcribed branch by branch.
+- *Gate:* ABSENT 1 (Figure 1B "3-day food protocol", image-only, rendered p. 9) · OTHER 4 (this source's numbers beside US comparison values — correct) · NOMATCH 6 (figure transcriptions, labelling notes; no clinical numbers) · SIGN 12 all read off rendered pages (B12 "350 µg" vs "1000–2000 mcg", α-tocopherol <0.8 mg/g, tTG-IgA >10× ULN).
+- *Verify* (fresh agent, ~230 claims; 35/35 statements, three figures box by box): 0 management, 1 minor — nasal-tube "<4 weeks" credited to ASGE 2011; it is AGA 2025 enteral access (ASGE 2011 gives the 30-day rule) → fixed. `verified: 2026-11-27`.
+- *Internal inconsistencies surfaced:* 2.2.1 no-biopsy at tTG >10× ULN vs its text requiring EMA on a second sample; exclusive enteral nutrition "acute" vs "mild active" pediatric Crohn's; Figure 1A lists fecal chymotrypsin first-line (Part 1: replaced by elastase); octreotide filed as antimotility; "these two latter" = 60% after three causes; intestinal-failure categories and malnutrition criteria named, not printed.
+- *Source priority:* non-US → gap-fill only. Not propagated where US rules govern: pediatric no-biopsy criteria (ACG 2022), loperamide dose and octreotide in SBS (AGA 2022: up to 32 mg/day; avoid octreotide during adaptation), B12 in SBS (AGA 2022 300–1000 µg monthly), nasal-tube duration (AGA 2025 <4 weeks vs 4–6 weeks here).
+- *Propagated:* [[bariatric-surgery]] (new `## Pregnancy After Bariatric Surgery` — 2.2.9: conceive ≥1 year after surgery; screening panel before/at first antenatal visit, each trimester, post-partum if breastfeeding; no US source on file covers it), [[atrophic-gastritis]] (B12 monitoring in intrinsic-factor deficiency and the printed doses — IM 1000–2000 mcg every 1–3 months; food-bound malabsorption lifelong oral 350 µg daily; elderly parenteral only for severe anemia/neurological signs; no AIG-specific dose; AGA 2021/ACG 2025 give none), [[exocrine-pancreatic-insufficiency]] (2.1.3 screening with GI symptoms + metabolic syndrome, HIV or alcohol abuse). Gate: no flags on new lines (pre-existing only: bariatric L135 ABSENT "1.83", L85 NOMATCH; atrophic L248 NOMATCH). Changed-line check (fresh agent; US-coverage claims checked against every US raw file behind each page): 0 management, 1 minor — elderly B12 route line is from 2.2.8 text, lead-in credited only 3.1.5 → fixed. None of the three pages carries `verified:`.
+- *Not propagated (budget; candidates for later):* Figure 1A/2 malabsorption algorithms → [[chronic-diarrhea]] (CC BY, embeddable or redrawable); teduglutide timing 12–24 months after last resection + pre-treatment ultrasound (3.3.6) → [[short-bowel-syndrome]] / [[glp-2-agonists]]; pediatric EPI/IBD/liver nutrition (2.2.2–2.2.6); celiac type 1 diabetes histology caveat.
+- `index.md`: source row added (Sources → Other); atrophic-gastritis 2→3, bariatric-surgery 6→14 (actual frontmatter count), EPI 2→3.
+- *Cards:* none — no touched page is verified.
+- `ingest: partial` removed.
+
+**Next pick:** `Chavan 2023 Pictorial Essay Linear EUS Pancreas Anatomy.pdf` (GI Other Studies, ~5,800 words, CC BY 4.0) — smallest remaining tier-2 file, sized to finish verified in the remaining budget.
+
+**`[[chavan-2023-linear-eus-pancreas-anatomy]]` — new source (Chavan R, Rajput S. Pictorial Essay of Linear Endoscopic Ultrasound Examination of Pancreas Anatomy. J Digest Endosc 2023;14:88–98; doi:10.1055/s-0043-1770924; CC BY 4.0).**
+- *Extract* (fresh agent; all 11 pages, figure banners rendered): general principles, 9-row station table (Station 1A celiac-artery route, 1B liver-hilum route, pull method, bulb = Station 2, D2 = Station 3) with homebase, torque/push sequence, structures and Figure locators; tips/pitfalls; divisum signs; Table 1 (training); 13 figures listed.
+- *Gate:* ABSENT 0 · OTHER 0 · NOMATCH 1 (summary paraphrase) · SIGN 3 read off rendered pages (>45° / <45° rotations; APA 2014 Table 4 duct criterion).
+- *Verify* (fresh agent, whole file): 0 management, 1 minor (torque-with-push/pull locator is the Introduction p. 88) → fixed. `verified: 2026-11-27`.
+- *Surfaced:* the essay's "normal" duct 4/3/2 mm (head/body/tail) would meet APA 2014's dilatation criterion (>3/>2/>1 mm) — APA (guideline) governs; essay value not propagated. Internal: PV vs MPV bulb homebase; "SMV" for vein and vessels; UPV/LPV in Fig. 11.
+- *Propagated:* [[endoscopic-ultrasound]] — new `## Technique` (page had none): 4-row station table (homebase, how, what it shows) + pitfall callout (shorten from the bulb, never push against resistance at D1–D2; transducer 1–1.5 cm distal to camera). Also fixed pre-existing hygiene: `## Sources` list lacked 2 frontmatter slugs (APA 2014, Rosemont). Gate: no flags on new lines. Changed-line check (fresh agent): 0 management, 2 minor — liver-hilum route names no homebase (MPV is only the bulb homebase); "past the left portal vein" → "until it turns round (<45°)" → both fixed, and the same homebase claim fixed on the source page. Page carries no `verified:`.
+- `index.md`: source row added (Sources → Other); EUS row 7 → 11 (actual frontmatter count).
+- *Cards:* none — source is a review (not tier-1) and the page is unverified.
+- `ingest: partial` removed.
+
+**Not run this pass:** *Quality review* and card steps (budget spent on three verified ingests); *Validate the stalest pages*, *Expand stubs*, *Fill coverage gaps*, *Slim long pages*: **paused (ingest backlog)**. Slim candidates grown this pass: [[bariatric-surgery]] (~3,600 words), [[celiac-disease]] (~5,100), [[endoscopic-ultrasound]] (~3,300).
+
+**Backlog status:** backlog mode stays **ON**. Remaining uningested tier-1/2 files are non-US/international and large (≈10k–50k words: BSG 2018/2026, ECCO 2025 ×2 / 2026, UEG 2025 (non-malabsorption) ×1, UEG-EPC 2026, UEG-ESNM 2025, WEO 2025 ×2, IAP 2025, Maastricht VI, Taipei II, Fiesole 2026, fatty pancreas 2026, EASL 2024 ×2 / 2025 eCCA, ESGE 2020 SEMS), NCCN ×3 (EULA, skipped), broken IANS 2024 file; 60 gated lectures untouched (need Nick's names).
+
 ---
 
 ## [2026-11-26] update | Card pass — dedup, stale verified pages re-carded and correlated ($10, second run)

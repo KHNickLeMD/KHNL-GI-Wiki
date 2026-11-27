@@ -3,8 +3,8 @@ title: "Bariatric Surgery"
 category: concept
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia, cirrhosis, csph, portal-hypertension]
 created: 2026-06-04
-updated: 2026-10-27
-sources: [sages-2013-hiatal-hernia, aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension, asmbs-ifso-2022-bariatric-indications]
+updated: 2026-11-27
+sources: [sages-2013-hiatal-hernia, aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm, aga-2020-bariatric-surgery-cirrhosis, aga-2018-surgical-risk-perioperative-cirrhosis, aga-2021-early-complications-bariatric-surgery, aga-2017-endoscopic-bariatric-therapies, baveno-viii-2026-portal-hypertension, asmbs-ifso-2022-bariatric-indications, lenti-2025-ueg-malabsorption-part-2]
 ---
 
 Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **Roux-en-Y gastric bypass (RYGB)**, adjustable gastric banding, duodenal switch — for [[obesity]]. Only ~**1.1% of eligible patients** receive primary bariatric surgery, and **<5%** of patients seeking weight loss are aware of endoscopic alternatives ([[aga-2021-intragastric-balloons]]).
@@ -34,6 +34,7 @@ This page covers the **gastrointestinal (GI)/endoscopic consequences** of these 
 - [[#Post-Sleeve Gastrectomy — Reflux and Barrett's Surveillance]]
 - [[#Bariatric Surgery for GERD in Obesity]]
 - [[#Iron Deficiency After Bariatric Surgery]]
+- [[#Pregnancy After Bariatric Surgery]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -278,6 +279,15 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 
 ---
 
+## Pregnancy After Bariatric Surgery
+
+European malabsorption consensus, Part 2 Statement 2.2.9 (ungraded; no US guideline on file covers this) ([[lenti-2025-ueg-malabsorption-part-2]]):
+- **Plan pregnancy at least 1 year after bariatric surgery.**
+- **Screen for nutritional deficiencies before, during and after pregnancy** — before conception or at the first antenatal visit: blood cell count, ferritin, iron, vitamin B12, folate, thiamine, vitamin A, calcium, vitamin D.
+- **Repeat at least once per trimester**, and post-partum if breastfeeding.
+
+---
+
 ## See Also
 
 [[obesity]], [[intragastric-balloon]], [[endoscopic-bariatric-therapies]], [[bariatric-surgery-leak]], [[semaglutide]], [[glp-1-receptor-agonists]], [[nafld-masld]], [[cirrhosis]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[portal-vein-thrombosis]], [[acute-on-chronic-liver-failure]], [[hepatocellular-carcinoma]], [[gerd]], [[barretts-esophagus]], [[hiatal-hernia]], [[antireflux-surgery]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[liver-transplantation]]
@@ -299,3 +309,4 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
 12. [[sages-2013-hiatal-hernia|SAGES 2013: Guidelines for the Management of Hiatal Hernia]]
 13. [[asmbs-ifso-2022-bariatric-indications|2022 ASMBS and IFSO: Indications for Metabolic and Bariatric Surgery]]
+14. [[lenti-2025-ueg-malabsorption-part-2|European Consensus on Malabsorption (UEG and partner societies) Part 2 (2025)]]
