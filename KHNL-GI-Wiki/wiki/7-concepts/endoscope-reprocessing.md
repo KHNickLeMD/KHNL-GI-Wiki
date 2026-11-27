@@ -4,6 +4,8 @@ category: concept
 tags: [endoscope-reprocessing, duodenoscope, infection-control, high-level-disinfection, cre, multidrug-resistant-organism, quality, endoscopy-unit]
 created: 2026-10-01
 updated: 2026-11-27
+quality_reviewed: 2026-11-27
+verified: 2026-11-27
 sources: [multisociety-2021-endoscope-reprocessing, mstf-2016-endoscope-reprocessing, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, usmstf-2025-bowel-prep]
 ---
 
@@ -32,7 +34,7 @@ sources: [multisociety-2021-endoscope-reprocessing, mstf-2016-endoscope-reproces
 | **Semicritical** | Intact mucous membranes or nonintact skin, without penetrating sterile tissue | Sterilization preferred; **high-level disinfection (HLD) at a minimum** if sterilization is not feasible — kills all vegetative microorganisms, mycobacteria, small/nonlipid and medium/lipid viruses, fungal spores; **some bacterial spores and prions may remain**. *Flexible GI endoscopes* |
 | **Noncritical** | Does not ordinarily touch the patient, or only intact skin | **Low-level disinfection**. *Stethoscopes, blood pressure cuffs, mouth guards* |
 
-- **Sterility Assurance Level** = **10⁻⁶** (<1 organism in 10⁶ reprocessed instruments); similar for HLD, except some tolerant spores — a narrow margin:
+- **Sterility Assurance Level** = **10⁻⁶** (<1 organism in 10⁶ reprocessed instruments); similar for HLD, except some tolerant spores ([[aga-2016-infection-ercp-endoscopes]]) — a narrow margin:
 
 | Step | Organisms / log reduction |
 |---|---|
@@ -104,7 +106,7 @@ The **2021 multisociety guideline** ([[multisociety-2021-endoscope-reprocessing]
 | **Staff** | Written reprocessing policy. **Model-specific** training; **documented competency before assignment** to HLD/sterilization. Competency re-evaluated on an organization-defined schedule — eg, start of employment, **at least annually**, after any breach, when a major technique or new endoscope or reprocessing accessory is introduced; **temporary staff may not reprocess until competency is verified** (Strong, Moderate) |
 | **Unit layout** | Flow separates soiled from reprocessed instruments. **No reprocessing in patient care areas** beyond point-of-use precleaning. Separate areas for manual cleaning and for drying/storage. Eyewash stations available, **placed near** sinks for soiled endoscopes (2016: not on those sinks). Ventilation keeps disinfectant vapor within allowable limits (Strong, Moderate) |
 | **Point of use and transport** | Preclean **immediately**, before bioburden dries: wipe exterior with IFU detergent; aspirate detergent through all channels **until clear**; preclean duodenoscope elevator channel/recess and echoendoscope balloon groove per manufacturer. **Transport immediately in fully enclosed, puncture-resistant, leak-proof, labeled containers** (2016 allowed an open container to an immediately adjacent room). **Leak test** per IFU after precleaning, before manual cleaning (Strong, Moderate) |
-| **Manual cleaning** | Within the manufacturer's time frame, **usually within 60 minutes** of release from the procedure (2016 gave no number); later → IFU delayed-processing directions. **Only model-specific, manufacturer-approved brushes** sized to the channel. Disassemble, **completely immerse**, flush and brush all accessible channels; **repeatedly actuate elevators of duodenoscopes and linear echoendoscopes**. **Discard enzymatic detergent after each use** |
+| **Manual cleaning** | Within the manufacturer's time frame, **usually within 60 minutes** of release from the procedure (the 2016 text gives no number, though [[aga-2017-mstf-endoscope-reprocessing-commentary\|AGA 2017]] quotes 2016 Rec 5 as "within 60 minutes"); later → IFU delayed-processing directions. **Only model-specific, manufacturer-approved brushes** sized to the channel. Disassemble, **completely immerse**, flush and brush all accessible channels; **repeatedly actuate elevators of duodenoscopes and linear echoendoscopes**. **Discard enzymatic detergent after each use** |
 | **Inspection** | Lighted magnification, frequently during use and reprocessing; **exterior inspection after each manual cleaning**, before HLD. Complex components (elevators, recess grooves) need optimal lighting, helped by magnification (Conditional, Low). **Borescopes: no recommendation** for routine use (Conditional, Moderate) |
 | **HLD** | **HLD in an AER** (Strong, Moderate; 2016: AER "advisable" when feasible). FDA-cleared AER with a compatible high-level disinfectant. **FDA-cleared label exposure time and temperature** (Strong, Moderate). **Duodenoscope elevator wire channel may not be disinfected by some AERs → do that step manually.** Only approved connectors. **Interrupted cycle → repeat the full cycle** |
 | **Manual HLD** (AER under repair) | Immerse completely, perfuse all channels; test **minimum effective concentration at the start of each day of use** (or more often per manufacturer), record it, **discard if below**; discard at end of reuse life regardless of concentration — reuse life runs from first activation of the original solution |
