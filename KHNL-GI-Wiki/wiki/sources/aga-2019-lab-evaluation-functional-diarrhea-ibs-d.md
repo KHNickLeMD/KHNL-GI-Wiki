@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functio
 category: source
 tags: [chronic-diarrhea, ibs, ibs-d, functional-diarrhea, calprotectin, lactoferrin, giardia, celiac, bile-acid-diarrhea, aga, guideline, grade]
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2019 Lab Evaluation of Functional Diarrhea & IBS-D.pdf"
 ---
@@ -22,7 +23,7 @@ American Gastroenterological Association (AGA) Institute clinical practice guide
 
 **The population definition is the guideline's most important content, because it is what makes the recommendations safe.** It applies only to the **immunocompetent** adult with **"watery" diarrhea of at least 4 weeks' duration**. It explicitly **excludes** patients with bloody diarrhea; diarrhea with signs of fat malabsorption; alarm features (weight loss, anemia, hypoalbuminemia); a family history of inflammatory bowel disease (IBD), colon cancer or celiac disease; and a travel history to regions with recognised diarrhea-related pathogens. Applying the against-testing recommendations outside that population is a misuse of the guideline — notably Recommendation 4, whose entire force depends on the absence of travel or immigration from a high-risk area.
 
-Two recommendations are **Strong** — test for *Giardia*, and test for celiac disease with IgA–tissue transglutaminase (IgA-tTG) plus a second test to cover IgA deficiency. Both stand on the good test performance of the assays rather than on outcome data. Everything else is Conditional on low-quality evidence, and the striking pattern is that **the guideline is as much about not testing as testing**: it suggests against erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) for IBD screening, and against routine stool ova and parasites other than *Giardia*.
+Two recommendations are **Strong** — test for *Giardia*, and test for celiac disease with IgA–tissue transglutaminase (IgA-tTG) plus a second test to cover IgA deficiency. Both stand on the good test performance of the assays rather than on outcome data. Recs 1, 2, 4 and 6 are Conditional on low-quality evidence and Rec 7 is a no-recommendation (knowledge gap), and the striking pattern is that **the guideline is as much about not testing as testing**: it suggests against erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) for IBD screening, and against routine stool ova and parasites other than *Giardia*.
 
 Recommendation 7 is a formal **"No recommendation; knowledge gap"** on serologic tests for diagnosing irritable bowel syndrome (IBS) — specifically the anti-CdtB (cytolethal distending toxin B) and anti-vinculin antibody strategy proposed for post-infectious IBS-D. The reasoning is quantitative: specificity is around 90%, but sensitivity of only **20%–40%** is not sufficient for routine use, and the case–control design in secondary/tertiary care settings likely inflates even those estimates.
 
@@ -44,7 +45,7 @@ Recommendation 7 is a formal **"No recommendation; knowledge gap"** on serologic
 
 ### The printed Comments — these carry the operative thresholds
 
-Three recommendations are printed with a **Comment** block in the boxed statement. The thresholds live there, not in the recommendation text:
+Four recommendations (1, 3, 5, 6) are printed with a **Comment** block in the boxed statement. The thresholds live there, not in the recommendation text:
 
 - **Rec 1 Comment:** "A threshold value of **50 µg/g** for fecal calprotectin is recommended to optimize sensitivity for IBD. Threshold values in the range of **4.0–7.25 µg/g** for fecal lactoferrin are recommended to optimize sensitivity."
 - **Rec 3 Comment:** "Use of a *Giardia* **antigen test** or **polymerase chain reaction** for *Giardia* test is recommended."
@@ -65,7 +66,7 @@ Three recommendations are printed with a **Comment** block in the boxed statemen
 - **Why only Conditional despite reasonable numbers:** the low quality "is compounded by the small likelihood that a positive test would initiate further confirmatory evaluation, leading to an earlier diagnosis of IBD compared to the **10% likelihood** that persons without IBD might be needlessly exposed to further confirmatory testing."
 - **CRP has a named exception.** "There are few settings where ESR should be considered as an appropriate screening test for IBD," but "if testing for fecal lactoferrin or calprotectin are either not available or not covered by insurance, the use of CRP might be considered to be a reasonable option to screen for IBD."
 - ***Giardia*:** modern antigen and PCR (for the *Giardia* small subunit ribosomal RNA) tests show **sensitivity and specificity >95%** in many studies. Rated High quality — the only High-quality rating in the document. The rationale is explicitly risk-benefit: "because treatments are straightforward, there is little risk in utilizing these tests."
-- **Celiac:** serum IgA-tTG at thresholds in the **7–15 AU/mL** range gives sensitivity typically **>90%**, with specificity typically slightly higher. **A positive test warrants confirmation by duodenal biopsy**, and "in adults, small bowel biopsy should be used to confirm a serologic diagnosis of celiac disease before committing a patient to a strict gluten-free diet."
+- **Celiac:** in patients without IgA deficiency, serum IgA-tTG at thresholds in the **7–15 AU/mL** range gives sensitivity typically **>90%**, with specificity typically slightly higher. **A positive test warrants confirmation by duodenal biopsy**, and "in adults, small bowel biopsy should be used to confirm a serologic diagnosis of celiac disease before committing a patient to a strict gluten-free diet."
 - **IBS serology (anti-CdtB / anti-vinculin):** specificity ~**90%** in the 2 available studies, but sensitivity only **20%–40%** — not sufficient for routine use. Case–control design in secondary/tertiary care likely inflates the estimates.
 
 ### The two IgA-deficiency strategies (Rec 5)

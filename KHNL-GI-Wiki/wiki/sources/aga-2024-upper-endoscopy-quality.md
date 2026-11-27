@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on High-Quality Upper Endoscopy: Expert Rev
 category: source
 tags: [egd, quality, upper-endoscopy, aga, biopsy-protocols, photodocumentation, image-enhanced-endoscopy]
 created: 2026-05-15
-updated: 2026-10-04
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 Quality Upper Endoscopy.pdf"
 ---
@@ -124,7 +125,7 @@ Document the number and location of biopsy specimens in the report. Site map: Fi
 | [[dyspepsia\|Dyspepsia]] / [[helicobacter-pylori-infection\|*H pylori*]] | **5** specimens raise *H pylori* sensitivity: greater + lesser curve of body, incisura, greater + lesser curve of antrum. Ideally **2 labeled jars** (body; antrum/incisura). Body biopsies especially important on potent acid suppression ([[proton-pump-inhibitors\|proton pump inhibitors]], [[potassium-competitive-acid-blockers\|potassium-competitive acid blockers]]) — organisms migrate proximally | *H pylori* may be present despite a normal-looking stomach | No role for routine esophageal or duodenal biopsies to evaluate dyspepsia symptoms |
 | High risk for gastric preneoplasia (e.g., GIM) and neoplasia ([[gastric-premalignant-conditions\|gastric premalignant conditions]]) | **≥5** specimens (updated Sydney System): 2 antrum (within 2–3 cm of pylorus, lesser + greater curve), 1 incisura, 2 body (lesser curve ~4 cm proximal to the angle; greater curve ~8 cm distal to cardia). **≥2 jars** (body; antrum/incisura). Targeted biopsies of focal abnormalities in a separate jar | Atrophy: pale mucosa, more visible submucosal vessels, loss of folds. GIM: may be nodular with irregular pattern; NBI may show bluish-white areas (light blue crest sign) | Separate antrum and body jars allow assessment of extent, severity, and etiology of atrophy and GIM. **Request histologic subtyping of GIM** (improves prognostic value) |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | If gastric ulcer biopsies are taken: base and edges. Routine duodenal ulcer biopsies not necessary. Biopsy rest of stomach for *H pylori* as above | — | Gastric ulcer biopsy decision may be individualized; at very low gastric cancer risk (history/demographics, e.g., young non-Hispanic White patient taking nonsteroidal anti-inflammatory drugs [NSAIDs]) and low-risk appearance (shallow, flat ulcer with associated erosions), biopsy may not be needed |
-| [[gastric-polyps\|Gastric polyps]] | Biopsy or, preferably, resect to establish histology — especially a solitary polyp. Multiple polyps: resect the largest, sample the rest | — | Biopsy intervening mucosa (atrophy, intestinal metaplasia, *H pylori*) if hyperplastic or adenomatous polyps suspected. Polypectomy of larger polyps gives more accurate histology (features may be patchy) |
+| [[gastric-polyps\|Gastric polyps]] | Biopsy or, preferably, resect to establish histology — especially a solitary polyp. Multiple polyps: resect the largest, sample the rest | — | Consider biopsy of intervening mucosa (atrophy, intestinal metaplasia, *H pylori*) if hyperplastic or adenomatous polyps suspected. Polypectomy of larger polyps gives more accurate histology (features may be patchy) |
 | [[celiac-disease\|Celiac disease]], suspected or established | Histology may be patchy → guidelines generally recommend **≥4** specimens from the postbulbar duodenum **+ 1–2** from the bulb | Reduced or scalloped folds, nodular mucosa, fissuring; ~1/3 look normal | Consider placing bulb specimens in a separate container. Bulb biopsies may raise sensitivity but lower specificity (normal bulb histologic changes) |
 
 ### Iron-Deficiency Anemia
@@ -158,7 +159,7 @@ Where AGA 2024 and the newer [[acg-2025-egd-quality|ACG/ASGE 2025]] quality indi
 - **Jars for *H pylori* biopsies:** [[aga-2015-upper-gi-biopsy-dyspepsia|AGA 2015]] — a single jar is acceptable for *H pylori* detection; AGA 2024 — ideally 2 labeled jars (body; antrum/incisura). Newer AGA 2024 governs.
 - **Iron-deficiency anemia:** AGA prefers celiac serology first; some international societies biopsy the duodenum at endoscopy. Unresolved across societies.
 - **Inspection time:** association data only (mostly retrospective, Asian populations); neither document sets a validated minimum time.
-- **Comparative IET data:** few head-to-head comparisons; no IET shown superior to another.
+- **Comparative IET data:** few comparative studies between IETs, and only limited data comparing each IET with high-definition white-light endoscopy (HD-WLE).
 
 ## See Also
 

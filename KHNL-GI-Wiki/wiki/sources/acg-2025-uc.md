@@ -174,7 +174,7 @@ Comprehensive update of ACG ulcerative colitis (UC) guideline. Major additions v
 - **Infliximab preferred anti-TNF** (Key concept 45); combo with thiopurine required (Rec 33)
 - **Primary nonresponse to anti-TNF:** switch class, not cycling within anti-TNF
 - **Upadacitinib (Strong/High):** FDA extended the tofacitinib label to upadacitinib — use after inadequate response or intolerance to ≥1 TNF inhibitor, with caution in cardiovascular risk, lowest effective maintenance dose
-- **IL-23 inhibitors:** all 3 (guselkumab, mirikizumab, risankizumab) recommended equally
+- **IL-23 inhibitors:** guselkumab, mirikizumab or risankizumab recommended for induction (Rec 26) and maintenance (Rec 40), listed together without a preference among them
 - **S1P modulators (ozanimod, etrasimod):** new class; oral; contraindicated in significant cardiovascular disease, severe untreated sleep apnea, cardiac conduction defects, and with monoamine oxidase inhibitors
 - **Janus kinase (JAK) inhibitors safety context:** ORAL Surveillance data from rheumatoid arthritis (RA) patients; boxed warning; labeled for use after anti-TNF failure, with caution in cardiovascular or venous thromboembolism (VTE) risk factors
 - Biosimilars (IFX, adalimumab [ADA], ustekinumab [UST]) are equivalent; switching is acceptable

@@ -3,7 +3,8 @@ title: "ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis 
 category: source
 tags: [fap, afap, map, mutyh, polyposis, duodenal-adenoma, spigelman, ampullary-adenoma, pouch-surveillance, endoscopy, asge]
 created: 2026-06-29
-updated: 2026-10-20
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2020 Endoscopy in Familial Adenomatous Polyposis.pdf"
 ---
@@ -37,7 +38,7 @@ Colorectal management has changed little — colectomy remains standard of care 
 9. We recommend a pouch endoscopy or ileoscopy in patients with IPAA [ileal pouch–anal anastomosis] or ileostomy surgery at 1- to 2-year intervals. (Very low)
 10. We recommend a sigmoidoscopy in patients with IRA [ileorectal anastomosis] surgery at 6-month to 1-year intervals indefinitely. (Very low)
 11. We recommend upper GI surveillance based on the interval advised for the most severely affected organ, whether stomach or duodenum. (Low)
-12. Surveillance examinations should include random biopsy sampling as well as targeted biopsy sampling of any suspicious lesions to assess for dysplasia and accurate duodenal Spigelman stage. Baseline Spigelman score 7 is associated with the development of duodenal HGD [high-grade dysplasia]. (Low)
+12. Surveillance examinations should include random biopsy sampling as well as targeted biopsy sampling of any suspicious lesions to assess for dysplasia and accurate duodenal Spigelman stage. Baseline Spigelman score ≥7 is associated with the development of duodenal HGD [high-grade dysplasia]. (Low)
 13. We recommend endoscopic resection of gastric and duodenal polyps >1 cm, given the risk of developing dysplasia. (Low)
 14. We recommend endoscopic resection of all antral polyps, given the predominance of gastric adenomas in this location. (Low)
 15. We recommend careful examination of the ampulla and periampullary region using a duodenoscope or cap-assisted gastroscope, given the predilection for cancer in this area. (Low)
@@ -51,8 +52,8 @@ Colorectal management has changed little — colectomy remains standard of care 
 - Chemoprevention data: a randomized trial of dual cyclooxygenase (COX) + epidermal growth factor receptor (EGFR) inhibition (sulindac 150 mg twice daily [BID] + erlotinib 75 mg daily) showed a 71% decrease in duodenal polyp burden at 6 months, though erlotinib use was limited by an acne-like rash. Nonsteroidal anti-inflammatory drugs (NSAIDs) alone have minimal efficacy for duodenal adenomas. It remains unknown whether reducing polyp burden (endoscopically or pharmacologically) lowers overall cancer risk.
 
 ## Relevance to Wiki
-- Updates [[familial-adenomatous-polyposis]] — adds endoscopy-specific surveillance detail: clinical-polyposis definition for testing (≥10 on one exam / ≥20 lifetime), pouch/ileoscopy 1–2 y, IRA sigmoidoscopy 6 mo–1 y indefinitely, upper-GI interval set by most-affected organ, resection of gastric/duodenal polyps >1 cm and all antral polyps, ampullary exam with duodenoscope/cap-assisted gastroscope, ampullary biopsy only if mucosal abnormality (avoid pancreatic orifice), Spigelman score 7 ↔ duodenal HGD, and sulindac+erlotinib chemoprevention data.
+- Updates [[familial-adenomatous-polyposis]] — adds endoscopy-specific surveillance detail: clinical-polyposis definition for testing (≥10 on one exam / ≥20 lifetime), pouch/ileoscopy 1–2 y, IRA sigmoidoscopy 6 mo–1 y indefinitely, upper-GI interval set by most-affected organ, resection of gastric/duodenal polyps >1 cm and all antral polyps, ampullary exam with duodenoscope/cap-assisted gastroscope, ampullary biopsy only if mucosal abnormality (avoid pancreatic orifice), Spigelman score ≥7 ↔ duodenal HGD, and sulindac+erlotinib chemoprevention data.
 - Cross-links [[upper-endoscopy]], [[colonoscopy]], [[mutyh-associated-polyposis]].
 
 ## Contradictions / Open Questions
-- Older (2020) than the genetics-focused [[acg-2015-hereditary-gi-cancer|ACG 2015 hereditary GI cancer guideline]] in publication terms but newer; within the guideline tier the ASGE 2020 endoscopic intervals refine (do not contradict) ACG's. Where the FAP page lists yearly pouch/rectal surveillance, that falls within ASGE's stated 1–2 y (pouch/ileostomy) and 6 mo–1 y (IRA) ranges — no genuine conflict.
+- Newer (2020) than the genetics-focused [[acg-2015-hereditary-gi-cancer|ACG 2015 hereditary GI cancer guideline]]; within the guideline tier the ASGE 2020 endoscopic intervals refine (do not contradict) ACG's. Where the FAP page lists yearly pouch/rectal surveillance, that falls within ASGE's stated 1–2 y (pouch/ileostomy) and 6 mo–1 y (IRA) ranges — no genuine conflict.

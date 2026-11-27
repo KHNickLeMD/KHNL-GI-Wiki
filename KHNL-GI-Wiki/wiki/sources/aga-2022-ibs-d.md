@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (20
 category: source
 tags: [ibs-d, irritable-bowel-syndrome, rifaximin, eluxadoline, alosetron, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2022 IBS-D Pharm Mgmt.pdf"
 ---
@@ -36,7 +37,7 @@ Executive Summary of Recommendations (verbatim). *For all recommendation stateme
 | 1 | In patients with IBS-D, the AGA suggests using [[eluxadoline]]<br/>*Implementation remark:* eluxadoline is contraindicated in patients without a gallbladder or those who drink more than 3 alcoholic beverages per day | Conditional | Moderate |
 | 2a | In patients with IBS-D, the AGA suggests using [[rifaximin]] | Conditional | Moderate |
 | 2b | In patients with IBS-D with initial response to rifaximin who develop recurrent symptoms, the AGA suggests retreatment with rifaximin | Conditional | Moderate |
-| 3 | In patients with IBS-D, the AGA suggests using [[alosetron]] | Conditional | Moderate |
+| 3 | In patients with IBS-D, the AGA suggests using [[alosetron]]<br/>*Implementation remark:* alosetron is restricted to women with severe IBS-D under a risk-management program | Conditional | Moderate |
 | 4 | In patients with IBS-D, the AGA suggests using [[loperamide]] | Conditional | Very low |
 | 5 | In patients with IBS, the AGA suggests using TCAs [tricyclic antidepressants] | Conditional | Low |
 | 6 | In patients with IBS, the AGA suggests **against** using SSRIs [selective serotonin reuptake inhibitors] | Conditional | Low |
@@ -46,7 +47,7 @@ Executive Summary of Recommendations (verbatim). *For all recommendation stateme
 
 ## Clinical Relevance
 
-[[rifaximin]] (with retreatment), eluxadoline, and alosetron are the disease-modifying options for IBS-D, layered with loperamide for symptom control and TCAs for pain. Mirrors the IBS with constipation (IBS-C) guideline within the [[disorders-of-gut-brain-interaction]] framework.
+[[rifaximin]] (with retreatment), eluxadoline, alosetron (women with severe IBS-D only) and loperamide are the IBS-D-specific options; TCAs and antispasmodics apply to IBS generally (for TCAs only global relief, not abdominal pain relief, met the clinically meaningful threshold). Mirrors the IBS with constipation (IBS-C) guideline within the [[disorders-of-gut-brain-interaction]] framework.
 
 ---
 

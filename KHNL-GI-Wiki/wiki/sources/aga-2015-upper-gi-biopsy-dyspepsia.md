@@ -3,7 +3,8 @@ title: "AGA Institute Guideline on the Role of Upper Gastrointestinal Biopsy to 
 category: source
 tags: [dyspepsia, egd, biopsy, helicobacter-pylori, celiac-disease, gvhd, sydney-system, aga, guideline]
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2015 Upper GI Biopsy in Dyspepsia.pdf"
 ---
@@ -126,7 +127,7 @@ All specimens go **in the same jar** — experienced GI pathologists can determi
 
 ## Contradictions / Open Questions
 
-- **The two Strong recommendations built on very low quality evidence (Statements 1 and 3)** are explicitly justified in the text by cost and harm considerations rather than evidence strength. Statement 1's justification is the potential for increased cost and harm despite very-low-quality evidence; Statement 3 is a reiteration of Statement 2's logic into the immunocompromised population.
+- **The two Strong recommendations built on very low quality evidence (Statements 1 and 3)** are justified in the text on grounds other than evidence strength: Statement 1 by the potential for increased cost and harm; Statement 3 by no evidence that the risk–benefit of *H. pylori* testing and treatment differs by immune status (Statement 2 reiterated for the immunocompromised) and by cytomegalovirus possibly being present in normal-appearing gastric mucosa.
 - **The 3- vs 5-biopsy question is unresolved.** Both protocols identified 100% of HP infections in the only study that compared them, and the choice of the 5-biopsy protocol rests on a possible yield advantage under acid suppression plus the absence of a cost difference — not on demonstrated superiority.
 - **Population generalizability is limited by design.** Recommendations derive primarily from Western populations; the document itself carves out non-Western populations at high squamous-dysplasia risk as potentially warranting a different approach, without specifying a protocol for them.
 - **The celiac recommendation is provisional by the panel's own statement** — conditional on very-low-quality prevalence data that the panel expects may change.

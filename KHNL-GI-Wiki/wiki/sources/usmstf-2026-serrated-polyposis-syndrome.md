@@ -3,7 +3,8 @@ title: "Serrated Polyposis Syndrome: A Review and Consensus Statement by the US 
 category: source
 tags: [serrated-polyposis, sps, sessile-serrated, hyperplastic-polyp, colorectal-cancer, colonoscopy, surveillance, usmstf]
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ACG/USMSTF 2026 Serrated Polyposis Syndrome (Rex).pdf"
 ---
@@ -77,7 +78,7 @@ SPS has no established genetic basis. Germline testing is indicated only when co
 ### CRC risk
 
 - Meta-analysis of 36 studies including **2,788 patients**: CRC risk at the time of SPS diagnosis **14.7%**; risk of CRC **before** diagnosis **7.7%**. Most CRC diagnoses are made **at or before the index exam**.
-- CRC incidence **during surveillance** is also elevated: meta-analysis CRC rate **2.8%** during surveillance, mean interval 28.9 months (range 4.3–80.4 months). CRC incidence rate has been **lower in recent studies and was zero in several** (Table 4: nine published studies with >60 patients, 5-year CRC risk 0%–7%).
+- CRC incidence **during surveillance** is also elevated: meta-analysis CRC rate **2.8%** during surveillance, mean interval 28.9 months (range 4.3–80.4 months). CRC incidence rate has been **lower in recent studies and was zero in several** (Table 4: nine published studies with >60 patients, CRC risk 0%–7% — 5-year risk except one study reporting 3-year risk).
 - SSLs with dysplasia or concurrent advanced conventional adenomas are associated with higher CRC risk.
 
 ### Improving diagnosis
@@ -111,7 +112,7 @@ SPS has no established genetic basis. Germline testing is indicated only when co
 
 - **Recommendation 9** — We recommend colonoscopy be performed in a **clearance phase at an interval of 3–6 months** followed by a **surveillance phase of 1–2 years**. *(Strong recommendation, Oxford Level 3)*
 - **Recommendation 10** — We suggest patients with **greatly reduced polyp burdens** at surveillance **can be considered for 3-year intervals**. *(Weak recommendation, Oxford Level 5)*
-- **Clearing phase** usually requires **≥2 colonoscopies**. Its endpoint is a colonoscopy in which **all visualized lesions ≥5 mm are resected**. Patients whose colons cannot be fully cleared during any single colonoscopy are in the clearing phase and should have colonoscopy repeated at **3–6-month intervals** until all lesions at or above the target size are removed.
+- **Clearing phase** may require **≥2 colonoscopies**. Its endpoint is a colonoscopy in which **all visualized lesions ≥5 mm are resected**. Patients whose colons cannot be fully cleared during any single colonoscopy are in the clearing phase and should have colonoscopy repeated at **3–6-month intervals** until all lesions at or above the target size are removed.
 - **Target lesions** for the clearing phase are usually defined as: **all conventional adenomas**, **all lesions proximal to the sigmoid**, and **all rectosigmoid serrated polyps either ≥5 mm or ≥3 mm** (Figure 2 footnote).
 - Surveillance-interval assignment after the colon is cleared (Figure 2 — framework, "not meant to imply strict evidence-based recommendations"):
 

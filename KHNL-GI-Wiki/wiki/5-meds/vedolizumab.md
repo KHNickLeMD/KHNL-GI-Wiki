@@ -3,7 +3,7 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-11-15
+updated: 2026-11-27
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver, global-consensus-2025-pregnancy-ibd]
 ---
 
@@ -168,8 +168,8 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 | | Advanced-therapy–**naïve** | After **anti-TNF** exposure |
 |---|---|---|
-| **UC** ([[aga-2024-uc-pharm]]) | Recommended over no treatment alongside infliximab, golimumab, tofacitinib, upadacitinib, ustekinumab, ozanimod/etrasimod (Rec 1) | Rec 4 directs toward higher-efficacy (tofacitinib, upadacitinib, ustekinumab) or intermediate-efficacy agents |
-| **CD** ([[aga-2025-crohns-pharm]]) | **Conditional** — grouped with certolizumab pegol over no treatment (Rec 2); named **lower-efficacy** vs infliximab / adalimumab / ustekinumab / risankizumab / upadacitinib (Rec 3) | Explicitly named **lower-efficacy**; prefer adalimumab, risankizumab, or upadacitinib (Rec 4) |
+| **UC** ([[aga-2024-uc-pharm]]) | **Higher-efficacy** tier (Rec 3); recommended over no treatment (Rec 1, Strong) | **Lower-efficacy** tier with adalimumab, ozanimod, etrasimod; prefer higher (tofacitinib, upadacitinib, ustekinumab) or intermediate agents (Rec 4) |
+| **CD** ([[aga-2025-crohns-pharm]]) | Suggested over no treatment with certolizumab pegol (Rec 2, Conditional); **higher-efficacy** tier (Rec 3) | **Lower-efficacy** with certolizumab pegol; prefer higher (adalimumab, risankizumab, guselkumab, upadacitinib) or intermediate (ustekinumab, mirikizumab) agents (Rec 4) |
 
 - **The ranking inverts with exposure.** Vedolizumab is a *higher*-efficacy choice in the naïve patient and *lower*-efficacy after anti-TNF failure — **prior exposure, not the drug alone, decides**. This is the practical consequence of the GEMINI LTS 82%/66% and GEMINI 1 post hoc findings above.
 - **Original AGA CD positioning** ([[aga-2021-crohns-pharm]], superseded for sequencing by the 2025 living guideline but still the basis of the primary-vs-secondary-nonresponse framework) — vedolizumab was **Conditional / low certainty** in every position:
@@ -249,7 +249,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 - **ACG UC 2019 → 2025.** [[acg-2019-uc]] carried **two separate induction recommendations** — Rec 25 for moderate-severe UC generally, and **Rec 26 specifically for patients who had previously failed anti-TNF therapy** (both Strong / moderate). ACG 2025 **collapses these into a single induction recommendation** (Rec 27) and instead adds the **new head-to-head positioning statement, Rec 45 (vedolizumab over adalimumab)** on VARSITY data, which did not exist in 2019. Readers carrying the 2019 version should note that the explicit "post-anti-TNF" endorsement is gone, and the post hoc data now cited point the other way — toward **using it early**.
 - **ACG CD 2018 → 2025 — the evidence grade went DOWN.** [[acg-2018-crohns]] Rec 27 graded induction **strong recommendation, HIGH level of evidence**, and maintenance (Rec 51) only **conditional / moderate**. [[acg-2025-crohns]] Rec 15 grades induction *and* maintenance together at **strong / MODERATE**. Per source priority, use the 2025 grades.
 - **Rec 34 wording vs grade.** ACG 2025 CD Rec 34 reads "we **recommend** vedolizumab therapy to prevent postoperative recurrence" but is graded **conditional** — an internal inconsistency in the published guideline, reproduced here as printed rather than silently normalized.
-- **AGA 2021 → 2025 (CD).** The 2021 network meta-analysis found **no significant first-line difference** among adalimumab, ustekinumab, and vedolizumab; the 2025 living guideline repositions vedolizumab into the **lower-efficacy** tier on expanded data. Defer to 2025 for sequencing ([[aga-2021-crohns-pharm]]).
+- **AGA 2021 → 2025 (CD).** The 2021 network meta-analysis found **no significant first-line difference** among adalimumab, ustekinumab, and vedolizumab; the 2025 living guideline keeps vedolizumab **higher-efficacy** first-line but places it **lower-efficacy** after prior advanced-therapy exposure ([[aga-2025-crohns-pharm]] Recs 3–4). Defer to 2025 for sequencing ([[aga-2021-crohns-pharm]]).
 
 ---
 

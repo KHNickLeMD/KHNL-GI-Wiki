@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician:
 category: source
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea]
 created: 2026-07-20
-updated: 2026-11-01
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2023 CPU Alpha-Gal Syndrome.pdf"
 ---
@@ -29,7 +30,7 @@ Mechanism (Figure 1): the ingested alpha-gal antigen binds to fat in a glycolipi
 - **Antigen / mechanism:** allergy is to galactose-alpha-1,3-galactose (alpha-gal), present on all nonprimate mammals. IgE-mediated; delayed (hours) because antigen must be absorbed on fat via chylomicrons (~2 h to circulation) before binding GI mast cell IgE.
 - **Sensitization:** occurs after tick bite (US: Lone Star tick, *Amblyomma americanum*; principal host deer) or parasitic infection (e.g., *Ascaris*). Lone Star tick is the only US tick that bites humans in the larval phase.
 - **Geography (US):** range of *Amblyomma americanum* — Southeast, mid-Atlantic, Midwest, East Central Census regions (New York/Iowa → Texas/Florida). International reports: Australia, South Africa, Western Europe, Japan (all continents except Antarctica).
-- **GI presentation:** abdominal pain, diarrhea, nausea, vomiting without predominant skin/respiratory/circulatory symptoms. Symptom stats from oral food challenge (OFC)-proven cohorts: abdominal pain 71%, vomiting 22%, GI-only reactions 40.7%. Delayed reactions (hives/anaphylaxis) typically occur 3–5 hours after eating mammalian meat.
+- **GI presentation:** abdominal pain, diarrhea, nausea, vomiting without predominant skin/respiratory/circulatory symptoms. Symptom stats from oral food challenge (OFC)-proven cohorts: abdominal pain 71%, vomiting 22%, GI-only reactions 40.7%. Hives typically develop 3–5 hours after eating mammalian meat; many patients also have a blood-pressure drop consistent with anaphylaxis.
 - **When to consider it:** unexplained GI symptoms (abdominal pain, diarrhea, nausea, vomiting) in patients who live/have lived in an alpha-gal–prevalent area → send **serum alpha-gal IgE**. Features raising likelihood: **nighttime awakening from sleep with GI distress**, history of tick bites, outdoor pursuits.
 - **When NOT to test / red flags:** consider not testing patients with **anemia, GI bleeding, or weight loss** — the allergy does not cause these. Skin symptoms (urticaria, angioedema) may or may not be present.
 - **Diagnosis (clinical + supporting labs):** requires (1) consistent symptoms, (2) **increased alpha-gal IgE titer**, and (3) **symptom resolution/improvement after an alpha-gal–avoidance diet**. A positive alpha-gal IgE **alone is not sufficient**, especially with isolated GI distress, because sensitized individuals are often asymptomatic (seroprevalence 31% in a North Carolina colonoscopy screening cohort; 35% in German hunters/forest workers). *(No specific numeric IgE cutoff is given in this CPU.)*
@@ -49,7 +50,7 @@ Mechanism (Figure 1): the ingested alpha-gal antigen binds to fat in a glycolipi
 - [[alpha-gal-syndrome]] — new disease-script page (route: `1-disease-scripts/other/`).
 - [[irritable-bowel-syndrome]] — key differential; alpha-gal is a departure from functional-GI paradigms and can be misdiagnosed as IBS.
 - [[chronic-diarrhea]] — diagnostic-schema workup context for unexplained diarrhea.
-- [[colorectal-cancer]] — cetuximab (anti-EGFR) infusion reactions were the original alpha-gal signal.
+- [[colorectal-cancer]] — cetuximab (monoclonal antibody for metastatic colorectal cancer) infusion reactions were the original alpha-gal signal.
 
 ## Contradictions / Open Questions
 - **No formal evidence grades** (commentary; no systematic review). Prospective studies on GI alpha-gal do not yet exist.

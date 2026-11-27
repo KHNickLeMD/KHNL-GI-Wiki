@@ -28,7 +28,7 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 
 **Diagnosis (Strong recommendations)**
 
-- Serologic celiac testing in IBS-D (Strong/Moderate; odds ratio [OR] 4.48 for biopsy-proven celiac disease [CD])
+- Serologic celiac testing in IBS-D (Strong/Moderate; pooled odds ratio [OR] 4.48 for biopsy-proven celiac disease [CD] in patients with IBS symptoms vs controls)
 - In patients **without alarm features** and with suspected IBS and diarrhea symptoms, to rule out IBD: **fecal calprotectin and CRP** (Strong/**Moderate**); **fecal lactoferrin** as the alternative to calprotectin (Strong/**Very low**). The guideline grades these separately — there is no single "moderate-to-very-low" grade.
 - **Positive diagnostic strategy** over exclusion (Strong/High for cost-effectiveness; Consensus for time-to-treatment)
 
@@ -73,7 +73,7 @@ First ACG clinical guideline for irritable bowel syndrome (IBS) using GRADE. 25 
 | # | Recommendation | Strength | Evidence Quality |
 |---|---|---|---|
 | **Diagnosis** | | | |
-| 1 | Serologic celiac testing in IBS-D (OR 4.48 for biopsy-proven CD) | Strong | Moderate |
+| 1 | Serologic celiac testing in IBS-D (OR 4.48 for biopsy-proven CD in IBS symptoms vs controls) | Strong | Moderate |
 | 2 | Fecal calprotectin **and CRP** checked in patients **without alarm features** and with suspected IBS and diarrhea symptoms, to rule out IBD | Strong | Moderate |
 | 2 | Fecal **lactoferrin** — the alternative to fecal calprotectin, same population | Strong | Very Low |
 | 3 | Against routine stool testing for enteric pathogens (including *Giardia*) in all patients with IBS — except those with a high pretest probability and definite risk factors for *Giardia* exposure | Conditional | Low |

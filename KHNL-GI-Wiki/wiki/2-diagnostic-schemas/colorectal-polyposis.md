@@ -3,7 +3,9 @@ title: "Colorectal Polyposis"
 category: diagnostic-schema
 tags: [polyposis, colorectal, hereditary-cancer, germline-testing, adenoma, hamartoma, serrated, apc, mutyh]
 created: 2026-08-27
-updated: 2026-11-09
+updated: 2026-11-27
+quality_reviewed: 2026-11-27
+verified: 2026-11-27
 sources: [usmstf-2026-serrated-polyposis-syndrome, acg-2026-adenomatous-polyposis, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2020-fap, usmstf-2020-followup-colonoscopy, usmstf-2017-bmmrd]
 ---
 
@@ -28,18 +30,18 @@ sources: [usmstf-2026-serrated-polyposis-syndrome, acg-2026-adenomatous-polyposi
 
 The patient found to have **multiple colorectal polyps** — how to sort that phenotype into a syndrome, or out of one. Not a defined diagnosis; each endpoint below has its own disease script.
 
-- Approximately **5–10% of cancers** are attributable to a hereditary cancer predisposition syndrome [[acg-2015-hereditary-gi-cancer]]
-- The phenotype is defined by **three variables recorded at a complete [[colonoscopy]]**: cumulative polyp **number**, polyp **histology**, and polyp **distribution** (proximal vs distal, pancolonic)
-- **Histology is the primary fork** — adenomatous vs hamartomatous vs serrated. Number then selects the syndrome within that arm
-- **Cumulative, not per-exam.** Counts accrue across a lifetime of colonoscopies; a patient below threshold today may cross it at the next exam
-- **A negative germline test does not exclude the diagnosis.** Genetic testing in a patient with a striking phenotype but no known family mutation should be comprehensive, and absence of a mutation does not rule out a clinical diagnosis — all close relatives must still be screened as if the syndrome were present [[acg-2015-hereditary-gi-cancer]]. Up to **30%** of clinically diagnosed [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] patients have no identifiable pathogenic *APC* variant [[asge-2020-fap]]
+- ~**10% of colorectal cancer (CRC)** is hereditary; a germline pathogenic variant (GPV) for an adenomatous polyposis syndrome is found in **1–2%** of patients with CRC [[acg-2026-adenomatous-polyposis]]
+- **Suspect a hereditary adenomatous syndrome at ≥10 cumulative lifetime adenomas**, especially with early age at onset, personal or family history of CRC, a relative with a known syndrome, early-onset CRC, or a syndrome-specific extraintestinal feature [[acg-2026-adenomatous-polyposis]]
+- Phenotype = cumulative polyp **number**, **histology** and **distribution** from [[colonoscopy]]. **Histology is the first fork**; number then selects the syndrome. Counts are **cumulative across all exams**
+- **A negative germline test does not exclude the diagnosis** — with a striking phenotype, all close relatives are still screened as if the syndrome were present [[acg-2015-hereditary-gi-cancer]]. Up to **30%** of clinically diagnosed [[familial-adenomatous-polyposis|familial adenomatous polyposis (FAP)]] has no identifiable *APC* variant [[asge-2020-fap]]
+- **De novo GPVs** (FAP: up to 25%) — no family history does not exclude a syndrome [[acg-2026-adenomatous-polyposis]]
 
-**Family history is part of the phenotype** [[acg-2015-hereditary-gi-cancer]]:
+**Family history is part of the phenotype** — personal and **at least 3-generation** family history [[acg-2026-adenomatous-polyposis]]:
 
-- Required elements: presence and **type** of cancer in **first- and second-degree relatives**, presence and (ideally) type of **polyps in first-degree relatives**
-- **Age at diagnosis and lineage** (maternal vs paternal, assessed separately) noted for every diagnosis
-- The three-generation pedigree is the genetics gold standard but is not feasible in general practice; first-degree relative (FDR) / second-degree relative (SDR) history is sufficient for initial risk assessment
-- Self-reported family history is **>75% accurate for FDRs** for most cancers, falling to **50–80%** for more distant relatives — review records when the cancer site is in question
+- Required: cancers in patient and relatives (**type, age at diagnosis**); relatives' **age at death**; **age at polyp diagnosis**
+- When available: polyp number and histology, cancer histology, extracolonic syndrome features, results and date of prior genetic testing in patient or family
+- Self-reported family history is **>75% accurate for first-degree relatives (FDRs)** for most cancers, **50–80%** for more distant relatives — review records when the cancer site is in question [[acg-2015-hereditary-gi-cancer]]
+- *Changed:* [[acg-2015-hereditary-gi-cancer]] accepted first- and second-degree relative history as sufficient; the American College of Gastroenterology (ACG) 2026 guideline makes 3 generations the minimum
 
 ---
 
@@ -49,47 +51,47 @@ The patient found to have **multiple colorectal polyps** — how to sort that ph
 
 | Syndrome | Defining polyp burden | Gene | Inheritance |
 |---|---|---|---|
-| [[familial-adenomatous-polyposis\|FAP]] | **≥100 synchronous** colorectal adenomas | *APC* (5q21) | Autosomal dominant, ~100% penetrant; up to **⅓ de novo / mosaic** |
-| Attenuated FAP (AFAP) | **10–99 synchronous** adenomas ("oligopolyposis"); **<100 at presentation**; averages ~25–30 polyps; **proximal** predominance | *APC* far 5′ end, far 3′ end, or certain exon-9 locations; whole/partial gene deletions | Autosomal dominant |
-| [[mutyh-associated-polyposis\|MUTYH-associated polyposis (MAP)]] | Most commonly **20–99** adenomas; can mimic FAP or AFAP | **Biallelic** *MUTYH* (*Y179C* and *G396D* account for >80% in European ancestry) | Autosomal **recessive** |
-| [[polymerase-proofreading-associated-polyposis\|Polymerase proofreading–associated polyposis (PPAP)]] | **30–100** adenomas; duodenal adenomas. Early-onset colorectal **and endometrial** cancer | *POLE*, *POLD1* | Autosomal dominant, high penetrance |
-| [[bmmrd-syndrome\|Biallelic mismatch repair deficiency (BMMRD)]] | Colonic adenomatous polyposis **in a child or young adult** not explained by *APC* or *MUTYH* | **Biallelic** mismatch repair (MMR) — *PMS2*, *MSH6* most often | Autosomal recessive |
-| ***NTHL1* tumor syndrome** (formerly *NTHL1*-associated polyposis) | **<100** adenomas; hyperplastic polyps and sessile serrated lesions may be present. Breast (55%), endometrial (27%), urothelial (20%) cancers | *NTHL1* (base-excision repair DNA glycosylase) | Autosomal **recessive** |
-| ***AXIN2*-associated polyposis** | **<10 to >100** adenomas; colonic polyposis and CRC in the sixth decade | *AXIN2* (negative regulator of Wnt signalling) | Autosomal dominant |
-| ***MLH3*-associated polyposis** | **30 to >100** adenomas; CRC, breast and brain cancers | *MLH3* | Autosomal recessive |
-| ***MSH3*-associated polyposis** | **20 to >100** adenomas; duodenal polyposis reported in a few. CRC, gastric, astrocytoma | *MSH3* | Autosomal recessive |
-| ***MBD4*-associated neoplasia syndrome** | **15 to >100** adenomas. Colorectal cancer, **acute myeloid leukaemia / myelodysplastic syndrome**, **uveal melanoma** | *MBD4* (base-excision repair) | Autosomal recessive |
-| [[colonic-polyposis-of-unknown-etiology\|Colonic polyposis of unknown etiology (CPUE)]] | **≥10 cumulative lifetime adenomas with a negative multigene panel.** Not a genetic diagnosis — a named category with its own surveillance | None identified; ***APC* mosaicism** is the commonest hidden cause | — |
+| [[familial-adenomatous-polyposis\|FAP]] | Usually **>100** adenomas; defined by **≥100 synchronous** adenomas ([[acg-2015-hereditary-gi-cancer]]) | *APC* (5q21) | Autosomal dominant; near-complete penetrance for colonic polyposis |
+| Attenuated FAP (AFAP) | Usually **10–100** adenomas; **proximal** predominance; averaged 25 in one study ([[acg-2015-hereditary-gi-cancer]]) | *APC* far 5′ or 3′ end, certain exon-9 sites; whole/partial gene deletions | Autosomal dominant |
+| [[mutyh-associated-polyposis\|MUTYH-associated polyposis (MAP)]] | Usually **10–100** adenomas; hyperplastic polyps and sessile serrated lesions may be present; can mimic FAP or AFAP ([[acg-2015-hereditary-gi-cancer]]) | **Biallelic** *MUTYH* | Autosomal **recessive** |
+| [[polymerase-proofreading-associated-polyposis\|Polymerase proofreading–associated polyposis (PPAP)]] | **30–100** adenomas; duodenal adenomas; early-onset colorectal and endometrial cancer ([[acg-2015-hereditary-gi-cancer]]) | *POLE*, *POLD1* | Autosomal dominant |
+| [[bmmrd-syndrome\|Biallelic mismatch repair deficiency (BMMRD)]] | Colonic adenomatous polyposis **in a child or young adult** not explained by FAP or MAP ([[usmstf-2017-bmmrd]]) | **Biallelic** mismatch repair (MMR) gene — *PMS2* most common, *MSH6* over-represented | Autosomal recessive |
+| ***NTHL1* tumor syndrome** | **<100** adenomas; hyperplastic polyps / sessile serrated lesions may be present. Breast, endometrial, urothelial cancers | *NTHL1* | Autosomal recessive |
+| ***AXIN2*-associated polyposis** | **<10 to >100** adenomas; CRC | *AXIN2* | Autosomal dominant |
+| ***MLH3*-associated polyposis** | **30 to >100** adenomas; CRC, breast, brain | *MLH3* | Autosomal recessive |
+| ***MSH3*-associated polyposis** | **20 to >100** adenomas; duodenal polyposis in a few. CRC, gastric, astrocytoma | *MSH3* | Autosomal recessive |
+| ***MBD4*-associated neoplasia syndrome** | **15 to >100** adenomas. CRC, acute myeloid leukemia, myelodysplastic syndrome, uveal melanoma | *MBD4* | Autosomal recessive |
+| [[colonic-polyposis-of-unknown-etiology\|Colonic polyposis of unknown etiology (CPUE)]] | **≥10 cumulative adenomas + negative multigene panel** (Key Concept [KC] 6). Not a genetic diagnosis; own surveillance | None identified | — |
 
-*Rows for PPAP through *MBD4* are from [[acg-2026-adenomatous-polyposis]] Table 5. **The six rare syndromes below MAP are all expert-centre referrals** — rarity, evolving cancer risks, multispecialty need ([[acg-2026-adenomatous-polyposis]] KC 5).*
+*Polyp counts and inheritance from [[acg-2026-adenomatous-polyposis]] Table 5 unless cited otherwise. **PPAP, NTHL1, AXIN2, MLH3, MSH3 and MBD4 syndromes → expert-center referral** (KC 5).*
 
 > [!pearl] Oligodontia points at *AXIN2*
 > Absence of **>6 adult non-wisdom teeth**, plus hair and cartilage hypoplasia, is the extracolonic signature of ***AXIN2*-associated polyposis** ([[acg-2026-adenomatous-polyposis]] Table 5).
 
-***APC* mosaicism** is the single commonest explanation for an unexplained adenomatous polyposis phenotype — up to **63%** of unexplained FAP with >20 adenomas in a systematic review and meta-analysis. Of mosaic patients with polyposis, **65% had an attenuated phenotype (20–100 adenomas)**, 30% classic, 5% no adenomas ([[acg-2026-adenomatous-polyposis]]).
-
-*Yield by count* — biallelic *MUTYH* is found in **7.5–12.5%** of patients with >100 adenomas in whom no *APC* mutation is found, and in **16–40%** of patients with **15–99** adenomas who do not have FAP. It was found in **0 of 400** individuals with <4 adenomas [[acg-2015-hereditary-gi-cancer]].
-
-*Monoallelic MUTYH* carriers are **1–2% of the general population**, with an estimated **1.5–2×** colorectal cancer (CRC) risk. There is no consensus on management; one option is to manage them as an individual with an FDR with CRC — [[colonoscopy]] **every 5 years, beginning 10 years earlier than the earliest CRC diagnosis** in the family [[acg-2015-hereditary-gi-cancer]].
+- ***APC* mosaicism** explains up to **63%** of unexplained FAP with >20 adenomas; 65% of mosaic patients have an attenuated (20–100 adenoma) phenotype — detail on [[familial-adenomatous-polyposis]] ([[acg-2026-adenomatous-polyposis]])
+- **Monoallelic *MUTYH*** carriers (1–2% of the population): management on [[mutyh-associated-polyposis]] [[acg-2015-hereditary-gi-cancer]]
 
 ### Hamartomatous phenotype
 
 | Syndrome | Discriminating feature | Gene |
 |---|---|---|
-| [[peutz-jeghers-syndrome\|Peutz–Jeghers syndrome]] | Perioral/buccal melanin pigmentation (>95%; lip spots **cross the vermilion border**) + histologically distinctive polyps — arborizing muscularis mucosae, **pseudoinvasion**; small bowel involved in 96% | *STK11* |
-| [[juvenile-polyposis-syndrome\|Juvenile polyposis syndrome]] | Juvenile polyps: smooth, rounded, reddish, no fissures/lobulations; colorectum 98%, stomach 14%, jejunum/ileum 7%, duodenum 7% | *SMAD4*, *BMPR1A* |
-| [[cowden-syndrome\|Cowden syndrome]] / PTEN hamartoma tumor syndrome (PHTS) (incl. Bannayan–Riley–Ruvalcaba) | **Multiple gastrointestinal (GI) hamartomas or ganglioneuromas**; macrocephaly, mucocutaneous lesions | *PTEN* |
-| [[hereditary-mixed-polyposis-syndrome\|Hereditary mixed polyposis syndrome]] (HMPS) | **Attenuated** colonic polyposis with an **admixture of histologies** in one polyp — adenomatous, hyperplastic, juvenile, mixed | *GREM1* (large upstream duplication) |
+| [[peutz-jeghers-syndrome\|Peutz–Jeghers syndrome]] | Perioral/buccal melanin spots (>95%; lip spots **cross the vermilion border**); polyps with **pseudoinvasion** (can be misread as cancer); small bowel in 96% ([[acg-2015-hereditary-gi-cancer]]) | *STK11* |
+| [[juvenile-polyposis-syndrome\|Juvenile polyposis syndrome]] | Juvenile polyps in colorectum 98%, stomach 14%, jejunum/ileum 7%, duodenum 7% ([[acg-2015-hereditary-gi-cancer]]) | *SMAD4*, *BMPR1A* |
+| [[cowden-syndrome\|Cowden syndrome]] / PTEN hamartoma tumor syndrome (PHTS) | **Multiple gastrointestinal (GI) hamartomas or ganglioneuromas**; macrocephaly, mucocutaneous lesions ([[aga-2022-hamartomatous-polyposis]]) | *PTEN* |
+| [[hereditary-mixed-polyposis-syndrome\|Hereditary mixed polyposis syndrome]] (HMPS) | **Attenuated** colonic polyposis; adenomas, hyperplastic polyps, and polyps with an **admixture of histologies** (adenomatous, hyperplastic, juvenile, mixed) ([[aga-2022-hamartomatous-polyposis]]) | *GREM1* (promoter or whole-gene duplication) |
 
 ### Serrated phenotype
 
-- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — **the most common gastrointestinal polyposis syndrome**, more common than all the others combined (~1 in 250 screening colonoscopies). Diagnose by the **2019 World Health Organization (WHO) criteria**, counting serrated polyps **proximal to the rectum** and **cumulatively across all lifetime colonoscopies**; the criteria table and the superseded older versions are on [[serrated-polyposis-syndrome]] ([[usmstf-2026-serrated-polyposis-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2026]]). **No consistent genetic basis has been identified**, so **SPS itself is not an indication for germline testing** — test only when concurrent non-serrated polyps (>10 conventional adenomas, >2 hamartomatous polyps) or family history independently meet criteria
-- Sporadic serrated/hyperplastic polyps — do not meet SPS criteria; follow standard [[colonoscopy-surveillance]]
+- [[serrated-polyposis-syndrome|Serrated polyposis syndrome (SPS)]] — **the most common GI polyposis syndrome**, more common than all others combined (~1 in 250 in screening colonoscopy cohorts) ([[usmstf-2026-serrated-polyposis-syndrome|US Multi-Society Task Force on Colorectal Cancer (USMSTF) 2026]])
+  - **2019 World Health Organization (WHO) criteria** (Rec 1), counting serrated polyps (hyperplastic, sessile serrated, traditional serrated adenoma) over the **cumulative lifetime**:
+    - **Type 1:** ≥5 serrated polyps proximal to the rectum, all ≥5 mm, ≥2 of them ≥10 mm
+    - **Type 2:** >20 serrated polyps throughout the colon, ≥5 proximal to the rectum
+  - **No consistent genetic basis** → SPS alone is not an indication for germline testing (Rec 2; criteria in the thresholds table below). Older criteria versions: [[serrated-polyposis-syndrome]]
 
 ### Not a polyposis
 
-- [[lynch-syndrome]] — few polyps; the phenotype is **early/right-sided CRC and MMR-deficient tumours**, not polyp number. Enters this schema only because it is the other hereditary CRC syndrome to exclude
-- Sporadic multiple adenomas / hyperplastic polyps below any syndrome threshold — surveillance interval only; see [[colonoscopy-surveillance]]
+- [[lynch-syndrome]] — formerly "hereditary nonpolyposis colorectal cancer"; found through **MMR-deficient tumours** (Key Tests), not polyp count [[acg-2015-hereditary-gi-cancer]]
+- Sporadic multiple adenomas / hyperplastic polyps below any syndrome threshold → [[colonoscopy-surveillance]]
 
 ---
 
@@ -97,57 +99,65 @@ The patient found to have **multiple colorectal polyps** — how to sort that ph
 
 ```mermaid
 flowchart TD
-    A["Multiple colorectal polyps<br/>at complete colonoscopy"] --> B["Record cumulative count,<br/>histology, distribution,<br/>plus FDR/SDR cancer and polyp history"]
-    B --> C{"Dominant histology?"}
-    C -->|Adenomatous| D{"Cumulative lifetime<br/>adenoma count"}
-    D -->|"≥20"| E["Recommend 17-gene MGPT"]
-    D -->|"10–19"| E2["Suggest 17-gene MGPT"]
-    D -->|"Extracolonic FAP feature<br/>(desmoid, CMTC, bilateral CHRPE,<br/>hepatoblastoma)"| E3["Recommend germline APC testing"]
-    E --> F{"Result?"}
-    E2 --> F
-    E3 --> F
-    F -->|"Pathogenic / likely pathogenic"| G1["Syndrome-specific management<br/>+ cascade testing of relatives"]
-    F -->|"Variant of uncertain significance"| G2["Do NOT alter management;<br/>manage on personal and family history.<br/>Do not test relatives for the variant"]
-    F -->|Negative| G3["≥20 adenomas: consider APC mosaicism testing<br/>Otherwise = CPUE, with its own surveillance"]
-    C -->|Hamartomatous| G["≥2 lifetime hamartomatous polyps,<br/>family history of hamartomatous polyps, or a syndrome-associated<br/>cancer in a 1st/2nd-degree relative"]
-    G --> H["Multigene panel<br/>STK11 / SMAD4 / BMPR1A / PTEN"]
-    C -->|Serrated| I{"Meets SPS criteria?"}
-    I -->|Yes| J["Serrated polyposis syndrome<br/>no routine germline test;<br/>MUTYH only if concurrent adenomas<br/>and/or family history of adenomas"]
-    I -->|No| K["Standard post-polypectomy surveillance"]
-    C -->|"CRC present<br/>(any histology)"| L["Tumour MMR immunohistochemistry (IHC)<br/>and/or microsatellite instability (MSI)<br/>on every newly diagnosed CRC"]
-    L --> M{"MLH1 loss?"}
-    M -->|Yes| N["BRAF testing or MLH1<br/>promoter hypermethylation"]
-    N -->|"Mutation / hypermethylation absent"| O["Germline MMR testing → Lynch syndrome"]
-    N -->|"Mutation / hypermethylation present"| K
-    M -->|"Other MMR protein lost"| O
+    A(["Multiple colorectal polyps:<br/>cumulative count + histology"]) -- "Adenomatous, ≥20 (ACG Rec 1)" --> B["Recommend multigene panel<br/>testing (MGPT), 17-gene minimum"]
+    A -- "Adenomatous, 10–19 (ACG Rec 2)" --> C["Suggest MGPT<br/>(shared decision-making)"]
+    A -- "Hamartomatous, ≥2 lifetime or family criteria (2022 Table 1)" --> H(["Genetic evaluation<br/>with a multigene panel"])
+    A -- "Serrated, meets 2019 WHO criteria (SPS Rec 1)" --> S(["SPS: germline testing only if<br/>non-serrated polyps or family<br/>history qualify (SPS Rec 2)"])
+    B --> R["MGPT result"]
+    C --> R
+    R -- "Pathogenic / likely pathogenic (Figure 2)" --> P(["Syndrome-specific management;<br/>cascade testing of relatives"])
+    R -- "Variant of uncertain significance (Figure 2)" --> V(["Manage on personal and family history;<br/>do not test relatives for the variant"])
+    R -- "Negative, ≥20 adenomas (KC 4)" --> M(["Consider referral for<br/>APC mosaicism testing"])
+    R -- "Negative, ≥10 adenomas (KC 6)" --> U(["Meets criteria for CPUE"])
+    class A start
+    class B,C,R test
+    class H,S,P,V,M act
+    class U stop
 ```
+*Genetic evaluation of multiple colorectal polyps, by histology and cumulative count*
+*Source: built from ACG 2026 Recs 1–2, KC 4, KC 6 and Figure 2; the 2022 hamartomatous-polyp genetic-evaluation recommendation (Table 1); USMSTF 2026 SPS Recs 1–2 (no single source flowchart)*
+*[[acg-2026-adenomatous-polyposis|ACG 2026 Adenomatous Colorectal Polyposis]] · [[aga-2022-hamartomatous-polyposis|USMSTF 2022 Hamartomatous Polyposis]] · [[usmstf-2026-serrated-polyposis-syndrome|USMSTF 2026 Serrated Polyposis]]*
+*ACG = American College of Gastroenterology · MGPT = multigene panel testing · WHO = World Health Organization · SPS = serrated polyposis syndrome · KC = key concept · CPUE = colonic polyposis of unknown etiology*
 
 ### Thresholds that trigger genetic evaluation
 
-| Phenotype | Threshold | Source |
+| Phenotype | Threshold → test | Source |
 |---|---|---|
-| **Adenomas — ≥20 cumulative lifetime** | **Multigene panel testing (MGPT)** to evaluate for a germline pathogenic variant (GPV) associated with an underlying hereditary adenomatous colorectal polyposis or cancer syndrome *(**Strong**; low certainty)* | [[acg-2026-adenomatous-polyposis]] **Rec 1** |
-| **Adenomas — 10–19 cumulative lifetime** | *Suggest* **MGPT**, same purpose *(Conditional; low certainty)*. Favoured in those **<60 years old** and/or with a personal or first-degree-relative history of CRC; may reasonably be **deferred in older patients without such a history** | [[acg-2026-adenomatous-polyposis]] **Rec 2** |
-| **Extracolonic features of FAP** | Any one of **desmoid tumors · cribriform morular carcinoma of the thyroid · bilateral and/or multifocal congenital hypertrophy of the retinal pigment epithelium (CHRPE) · hepatoblastoma** → **germline *APC* testing**, with **no adenoma-count requirement** *(**Strong**; low certainty)* | [[acg-2026-adenomatous-polyposis]] **Rec 3** |
-| **Early-onset CRC (<50 yr)** | MGPT in **all** patients, minimum *APC, MUTYH, MLH1, MSH2, MSH6, PMS2, EPCAM, BMPR1A, SMAD4, PTEN, STK11, TP53*. In 450 early-onset CRC patients evaluated by MGPT, **16% harboured a GPV** | [[acg-2026-adenomatous-polyposis]] Figure 1 |
-| **Known familial GPV, unaffected at-risk relative** | **Single-site testing** for the known variant — unless the single gene does not explain the entire familial phenotype, in which case offer MGPT covering the phenotype | [[acg-2026-adenomatous-polyposis]] KC 2, Figure 1 |
-| Adenomas *(superseded)* | **>10 cumulative** colorectal adenomas; **OR** family history of one of the adenomatous polyposis syndromes; **OR** adenomas **+** FAP-type extracolonic manifestations (duodenal/ampullary adenomas, desmoid tumours [abdominal > peripheral], papillary thyroid cancer, CHRPE, epidermal cysts, osteomas) | [[acg-2015-hereditary-gi-cancer]] |
-| Adenomas *(superseded)* | **Formal recommendation:** genetic counselling and testing for **"clinical polyposis" = ≥10 adenomas on a single endoscopy *and* ≥20 adenomas during their lifetime** *(low quality)*. The guideline's supporting text lists three *alternative* triggers — ≥10 cumulative adenomatous polyps on a single colonoscopy; **OR** ≥10 adenomas **and** a personal history of CRC; **OR** ≥20 adenomatous polyps in a lifetime | [[asge-2020-fap]] |
-| Adenomas *(superseded)* | **>10 adenomas at one exam** or **>10 cumulative lifetime adenomas** → *consider* testing, weighing absolute/cumulative number, patient age, family history of CRC, and personal polyposis features | [[usmstf-2020-followup-colonoscopy]] |
-| Hamartomatous — any | **≥2 lifetime hamartomatous polyps**; **OR** a family history of hamartomatous polyps; **OR** a hamartomatous-polyposis-syndrome–associated cancer in a **first- or second-degree relative**. Test with a **multigene panel** *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
-| Peutz–Jeghers | Four alternative criteria, any one sufficient — polyp count, family history, and mucocutaneous pigmentation in combination *(Strong, low quality)*; stated in full on [[peutz-jeghers-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
-| Juvenile polyposis | Three alternative criteria, any one sufficient — colorectal polyp count, extracolonic polyp count, or any number plus an affected first-degree relative *(Strong, low quality)*; stated in full on [[juvenile-polyposis-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
-| PTEN hamartoma tumor syndrome | **Multiple GI hamartomas or ganglioneuromas** *(Strong, low quality)*. Full clinical criteria (major/minor) on [[cowden-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
-| Serrated | Meets the **2019 WHO** SPS criteria ([[serrated-polyposis-syndrome]]). **Germline testing only when** concurrent non-serrated polyps independently qualify (**>10 conventional adenomas**, **>2 hamartomatous polyps**) **or** family history suggests a hereditary gastrointestinal cancer syndrome *(Strong, Oxford Level 3)*; *MUTYH* may be considered when adenomas are concurrent and/or there is a family history of adenomas | [[usmstf-2026-serrated-polyposis-syndrome]]; [[acg-2015-hereditary-gi-cancer]] |
-| Lynch | Tumour showing **MMR deficiency** without a *BRAF* mutation or *MLH1* hypermethylation; **OR** a known family mutation; **OR** **≥5% risk of Lynch** on a risk-prediction model | [[acg-2015-hereditary-gi-cancer]] |
-| BMMRD | Any clue in the red-flag list below — the phenotype is a **child or young adult**, and family history is usually **negative** because the parents are young and unaffected | [[usmstf-2017-bmmrd]] |
+| **Adenomas — ≥20 cumulative lifetime** | **Recommend MGPT** for a GPV of an underlying hereditary adenomatous colorectal polyposis or cancer syndrome *(Strong; low certainty)* | [[acg-2026-adenomatous-polyposis]] **Rec 1** |
+| **Adenomas — 10–19 cumulative lifetime** | **Suggest MGPT**, same purpose *(Conditional; low certainty)*. Shared decision-making; favored if **<60 years old** and/or personal or FDR history of CRC; may reasonably be **deferred in older patients without such history** | [[acg-2026-adenomatous-polyposis]] **Rec 2** |
+| **Extracolonic features of FAP** | Any one of **desmoid tumors · cribriform morular thyroid carcinoma · bilateral and/or multifocal congenital hypertrophy of the retinal pigment epithelium (CHRPE) · hepatoblastoma** → **germline *APC* testing**, no adenoma count needed *(Strong; low certainty)* | [[acg-2026-adenomatous-polyposis]] **Rec 3** |
+| **Early-onset CRC (<50 yr)** | MGPT in **all**, minimum *APC, MUTYH, MLH1, MSH2, MSH6, PMS2, EPCAM, BMPR1A, SMAD4, PTEN, STK11, TP53* (GPV in 16% of 450 tested) | [[acg-2026-adenomatous-polyposis]] text, Figure 1 |
+| **Known familial GPV, unaffected at-risk relative** | **Single-site testing** for the familial variant — MGPT instead if that gene does not explain the whole familial phenotype | [[acg-2026-adenomatous-polyposis]] KC 2, Figure 1 |
+| **Hamartomatous — any** | **≥2 lifetime hamartomatous polyps**; **OR** family history of hamartomatous polyps; **OR** a hamartomatous-syndrome cancer in a **first- or second-degree relative** → genetic evaluation, **multigene panel** *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
+| Peutz–Jeghers | Any one: **≥2** histologically confirmed Peutz–Jeghers polyps; **any number** + family history of Peutz–Jeghers syndrome in an FDR; characteristic **mucocutaneous pigmentation** + family history of Peutz–Jeghers syndrome; **any number** + characteristic pigmentation *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
+| Juvenile polyposis | Any one: **≥5** juvenile polyps of colon or rectum; **≥2** juvenile polyps elsewhere in the GI tract; **any number** + **≥1 FDR** with juvenile polyposis syndrome *(Strong, low quality)* | [[aga-2022-hamartomatous-polyposis]] |
+| PTEN hamartoma tumor syndrome | **Multiple GI hamartomas or ganglioneuromas** *(Strong, low quality)*; full clinical criteria on [[cowden-syndrome]] | [[aga-2022-hamartomatous-polyposis]] |
+| **Serrated (SPS)** | Germline testing **only when** concurrent non-serrated polyps are an established indication (e.g., lifetime **>10 conventional adenomas**, **>2 hamartomatous polyps**) **or** family history suggests a hereditary GI cancer syndrome *(Strong, Oxford Level 3)*. *Changed:* [[acg-2015-hereditary-gi-cancer]] allowed *MUTYH* testing in SPS with any concurrent adenomas and/or family history of adenomas | [[usmstf-2026-serrated-polyposis-syndrome]] **Rec 2** |
+| Lynch | Tumor **MMR deficiency** without *BRAF* mutation or *MLH1* hypermethylation; **OR** known family mutation; **OR** **≥5% risk** on a risk-prediction model → genetic evaluation | [[acg-2015-hereditary-gi-cancer]] |
+| BMMRD | Any red flag below; family history often **negative** — carrier parents (usually *PMS2*) have low penetrance and later-onset cancers | [[usmstf-2017-bmmrd]] |
 
-> **Version note — the adenoma threshold moved three times, and 2026 settles it.** [[acg-2015-hereditary-gi-cancer]] set a **single** trigger: >10 cumulative adenomas. [[asge-2020-fap]] joined ">10 at one exam" **and** "≥20 lifetime" with ***and***; [[usmstf-2020-followup-colonoscopy]] kept them as **alternatives**. **[[acg-2026-adenomatous-polyposis]] replaces all three with two graded bands on cumulative lifetime count alone — ≥20 (strong) and 10–19 (conditional)** — with **no single-exam element and no age cut-off**. Newest same-tier source; it governs the wiki. The older rows are kept only because they are still widely quoted.
->
-> **Yield by count** ([[acg-2026-adenomatous-polyposis]] Table 6, Grover 2012, n = 8,676): *APC* GPV in **5%** at 10–19 adenomas, **10%** at 20–99, **56%** at 100–999, **80%** at ≥1,000; biallelic *MUTYH* in 4%, 7%, 7% and 2% across the same bands. Taken together, the largest studies give a GPV yield of **12.3%–20.5% at ≥20** cumulative adenomas and **5.3%–11.3% at 10–19**.
+**Earlier adenoma thresholds (superseded by ACG 2026, still widely quoted):**
+
+- [[acg-2015-hereditary-gi-cancer|ACG 2015]] — **>10 cumulative** adenomas; **OR** family history of an adenomatous polyposis syndrome; **OR** adenomas + FAP-type extracolonic manifestations → assess for adenomatous polyposis
+- [[asge-2020-fap|American Society for Gastrointestinal Endoscopy (ASGE) 2020]] — counseling and testing for "clinical polyposis" = **≥10 adenomas on a single endoscopy *and* ≥20 lifetime** *(low quality)*; its text lists these as alternatives (plus ≥10 + personal CRC)
+- [[usmstf-2020-followup-colonoscopy|USMSTF 2020]] — **>10 adenomas at one exam or >10 cumulative lifetime** → *consider* testing (weigh number, age, family history of CRC, polyposis features)
+- ACG 2026 uses **cumulative lifetime count only** (≥20 strong, 10–19 conditional), no single-exam element
+
+```mermaid
+xychart-beta
+    title "APC variant yield by cumulative adenoma count"
+    x-axis "Cumulative lifetime adenomas" ["11–19", "20–99", "100–999", "≥1,000"]
+    y-axis "APC pathogenic variant found (%)" 0 --> 100
+    bar [5, 10, 56, 80]
+```
+*Germline APC yield rises steeply with cumulative adenoma count*
+*Source: data from 8,676 individuals tested for APC and MUTYH only (Grover 2012), cited in ACG 2026 Table 6*
+*[[acg-2026-adenomatous-polyposis|ACG 2026 Adenomatous Colorectal Polyposis Syndromes]]*
+
+- Across the largest MGPT studies, GPV yield is **5.3–11.3% at 10–19** adenomas, **12.3% at 20–99** (one study) and **20.5% at 20–49** / **60% at 50–99** (another) [[acg-2026-adenomatous-polyposis]]
 
 > [!pitfall] A negative panel is a diagnosis, not a discharge
-> **≥10 cumulative lifetime adenomas with a negative MGPT meets criteria for [[colonic-polyposis-of-unknown-etiology|colonic polyposis of unknown etiology (CPUE)]]** ([[acg-2026-adenomatous-polyposis]] KC 6), which carries its own colonoscopy, upper endoscopy and thyroid surveillance. Before accepting the negative: confirm the panel covered the **minimum gene set** below, and at **≥20 adenomas** consider referral for ***APC* mosaicism** testing (KC 3, KC 4).
+> **≥10 cumulative adenomas + negative MGPT = [[colonic-polyposis-of-unknown-etiology|CPUE]]** (KC 6), with its own colonoscopy, upper endoscopy and thyroid surveillance. First confirm the panel covered the **minimum gene set** below (KC 3); at **≥20 adenomas** consider ***APC* mosaicism** referral (KC 4) ([[acg-2026-adenomatous-polyposis]]).
 
 ---
 
@@ -155,25 +165,24 @@ flowchart TD
 
 | Test | Question it answers | Operative detail |
 |---|---|---|
-| **[[colonoscopy]] with complete clearance + [[polypectomy]]** | Cumulative count, distribution, and tissue for histology | Every polyp counts toward the lifetime total; **histology is the fork**, so all polyps need pathology |
-| **Family history** | Whether the count threshold is already met by lineage alone | Cancer type in FDRs **and** SDRs; polyps in FDRs; age + maternal/paternal lineage for each [[acg-2015-hereditary-gi-cancer]] |
-| **Tumour MMR IHC (MLH1/MSH2/MSH6/PMS2) and/or MSI** | Whether a CRC is mismatch-repair deficient | Perform on **all newly diagnosed CRCs**. **MLH1 loss → reflex *BRAF* testing or *MLH1* promoter hypermethylation** analysis before germline testing [[acg-2015-hereditary-gi-cancer]] |
-| **Germline testing** | Confirms the syndrome and enables predictive testing of relatives | Must sit inside **pre- and post-test genetic counselling**. Two settings: comprehensive testing of a suspicious phenotype, vs single-site testing of relatives of a known carrier — where a negative result **rules the syndrome out** [[acg-2015-hereditary-gi-cancer]] |
-| **[[upper-endoscopy\|Upper endoscopy]] with duodenoscopy** | Extracolonic polyp burden in adenomatous polyposis | Confirms the FAP-type phenotype; Spigelman staging and surveillance intervals live on [[familial-adenomatous-polyposis]] |
-| **Tissue diagnosis in children** | BMMRD | Reasonable to perform **universal IHC and MSI on all small- and large-bowel cancers in children**. In BMMRD the MMR protein is absent in **normal, non-neoplastic tissue as well as tumour** — a pattern pathologists may misread [[usmstf-2017-bmmrd]] |
+| **[[colonoscopy]] + [[polypectomy]]** | Cumulative count, size, distribution; tissue for histology | Record polyp number, size and distribution at every exam [[acg-2015-hereditary-gi-cancer]]; in adenomatous polyposis, report colon and rectal counts separately (KC 9) [[acg-2026-adenomatous-polyposis]]; describe number, size and location of serrated polyps at least until SPS is diagnosed (Rec 3) [[usmstf-2026-serrated-polyposis-syndrome]] |
+| **Tumor MMR immunohistochemistry (IHC) (MLH1/MSH2/MSH6/PMS2) and/or microsatellite instability (MSI)** | Is the CRC mismatch-repair deficient? | **All newly diagnosed CRCs**. **MLH1 loss → *BRAF* testing or *MLH1* promoter hypermethylation** before germline testing [[acg-2015-hereditary-gi-cancer]] |
+| **Germline testing** | Confirms the syndrome; tests relatives | Within **pre- and post-test genetic counseling** [[acg-2015-hereditary-gi-cancer]], by a genetic counselor or provider with genetic-testing expertise [[acg-2026-adenomatous-polyposis]]. In a relative of a known carrier, a negative single-site test **rules the syndrome out** [[acg-2015-hereditary-gi-cancer]] |
+| **[[upper-endoscopy\|Upper endoscopy]]** | Gastric/duodenal polyposis, ampullary adenomas | Baseline at CPUE diagnosis (KC 30) [[acg-2026-adenomatous-polyposis]]; FAP/AFAP/MAP timing and Spigelman staging on [[familial-adenomatous-polyposis]] |
+| **IHC/MSI in children** | BMMRD | Reasonable for **all small- and large-bowel cancers in children**. MMR protein usually absent in **normal tissue as well as tumor** — can confuse interpretation [[usmstf-2017-bmmrd]] |
 
 ### Which genes go on the panel
 
 > [!pearl] The minimum panel for adenomatous polyposis is 17 genes
-> ***APC, AXIN2, BMPR1A, EPCAM, GREM1, MLH1, MSH2, MSH3, MSH6, MUTYH, NTHL1, POLD1, POLE, PMS2, PTEN, SMAD4, STK11*** ([[acg-2026-adenomatous-polyposis]] KC 1). Adenomatous, serrated and hamartomatous polyps **coexist** in the polyposis syndromes and blur the phenotype, which is why the panel spans all three. Previous testing that **omitted any of these genes, predated 2013, or preceded a change in personal or family cancer history** warrants re-evaluation (KC 3).
+> ***APC, AXIN2, BMPR1A, EPCAM, GREM1, MLH1, MSH2, MSH3, MSH6, MUTYH, NTHL1, POLD1, POLE, PMS2, PTEN, SMAD4, STK11*** ([[acg-2026-adenomatous-polyposis]] KC 1) — spans all three histologies because they **coexist** and blur the phenotype. Previous negative testing that **omitted any of these genes** or **preceded a change in personal or family cancer history** warrants further evaluation (KC 3); the text also flags testing done **before 2013**.
 
 | Phenotype | Genes | Source |
 |---|---|---|
 | **Adenomatous polyposis** | **The 17-gene minimum panel above** | [[acg-2026-adenomatous-polyposis]] KC 1 |
-| Adenomatous polyposis *(superseded)* | ***APC* + *MUTYH***. If negative and suspicion remains high, consider other genes (*POLE*, *POLD1*, *GREM1*) | [[acg-2015-hereditary-gi-cancer]], [[asge-2020-fap]] |
-| Hamartomatous polyposis | **Multigene panel** (rather than sequential single-gene testing) — *STK11* (PJS), *SMAD4* / *BMPR1A* (JPS), *PTEN* (PHTS) | [[aga-2022-hamartomatous-polyposis]] |
+| Adenomatous polyposis *(superseded)* | ***APC* + *MUTYH*** | [[acg-2015-hereditary-gi-cancer]] |
+| Hamartomatous polyposis | **Multigene panel** (2022) — *STK11* (Peutz–Jeghers), *SMAD4* / *BMPR1A* (juvenile polyposis), *PTEN* (PHTS) (2015) | [[aga-2022-hamartomatous-polyposis]]; [[acg-2015-hereditary-gi-cancer]] |
 | Suspected Lynch | *MLH1*, *MSH2*, *MSH6*, *PMS2*, and/or *EPCAM* — or the gene indicated by IHC | [[acg-2015-hereditary-gi-cancer]] |
-| Serrated polyposis | **None for SPS itself.** Test only if concurrent non-serrated polyps or family history qualify independently; *MUTYH* only with concurrent adenomas and/or family history of adenomas | [[usmstf-2026-serrated-polyposis-syndrome]]; [[acg-2015-hereditary-gi-cancer]] |
+| Serrated polyposis | **None for SPS itself** — see thresholds table | [[usmstf-2026-serrated-polyposis-syndrome]] Rec 2 |
 
 ---
 
@@ -181,22 +190,22 @@ flowchart TD
 
 **Push toward a syndrome rather than sporadic polyps:**
 
-- **Early age at onset** of polyps or cancer; unusual **number** or **histology** of polyps/cancers [[acg-2015-hereditary-gi-cancer]]
-- **FAP-type extracolonic manifestations** — duodenal/ampullary adenomas, desmoid tumours (abdominal > peripheral), papillary thyroid cancer (cribriform morular variant), CHRPE (multifocal/bilateral), epidermal cysts, osteomas, hepatoblastoma [[acg-2015-hereditary-gi-cancer]], [[usmstf-2020-followup-colonoscopy]]
+- **Early age at onset** of polyps or cancer; unusual **numbers or histologies** of cancers or premalignant conditions [[acg-2015-hereditary-gi-cancer]]
+- **FAP-type extracolonic manifestations** (thresholds table, Rec 3) — also duodenal/ampullary adenomas, epidermal cysts, osteomas [[acg-2015-hereditary-gi-cancer]]
 - **Mucocutaneous pigmentation crossing the vermilion border** → [[peutz-jeghers-syndrome]]
-- **Macrocephaly, trichilemmomas, oral papillomatosis** with GI hamartomas → [[cowden-syndrome]]
-- ***SMAD4* carrier** — screen for **[[hereditary-hemorrhagic-telangiectasia|hereditary haemorrhagic telangiectasia]]**, including cardiovascular examination (epistaxis, mucocutaneous telangiectasias, arteriovenous malformations [AVMs]) [[acg-2015-hereditary-gi-cancer]], [[aga-2022-hamartomatous-polyposis]]
+- **Macrocephaly, trichilemmomas, oral papillomatosis** with GI hamartomas → [[cowden-syndrome]] [[acg-2015-hereditary-gi-cancer]]
+- ***SMAD4* carrier** → evaluate for [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] at diagnosis, including screening for cerebral and pulmonary arteriovenous malformations *(Weak, low quality)* [[aga-2022-hamartomatous-polyposis]]
 
-**Push toward [[bmmrd-syndrome|BMMRD]]** [[usmstf-2017-bmmrd]] — any one of:
+**Push toward [[bmmrd-syndrome|BMMRD]]** — any one of [[usmstf-2017-bmmrd]]:
 
 - Child or young adult with a **Lynch-syndrome cancer** (colorectal, small bowel, ureter, endometrial)
 - Child or young adult with **colonic adenomatous polyposis not explained by FAP or MAP**
-- Any child or young adult with cancer **plus parental consanguinity, café-au-lait macules, or neurofibromatosis features** not explained by a confirmed germline variant
-- Any cancer with **abnormal MMR IHC in normal *and* tumour tissue**
-- History of **brain cancer, lymphoma, or leukaemia without prior radiation**
-- Any child or adult with a **hypermutated tumour**
+- Child or young adult with cancer **plus parental consanguinity, café-au-lait macules, or neurofibromatosis features** not explained by another confirmed germline mutation
+- Any cancer with **abnormal MMR IHC in normal *and* tumor tissue**
+- **Brain cancer, lymphoma, or leukemia without prior radiation**
+- Any child or adult with a **hypermutated tumor**
 
-**Push toward surgical referral rather than more testing** — the absolute indications for colectomy are **invasive cancer, multiple adenomas with high-grade dysplasia, endoscopically unresectable adenomas ≥10 mm or with high-grade dysplasia, inability to survey the colon regardless of adenoma number**, or clinically significant symptoms. The full three-column endoscopic/relative/absolute table ([[acg-2026-adenomatous-polyposis]] Table 8) lives on [[familial-adenomatous-polyposis]] and applies to FAP, AFAP, MAP and CPUE alike. *(This supersedes [[acg-2015-hereditary-gi-cancer]]'s "multiple adenomas >6 mm" as the relative indication.)*
+**Push toward surgical referral rather than more testing** — absolute colectomy indications in adenomatous polyposis: **>1,000 adenomas**, **invasive cancer**, **multiple adenomas with high-grade dysplasia (HGD)**, **endoscopically unresectable adenomas ≥10 mm or with HGD**, **inability to survey the colon endoscopically regardless of adenoma number**, or clinically significant signs/symptoms ([[acg-2026-adenomatous-polyposis]] Table 8; full table on [[familial-adenomatous-polyposis]]). In CPUE: colectomy for CRC or endoscopically unmanageable polyposis (KC 29). *(ACG 2015 listed multiple adenomas >6 mm as a relative indication.)*
 
 ---
 

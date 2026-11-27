@@ -3,7 +3,9 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, diet, fiber, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-11-05
+updated: 2026-11-27
+quality_reviewed: 2026-11-27
+verified: 2026-11-27
 sources: [acg-2020-ibs, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo, aga-2022-diet-ibs, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2018-functional-gi-symptoms-ibd, aga-2018-psychogastroenterology, aga-2023-alpha-gal-syndrome]
 ---
 
@@ -26,7 +28,7 @@ sources: [acg-2020-ibs, rome-v-2026-bowel-disorders, rome-v-2026-dgbi, acg-2020-
 
 ### Establishing the Diagnosis
 
-Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. American College of Gastroenterology (ACG) 2020 endorses a **positive diagnostic strategy** using Rome criteria + a focused, limited testing panel rather than a diagnosis of exclusion ([[acg-2020-ibs]] Recs 5–6; Strong/High for cost-effectiveness).
+Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. American College of Gastroenterology (ACG) 2020: **positive diagnostic strategy** rather than a diagnosis of exclusion — suggested to shorten time to therapy (Rec 5, Consensus) and recommended for cost-effectiveness (Rec 6, Strong/High) ([[acg-2020-ibs]]).
 
 **Rome V criteria (2026)** — the operative criteria ([[rome-v-2026-bowel-disorders]]):
 
@@ -37,17 +39,17 @@ Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorde
 >
 > Symptom onset ≥6 months before diagnosis. **Supportive criterion:** pain/discomfort should not be *only* related to menses.
 
-**What changed from Rome IV** (the criteria [[acg-2020-ibs|ACG 2020]] was written against: pain alone, ≥1 day/week) — the non-continuous-pain rule *narrows* the diagnosis, the others *widen* it:
+**What changed from Rome IV** (the criteria [[acg-2020-ibs|ACG 2020]] was written against: pain alone, ≥1 day/week) ([[rome-v-2026-bowel-disorders]]):
 
-- **Frequency lowered to ≥3 days/month.** The Rome IV threshold is the main reason measured prevalence fell between Rome III and Rome IV — from ~**10% to 4%** — defining a population more severe than what is seen in practice.
-- **"Discomfort" re-added** after removal in Rome IV — patients in some countries experience discomfort without pain.
-- **Pain/discomfort must NOT be continuous** — a **new exclusion**: continuous pain points to [[centrally-mediated-abdominal-pain-syndrome|**centrally mediated abdominal pain syndrome** (Rome V D1)]], not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
-- **Menses supportive criterion added**, to separate IBS from menstrual-related symptoms.
-- **6-month duration is no longer required** for clinical (as opposed to research) use — the Rome Clinical Criteria suggest an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders; frequency below the research threshold is permitted if symptoms are bothersome and the qualitative features are met ([[rome-v-2026-dgbi]] — see the disorder of gut–brain interaction page linked above).
+- **Frequency lowered to ≥3 days/month** — the Rome IV threshold drove the fall in measured IBS prevalence from ~**10% to 4%** ([[rome-v-2026-dgbi]]).
+- **"Discomfort" re-added** — some patients have discomfort without pain.
+- **Pain/discomfort must not be continuous** — new; continuous pain points to [[centrally-mediated-abdominal-pain-syndrome|centrally mediated abdominal pain syndrome]], not IBS.
+- **Menses supportive criterion added** — separates IBS from menstrual-related symptoms.
+- **Clinical (vs research) use:** 6-month duration not required — **8 weeks** suggested to exclude other diagnoses (exception: clinician satisfied that evaluation excludes other disorders); lower frequency allowed if symptoms are bothersome and the qualitative features are met ([[rome-v-2026-dgbi]] Table 3).
 
 ### Severity Assessment
 
-**Choice of treatment is often driven by symptom severity** — [[rome-v-2026-dgbi|Rome V]] Table 4 (a Rome Working Team *proposed* clinical profile) assigns the stratum from the whole profile, not the score alone; severity-matched treatment is on the disorder of gut–brain interaction page:
+Treatment is matched to severity — [[rome-v-2026-dgbi|Rome V]] Table 4 (a *proposed* clinical profile) assigns the stratum from the whole profile, not the score alone; severity-matched treatment is on the gut–brain interaction page linked above.
 
 | Clinical feature | Mild | Moderate | Severe |
 |---|---|---|---|
@@ -64,33 +66,29 @@ Irritable bowel syndrome (IBS) is a [[disorders-of-gut-brain-interaction|disorde
 | Activity restriction | Occasional (0–15 d) | More often (15–50 d) | Frequent/constant (>50 d) |
 | Work disability | <5% | 6–10% | ≥11% |
 
-*Table 4 — Proposed clinical profile for patient-rated severity in IBS. ([[rome-v-2026-dgbi]])*
+*Proposed clinical profile for patient-rated severity in IBS*
+*Source: Table 4 of Rome V 2026, recreated*
+*[[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]*
+*FBDSI = Functional Bowel Disorder Severity Scale · IBS-SSS = IBS Symptom Severity Scale · CNS = central nervous system*
 
-> [[rome-v-2026-dgbi|Rome V]] gives the FBDSI / IBS-SSS severity cut-points but not their item weights; assign the stratum from the clinical profile in the table.
-
-- Impact on quality of life (QoL), work, and food avoidance more clinically meaningful than randomized controlled trial (RCT) global response metrics
-- **How far QoL falls:** IBS patients demonstrate **lower QoL than patients with end-stage renal disease and than patients with diabetes** ([[aga-2018-psychogastroenterology]]). Most pronounced impacts: **fatigue, limitation of life activities, pain**.
-- **Symptom-specific anxiety amplifies the burden** and drives higher health care utilization — in a survey of **1242 IBS patients, 43% thought the disorder could develop into colitis and 21% into cancer** ([[aga-2018-psychogastroenterology]]).
+- Rome V gives the FBDSI / IBS-SSS cut-points but not their item weights; assign the stratum from the clinical profile.
+- IBS patients have **lower quality of life than patients with end-stage renal disease or diabetes**; largest impacts: fatigue, limitation of life activities, pain. Many fear progression — in one survey **43%** thought IBS could become colitis, **21%** cancer ([[aga-2018-psychogastroenterology]]).
 
 ### Classification / Typing
 
-Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with abnormal stools** (assess off therapy, 2-week diary):
+Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale (BSFS)]], counting **only days with ≥1 abnormal bowel movement** ([[rome-v-2026-bowel-disorders]] Table 1):
 
-| Subtype | Bristol Stool Form Scale (BSFS) 1–2 | BSFS 6–7 |
-|---|---|---|
-| IBS with constipation (IBS-C) | >25% | <25% |
-| IBS with diarrhea (IBS-D) | <25% | >25% |
-| IBS with mixed bowel habits (IBS-M) | >25% | >25% |
-| IBS unclassified (IBS-U) | neither >25% nor matches above | |
+| Subtype | BSFS 1–2 | BSFS 6–7 | Clinical-practice alternative: abnormal stools are usually… |
+|---|---|---|---|
+| IBS with constipation (IBS-C) | >25% | <25% | constipation (type 1–2) |
+| IBS with diarrhea (IBS-D) | <25% | >25% | diarrhea (type 6–7) |
+| IBS with mixed bowel habits (IBS-M) | >25% | >25% | both (>25% each) |
+| IBS unclassified (IBS-U) | cannot be categorized into the 3 groups above | | rare (both diarrhea and constipation) |
 
-**Qualifiers that make the subtype valid** ([[rome-v-2026-bowel-disorders]]) — subtypes are **mutually exclusive**:
-
-- Count **only days with ≥1 abnormal bowel movement**; including normal-stool days lowers specificity.
-- **≥4 days of abnormal bowel habit per month** are needed for confidence.
-- Assess **off all therapies for bowel habit** (laxatives, antidiarrheals) — otherwise IBS-C/D/M cannot be established.
-- **Clinical-practice shortcut:** ask which Bristol picture the patient's *abnormal* stools usually look like (IBS-C usually 1–2 · IBS-D usually 6–7 · IBS-M both >25% · IBS-U abnormal stools are rare). Trials use ≥2 weeks of daily diary.
-
->50% of patients change predominant subtype over 1 year — re-classify periodically.
+- Subtypes are **mutually exclusive**; **≥4 days of abnormal bowel habit per month** needed for confidence.
+- Assess **off all therapies for bowel habit** (laxatives, antidiarrheals) — otherwise IBS-C/D/M cannot be confidently established.
+- Clinical trials: ≥2 weeks of daily diary, "25% rule".
+- **More than half change predominant subtype over 1 year** — clarify subtype routinely ([[acg-2020-ibs]]; categorizing by subtype improves therapy, Rec 7, Consensus).
 
 ---
 
@@ -98,57 +96,49 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 
 *Workup: see [[chronic-diarrhea]] for the diarrhea-predominant presentation, [[chronic-constipation]] for the constipation-predominant one.*
 
-- [[ulcerative-colitis]] / [[crohns-disease]] — calprotectin/lactoferrin + C-reactive protein (CRP) screen (Strong/Moderate, [[acg-2020-ibs]])
-  - **IBS and [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] coexist far more often than they exclude each other** — pooled IBS prevalence in IBD **39%**, odds ratio **4.89** vs controls. **Rome IV criteria cannot be strictly applied to IBD patients**, but addressing the functional pathophysiology is still important ([[aga-2018-functional-gi-symptoms-ibd]]). Do not read a coexisting IBD diagnosis as excluding functional symptoms, or persistent symptoms in quiescent IBD as proof of a flare — the stepwise rule-out and IBD-specific acquired mechanisms are on [[inflammatory-bowel-disease]].
-- [[celiac-disease]] — serology in IBS-D (Strong/Moderate; biopsy-proven celiac disease (CD) odds ratio (OR) 4.48 in IBS-D)
+- [[ulcerative-colitis]] / [[crohns-disease]] — screen with fecal calprotectin or lactoferrin + C-reactive protein (CRP) (see Diagnostics)
+  - **IBS and [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]] often coexist** — pooled IBS prevalence in IBD **39%**, odds ratio (OR) **4.89** vs controls; Rome IV criteria cannot be strictly applied in IBD, but the functional component still needs treatment ([[aga-2018-functional-gi-symptoms-ibd]]). Stepwise rule-out of active IBD is on the IBD page.
+- [[celiac-disease]] — biopsy-proven celiac disease OR **4.48** in patients with IBS symptoms vs controls; highest prevalence in IBS-D ([[acg-2020-ibs]])
 - [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] ([[giardiasis|Giardia]], [[campylobacter-infection|Campylobacter]]) — selective testing
-- [[chronic-idiopathic-constipation]] — distinguished from IBS-C by absence of pain dominance
-- [[functional-diarrhea|Functional diarrhea]] — loose/watery stools >25% of the time **without predominant pain**; the Rome V category patients fall into when IBS-D criteria are not met ([[rome-v-2026-bowel-disorders]])
-- **Unclassified bowel disorder (Rome V C5)** — bothersome bowel symptoms, no structural cause, and criteria for none of IBS, chronic constipation, functional diarrhea or functional abdominal bloating. A holding diagnosis, not a stable one: **only 40% still meet it at 1 year**, most transitioning to IBS ([[rome-v-2026-bowel-disorders]])
-- [[defecation-disorders]] — anorectal dyssynergia may mimic IBS-C; anorectal manometry (ARM) + balloon expulsion test (BET) if pelvic floor symptoms or refractory
-- [[microscopic-colitis|Microscopic colitis]] — older women, watery diarrhea, normal endoscopy with random biopsies
-- [[bile-acid-diarrhea|Bile acid diarrhea]] — consider in IBS-D non-responders
-- Lactose/fructose intolerance, food intolerances
-- [[alpha-gal-syndrome|Alpha-gal syndrome]] — an immunoglobulin E (IgE)-mediated allergy to galactose-α-1,3-galactose in mammalian meat that is **routinely mislabelled as IBS**, because the GI-only phenotype has no urticaria and the reaction is **delayed 3–5 h** after eating, so patients do not connect it to food. Check serum alpha-gal IgE where the Lone Star tick is prevalent ([[aga-2023-alpha-gal-syndrome]])
+- [[chronic-idiopathic-constipation]] — main distinction from IBS-C is absence of *predominant* abdominal pain/discomfort ([[rome-v-2026-bowel-disorders]])
+- [[functional-diarrhea|Functional diarrhea]] — loose/watery stools in >25% of stools; patients meeting IBS-D criteria are excluded ([[rome-v-2026-bowel-disorders]])
+- **Unclassified bowel disorder (Rome V)** — bowel symptoms meeting criteria for no other bowel disorder; only **40%** still meet it at 1 year, most transitioning to IBS ([[rome-v-2026-bowel-disorders]])
+- [[defecation-disorders]] — may mimic IBS-C; anorectal physiology testing if pelvic floor symptoms or refractory constipation (see Diagnostics)
+- [[microscopic-colitis|Microscopic colitis]] — higher risk in women >60 y and with more intense diarrhea ([[acg-2020-ibs]]); 32.5% of patients with microscopic colitis meet Rome criteria for IBS-D
+- [[bile-acid-diarrhea|Bile acid diarrhea]] — consider in chronic diarrhea not responding to standard treatment ([[rome-v-2026-bowel-disorders]])
+- Lactose/fructose maldigestion — rates in IBS similar to the general population ([[rome-v-2026-bowel-disorders]])
+- [[alpha-gal-syndrome|Alpha-gal syndrome]] — immunoglobulin E (IgE)-mediated mammalian-meat allergy; gastrointestinal (GI)-only presentations may be diagnosed as IBS. Reaction delayed by hours (night waking with GI distress suggests it); urticaria may be absent. Test serum alpha-gal IgE in unexplained GI symptoms in alpha-gal–prevalent (Lone Star tick) areas; consider not testing with red flags (anemia, GI bleeding, weight loss) — the allergy does not cause them ([[aga-2023-alpha-gal-syndrome]])
 
 ---
 
 ## Diagnostics
 
-**Recommended (Strong) in suspected IBS:**
+**Alarm features** — test beyond the limited panel: anemia, rectal bleeding (hematochezia, melena), unexplained weight loss, nocturnal diarrhea, onset after age 50, fecal incontinence, family history of [[colorectal-cancer|colorectal cancer (CRC)]], IBD or celiac disease ([[rome-v-2026-bowel-disorders]] Figure 3; [[acg-2020-ibs]]). Criteria met and no alarm features → testing selective and limited.
 
-- Celiac serology (total immunoglobulin A [IgA] + tissue transglutaminase [TTG]-IgA) in IBS-D
-- Fecal calprotectin or lactoferrin + CRP in IBS-D — cut-points (calprotectin **50 µg/g**, lactoferrin **4.0–7.25 µg/g**) and why not to raise them live on [[chronic-diarrhea]]
-- ***Giardia*** antigen or polymerase chain reaction (PCR) — Strong/High in chronic diarrhea ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|American Gastroenterological Association (AGA) 2019]]); assay performance >95% sensitivity and specificity
+**Suspected IBS with diarrhea — recommended:**
 
-**Fecal calprotectin — how to act on the number** ([[rome-v-2026-bowel-disorders]] Figure 4):
+| Test | Stance (grade) | Source |
+|---|---|---|
+| Celiac serology — immunoglobulin A (IgA) anti-tissue transglutaminase (tTG) + quantitative serum IgA | Recommend (Strong/Moderate, Rec 1) | [[acg-2020-ibs\|ACG 2020]] |
+| Fecal calprotectin (or lactoferrin) + CRP, no alarm features | Suggest (Strong/Moderate for CRP and calprotectin; Strong/Very low for lactoferrin, Rec 2) | [[acg-2020-ibs\|ACG 2020]] |
+| *Giardia* antigen or polymerase chain reaction (PCR) | Recommend (Strong/High, Rec 3) — assays >95% sensitive and specific | [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d\|American Gastroenterological Association (AGA) 2019]] |
+| Bile acid diarrhea testing | Suggest (Conditional/Low, Rec 6) | [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d\|AGA 2019]] |
 
-| Result | Action |
-|---|---|
-| <100 µg/g | Normal |
-| >100 but <250 µg/g | **Indeterminate — repeat off nonsteroidal anti-inflammatory drugs (NSAIDs)** |
-| ≥250 µg/g | Abnormal → [[colonoscopy]] |
+- **Acting on the result** — calprotectin bands (<100 normal · >100 but <250 µg/g repeat off nonsteroidal anti-inflammatory drugs [NSAIDs] · ≥250 µg/g abnormal), microscopic-colitis triggers for colonoscopy, and when to test for bile acid malabsorption: Rome V flowchart on [[chronic-diarrhea#Diagnostic Algorithm|chronic diarrhea]]; AGA 2019 calprotectin/lactoferrin cut-points and bile-acid assays also there.
+- **CRP — guidelines differ.** [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests against erythrocyte sedimentation rate (ESR) or CRP to screen for IBD (Conditional/Low, Rec 2) — CRP reasonable only if calprotectin/lactoferrin is unavailable or not covered; the newer ACG 2020 keeps CRP alongside the fecal marker (Rec 2 above).
 
-- **Colonoscopy also for suspected [[microscopic-colitis|microscopic colitis]]:** female, age ≥50 y, severe watery diarrhea, diarrhea duration <12 mo, co-existing autoimmune disease, nocturnal diarrhea, weight loss, or precipitating drugs (NSAIDs, [[proton-pump-inhibitors|proton pump inhibitors (PPIs)]]). **When colonoscopy is done for suspected IBS, take biopsies** — yield is otherwise only ~2%, and what it finds is microscopic colitis.
+**Not routinely:**
 
-**Recommended against (routine):**
+- [[colonoscopy|Colonoscopy]] at age <45 without warning signs (Conditional/Low, Rec 4, [[acg-2020-ibs]]). If colonoscopy is done for suspected IBS-D, consider biopsies for [[microscopic-colitis|microscopic colitis]] — yield in nonconstipated IBS without alarm features only 2% (microscopic colitis 1.5%) ([[rome-v-2026-bowel-disorders]]).
+- Stool testing for enteric pathogens in all IBS (Conditional/Low, Rec 3, [[acg-2020-ibs]]); ova and parasites without travel to or recent immigration from high-risk areas (Conditional/Low, Rec 4, [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]]).
+- Food allergy / sensitivity testing unless reproducible symptoms suggest food allergy (Consensus, Rec 8, [[acg-2020-ibs]]).
+- Rome V "do not routinely check" list (ESR, anti-vinculin / anti-cytolethal distending toxin B [CdtB], fecal elastase, fecal fat, occult blood, culture, microbiota assays): table on [[chronic-diarrhea]]. Fecal hemoglobin tests are for [[colorectal-cancer-screening|CRC screening]], not for separating IBS from structural disease; lactose and sucrase-isomaltase testing are not part of the initial evaluation ([[rome-v-2026-bowel-disorders]]).
 
-- Stool ova/parasites/pathogens — only if travel, exposure, or Giardia risk factors (Conditional/Low)
-- **Do not routinely order** ([[rome-v-2026-bowel-disorders]] Figure 4): erythrocyte sedimentation rate (ESR), anti-vinculin / anti-cytolethal distending toxin B (CdtB), malabsorption tests · fecal elastase, fecal fat, occult blood, ova and parasites, stool culture, microbiota assays. Fecal hemoglobin tests (fecal occult blood test, fecal immunochemical test, multitarget stool DNA) are [[colorectal-cancer-screening|CRC screening]] tests, not tests to separate IBS from structural disease.
-- **Lactose or [[small-intestinal-bacterial-overgrowth|SIBO]] breath testing and sucrase-isomaltase testing are not part of the initial evaluation** ([[rome-v-2026-bowel-disorders]]) — useful in selected patients only.
-- **erythrocyte sedimentation rate (ESR) or CRP as an *inflammatory bowel disease (IBD) screen*** — [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests against (Conditional/Low); use a fecal marker instead. CRP is a reasonable fallback only when calprotectin/lactoferrin is unavailable or uncovered. ⚠ This is narrower than it looks — ACG keeps CRP in the IBS-D panel above, and it is newer within tier 1, so the panel stands; AGA's objection is to CRP *as a substitute for* a fecal marker.
-- [[colonoscopy|Colonoscopy]] if age <45 without alarm features (Conditional/Low)
-- immunoglobulin E (IgE) food allergy panels unless reproducible food-specific symptoms (Consensus)
+**Selective:**
 
-**Selective use:**
-
-- [[anorectal-manometry]] + BET ± defecography in IBS-C/M with pelvic floor signs or refractory constipation
-- Bile acid diarrhea testing — [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] suggests testing (Conditional/Low); the four assays and their availability, plus the empiric-binder fallback, are on [[chronic-diarrhea]]
-- **Serologic tests for IBS itself (anti-CdtB, anti-vinculin) — no recommendation, knowledge gap.** Specificity ~90%, but sensitivity only **20–40%**, so a positive supports [[postinfectious-ibs|post-infectious IBS-D]] and a negative excludes nothing. AGA takes no position for or against ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]] Rec 7) — do not read this as an endorsement or a veto.
-- Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|small intestinal bacterial overgrowth (SIBO)]]) — [[acg-2020-sibo]] suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by breath testing. **[[aga-2020-sibo]] declines to recommend testing in IBS at all** and keeps the association open (**Best Practice Advice (BPA) 6**: "Controversy remains concerning the role of SIBO in the pathogenesis of common functional symptoms, such as those regarded as components of IBS"). Its numbers: SIBO **OR 4.9** on breath testing vs matched controls; **up to 33.5% positive by culture vs 8.2%** of controls; and **lactulose breath testing yields more positives than glucose or culture**, which explains much of the prevalence spread. Predictive symptoms in IBS are **diarrhea or "gas," not bloating**; CH₄-positive tests track with **IBS-C** ([[intestinal-methanogen-overgrowth]]).
-- [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis — a baseline **positive lactulose breath test predicted 59.7% improvement vs 29.8%** with a negative test ([[aga-2020-sibo]]). But **BPA 8** holds the conclusion open: "the role of SIBO or its eradication in the genesis of this response warrants further confirmation in randomized controlled trials," and breath testing was done in only a small subset of trial subjects.
-
-**Alarm features warranting workup**: hematochezia/melena, unintentional weight loss, onset >50, family history of [[inflammatory-bowel-disease|IBD]]/[[colorectal-cancer|colorectal cancer (CRC)]]/celiac, nocturnal symptoms, anemia.
+- **Anorectal physiology testing** ([[anorectal-manometry]]) — symptoms suggesting a pelvic floor disorder and/or refractory constipation (Consensus, Rec 9, [[acg-2020-ibs]]).
+- **Anti-CdtB / anti-vinculin serology** — no recommendation, knowledge gap (Rec 7, [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA 2019]]): specificity ~90%, sensitivity only 20–40% — a positive supports [[postinfectious-ibs|post-infectious IBS-D]], a negative excludes nothing.
+- **[[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth (SIBO)]] breath testing — guidelines differ.** [[acg-2020-sibo|ACG 2020]] suggests glucose or lactulose hydrogen breath testing in IBS (Conditional/Very low); [[aga-2020-sibo|AGA 2020]] holds the role of SIBO in IBS symptoms controversial (Best Practice Advice 6); Rome V does not recommend routine breath testing in the initial evaluation. SIBO is linked more with IBS-D, [[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth]] with IBS-C ([[rome-v-2026-bowel-disorders]]). A positive baseline breath test predicted [[rifaximin]] response (59.7% vs 29.8%), pending confirmation in randomized trials (Best Practice Advice 8, [[aga-2020-sibo]]).
 
 ---
 
@@ -156,59 +146,68 @@ Subtypes by [[bristol-stool-form-scale|Bristol Stool Form Scale]] **on days with
 
 ### Cross-subtype (any IBS)
 
-| Therapy | Recommendation (ACG 2020) |
-|---|---|
-| **Soluble fiber (psyllium)** | Strong/Moderate |
-| Insoluble fiber (bran) | Against |
-| **Low-fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP)** (limited trial, 4–6 wk → reintroduce) | Conditional/Very Low (VLow) |
-| Peppermint oil | Conditional/Low |
-| Antispasmodics (global symptoms) | Against (Conditional/Low) |
-| **tricyclic antidepressants (TCAs)** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate — *also* AGA 2022: suggests using TCAs (Conditional/Low) |
-| selective serotonin reuptake inhibitors (SSRIs) | — (ACG silent); **AGA 2022 suggests AGAINST** (Conditional/Low) |
-| **[[brain-gut-behavioral-therapy\|Gut-directed psychotherapy]]** (cognitive behavioral therapy (CBT), hypnotherapy, mindfulness) | Conditional/VLow |
-| [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
-| **[[fmt\|fecal microbiota transplantation (FMT)]]** | Strong AGAINST (Strong/VLow) |
+| Therapy | ACG 2020 ([[acg-2020-ibs]]) | AGA 2022 ([[aga-2022-ibs-c\|IBS-C]] / [[aga-2022-ibs-d\|IBS-D]] guidelines) |
+|---|---|---|
+| **Soluble fiber** (psyllium) | Suggest soluble, not insoluble — Strong/Moderate (Rec 11) | — |
+| **Low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) diet** | Recommend a limited trial — Conditional/Very low (Rec 10) | — |
+| Peppermint | Suggest — Conditional/Low (Rec 13) | — |
+| Antispasmodics | Recommend **against** for global symptoms — Conditional/Low (Rec 12) | **Suggest using** — Conditional/Low (IBS-C Rec 9 · IBS-D Rec 7) |
+| **Tricyclic antidepressants (TCAs)** | Recommend — Strong/Moderate (Rec 23) | Suggest — Conditional/Low (IBS-C Rec 7 · IBS-D Rec 5) |
+| Selective serotonin reuptake inhibitors (SSRIs) | — | Suggest **against** — Conditional/Low (IBS-C Rec 8 · IBS-D Rec 6) |
+| **[[brain-gut-behavioral-therapy\|Gut-directed psychotherapy]]** | Suggest — Conditional/Very low (Rec 24) | — |
+| [[probiotics\|Probiotics]] | Suggest **against** — Conditional/Very low (Rec 14) | — |
+| [[fmt\|Fecal microbiota transplantation (FMT)]] | Recommend **against** — Strong/Very low (Rec 25) | — |
 
-- **TCA titration:** start low — **10 mg amitriptyline or 10 mg desipramine** — and titrate gradually upward to the target range above. [[acg-2020-ibs]]
+- **Diet** ([[aga-2022-diet-ibs]]): soluble fiber is efficacious for global symptoms (Best Practice Advice 5). Low-FODMAP diet = the most evidence-based diet intervention (Best Practice Advice 6), in 3 phases: **restriction ≤4–6 weeks** → reintroduction of FODMAP foods → personalization (Best Practice Advice 7).
+- **TCA doses** ([[acg-2020-ibs]] Table 7): amitriptyline 50–100 mg/day, desipramine 25–100 mg/day, nortriptyline 25–75 mg/day. Start low — **10 mg amitriptyline or 10 mg desipramine** — and titrate up gradually.
+- **TCA effect size** ([[aga-2022-ibs-d]]): only global relief (not abdominal pain relief) met the clinically meaningful threshold; most trials used ≥50 mg/day, though amitriptyline 10 mg at bedtime beat placebo in one IBS-D trial.
 
-> **Guidelines differ — antispasmodics.** [[acg-2020-ibs|ACG 2020]] recommends **against** antispasmodics for global IBS symptoms (Conditional/Low); the newer [[aga-2022-ibs-c|AGA 2022]] IBS-C **and** [[aga-2022-ibs-d|IBS-D]] guidelines both **suggest using** them (Conditional/Low). Follow the newer guidelines: antispasmodics are a reasonable adjunct, with the ACG's negative appraisal noted. The same split applies to **polyethylene glycol (PEG) laxatives in IBS-C** (ACG against for global symptoms; AGA 2022 suggests using — Conditional/Low).
+> [!pitfall] Antispasmodics and PEG: US guidelines split
+> ACG 2020 recommends against antispasmodics and suggests against polyethylene glycol (PEG) for global IBS-C symptoms; the newer AGA 2022 guidelines suggest using both (Conditional/Low). Follow the newer AGA stance, with ACG's negative appraisal as a caveat ([[acg-2020-ibs]], [[aga-2022-ibs-c]], [[aga-2022-ibs-d]]).
 
 ### IBS-C
 
 | Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-c]]) |
 |---|---|---|---|
-| **[[linaclotide\|Linaclotide]]** (guanylate cyclase-C (GC-C) agonist) | 290 µg daily | Strong/High | **Strong**/High |
-| **[[plecanatide]]** (GC-C agonist) | **3 mg daily** — the only approved dose | Strong/High | Conditional/Moderate |
-| **[[lubiprostone\|Lubiprostone]]** (Cl⁻ channel activator) | 8 µg twice daily (BID) | Strong/Moderate | Conditional/Moderate |
-| **[[tenapanor\|Tenapanor]]** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
-| **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
-| PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
+| **[[linaclotide\|Linaclotide]]** (guanylate cyclase-C [GC-C] agonist) | 290 µg once daily | Recommend — Strong/High (Rec 17) | **Recommend** — Strong/High (Rec 3) |
+| **[[plecanatide]]** (GC-C agonist) | 3 mg once daily (US Food and Drug Administration [FDA]-approved dose for IBS-C and chronic idiopathic constipation) | Recommend — Strong/High (Rec 17) | Suggest — Conditional/Moderate (Rec 2) |
+| **[[lubiprostone\|Lubiprostone]]** (chloride channel activator) | 8 µg twice daily (BID) | Recommend — Strong/Moderate (Rec 16) | Suggest — Conditional/Moderate (Rec 5) |
+| **[[tenapanor\|Tenapanor]]** (sodium/hydrogen exchanger isoform 3 [NHE3] inhibitor) | 50 mg BID | — | Suggest — Conditional/Moderate (Rec 1) |
+| **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Suggest — Conditional/Low (Rec 18; Table 2 prints "Strong/conditional") | Suggest — Conditional/Moderate (Rec 4) |
+| PEG laxatives | — | Suggest against for global symptoms — Conditional/Low (Rec 15) | Suggest using — Conditional/Low (Rec 6) |
 
-- **Tegaserod eligibility:** women **<65** (both guidelines) — AGA: without a history of cardiovascular ischemic events (myocardial infarction (MI), stroke, transient ischemic attack (TIA), angina); ACG: ≤1 cardiovascular (CV) risk factor and failure of secretagogues.
-- **Plecanatide dose — 3 mg once daily.** Both [[acg-2020-ibs|ACG 2020]] and the newer [[aga-2022-ibs-c|AGA 2022]] give **3 mg** and only 3 mg; it is FDA-approved at that dose for IBS-C *and* chronic idiopathic constipation (CIC). There is no higher IBS-C dose. Details on [[plecanatide]].
+- **Tegaserod eligibility:** women **<65 y** in both — AGA: no history of cardiovascular ischemic events (myocardial infarction, stroke, transient ischemic attack, angina); ACG: **≤1 cardiovascular risk factor** and inadequate response to secretagogues.
 
 ### IBS-D
 
 | Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-d]]) |
 |---|---|---|---|
-| **[[rifaximin\|Rifaximin]]** | 550 mg three times daily (TID) × 14 days | Strong/Moderate | Conditional/Moderate |
-| Rifaximin **retreatment** on symptom recurrence | same course, up to 2 retreatments (ACG) | Strong/Moderate | Conditional/Moderate |
-| **[[alosetron\|Alosetron]]** (5-HT3 antagonist) | — | Conditional/Low | Conditional/Moderate |
-| **[[eluxadoline\|Eluxadoline]]** (mixed opioid receptor agent) | 100 mg BID | Conditional/Moderate | Conditional/Moderate |
-| **[[loperamide\|Loperamide]]** | — | not addressed | Conditional/Very low |
-| Bile-acid sequestrants | — | Against (global symptoms) (Conditional/VLow) | not addressed |
+| **[[rifaximin\|Rifaximin]]** | 550 mg three times daily × 14 days | Recommend — Strong/Moderate (Rec 20) | Suggest — Conditional/Moderate (Rec 2a) |
+| Rifaximin **retreatment** (recurrence after initial response) | same course, up to 2 retreatments | no separate rec (text: approved for up to 2 additional treatments) | Suggest — Conditional/Moderate (Rec 2b) |
+| **[[alosetron\|Alosetron]]** (5-HT3 antagonist) | start 0.5 mg BID; 1 mg BID if uncontrolled after 4 weeks | Recommend — Conditional/Low, women with severe symptoms failing conventional therapy (Rec 21) | Suggest — Conditional/Moderate (Rec 3) |
+| **[[eluxadoline\|Eluxadoline]]** (mixed opioid agonist/antagonist) | 100 mg BID (75 mg for some patients) | Suggest — Conditional/Moderate (Rec 22) | Suggest — Conditional/Moderate (Rec 1) |
+| **[[loperamide\|Loperamide]]** | — | — | Suggest — Conditional/Very low (Rec 4) |
+| Bile acid sequestrants | — | Do not suggest for global symptoms — Conditional/Very low (Rec 19) | — |
 
-- **Alosetron** carries a Risk Evaluation and Mitigation Strategy (REMS) because of [[colon-ischemia|ischemic colitis]]; reserve for women with severe IBS-D failing standard therapy.
-- **Eluxadoline is contraindicated in patients without a gallbladder** *and* **in those who drink >3 alcoholic beverages/day** — both, because of [[acute-pancreatitis|pancreatitis]] risk ([[aga-2022-ibs-d]]).
+- **Alosetron** is restricted to women with severe IBS-D under a risk-management program (AGA implementation remark) because of [[colon-ischemia|ischemic colitis]] and serious complications of constipation; stop/restart rules on [[alosetron]].
+- **Eluxadoline is contraindicated** without a gallbladder or with **>3 alcoholic beverages/day** (AGA implementation remark) — [[acute-pancreatitis|pancreatitis]] and sphincter of Oddi spasm risk — and with prior sphincter of Oddi disease or spasm, pancreatitis, bile duct obstruction, or severe liver impairment ([[aga-2022-ibs-d]]).
 
 ### Stepwise Approach
 
-1. Establish positive diagnosis + reassurance; food/symptom diary
-2. Dietary trial (soluble fiber; low-FODMAP for 4–6 weeks → reintroduction)
-3. Subtype-targeted pharmacotherapy
-4. TCA for global symptoms (consider for pain-predominant any subtype)
-5. Gut-directed psychotherapy (CBT/hypnotherapy) — particularly when stress modulates symptoms
-6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
+| Step | Rome V treatment tier |
+|---|---|
+| 1 (base) | **Diagnosis and explanation** — reassurance; precipitating factors, lifestyle; assess symptom profile and severity |
+| 2 | **Dietary advice**, including probiotics |
+| 3 | **Pharmacotherapy by dominant symptom** — constipation, diarrhea, pain, gas/bloating, psychological distress, multiple |
+| 4 | **Brain-gut behavioral therapies** — cognitive behavioral therapy (CBT), hypnotherapy, psychotherapy |
+| 5 (top) | **Multidisciplinary approach** — patient centered, physician continuity |
+
+*Stepwise treatment of bowel disorders, base of the pyramid first*
+*Source: figure 5 of Rome V 2026 Bowel Disorders, open access (CC BY 4.0), recreated as a table*
+*[[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]*
+*CBT = cognitive behavioral therapy*
+
+- Rome V lists probiotics within dietary advice; ACG 2020 suggests against probiotics for global symptoms (table above).
 
 ---
 

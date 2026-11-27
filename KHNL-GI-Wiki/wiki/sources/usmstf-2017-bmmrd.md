@@ -3,7 +3,8 @@ title: "USMSTF 2017: Recommendations on Surveillance and Management of Biallelic
 category: source
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, lynch-syndrome, msi]
 created: 2026-05-24
-updated: 2026-08-26
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ACG/USMSTF 2017 Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome.pdf"
 ---
@@ -22,13 +23,13 @@ raw: "GI Guidelines/ACG/USMSTF 2017 Surveillance and Management of Biallelic Mis
 
 ## Summary
 
-This consensus statement from the US Multi-Society Task Force on Colorectal Cancer (representing the American College of Gastroenterology [ACG], American Gastroenterological Association [AGA], American Society for Gastrointestinal Endoscopy [ASGE], and the North American Society of Pediatric Gastroenterology, Hepatology and Nutrition) provides the first comprehensive surveillance and management framework for [[bmmrd-syndrome|biallelic mismatch repair deficiency (BMMRD) syndrome]] — also called constitutional mismatch repair deficiency (CMMRD) syndrome (OMIM 276300).
+This consensus statement from the US Multi-Society Task Force on Colorectal Cancer (representing the American College of Gastroenterology [ACG], American Gastroenterological Association [AGA] and American Society for Gastrointestinal Endoscopy [ASGE]; reviewed and approved by the North American Society of Pediatric Gastroenterology, Hepatology and Nutrition) provides the first comprehensive surveillance and management framework for [[bmmrd-syndrome|biallelic mismatch repair deficiency (BMMRD) syndrome]] — also called constitutional mismatch repair deficiency (CMMRD) syndrome (OMIM 276300).
 
 BMMRD arises from biallelic germline loss-of-function mutations in any one of the four DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6, PMS2), resulting in absent DNA-MMR activity from birth. This distinguishes it fundamentally from [[lynch-syndrome|Lynch syndrome]] (LS), which is caused by monoallelic (heterozygous) MMR mutations and requires a somatic "second hit" for tumorigenesis. In BMMRD, all tissues lack MMR activity, yielding a dramatically more aggressive and earlier-onset cancer predisposition than LS, with tumors arising predominantly in childhood and adolescence.
 
-The syndrome is characterized by three major tumor categories: (1) gastrointestinal cancers and polyposis (colorectal adenomas onset median age 9; [[colorectal-cancer|colorectal cancer (CRC)]] onset median age 16; small-bowel cancers); (2) brain tumors (high-grade gliomas, medulloblastoma, primitive neuroectodermal tumors; median age 9); and (3) hematologic malignancies (lymphoma, leukemia; lymphoma median age 5). Café-au-lait macules and features mimicking neurofibromatosis type 1 (NF1) are common dermatologic findings and an important clinical clue. PMS2 biallelic mutations are the most common cause of BMMRD, due to its low penetrance in the heterozygous state, and PMS2 identification is complicated by 20 pseudogenes in the human genome.
+The syndrome is characterized by three major tumor categories: (1) gastrointestinal cancers and polyposis (colorectal adenomas onset median age 9; [[colorectal-cancer|colorectal cancer (CRC)]] onset median age 16; small-bowel cancers); (2) brain tumors (high-grade gliomas, medulloblastoma, primitive neuroectodermal tumors; median age 9); and (3) hematologic malignancies (lymphoma, leukemia; lymphoma median age 5). Café-au-lait macules and features mimicking neurofibromatosis type 1 (NF1) are common dermatologic findings and an important clinical clue. PMS2 biallelic mutations are the most common cause of BMMRD; low heterozygous PMS2 penetrance probably explains the paucity of Lynch syndrome cancers in the extended family; and PMS2 identification is complicated by 20 pseudogenes in the human genome.
 
-The guideline acknowledges that evidence is exclusively from case series, kindred studies, and expert opinion — no controlled trials exist. The International BMMRD Consortium and the European Consortium Care for CMMRD (C4CMMRD) formed the primary evidence bases. All recommendations are weak, with low to very low quality evidence. Eight formal recommendations are provided covering colonoscopy, upper endoscopy/video capsule endoscopy, brain magnetic resonance imaging (MRI), complete blood count (CBC), endometrial cancer surveillance, urinary tract surveillance, hepatic adenoma surveillance, and LS screening of heterozygous relatives.
+The guideline acknowledges that evidence is exclusively from case series, kindred studies, and expert opinion — no controlled trials exist. The International BMMRD Consortium and the European Consortium Care for CMMRD (C4CMMRD) formed the primary evidence bases. All recommendations are weak; evidence quality is low to very low except Rec 8 (moderate). Eight formal recommendations are provided covering colonoscopy, upper endoscopy/video capsule endoscopy, brain magnetic resonance imaging (MRI), complete blood count (CBC), endometrial cancer surveillance, urinary tract surveillance, hepatic adenoma surveillance, and LS screening of heterozygous relatives.
 
 ---
 
@@ -40,7 +41,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - Most BMMRD patients have no immediate family history of LS-related cancer; parents are usually clinically unaffected (heterozygous carriers with low penetrance, especially PMS2)
 - PMS2 biallelic mutations are the most common BMMRD genotype; MSH6 biallelic mutations are over-represented compared to LS
 - BMMRD tumors acquire early somatic mutations in POLE and POLD1 (polymerase proofreading genes), resulting in ultrahypermutated tumors — a distinctive molecular signature
-- Microsatellite instability (MSI) is often absent on standard testing (immunohistochemistry [IHC] and polymerase chain reaction [PCR]) in BMMRD tumors in normal tissue (all tissues lack MMR protein); IHC shows absence of MMR protein expression in both normal and tumor tissue — a key diagnostic clue that confounds standard LS tumor testing interpretation
+- Some BMMRD cancers fail to show microsatellite instability (MSI) — the reason is an open research question; immunohistochemistry (IHC) shows absence of MMR protein expression in both normal and tumor tissue — a key diagnostic clue that confounds standard LS tumor testing interpretation
 - The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome
 
 **Penetrance and Age of Onset (Table 1)**
@@ -79,7 +80,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - [[colonoscopy|Colonoscopy]] annually from age 6 recommended; once polyps identified, every 6 months
 - [[upper-endoscopy|Upper endoscopy]] + [[capsule-endoscopy|video capsule endoscopy]] (VCE) annually from age 8
 - Brain MRI every 6 months from age 2; alternative: head ultrasound until fontanel fusion
-- CBC every 6 months from age 1 (alternative: abdominal ultrasound every 6 months per European Consortium)
+- CBC every 6 months from age 1 (European Consortium additionally suggests optional abdominal ultrasound every 6 months from age 1)
 - Endometrial surveillance (TVUS + pelvic exam + endometrial sampling) annually from age 20
 - Urinalysis annually from age 10; consideration of MRI
 - No routine hepatic adenoma surveillance recommended
@@ -87,7 +88,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 
 **Surgical Management**
 
-- CRC: total or subtotal colectomy with ileorectal anastomosis preferred given high metachronous CRC risk
+- Colonic polyps with high-grade dysplasia or cancer, or too many polyps to remove endoscopically: total or subtotal colectomy with ileorectal anastomosis recommended (proctocolectomy with ileal pouch–anal anastomosis may be necessary for rectal cancer), given high metachronous cancer risk
 - Proctocolectomy with ileal pouch-anal anastomosis may be necessary for rectal cancer
 - Close rectal surveillance every 6–12 months after ileorectal anastomosis is crucial
 - Small-bowel cancer: resection is treatment of choice; survival favorable for localized disease
@@ -97,7 +98,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - Aspirin: LS data show >60% reduction in CRC incidence with 600 mg/day for ≥2 years (CAPP2); extrapolation to BMMRD is uncertain but a controlled prevention trial in BMMRD is proposed as reasonable
 - Pembrolizumab (anti-PD-1): showed 78% clinical improvement in patients with MSI CRC; may be applicable in BMMRD (tumors are hypermutated); not yet formally studied in BMMRD
 - Frameshift peptide vaccination: under study in LS; not yet applied to BMMRD
-- BMMRD tumors often fail to show MSI on standard testing — this may affect immunotherapy eligibility determinations
+- Why some BMMRD cancers fail to show MSI is unresolved
 
 **Genetic Counseling**
 
@@ -146,11 +147,11 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 
 ## Contradictions / Open Questions
 
-- All surveillance recommendations are weak with low/very-low quality evidence — no controlled trials exist
+- All recommendations are weak, mostly on low/very-low quality evidence (Rec 8 moderate) — no controlled trials exist
 - Optimal colonoscopy start age debated: International BMMRD Consortium recommends age 6; European Consortium recommends age 8; this guideline recommends age 6
 - Upper endoscopy/VCE start age: International Consortium age 8; European Consortium age 10; this guideline recommends age 8
-- Role of total-body MRI remains uncertain — may detect urinary tract cancers, endometrial cancer, osteosarcoma, abdominal tumors; limited by cost, access, and radiation-free advantage of MRI
-- MSI testing is frequently false-negative in BMMRD tumors — standard Lynch tumor testing algorithms may miss BMMRD; IHC showing MMR protein loss in normal tissue is the key diagnostic clue
+- Role of total-body MRI remains uncertain — may detect urinary tract cancers, endometrial cancer, osteosarcoma, abdominal tumors
+- Why some BMMRD cancers fail to show MSI is unresolved; IHC showing MMR protein loss in normal as well as tumor tissue is a key diagnostic clue
 - Aspirin chemoprevention role in BMMRD is extrapolated from LS data; no BMMRD-specific trial data
 - Cancer spectrum in adult BMMRD survivors is not yet defined; LS-type tumors may increase with age
 - Genotype-phenotype correlations in BMMRD are incompletely understood; compound heterozygous mutations add complexity

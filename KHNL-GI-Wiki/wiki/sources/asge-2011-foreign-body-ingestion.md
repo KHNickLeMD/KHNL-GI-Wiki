@@ -3,7 +3,8 @@ title: "ASGE Guideline: Management of Ingested Foreign Bodies and Food Impaction
 category: source
 tags: [foreign-body, food-impaction, esophagus, button-battery, magnets, body-packing, sharp-pointed-object, endoscopy, asge, guideline]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2011 Foreign Body Ingestion.pdf"
 ---
@@ -24,9 +25,9 @@ raw: "GI Guidelines/ASGE/ASGE 2011 Foreign Body Ingestion.pdf"
 
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice guideline covering the evaluation and endoscopic management of ingested foreign bodies and esophageal food bolus impaction in adults and children. Ten Grading of Recommendations Assessment, Development and Evaluation (GRADE)-rated recommendations, plus two tables: the GRADE evidence-quality legend (Table 1) and the timing-of-endoscopy triage table (Table 2), which is the operative decision tool of the document.
 
-Core framing: most ingestions pass spontaneously (≥80% in pre-endoscopic series), so the guideline is organised around identifying the minority that do not — objects that will not pass a fixed anatomic narrowing (>2.5 cm diameter at the pylorus; >6 cm length at the duodenum), objects that injure while they sit (disk batteries in the esophagus, magnets, sharp-pointed objects), and patients whose airway is at risk (unable to manage secretions). Everything else is triaged to urgent (within 24 h) or nonurgent/observational management with serial radiographs.
+Core framing: most ingestions pass spontaneously (≥80% in pre-endoscopic series), so the guideline is organised around identifying the minority that do not — objects that will not pass a fixed anatomic narrowing (>2.5 cm diameter at the pylorus; >6 cm length at the duodenum), objects that injure while they sit (disk batteries in the esophagus, magnets, sharp-pointed objects), and patients whose airway is at risk (unable to manage secretions). Everything else is triaged to urgent or nonurgent/observational management with serial radiographs (the 24-hour limit is stated for esophageal objects and food impactions only).
 
-The esophagus is the pressure point. Esophageal foreign objects and food impactions must be removed **within 24 hours** — delay reduces the likelihood of successful removal and increases perforation risk. Once past the esophagus, most objects (including sharp ones) pass uneventfully in 4–6 days.
+The esophagus is the pressure point. Esophageal foreign objects and food impactions should be removed **within 24 hours** — delay reduces the likelihood of successful removal and increases perforation risk. Once a foreign body has entered the stomach, most objects pass in 4–6 days.
 
 For food bolus impaction — the most common esophageal foreign body in Western adults — the 2011 guideline formally accepts the **gentle push technique** alongside en bloc and piecemeal extraction, a reversal of the prior ASGE position. It also fixes two hard rules: **papain and other proteolytic enzymes must never be used**, and **eosinophilic esophagitis (EoE) must be looked for** (found in up to 33% of food bolus impactions) with mid- and distal-esophageal biopsies, deferring dilation pending pathology when EoE is suspected.
 
@@ -213,9 +214,8 @@ For food bolus impaction — the most common esophageal foreign body in Western 
 
 ## Contradictions / Open Questions
 
-- **Push technique — reversal of prior ASGE position.** Earlier ASGE guidance (1995/2002) and many authorities advocated against pushing a food bolus into the stomach without first passing the endoscope around it. This 2011 update lists the gentle push technique as an acceptable method (⊕⊕⊕◯) on the strength of 2 series with no perforations in 375 patients. Readers carrying the older rule should note the change.
-- **Glucagon.** Advocated in older radiologic literature; a single small randomized trial showed no significant benefit over placebo. The guideline keeps it as "an acceptable option" because it is relatively safe — a weak, contested recommendation, not a standard of care.
+- **Push technique — reversal of prior ASGE position.** Many authorities, including the ASGE previously, advocated against pushing a food bolus into the stomach without first examining the esophagus distal to the obstruction. This 2011 update lists the gentle push technique as an acceptable method (⊕⊕⊕◯) on the strength of 2 series with no perforations in 375 patients. Readers carrying the older rule should note the change.
+- **Glucagon.** Advocated in older radiologic literature; a single small randomized trial showed no significant benefit over placebo. The guideline keeps it as "an acceptable option" because it is relatively safe; its use should not delay definitive endoscopic removal. It is not one of the 10 graded recommendations.
 - **>2.5 cm diameter threshold** rests on expert opinion (⊕◯◯◯) — "limited data exist to support this recommendation" in the guideline's own words.
 - **"Emergent" is not given an hour value.** The guideline defines emergent by indication (complete obstruction / secretions, esophageal disk battery, esophageal sharp-pointed object), not by a clock. Only the 24-hour ceiling for esophageal objects and food impactions is numeric.
-- **Age of the guideline (2011).** Button battery injury thresholds and pediatric magnet management have been active areas since publication; check for newer guidance before relying on the battery/magnet sections.
 - **No clinical algorithm figure** in the source — the document's decision content is carried entirely by Table 1 (GRADE legend) and Table 2 (timing), both recreated above as native tables.
