@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update: Commentary on the 2016 Multi-Society Task 
 category: source
 tags: [endoscope-reprocessing, duodenoscope, infection-control, high-level-disinfection, cre, multi-society-task-force, aga, cpu]
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2017 CPU 2016 MSTF Endoscope Reprocessing Commentary.pdf"
 ---
@@ -14,7 +15,7 @@ raw: "GI Guidelines/AGA/AGA 2017 CPU 2016 MSTF Endoscope Reprocessing Commentary
 - **Year:** 2017
 - **Journal/Publisher:** Gastroenterology (AGA Institute)
 - **DOI:** [10.1053/j.gastro.2016.12.030](https://doi.org/10.1053/j.gastro.2016.12.030)
-- **Type:** guideline (AGA Clinical Practice Update — Commentary)
+- **Type:** other — AGA Clinical Practice Update: Commentary (two authors; no Best Practice Advice, numbering or grades of its own)
 
 ## Summary
 
@@ -22,7 +23,7 @@ A commentary on, not a restatement of, the 2016 Multi-Society Task Force (MSTF) 
 
 The major 2016 changes are two: (1) language to maintain consistency with the 2015 US Food and Drug Administration (FDA) endoscope reprocessing communications, and (2) statements suggesting greater monitoring and tracking of the endoscope throughout the clinical units and cleaning rooms, including the timing of events and who performs the key steps. There are "surprisingly only 2 new recommendations," one of which (**#24**) is a *suggestion* to perform cultures or further disinfection if feasible. Changes between 2003 and 2011 had included precleaning the endoscope (2016 recommendation #2) and transporting the pre-cleaned endoscope covered (2016 recommendation #3). The 2003 guidelines discuss unresolved issues related to endoscope reprocessing, and the majority of those unresolved issues have remained constant in both the 2011 and 2016 guidelines.
 
-The authors organize the piece around MSTF recommendation numbers rather than around advice of their own, pairing each with an "Implications for Practice" paragraph on what endoscopy units will actually have to change: device- and manufacturer-specific (not unit-generic) cleaning protocols, endoscope-specific tracking systems possibly requiring barcode scanning and electronic health record modification, relocation of reprocessing out of patient care areas, and brand-matched cleaning brushes. They are skeptical of the supplemental modalities: per-procedure culture surveillance is not cost-effective unless the unit's transmission probability of carbapenem-resistant Enterobacteriaceae (CRE) is 24% or greater, ethylene oxide (ETO) sterilization failed to prevent a CRE-positive endoscope culture in one unit while adding cost and endoscope damage, and 2% glutaraldehyde exposes reprocessing staff to known irritants and can cause colitis if the endoscope is not properly rinsed between uses.
+The authors organize the piece around MSTF recommendation numbers rather than around advice of their own, pairing each with an "Implications for Practice" paragraph on what endoscopy units will actually have to change: device- and manufacturer-specific (not unit-generic) cleaning protocols, endoscope-specific tracking systems possibly requiring barcode scanning and electronic health record modification, relocation of reprocessing out of patient care areas, and brand-matched cleaning brushes. They are skeptical of the supplemental modalities: per-procedure culture surveillance is not cost-effective unless the unit's transmission probability of carbapenem-resistant Enterobacteriaceae (CRE) is 24% or greater, ethylene oxide (ETO) sterilization failed to prevent a CRE-positive endoscope culture in one unit, which also had more damaged endoscopes (damage not directly attributable to sterilization), and 2% glutaraldehyde exposes reprocessing staff to known irritants and can cause colitis if the endoscope is not properly rinsed between uses.
 
 **The document is ungraded.** It issues no numbered recommendations, no Best Practice Advice statements, and no strength or evidence-quality ratings of its own, and describes no systematic evidence-review method. Every number it uses (#2, #3, #5, #6, #8, #12, #16, #24, #27, #28, #31, #32) is a **Multi-Society Task Force 2016 recommendation number**, not a number assigned by this commentary. Recommendation text below is quoted only where the commentary itself quotes the MSTF guideline; the MSTF guideline is not itself ingested, so recommendations it discusses only by number are listed as such.
 
@@ -92,6 +93,6 @@ The authors organize the piece around MSTF recommendation numbers rather than ar
 ## Contradictions / Open Questions
 
 - **With [[aga-2016-infection-ercp-endoscopes]] (same society, one year earlier):** no factual contradiction, but a difference in stance. The 2016 commentary presents the FDA supplemental measures as reasonable options to consider (double reprocessing is "perhaps the most simple and readily adopted"); this 2017 commentary emphasizes that none is validated, that ETO failed in a real unit, that culture-and-quarantine is **not cost-effective below a 24% transmission probability**, and that liquid chemical germicide carries a patient harm (colitis) if rinsing is inadequate. **The 2017 document is the newer tier-1 source and governs the page where the two differ in emphasis.**
-- **Within the document:** the FDA advisory panel majority wanted duodenoscopes reclassified as *critical* devices requiring sterilization, yet the authors cite CDC data and surgical (laparoscope) experience showing **no difference in infection transmission between sterilization and high level disinfection** — and a unit that sterilized still cultured CRE from an endoscope. Reclassification is therefore unlikely to solve the problem on the evidence presented.
+- **Within the document:** the FDA advisory panel majority wanted duodenoscopes reclassified as *critical* devices requiring sterilization, yet the authors cite the CDC and a laparoscopy textbook for **no difference in infection transmission between sterilization and high level disinfection** — and a unit that sterilized still cultured CRE from an endoscope. They conclude contamination may be unavoidable using the current reprocessing or sterilization paradigm.
 - **Unresolved by the guidelines themselves** (carried unchanged from 2003 through 2016): interval of storage after reprocessing, microbiologic surveillance, endoscope durability and longevity; also, the minimum time allowed between a change in recommendations and updated staff training, and whether endoscopists count as "staff involved in the use."
 - **Source not ingested:** the Multi-Society Guideline on Reprocessing Flexible Gastrointestinal Endoscopes — 2016 (Petersen BT, Cohen J, Eisen G, et al.) is quoted here only through this commentary; recommendations referenced by number alone (#2, #3, #6, #8, #12, #16, #28, #32) have no text in the wiki.

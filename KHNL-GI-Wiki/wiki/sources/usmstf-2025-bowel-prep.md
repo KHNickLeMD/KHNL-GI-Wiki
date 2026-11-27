@@ -3,7 +3,8 @@ title: "Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommen
 category: source
 tags: [colonoscopy, bowel-prep, split-dose, peg, simethicone, preparation-quality, crc-screening, usmstf]
 created: 2026-05-07
-updated: 2026-10-04
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ACG/ACG 2025 Bowel Prep Quality.pdf"
 ---
@@ -53,11 +54,10 @@ Unless otherwise stated, the recommendations **apply to ambulatory patients at l
 **What changed since 2014:**
 
 - 2 L regimens now suggested instead of 4 L (2014 made no volume recommendation)
-- Same-day regimen explicitly acceptable for afternoon colonoscopy, explicitly inferior for morning colonoscopy
+- Same-day regimen for morning colonoscopy now explicitly inferior (same-day for afternoon colonoscopy was already acceptable in 2014)
 - Split-dose remains the standard for all patients, high- or low-volume
 - Adjunctive oral simethicone moved from "not recommended" (2014) to suggested, on strengthened evidence
-- Routine tracking of adequate-preparation rate at endoscopist **and** unit level, with a target rate of **≥90%** at both
-- Preparation modifications for prior or anticipated inadequate preparation codified, including a specific high-risk regimen
+- Specific high-risk regimen named (2014 made a weak recommendation to consider extra purgatives for at-risk patients)
 
 ## Terminology and Volume Definitions
 
@@ -179,8 +179,8 @@ Additional safety points from the narrative:
 - **Hyperosmolar purgatives** should be avoided in individuals at risk of clinical consequences from fluid shifts (e.g. renal insufficiency) or cardiac conditions (e.g. congestive heart failure).
 - Sodium picosulfate + magnesium citrate is **contraindicated in congestive heart failure, hypermagnesemia, and severe renal impairment** because of its hyperosmolar nature. In patients with normal baseline renal function, serum magnesium imbalances are transient and of little clinical concern. Sodium picosulfate was associated with a higher risk of hospitalization with hyponatremia (absolute increase 0.05%, 95% CI 0.04%–0.06%; relative risk [RR] 2.4, 95% CI 1.5–3.9) but not with urgent head computed tomography or death.
 - **2 L PEG-ELS + ascorbate** is contraindicated in phenylketonuria and glucose-6-phosphate dehydrogenase deficiency, should not be used with reduced creatinine clearance (<30 mL/min) or congestive heart failure, and — being hypertonic — hydration with additional water is recommended.
-- Sodium sulfate, potassium sulfate, magnesium sulfate: elevated serum magnesium, hyponatremia, and hyperkalemia have been observed; oral sulfate solution is associated with transient diminished renal function. These changes were transient and of low clinical significance.
-- Bisacodyl has been associated with **rare occurrences of ischemic colitis**. PEG-3350 must not be mixed with a sports drink in a way that makes it non-isotonic; over-the-counter PEG-3350 is widely used but **not FDA-approved** as a bowel preparation.
+- Sodium picosulfate + magnesium citrate: elevated serum magnesium, hyponatremia, and hyperkalemia; PEG + ascorbate: hypernatremia more likely; oral sulfate solution: metabolic derangements including transient diminished renal function. These changes were transient and of low clinical significance.
+- Bisacodyl has been associated with **rare occurrences of ischemic colitis**. PEG-3350 **must be mixed with a sports drink** — it is iso-osmotic but not isotonic; over-the-counter PEG-3350 is widely used but **not FDA-approved** as a bowel preparation.
 - Oral sulfate solution carried an increased risk of nausea (RR 1.35, 95% CI 1.03–1.77) and **more than twice the risk of vomiting** (RR 2.30, 95% CI 1.63–2.23) compared with low-volume PEG-ELS.
 
 ## Low-Residue Foods and Sample Meals
@@ -190,7 +190,7 @@ Table 5 — items reported in the literature (quantities included where the prim
 | Meal | Options |
 |---|---|
 | **Breakfast** | 2 eggs (fried, over easy, scrambled, or boiled) ± condiments · 2 white bread slices or 1 plain bagel with butter, jelly, or cream cheese · ⅔ cup yogurt (no seeds, berries, nuts) + 1 banana · 30 g cheese, or 2 eggs (fried/boiled) + ½ cup milk + ¼ loaf white bread + 1 tbsp olive oil or butter · scrambled eggs (1 egg with 2 tsp oil), 2 slices ham, 2 pieces white bread, glass of apple juice (without pulp) · chicken burrito (½ portion shredded chicken breast, 40 g, in 2 wheat tortillas) + glass of yogurt or cup of milk |
-| **Lunch** | 1 plain chicken or turkey sandwich on white bread with condiments only (no lettuce or tomato) · chicken breast (120 g) or ham (120 g) with white bread · 1 skinless chicken breast, pan fried or baked · 90 g meat (beef, chicken, or fish) + ½ cup cooked white rice + ½ cup ice cream + 2 tbsp olive oil · lean meat (beef 100 g or pork 120 g) or fish (200 g) or 2 eggs · 1 cup macaroni and cheese · 1 baked potato (no skin) with butter or sour cream · chicken rice soup (250 g) · miso soup (7 g) · cottage cheese (1 c) · white rice (130 g) or plain white pasta (200 g) or peeled potatoes (fried, baked, or boiled; 300 g) · rice noodles |
+| **Lunch** | 1 plain chicken or turkey sandwich on white bread with condiments only (no lettuce or tomato) · chicken breast (120 g) or ham (120 g) with white bread · 1 skinless chicken breast, pan fried or baked · 90 g meat (beef, chicken, or fish) + ½ cup cooked white rice + ½ cup ice cream + 2 tbsp olive oil · lean meat (beef 100 g or pork or poultry 160 g) or fish (200 g) or 2 eggs · 1 cup macaroni and cheese · 1 baked potato (no skin) with butter or sour cream · chicken rice soup (250 g) · miso soup (7 g) · cottage cheese (1 c) · white rice (130 g) or plain white pasta (200 g) or peeled potatoes (fried, baked, or boiled; 300 g) · rice noodles |
 | **Snack/dessert** | Pretzels (handful) · Jell-O (1 c) · plain or vanilla yogurt (½ c) · apple sauce (113 g) · vanilla shake (58 g) or vanilla ice cream · plain rice crackers |
 
 Foods to restrict for individuals needing extended dietary modification (Recommendation 23): **vegetables and legumes for 2 to 3 days before colonoscopy**. High-fibre foods a low-residue diet aims to limit: cereals, beans, peas, nuts, seeds, and raw or dried fruits and vegetables.
@@ -235,12 +235,12 @@ Foods to restrict for individuals needing extended dietary modification (Recomme
   - Adding simethicone to a PEG-based regimen reduced intraprocedural simethicone use from **49% of colonoscopies to 2%** (*P* < 0.05).
   - **Timing:** one RCT of 440 patients found that giving 200 mg during the first vs second litre of a split-dose 2 L PEG regimen made **no difference to BBPS or ADR**; earlier dosing was associated with shorter cecal intubation time (3.80 ± 1.81 vs 4.42 ± 2.03 min; *P* < 0.001), fewer bubbles, and higher detection of diminutive right-sided adenomas. Trials of evening vs morning dosing conflict.
   - **Operative dose: at least 320 mg** (key concept) — the document stresses that the data supporting any specific dose are limited.
-- **Non-simethicone adjuncts are not suggested routinely** (Rec 14, Weak/Low). Studied and found insufficient: chewing gum, orange juice, diet cola, menthol candy drops, citrus peel tablets (6 small RCTs, ≤150 patients/arm, I² = 81%); lubiprostone; mosapride citrate (no difference in adequacy by BBPS ≥6, 98.4% vs 98.5%, *P* = 0.97). Bisacodyl improved quality in regimens using ≤1 L but **not** with larger volumes, and was associated with higher patient discomfort.
+- **Non-simethicone adjuncts are not suggested routinely** (Rec 14, Weak/Low). Studied and found insufficient: chewing gum, orange juice, diet cola, menthol candy drops, citrus peel tablets (6 small RCTs, ≤150 patients/arm, I² = 81%); mosapride citrate (no difference in adequacy by BBPS ≥6, 98.4% vs 98.5%, *P* = 0.97). Bisacodyl improved quality in regimens using ≤1 L but **not** with larger volumes, and was associated with higher patient discomfort. One lubiprostone trial reduced poor preparations (9.5% vs 16.7%; *P* < 0.01); Rec 14 still does not suggest it routinely.
 - **Simethicone through the scope:** if used for intraprocedural bubbles, use the **lowest possible dilution — 0.5 mL simethicone (20 mg/0.3 mL) in 99.5 mL water (0.5%)** — the lowest of three concentrations studied (0.5%, 1%, 3%) and the one associated with least residue in the accessory channel. Administer **only via an instrument channel routinely brushed during reprocessing** ([[endoscope-reprocessing]]).
 
 ### Assessing and Describing Preparation Quality
 
-- **Patient self-report of preparation adequacy is unreliable** — among 429 patients whose preparation was adequate at the end of washing/suctioning, **42% of the 52 who had reported brown liquid or solid stool before the colonoscopy** nonetheless had an adequate preparation. Despite this, 97% of academic GI fellowship program directors reported their unit allowed cancellation based on preprocedure patient self-report.
+- **Patient self-report of preparation adequacy is unreliable** — in one study of 429 patients, preparation was adequate at the end of washing/suctioning in **42% of the 52 who had reported brown liquid or solid stool before the colonoscopy**. Despite this, 97% of academic GI fellowship program directors reported their unit allowed cancellation based on preprocedure patient self-report.
 - Hence **Recommendation 15**: insert the colonoscope to the sigmoid colon to confirm inadequacy before aborting.
 - **Scales in use:** Aronchick Scale, Harefield Preparation Scale, Chicago Bowel Preparation Scale, Ottawa Bowel Preparation Scale, and the **BBPS**. One large systematic review concluded the **BBPS is the most reliable and thoroughly validated**. The document does not reproduce the scoring criteria for any of them.
 - **The actionable BBPS cut-points:**
@@ -282,6 +282,7 @@ Foods to restrict for individuals needing extended dietary modification (Recomme
 - **Simethicone in the endoscope.** The USMSTF suggests the lowest possible dilution through a routinely brushed instrument channel; in the same discussion it notes that, **in response to FDA guidance, endoscope manufacturers have recommended against administering simethicone into endoscope accessory channels** because of crystal formation, residue, and biofilm.
 - **The adequacy target is stated two ways within the document** — Recommendation 21 and its in-text box read **"≥90%"**; the abstract reads **">90% for both rates."**
 - **Recommendation 6 is stated two ways** — Table 2 gives it unqualified ("2 L instead of 4 L"); the in-text recommendation box restricts it to ambulatory patients at low risk for inadequate preparation.
+- **Recommendation 22 is stated two ways** — Table 2 includes "as soon as possible (generally within 3 mo)" after an abnormal non-colonoscopy screening test; the in-text box gives only the 12-month rule for screening or surveillance colonoscopies.
 - **No purgative can be shown superior.** Noninferiority designs dominate because baseline adequacy already exceeds 90%, and FDA approval measures cleanliness at insertion rather than at final inspection — so definitive "best preparation" data are not anticipated.
 - **Ultra-low-volume (<2 L) regimens** are not ready for general use; the supporting meta-analyses carry I² of 86%–98%.
 - **Simethicone**: optimal timing relative to purgative ingestion is not established, and many trials did not report the concentration used. Simethicone improves visualization and reduces bubbles but has **not** been shown to improve ADR in the larger meta-analyses.

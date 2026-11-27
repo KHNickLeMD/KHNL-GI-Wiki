@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Diagnosis and Management of Immune Check
 category: source
 tags: [immune-checkpoint-inhibitor, irae, ici-colitis, ici-hepatitis, enterocolitis, immunotherapy, ctcae, infliximab, vedolizumab, budesonide, microscopic-colitis, oncology]
 created: 2026-09-04
-updated: 2026-09-29
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2021 CPU Immune Checkpoint Inhibitor Colitis and Hepatitis.pdf"
 ---
@@ -12,11 +13,11 @@ raw: "GI Guidelines/AGA/AGA 2021 CPU Immune Checkpoint Inhibitor Colitis and Hep
 - **Article:** [Dougan M, Wang Y, Rubio-Tapia A, Lim JK. AGA Clinical Practice Update on Diagnosis and Management of Immune Checkpoint Inhibitor Colitis and Hepatitis: Expert Review. Gastroenterology. 2021;160(4):1384–1393.](https://doi.org/10.1053/j.gastro.2020.08.063)
 - **Authors:** Michael Dougan, Yinghong Wang (co-first authors), Alberto Rubio-Tapia, Joseph K. Lim
 - **Year:** 2021
-- **Journal/Publisher:** Gastroenterology (AGA Institute / Elsevier)
+- **Journal/Publisher:** Gastroenterology (AGA Institute)
 - **DOI:** [10.1053/j.gastro.2020.08.063](https://doi.org/10.1053/j.gastro.2020.08.063)
 - **Type:** guideline (American Gastroenterological Association [AGA] Institute Clinical Practice Update — Expert Review)
 
-**Note on evidence rating:** This is an expert review, not a systematic review. The 15 Best Practice Advice statements carry **no formal ratings** of evidence quality or strength. The authors state that management recommendations for both immune checkpoint inhibitor (ICI) enterocolitis and ICI hepatitis rest largely on retrospective analyses, small case series, and expert opinion.
+**Note on evidence rating:** Expert review combining the authors' clinical opinion with a literature search. The 15 Best Practice Advice statements carry **no formal ratings** of evidence quality or strength. The authors state that management recommendations for both immune checkpoint inhibitor (ICI) enterocolitis and ICI hepatitis rest largely on retrospective analyses, small case series, and expert opinion.
 
 ---
 
@@ -89,7 +90,7 @@ ICI hepatitis is less common (<5% with monotherapy, rising to ~25% with ipilimum
 - **Colonic ulceration is the only established factor** predicting how ICI enterocolitis responds to treatment, and the only identified predictor of needing second-line immunosuppression. **CTCAE grading is not predictive.**
 - **20%–30%** of patients with suspected ICI enterocolitis have **no mucosal inflammation** (possibly fewer among ipilimumab-treated).
 - Infectious causes account for **<5%** of diarrhea on ICIs — but must still be excluded in all patients before immunosuppression. Test: *C. difficile* and stool cultures in all (stool pathogen panels a reasonable alternative); ova & parasite testing based on risk factors and local prevalence.
-- **Stool lactoferrin sensitivity up to 90%** for histologic inflammation (retrospective data) — the basis for using lactoferrin/calprotectin to triage to endoscopy.
+- **Stool lactoferrin sensitivity can be 90%** for histologic inflammation (retrospective data) — the basis for using lactoferrin/calprotectin to triage to endoscopy.
 - **~95%** of patients have inflammation in the **left colon** on biopsy, mostly visible macroscopically → **flexible sigmoidoscopy is often adequate** for diagnosis. Pancolitis is the most common pattern.
 - **Esophagogastroduodenoscopy (EGD) is reasonable** in patients with a negative flexible sigmoidoscopy, and **may be higher yield than proceeding to full colonoscopy**.
 - Computed tomography (CT) sensitivity **53%–85%**, specificity **75%–78%** → relatively low negative predictive value; the CT pattern is indistinguishable from infectious and ischemic colitis. **Diarrhea alone should not warrant abdominal imaging.**
@@ -150,9 +151,9 @@ ICI hepatitis is less common (<5% with monotherapy, rising to ~25% with ipilimum
 | CTCAE grade | AST/ALT | Total bilirubin | Management |
 |---|---|---|---|
 | 1 | 1–3× ULN | 1–1.5× ULN | Monitor liver chemistries **1–2×/week**; ± delay ICI dosing |
-| 2 | >3–5× ULN | >1.5–3× ULN | **Hold ICI** until resolution to grade 1; GI/hepatology consult; stop potential hepatotoxins if feasible; if symptomatic → **prednisone 0.5–1.0 mg/kg/d**. Resume ICI when recovered to grade 1 on **≤10 mg prednisone/d**. If unresolved after a 1–2 week ICI delay → give systemic glucocorticoids |
-| 3 | >5–20× ULN | >3–10× ULN | **Discontinue ICI**; urgent GI/hepatology consult; **methylprednisolone 1–2 mg/kg** with planned 4–6 week taper; biopsy + hospitalization case-by-case; if no response within **3–5 days** → second-line (azathioprine, mycophenolate mofetil, or tacrolimus) |
-| 4 | >20× ULN | >10× ULN, or hepatic decompensation (ascites, encephalopathy) | **Hospitalize**, preferably at a liver-failure referral center; **permanently discontinue ICI**; **methylprednisolone 2 mg/kg/d** |
+| 2 | >3–5× ULN | >1.5–3× ULN | **Hold ICI** until resolution to grade 1; consider GI/hepatology consult (grade ≥2); stop potential hepatotoxins if feasible; if symptomatic → **prednisone 0.5–1.0 mg/kg/d**. Resume ICI when recovered to grade 1 on **≤10 mg prednisone/d**. If unresolved after a 1–2 week ICI delay → give systemic glucocorticoids |
+| 3 | >5–20× ULN | >3–10× ULN | **Discontinue ICI**; urgent GI/hepatology consult; **methylprednisolone 1–2 mg/kg** with planned 4–6 week taper; biopsy + hospitalization case-by-case; no response within **3–5 days**, or flare during steroid taper → second-line azathioprine, mycophenolate mofetil, or tacrolimus **may be considered** (minimal data) |
+| 4 | >20× ULN | >10× ULN, or hepatic decompensation (ascites, encephalopathy) | **Hospitalize**, preferably at a liver-failure referral center; **permanently discontinue ICI**; **methylprednisolone 2 mg/kg/d** with planned 4–6 week taper in responders; rigorously exclude competing causes; **no ≥50% drop in transaminases within 3 days** → start azathioprine, mycophenolate mofetil, or tacrolimus; antithymocyte globulin reserved for refractory, severe (fulminant) cases |
 
 - **Infliximab should be used with caution in suspected ICI hepatitis** — potential idiosyncratic liver toxicity and no demonstrated clinical benefit in this population.
 - Steroid doses for ICI hepatitis were **empirically determined and have not been rigorously examined**.

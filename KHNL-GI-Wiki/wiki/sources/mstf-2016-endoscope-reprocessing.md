@@ -3,7 +3,8 @@ title: "Multisociety Guideline on Reprocessing Flexible GI Endoscopes: 2016 Upda
 category: source
 tags: [endoscope-reprocessing, high-level-disinfection, duodenoscope, infection-control, spaulding, automated-endoscope-reprocessor, endoscopy-unit, quality]
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2017 Multisociety Reprocessing Flexible GI Endoscopes 2016 Update (Petersen).pdf"
 ---
@@ -44,7 +45,7 @@ Three categories of medical device, by the risk of infection involved with their
 - **>20 million GI endoscopic procedures** are performed annually in the United States; patient outcomes are not routinely tracked, and reports of pathogen transmission are **rare**.
 - A historical review of 265 articles (1966–1992) attributed **281 transmission episodes** to GI endoscopy. In every instance transmission was associated with **a breach of accepted cleaning and disinfection guidelines, an unacceptable liquid chemical germicide, improper drying, or defective equipment**.
 - CDC review of its investigation log **1980–2002 found no outbreaks of infection associated with GI endoscopy**. MAUDE database review 1990–2002 revealed **7 possible episodes**.
-- Compliance is imperfect: a 2009 CDC pilot audit of **68 ambulatory surgical centers** found **non-uniform compliance in 28%**. A 2004 SGNA survey found compliance with published standards inconsistent and widely variable.
+- Compliance is imperfect: a 2009 CDC pilot audit of **68 ambulatory surgical centers** in 4 states found reprocessing **not uniform in 28% of 67** centers. A 2004 SGNA survey found compliance with published standards inconsistent and widely variable.
 - **Duodenoscope transmission:** patient-to-patient transmission of carbapenem-resistant *Enterobacteriaceae* or other multidrug-resistant organisms during [[ercp|endoscopic retrograde cholangiopancreatography (ERCP)]] **despite appropriate and optimal reprocessing**, reported by **at least 8 major US medical centers**, with similar outbreaks in Europe. **10 to 12 outbreaks and at least 60 clinical infections in the United States, 25 or more outbreaks and over 250 infections with more than 20 deaths worldwide** in the 3 years before publication. **>1000 potentially exposed patients** advised to undergo screening cultures; **at least 100 believed to harbor silent carriage**. Transmission is attributed to **persistent contamination at the elevator region and/or the elevator cable**, and has occurred with **instrument designs from all major duodenoscope manufacturers**.
 - **Nonendoscopic transmission** — unrelated to the endoscope itself — has caused several hepatitis C outbreaks through improper handling of intravenous sedation tubing, multidose vials and reuse of needles or syringes.
 
@@ -66,7 +67,7 @@ Three categories of medical device, by the risk of infection involved with their
 | 10 | Endoscopes and accessories contacting mucous membranes are **semicritical** and should receive **at least HLD after each patient use** | **IA** |
 | 11 | New high-level disinfectants and agent-specific machines continue to appear. **Use a high-level disinfectant and compatible reprocessing machine cleared by the FDA for their respective HLD claims**; obtain information from the FDA website and independent peer-reviewed publications | **IA** |
 | 12 | **Exposure time and temperature vary among FDA-cleared high-level disinfectants — follow the FDA-cleared label claims for HLD** | **IA** |
-| 13 | **Select a liquid disinfectant or sterilization technology that is compatible with the endoscope.** Avoid using a specific high-level disinfectant or sterilization technology on an endoscope if the manufacturer warns against its use because of functional damage, with or without cosmetic damage | **IC** |
+| 13 | **Select a liquid disinfectant or sterilization technology that is compatible with the endoscope.** Avoid using a specific high-level disinfectant or sterilization technology on an endoscope if the manufacturer warns against its use because of functional damage, with or without cosmetic damage | **IB** |
 | 14 | The disinfectant field is dynamic and new products appear. Persons or committees responsible for selecting disinfectants for GI endoscope reprocessing should be **guided by FDA clearance of these products and by information in the scientific literature** | **II** |
 | 15 | **Completely immerse the endoscope and its components in the HLD solution and ensure all channels are perfused.** **Nonimmersible GI endoscopes should not be used** | **IB** |
 | 16 | HLD can be performed in an **automated endoscope reprocessor (AER)** or manually. **Use of an AER is advisable and should be adopted when feasible.** When an AER is used, ensure the endoscope and its components **can be effectively reprocessed in that AER** — for example, **the elevator wire channel of duodenoscopes is not effectively disinfected by most AERs, and this step should be performed manually**. Obtain and review FDA-cleared model-specific reprocessing protocols from both the endoscope and AER manufacturers and check for compatibility | **IB** |
@@ -128,4 +129,4 @@ These are flagged in a dedicated section as lacking the data to support a recomm
 - **Competency interval conflict, also noted on the page:** this guideline requires competency testing **at least annually** (recommendation 32); the AGA commentary records that the AGA has encouraged **semi-annual** demonstration. Both stand — the guideline is the floor.
 - **The document grades 2 of its 41 recommendations NR** — shelf life (25) and routine environmental microbiologic testing for quality assurance (36). Neither is a recommendation, and neither should be rendered as one.
 - **Out of scope by the document's own statement:** sterilization for extraluminal applications (natural orifice transluminal endoscopic surgery, intraoperative endoscopy through open or laparoscopic access), and reprocessing of affiliated flexible, rigid or semirigid endoscopes used in other procedures such as cystoscopy or bronchoscopy.
-- **Dated in one respect:** the duodenoscope-design discussion predates disposable-cap and single-use duodenoscope designs. [[aga-2017-mstf-endoscope-reprocessing-commentary]] already carries the 2016–2017 disposable-endoscope data the page uses.
+- **Duodenoscope design:** the document says only that new or validated low-temperature reprocessing technologies and/or endoscope designs are needed. [[aga-2017-mstf-endoscope-reprocessing-commentary]] carries the 2016–2017 disposable-endoscope data the page uses.

@@ -3,10 +3,10 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-11-24
+updated: 2026-11-27
 sources: [acg-2021-dili, aasld-2022-dili, aga-2021-ici-colitis-hepatitis, asco-2021-immune-related-adverse-events]
 quality_reviewed: 2026-11-14
-verified: 2026-11-23
+verified: 2026-11-27
 ---
 
 A subtype of [[drug-induced-liver-injury|drug-induced liver injury]] (DILI) with distinct features. Anticancer therapeutics — **particularly immune checkpoint inhibitors** — are among the leading DILI drug classes. [[acg-2021-dili]]
@@ -146,7 +146,7 @@ flowchart TD
 | **3** | **Asymptomatic → consider permanent discontinuation; symptomatic → permanently discontinue** | **Immediately start methylprednisolone 1–2 mg/kg** or equivalent. Steroid-refractory → consider liver biopsy and adding [[thiopurines\|azathioprine]] or mycophenolate if infection ruled out. Taper can be attempted around **4–6 weeks** once ≤ grade 1; re-escalate if needed | Labs daily or every other day; **consider inpatient monitoring if AST/ALT >8× ULN and/or total bilirubin >3× ULN**; no improvement on steroid, or ICI combined with a novel agent, standard chemotherapy or targeted therapy → hepatologist; consider transfer to tertiary care |
 | **4** | **Permanently discontinue** (ASCO's general grade 4 rule) | **Methylprednisolone 2 mg/kg/day** equivalents; otherwise as grade 3 | As grade 3 |
 
-- **AGA differences** ([[aga-2021-ici-colitis-hepatitis]]): grade 1 — continue if asymptomatic (± delay dosing); symptoms or labs worsen → treat as the next higher grade. Grade 2 — **symptomatic → oral prednisone 0.5–1.0 mg/kg/day**; unresolved after a **1–2 week** ICI delay → systemic glucocorticoids; gastrointestinal (GI)/hepatology consult. Grade 3 — **discontinue permanently** (no symptom qualifier); methylprednisolone 1–2 mg/kg/day; urgent GI/hepatology consult; biopsy and hospitalization considered case by case. Grade 4 — **hospitalize**, preferably at a centre with expertise in liver failure.
+- **AGA differences** ([[aga-2021-ici-colitis-hepatitis]]): grade 1 — continue if asymptomatic (± delay dosing); symptoms or labs worsen → treat as the next higher grade. Grade 2 — **symptomatic → oral prednisone 0.5–1.0 mg/kg/day**; unresolved after a **1–2 week** ICI delay → systemic glucocorticoids; consider gastrointestinal (GI)/hepatology consult (grade ≥2). Grade 3 — **discontinue permanently** (no symptom qualifier); methylprednisolone 1–2 mg/kg/day; urgent GI/hepatology consult; biopsy and hospitalization considered case by case. Grade 4 — **hospitalize**, preferably at a centre with expertise in liver failure.
 - **AASLD grade ≥3:** permanently discontinue; consider intravenous (IV) steroids **1–1.5 mg/kg/day**, with hospitalization for patients with **jaundice** ([[aasld-2022-dili]]).
 
 - **Steroid trigger and duration ([[aasld-2022-dili]] Table 9):** ICI hepatotoxicity with **ALT >5× ULN**, or histology showing AIH-like features → **1 mg/kg/day methylprednisolone equivalent**. Optimal dose and duration are not established, but the course can frequently be tapered over **1–3 months**.

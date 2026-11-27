@@ -3,7 +3,8 @@ title: "AGA 2024 Clinical Practice Update on Pain Management in Inflammatory Bow
 category: source
 tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, brain-gut-behavior-therapy, opioids, narcotic-bowel-syndrome, psychogastroenterology]
 created: 2026-07-23
-updated: 2026-11-03
+updated: 2026-11-27
+verified: 2026-11-27
 sources: []
 raw: "GI Guidelines/AGA/AGA 2024 CPU IBD Pain Management.pdf"
 ---
@@ -131,7 +132,7 @@ Management is multidisciplinary: an experienced pain psychologist for the initia
 **Figure 1** (both panels recreated on [[ibd-pain-management]])
 
 - **Figure 1A** — algorithm for the diagnostic workup of patients with IBD and abdominal pain. Entry node is *determine degree and correlation of inflammation, injury, and self-report of abdominal pain*, branching to three strata: **high pain-inflammation correlation**, **low pain-inflammation correlation**, **no inflammation**. High and low correlation → **optimize medical therapy** → low correlation additionally → **consider risk factors for development of brain–gut dysregulation**. No inflammation → **introduce concept of brain–gut dysregulation and consider/titrate neuromodulator (low dose TCA, gabapentin)**. Both arms converge on **re-assess self-report of pain — was there resolution or diminution of pain?**; *no* → **deploy integrated approach to chronic pain management**.
-- **Figure 1B** — levels of intervention matched to levels of pain complexity (vertical axis: *complexity and need for integrated care or multiple modalities*). Ascending: visceral hypersensitivity · overlapping disorder of gut–brain interaction including IBS and functional dyspepsia → **brain–gut behavior therapies** (cognitive behavior therapy, acceptance and commitment therapy, hypnosis, mindfulness/relaxation, wellness activities [exercise, sleep hygiene, stress management]); overlapping depression/anxiety · multiple pain sites/comorbidities → **augmentation with neuromodulators including SNRI and SSRI (if anxiety or depression present, combine with TCA)**; severe disability/impact on ability to work · central sensitization or centrally mediated abdominal pain syndrome (CAPS) → **intensive pain and psychological management programs**; opioid overuse/substance abuse → **substance abuse referral and psychiatric care**.
+- **Figure 1B** — levels of intervention matched to levels of pain complexity (vertical axis: *complexity and need for integrated care or multiple modalities*). Complexity levels, ascending: visceral hypersensitivity · overlapping disorder of gut–brain interaction including IBS and functional dyspepsia · overlapping depression/anxiety · multiple pain sites/comorbidities · severe disability/impact on ability to work · central sensitization or centrally mediated abdominal pain syndrome (CAPS) · opioid overuse/substance abuse. Interventions, ascending (drawn as nested brackets — the figure does not pair each intervention with specific levels, except the top one): **brain–gut behavior therapies** (cognitive behavior therapy, acceptance and commitment therapy, hypnosis, mindfulness/relaxation, wellness activities [exercise, sleep hygiene, stress management]) → **augmentation with neuromodulators including SNRI and SSRI (if anxiety or depression present), combine with TCA** → **intensive pain and psychological management programs** → **substance abuse referral and psychiatric care** (level with opioid overuse/substance abuse).
 
 **Conclusions (the Update's own summary)**
 

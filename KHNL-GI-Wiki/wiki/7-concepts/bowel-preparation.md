@@ -146,7 +146,7 @@ Everything below applies to **ambulatory patients at low risk for inadequate pre
 ## Adjuncts
 
 - **Oral simethicone is suggested** (weak, moderate) — an upgrade from the 2014 position against routine adjuncts. **If it is used, give at least 320 mg** (ungraded). It improves preparation quality, reduces bubbles and cuts intraprocedural simethicone use, but has not been shown to improve adenoma detection. **The optimal timing relative to the purgative is not established.**
-- **Against the routine use of non-simethicone adjuncts** (weak, low) — chewing gum, orange juice, diet cola, menthol candy drops, citrus peel tablets, lubiprostone and mosapride citrate all lack sufficient evidence. Bisacodyl improved quality only in regimens using ≤1 L, and increased discomfort.
+- **Against the routine use of non-simethicone adjuncts** (weak, low) — chewing gum, orange juice, diet cola, menthol candy drops, citrus peel tablets and mosapride citrate lack sufficient evidence; one lubiprostone trial reduced poor preparations (9.5% vs 16.7%), but it is not suggested routinely either. Bisacodyl improved quality only in regimens using ≤1 L, and increased discomfort.
 - **Against metoclopramide** as an adjunct — it reduced nausea and bloating in one study but did not improve cleansing. [[asge-2015-bowel-preparation]]
 - Dilution and channel precautions for **simethicone given through the scope** for intraprocedural bubbles: [[endoscope-reprocessing]].
 
