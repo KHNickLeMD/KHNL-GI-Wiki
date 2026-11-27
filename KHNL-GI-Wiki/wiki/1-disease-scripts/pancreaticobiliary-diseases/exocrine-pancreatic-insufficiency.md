@@ -3,8 +3,8 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-11-02
-sources: [aga-2023-epi]
+updated: 2026-11-27
+sources: [aga-2023-epi, lenti-2025-ueg-malabsorption-part-1]
 ---
 
 # Exocrine Pancreatic Insufficiency (EPI)
@@ -114,13 +114,14 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 | Test | Role | Notes / thresholds |
 |------|------|--------------------|
-| **FE-1** | **Initial test of choice** | Must be on a **semi-solid or solid** stool. **<100 µg/g = good evidence of EPI**; **100–200 µg/g = indeterminate**. Valid **while on PERT** (assay measures chymotrypsin-like elastases 3A/3B; humans do not secrete elastase-1, so no cross-reaction with porcine enzymes). False-positive with watery/diarrheal stool (dilution). **Do not repeat FE-1 to judge treatment response — PERT does not change it and serial values are not informative.** |
+| **FE-1** | **Initial test of choice** | Must be on a **semi-solid or solid** stool. **<100 µg/g = good evidence of EPI**; **100–200 µg/g = indeterminate**. Valid **while on PERT** (assay measures chymotrypsin-like elastases 3A/3B; humans do not secrete elastase-1, so no cross-reaction with porcine enzymes). False-positive with watery/diarrheal stool (dilution). **Do not repeat FE-1 to judge treatment response — PERT does not change it and serial values are not informative.** Meta-analyses: **10% false-negative** even with a high pre-test probability, **11% false-positive** with a low pre-test probability → a normal FE-1 cannot exclude EPI ([[lenti-2025-ueg-malabsorption-part-1\|European consensus 2025]], 4.2.5 text). |
 | Fecal fat (quantitative) | Rarely needed | Must be done **on a high-fat diet** (BPA 6): known-fat diet **5 days**, stool collected over the **final 3 days**. **Steatorrhea = coefficient of fat absorption <93%** (>7% of ingested fat in stool). Burdensome; impractical for routine use. |
 | Qualitative stool fat (Sudan stain) | Adjunct only | **Nonspecific for EPI.** Use when clinical features are inconclusive or to assess an inadequate response to PERT. |
 | Serum pancreatic enzymes (e.g. trypsin) | Alternative indirect test | **Not affected by PERT**, but **unreliable during ongoing pancreatic inflammation**. |
 | Cross-sectional imaging (computed tomography [CT]/[[mri-mrcp\|magnetic resonance imaging (MRI)]]/[[endoscopic-ultrasound\|endoscopic ultrasound (EUS)]]) | **Cannot diagnose EPI** | Used to diagnose underlying benign/malignant pancreatic disease. |
 | Direct pancreatic function tests | Confirmatory (specialized) | Most accurate but invasive; mainly for early-stage CP. Not widely available in the US. |
-| Breath tests | Promising | Not widely available in the US. |
+| Breath tests | Promising | Not widely available in the US ([[aga-2023-epi]]). **¹³C-mixed triglyceride breath test** — the European consensus suggests it, when available, for fat malabsorption and allows it to detect EPI with suspected steatorrhea (4.2.5): **sensitivity 90%–100% for moderate to severe EPI, specificity 80%–90% in adults**; repeated before and after starting PERT it can **monitor treatment efficacy** ([[lenti-2025-ueg-malabsorption-part-1\|European consensus 2025]]). |
+| Cystic fibrosis testing | Young patients with EPI and suspected cystic fibrosis | **Cystic fibrosis transmembrane conductance regulator (CFTR) gene study and sweat chloride testing** (4.2.6); per cystic fibrosis guidelines, **sweat chloride test first**, other tests if equivocal. Cystic fibrosis is the most important differential in **children with EPI** ([[lenti-2025-ueg-malabsorption-part-1\|European consensus 2025]]). |
 | Fat-soluble vitamins (A, D, E, K) | Nutritional assessment | Establish deficiency and baseline. |
 
 ## Therapeutics
@@ -180,3 +181,4 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 ## Sources
 
 1. [[aga-2023-epi|AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency (2023)]]
+2. [[lenti-2025-ueg-malabsorption-part-1|European Consensus on Malabsorption (UEG and partner societies) Part 1: Definitions, Clinical Phenotypes, and Diagnostic Testing (2025)]]

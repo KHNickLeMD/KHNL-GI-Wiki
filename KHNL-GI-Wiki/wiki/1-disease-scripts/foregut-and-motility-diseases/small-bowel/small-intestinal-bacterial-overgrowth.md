@@ -3,10 +3,10 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-11-21
+updated: 2026-11-27
 quality_reviewed: 2026-11-21
-verified: 2026-11-21
-sources: [acg-2020-sibo, aga-2020-sibo, aga-2018-functional-gi-symptoms-ibd]
+verified: 2026-11-27
+sources: [acg-2020-sibo, aga-2020-sibo, aga-2018-functional-gi-symptoms-ibd, lenti-2025-ueg-malabsorption-part-1]
 ---
 
 Small intestinal bacterial overgrowth (SIBO) = a clinical syndrome of gastrointestinal (GI) symptoms caused by excessive numbers of bacteria in the small intestine ([[acg-2020-sibo]]; the American Gastroenterological Association (AGA) clinical practice update (CPU), [[aga-2020-sibo]], adopts the same definition by citing the American College of Gastroenterology (ACG) guideline).
@@ -154,6 +154,7 @@ Symptoms are non-specific; the overlapping conditions can also coexist with SIBO
 | 5 | Symptomatic **with constipation** | Glucose or lactulose breath test for **methane** (IMO) | Suggest | Very low |
 
 - [[aga-2020-sibo]] makes **no recommendation for or against** breath testing in any population and gives no cutoff, substrate preference or dose. It notes the test "has lacked universal acceptance," "was never fully validated compared with culture of small intestinal aspirates," and that thresholds vary widely — but also that it "appears to identify subjects likely to respond to treatment" (Table 3). The protocol and cutoffs below are ACG's (North American Consensus).
+- **Conflicting European view (ACG governs here):** the 2025 European malabsorption consensus (Statement 4.2.4) says current evidence **does not support breath testing for diagnosing SIBO** — results do not correlate with symptoms or aspirates and do not predict antibiotic response; the latest meta-analysis it cites gives lactulose sensitivity 42% / specificity 70.6%, and glucose 81.7% / 78.8% only in patients with a predisposing condition (i.e., history of abdominal surgery), with a high false-positive rate and risk of unnecessary antibiotics ([[lenti-2025-ueg-malabsorption-part-1]]).
 
 **Preparation** ([[acg-2020-sibo]]):
 
@@ -331,3 +332,4 @@ From [[acg-2020-sibo]]; data are mainly extended from IBS:
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
 2. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
 3. [[aga-2018-functional-gi-symptoms-ibd|AGA Clinical Practice Update: Functional Gastrointestinal Symptoms in Patients with Inflammatory Bowel Disease (2018)]]
+4. [[lenti-2025-ueg-malabsorption-part-1|European Consensus on Malabsorption (UEG and partner societies) Part 1: Definitions, Clinical Phenotypes, and Diagnostic Testing (2025)]]

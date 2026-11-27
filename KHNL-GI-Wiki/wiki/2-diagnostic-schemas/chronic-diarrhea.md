@@ -3,8 +3,8 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-11-16
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2023-alpha-gal-syndrome, rome-v-2026-bowel-disorders]
+updated: 2026-11-27
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo, aga-2019-lab-evaluation-functional-diarrhea-ibs-d, aga-2023-alpha-gal-syndrome, rome-v-2026-bowel-disorders, lenti-2025-ueg-malabsorption-part-1]
 quality_reviewed: 2026-11-16
 ---
 
@@ -106,6 +106,7 @@ The framework below classifies by **stool character** — watery, inflammatory, 
 - **[[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]** — [[chronic-pancreatitis]], [[pancreatic-cancer|pancreatic cancer]]; low fecal elastase
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]**, Whipple's disease, tropical sprue
 - [[short-bowel-syndrome|Short bowel syndrome]], [[acute-mesenteric-ischemia|mesenteric ischemia]], bile acid deficiency (cholestasis)
+- **Diagnosing malabsorption itself — no universal test** (European consensus Statement 3.3.2): diagnosis "can be made in case of" clinical and laboratory evidence of **micro- or macronutrient deficiency** in a patient with **adequate eating habits and no increased nutritional needs** explaining it, "and in case of" evidence of a **medical or surgical condition leading to malabsorption**. Malabsorption with no apparent cause → **celiac serology**; [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with duodenal biopsies, and in selected cases [[capsule-endoscopy|capsule endoscopy]] and ileocolonoscopy with biopsies, **should be considered** (Statement 4.2.2) ([[lenti-2025-ueg-malabsorption-part-1]])
 
 ---
 
@@ -188,6 +189,7 @@ What the flowchart cannot carry:
 - **Stool electrolytes & osmotic gap** — secretory (<50) vs. osmotic (>75 mOsm/kg).
 - **Fecal fat** (qualitative Sudan stain / quantitative 72-h) — confirms steatorrhea/malabsorption.
 - **Fecal elastase-1** — low in [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]]; the cutoffs that make the call (**<100 µg/g** = EPI, **100–200 µg/g** = indeterminate, and the semi-solid-stool requirement) live on that page. Commonly secondary to [[chronic-pancreatitis]].
+- **Fecal alpha-1 antitrypsin** — resists digestion; raised stool concentration is consistent with **protein-losing enteropathy**. Fecal steatocrit (random spot stool) is a semiquantitative alternative to quantitative fecal fat ([[lenti-2025-ueg-malabsorption-part-1]]).
 - **[[clostridioides-difficile|C. difficile]] testing** and **[[giardiasis|Giardia]] / [[cryptosporidiosis|Cryptosporidium]] antigen** — chronic infectious causes. Broad O&P only with travel/immigration history (see table above).
 - **Bile acid testing** — availability, not accuracy, picks the test; the assay menu and its limits live on [[bile-acid-diarrhea]]. None is widely available or Food and Drug Administration (FDA)-approved, so an **empiric trial of a bile acid binder** is reasonable, with clinical response taken as support for the diagnosis ([[aga-2019-lab-evaluation-functional-diarrhea-ibs-d]]).
 - **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a neuroendocrine secretory cause is suspected.
@@ -205,8 +207,8 @@ What the flowchart cannot carry:
   - **Flexible sigmoidoscopy is the reasonable first test in three situations** — pregnancy, significant comorbidity, or predominantly left-sided symptoms (tenesmus, urgency) — but may miss right-sided organic disease ([[asge-2010-diarrhea]]).
   - **Escalate to full colonoscopy for any of:** inconclusive findings, persistent symptoms, large-volume blood loss, or suspected inflammatory bowel disease or colorectal cancer ([[asge-2010-diarrhea]]).
 - **Intubate the terminal ileum (TI)** during colonoscopy. On routine biopsy of a normal-appearing TI, ASGE 2010 makes **no recommendation either way** — the data are insufficient to decide, and the yield is likely low (0%–4.2%).
-- **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
-- **[[capsule-endoscopy|Capsule endoscopy]] and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve [[device-assisted-enteroscopy|enteroscopy]] for nondiagnostic small-bowel disease.
+- **EGD + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
+- **Capsule endoscopy and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve [[device-assisted-enteroscopy|enteroscopy]] for nondiagnostic small-bowel disease.
 
 ---
 
@@ -243,3 +245,4 @@ Also outside the laboratory pathway:
 4. [[aga-2019-lab-evaluation-functional-diarrhea-ibs-d|AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults (IBS-D) (2019)]]
 5. [[aga-2023-alpha-gal-syndrome|AGA Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician: Commentary]]
 6. [[rome-v-2026-bowel-disorders|Bowel Disorders (Rome V, 2026)]]
+7. [[lenti-2025-ueg-malabsorption-part-1|European Consensus on Malabsorption (UEG and partner societies) Part 1: Definitions, Clinical Phenotypes, and Diagnostic Testing (2025)]]

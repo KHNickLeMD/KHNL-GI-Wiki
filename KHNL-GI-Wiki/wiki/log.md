@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-27] lint | Lint pass — ingest by budget ($25)
+
+**Start state:** `git pull` up to date; no untracked files under `raw/` (nothing to commit from the inbox); no source page carries `ingest: partial`.
+
+**Pick:** `UEG 2025 Malabsorption Consensus Part 1 (Lenti).pdf` — next pick named by the previous pass.
+
+**Daily source fetch:** not run (not the 06:00 pass).
+
+**`[[lenti-2025-ueg-malabsorption-part-1]]` — new source (Lenti MV, …, Di Sabatino A. European Consensus on Malabsorption — UEG & SIGE, LGA, SPG, SRGH, CGS, ESPCG, EAGEN, ESPEN, and ESPGHAN. Part 1. UEG J 2025;13:599–613; CC BY).**
+- *Extract* (fresh agent; whole text, tables rendered): all **13** statements with the document's own section numbers 3.1.1–4.2.6; no grade, strength or per-statement agreement printed (all >80% final agreement; GRADE "could not fully" be applied) — stated on the page. Tables 1–3 recreated; stool/urine/serum marker, SIBO breath-test accuracy and fecal elastase tables. No figures (the algorithm is in Part 2).
+- *Gate:* ABSENT 0 · OTHER 5 (this source's numbers on comparison lines that also cite ACG 2020 SIBO / AGA 2023 EPI — correct attribution) · NOMATCH 2 (labelling/overlap notes, no clinical claim) · SIGN 13 all read off rendered pages (incl. the printed pediatric D-xylose "(< 91%)").
+- *Verify* (fresh agent, ~150 claims; 13/13 statements): 0 management, 2 minor — "<200 µg/g pathological is not the AGA framing" wrong (AGA 2023 text also calls <200 abnormal) → corrected; summary line lacked 4.2.5's "suspected steatorrhea" → added. `verified: 2026-11-27`.
+- *Internal inconsistencies surfaced:* agreement rule (no cut-off / >80% / "agreed upon by all"); pediatric D-xylose "highly sensitive (< 91%)"; fecal elastase "<200 pathological" vs "no clear cut-off"; 3.3.1 vs its text; working-group arithmetic; ARB vs "type 2 receptor blockers".
+- *Source priority:* non-US consensus → gap-fill only. **4.2.4 (breath testing not supported for SIBO) opposes ACG 2020 Recs 1–3 — ACG governs**, surfaced inline. Celiac no-biopsy-in-adults evidence is narrower than ACG 2022 Rec 1B and not propagated.
+- *Propagated:* [[exocrine-pancreatic-insufficiency]] (FE-1 10% false-negative / 11% false-positive; ¹³C-mixed triglyceride breath test 90%–100% / 80%–90% for moderate–severe EPI and PERT monitoring; CFTR + sweat chloride row, sweat test first), [[small-intestinal-bacterial-overgrowth]] (European contradiction line, ACG governs), [[celiac-disease]] (one-third normal-looking duodenum; scalloping/flattened folds → always biopsy — ACG 2022 silent), [[chronic-diarrhea]] (Statement 3.3.2 malabsorption criteria + 4.2.2 workup; fecal alpha-1 antitrypsin, steatocrit; first EGD/capsule link moved to the new first mention). Gate: no flags on new lines (pre-existing flags only — EPI L70 ABSENT "2500 iu" Mermaid label, celiac and chronic-diarrhea paraphrase lines — left to their quality reviews). Changed-line check (fresh agent, 22 claims): 0 management, 3 minor — SIBO meta-analysis is one the consensus cites, subgroup "i.e., history of abdominal surgery"; 3.3.2 "(a) and (b)" implied both required → source wording kept ("can be made in case of … and in case of"; same fix on the source page); 4.2.2 workup "should be considered" → all fixed. [[small-intestinal-bacterial-overgrowth]] `verified:` re-stamped 2026-11-27; the other three pages carry no `verified:`.
+- *Not propagated (deliberate):* [[short-bowel-syndrome]] D-xylose niche (no decision value), [[seronegative-villous-atrophy]] Table 1 (AGA 2021 owns the differential), [[bile-acid-diarrhea]] (no cut-offs), [[chronic-pancreatitis]] (chymotrypsin obsolete — nothing to act on).
+- `index.md`: source row added (Sources → Other); counts corrected to actual frontmatter (celiac 2→4, SIBO 2→4, EPI 1→2, chronic-diarrhea 3→7).
+- *Cards:* none — only [[small-intestinal-bacterial-overgrowth]] is verified, and its new line is a non-governing European stance. Its card file (`page_updated: 2026-10-06`) is already queued for correlation against the 11-21 verification; left for the card pass.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-26] update | Card pass — dedup, stale verified pages re-carded and correlated ($10, second run)
 
 **Dedup:** 16 candidate pairs judged and marked — 2 merged, 15 distinct (one extra pair found while judging).

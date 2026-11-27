@@ -3,8 +3,8 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-11-12
-sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac]
+updated: 2026-11-27
+sources: [acg-2022-celiac, aga-2019-celiac-monitoring, aga-2022-refractory-celiac, lenti-2025-ueg-malabsorption-part-1]
 ---
 
 A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of gastrointestinal (GI) and extra-intestinal manifestations.
@@ -98,6 +98,7 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 - ≥4 biopsies from the **postbulbar (distal) duodenum**
 - Total: ≥6 specimens in separate labeled jars
 - Rationale: Histological abnormalities are patchy. ≥4 specimens increase new CD diagnosis yield from 0.7% to 1.8% (P<0.0001) — yet ≥4 were obtained in only 39% of biopsied patients. Bulb biopsies catch 9–13% of cases with atrophy limited to the bulb; **targeted 9- or 12-o'clock bulb biopsy plus distal duodenal biopsies has 96% sensitivity** for CD.
+- **Normal-looking duodenum does not exclude CD** — endoscopic appearance is normal in **one-third**, so biopsy anyway; **duodenal scalloping or flattened Kerckring's folds must always prompt duodenal biopsies**, especially when CD was not suspected ([[lenti-2025-ueg-malabsorption-part-1|European malabsorption consensus 2025]])
 - Interpret bulb biopsies cautiously — normal surface architecture overlying Brunner glands and acute peptic duodenitis both mimic injury.
 - See [[upper-endoscopy]] for biopsy technique
 
@@ -537,3 +538,4 @@ Assess malnutrition by nonvolitional weight loss, low body mass index (BMI), los
 1. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]
 2. [[aga-2022-refractory-celiac|AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review]]
 3. [[aga-2019-celiac-monitoring|AGA Clinical Practice Update on Diagnosis and Monitoring of Celiac Disease—Changing Utility of Serology and Histologic Measures: Expert Review]]
+4. [[lenti-2025-ueg-malabsorption-part-1|European Consensus on Malabsorption (UEG and partner societies) Part 1: Definitions, Clinical Phenotypes, and Diagnostic Testing (2025)]]
