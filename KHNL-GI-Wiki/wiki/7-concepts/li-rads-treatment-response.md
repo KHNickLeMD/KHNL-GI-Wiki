@@ -3,12 +3,13 @@ title: "LI-RADS Treatment Response (LR-TR) Assessment"
 category: concept
 tags: [li-rads, hcc, treatment-response, locoregional-therapy, ablation, tace, tare, sbrt, radiology, ct, mri]
 created: 2026-11-23
-updated: 2026-11-23
+updated: 2026-11-28
+quality_reviewed: 2026-11-28
 sources: [acr-2024-li-rads-ct-mri-treatment-response]
-verified: 2026-11-23
+verified: 2026-11-28
 ---
 
-The Liver Imaging Reporting and Data System (LI-RADS) computed tomography (CT)/magnetic resonance imaging (MRI) Treatment Response Assessment (TRA) categorizes [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] after local-regional therapy (LRT) as viable or not. The 2024 version splits it into a **nonradiation algorithm** and a new **radiation core** ([[acr-2024-li-rads-ct-mri-treatment-response]]). Diagnostic categories for untreated observations (LR-1 to LR-5, LR-M): see [[li-rads]].
+The Liver Imaging Reporting and Data System (LI-RADS) computed tomography (CT)/magnetic resonance imaging (MRI) Treatment Response Assessment (TRA) categorizes [[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]] after local-regional therapy (LRT), assigning each treated lesion a LI-RADS treatment response (LR-TR) category. The 2024 version splits it into a **nonradiation algorithm** and a new **radiation core** ([[acr-2024-li-rads-ct-mri-treatment-response]]). Diagnostic categories for untreated observations (LR-1 to LR-5, LR-M): see [[li-rads]].
 
 ## Contents
 - [[#Scope and Timing]]
@@ -62,6 +63,8 @@ The Liver Imaging Reporting and Data System (LI-RADS) computed tomography (CT)/m
 - **Why Equivocal was kept:** it may hide small viable foci too small to diagnose; HCC doubling time is about **86–150 days**, so 3 months should show little growth; these patients may face more risk from their liver disease than from the HCC, and early unnecessary treatment can cause hepatic decompensation.
 - Equivocal is unreliable on its own (interreader κ 0.25–0.71); **>50% and up to 83%** of LR-TR Equivocal HCCs were incompletely necrotic at pathology (meta-analysis).
 
+*See Figures 2–4 in [[acr-2024-li-rads-ct-mri-treatment-response]] for example images (Nonviable after microwave ablation, Viable after TACE, Equivocal upgraded to Viable by ancillary features).*
+
 ### Radiation LRT
 
 | Category | Criteria (Figure 1B) | Action |
@@ -73,10 +76,12 @@ The Liver Imaging Reporting and Data System (LI-RADS) computed tomography (CT)/m
 
 - **LR-TR Equivocal is not used after radiation** — questionable viable disease → Nonprogressing.
 
+*See Figures 5–9 in [[acr-2024-li-rads-ct-mri-treatment-response]] for example images (Nonviable and Viable after TARE, Viable after SBRT, Nonprogressing after TARE and after SBRT).*
+
 > [!pearl] Persistent enhancement after radiation is expected
 > After nonradiation LRT, posttreatment enhancement means immediate re-treatment. After radiation it is an expected finding (particularly external beam), so persistent enhancement → **imaging surveillance**; re-treat only after **multidisciplinary conference discussion** ([[acr-2024-li-rads-ct-mri-treatment-response]]).
 
-- Why: radiation causes either immediate cell death or **cellular senescence** — viable but unable to replicate — so tumors can keep arterial phase hyperenhancement (APHE). In one explant study, persistent enhancement despite complete necrosis on explant was seen in about **45%** of SBRT-treated HCCs imaged within 3 months of transplant.
+- Why: radiation causes either immediate cell death or **cellular senescence** — viable but unable to replicate — so tumors can keep arterial phase hyperenhancement (APHE). In one explant study, persistent enhancement despite complete necrosis on explant was seen in about **45%** of SBRT-treated HCCs imaged within 3 months of [[liver-transplantation|transplant]].
 - Persistent APHE after radiation is usually seen at least **3–6 months** after treatment, then slowly resolves (timing data extremely limited).
 
 ### Ancillary Features — Upgrade Only
@@ -120,7 +125,7 @@ Optional MRI step; ancillary features (AFs) can **only upgrade**, never downgrad
 
 ## See Also
 
-[[li-rads]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[mri-mrcp]]
+[[li-rads]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[mri-mrcp]], [[liver-transplantation]]
 
 ---
 

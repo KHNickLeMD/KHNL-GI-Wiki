@@ -82,7 +82,7 @@ When medical therapy is exhausted, off-label prescription agents (e.g., pyridost
 
 ### Secondary causes to exclude (BPA 3)
 
-- **Medications** are the most common iatrogenic cause: opioid-induced or opioid-exacerbated constipation ([[opioid-induced-constipation]]); anticholinergic agents such as antipsychotics; iron supplements. In many patients these **exacerbate a pre-existing constipation rather than being the primary cause**.
+- **Medications** are among the most common iatrogenic causes: opioid-induced or opioid-exacerbated constipation ([[opioid-induced-constipation]]); anticholinergic agents such as antipsychotics; iron supplements. In many patients these **exacerbate a pre-existing constipation rather than being the primary cause**.
 - **Inadequate caloric intake** may predispose to RC, particularly in eating disorders such as anorexia nervosa, which are over-represented in gastrointestinal (GI) clinics; some RC patients have an **undiagnosed or unrecognised eating disorder** driving symptoms.
 - **Coexisting conditions:** endometriosis; rarely undiagnosed or early-stage neurologic disease (Parkinson's disease, multiple sclerosis) without the typical neurologic manifestations.
 - **Autonomic function testing** may be considered in CC patients presenting with **orthostatic symptoms** — alternative therapy is available for RC with autonomic dysfunction (see BPA 8).

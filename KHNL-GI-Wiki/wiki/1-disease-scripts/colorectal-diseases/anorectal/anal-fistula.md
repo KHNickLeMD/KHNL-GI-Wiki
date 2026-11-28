@@ -3,13 +3,15 @@ title: "Anal Fistula (Fistula-in-Ano)"
 category: disease-script
 tags: [anorectal, fistula-in-ano, cryptoglandular, parks-classification, fistulotomy, lift, seton, advancement-flap]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-28
+quality_reviewed: 2026-11-28
+verified: 2026-11-28
 sources: [ascrs-2022-anorectal-abscess-fistula]
 ---
 
 An **epithelialized tract connecting the perianal skin with the anal canal**. The accepted cause is cryptoglandular: an [[anorectal-abscess]] results from obstruction of an anal gland, and the fistula is produced by chronic infection and epithelialization of the abscess drainage tract ([[ascrs-2022-anorectal-abscess-fistula|American Society of Colon and Rectal Surgeons (ASCRS) 2022]]).
 
-**The central trade-off is tract obliteration versus sphincter preservation** — the whole operative decision turns on how much external sphincter the tract crosses, so classifying the fistula is the decision, not a preamble. Fistula associated with [[crohns-disease|Crohn's disease]] is a different process (penetrating inflammation rather than gland infection) and is covered on [[perianal-fistulizing-crohns-disease]].
+**The central trade-off is tract obliteration versus sphincter preservation** — the operative decision turns on the tract's anatomy and how much sphincter it crosses, so classifying the fistula is the decision, not a preamble.
 
 ---
 
@@ -39,8 +41,8 @@ An **epithelialized tract connecting the perianal skin with the anal canal**. Th
 
 - **A disease-specific history and physical examination should be performed**, evaluating symptoms, relevant history, abscess and fistula location, and presence of secondary cellulitis ([[ascrs-2022-anorectal-abscess-fistula]] rec 1, *strong recommendation, low-quality evidence, 1C*).
 - Typical presentation: **intermittent anorectal swelling and drainage**.
-- History must capture **baseline anal sphincter function**, prior anorectal operations, family history of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], obstetric history, and associated gastrointestinal, genitourinary or gynecologic pathology — these drive the choice of sphincter-sparing versus sphincter-dividing repair.
-- **Gentle probing of an external opening may confirm the tract but must be done with care to avoid creating false tracts.**
+- History should typically include **baseline anal sphincter function**, prior anorectal operations, family history of [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], obstetric history, and associated gastrointestinal, genitourinary or gynecologic pathology.
+- **Gentle probing of an external opening, when tolerated, may confirm the tract — done with care to avoid creating false tracts.**
 - **Goodsall's rule:** an **anterior** fistula has a **radial** tract to the anus; a **posterior** fistula has a **curvilinear** tract. Generally accurate for anterior fistulas, **less accurate for posterior fistulas**.
 - **30–70%** of patients with an anorectal abscess present with a concomitant fistula; of those who do not, roughly **30–50%** are ultimately diagnosed with a fistula in the months to years after abscess drainage.
 
@@ -52,36 +54,34 @@ The fistula is classified by the relationship of the tract to the **internal and
 |---|---|
 | **Submucosal** | Superficial fistula tract. Does **not** involve any sphincter muscle |
 | **Intersphincteric** | Crosses the internal sphincter, then has a tract to the perianal skin. Does **not** involve the external anal sphincter muscle |
-| **Transsphincteric** | Tracks from the internal opening across the dentate line via the internal **and** external anal sphincters, then terminates in the ischiorectal fossa or perineum |
+| **Transsphincteric** | Tracks from the internal opening at the dentate line via the internal **and** external anal sphincters, then terminates in the perianal skin or perineum |
 | **Suprasphincteric** | Courses superiorly into the intersphincteric space over the top of the puborectalis muscle, then descends through the iliococcygeus muscle and into the ischiorectal fossa and the perianal skin |
 | **Extrasphincteric** | Passes from the perineal skin through the ischiorectal fossa and levator muscles, then into the rectum, and lies **completely outside** the external sphincter complex |
 
+*Parks classification of fistula-in-ano*
+*Source: redrawn from Table 1 of ASCRS 2022 (adapted from Parks et al)*
+*[[ascrs-2022-anorectal-abscess-fistula|ASCRS 2022 Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula]]*
+
 - **Intersphincteric and transsphincteric fistulas are more frequently encountered** than suprasphincteric, extrasphincteric, and submucosal tracts.
-- The Parks grade predicts how much magnetic resonance imaging (MRI) adds: MRI contributed significant findings in **5%** of grade 1, **48%** of grade 2, **86%** of grade 3, and **87.5%** of grade 4 fistulas.
 
 ### Simple vs Complex
-
-**This is the classification that picks the operation.**
 
 | | Criteria ([[ascrs-2022-anorectal-abscess-fistula]]) |
 |---|---|
 | **Simple** | **Intersphincteric** or **low transsphincteric** fistulas involving **<30% of the external anal sphincter**, with none of the complex features below |
-| **Complex** | Transsphincteric fistula involving **>30% of the external sphincter** · **suprasphincteric** · **extrasphincteric** · **horseshoe** · associated with **IBD, radiation, malignancy, preexisting fecal incontinence, or chronic diarrhea** |
+| **Complex** | Transsphincteric fistula involving **>30% of the external sphincter** · **suprasphincteric** · **extrasphincteric** · **horseshoe** · associated with **IBD, radiation, malignancy, preexisting [[fecal-incontinence\|fecal incontinence]], or chronic diarrhea** |
 
 - **Recurrent or branching** fistulas may also be described as complex.
 - **Anterior fistulas in women deserve special consideration and may also be considered complex** — given the attenuated nature of the anterior sphincter in women.
-- A fistula may additionally be classified by **level**, which matters in [[rectovaginal-fistula|rectovaginal fistula]].
-
-> [!pearl] 30% of the external sphincter is the line
-> Everything in the operative menu sorts on it: at or below ~30% external sphincter involvement, lay-open fistulotomy is a strong recommendation with >90% healing; above it, fistulotomy carries **10–40%** significant fecal incontinence and a sphincter-sparing repair (flap or LIFT) is used instead ([[ascrs-2022-anorectal-abscess-fistula]]).
+- [[rectovaginal-fistula|Rectovaginal fistula]] has its own level (low / middle / high) and simple-vs-complex definitions — on its page.
 
 ---
 
 ## Differential Diagnosis
 
-[[anorectal-abscess]] · [[anal-fissure]] · [[hemorrhoids|thrombosed hemorrhoid]] · pilonidal disease · hidradenitis suppurativa · anorectal neoplasia · [[crohns-disease|Crohn's disease]] · sexually transmitted infections · [[rectovaginal-fistula]] ([[ascrs-2022-anorectal-abscess-fistula]]).
-
-- **Crohn's disease:** fistula-in-ano incidence is **10–20%** in population-based studies and **50%** in longitudinal studies; nearly **80%** of patients with Crohn's disease cared for at tertiary referral centers have a history of fistula-in-ano. Management is multidisciplinary — see [[perianal-fistulizing-crohns-disease]].
+- **[[crohns-disease|Crohn's disease]]-associated fistula** is a different process — penetrating inflammation rather than anal gland infection — managed multidisciplinarily: see [[perianal-fistulizing-crohns-disease]].
+  - Fistula-in-ano incidence in Crohn's disease: **10–20%** in population-based studies, **50%** in longitudinal studies; nearly **80%** of patients with Crohn's disease at tertiary referral centers have a history of it.
+- ASCRS 2022 gives its differential ([[anal-fissure|fissure]], [[hemorrhoids|thrombosed hemorrhoid]], pilonidal disease, hidradenitis, neoplasia, Crohn's disease, sexually transmitted infection) for the abscess presentation — see [[anorectal-abscess#Differential Diagnosis]].
 
 ---
 
@@ -91,13 +91,22 @@ The fistula is classified by the relationship of the tract to the **internal and
 
 | Modality | Performance | Notes |
 |---|---|---|
-| **MRI** | Suspected anal fistula (50 patients, prospective): sensitivity **95%**, specificity **80%**, positive predictive value **97%** for detecting and grading the **primary** fistula tract | Identifies secondary (blind) tracts, horseshoe abscesses, and abscesses missed on examination in **34%** of patients. Significantly better at evaluating secondary extensions in complex fistulas than endoanal ultrasound (**97% vs 74%**, *p* = 0.04) |
-| **Endoanal ultrasound (EAUS)** | Concordance with operative findings **73–100%** | 2 or 3 dimensions, ± peroxide enhancement. Preoperative EAUS may **preserve anorectal function**: significantly worse Fecal Incontinence Severity Scores at mean 34-week follow-up in 230 patients without preoperative imaging vs 109 with it |
+| **Magnetic resonance imaging (MRI)** | Suspected anal fistula (50 patients, prospective): sensitivity **95%**, specificity **80%**, positive predictive value **97%** for detecting and grading the **primary** tract | "Significant" findings (secondary blind tracts, horseshoe abscesses, abscesses missed on physical examination or examination under anesthesia [EUA]) in **34%** of 136 patients — more often in **complex** than simple fistulas (**54% vs 5%**, *p* < 0.001). Vs 3-dimensional endoanal ultrasound (126 patients): comparable in simple fistulas; more sensitive for secondary extensions in complex fistulas (**97% vs 74%**, *p* = 0.04) |
+| **Endoanal ultrasound (EAUS)** | Concordance with operative findings **73–100%** | 2 or 3 dimensions, ± peroxide enhancement. Preoperative EAUS may **preserve anorectal function**: worse Fecal Incontinence Severity Scores at mean 34 weeks in 230 patients without preoperative imaging vs 109 with it |
 | **Transperineal ultrasound (TPUS)** | Diagnostic accuracy nearly identical to EAUS and MRI (23 patients with Crohn's disease) | Noninvasive, low cost, available — but **operator-dependent** and not widely adopted |
-| **Examination under anesthesia (EUA)** | Accurate in 91% of 34 patients with anorectal Crohn's disease | Combining **any 2** of EUA, EAUS and MRI achieved **100%** accuracy |
+| **EUA** | Accurate in 91% of 34 patients with anorectal Crohn's disease (EAUS 91%, MRI 87%) | Combining **any 2** of EUA, EAUS and MRI achieved **100%** accuracy |
 
-- MRI provided significant findings more often in **complex** than simple fistulas (**54% vs 5%**, *p* < 0.001).
-- 3-dimensional EAUS and MRI had comparable accuracy in **simple** fistulas (prospective trial, 126 patients) but MRI was significantly better for secondary extensions in **complex** fistulas.
+```mermaid
+xychart-beta
+    title "MRI adds significant findings more often at higher Parks grade"
+    x-axis "Parks grade" ["Grade 1", "Grade 2", "Grade 3", "Grade 4"]
+    y-axis "Patients with significant MRI findings (%)" 0 --> 100
+    bar [5, 48, 86, 87.5]
+```
+*Share of patients in whom preoperative MRI gave significant findings, by Parks grade*
+*Source: data from a retrospective study of 136 patients with anal fistula (Konan et al), cited in ASCRS 2022*
+*[[ascrs-2022-anorectal-abscess-fistula|ASCRS 2022 Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula]]*
+*MRI = magnetic resonance imaging*
 
 ---
 
@@ -107,90 +116,69 @@ The fistula is classified by the relationship of the tract to the **internal and
 
 The primary goals of operative treatment are to **obliterate the internal opening and associated epithelialized tracts** and to **preserve anal sphincter function**. **No single technique is appropriate for all fistulas** — the choice weighs cause and anatomy of the tract, degree of symptoms, comorbidities, surgeon experience, and the interplay between extent of sphincter division and the risks of healing problems, recurrence, and poor functional outcome ([[ascrs-2022-anorectal-abscess-fistula]]).
 
-```mermaid
-flowchart TD
-    A(["Cryptoglandular fistula-in-ano"]) --> B["Classify tract<br/>(Parks) + assess<br/>baseline sphincter function"]
-    B -- "Simple: intersphincteric or low transsphincteric, &lt;30% EAS, normal sphincter function" --> C(["Lay-open fistulotomy (1B)<br/>± marsupialization"])
-    B -- "Transsphincteric" --> D(["LIFT (1B)"])
-    B -- "Complex or recurrent, sphincter at risk" --> E(["Endorectal advancement flap (1B)"])
-    B -- "Complex, with sepsis or staged plan" --> F(["Draining seton first,<br/>then definitive repair"])
-    F -- "Incontinence risk from lay-open prohibitive" --> G(["Cutting seton, selectively (2C)"])
-    B -- "Plug or fibrin glue considered" --> H(["Relatively ineffective (1B)"])
-    class A start
-    class B test
-    class C,D,E,F,G act
-    class H stop
-```
+| Operation | ASCRS 2022 recommendation (grade) | Healing | Continence |
+|---|---|---|---|
+| **Lay-open fistulotomy** | Rec 6: **simple** fistula with **normal anal sphincter function** *may be treated* with it (strong, 1B) | Resolution **>90%** | Minimal risk in selected **low-lying** fistulas (less than one-third of the external anal sphincter); significant incontinence in **10–40%** when used for high-lying or otherwise complex fistulas |
+| **Endorectal advancement flap** | Rec 7: fistula-in-ano *may be treated* with it (strong, 1B) | **66–87%** initial; **57–100%** when repeated after a failed flap or other failed approach (incl. ligation of the intersphincteric fistula tract [LIFT]) | Mild-to-moderate incontinence with lower [[anorectal-manometry\|manometric]] resting and squeeze pressures in up to **35%** |
+| **LIFT** | Rec 8: **transsphincteric** fistulas *may be treated* with it (strong, 1B) | **76%** overall (meta-analysis, 1378 procedures, 26 studies); long-term primary healing **42–62%** | Incontinence **1.4%**; complications 14% |
+| **Cutting seton** | Rec 9: *selectively* for **complex** cryptoglandular fistulas (weak, 2C; was 2B in 2016) | **~90%** | Not sphincter-sparing; incontinence **0–67%** across 37 pooled studies |
+| **Anal fistula plug, fibrin glue** | Rec 10: **relatively ineffective** (strong, 1B; was 2B in 2016) | Plug **≤50%** in recent series; glue **41%** (10/24) in a 2019 double-blind randomized controlled trial (RCT) | Sphincter-preserving |
+| **Endoscopic or laser closure** — video-assisted anal fistula treatment (VAAFT), fistula laser closure (FiLaC), over-the-scope clip (OTSC) | Rec 11: reasonable short-term healing, **unknown** long-term healing and recurrence (weak, 2C; new in 2022) | See [[#Minimally Invasive Techniques]] | See [[#Minimally Invasive Techniques]] |
 
-*Operative choice in cryptoglandular fistula-in-ano*
-*Source: built from ASCRS 2022 recommendations 6, 7, 8, 9 and 10 (the guideline has no flowchart)*
+*Operative options for cryptoglandular fistula-in-ano*
+*Source: built from ASCRS 2022 recommendations 6–11 and their supporting text*
 *[[ascrs-2022-anorectal-abscess-fistula|ASCRS 2022 Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula]]*
-*EAS = external anal sphincter · LIFT = ligation of the intersphincteric fistula tract*
+*LIFT = ligation of the intersphincteric fistula tract · RCT = randomized controlled trial · VAAFT = video-assisted anal fistula treatment · FiLaC = fistula laser closure · OTSC = over-the-scope clip*
+
+- ASCRS 2022 does not rank recommendations 6–8 against each other.
 
 ### Fistulotomy
 
-**Patients with a simple fistula-in-ano and normal anal sphincter function may be treated with lay-open fistulotomy** ([[ascrs-2022-anorectal-abscess-fistula]] rec 6, *strong recommendation, moderate-quality evidence, 1B*).
+> [!pitfall] Screen for sphincter risk before laying open
+> Preoperative fecal incontinence, recurrent fistula, female sex, complex fistula, previous anorectal surgery, anterior fistula in a woman, or possible occult obstetric sphincter damage → interventions other than fistulotomy are generally recommended to preserve function ([[ascrs-2022-anorectal-abscess-fistula]]).
 
-- **Fistula resolution rates >90%**, with high patient satisfaction.
-- **Continence:** in appropriately selected patients with **low-lying** fistulas involving **less than one-third of the external anal sphincter**, the risk of clinically significant fecal incontinence is **minimal**. Fistulotomy for **high-lying or otherwise complex** fistulas may result in significant postoperative fecal incontinence in **10–40%** of patients.
-  - A multicenter retrospective study of 537 patients with low fistulas nonetheless reported a **28%** incidence of major postprocedure fecal incontinence — retrospective methodology and absent preoperative continence evaluation may have influenced the result.
-- **Risk factors for sphincter dysfunction after fistulotomy:** preoperative [[fecal-incontinence]] · recurrent fistula · female sex · complex fistula · previous anorectal surgery. **Women with anterior fistulas, or with possible occult sphincter damage from previous birthing trauma, are also at risk** — use an intervention other than fistulotomy to preserve function.
-- **Factors related to recurrence after fistulotomy:** branching fistulas · failure to accurately identify the internal opening · fistulas associated with Crohn's disease.
-- **Marsupialization** of the fistulotomy wound: 4 RCTs found **less postoperative bleeding and improved wound healing**.
-- **Topical adjuncts:** 10% sucralfate and 2% phenytoin applied to the fistulotomy site were associated with **decreased postoperative pain and improved healing** compared with placebo.
-- **Fistulectomy (coring out the tract) rather than laying it open:** a 1985 RCT (n = 47) found **longer healing times, larger defects and a higher risk of fecal incontinence** with comparable recurrence rates; a meta-analysis of 6 RCTs did not offer conclusive evidence that fistulectomy was associated with worse outcomes in **low-lying** fistulas.
+- High patient satisfaction.
+- Even low fistulas carry some risk: a multicenter retrospective study of 537 patients reported **28%** major postprocedure incontinence (retrospective, no preoperative continence evaluation).
+- **Recurrence after fistulotomy:** branching fistulas · failure to identify the internal opening · Crohn's disease–associated fistula.
+- **Wound adjuncts:** marsupialization → less bleeding, better wound healing (4 RCTs); topical 10% sucralfate or 2% phenytoin → less pain, better healing vs placebo.
+- **Fistulectomy (coring out the tract):** 1985 RCT (n = 47) — longer healing, larger defects, more incontinence, similar recurrence vs fistulotomy; a 6-RCT meta-analysis was inconclusive for **low-lying** fistulas.
 
 ### Endorectal Advancement Flap
 
-**Fistula-in-ano may be treated with endorectal advancement flap** ([[ascrs-2022-anorectal-abscess-fistula]] rec 7, *strong recommendation, moderate-quality evidence, 1B*).
-
-- **Technique:** curettage of the fistula tract, suture closure of the internal opening, and covering of the internal opening with a mobilized segment of rectum.
-- **Healing 66–87%** for cryptoglandular fistula; **57–100%** when repeated after a failed initial approach (including after LIFT).
-- **Factors associated with flap failure:** history of pelvic radiation therapy · underlying active proctitis · history of abscess drainage · [[rectovaginal-fistula|rectovaginal fistula]] · smoking · malignancy · obesity · **more than 1 previous attempted repair**.
-- **A diverting stoma has not been shown to improve outcomes after endorectal advancement flap and is not typically recommended.**
-- **Caveats:** internal anal sphincter fibers may be included in the flap to preserve blood flow, and mild-to-moderate decreased manometric resting and squeeze pressures have been reported in up to **35%** of patients. Flaps in the **posterior position**, especially in men with deep buttocks, can be technically challenging. In patients with fistulas whose **internal opening is distal to the dentate line**, the flap may result in **mucosal ectropion** — consider another approach.
+- **Technique:** curettage of the tract → suture closure of the internal opening → cover it with a mobilized segment of rectum. Internal anal sphincter fibers may be included in the flap to preserve blood flow.
+- **Failure factors:** pelvic radiation therapy · underlying Crohn's disease · active proctitis · prior abscess drainage · rectovaginal fistula · smoking · malignancy · obesity · **more than 1 previous attempted repair**.
+- **Diverting stoma:** not shown to improve outcomes; **not typically recommended**.
+- **Posterior** flaps, especially in men with deep buttocks, can be technically challenging.
+- **Internal opening distal to the dentate line** → flap may cause **mucosal ectropion**; consider another approach.
 
 ### LIFT
 
-**Transsphincteric fistulas may be treated with ligation of the intersphincteric fistula tract (LIFT)** ([[ascrs-2022-anorectal-abscess-fistula]] rec 8, *strong recommendation, moderate-quality evidence, 1B*).
-
-- **Technique:** suture ligation and division of the fistula tract in the intersphincteric plane. A draining seton may be used beforehand to allow for fibrosis of the tract, but this **has not been shown to affect the success rate**.
-- **Meta-analysis of 1378 LIFT procedures (26 studies):** overall success **76%**, overall complication rate **14%**, fecal incontinence rate **1.4%**.
-- **Risk factors for failure:** horseshoe anatomy · Crohn's disease fistula · history of fistula surgery.
-- **Long-term primary healing is lower** (42–62%), but LIFT is associated with significant rates of **secondary healing after surgical reintervention** — typically fistulotomy for an intersphincteric recurrence — ranging from **77% to 86%**.
-- **Modifications of the LIFT procedure** (excising the lateral aspect of the tract, incorporating a fistula plug or biologic mesh interposition, video-assisted techniques) have in some studies been associated with improved healing rates, but the supporting evidence is limited to small studies and such modifications are **typically not recommended**.
+- **Technique:** suture ligation and division of the tract in the intersphincteric plane. A preceding draining seton (to let the tract fibrose) may ease the procedure but **has not been shown to change success**.
+- **Failure risk factors:** horseshoe anatomy · Crohn's disease fistula · prior fistula surgery.
+- **After failure:** secondary healing after reintervention (typically fistulotomy for an intersphincteric recurrence) **77–86%**.
+- **Modifications** (lateral tract excision, added plug or biologic mesh, video-assisted): small studies only → **typically not recommended**.
 
 ### Cutting Seton
 
-**A cutting seton may be used selectively in the management of complex cryptoglandular anal fistulas** ([[ascrs-2022-anorectal-abscess-fistula]] rec 9, *weak recommendation, low-quality evidence, 2C* — downgraded from 2B in the 2016 guideline).
-
-- **Staged strategy:** complex fistulas are often treated initially by placing a **draining seton to control local sepsis**, followed by a staged definitive procedure to eradicate the fistula. Healing under these circumstances ranges **62–100%** depending on the definitive operation.
-- **Cutting seton specifically:** left in place and **tightened at intervals**, gradually dividing the fistula and any involved anal sphincter. It is **not a sphincter-sparing procedure** — it was historically performed when the risk of fecal incontinence from a lay-open fistulotomy was considered prohibitively high.
-- **Outcomes:** healing **~90%** with preservation of anal sphincter function in the majority. In 121 patients with low-lying or complex fistulas treated by a single surgeon, a **98%** healing rate with only 8 patients (7%) developing incontinence. An earlier pooled review of 37 studies (1460 patients) reported postoperative fecal incontinence ranging **0–67%**, with variable functional outcomes depending on tract type and the definition of incontinence used.
-- **Because a cutting seton can result in functional impairment, use it in carefully selected patients.**
+- **Common staged route for complex fistulas:** **draining seton to control local sepsis** → staged definitive procedure; healing **62–100%** depending on the definitive operation.
+- **Cutting seton:** left in place and **tightened at intervals**, gradually dividing the fistula and any involved sphincter. Historically used when lay-open fistulotomy's incontinence risk was considered prohibitively high.
+- Sphincter function preserved in the majority in retrospective series, but incontinence in pooled data varies with tract type and the definition used → can impair function; **carefully selected patients only**.
 
 ### Plug and Fibrin Glue
 
-**The anal fistula plug and fibrin glue are relatively ineffective treatments for fistula-in-ano** ([[ascrs-2022-anorectal-abscess-fistula]] rec 10, *strong recommendation, moderate-quality evidence, 1B* — the recommendation grade changed from 2B in 2016).
-
-| Technique | What it is | Outcome |
-|---|---|---|
-| **Anal fistula plug** | Bioprosthetic acellular collagen matrix placed to close the internal opening; a scaffold for native tissue in-growth | Early data **70–100%** success; more recently **≤50%**. Early plug failure, typically from localized sepsis or plug dislodgement, in **4–41%** |
-| **Fibrin glue** | Injected into the tract | 2019 randomized controlled double-blind trial: complete fistula healing in **10 of 24 (41%)** |
-
-- **Plug failure is more common** in patients with Crohn's disease, anovaginal fistula, recurrent fistula, and active smokers.
-- In a retrospective review of 462 patients undergoing sphincter-preserving surgery for cryptoglandular anal fistula (2005–2015), use of the plug (healing 24%) and fibrin glue (healing 18%) **decreased significantly over the interval** while overall fistula healing rose from **32% to 64%**.
-- Their **sphincter-sparing nature** allows for continued but selective use despite the poor healing rates.
+- **Plug:** bioprosthetic acellular collagen matrix closing the internal opening, a scaffold for tissue in-growth. Early data **70–100%** success; later outcomes less encouraging. Early failure (localized sepsis or dislodgement) **4–41%** (2016 systematic review); failure more common with Crohn's disease, anovaginal fistula, recurrent fistula, and active smoking.
+- **Fibrin glue:** injected into the tract; use has declined on disappointing contemporary data.
+- **Continued selective use** of both is justified by the chance of success plus their sphincter-preserving nature.
 
 ### Minimally Invasive Techniques
 
-**Minimally invasive approaches to treat fistula-in-ano that use endoscopic or laser closure techniques have reasonable short-term healing rates but unknown long-term fistula healing and recurrence rates** ([[ascrs-2022-anorectal-abscess-fistula]] rec 11, *weak recommendation, low-quality evidence, 2C* — new in 2022; these techniques were not addressed in the 2016 guideline).
+Described in small single-institution series with limited follow-up and varying industry support; not addressed in the 2016 guideline.
 
 | Technique | Method | Reported outcome |
 |---|---|---|
-| **VAAFT** (video-assisted anal fistula treatment) | Fistuloscopy through the external opening to identify the internal opening; closure of the internal orifice with sutures, clips or a stapling device; selective debridement or obliteration of the tract | Healing **71–85%**, follow-up intervals typically **<12 months**, minor or no fecal incontinence reported. The majority of institutional experience is **preliminary** |
-| **FiLaC** (fistula laser closure) | Radially emitting laser probe passed along the tract traumatizes the epithelium and, in theory, obliterates the tract | Meta-analysis of 7 case series and comparative studies (454 patients; 69% transsphincteric, 35% recurrent): **65% healed** at median 24 months, **4%** complications, mean incontinence rate **1%** |
-| **Over-the-scope clip (OTSC)** | Super-elastic nitinol clip placed over the fistula's internal opening with a transanal applicator, frequently combined with a fistuloscopy | Primary healing **79–90%** in small single-institution series, limited follow-up; clip removal required for pain in a minority. In a German series of 100 (55 transsphincteric, 38 suprasphincteric, 2 extrasphincteric, 5 rectovaginal fistulas), healing at 6 months was **79%** for first-time fistula therapy vs **26%** for recurrent fistulas |
+| **VAAFT** | Fistuloscopy through the external opening to find the internal opening; closure of the internal orifice with sutures, clips or stapler; selective debridement or obliteration of the tract | Healing **71–85%**, follow-up typically **<12 months**, minor or no incontinence. Experience mostly **preliminary** |
+| **FiLaC** | Radially emitting laser probe passed along the tract traumatizes the epithelium and, in theory, obliterates it | Meta-analysis of 7 series (454 patients; 69% transsphincteric, 35% recurrent): **65% healed** at median 24 months, **4%** complications, mean incontinence **1%** |
+| **OTSC** | Super-elastic nitinol clip over the internal opening via a transanal applicator, often with fistuloscopy | Primary healing **79–90%**, limited follow-up; clip removal for pain in a minority. German series of 100: **79%** healed at 6 months for first-time therapy vs **26%** for recurrent fistulas |
 
 ---
 

@@ -53,7 +53,7 @@ sources: [rome-v-2026-anorectal-disorders, acg-2021-anorectal-disorders, aga-acg
 | Source | Test requirement | Question it answers |
 |---|---|---|
 | [[rome-v-2026-anorectal-disorders\|Rome V]] (2026, current) | **Any 1 of 3** (above) | Does this patient **have** DD |
-| [[acg-2021-anorectal-disorders\|American College of Gastroenterology (ACG) 2021]] | **≥2** — ARM **and** BET both required | Diagnosing DD in the physiology lab |
+| [[acg-2021-anorectal-disorders\|American College of Gastroenterology (ACG) 2021]] | ARM **and** BET both required to diagnose (text cites the Rome IV proposal of **≥2** abnormal tests) | Diagnosing DD in the physiology lab |
 | [[aga-2026-refractory-constipation\|American Gastroenterological Association (AGA) 2026]] | **2 of 3** typically — reduced gradient, BET ≥1 minute, inadequate evacuation on defecography | May this constipation be called **refractory** and move toward **surgery** |
 
 - **Not three answers to one question.** Rome V is the newest consensus, so **the diagnosis follows the any-1 rule**; the stricter AGA bar gates the refractory label and any operation.

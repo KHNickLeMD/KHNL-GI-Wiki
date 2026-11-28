@@ -6,6 +6,7 @@ created: 2026-11-13
 updated: 2026-11-13
 sources: []
 raw: "GI Guidelines/Other/ASCRS 2022 Management of Anorectal Abscess Fistula-in-Ano and Rectovaginal Fistula (Gaertner).pdf"
+verified: 2026-11-28
 ---
 
 ## Bibliographic Info
@@ -18,7 +19,7 @@ raw: "GI Guidelines/Other/ASCRS 2022 Management of Anorectal Abscess Fistula-in-
 
 ## Summary
 
-ASCRS clinical practice guideline updating the society's 2016 document on anorectal abscess, fistula-in-ano, and rectovaginal fistula (RVF). 25 graded recommendations across four sections: initial evaluation, anorectal abscess, anal fistula, RVF, and anorectal fistula associated with Crohn's disease. Built from a literature search of 841 screened articles (December 2015 – November 2021), of which 269 were referenced. Grading uses the GRADE system with the 1A–2C notation (1 = strong, 2 = weak; A/B/C = high/moderate/low-very low quality evidence).
+ASCRS clinical practice guideline updating the society's 2016 document on anorectal abscess, fistula-in-ano, and rectovaginal fistula (RVF). 25 graded recommendations across five sections: initial evaluation, anorectal abscess, anal fistula, RVF, and anorectal fistula associated with Crohn's disease. Built from a literature search of 841 screened articles (December 2015 – November 2021), of which 269 were referenced. Grading uses the GRADE system with the 1A–2C notation (1 = strong, 2 = weak; A/B/C = high/moderate/low-very low quality evidence).
 
 The pathophysiologic premise is the cryptoglandular theory: an anorectal abscess results from obstruction of an anal gland, and a fistula results from chronic infection and epithelialization of the abscess drainage tract. Abscesses are named for the anatomic space in which they develop — ischiorectal (ischioanal) most common, followed by intersphincteric, supralevator, and submucosal. Abscess is more common in males, with peak incidence at 20–40 years. 30–70% of patients with an anorectal abscess present with a concomitant fistula-in-ano, and of those who do not, roughly 30–50% are eventually diagnosed with a fistula over the following months to years.
 
@@ -102,7 +103,7 @@ The Crohn's section is the most clinically consequential addition for gastroente
 - **Endorectal advancement flap:** healing in **66–87%**; **57–100%** when repeated after a failed initial procedure. A diverting stoma has **not** improved outcomes and is not typically recommended.
 - **LIFT:** meta-analysis of 1378 procedures (26 studies) — overall success **76%**, complication rate **14%**, fecal incontinence rate **1.4%**. Failure risk factors: horseshoe anatomy, Crohn's fistula, prior fistula surgery. Modifications of standard LIFT are **not** typically recommended.
 - **Cutting seton:** healing **~90%** with sphincter preservation in most; a pooled review of 37 studies (1460 patients) reported postoperative fecal incontinence ranging **0–67%**.
-- **Anal fistula plug:** early data 70–100% success, more recently **≤50%**; plug dislodgement in 4–41%. Plug failure more common in Crohn's disease, anovaginal fistula, and active smokers.
+- **Anal fistula plug:** early data 70–100% success, more recently **≤50%**; early plug failure (attributed to localized sepsis or plug dislodgement) in 4–41% (2016 systematic review). Plug failure more common in Crohn's disease, anovaginal fistula, recurrent fistula, and active smokers.
 - **Fibrin glue:** 2019 RCT — complete healing in only 10 of 24 (**41%**).
 - **VAAFT** (video-assisted anal fistula treatment): healing **71–85%**, follow-up typically <12 months. **FiLaC** (fistula laser closure): meta-analysis of 7 series, 454 patients — **65%** healed at median 24 months, 4% complications, mean incontinence rate 1%. **OTSC clip**: primary healing 79–90% in small single-institution series; 79% at 6 months for first-time therapy vs **26%** for recurrent fistulas in a German series of 100.
 - **Nonoperative RVF management:** healing **52–66%**; baths, wound care, debridement, antibiotics for infection, stool-bulking agents, usually over **3 to 6 months**.
@@ -111,14 +112,14 @@ The Crohn's section is the most clinically consequential addition for gastroente
 - **Fecal diversion for refractory Crohn's fistula:** initial response **64–81%**, but only **26–50%** sustain remission; **45–68%** ultimately require proctectomy. In a meta-analysis of 556 patients, early clinical response after diversion in **64%** (95% CI 54.1–72.5); stoma reversal attempted in 34.5% and successful in only **17%** (95% CI 11.8–22.9); **42%** (95% CI 32.6–51.2) required proctectomy.
 - **Mesenchymal stem cells:** largest phase III RCT — 212 patients, placebo vs 120 million allogeneic MSCs; fistula healing **50% vs 34%** at 6 months (*p* = 0.02), with equivalent rates of anorectal pain and abscess between arms. Across trials, efficacy **50–83%** at 6 months to 1 year; doses ranged **20 million to 120 million cells**; only reported adverse events were anorectal pain and abscess.
 - **Infliximab in Crohn's fistula:** initial fistula healing **38–55%**, long-term healing **39%**. Certolizumab pegol: anal fistulas healed in **36%** vs 17% with placebo (*p* = 0.03) in the PRECiSE trial; when success was defined as ≥50% closure at 2 consecutive visits ≥3 weeks apart, no difference between groups. Adalimumab: 2 randomized trials showed no benefit, but a subsequent randomized double-blind trial showed **33%** healing vs 13% placebo (*p* < 0.05).
-- **Seton + anti-TNF:** retrospective series of 32 patients — lower fistula recurrence with seton placement (**44% vs 79%**, *p* < 0.001) and longer time to recurrence (13.5 vs 3.6 months, *p* < 0.001). A systematic review/meta-analysis of 10 studies including 4 RCTs concluded anti-TNF + temporary seton was likely beneficial. In the subgroup of the 2 RCTs with >4 weeks follow-up, complete fistula healing was higher with anti-TNF (46% vs 13%, *p* = 0.003 and 30% vs 13%, *p* = 0.03).
+- **Seton + anti-TNF:** retrospective series of 32 patients — lower fistula recurrence with seton placement (**44% vs 79%**, *p* < 0.001) and longer time to recurrence (13.5 vs 3.6 months, *p* < 0.001). A systematic review/meta-analysis of 10 studies including 4 RCTs concluded anti-TNF + temporary seton was likely beneficial. A meta-analysis of the 4 RCTs comparing anti-TNF with placebo showed no difference in complete or partial fistula healing; in the subgroup of the 2 trials with >4 weeks follow-up, complete fistula healing was higher with anti-TNF than placebo (46% vs 13%, *p* = 0.003 and 30% vs 13%, *p* = 0.03).
 - **Antibiotics alone in Crohn's fistula without drainage:** metronidazole and fluoroquinolones give at least temporary symptomatic improvement in **>90%**.
 - **Lay-open fistulotomy in Crohn's:** healing **62–100%**, mild incontinence **6–12%**; some studies report incontinence up to **50%**, especially with active proctitis.
 - **Advancement flap in Crohn's:** systematic review of 91 patients — healing **64%** (range 33–93%) at median 29 months; incontinence 9.4% (range 0–29%). **LIFT in Crohn's:** 15 patients, 67% remained healed at 12 months; a later retrospective study of 23 patients found 48% healed at median 23 months, median time to failure 9 months in failures.
 
 ### Figures and tables
 
-Figure 1 is the PRISMA literature flow sheet (no clinical content). Table 1 (Parks classification) and Table 3 (what is new in 2022) are recreated as native Markdown on [[anal-fistula]] and in this page's recommendation list respectively; Table 2 is the generic GRADE grid. The document is **not open access** — "Copyright © 2022 The ASCRS, Inc. Unauthorized reproduction of this article is prohibited" — so no figure is captured or embedded.
+Figure 1 is the PRISMA literature flow sheet (no clinical content). Table 1 (Parks classification) and Table 3 (what is new in 2022) are recreated as native Markdown on [[anal-fistula]] and in this page's recommendation list respectively; Table 2 is the generic GRADE grid. The document is **not open access** — "Copyright © The American Society of Colon & Rectal Surgeons, Inc. Unauthorized reproduction of this article is prohibited" (page footer) — so no figure is captured or embedded.
 
 ## Relevance to Wiki
 

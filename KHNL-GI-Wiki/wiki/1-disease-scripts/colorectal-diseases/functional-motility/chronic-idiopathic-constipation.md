@@ -59,7 +59,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 |---|---|---|
 | Uncomplicated | No alarm features | Fiber and over-the-counter (OTC) agents (Steps 1–2) |
 | OTC failure | Fails or is intolerant of OTC therapies | Lactulose (Rec 4), secretagogues or prucalopride (Recs 7–10) [[aga-acg-2023-constipation]] |
-| Refractory constipation (RC) | Unsatisfactory despite an adequate trial of lifestyle, dietary, medical and (when indicated) biofeedback therapy | [[#Refractory Constipation (AGA 2026)]]; [[chronic-constipation#Definition / Scope\|operational criteria]] [[aga-2026-refractory-constipation]] |
+| Refractory constipation (RC) | Unsatisfactory despite an adequate trial of lifestyle, dietary, medical and/or (when indicated) biofeedback therapy | [[#Refractory Constipation (AGA 2026)]]; [[chronic-constipation#Definition / Scope\|operational criteria]] [[aga-2026-refractory-constipation]] |
 
 ### Classification / Typing
 
@@ -181,7 +181,7 @@ Abnormal ARM + BET → instrumented anorectal **[[biofeedback-therapy|biofeedbac
 
 All from [[aga-2026-refractory-constipation]] (ungraded BPA statements) unless marked.
 
-- **Definition (BPA 1):** infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, despite an **adequate trial** of lifestyle, dietary, medical and (when indicated) pelvic floor biofeedback therapy, in adults meeting criteria for CC or IBS-C.
+- **Definition (BPA 1):** infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, despite an **adequate trial** of lifestyle, dietary, medical and/or (when indicated) pelvic floor biofeedback therapy, in adults meeting criteria for CC or IBS-C.
 - **Before the label:** ARM + BET and a biofeedback course when indicated (BPA 2); exclude secondary causes — medications, disordered eating, neurologic disease (BPA 3); set realistic expectations (BPA 4).
 - **Confirm slow transit (BPA 5):** colonic transit testing **off treatment**, ideally also **on a maximal laxative regimen** to document refractoriness. Washout and repeat-testing rules: [[chronic-constipation#Test conditions that change the answer]].
   - Normal transit on laxatives → symptoms driven by other factors (DD, visceral hypersensitivity, laxative side effects).
