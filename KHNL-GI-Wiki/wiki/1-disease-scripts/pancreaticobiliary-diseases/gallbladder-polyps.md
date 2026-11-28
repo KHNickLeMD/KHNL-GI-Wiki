@@ -3,12 +3,13 @@ title: "Gallbladder Polyps"
 category: disease-script
 tags: [gallbladder-polyp, gallbladder-cancer, ultrasound, ceus, surveillance, cholecystectomy, sru, asge, psc]
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-28
+quality_reviewed: 2026-11-28
+verified: 2026-11-28
 sources: [sru-2022-gallbladder-polyps, asge-2013-biliary-neoplasia]
-verified: 2026-11-18
 ---
 
-Common incidental finding on ultrasound (US): ~3%–6% of the general population ([[sru-2022-gallbladder-polyps]]); ~4%–7% of healthy subjects ([[asge-2013-biliary-neoplasia]]). Most are benign cholesterol polyps (cholesterol pseudopolyps) or inflammatory polyps ([[sru-2022-gallbladder-polyps]]). Management of incidental polyps follows the Society of Radiologists in Ultrasound (SRU) 2022 consensus; the older American Society for Gastrointestinal Endoscopy (ASGE) 2013 thresholds are shown beside it.
+Common incidental finding on ultrasound (US): ~3%–6% of the general population ([[sru-2022-gallbladder-polyps]]); ~4%–7% of healthy subjects ([[asge-2013-biliary-neoplasia]]). Most are benign cholesterol polyps (cholesterol pseudopolyps) or inflammatory polyps ([[sru-2022-gallbladder-polyps]]). Management of incidental polyps follows the Society of Radiologists in Ultrasound (SRU) 2022 consensus; the older American Society for Gastrointestinal Endoscopy (ASGE) 2013 thresholds are shown beside it. SRU numbers none of its statements; the S1–S20 labels below refer to the statement table on [[sru-2022-gallbladder-polyps]].
 
 ## Contents
 - [[#Assessment]]
@@ -65,6 +66,8 @@ SRU definitions ([[sru-2022-gallbladder-polyps]], Definitions table):
 - **Do NOT change the category** ([[sru-2022-gallbladder-polyps]]):
   - Patient age (S5) · coexisting gallstones (S6) · smoking, diabetes mellitus, obesity, female sex (S7)
   - Polyp vascularity (S12) · echogenicity (S13) · number of polyps (S15)
+
+**Size** — ASGE 2013: polyp size is "an important predictor" of gallbladder carcinoma ([[asge-2013-biliary-neoplasia]]); SRU: size may be associated with neoplasia risk (S8) ([[sru-2022-gallbladder-polyps]]). Size bands → [[#Therapeutics]].
 
 **ASGE 2013 "other risk factors"** for gallbladder cancer in a polyp patient: **age ≥60 y, coexisting gallstones, sessile morphology** — with polyps ≥6 mm these patients *may* benefit from cholecystectomy, but ASGE calls the evidence insufficient to advocate it ([[asge-2013-biliary-neoplasia]]).
 - ⚠ Contradiction: SRU 2022 (newer) says age and gallstones should **not** influence risk stratification; sessile shape → low risk only ([[sru-2022-gallbladder-polyps]]).
@@ -140,7 +143,7 @@ flowchart TD
 
 ### SRU Management by Risk Category and Size
 
-SRU Figure 2 ([[sru-2022-gallbladder-polyps]]); size rounded to the nearest millimeter.
+SRU Figure 2 ([[sru-2022-gallbladder-polyps]]).
 
 | Risk category | ≤6 mm | 7–9 mm | 10–14 mm | ≥15 mm |
 |---|---|---|---|---|
@@ -163,7 +166,7 @@ On every follow-up cell of Figure 2 (footnote b; S9, S10) ([[sru-2022-gallbladde
 | Finding on follow-up US | Action |
 |---|---|
 | **Increase ≥4 mm within 12 months** (rapid growth) | Surgical consult |
-| Polyp **reaches the threshold size of its category** — **15 mm** extremely low/low risk; **7 mm** indeterminate risk | Surgical consult |
+| Polyp **reaches the threshold size of its category** — **15 mm** extremely low/low risk; **7 mm** indeterminate risk (Figures 3–7 captions) | Surgical consult |
 | **Decrease ≥4 mm** | Stop following |
 | Growth **up to 3 mm** | May be part of the natural history of nonmalignant polyps |
 | Surveillance length | **Maximum 3 years** — extended follow-up is not productive |
@@ -184,8 +187,10 @@ On every follow-up cell of Figure 2 (footnote b; S9, S10) ([[sru-2022-gallbladde
 |---|---|
 | Symptomatic gallbladder polyp | Recommend cholecystectomy (Moderate) |
 | Asymptomatic polyp **>10 mm** | Suggest cholecystectomy (Low) |
-| Asymptomatic polyp **6–10 mm, no other risk factors** for gallbladder cancer | Suggest surveillance — TUS every 12 months (Low) |
+| Asymptomatic polyp **6–10 mm, no other risk factors** for gallbladder cancer (see [[#Severity Assessment]]) | Suggest surveillance — TUS every 12 months (Low) |
 | Any polyp, **any size**, in PSC | Recommend cholecystectomy (Moderate) |
+
+- ASGE 2013 makes no recommendation for asymptomatic polyps <6 mm ([[asge-2013-biliary-neoplasia]]).
 
 - ⚠ **Contradiction for incidental, non-PSC polyps** — SRU 2022 is newer and leads this page:
   - Surgery: ASGE **>10 mm → cholecystectomy**; SRU **surgical consult at ≥15 mm** (extremely low/low risk), **10–14 mm → US surveillance** or consult, **≥7 mm** only for indeterminate risk ([[sru-2022-gallbladder-polyps]]).

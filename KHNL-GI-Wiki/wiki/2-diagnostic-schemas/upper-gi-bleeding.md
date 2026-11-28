@@ -3,7 +3,9 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-11-12
+updated: 2026-11-28
+quality_reviewed: 2026-11-28
+verified: 2026-11-28
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2020-nvugib-endoscopic-therapies]
 ---
 
@@ -11,9 +13,8 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-qual
 - [[#Definition / Scope]]
   - [[#UGIB vs. LGIB Distinction]]
 - [[#Differential Diagnosis]]
-  - [[#Most Common (Non-Variceal)]]
-  - [[#Variceal / Portal Hypertensive]]
-  - [[#Less Common]]
+  - [[#Non-Variceal]]
+  - [[#Variceal and Portal Hypertensive]]
 - [[#Diagnostic Algorithm]]
   - [[#Step 1: Initial Assessment and Resuscitation (Simultaneous)]]
   - [[#Step 2: Risk Stratification in the Emergency Department]]
@@ -28,9 +29,6 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-qual
   - [[#Glasgow-Blatchford Score]]
   - [[#Rockall Score]]
   - [[#AIMS65 Score]]
-  - [[#Machine-Learning Risk Models]]
-  - [[#CT Angiography]]
-  - [[#Ulcer Stigmata at Endoscopy]]
 - [[#Red Flags / Alarm Features]]
   - [[#Hemodynamic Instability (Requires Urgent Resuscitation Before Endoscopy)]]
   - [[#High-Risk Clinical Features (GBS ≥12)]]
@@ -44,61 +42,48 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-qual
 
 ## Definition / Scope
 
-**Upper gastrointestinal (GI) bleeding (UGIB)** = bleeding originating from a source in the **esophagus, stomach, or duodenum** (proximal to the ligament of Treitz).
-
-**Overt UGIB** presents as one or more of the following:
-
-- **Hematemesis**: vomiting of red blood or coffee-grounds material
-- **Melena**: black, tarry stools (requires colonic transit time; typically implies proximal source)
-- **Hematochezia**: red or maroon blood per rectum — can indicate UGIB when bleeding is brisk (rapid transit through colon)
-
-**Occult UGIB** ([[iron-deficiency-anemia|iron-deficiency anemia]], fecal occult blood) is a separate clinical scenario and is not covered in this schema, which focuses on overt UGIB requiring acute management.
+- **Upper gastrointestinal (GI) bleeding (UGIB)** = bleeding from the **esophagus, stomach, or duodenum** ([[acg-2021-ugib|American College of Gastroenterology (ACG) 2021]]).
+- **Overt UGIB** presents as:
+  - **Hematemesis** — vomiting of red blood or coffee-grounds material
+  - **Melena** — black, tarry stool
+  - **Hematochezia** — red or maroon material per rectum
+- Scope: overt UGIB up to and including endoscopy. ACG 2021 restricts its endoscopic and post-endoscopic recommendations to **ulcer bleeding** — the most common cause of UGIB and the one with the most randomized controlled trial (RCT) data.
+- Variceal bleeding → [[variceal-upper-gi-bleeding]]. Chronic blood loss → [[iron-deficiency-anemia|iron-deficiency anemia]].
 
 ### UGIB vs. LGIB Distinction
 
-Severe hematochezia with hemodynamic instability may reflect UGIB in approximately 15% of cases. Features favoring UGIB:
-
-- Hematemesis or coffee-ground emesis
-- Blood urea nitrogen (BUN):creatinine (Cr) ratio >30 (likelihood ratio [LR] 7.5 for UGIB); BUN >21 mg/dL alone has 93% specificity
-- History of [[peptic-ulcer-disease|peptic ulcer disease]], nonsteroidal anti-inflammatory drugs (NSAIDs)/anticoagulants, [[cirrhosis]], or known varices
-- Melena on rectal exam
-
-Features favoring [[acute-lower-gi-bleeding|lower GI bleeding (LGIB)]] (against UGIB):
-
-- Blood clots in stool (LR 0.05 for UGIB — clots argue for LGIB)
-
-**Test that does *not* discriminate:** nasogastric (NG) aspirate — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB. **Routine NG tube placement is NOT recommended.**
-
-If UGIB is clinically suspected in a patient presenting with apparent LGIB, perform **[[upper-endoscopy]] before [[colonoscopy]]**.
+- **Hematochezia with hemodynamic instability may come from an upper source** — 15% of 85 patients with hematochezia and high-risk features had a proximal source at esophagogastroduodenoscopy (EGD) done before [[colonoscopy]]. Suspicion high → [[upper-endoscopy]] first ([[acg-2023-lgib]], Key Concept 3).
+- Point toward an upper source: history of peptic ulcer disease or decompensated liver disease; blood urea nitrogen (BUN):creatinine ratio >30 (likelihood ratio [LR] 7.5). Clots in stool point away (LR 0.05).
+- Nasogastric (NG) aspirate: sensitivity only 28% → routine NG tube not recommended ([[acg-2023-lgib]]).
+- Full discriminator data: [[acute-lower-gi-bleeding|acute lower GI bleeding (LGIB)]].
 
 ---
 
 ## Differential Diagnosis
 
-### Most Common (Non-Variceal)
+### Non-Variceal
 
-| Etiology | Key Features |
-|---|---|
-| **[[peptic-ulcer-disease\|Peptic ulcer disease]]** (gastric or duodenal) | Most common cause; NSAID use, [[helicobacter-pylori-infection]], or idiopathic; hematemesis or melena; may present with syncope |
-| **Mallory-Weiss tear** | Longitudinal mucosal tear at gastroesophageal junction (GEJ); precipitated by forceful vomiting; typically self-limited |
-| **Dieulafoy lesion** | Aberrant large-caliber submucosal artery with pinpoint mucosal defect; massive bleeding; often proximal stomach; subtle endoscopic finding |
-| **[[gastric-adenocarcinoma\|Gastric]] / [[esophageal-cancer\|esophageal]] malignancy** | Weight loss, [[dysphagia]], early satiety; iron-deficiency anemia; mass on imaging |
-| **[[angioectasia\|Angiodysplasia / arteriovenous malformation (AVM)]]** | Older patients; anticoagulant use; often right-sided gastric or duodenal lesions; vascular ectasia on endoscopy |
-| **Aortoenteric fistula** | History of aortic graft surgery; sentinel bleed followed by massive exsanguination; computed tomography (CT) imaging urgently |
-| **Cameron lesions** | Erosions at the diaphragmatic hiatus in a [[hiatal-hernia\|hiatal hernia]]; chronic iron-deficiency more than overt bleeding |
-| **[[gastric-antral-vascular-ectasia\|GAVE (gastric antral vascular ectasia)]]** | Antral lesion; chronic occult blood loss more than overt bleeding; associated with cirrhosis, chronic kidney disease and systemic sclerosis |
+[[acg-2021-ugib|ACG 2021]] (Figure 2) sorts the endoscopic findings into two triage groups:
 
-### Variceal / Portal Hypertensive
+| Finding | Triage group after endoscopy | Notes |
+|---|---|---|
+| [[peptic-ulcer-disease\|Peptic ulcer]], clean base | Low risk | Peptic ulcer is the most common cause of UGIB; stigma-by-stigma management in [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]] |
+| Peptic ulcer with stigmata of hemorrhage | Non-low risk | — |
+| Mallory-Weiss tear, nonbleeding | Low risk | Look for tears on scope insertion — retching during the procedure can itself cause one ([[aga-2020-nvugib-endoscopic-therapies]]) |
+| Erosions | Low risk | — |
+| Dieulafoy lesion | Non-low risk | — |
+| Neoplasm ([[gastric-adenocarcinoma\|gastric]], [[esophageal-cancer\|esophageal]]) | Non-low risk | Diffuse tumor bleeding: hemostatic powder as a bridge to radiotherapy or surgery ([[aga-2020-nvugib-endoscopic-therapies]]) |
 
-- **Esophageal varices**: Most common variceal source; high-volume hematemesis; associated stigmata of cirrhosis
-- **Gastric varices**: Less common; may bleed more severely; see [[variceal-upper-gi-bleeding]] for detailed management
-- **[[portal-hypertensive-gastropathy|Portal hypertensive gastropathy (PHG)]]**: diffuse "snakeskin" mosaic mucosa; chronic blood loss far commoner than acute bleeding; treated by lowering [[portal-hypertension|portal pressure]], not endoscopically
+*Low risk = discharge if vital signs and hemoglobin are stable and there is no other reason for hospitalization; non-low risk = remains in hospital ([[acg-2021-ugib]] Figure 2).*
 
-### Less Common
+- Other upper sources with their own pages: [[angioectasia|angioectasias]], [[gastric-antral-vascular-ectasia|gastric antral vascular ectasia (GAVE)]].
+- Bleeding after endoscopic resection or sphincterotomy: [[endoscopic-hemostasis]].
 
-- Hemobilia (biliary source — trauma, instrumentation)
-- Hemosuccus pancreaticus (pancreatic pseudoaneurysm)
-- Esophagitis / [[gerd|erosive esophagitis]] (rarely massive)
+### Variceal and Portal Hypertensive
+
+- **Varices** — non-low-risk finding ([[acg-2021-ugib]] Figure 2); management on [[variceal-upper-gi-bleeding]].
+- Octreotide is not recommended for non-variceal UGIB (NVUGIB), but keep a low threshold to use it when [[portal-hypertension|portal hypertension]] is suspected ([[aga-2020-nvugib-endoscopic-therapies]]).
+- [[portal-hypertensive-gastropathy|Portal hypertensive gastropathy]] — see its page.
 
 ---
 
@@ -109,7 +94,7 @@ flowchart TD
     A(["Overt upper GI bleeding"]) --> R["Initial risk stratification<br/>and triage"]
     R -- "Very-low clinical risk:<br/>risk score indicates 0–1% false<br/>negatives for transfusion, hemostatic<br/>intervention, or death<br/>(Glasgow-Blatchford Score 0–1)" --> D(["Discharge from emergency<br/>department with outpatient<br/>management if no other<br/>reason for hospitalization"])
     R -- "Not very-low clinical risk:<br/>risk score indicates >1% false<br/>negatives for transfusion, hemostatic<br/>intervention, or death<br/>(Glasgow-Blatchford Score ≥2)" --> H(["Admit to hospital<br/>or observation unit"])
-    H --> P(["Pre-endoscopic management:<br/>resuscitation, attention to active comorbidities<br/>RBC transfusion if hemoglobin <7 g/dL<br/>suggest erythromycin 250 mg infusion<br/>30–90 minutes before upper endoscopy<br/>no recommendation for or against PPIs"])
+    H --> P(["Pre-endoscopic management:<br/>resuscitation, attention to active comorbidities<br/>red blood cell transfusion if hemoglobin <7 g/dL<br/>suggest erythromycin 250 mg infusion<br/>30–90 minutes before upper endoscopy<br/>no recommendation for or against<br/>proton pump inhibitors"])
     P --> E["Upper endoscopy within<br/>24 hours of presentation"]
     E -- "Low-risk findings, e.g. clean-based<br/>ulcer, nonbleeding Mallory-Weiss<br/>tear, erosions" --> X(["Discharge patient if stable<br/>vital signs and hemoglobin,<br/>and no other reason<br/>for hospitalization"])
     E -- "Non-low-risk findings, e.g. ulcer<br/>with stigmata of hemorrhage, varices,<br/>neoplasm, Dieulafoy lesion" --> Y(["Patient remains in hospital"])
@@ -118,29 +103,38 @@ flowchart TD
     class D,H,P,X,Y act
 ```
 *Initial management of overt upper GI bleeding*
-*Source: redrawn from the ACG 2021 upper GI and ulcer bleeding initial-management algorithm*
+*Source: redrawn from the ACG 2021 upper GI and ulcer bleeding initial-management algorithm (Figure 2)*
 *[[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
-*GI = gastrointestinal · RBC = red blood cell · PPI = proton pump inhibitor*
+*GI = gastrointestinal*
 
-- **Risk score:** future risk assessment tools may be used in place of the Glasgow-Blatchford Score if they discriminate risk of transfusion, hemostatic intervention, or death with 99–100% sensitivity (0–1% false negatives) [[acg-2021-ugib]].
+- Future risk tools may replace the Glasgow-Blatchford Score if they discriminate transfusion, hemostatic intervention, or death with 99–100% sensitivity (0–1% false negatives) ([[acg-2021-ugib]] Figure 2 footnote).
 
 ### Step 1: Initial Assessment and Resuscitation (Simultaneous)
 
-- Focused history: hematemesis vs. melena vs. hematochezia; prior GI bleeding; peptic ulcer history; NSAID/anticoagulant use; alcohol use; liver disease; prior aortic surgery
-- Medications: NSAIDs, aspirin, antiplatelets, anticoagulants
-- Physical exam: vital signs, volume status, stigmata of liver disease, abdominal tenderness, rectal exam (melena vs. blood vs. stool color)
-- Labs: complete blood count (CBC), basic metabolic panel (BMP) (BUN:Cr ratio), coagulation studies (international normalized ratio [INR], activated partial thromboplastin time [aPTT]), liver function tests, type and screen
-- Large-bore intravenous (IV) access (2 peripheral IVs); IV fluid resuscitation for hemodynamic instability
-- **Transfusion threshold: hemoglobin (Hgb) 7 g/dL** for hemodynamically stable patients
-  - **8 g/dL** for **pre-existing cardiovascular disease (CVD)**
-  - **>8 g/dL may be considered** in UGIB with **acute coronary syndrome (ACS)** — a higher threshold than the CVD rule ([[acg-2021-ugib]])
-  - Hypotensive patients may receive transfusion above 7 g/dL before hemoglobin equilibrates with resuscitation
-  - Do not transfuse to a target of 9 g/dL — restrictive strategy reduces further bleeding and mortality
-  - ⚠ **Contradiction with [[acute-lower-gi-bleeding]]:** [[acg-2023-lgib]] states 8 g/dL "can also be considered" in ACS + GI bleeding, i.e. it does **not** endorse a threshold above 8. [[acg-2021-ugib]] governs UGIB and explicitly separates ACS from pre-existing CVD; both guidelines call the ACS evidence extremely limited.
+From [[aga-2020-nvugib-endoscopic-therapies|American Gastroenterological Association (AGA) 2020 Clinical Practice Update (CPU)]] unless marked:
+
+- Assess hemodynamic status; resuscitate with intravenous (IV) fluids and blood products through large-bore catheters.
+- History that shapes the presentation: age, comorbid conditions, prior surgery, prior GI bleeding, medications (antihypertensives, antithrombotics, nonsteroidal anti-inflammatory drugs [NSAIDs]).
+- **Airway:** endotracheal intubation for suspected ongoing or massive bleeding, active hematemesis, or suspected retained gastric contents (aspiration risk).
+- **Antithrombotics:** reversal decided with intensivists, cardiology, neurology and hematology; when in doubt, err toward **not** reversing → [[anticoagulation-gi-bleeding]].
+
+**Red blood cell transfusion** ([[acg-2021-ugib]]):
+
+| Patient | Transfuse when hemoglobin falls below | Basis |
+|---|---|---|
+| UGIB (restrictive policy) | **7 g/dL** | Statement 2 — conditional, low-quality evidence |
+| Pre-existing cardiovascular disease | **8 g/dL** (reasonable) | Text; extrapolated from general transfusion guidelines |
+| Acute coronary syndrome (ACS) | **>8 g/dL** may be considered | Text; very limited evidence — ACS is kept separate from pre-existing cardiovascular disease |
+| Hypotensive patient | May transfuse above 7 g/dL | Text; hemoglobin falls further as fluid resuscitation equilibrates |
+
+- Basis: RCT of 899 patients — threshold 7 vs 9 g/dL: lower mortality (5% vs 9%) and less further bleeding (10% vs 16%) with 7 g/dL. Patients with massive exsanguinating bleeding were excluded ([[acg-2021-ugib]]).
+- ⚠ **Other guidelines differ; ACG 2021 governs UGIB:**
+  - [[acg-2023-lgib]] — 8 g/dL "can also be considered" in ACS + GI bleeding; data on restrictive vs liberal thresholds there are extremely limited.
+  - [[aga-2020-nvugib-endoscopic-therapies]] (older) — target "generally 9 g/dL" in significant cardiovascular disease, 7 g/dL for others.
 
 ### Step 2: Risk Stratification in the Emergency Department
 
-**GBS** — use to identify very-low-risk patients safe for outpatient management:
+**Glasgow-Blatchford Score (GBS)** — identifies very-low-risk patients safe for outpatient care ([[acg-2021-ugib]] Table 2):
 
 | Variable | Points |
 |---|---|
@@ -157,69 +151,75 @@ flowchart TD
 | 100–109 | 1 |
 | 90–99 | 2 |
 | <90 | 3 |
-| **Heart rate ≥100 bpm** | 1 |
+| **Heart rate ≥100 beats/min** | 1 |
 | **Melena** | 1 |
 | **Syncope** | 2 |
 | **Hepatic disease** ᵃ | 2 |
 | **Cardiac failure** ᵃ | 2 |
 
-ᵃ **Definitional caveat you must know before scoring:** hepatic disease and cardiac failure were **not defined in the original GBS report**. [[acg-2021-ugib|American College of Gastroenterology (ACG) 2021]] cites a later study defining **hepatic disease** as *known history, or clinical and laboratory evidence, of chronic or acute liver disease*, and **cardiac failure** as *known history, or clinical and echocardiographic evidence, of cardiac failure*. All other variables are objective — these two are where scoring drifts between raters.
+ᵃ Not defined in the original GBS report. A later study cited by ACG 2021 defines **hepatic disease** as known history, or clinical and laboratory evidence, of chronic or acute liver disease, and **cardiac failure** as known history, or clinical and echocardiographic evidence, of cardiac failure.
 
-**GBS 0–1**: Very low risk — 99% sensitivity (95% confidence interval [CI] lower bound 97–98%) for hospital-based intervention or death. Safe for discharge with outpatient follow-up. Represents 19–24% of UGIB emergency department (ED) presentations. [[acg-2021-ugib]]
-
-**GBS ≥2**: Hospitalize for further management. Risk increases progressively with score.
-
-**GBS ≥12**: High-risk threshold used in Lau et al. randomized controlled trial (RCT) — large-volume hematemesis, hemodynamic instability likely; urgent endoscopic evaluation within 24 hours.
+- Score range 0–23, calculated on admission ([[aga-2020-nvugib-endoscopic-therapies]] Table 1).
+- **GBS 0–1 → discharge with outpatient follow-up** (Statement 1 — conditional, very-low-quality evidence): sensitivity 99% (95% confidence interval [CI] lower bound 97–98%) for hospital-based intervention or death; 19–24% of UGIB patients qualify. The benchmark is the ≤1% false-negative rate, not GBS itself ([[acg-2021-ugib]]).
+- **GBS ≥2 → admit** to hospital or observation unit.
+- **GBS ≥12** = the high-risk group of the urgent-endoscopy RCT → [[#Step 4: Timing of Endoscopy]].
+- ACG 2021 raised the discharge cutoff from GBS 0 (2012 guideline) to **0–1**.
 
 ### Step 3: Pre-Endoscopic Management
 
-- **Erythromycin 250 mg IV** infused over **5–30 min (most often 20–30 min)**, with endoscopy **20–90 min later** ([[acg-2021-ugib]] — 250 mg because that or a similar dose was used in the RCTs)
-  - Reduces need for repeat endoscopy (odds ratio [OR] 0.51) and hospital length of stay (mean –1.75 days)
-  - Does not improve further bleeding or mortality
-  - Benefit was **not restricted to any subgroup** in the RCT enrollment criteria — so it is not reserved for suspected large clot burden
-  - Caution: QT prolongation, related to infusion rate and dose; torsade is very rare and reported with **repeated and/or higher** doses. Trials variably excluded baseline QT prolongation, cardiac disease, electrolyte abnormalities, hepatic dysfunction, concurrent antiarrhythmics, and QT-prolonging CYP3A4 substrates
-- **Metoclopramide is NOT a substitute** — evidence is scant (older abstracts only) and does **not** support its use ([[acg-2021-ugib]])
-- **Pre-endoscopic [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]**: No recommendation for or against (ACG 2021)
-  - May modestly reduce high-risk stigmata at index endoscopy and need for endoscopic therapy
-  - No demonstrated benefit for further bleeding or mortality in properly designed RCTs
-  - Reasonable to administer if endoscopy will be substantially delayed or unavailable
+- **Erythromycin** — suggested before endoscopy (Statement 3 — conditional, very-low-quality evidence) ([[acg-2021-ugib]]):
+  - **250 mg IV**, infused over 5–30 min (most often 20–30 min), endoscopy 20–90 min later in the RCTs; Figure 2 prints 30–90 min.
+  - Fewer repeat endoscopies (odds ratio [OR] 0.51) and shorter stay (mean −1.75 days); no shown benefit on further bleeding or mortality.
+  - RCT enrollment did not suggest benefit limited to any subgroup.
+  - QT prolongation, related to infusion rate and dose; torsade de pointes very rare, reported with repeated and/or higher doses. Some trials excluded baseline QT prolongation, cardiac disease, electrolyte abnormalities, hepatic dysfunction, antiarrhythmics, and QT-prolonging CYP3A4 substrates.
+- **Metoclopramide** — evidence scant (older abstracts only); does not support its use ([[acg-2021-ugib]]).
+- **Pre-endoscopic [[proton-pump-inhibitors|proton pump inhibitor (PPI)]]** — no recommendation for or against (Statement 4, ungraded) ([[acg-2021-ugib]]):
+  - No benefit on further bleeding or mortality in the RCT data; may modestly reduce the need for endoscopic therapy (relative risk [RR] 0.73).
+  - Patients who will not have endoscopy, or whose endoscopy will be delayed: PPI might be given (very indirect evidence).
+- **NG tube** — controversial, does not change outcomes. Continuous copious bright red return suggests emergent endoscopy; a negative lavage should not delay endoscopy ([[aga-2020-nvugib-endoscopic-therapies]]).
+- **Prophylactic antibiotics** — not indicated in NVUGIB ([[aga-2020-nvugib-endoscopic-therapies]]).
+- ⚠ **[[aga-2020-nvugib-endoscopic-therapies|AGA 2020]] differs (older; ACG 2021 governs):** IV PPI to all patients with suspected NVUGIB; erythromycin **or** metoclopramide (data favor erythromycin).
 
 ### Step 4: Timing of Endoscopy
 
-**Endoscopy within 24 hours of presentation** for all hospitalized UGIB patients (conditional recommendation). [[acg-2021-ugib]]
+- **Admitted or observed patients → endoscopy within 24 hours of presentation** (Statement 5 — conditional, very-low-quality evidence) ([[acg-2021-ugib]]).
+  - Measured from **presentation, not admission** — admission delays vary between institutions.
+  - Observational data: shorter stay with endoscopy within 1 day; lower surgery or mortality in some studies.
+- **Earlier is not better, even at GBS ≥12:** RCT of 516 patients — endoscopy <6 h vs 6–24 h after GI consultation (actual means 10 vs 25 h from presentation): further bleeding 10.9% vs 7.8%, mortality 8.9% vs 6.6% (no reduction) ([[acg-2021-ugib]]).
+- **Hemodynamically unstable:** Danish cohort — lowest in-hospital mortality with endoscopy 6–24 h after admission; very early endoscopy may harm if resuscitation and comorbidities are not addressed first ([[acg-2021-ugib]]).
+- **Exception — hypotensive shock that does not stabilize after initial resuscitation** (~5% of high-risk patients, excluded from the RCT): urgent endoscopy or interventional radiology, on anecdotal experience ([[acg-2021-ugib]]).
+- ACG 2021 **dropped** the 2012 suggestion that endoscopy within 12 h "may be considered" for high-risk clinical features.
+- ⚠ **[[aga-2020-nvugib-endoscopic-therapies|AGA 2020]] differs (older; ACG 2021 governs):** emergent endoscopy within 12 h for persistent hemodynamic compromise after resuscitation or moderate- to large-volume hematemesis; stable patients with melena only and no ongoing hematemesis can wait until the next morning.
+- Timing quality indicator: [[upper-endoscopy#Timing for UGIB]].
 
-- Time is measured from presentation, not hospital admission (accounts for institutional variation in admission processing time)
-- Observational data support reduced length of stay and possible mortality/surgery benefit with endoscopy within 1 day
-- **Very early endoscopy (<6–12 hours) does NOT improve outcomes** even in high-risk patients (GBS ≥12):
-  - Lau et al. NEJM 2020 RCT (N=516): urgent (mean 10h from presentation) vs. control (mean 25h) — no difference in further bleeding (10.9% vs. 7.8%) or mortality (8.9% vs. 6.6%)
-  - Danish observational cohort: possible harm with very early endoscopy in hemodynamically unstable patients (best outcomes with endoscopy 6–24 hours after admission)
-- **Resuscitation must precede endoscopy** in hemodynamically unstable patients — endoscopy before adequate resuscitation carries risk
-- Exception: patients with hypotensive shock not responding to initial resuscitation require urgent endoscopic or interventional radiology intervention (expert opinion)
+> [!pitfall] Resuscitate before you scope
+> Very early endoscopy did not help even the highest-risk patients, and a cohort suggests harm in unstable patients scoped before resuscitation. Resuscitate first; only refractory shock goes straight to endoscopy or interventional radiology ([[acg-2021-ugib]]).
 
 ### Step 5: Endoscopic Evaluation — Ulcer Stigmata
 
-[[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/American Society for Gastrointestinal Endoscopy (ASGE) 2025]]** (discussion of quality indicator [QI] 13), which states that ulcers seen at [[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] should be classified by Forrest class in the procedure documentation because the class dictates the need for endoscopic therapy and the post-intervention PPI dose. The indicator itself measures documentation of **at least 1 stigma** (active bleeding, nonbleeding visible vessel, adherent clot, flat spot, or clean base): grade 1A, performance target >98%.
+- [[acg-2021-ugib|ACG 2021]] describes stigmata in words and does not use Forrest labels. Forrest classes and post-hemostasis rebleeding rates come from [[acg-2025-egd-quality|American College of Gastroenterology/American Society for Gastrointestinal Endoscopy (ACG/ASGE) 2025]].
+- Classify every ulcer by Forrest class in the report — the class sets the need for endoscopic therapy and the post-intervention PPI dose. Quality indicator (QI) 13: ≥1 stigma documented, grade 1A, target >98%.
 
-| Forrest class | Stigma (as defined by [[acg-2025-egd-quality]]) | Rebleeding **after** successful endoscopic hemostasis ᵃ | Endoscopic therapy | Supporting ACG 2021 data |
-|---|---|---|---|---|
-| **FIa** | Spurting hemorrhage | **22.5%** | **Recommended** — Statement 6 (strong, moderate) | Spurting is much less common than oozing — 68/397 (17%) of actively bleeding ulcers in a large prospective trial; further bleeding appears **more frequent with spurting than oozing** |
-| **FIb** | Oozing hemorrhage | **4.9%** | **Recommended** — Statement 6 (strong, moderate) | Pooled further bleeding **39% (range 10–100%)** across 8 prospective trials of oozing managed *without* endoscopic therapy |
-| *Combined FIa + FIb (active bleeding)* | — | — | — | Endoscopic vs no endoscopic therapy: further bleeding **relative risk (RR) 0.29 (0.20–0.43), number needed to treat (NNT) 2** |
-| **FIIa** | Nonbleeding visible vessel (pigmented protuberance) | **11.3%** | **Recommended** — Statement 6 (strong, moderate) | Further bleeding **RR 0.49 (0.40–0.59), NNT 5** |
-| **FIIb** | Adherent clot (resistant to vigorous irrigation) | **17.7%** | **No recommendation for or against** — Statement 7 | Meta-analysis showed no benefit of endoscopic therapy: further bleeding **RR 0.31 (0.06–1.77)**, mortality **RR 0.90 (0.23–3.58)**. PPI alone may suffice — recurrent bleeding **0/64 on PPI vs 13/61 (21%) on placebo** without endoscopic therapy in either arm |
-| **FIIc** | Flat pigmented spot | *(low risk — not quantified)* | **Not indicated** — low risk of recurrent bleeding | Mortality benefit of endoscopic therapy was **not** documented for any stigma |
-| **FIII** | Clean based | *(low risk — not quantified)* | **Not indicated** — low risk of recurrent bleeding | — |
+| Forrest class | Stigma | Rebleeding **after** successful endoscopic hemostasis ᵃ | Further bleeding without endoscopic therapy (ACG 2021) |
+|---|---|---|---|
+| **Ia** | Spurting hemorrhage | **22.5%** | Spurting is less common than oozing (17% of actively bleeding ulcers in a large trial) and seems to rebleed more often |
+| **Ib** | Oozing hemorrhage | **4.9%** | Pooled **39% (range 10–100%)** across 8 prospective trials |
+| *Ia + Ib (active bleeding)* | — | — | Endoscopic therapy vs none: **RR 0.29 (0.20–0.43), number needed to treat (NNT) 2** |
+| **IIa** | Nonbleeding visible vessel (pigmented protuberance) | **11.3%** | Endoscopic therapy vs none: **RR 0.49 (0.40–0.59), NNT 5** |
+| **IIb** | Adherent clot (resistant to vigorous irrigation) | **17.7%** | Meta-analysis: no benefit of endoscopic therapy — further bleeding RR 0.31 (0.06–1.77), mortality RR 0.90 (0.23–3.58). Without endoscopic therapy, recurrent bleeding **0/64 on PPI vs 13/61 (21%) on placebo** |
+| **IIc** | Flat pigmented spot | Low risk — no endoscopic therapy needed | — |
+| **III** | Clean based | Low risk — no endoscopic therapy needed | — |
 
-ᵃ Post-hoc analysis of an RCT of IV esomeprazole vs placebo in ulcer bleeding, reporting recurrent bleeding **after successful endoscopic hemostasis** — not the natural history of untreated stigmata. Read alongside the ACG 2021 column, which reports further bleeding *without* therapy ([[acg-2025-egd-quality]]).
+ᵃ [[acg-2025-egd-quality]]: post-hoc analysis of an RCT of IV esomeprazole vs placebo — recurrent bleeding after successful hemostasis, not the untreated natural history.
 
-- **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
-- **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, grade 1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
-- **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
-*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 High-Quality Upper Endoscopy]] for example images: endoscopic appearance of each Forrest class, Ia spurting bleed to III clean-based ulcer.*
+- No mortality benefit of endoscopic therapy was documented in the active-bleeding / visible-vessel meta-analysis ([[acg-2021-ugib]]).
+- "Oozing" is defined variably; some trials require continuous bleeding over 5 minutes of observation ([[acg-2021-ugib]]).
+- **Adherent clot:** remove it endoscopically to look for a high-risk stigma underneath ([[aga-2020-nvugib-endoscopic-therapies]]). If it resists vigorous irrigation, ACG 2021 reaches no recommendation (Statement 7) — either course is acceptable; local expertise and patient factors decide.
 
-- **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
+*See Figure 2 in [[aga-2024-upper-endoscopy-quality|AGA 2024 High-Quality Upper Endoscopy]] for example images of each Forrest class (Ia spurting to III clean-based ulcer).*
 
-### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
+> [!pearl] Oozing rebleeds less than a visible vessel
+> After hemostasis, Ib (4.9%) rebleeds less than IIa (11.3%), while Ia spurting is highest (22.5%). Older trials lumped spurting and oozing together as "active bleeding," which hides this ([[acg-2025-egd-quality]]).
 
 | Endoscopic features | Endoscopic therapy | Medical therapy |
 |---|---|---|
@@ -229,88 +229,115 @@ flowchart TD
 | Clean base | No endoscopic therapy | Standard PPI therapy ᵇ |
 
 *Endoscopic and medical therapy for ulcer bleeding by endoscopic features of the ulcer*
-*Source: table from the ACG 2021 upper GI and ulcer bleeding endoscopic and medical therapy figure*
+*Source: redrawn from Figure 3 of ACG 2021*
 *[[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
 *PPI = proton pump inhibitor*
 
-ᵃ High-dose regimens (continuous or intermittent, 3 days): see [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]. ᵇ Standard PPI therapy (e.g. oral PPI once daily) was recommended by previous guidelines but is not assessed in [[acg-2021-ugib|ACG 2021]].
+ᵃ Regimens in [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]. ᵇ Standard PPI therapy (e.g. oral PPI once daily) was recommended by earlier guidelines but is not assessed in ACG 2021.
 
-*This section is the **ulcer-specific choice** of modality. Device mechanism, full settings, technique, and failure modes for every hemostatic tool live on [[endoscopic-hemostasis]].*
+- Active spurting, active oozing, nonbleeding visible vessel → **endoscopic therapy recommended** (Statement 6 — strong, moderate-quality evidence). QI 14: treated, grade 1A, target >90% ([[acg-2025-egd-quality]]).
 
-**Strongly recommended (Strong recommendation, moderate-quality evidence):**
+### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
 
-- [[electrosurgery|Bipolar electrocoagulation]]
-- Heater probe
-- Absolute ethanol injection
-- Epinephrine injection: **NEVER as monotherapy** — must be combined with a second hemostatic modality
+Modality choice for ulcers ([[acg-2021-ugib]]). Device settings, technique and failure modes: [[endoscopic-hemostasis]]; argon settings for ulcers: [[argon-plasma-coagulation#Settings by Site]].
 
-*Technique settings cited in the ACG 2021 text from previous recommendations (not part of the graded statements): bipolar ~15 W, 8–10 second applications, 3.2-mm probe with firm pressure; heater probe 30 J applications, 3.2-mm probe with firm pressure; ethanol 0.1–0.2 mL aliquots, maximum 1–2 mL total.*
+| Modality | ACG 2021 statement | Strength, evidence | Key data |
+|---|---|---|---|
+| [[electrosurgery\|Bipolar electrocoagulation]] or heater probe | 8 | Strong, moderate | vs no therapy: further bleeding RR 0.44, mortality RR 0.58 |
+| Absolute ethanol injection | 8 | Strong, moderate | vs no therapy: further bleeding RR 0.56 |
+| Through-the-scope clips | 9 | Conditional, very low to low | vs epinephrine alone: RR 0.20 (no direct trial vs no therapy) |
+| [[argon-plasma-coagulation\|Argon plasma coagulation (APC)]] | 9 | Conditional, very low to low | vs water injection: 6.9% vs 20.7% further bleeding (1 RCT) |
+| Soft monopolar electrocoagulation | 9 | Conditional, very low to low | vs clips: 5.4% vs 33.9% (1 RCT) |
+| [[epinephrine\|Epinephrine]] injection | 10 | Strong, very low to moderate | **Never alone** — always with a second modality |
+| Hemostatic powder TC-325 | 11 | Conditional, very low | **Actively bleeding ulcers only**; noninferior to standard therapy in 1 RCT (ulcers 12.3% vs 15.4%) |
+| Over-the-scope clips | 12 | Conditional, low | **Recurrent** bleeding after successful hemostasis → [[#Step 8: Recurrent Bleeding]] |
 
-**Conditionally recommended (clips, APC and soft monopolar: Statement 9, very-low- to low-quality evidence; TC-325: very-low-quality; over-the-scope clips: low-quality):**
+*Endoscopic hemostatic modalities for bleeding ulcers*
+*Source: built from ACG 2021 Statements 8–12 and their summaries of evidence*
+*[[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
+*APC = argon plasma coagulation · RCT = randomized controlled trial · TC-325 = hemostatic powder product name*
 
-- Through-the-scope clips (placement over and on both sides of bleeding site)
-- [[argon-plasma-coagulation|Argon plasma coagulation]] (APC): 1–2 L/min gas flow, 40–70 W power, probe 2–10 mm from mucosa
-- Soft monopolar electrocoagulation (soft coagulation mode, 50–80 W, 1–2 second applications)
-- Hemostatic powder spray TC-325: for actively bleeding ulcers only (does not adhere to nonbleeding lesions); delivery catheter tip 1–2 cm from bleeding site, 1–2 second bursts; high cost limits use as first-line in U.S. (~$2,500 list price)
-- Over-the-scope clips: reserved for **recurrent ulcer bleeding** after previous successful endoscopic hemostasis; superior to standard therapy in this setting (further bleeding 15.2% vs. 57.6%)
-
-**Dual therapy:** [[epinephrine]] must be paired with a second modality, but the ACG panel did not find the evidence sufficient to suggest that thermal contact devices should always be preceded by epinephrine injection.
+- Thermal contact vs ethanol: no significant difference — neither preferred.
+- Epinephrine before thermal contact therapy: evidence not enough to say thermal devices should always be preceded by epinephrine.
+- **TC-325:** adheres only to actively bleeding lesions. In the US (list price $2,500, November 2020) it should not be the first modality when others can be readily applied ([[acg-2021-ugib]]).
+  - ⚠ [[aga-2020-nvugib-endoscopic-therapies|AGA 2020]] (older) — powder preferably as **rescue**, not primary hemostasis, except malignant bleeding or massive bleeding where thermal therapy or clips cannot be applied (Best Practice Advice 7). Powder stays <24 h, so not as monotherapy for ulcers with high-risk stigmata.
 
 ### Step 7: Post-Endoscopic Management (Ulcer Bleeding)
 
-**Antisecretory therapy after successful endoscopic hemostasis:**
+**High-dose PPI for 3 days after successful endoscopic hemostasis** (Statement 13 — strong, moderate- to high-quality evidence) ([[acg-2021-ugib]]):
 
-*Phase 1 — Inpatient (3 days):*
+- High dose = **≥80 mg daily for ≥3 days**, continuous or intermittent.
+- Continuous: **80 mg IV bolus, then 8 mg/h infusion**.
+- Intermittent: **40 mg 2–4 times daily**, oral or IV; an initial 80 mg bolus may be appropriate. Oral is fine if awake, alert, and without nausea, vomiting or dysphagia.
+- vs placebo/no treatment: further bleeding RR 0.43, mortality RR 0.41, surgery RR 0.42. Continuous and intermittent regimens performed alike.
+- QI 26: given, grade 1A, target >95% ([[acg-2025-egd-quality]]).
 
-- **High-dose PPI for 72 hours**: Strong recommendation (moderate- to high-quality evidence)
-  - Reduces further bleeding (RR 0.43), mortality (RR 0.41), surgery (RR 0.42) vs. placebo
-  - Continuous IV: **80 mg bolus followed by 8 mg/hr infusion for 72 hours**
-  - Intermittent (equivalent efficacy): **40 mg 2–4 times daily** (oral or IV); initial 80 mg bolus may be appropriate; oral administration acceptable if patient awake/alert without nausea, vomiting, or dysphagia
+**High-risk patients → twice-daily oral PPI until 2 weeks after the index endoscopy** (Statement 14 — conditional, low-quality evidence) ([[acg-2021-ugib]]):
 
-*Phase 2 — High-risk outpatient continuation (days 4–14):*
+- "High risk" is not defined in the statement. The single supporting RCT enrolled **Rockall score ≥6** ulcers (active bleeding, nonbleeding visible vessel, or adherent clot) treated endoscopically, after 3 days of bolus + continuous-infusion PPI.
+- Esomeprazole 40 mg twice daily vs once daily for 11 days: further bleeding at 28 days **10.8% vs 28.7%**.
+- After 2 weeks the trial gave 2 more weeks of esomeprazole 40 mg once daily. Whether longer courses add benefit is unknown.
 
-- **Twice-daily oral PPI through day 14 after index endoscopy** for high-risk patients (Rockall score ≥6): Conditional recommendation (low-quality evidence)
-  - Based on 1 RCT (esomeprazole 40 mg twice daily [BID] vs. once daily [QD]): further bleeding 10.8% vs. 28.7% at 28 days
-  - After day 14, transition to once-daily standard PPI
+**Helicobacter pylori:**
 
-**H. pylori testing and treatment:**
+- ACG 2021 does not address it. Peptic ulcer disease (active or prior) is a test-and-treat indication ([[acg-2024-hp-treatment]] Table 4) → test every patient with ulcer bleeding for [[helicobacter-pylori-infection]]; treat a positive non-serological test absent contraindications. QI 27: testing plan documented in peptic ulcer disease, grade 2C, target >95% ([[acg-2025-egd-quality]]).
+- Regimens and test of cure: [[helicobacter-pylori-infection]].
 
-- **Not addressed by [[acg-2021-ugib|ACG 2021]]** — the UGIB guideline neither tests nor treats *H. pylori* anywhere in its recommendations. The obligation comes from the eradication guideline instead: **active or prior peptic ulcer disease is a [[test-and-treat|test-and-treat]] indication** ([[acg-2024-hp-treatment]], Table 4), and persistent untreated infection leaves the patient at risk of the sequelae of infection including peptic ulcer. So test every patient with [[peptic-ulcer-disease|peptic ulcer]] bleeding for [[helicobacter-pylori-infection]] and treat if positive
-  - Treatment is offered on a **positive non-serological test** (active infection), absent contraindications ([[acg-2024-hp-treatment]]). Regimens, resistance-driven choice, and test-of-cure live on [[helicobacter-pylori-infection]]
+**Gastric ulcer:** biopsy at the index EGD or plan a follow-up EGD to exclude malignancy (QI 17, grade 2C, target >80%). A bleeding ulcer or one with high-risk stigmata can be biopsied at a later endoscopy ([[acg-2025-egd-quality]]).
+
+**Not routine:** second-look endoscopy ([[aga-2020-nvugib-endoscopic-therapies]]); prophylactic transcatheter arterial embolization (TAE) after successful endoscopic therapy — not recommended on an RCT of 241 patients ([[acg-2021-ugib]]; AGA 2020 Best Practice Advice 10).
 
 ### Step 8: Recurrent Bleeding
 
-- **Repeat endoscopy and endoscopic retreatment**: preferred initial strategy for recurrent bleeding after initial hemostasis
-  - ~75% success rate in preventing further bleeding with repeat endoscopic therapy
-  - Fewer complications than surgery (14.6% vs. 36.4%)
-  - If prior thermal contact therapy was used, consider alternative modality on repeat endoscopy (consecutive thermal therapy may increase perforation risk; uncontrolled, very-low-quality evidence)
-  - Consider over-the-scope clips for recurrent bleeding after initial hemostasis
+**Repeat endoscopy and endoscopic therapy, rather than surgery or TAE** (Statement 15 — conditional; low-quality evidence vs surgery, very-low vs TAE) ([[acg-2021-ugib]]):
 
-- **Failure of repeat endoscopy** → **Transcatheter arterial embolization (TAE)** preferred over surgery
-  - TAE: major complications less common (OR 0.45), shorter hospital stay (median 8 vs. 16 days), no mortality difference; but higher rate of further bleeding (OR 2.44) vs. surgery
-  - Surgery remains an option, especially with ongoing massive hemorrhage or if TAE is not available/fails
-  - Choice individualized based on comorbidities, hemodynamic status, institutional expertise
+- RCT vs surgery: repeat endoscopy prevented further bleeding in ~3/4; complications 14.6% vs 36.4%; further bleeding higher with endoscopy (22.9% vs 6.8%); mortality not significantly different.
+- Thermal contact used the first time → consider another modality (perforations with consecutive heater-probe sessions; very-low-quality evidence).
+- **Over-the-scope clips** (Statement 12): further bleeding 15.2% vs 57.6% with standard therapy in recurrent ulcer bleeding.
+- Failure of repeat endoscopic hemostasis was associated with **hypotension at rebleeding** and **ulcer size >2 cm** — occasional patients may go to TAE or surgery instead.
+
+**Failed endoscopic therapy → TAE** (Statement 16 — conditional, very-low-quality evidence) ([[acg-2021-ugib]]):
+
+- TAE vs surgery: fewer major complications (OR 0.45), more further bleeding (OR 2.44), no mortality difference; shorter stay (median 8 vs 16 days, cohort study).
+- TAE or surgery is individualized — comorbidities, current medical status, local interventional-radiology and surgical expertise, and whether the patient weighs further bleeding or complications and hospital stay more.
+- [[aga-2020-nvugib-endoscopic-therapies|AGA 2020]] (Best Practice Advice 9): weigh cause (peptic ulcer, unknown source, post-surgical), patient factors (hemodynamic instability, coagulopathy, multi-organ failure, surgical history), rebleeding risk and adverse events; decide case by case.
 
 ---
 
 ## Key Tests
 
+| Score | When it can be calculated | What it predicts | Guideline use |
+|---|---|---|---|
+| Glasgow-Blatchford | On admission, before endoscopy (0–23) | Combined end point of intervention and death; may lead to overadmission | Only score named in an ACG 2021 recommendation (Statement 1: 0–1 → outpatient) |
+| Rockall | Needs endoscopy for the full score | Further bleeding and death in hospitalized patients | Not endorsed by ACG 2021; ≥6 = entry criterion of the Statement 14 RCT |
+| AIMS65 | Before endoscopy; easy | Inpatient mortality; less sensitive than Glasgow-Blatchford and Rockall | Not mentioned in ACG 2021 |
+
+*UGIB risk scores compared*
+*Source: built from AGA 2020 Table 1 and ACG 2021 Statements 1 and 14*
+*[[aga-2020-nvugib-endoscopic-therapies|AGA 2020 Endoscopic Therapies for NVUGIB]] · [[acg-2021-ugib|ACG 2021 Upper GI and Ulcer Bleeding Guideline]]*
+*UGIB = upper gastrointestinal bleeding · RCT = randomized controlled trial · NVUGIB = non-variceal upper gastrointestinal bleeding*
+
+- AGA 2020 Table 1 note: *"These risk assessment scores cannot precisely identify individual high-risk patients who will die from gastrointestinal bleeding if they do not receive an intervention, but may have a clinical role in identifying patients who are at very low risk for mortality and may be amenable to outpatient medical care/endoscopy."*
+
 ### Endoscopy
 
-- Diagnostic and therapeutic gold standard for UGIB
-- Identifies source in >90% of cases when performed within 24 hours
-- Allows Forrest classification and application of hemostatic therapy
-- **Timing**: within 24 hours of presentation for all hospitalized patients; resuscitation first
+Purpose: find the source, assess rebleeding risk, and treat high-risk lesions ([[aga-2020-nvugib-endoscopic-therapies]]). Timing → [[#Step 4: Timing of Endoscopy]]; stigmata → [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]].
+
+- Examine the esophagus carefully on insertion for varices and Mallory-Weiss tears.
+- Large clot in the stomach: don't spend time clearing it unless no source is found distally. Ways to see the fundus: reposition the patient (reverse Trendelenburg, supine/right lateral), prokinetics, large-channel or "clot-busting" scopes, retrieval nets.
+- No source and retained clot → repeat after gastric emptying; timing by stability and degree of bleeding.
+- Therapeutic scopes (larger channel, 10F accessories, better suction) may be preferred in severe bleeding; a duodenoscope may be needed for the posterior bulb and second duodenum.
 
 ### Glasgow-Blatchford Score
 
-- Full component/point table, the GBS 0–1 discharge threshold, and the hepatic-disease / cardiac-failure definitional caveat are in *Diagnostic Algorithm → [[#Step 2: Risk Stratification in the Emergency Department]]* — not repeated here.
-- All GBS variables are available **before** endoscopy; it is an ED triage tool, not a post-endoscopic one.
+- Components, points and the hepatic-disease / cardiac-failure definitions: [[#Step 2: Risk Stratification in the Emergency Department]].
+- Machine learning: the Shung model matches GBS 0–1 at 99% sensitivity (lower CI bound 97–98%) with higher specificity, but ACG 2021 names only GBS — the model had been evaluated in 1 setting ([[acg-2021-ugib]]).
+- Specificity at GBS 0–1 is poor (27–40%) — most patients who will not need intervention are still admitted ([[acg-2021-ugib]]).
 
 ### Rockall Score
 
-- **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]].** It appears exactly once in that guideline, as the **enrollment criterion (Rockall ≥6)** of the single RCT supporting extended twice-daily PPI (Statement 14) — so "high risk" for the day-4–14 PPI decision operationally means *met that trial's entry criterion*.
-- **Components and available point values** ([[aga-2020-nvugib-endoscopic-therapies]], Table 1):
+- **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]]** — appears only as the **Rockall ≥6** entry criterion of the extended twice-daily PPI RCT ([[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]).
+- Components and available points ([[aga-2020-nvugib-endoscopic-therapies]] Table 1):
 
 | Component | Points available |
 |---|---|
@@ -320,42 +347,33 @@ flowchart TD
 | Endoscopic diagnosis | 0, 2 |
 | Stigmata of recent hemorrhage and/or presence of blood on endoscopy | 0, 2 |
 
-- **Requires endoscopic evaluation to determine the full score** — it is *not* a pre-endoscopic triage tool, unlike GBS and AIMS65. Predicts risk of additional bleeding and death in hospitalized patients.
-- ⚠ **Not scoreable from the component list alone.** The guidelines give the components and the point values *available* for each, but **not the cutpoints that assign a given age, blood pressure, or comorbidity to a specific point value** — use the original Rockall scoring table at the bedside.
+- Neither guideline prints the cutpoints that assign a given age, shock state or comorbidity to a point value, so the full score cannot be computed from this table.
 
 ### AIMS65 Score
 
-- **Not mentioned anywhere in [[acg-2021-ugib|ACG 2021]]** — no components, no threshold, no endorsement there. (It is referenced comparatively in [[acg-2023-lgib|ACG 2023 LGIB]], where the ABC score is reported as superior to AIMS65 and GBS.)
-- Components, thresholds, and mortality bands are printed in [[aga-2020-nvugib-endoscopic-therapies]], Table 1. **All five components score 0 or 1, so the score runs 0–5.**
+All five components score 0 or 1 → range 0–5 ([[aga-2020-nvugib-endoscopic-therapies]] Table 1):
 
 | Letter | Component | Threshold | Points |
 |---|---|---|---|
-| **A** | Albumin | **<3 mg/dL** ᵇ | 0, 1 |
-| **I** | INR | **>1.5** | 0, 1 |
+| **A** | Albumin | <3 mg/dL ᵃ | 0, 1 |
+| **I** | International normalized ratio (INR) | >1.5 | 0, 1 |
 | **M** | Altered mental status | present | 0, 1 |
-| **S** | Systolic BP | **<100 mm Hg** | 0, 1 |
-| **65** | Age | **>65 years** | 0, 1 |
+| **S** | Systolic BP | <100 mm Hg | 0, 1 |
+| **65** | Age | >65 years | 0, 1 |
 
-ᵇ ⚠ **Unit reproduced verbatim, and it is internally inconsistent.** [[aga-2020-nvugib-endoscopic-therapies]] Table 1 prints *"Albumin (<3 mg/dL)"* exactly as shown. Serum albumin is reported in **g/dL**, so a <3 mg/dL cutoff is not a value any lab returns — this is a unit error in the published table. **Do not apply the threshold literally**; confirm the intended unit against the AIMS65 derivation paper (Saltzman et al. 2011).
+ᵃ Unit as printed in the source table.
 
-- **Inpatient mortality by score:** 0 → **0.3%**, 1 → **3.2%**, 2 → **5.3%**, 3 → **10.3%**, 4 → **16.5%**, 5 → **24.5%**.
-- **Can be calculated pre-endoscopy** and is easy to calculate, but is **less sensitive than Glasgow-Blatchford and Rockall** ([[aga-2020-nvugib-endoscopic-therapies]]).
-- ⚠ **Applies to all three scores** — Table 1 footnote, verbatim: *"These risk assessment scores cannot precisely identify individual high-risk patients who will die from gastrointestinal bleeding if they do not receive an intervention, but may have a clinical role in identifying patients who are at very low risk for mortality and may be amenable to outpatient medical care/endoscopy."*
-
-### Machine-Learning Risk Models
-
-- ACG notes the **Shung machine-learning model** also reaches ~99% sensitivity (lower CI bound 97–98%), matching GBS 0–1, but recommends **only GBS** by name — the Shung model has been evaluated in a single setting.
-- Any future tool may be substituted if it discriminates transfusion/hemostatic intervention/death with **99–100% sensitivity (0–1% false negatives)**.
-
-### CT Angiography
-
-- Not first-line for UGIB (endoscopy preferred)
-- Role: when endoscopy fails or is unavailable; planning for interventional radiology (TAE)
-- Can guide TAE by identifying site of active extravasation
-
-### Ulcer Stigmata at Endoscopy
-
-- Characterized at endoscopy to guide hemostatic therapy decisions — see [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]], including the source caveat on Forrest labelling
+```mermaid
+xychart-beta
+    title "AIMS65 score and inpatient mortality"
+    x-axis "AIMS65 score (points)" ["0", "1", "2", "3", "4", "5"]
+    y-axis "Inpatient mortality (%)" 0 --> 30
+    bar [0.3, 3.2, 5.3, 10.3, 16.5, 24.5]
+```
+*Inpatient mortality rises with every AIMS65 point*
+*Source: data from the AIMS65 score-specific inpatient mortality printed in AGA 2020 Table 1*
+*[[aga-2020-nvugib-endoscopic-therapies|AGA 2020 Endoscopic Therapies for NVUGIB]]*
+*AIMS65 = albumin, INR, mental status, systolic blood pressure, age >65 years (table above)*
 
 ---
 
@@ -363,48 +381,35 @@ flowchart TD
 
 ### Hemodynamic Instability (Requires Urgent Resuscitation Before Endoscopy)
 
-- Systolic BP <90 mm Hg
-- Heart rate ≥100 bpm
-- Active hematemesis of bright red blood
-- Syncope or near-syncope
-- Orthostatic changes in vital signs
-- Requirement for blood transfusion before stabilization
-- **Hypotensive shock not responding to initial resuscitation**: requires urgent endoscopy or interventional radiology regardless of endoscopy timing recommendations
+- Intensive-care-level triage: unstable vital signs, multiple comorbidities, need for endotracheal intubation, ongoing massive bleeding ([[aga-2020-nvugib-endoscopic-therapies]] Figure 1).
+- Hypotensive shock not stabilizing after initial resuscitation → urgent endoscopy or interventional radiology ([[#Step 4: Timing of Endoscopy]]).
+- Hematochezia with hemodynamic instability → consider an upper source ([[#UGIB vs. LGIB Distinction]]).
 
 ### High-Risk Clinical Features (GBS ≥12)
 
-- Predicts high likelihood of need for hemostatic intervention
-- Associated with actively bleeding lesions at endoscopy
-- Hospital admission mandatory regardless of GBS threshold used for discharge decisions
+- GBS ≥12 defined the high-risk group of the urgent-endoscopy RCT; endoscopy <6 h did not beat 6–24 h even here ([[#Step 4: Timing of Endoscopy]]).
 
 ### Endoscopic High-Risk Stigmata (Requiring Therapy)
 
-- **Active spurting** — endoscopic therapy required; less common than oozing (17% of actively bleeding ulcers) but higher further-bleeding rate
-- **Active oozing** — endoscopic therapy required; 39% pooled further bleeding without therapy
-- **Nonbleeding visible vessel** — endoscopic therapy required (NNT 5 to prevent further bleeding)
+- Active spurting, active oozing, nonbleeding visible vessel → endoscopic therapy ([[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]]).
 
 ### Rebleeding Warning Signs
 
-- Drop in hemoglobin of ≥2 g/dL after initial stabilization
-- Recurrence of hematemesis or melena after clinical improvement
-- Hemodynamic deterioration after initial stabilization
-- Stool color change from black/brown back to red or maroon
-- Tachycardia or hypotension developing during observation
-- Predictors of repeat endoscopy failure: hypotension at time of rebleeding, ulcer size >2 cm
+- Active bleeding at the first endoscopy (Forrest Ia or Ib) — risk factor for further bleeding; spurting worse than oozing ([[acg-2025-egd-quality]]).
+- Persistent Doppler-probe signal after hemostasis — rebleeding risk factor ([[aga-2020-nvugib-endoscopic-therapies]]).
+- Suboptimal first treatment: epinephrine alone, hemostatic powder alone for a high-risk lesion, inadequate coagulation, too little tissue in a clip; large, fibrotic or awkwardly placed ulcers ([[aga-2020-nvugib-endoscopic-therapies]]).
+- At rebleeding: hypotension and ulcer size >2 cm predict failure of repeat endoscopic hemostasis ([[acg-2021-ugib]]).
 
 ### Alarm Features for Alternative Diagnoses
 
-- Prior aortic surgery → aortoenteric fistula (sentinel bleed; urgent CT angiography)
-- Stigmata of cirrhosis ([[jaundice]], [[ascites]], spider angiomata) → variceal bleeding; see [[variceal-upper-gi-bleeding]]
-- Weight loss, dysphagia, early satiety → malignancy
-- Pulsatile abdominal mass → aortic aneurysm with fistula
-- Concurrent anticoagulation use → increased severity; see [[anticoagulation-gi-bleeding]]
+- Suspected portal hypertension or varices → low threshold for octreotide ([[aga-2020-nvugib-endoscopic-therapies]]); management on [[variceal-upper-gi-bleeding]].
+- Diffuse bleeding from a tumor → hemostatic powder as a bridge to radiotherapy or surgery ([[aga-2020-nvugib-endoscopic-therapies]]).
 
 ---
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[endoscopic-hemostasis]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[endoscopic-hemostasis]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[portal-hypertensive-gastropathy]], [[gastric-antral-vascular-ectasia]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[epinephrine]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]]
 
 ---
 
@@ -414,5 +419,5 @@ flowchart TD
 2. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
 3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
 4. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
-5. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
+5. [[aga-2024-upper-endoscopy-quality|AGA Clinical Practice Update on High-Quality Upper Endoscopy: Expert Review (2024)]]
 6. [[aga-2020-nvugib-endoscopic-therapies|AGA 2020 Clinical Practice Update: Endoscopic Therapies for Non-Variceal Upper Gastrointestinal Bleeding]]

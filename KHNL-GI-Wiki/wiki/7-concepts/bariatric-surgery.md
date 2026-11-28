@@ -84,7 +84,7 @@ Per [[aasld-2023-nafld|American Association for the Study of Liver Diseases (AAS
 
 - *"Criteria for metabolic weight-loss surgery"* = the American Society for Metabolic and Bariatric Surgery (ASMBS) / International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO) thresholds in [[#Who Is a Candidate (ASMBS–IFSO 2022)]]. The **pharmacotherapy** thresholds on [[obesity]] (BMI ≥30, or ≥27 with a weight-related comorbidity, [[aga-2022-obesity-pharm]]) are **not** the surgical criteria and must not be read as such.
 - **Efficacy:** resolves NASH **without worsening fibrosis in ~80% at 1 year**, sustained at 5 years.
-- Sits within the lifestyle/weight-loss backbone of [[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]] management (weight-loss thresholds 3–5% for steatosis, 7–10% for steatohepatitis, ≥10% for fibrosis).
+- Sits within the lifestyle/weight-loss backbone of [[nafld-masld|metabolic dysfunction–associated steatotic liver disease (MASLD)]] management (3–5% weight loss improves steatosis; >10% is generally required to improve steatohepatitis and fibrosis — [[aasld-2023-nafld]]).
 - Once [[cirrhosis]] is present the stage of liver disease governs the decision — see below.
 
 ---
@@ -102,7 +102,7 @@ Anchored to [[aga-2020-bariatric-surgery-cirrhosis]] (10 ungraded Best Practice 
 | **Compensated, no clinically significant portal hypertension (CSPH)** | Candidate — **only** by an experienced surgeon at a **high-volume bariatric center**, and **only after extrahepatic comorbidities are evaluated and managed** (BPA 5) |
 | **Compensated with CSPH** | Not a candidate on the standard pathway → assess [[liver-transplantation\|liver transplantation (LT)]] candidacy. [[aga-2018-surgical-risk-perioperative-cirrhosis\|American Gastroenterological Association (AGA) 2018]] states plainly that **clinically significant portal hypertension is a contraindication** to the operation |
 | **Decompensated** | **The only acceptable option is bariatric surgery concurrent with or after [[liver-transplantation\|liver transplantation]]** (BPA 10) |
-| **NASH cirrhosis** ([[aasld-2023-nafld\|AASLD 2023]]) | Decompensated cirrhosis is an **absolute contraindication**; compensated NASH cirrhosis only at high-volume centers or in the transplant context |
+| **NASH cirrhosis** ([[aasld-2023-nafld\|AASLD 2023]]) | Compensated NASH cirrhosis: not a primary therapy, seems safe in carefully selected patients · decompensated cirrhosis or CSPH: only at high-volume centers (with LT or research protocol) · decompensated = **absolute contraindication** unless combined with LT at experienced centers |
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2 — metabolic dysfunction-associated steatotic liver disease (MASLD)-related compensated advanced chronic liver disease (cACLD) gates on CSPH:**
 

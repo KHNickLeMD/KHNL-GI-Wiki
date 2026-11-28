@@ -3,14 +3,15 @@ title: "ASGE Guideline: The Role of Endoscopy in the Evaluation and Treatment of
 category: source
 tags: [biliary-neoplasia, cholangiocarcinoma, ampullary-adenocarcinoma, gallbladder-cancer, gallbladder-polyp, eus, ercp, idus, indeterminate-biliary-stricture, asge]
 created: 2026-06-29
-updated: 2026-11-18
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Guidelines/ASGE/ASGE 2013 Biliary Neoplasia.pdf"
 ---
 
 ## Bibliographic Info
-- **Article:** [Appalaneni V, et al; ASGE Standards of Practice Committee. The role of endoscopy in the evaluation and treatment of patients with biliary neoplasia. Gastrointest Endosc 2013;77(2):167-174.](https://doi.org/10.1016/j.gie.2012.09.029)
-- **Authors:** ASGE Standards of Practice Committee (Appalaneni V, et al.)
+- **Article:** [Anderson MA, Appalaneni V, et al; ASGE Standards of Practice Committee. The role of endoscopy in the evaluation and treatment of patients with biliary neoplasia. Gastrointest Endosc 2013;77(2):167-174.](https://doi.org/10.1016/j.gie.2012.09.029)
+- **Authors:** ASGE Standards of Practice Committee (Anderson MA, Appalaneni V, et al.)
 - **Year:** 2013
 - **Journal/Publisher:** Gastrointestinal Endoscopy (ASGE)
 - **DOI:** [10.1016/j.gie.2012.09.029](https://doi.org/10.1016/j.gie.2012.09.029)
@@ -20,7 +21,7 @@ raw: "GI Guidelines/ASGE/ASGE 2013 Biliary Neoplasia.pdf"
 
 American Society for Gastrointestinal Endoscopy (ASGE) Standards of Practice statement (Grading of Recommendations Assessment, Development and Evaluation [GRADE]) on the endoscopic approach to biliary neoplasia — ampullary adenocarcinoma, [[cholangiocarcinoma]], and [[gallbladder-cancer|gallbladder neoplasia (polyps and adenocarcinoma)]]. It is a 2013 update of a 2005 ASGE document. The central tools are endoscopic ultrasound (EUS, with fine-needle aspiration [FNA]), magnetic resonance cholangiography (MRC), endoscopic retrograde cholangiopancreatography (ERCP) (tissue acquisition + palliation), and intraductal ultrasound (IDUS).
 
-Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LFTs) with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is reserved for tissue acquisition and palliation of [[biliary-stricture|indeterminate strictures]]. For [[gallbladder-polyps|gallbladder polyps]], size and symptoms drive the decision between cholecystectomy and surveillance.
+Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LFTs) with an obstructive pattern, weight loss), cross-sectional imaging is the first step. EUS is most useful when its result would change management; MRC guides resectability and unilateral drainage for unresectable hilar disease (to limit cholangitis). ERCP is recommended to obtain tissue or facilitate further evaluation of [[biliary-stricture|indeterminate strictures]]. For [[gallbladder-polyps|gallbladder polyps]], size and symptoms drive the decision between cholecystectomy and surveillance.
 
 ## Key Findings / Claims
 
@@ -37,11 +38,11 @@ Once biliary neoplasia is suspected (jaundice, abnormal liver function tests (LF
 **Other points:**
 - EUS-FNA of the primary cholangiocarcinoma lesion carries concern for tumor seeding and may compromise liver-transplant candidacy — weigh before sampling.
 - IDUS at the time of ERCP can add information in suspected biliary neoplasia; 3D IDUS reconstruction and probe-based confocal laser endomicroscopy are adjuncts for indeterminate strictures.
-- Gallbladder polyps are found in ~4%–7% of healthy subjects; most are non-neoplastic. GBP size is the key predictor of malignancy; sessile shape and size ≥10 mm increase neoplastic risk.
+- Gallbladder polyps are found in ~4%–7% of healthy subjects; most are non-neoplastic. GBP size is an important predictor of malignancy; sessile shape and size ≥10 mm increase neoplastic risk.
 
 ## Relevance to Wiki
 - Updates [[cholangiocarcinoma]] — EUS-only-if-management-changing, EUS-FNA seeding/transplant caveat, MRC for resectability + unilateral drainage of unresectable hilar lesions, ERCP for tissue/indeterminate strictures, IDUS adjunct.
-- Updates [[gallbladder-cancer]] — gallbladder-polyp management thresholds (symptomatic → cholecystectomy; >10 mm → cholecystectomy; 6–10 mm → ultrasound surveillance ~q12mo; any GBP in PSC → cholecystectomy).
+- Updates [[gallbladder-cancer]] — gallbladder-polyp management thresholds (symptomatic → cholecystectomy; asymptomatic >10 mm → cholecystectomy; asymptomatic 6–10 mm without other gallbladder-cancer risk factors → transabdominal ultrasound every 12 months; any GBP in PSC → cholecystectomy).
 - Cross-links [[biliary-stricture]] (indeterminate stricture tissue acquisition) and [[primary-sclerosing-cholangitis]] (GBP in PSC).
 
 ## Contradictions / Open Questions

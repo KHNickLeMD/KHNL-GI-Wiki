@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update: New Screening Techniques in Barrett's Esop
 category: source
 tags: [barretts-esophagus, esophageal-adenocarcinoma, screening, cytosponge, transnasal-endoscopy, capsule-endoscopy, biomarkers, cost-effectiveness, foregut]
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Guidelines/AGA/AGA 2018 CPU New Screening Techniques in Barrett's.pdf"
 ---
@@ -64,7 +65,7 @@ Reproduced exactly as numbered in the source. **No grades, no strength labels, n
 
 ## Table 1 — Screening Techniques in Barrett's Esophagus
 
-Recreated from the source. The scales are the source's own qualitative marks (`+` = least favorable through `++++` = most favorable; `?` = not established; `$` = least expensive through `$$$$` = most expensive). The commentary defines no numeric anchor for either scale.
+Recreated from the source. The `+`/`?`/`$` marks are the source's own; the table has no legend, so the commentary does not define them.
 
 | Test | Patient Convenience | Screening Accuracy | Surveillance Accuracy | Cost | Transportability | Patient Acceptance |
 |---|---|---|---|---|---|---|
@@ -77,7 +78,7 @@ Recreated from the source. The scales are the source's own qualitative marks (`+
 | Electronic Nose | +++ | ? | ? | $$ | +++ | ++++ |
 | Cytosponge | +++ | +++ | + | $$ | +++ | ++++ |
 
-Reading the table: **only HD white light endoscopy scores top marks for surveillance accuracy**; every nonendoscopic tool is rated `+` for surveillance. Cytosponge and the blood/breath tests win on cost, transportability and acceptance, not on accuracy.
+Reading the table: **only HD white light endoscopy scores top marks for surveillance accuracy**; of the nonendoscopic tools only serum adipokines and Cytosponge score `+` for surveillance; liquid biopsy and electronic nose score `?`. Cytosponge and the blood/breath tests win on cost, transportability and acceptance, not on accuracy.
 
 ---
 
@@ -268,7 +269,7 @@ The document is a **Commentary and carries no Best Practice Advice and no eviden
 - **Cytosponge sensitivity figures are not directly comparable to the ACG 2022 numbers on [[barretts-esophagus]].** This source reports BEST2 **intention-to-treat sensitivity 79.9%** (inadequate-yield samples included) and **91.5%** for the commercial device in a **73-patient enriched population with inadequate samples excluded** — and states explicitly that the higher figure reflects the enrichment and exclusion, not better performance. Any use of a Cytosponge sensitivity number must carry its qualifier.
 - **No numbered Best Practice Advice, no grades.** Anything on an entity page attributed to this source must be described as a 2018 AGA Clinical Practice Update *Commentary* position, ungraded, and must not be presented alongside GRADE-rated ACG/AGA/ASGE statements as though equivalently rated.
 - **Open question raised by the authors:** whether EAC always arises in a field of Barrett's metaplasia. If small foci of intestinal metaplasia suffice for cancer without a visible endoscopic segment meeting surveillance criteria, "the future strategies of screening and surveillance may also change."
-- **Open question — surveillance accuracy of every alternative.** Table 1 scores liquid biopsy and electronic nose as `?` for both screening and surveillance accuracy, and rates every nonendoscopic tool `+` for surveillance. No alternative test has a surveillance role in this document.
+- **Open question — surveillance accuracy of every alternative.** Table 1 scores liquid biopsy and electronic nose as `?` for both screening and surveillance accuracy, and serum adipokines and Cytosponge only `+` for surveillance. No alternative test has a surveillance role in this document.
 - **Cost figures carry a stated caveat:** the Cytosponge microsimulation was run when the device was not commercially available, so "there was uncertainty regarding the cost of the Cytosponge." Cost analyses for the other techniques "have not been comparatively studied."
 - **Conflicts of interest disclosed in the source:** David A. Katzka has performed a pharmaceutical trial with Shire; Rebecca C. Fitzgerald holds patents on the Cytosponge technology, licensed by MRC Technology to Covidien GI Solutions (now Medtronic), with no direct financial arrangement with Medtronic.
 

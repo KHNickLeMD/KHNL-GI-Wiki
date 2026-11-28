@@ -3,7 +3,8 @@ title: "AGA Institute Technical Review on the Role of Therapeutic Drug Monitorin
 category: source
 tags: [ibd, crohns, ulcerative-colitis, anti-tnf, infliximab, adalimumab, certolizumab, golimumab, thiopurines, tpmt, 6-tgn, 6-mmp, therapeutic-drug-monitoring, aga]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Guidelines/AGA/AGA 2017 Technical Review Therapeutic Drug Monitoring IBD (Vande Casteele).pdf"
 ---
@@ -52,7 +53,7 @@ Throughout, the review is candid that **thresholds are a spectrum, not absolutes
 - **Anti-TNF agents and thiopurines only.** The panel, with AGA Governing Board approval, **opted not to synthesise evidence on TDM for methotrexate, cyclosporine or tacrolimus** because of limited data.
 - **Non–anti-TNF biologics are not discussed** — the mechanism of [[vedolizumab]] and [[il-23-and-il-12-23-inhibitors|ustekinumab]] is distinct from anti-TNF and published TDM data were very limited at the time.
 - **No distinction was made between monotherapy and combination therapy** when reviewing TDM for biologics.
-- **Induction is largely unaddressed.** The threshold data are maintenance-phase; applying maintenance thresholds during induction risks misclassifying patients as mechanistic failures.
+- **Induction is largely unaddressed.** The threshold data are maintenance-phase; results of a reactive TDM strategy are difficult to extrapolate to induction therapy.
 
 ---
 
@@ -70,11 +71,11 @@ Throughout, the review is candid that **thresholds are a spectrum, not absolutes
 
 Supporting detail that explains the grades:
 
-- **Q1** rests on one small Danish randomised controlled trial (RCT) in Crohn's disease (69 patients) at high risk of bias with poor protocol adherence, plus three observational studies. In the RCT, clinical remission at 12 weeks was 30.3% with TDM-guided change vs 38.9% with empiric escalation (relative risk [RR] 0.78; 95% confidence interval [CI] 0.40–1.51) — but **accumulated 12-month costs were 34% lower** in the TDM arm (€6,038 vs €9,178, *P* < .001). Observational data show the benefit is **concentrated in the right stratum**: 82% of patients with non-immune-mediated pharmacokinetic failure responded to dose escalation, vs only 8% of those with immune-mediated failure (RR 0.26; 0.08–0.86).
+- **Q1** rests on one small Danish randomised controlled trial (RCT) in Crohn's disease (69 patients) at high risk of bias with poor protocol adherence, plus three observational studies. In the RCT, clinical remission at 12 weeks was 30.3% with TDM-guided change vs 38.9% with empiric escalation (relative risk [RR] 0.78; 95% confidence interval [CI] 0.40–1.51) — but **accumulated costs over a 12-week period were 34% lower** in the TDM arm (€6,038 vs €9,178, *P* < .001). Observational data show the benefit is **concentrated in the right stratum**: 82% of patients with non-immune-mediated pharmacokinetic failure responded to dose escalation, vs only 8% of those with immune-mediated failure (RR 0.26; 0.08–0.86).
 - **Q2** rests on indirect evidence from the **TAXIT** trial only. All 263 patients were first trough-optimised to 3–7 µg/mL; after that, continued proactive TDM gave remission at 1 year in 69% vs 66% with clinically guided dosing (RR 1.04; 0.88–1.24). **The optimisation phase itself worked** (Crohn's remission 65% → 88% in the subgroup with initially low troughs) and **cut drug costs 28%** in those above 7 µg/mL; the randomised phase shows only that *repeating* it before every infusion adds nothing at 1 year. The trial cannot inform one-time optimisation, infrequent optimisation, or early optimisation in patients at high clearance risk.
 - **Q3** rests on 3 RCTs (1,145 patients). TPMT testing changed nothing at population level — hematologic adverse events RR 0.94 (0.59–1.50), treatment discontinuation RR 1.09 (0.94–1.27) — because **homozygotes are rare: 0.17% (2 of 1,145)**, with 9.7% heterozygous and 90.1% wild-type. A post-hoc subgroup analysis found an **89% risk reduction in hematologic adverse events** (RR 0.11; 0.01–0.85) in heterozygous carriers, and the authors calculated that a prospective trial would need **more than 42,000 participants** to show benefit for the whole patient population.
 - **Q4** rests on a **single retrospective single-group study** (63 patients) comparing algorithm-concordant with algorithm-discordant decisions: clinical response in 36 of 42 (85.7%) vs 3 of 18 (16.7%), RR 5.15 (1.82–14.56).
-- **Q5** rests on 2 small RCTs (107 patients), **both terminated early** for slow recruitment with 33–46% attrition. Clinical remission 42% with TDM-guided dose adaptation vs 31.6% with weight-based dosing (RR 1.44; 0.59–3.52). Notably, **the intervention largely failed on its own terms**: in the US trial, despite significantly higher azathioprine doses, median 6-TGN was 197 vs 150 pmol/8 × 10⁸ red blood cells (RBCs) — no significant difference — because the extra dose was shunted to 6-MMP. The trials capped azathioprine at 3 mg/kg and **did not permit adding allopurinol**.
+- **Q5** rests on 2 small RCTs (107 patients), **both terminated early** for slow recruitment with 33–46% attrition. Clinical remission 42% with TDM-guided dose adaptation vs 31.6% with weight-based dosing (RR 1.44; 0.59–3.52). Notably, **the intervention largely failed on its own terms**: in the US trial, despite significantly higher azathioprine doses, median 6-TGN was 197 vs 150 pmol/8 × 10⁸ red blood cells (RBCs) — no significant difference — possibly because metabolism shifted toward inactive metabolites such as 6-MMP with dose increase. Maximum azathioprine was 3 mg/kg (German trial) and 4 mg/kg (US trial), and the trials **did not permit adding allopurinol**.
 
 ---
 
@@ -94,7 +95,7 @@ Maintenance-phase thresholds, derived from cross-sectional and cohort data (no R
 
 - Above **≥7** and **≥10 µg/mL** the proportion not in remission is no longer significantly different — the curve flattens, which is why ≥7 offers only marginal extra benefit for clinical remission.
 - **Ulcerative colitis may need more than Crohn's disease:** at infliximab troughs **≥3 µg/mL**, significantly more patients with UC than CD were still not in remission.
-- Thresholds rise with an endoscopic rather than clinical target: Adedokun et al. proposed **22.0 µg/mL at week 6** for week-8 clinical response, vs 5.1 and 3.7 µg/mL for response at weeks 14 and 30.
+- Thresholds vary with phase of therapy: Adedokun et al. proposed **22.0 µg/mL at week 6** for week-8 clinical response, vs 5.1 and 3.7 µg/mL at weeks 14 and 30.
 
 **Table 5 — adalimumab** (proportion not in remission): **17.0%** above 5.0 ± 1 µg/mL (4 studies, 232 patients) → **10.3%** above 7.5 ± 1 µg/mL (3 studies, 131 patients).
 
@@ -102,7 +103,7 @@ Maintenance-phase thresholds, derived from cross-sectional and cohort data (no R
 
 **Golimumab** — data are sparse; no table. Post-hoc PURSUIT analysis identified **2.5 µg/mL at week 6** (induction; sensitivity 59.0%, specificity 67.2%) and **1.4 µg/mL at week 44** (maintenance; sensitivity 54.1%, specificity 77.6%) as minimal thresholds for clinically important outcomes. A prospective observational study of 21 patients with UC found **2.6 µg/mL at week 6** predicted week-14 improvement (specificity 90%, sensitivity 56%, AUROC 0.79).
 
-⚠ **Assay caveat:** infliximab assays agree well (intra-class correlation 0.960–0.971 across five assays; recovery −7% to +20%). **Adalimumab does not** — a homogeneous mobility shift assay measured consistently lower concentrations than enzyme-linked immunosorbent assay (ELISA), producing a **2-fold difference in the adalimumab cutoff** correlating with remission. Data comparing certolizumab pegol assays are lacking.
+⚠ **Assay caveat:** infliximab assays agree well (intra-class correlation 0.895–0.971, reference ELISA vs four other assays; recovery −7% to +20%). **Adalimumab does not** — a homogeneous mobility shift assay measured consistently lower concentrations than enzyme-linked immunosorbent assay (ELISA), producing a **2-fold difference in the adalimumab cutoff** correlating with remission. Data comparing certolizumab pegol assays are lacking.
 
 ---
 
@@ -133,12 +134,12 @@ Maintenance-phase thresholds, derived from cross-sectional and cohort data (no R
 | **Underdosed** | **<230** | — | Escalate the thiopurine — 13 of 15 (86.7%) responded to algorithm-concordant escalation |
 | **Noncompliant** | absent / very low | absent / very low | Both metabolites low together; addressing adherence, not dose |
 | **Therapeutically refractory** | **230–450** (therapeutic) | normal or high | Adequate active drug, no response → switch therapy; **12 of 12 (100%) improved** when the change was algorithm-concordant |
-| **Overdosed** | **>450** | — | Risk of leukopenia; reduce |
+| **Overdosed** | **>450** | — | Risk of leukopenia. Failing despite supratherapeutic 6-TGN → switch to alternative therapy (± thiopurine dose decrease): 5 of 5 (100%) responded; dose decreased or unchanged with no other change: 2 of 2 failed |
 | **Shunter (preferential 6-MMP producer)** | **low** | **high** | **6-MMP/6-TGN ratio >11.** Escalating the dose raises 6-MMP, not 6-TGN → **hepatotoxicity risk**. Needs a different strategy (e.g. adding allopurinol), not more thiopurine — 4 of 4 (100%) responded to an algorithm-concordant change, whereas dose reduction alone worked in 0 of 2 |
 
 - ⚠ **This is why "just increase the dose" fails in a subset.** High 6-MMP is associated with **hepatotoxicity**, and shunters are the group susceptible to it, because dose escalation leads to 6-MMP accumulation.
 - **The 6-TGN >230 threshold performs only moderately.** In a meta-analysis of 17 studies (2,052 patients), sensitivity **63%** and specificity **53%** for identifying remission (AUROC 0.63). Patients above 230 were **1.4 times** as likely to be in remission (RR 1.36; 1.16–1.61). But **34% of patients with active disease were above the threshold and 50% of patients in remission were below it.**
-- **In combination with an anti-TNF the target is different and unsettled.** A cross-sectional study found **6-TGN >125 pmol/8 × 10⁸ RBCs** associated with high anti-TNF concentrations and mucosal healing; another found no correlation between 6-TGN and anti-TNF levels at all. When a thiopurine is used mainly to reduce immunogenicity rather than to drive remission, the monotherapy target does not apply.
+- **In combination with an anti-TNF the target is different and unsettled.** A cross-sectional study found **6-TGN >125 pmol/8 × 10⁸ RBCs** associated with high anti-TNF concentrations and mucosal healing; another found no correlation between 6-TGN and anti-TNF levels at all. Whether optimal 6-TGN cutoffs differ between monotherapy and combination with an anti-TNF is unclear.
 - **Noncompliance ran 6%–11%** in the retrospective reactive-TDM studies.
 
 ---
@@ -163,8 +164,8 @@ Maintenance-phase thresholds, derived from cross-sectional and cohort data (no R
 ## Key Findings / Claims
 
 - **All five questions returned low or very-low-quality evidence.** Every TDM recommendation in the companion guideline is built on indirect, imprecise or high-risk-of-bias data.
-- **Maintenance trough thresholds:** infliximab **≥5 µg/mL**, adalimumab **≥7.5 µg/mL**, certolizumab pegol **≥20 µg/mL**; golimumab **2.5 µg/mL (week 6)** and **1.4 µg/mL (week 44)**, from sparse data.
-- **Thresholds are a spectrum, not absolutes** — they move with treatment target, disease activity, phenotype (UC may need more than CD; perianal disease more again) and phase of therapy.
+- **Maintenance trough thresholds:** infliximab **≥5 µg/mL**, adalimumab **≥7.5 µg/mL**, certolizumab pegol **≥20 µg/mL**; golimumab **1.4 µg/mL (week 44)**, from sparse data (golimumab induction: 2.5 µg/mL at week 6).
+- **Thresholds are a spectrum, not absolutes** — they move with treatment target, disease activity, phenotype (UC may need more than CD; luminal vs perianal disease) and phase of therapy.
 - **The reactive-TDM grid assigns the failure mechanism** and is where the benefit sits: 82% of non-immune pharmacokinetic failures respond to escalation vs 8% of immune-mediated failures.
 - **ADAb titres are not comparable across assays**; transient vs sustained antibodies predict recapture better than the number does.
 - **TPMT testing protects a very small group** (~0.3% homozygous) and **never replaces blood-count monitoring**.

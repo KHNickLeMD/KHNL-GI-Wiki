@@ -3,7 +3,8 @@ title: "AGA Clinical Practice Update on Surveillance of Metaplastic and Premalig
 category: source
 tags: [barretts-esophagus, colorectal-cancer-screening, colonoscopy-surveillance, older-adults, life-expectancy, deprescribing, shared-decision-making]
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Guidelines/AGA/AGA 2026 CPU Surveillance in Older Adults Esophagus and Colorectum (Calderwood).pdf"
 ---
@@ -64,7 +65,7 @@ Because systematic reviews were not performed, **the Best Practice Advice statem
 | **Low-grade dysplasia** | 40% of patients with Barrett's esophagus | **2.2%–11.8%/year** for high-grade dysplasia / esophageal adenocarcinoma | No data | No data | No data | No data | No data | No data |
 | **Colorectum — no adenomas** | N/A | 0.3% | 0.1% | 21.0% | 0.7% | 0.4% | 46.9% | **117–210× higher** |
 | **Nonadvanced adenomas** | 38%–60% | 0.3%–0.6% | 0.2% | 22.4% | 1.2% | 0.5% | 48.4% (nonfrail 34.2%, severely frail 82.0%) | **97–112× higher** |
-| **Advanced adenomas** | 3.4%–8% | 0.4%–0.5% | No data | No data | 1.3% | No data | — | — |
+| **Advanced adenomas** | 3.4%–8% | 0.4%–0.5% | — | — | 1.3% | — | — | — |
 
 ### Barrett's esophagus
 

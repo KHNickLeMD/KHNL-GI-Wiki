@@ -150,7 +150,7 @@ flowchart TD
 
 ## Practical Operating Rules
 
-- **Draw the trough as close to the next dose as possible — within 24 hours.**
+- **Draw an infliximab or adalimumab trough as close to the next dose as possible — within 24 hours.**
 - **Use the same assay** for a given patient's repeated trough and antibody measurements. Quantitative infliximab concentrations across assays fall within **−7% to +20%** of each other; adalimumab showed considerable variability between an enzyme-linked immunosorbent assay (ELISA) and a homogeneous mobility shift assay. Antibody reporting is the more variable of the two, so a single assay for both is preferable.
 - **Not covered by this framework:** [[vedolizumab]] and [[il-23-and-il-12-23-inhibitors|ustekinumab]] — too few data at the time of publication. Newer biologics require their own evaluation as they are approved.
 

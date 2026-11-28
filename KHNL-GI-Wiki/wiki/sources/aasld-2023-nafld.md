@@ -3,7 +3,8 @@ title: "AASLD Practice Guidance on the Clinical Assessment and Management of Non
 category: source
 tags: [nafld, masld, nash, mash, steatosis, fibrosis, fib-4, elf, vcte, mre, nit, pioglitazone, vitamin-e, semaglutide, bariatric-surgery, statin, hpb, liver]
 created: 2026-05-31
-updated: 2026-09-29
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Guidelines/AASLD/AASLD 2023 NAFLD Clinical Assessment Management.pdf"
 ---
@@ -23,7 +24,7 @@ The 2023 American Association for the Study of Liver Diseases (AASLD) nonalcohol
 
 The guidance frames fibrosis stage as the primary determinant of liver-related outcomes and mortality, and defines **"at-risk" nonalcoholic steatohepatitis (NASH)** as NASH with stage ≥2 fibrosis (F2). Prevalence of NAFLD in US adults is ~25%–30%; NASH-related cirrhosis is already the leading liver transplantation (LT) indication in women and those >65, and on par with [[alcohol-associated-liver-disease|alcohol]] overall, with hepatic decompensation/[[hepatocellular-carcinoma|hepatocellular carcinoma (HCC)]]/death projected to rise 2–3 fold by 2030. The most common causes of death across the NAFLD spectrum are cardiovascular disease (CVD) and non-hepatic malignancy (with liver death predominating only in advanced fibrosis).
 
-The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|noninvasive]] pathway**: Fibrosis-4 index (FIB-4) as universal first-line primary risk assessment (cutoff <1.3 rules out advanced fibrosis with high negative predictive value [NPV]; >2.67 prompts referral), followed by a secondary test (vibration-controlled transient elastography [VCTE], magnetic resonance elastography [MRE], or Enhanced Liver Fibrosis [ELF] test) when FIB-4 ≥1.3. Liver biopsy is reserved for diagnostic uncertainty, discordant noninvasive tests (NITs), persistently elevated aminotransferases (>6 mo), or competing diagnoses. The treatment foundation is lifestyle (weight loss thresholds 3–5% steatosis / 7–10% NASH / ≥10% fibrosis; Mediterranean diet; exercise independent of weight loss; ≥3 cups coffee/day; bariatric surgery for eligible non-cirrhotic patients). At publication there were **no FDA-approved drugs for NASH**; the guidance positions pioglitazone (in type 2 diabetes mellitus [T2DM]), vitamin E (non-diabetic), and [[semaglutide]] (for its approved T2DM/obesity indications) as options without proven antifibrotic benefit, and explicitly states metformin/ursodeoxycholic acid (UDCA)/dipeptidyl peptidase-4 inhibitors (DPP-4i)/statins/silymarin should NOT be used to treat NASH.
+The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|noninvasive]] pathway**: Fibrosis-4 index (FIB-4) as universal first-line primary risk assessment (cutoff <1.3 rules out advanced fibrosis with high negative predictive value [NPV]; >2.67 → consider referral), followed by a secondary test (vibration-controlled transient elastography [VCTE], magnetic resonance elastography [MRE], or Enhanced Liver Fibrosis [ELF] test) when FIB-4 ≥1.3. Liver biopsy is reserved for diagnostic uncertainty, discordant noninvasive tests (NITs), persistently elevated aminotransferases (>6 mo), or competing diagnoses. The treatment foundation is lifestyle (weight loss 3–5% improves steatosis; >10% generally required to improve NASH and fibrosis; Mediterranean diet; exercise independent of weight loss; ≥3 cups coffee/day; bariatric surgery for eligible non-cirrhotic patients). At publication there were **no FDA-approved drugs for NASH**; the guidance positions pioglitazone (in type 2 diabetes mellitus [T2DM]), vitamin E (non-diabetic), and [[semaglutide]] (for its approved T2DM/obesity indications) as options without proven antifibrotic benefit, and explicitly states metformin/ursodeoxycholic acid (UDCA)/dipeptidyl peptidase-4 inhibitors (DPP-4i)/statins/silymarin should NOT be used to treat NASH.
 
 ## Key Findings / Claims
 
@@ -34,7 +35,7 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 - **Alcohol** classified mild (≤20 g♀/30 g♂/d), moderate (21–39♀/31–59♂), heavy (≥40♀/≥60♂); synergistic with obesity/T2DM for fibrosis, HCC, death.
 - **Screening high-risk populations for advanced fibrosis (Table 4):** T2DM (prevalence of advanced fibrosis 6–19%), medically complicated obesity (4–33%), NAFLD + moderate alcohol use (17%), first-degree relative of NAFLD/NASH cirrhosis patient (18%). Background population prevalence 0.9–2%.
 - **Statins are safe and underused** across the NAFLD spectrum including compensated cirrhosis; lead to reduced cardiovascular (CV) morbidity/mortality.
-- **Surrogate response markers:** ALT decrease ≥17 U/L (or to ≤40 U/L and ≥30% from baseline) and ≥30% decline in magnetic resonance imaging–proton density fat fraction (MRI-PDFF) (5-fold improved odds of NASH resolution) track histologic improvement.
+- **Surrogate response markers:** ALT decrease ≥17 U/L (associated with histologic response in the FLINT obeticholic acid trial); ALT to ≤40 U/L **and** by ≥30% of baseline after starting vitamin E (associated with histologic improvement); and ≥30% decline in magnetic resonance imaging–proton density fat fraction (MRI-PDFF) (5-fold improved odds of NASH resolution) track histologic improvement.
 
 ## Table 5 — Noninvasive Assessment Cut-Points (by context of use)
 
@@ -59,6 +60,13 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 | Cirrhosis | ELF | ≥11.3 | <7.7 | ELF ≥11.3 → ↑ risk of hepatic decompensation |
 | Cirrhosis | VCTE | ≥20 kPa | <8 kPa | Liver stiffness measurement (LSM) ≥20 associated with cirrhosis |
 | Cirrhosis | MRE | ≥5 kPa | <3 kPa | ~95% specificity; predicts decompensation |
+
+**Figure 2 algorithm — cut-points not in Table 5:**
+- **FIB-4:** <1.3 → reassess periodically (every 1–2 y with T2DM/pre-T2DM or ≥2 metabolic risk factors; every 2–3 y with no T2DM and <2 metabolic risk factors); ≥1.3 → secondary risk assessment; >2.67 → consider referral; age >65 → use a FIB-4 cutoff of >2.0; FIB-4 has low accuracy under age 35.
+- **Secondary risk assessment bands:** VCTE low <8.0, intermediate 8–12, high >12 kPa; ELF low <7.7, intermediate 7.7–9.8, high >9.8. Low → reassess periodically; intermediate/high → GI/hepatology referral.
+- **Suspect cirrhosis** (clinical, imaging, or ELF >11.3) → cirrhosis-based management.
+- **Biopsy stage → action:** stage 0–1 reassess in 2–3 y; stage 2–3 reassess annually and consider pharmacotherapy; stage 4 cirrhosis-based management.
+- Table 5 also lists ARFI and shear-wave elastography rows, marked not well validated.
 
 > ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. This page uses **dB/m**; the value (288) is unchanged.
 
@@ -96,10 +104,12 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 
 ## Treatment Detail
 
-- **Weight loss dose-response:** 3–5% → improves steatosis; 7–10% → improves NASH; >10% → improves/reverses fibrosis. <10% of patients achieve effective weight loss at 1 y; multidisciplinary support needed.
+- **Weight loss dose-response:** 3–5% improves steatosis; greater weight loss (>10%) is generally required to improve NASH and fibrosis. Few patients (≤10%) achieve effective weight loss at 1 y despite structured interventions; multidisciplinary support needed.
 - **Diet:** caloric deficit; Mediterranean diet preferred (CV benefit + liver fat reduction); excess fructose/sugar-sweetened beverages (SSB) harmful. **Coffee** ≥3 cups/day (caffeinated or not) associated with less advanced liver disease.
 - **Exercise:** ~150 min/week moderate or +60 min/week activity; benefit independent of weight loss; cirrhotics prioritize protein + recognize physical limits.
-- **Bariatric surgery:** resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); decompensated cirrhosis = absolute contraindication; compensated NASH cirrhosis only at high-volume centers / with LT.
+- **Bariatric surgery:** accepted criteria BMI ≥40 kg/m² irrespective of metabolic disease, or BMI ≥35 kg/m² with comorbidities; resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y).
+  - **Compensated NASH cirrhosis:** not a primary therapy, but seems safe in carefully selected patients; benefit–risk assessment by a multidisciplinary team that includes a hepatologist.
+  - **Decompensated cirrhosis or clinically significant portal hypertension:** increased postoperative mortality — only at high-volume centers under special circumstances (combined with liver transplant [LT] or in a research protocol); decompensated cirrhosis = absolute contraindication unless performed with LT at experienced centers.
 - **Pharmacotherapy (Table 6):** Vitamin E (rrr-α) 800 IU/day (PIVENS: ≥2-pt NAFLD Activity Score (NAS) reduction; non-diabetic, no fibrosis benefit; ?hemorrhagic stroke/prostate cancer); Pioglitazone 30–45 mg (improves NASH ± fibrosis; weight gain/heart failure/bone loss); Liraglutide/Semaglutide (improve steatosis/NASH, CV benefit, no proven fibrosis benefit); Tirzepatide & sodium-glucose cotransporter-2 inhibitors (SGLT-2i) (steatosis reduction on imaging). None FDA-approved for NASH at time of publication.
 
 ## Relevance to Wiki

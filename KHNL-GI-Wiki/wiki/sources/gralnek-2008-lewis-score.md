@@ -3,7 +3,8 @@ title: "Development of a Capsule Endoscopy Scoring Index for Small Bowel Mucosal
 category: source
 tags: [capsule-endoscopy, lewis-score, crohns-disease, small-bowel, nsaid-enteropathy, scoring]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-28
+verified: 2026-11-28
 sources: []
 raw: "GI Other Studies/Gralnek 2008 Lewis Score Capsule Endoscopy Small Bowel Inflammation.pdf"
 ---
@@ -27,7 +28,7 @@ Capsule endoscopy (CE) was cleared by the FDA in 2001 and rapidly became the bes
 
 **How it was built.** A 2004 five-parameter index (erythema, oedema, nodularity, ulcer, stenosis) was cut down after a prospective blinded evaluation found **erythema almost unscoreable** — interobserver **κ 0.02** — while ulcers and stenosis agreed well. A working group then added candidate parameters (villous appearance, denuded mucosa) and **eliminated erythema, oedema, nodularity and denuded mucosa** for lack of clinical significance or inability to be judged objectively. The final index rests on **three variables: villous appearance, ulcer, and stenosis.**
 
-Scores were not assigned by regression against an outcome. Four blinded expert readers graded **44 de-identified CE studies** (22 Crohn's disease, 12 nonsteroidal anti-inflammatory drug [NSAID] enteropathy, 10 small-bowel mucosal breaks of unknown cause) and also gave each study a **global severity judgement** in three categories. A panel then **ranked the findings by perceived severity**, and a MATLAB **gradient-descent optimisation** iteratively adjusted the weights until the numerical score reproduced the readers' rank order and global assessment with zero error. The thresholds were then read off the **crossover points of the three relative frequency graphs**.
+Scores were not assigned by regression against an outcome. Four blinded expert readers graded **44 de-identified CE studies** (22 Crohn's disease, 12 nonsteroidal anti-inflammatory drug [NSAID] enteropathy, 10 small-bowel mucosal breaks of unknown cause) and also gave each study a **global severity judgement** in three categories. A panel then **ranked the findings by perceived severity**, and a MATLAB **gradient-descent optimisation** iteratively adjusted the weights until the numerical score reproduced the panel's severity ranking with zero error (error = a lower-ranked case scoring higher than a higher-ranked one). The thresholds were then read off the **crossover points of the three relative frequency graphs**.
 
 **The result is a worst-segment score, not a total burden score.** The small bowel is divided into **three tertiles by transit time**; each is scored independently; the final figure takes the **single most severely affected tertile** and adds the **stenosis score, which is graded once for the whole study**. The authors chose this deliberately — summing tertiles would let three tertiles of mild disease outrank one tertile of severe disease.
 
@@ -58,8 +59,8 @@ Scores were not assigned by regression against an outcome. Four blinded expert r
 
 and the stenosis score is **(number × ulcerated × traversed)**.
 
-- **The three tertiles are not added.** Only the **maximum tertile score** is carried forward, because "adding the scores from each tertile in a case of mild disease could provide a total number greater than one tertile plus the stenosis score."
-- Validation of that choice: all possible tertile pairings were tested; **worst-tertile-plus-stenosis and sum-of-all-tertiles had similar error rates** against the global perceived assessment (**16%** vs similar) and similar kappas (**0.71 vs 0.68**).
+- **The three tertiles are not added.** Only the **maximum tertile score** is carried forward, because "adding the scores from each tertile in a case of mild disease could provide a total number greater than one tertile of severe disease."
+- Validation of that choice: all possible tertile pairings were tested; **worst-tertile-plus-stenosis and sum-of-all-tertiles had similar error rates** against the global perceived assessment (**16%** vs similar) and similar kappas (**0.68–0.71**).
 
 ### Score bands
 
@@ -83,7 +84,7 @@ and the stenosis score is **(number × ulcerated × traversed)**.
 
 - **Interobserver agreement** (4 expert readers, 114 scored studies): villous oedema **76%**, ulcer **84%**, stenosis **79%**; **κ 0.48 villous, 0.66 ulcer, 0.58 stenosis** — described by the authors as **moderate**.
 - Agreement on the **global** severity judgement was better: **84%** for no-disease/mild, **86%** for moderate/severe.
-- **Erythema was dropped because it could not be scored** — **κ 0.02** in the initial prospective evaluation, against **83% agreement within 10 points** for ulcers.
+- **Erythema scored poorly** — **κ 0.02** in the initial prospective evaluation, against **83% agreement within 10 points** for ulcers; the working group then eliminated erythema, oedema, nodularity and denuded mucosa for perceived lack of clinical significance and/or inability to be judged objectively.
 - ⚠ **The bands overlap substantially in the derivation data.** Observed ranges: **no disease 0–271** (mean 70), **mild 204–4050** (mean 1003), **moderate/severe 331–13,019** (mean 4373). The authors state there was "a significant overlap between these cut-offs" — the thresholds are crossover points of frequency distributions, not separations.
 - **Derivation material:** 44 de-identified studies; 114 global scores analysed; **14 rated normal, 41 mild, 59 moderate-to-severe**. No patient outcomes, no treatment response, no comparison against another modality.
 
@@ -92,16 +93,16 @@ and the stenosis score is **(number × ulcerated × traversed)**.
 ## Relevance to Wiki
 
 - **[[capsule-endoscopy]]** — the page named the score's three parameters but stated that its **per-parameter point values and score bands "are not printed in ACG 2025, … so the score cannot be computed or interpreted from this page."** Table 1, the formula, the bands and the definitions now reach it.
-- **[[crohns-disease]]** — the score quantifies small-bowel inflammatory burden; most derivation studies were Crohn's.
+- **[[crohns-disease]]** — the score quantifies small-bowel inflammatory burden; half of the derivation studies (22 of 44) were Crohn's.
 - **[[ibd-endoscopic-scoring]]** — the concept page for endoscopic activity indices in inflammatory bowel disease.
-- [[nsaid-enteropathy|NSAID enteropathy]] — 12 of the 44 derivation studies; the score was explicitly built to cover NSAID injury as well as Crohn's.
+- [[nsaid-enteropathy|NSAID enteropathy]] — 12 of the 44 derivation studies; the authors describe the score as quantifying mucosal change from "any inflammatory process".
 
 ---
 
 ## Contradictions / Open Questions
 
 - **No contradiction with [[acg-2025-crohns]]**, which names the three parameters exactly as here and makes no claim this paper does not support. ACG cites **Monteiro 2015** for diagnostic accuracy, a different paper not in `raw/`.
-- **The score has no outcome validation in this paper.** It was optimised to reproduce **expert readers' perceived severity**, not to predict treatment response, progression, or any clinical endpoint. Its own abstract calls it "a common language to quantify small bowel inflammatory changes" — a vocabulary, not a prognostic instrument.
-- **The band overlap is a real interpretive limit**, stated by the authors and carried to the page: a score of 300 appeared in all three global-assessment groups in the derivation data.
+- **The score has no outcome validation in this paper.** It was optimised to reproduce the **expert panel's severity ranking**, not to predict treatment response, progression, or any clinical endpoint. Its own abstract calls it "a common language to quantify small bowel inflammatory changes" — a vocabulary, not a prognostic instrument.
+- **The band overlap is a real interpretive limit**, stated by the authors and carried to the page: derivation score ranges overlapped (no disease 0–271, mild 204–4050, moderate/severe 331–13,019), and the authors note "a significant overlap between these cut-offs".
 - **"Clinically insignificant" is doing unexamined work.** <135 is labelled normal *or* clinically insignificant, but no clinical criterion distinguishes the two — the label comes from reader perception.
 - **Scoring convention risk:** because the score is **worst tertile + stenosis**, a reader who sums all three tertiles produces a number that is not a Lewis score but looks like one. No ingested guideline states this, so the page does.

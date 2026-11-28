@@ -3,20 +3,19 @@ title: "Thiopurines (Azathioprine, 6-Mercaptopurine)"
 category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
-updated: 2026-11-18
+updated: 2026-11-28
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2017-tdm-ibd, aga-2017-tdm-ibd-technical-review, easl-2025-autoimmune-hepatitis, global-consensus-2025-pregnancy-ibd, aasld-2020-autoimmune-hepatitis]
 ---
 
-Purine-antimetabolite **immunomodulators**: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. In [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]], two roles only — **maintenance** of corticosteroid-induced remission, and **combination therapy with [[anti-tnf-agents|infliximab]]** to suppress immunogenicity; never induction.
+Purine-antimetabolite **immunomodulators**: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. In [[inflammatory-bowel-disease|inflammatory bowel disease (IBD)]]: **maintenance** of corticosteroid-induced remission, and **combination with an [[anti-tnf-agents|anti–tumor necrosis factor (TNF) agent]]** to reduce immunogenicity; **not as induction monotherapy** ([[acg-2025-crohns]], [[acg-2025-uc]]).
 
 - In [[autoimmune-hepatitis|autoimmune hepatitis (AIH)]], azathioprine is a first-line agent **combined with** a corticosteroid for induction, then for maintenance (alone or with low-dose corticosteroid), and must **never** be given alone as induction; regimen and positioning are on the disease page ([[easl-2025-autoimmune-hepatitis]]).
 
 ## Contents
 - [[#Positioning — what thiopurines are and are not for]]
-- [[#Dosing]]
-  - [[#Alternatives in azathioprine intolerance]]
-  - [[#Reading a metabolite panel]]
 - [[#Before starting — pharmacogenomic testing]]
+- [[#Dosing]]
+  - [[#Reading a metabolite panel]]
 - [[#Adverse Effects and Monitoring]]
 - [[#Pregnancy and Lactation]]
 - [[#See Also]]
@@ -34,89 +33,72 @@ Purine-antimetabolite **immunomodulators**: **azathioprine (AZA)** and **6-merca
 | Induction, moderately-severely active [[ulcerative-colitis\|ulcerative colitis (UC)]] | **Against** thiopurine (or methotrexate) **monotherapy** | Strong, low ([[acg-2025-uc]] Rec 23) |
 | Maintenance in CD after corticosteroid induction | **Suggest** AZA / 6-MP | Conditional, low ([[acg-2025-crohns]] Rec 9) |
 | Maintenance in UC after corticosteroid induction, vs no treatment or steroids | **Suggest** thiopurines | Conditional, low ([[acg-2025-uc]] Rec 36) |
-| Maintenance after [[calcineurin-inhibitors\|cyclosporine]] rescue in acute severe UC | **Suggest** thiopurines | Conditional ([[acg-2025-uc]] Rec 53) |
+| Maintenance after [[calcineurin-inhibitors\|cyclosporine]] rescue in acute severe UC | **Suggest** thiopurines | Conditional, low ([[acg-2025-uc]] Rec 53) |
 | Combination with **intravenous (IV) infliximab** in agent-naive CD, vs either alone | **Recommend** combination | Strong, moderate ([[acg-2025-crohns]] Rec 13) |
 | Combination with infliximab when infliximab is used for **UC induction** | **Recommend** combination therapy with a thiopurine | Strong; moderate quality **for azathioprine** ([[acg-2025-uc]] Rec 33) |
 
-- The third use is **adjunctive**: thiopurines (or methotrexate) reduce anti-tumor necrosis factor (TNF) antibody formation and improve pharmacokinetics ([[acg-2025-crohns]] Key Concept 43).
-- UC combination data exist **only for infliximab + thiopurines** — not for other anti-TNF agents ([[acg-2025-uc]] Key Concept 27).
-- UC SUCCESS regimen: infliximab **5 mg/kg** (loading weeks 0, 2, 6) + azathioprine **2.5 mg/kg orally** beat either monotherapy for corticosteroid-free clinical remission at 16 weeks, in patients naive to both agents **with normal thiopurine methyltransferase (TPMT) activity** ([[acg-2025-uc]]).
-- **Methotrexate may be the preferred combination immunomodulator** where thiopurine adverse effects are most feared — young men, or patients with multiple skin cancers ([[acg-2025-uc]]); this is extrapolated from CD data.
+- **CD scenarios** ([[acg-2025-crohns]]): start with the **first corticosteroid course**; start after **repeated corticosteroid courses or corticosteroid dependence**; or give **with an anti-TNF** to reduce antidrug-antibody development and improve pharmacokinetic parameters — for this adjunctive role 6-MP or AZA is **typically given at reduced doses** (Key Concept 43 and text).
+- UC combination data exist **only for infliximab + thiopurines** ([[acg-2025-uc]] Key Concept 27).
+- UC combination regimen: infliximab **5 mg/kg** (loading weeks 0, 2, 6) + azathioprine **2.5 mg/kg orally** beat either agent alone for corticosteroid-free clinical remission at 16 weeks, in patients naive to anti-TNF agents and immunomodulators **with normal thiopurine methyltransferase (TPMT) activity** ([[acg-2025-uc]]).
+- **[[methotrexate|Methotrexate]] may be the preferred combination immunomodulator** for those at higher risk of thiopurine adverse effects — young men, or patients with multiple skin cancers ([[acg-2025-uc]]); extrapolated from CD data.
 - American College of Gastroenterology (ACG) explicitly cautions that accumulating thiopurine risk **may now outweigh the steroid-sparing benefit**, given newer mechanisms with more favorable safety profiles ([[acg-2025-crohns]]).
-
----
-
-## Dosing
-
-| Agent | Dose (maintenance) |
-|---|---|
-| Azathioprine | **1.5–2.5 mg/kg/day** (stated as maximal doses) |
-| 6-Mercaptopurine | **0.75–1.5 mg/kg/day** (Rec 8/9); the narrative text of the same guideline gives **1–1.5 mg/kg/day** as the maximal dose |
-
-- Both dose ranges are from [[acg-2025-crohns]] Rec 8 and 9. **The 6-MP lower bound is stated inconsistently within that guideline** (0.75 in the recommendation, 1.0 in the text) — noted rather than silently resolved.
-- Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; the equivalent early-azathioprine strategy in adults did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
-- **AIH induction (azathioprine):** only when **bilirubin <6 mg/dl**, ideally started **2 weeks after** the corticosteroid; **50 mg/day** initially, up to a final **1–2 mg/kg/day**. Avoid in acute severe AIH and decompensated cirrhosis; caution in TPMT deficiency, pregnancy, cytopenias and malignancy. Maintenance dose is adapted to keep a stable complete biochemical response ([[easl-2025-autoimmune-hepatitis]]).
-- **AIH in children:** azathioprine **1 mg/kg/day**, titrated to a maximum of **2–2.5 mg/kg/day**, started after 2 weeks; TPMT levels can be checked before starting; caution if jaundiced ([[easl-2025-autoimmune-hepatitis]] Table 12).
-
-### Alternatives in azathioprine intolerance
-
-In AIH, **mycophenolate mofetil (MMF) is the second-line agent of choice** for thiopurine intolerance or side effects (strong recommendation); **mercaptopurine or thioguanine can be used** instead (weak recommendation, level of evidence 4) ([[easl-2025-autoimmune-hepatitis]]):
-
-| Agent | Dose | Complete response |
-|---|---|---|
-| 6-Mercaptopurine | Start **0.5 mg/kg/day** → **1–1.5 mg/kg/day**, or titrate to metabolites | 40% (8/20) |
-| Thioguanine | **20 mg/day** (not weight-based) | 66.7% (22/33) |
-
-- Azathioprine is stopped for adverse effects in ≈15% of AIH patients in the first year (36.5% within the first 6 months prospectively); myelotoxicity and hepatotoxicity each <2%.
-
-### Reading a metabolite panel
-
-**6-thioguanine (6-TGN) target range: 230–450 pmol/8×10⁸ red blood cells (RBCs) — monotherapy only** ([[aga-2017-tdm-ibd]]). See [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]] for when to send the panel and for pre-treatment TPMT testing with its dose-reduction table.
-
-The 6-TGN number alone does not tell you what to do — **pair it with 6-methylmercaptopurine (6-MMP)** ([[aga-2017-tdm-ibd-technical-review]]):
-
-| 6-TGN | 6-MMP | Pattern | What to do |
-|---|---|---|---|
-| **<230** | normal | **Underdosed** | Escalate the thiopurine |
-| absent / very low | absent / very low | **Noncompliant** | Both low together — address adherence, not dose |
-| **230–450** | normal or high | **Refractory** | Adequate active drug, no response → **switch therapy**, don't escalate |
-| **>450** | — | **Overdosed** | Reduce — leukopenia risk |
-| **low** | **high** | **Shunter** — 6-MMP/6-TGN **ratio >11** | **Do not escalate.** More drug makes more 6-MMP, not 6-TGN |
-
-> [!pitfall] A low 6-TGN is not automatically an underdose
-> If 6-MMP is high alongside it — a **6-MMP/6-TGN ratio >11** — the patient is a **shunter**, preferentially making the inactive metabolite. Escalating the dose drives 6-MMP higher and causes **hepatotoxicity** without ever reaching a therapeutic 6-TGN. In the trial that tried pure dose escalation, median 6-TGN was no different despite significantly higher azathioprine doses, because the extra dose was shunted. Shunters need a **different strategy**; dose reduction alone worked in 0 of 2 patients, while an algorithm-concordant change worked in 4 of 4 ([[aga-2017-tdm-ibd-technical-review]]).
-
-- ⚠ **The 230 threshold discriminates only moderately** — sensitivity 63%, specificity 53% across 17 studies (2,052 patients). **34% of patients with active disease sit above it and 50% of those in remission sit below it.** Treat it as one input, not a verdict.
-- **On combination therapy with an [[anti-tnf-agents|anti-TNF]] the monotherapy target does not apply.** One cross-sectional study linked **6-TGN >125 pmol/8×10⁸ RBCs** to high anti-TNF concentrations and mucosal healing; another found no correlation at all. When the thiopurine is there mainly to reduce immunogenicity, no threshold is established.
-- **Allopurinol co-prescribing** is the strategy named for shunters ([[aga-2017-tdm-ibd-technical-review]]), though the trials behind the proactive-monitoring question did not permit it. The dose and the paired azathioprine reduction come from the AIH guideline — below.
-
-**In autoimmune hepatitis** — same panel, different numbers ([[easl-2025-autoimmune-hepatitis]]):
-
-| Measure | Value | Action |
-|---|---|---|
-| 6-TGN therapeutic window | **225–450 pmol/8×10⁸ erythrocytes** | target on thiopurine-based therapy |
-| 6-TGN cut-off in insufficient response | **223 pmol/8×10⁸ RBCs** (the guideline's proposed cut-off) | below it → non-adherence or sub-therapeutic dose |
-| 6-TGN **and** 6-MMP undetectable / low | — | non-adherence → medication-management, side-effect and benefit–risk discussion |
-| 6-MMP "appropriately low" | **<5,700 pmol/0.2 mL** | escalate azathioprine **up to 2 mg/kg/day** |
-| 6-MMP disproportionately raised | — | **do not escalate** → allopurinol manoeuvre below |
-| 6-TGN above cut-off **with** high 6-MMP | — | find another cause before reducing the thiopurine — Epstein-Barr virus, cytomegalovirus, corticosteroid-related steatohepatitis, supplement-related [[drug-induced-liver-injury\|drug-induced liver injury]] |
-
-- The AIH window's lower bound (225) and the IBD monotherapy target (230) differ only trivially. [[aasld-2020-autoimmune-hepatitis]] gave **100–300 pmol/8×10⁸ RBCs** for **children** with AIH only, and called routine 6-TGN measurement in unselected patients of limited value; EASL 2025 is newer and sets the adult window.
-
-> [!howto] Allopurinol manoeuvre for a shunter
-> 1. Confirm adherence, and a disproportionately raised 6-MMP on the metabolite panel.
-> 2. **Reduce azathioprine to 25% of its dose**, a few days ahead of step 3.
-> 3. **Add allopurinol 100 mg/day**; if the response is still insufficient, recheck metabolites and treat accordingly.
->
-> **Contraindicated in pregnancy.** Weak recommendation in AIH ([[easl-2025-autoimmune-hepatitis]]).
 
 ---
 
 ## Before starting — pharmacogenomic testing
 
-- **TPMT testing before initial use of AZA or 6-MP** — **strong recommendation**, low level of evidence ([[acg-2025-crohns]] Rec 10). Purpose: identify patients at increased risk of **thiopurine-associated myelosuppression**.
+- **TPMT testing before initial use of AZA or 6-MP** — strong recommendation, low level of evidence ([[acg-2025-crohns]] Rec 10); identifies patients at increased risk of **thiopurine-associated myelosuppression**. American Gastroenterological Association (AGA): routine TPMT testing (enzymatic activity or genotype) to guide dosing — conditional recommendation, low quality ([[aga-2017-tdm-ibd]]).
+- Starting dose by TPMT result, as used in the three supporting randomized trials ([[aga-2017-tdm-ibd-technical-review]]):
+
+| TPMT genotype / enzyme activity | Starting dose used in the supporting trials |
+|---|---|
+| Wild-type / normal | AZA **2–2.5 mg/kg/day** or 6-MP **1–1.5 mg/kg/day** |
+| Heterozygous / intermediate | **50% dose reduction** |
+| Homozygous / low or absent | **Avoid**, or start at **0–10%** of the standard dose |
+
+- Myelosuppression odds vs wild-type: **4.3** heterozygous, **20.8** homozygous; roughly 4%–11% of people are heterozygous and ~0.3% homozygous ([[aga-2017-tdm-ibd-technical-review]]).
+- A **blood transfusion in the preceding 3 months** can make TPMT phenotyping unreliable ([[aga-2017-tdm-ibd-technical-review]]).
 - **NUDT15 (nudix hydrolase 15) variants** also impair thiopurine metabolism and raise drug-related toxicity, **particularly in people of East Asian, Latino, and Native American ancestry**. Testing **should be considered if available** ([[acg-2025-crohns]]) — a weaker instruction than the TPMT recommendation.
-- Both sit inside [[acg-2025-crohns]] Key Concept 22: HLA-DQA1\*05, HLA-DRB1\*03, NUDT15 and TPMT "can affect individual treatment response and identify potential risks for adverse effects… should be measured in **select patients**." (The two HLA haplotypes govern **anti-TNF immunogenicity**, not thiopurine toxicity.)
+- Both sit inside [[acg-2025-crohns]] Key Concept 22: HLA-DQA1\*05, HLA-DRB1\*03, NUDT15 and TPMT "can affect individual treatment response and identify potential risks for adverse effects… should be measured in **select patients**."
+
+---
+
+## Dosing
+
+| Agent | IBD dose ([[acg-2025-crohns]]) |
+|---|---|
+| Azathioprine | **1.5–2.5 mg/kg/day** (Recs 8–9; the text calls these maximal doses) |
+| 6-Mercaptopurine | **0.75–1.5 mg/kg/day** in Recs 8–9; the text gives **1–1.5 mg/kg/day** as the maximal dose |
+
+- Pediatric CD data: 6-MP **1.5 mg/kg/day** with the first corticosteroid course was effective; a randomized open-label study of early azathioprine in CD did **not** show a benefit in time in clinical remission ([[acg-2025-crohns]]).
+- **AIH:**
+  - US adult dosing: AZA **50–150 mg/day** alongside prednisone 20–40 mg/day; typical start **50–100 mg/day**; children **1–2 mg/kg/day**. Most centres start AZA **2 weeks after** the corticosteroid — to confirm steroid response, check TPMT and exclude AZA-induced hepatitis ([[aasld-2020-autoimmune-hepatitis]]). Add only when **bilirubin <6 mg/dl** ([[easl-2025-autoimmune-hepatitis]]).
+  - Cytopenia: mild → reduce dose; severe → stop; stop if it does not recover in **1–2 weeks**. Not in active malignancy, decompensated cirrhosis or acute severe AIH ([[aasld-2020-autoimmune-hepatitis]]).
+  - Paediatric titration: [[autoimmune-hepatitis#Paediatric AIH|paediatric AIH]]. Alternatives in intolerance ([[mycophenolate-mofetil|mycophenolate mofetil]], mercaptopurine, thioguanine) and AIH metabolite cut-offs: [[autoimmune-hepatitis#Intolerance, Insufficient Response and Rescue|AIH intolerance and insufficient response]].
+
+### Reading a metabolite panel
+
+**When to send it** ([[aga-2017-tdm-ibd]], both conditional recommendations, very low quality): **active IBD or suspected thiopurine toxicity → reactive** metabolite monitoring to guide treatment changes; **quiescent IBD → against** routine monitoring. Framework: [[therapeutic-drug-monitoring-ibd|therapeutic drug monitoring]].
+
+**6-thioguanine (6-TGN) target: 230–450 pmol/8×10⁸ red blood cells (RBCs) when the thiopurine is used as monotherapy**; the optimal cutoff in combination with an anti-TNF is uncertain ([[aga-2017-tdm-ibd]]).
+
+Pair it with **6-methylmercaptopurine (6-MMP)** — the five patterns of the reactive-monitoring algorithm, with outcomes from its single retrospective study (63 patients) ([[aga-2017-tdm-ibd-technical-review]]):
+
+| 6-TGN | 6-MMP | Pattern | Algorithm-concordant change → outcome |
+|---|---|---|---|
+| **<230** | normal | **Underdosed** | Escalate the dose → 13 of 15 responded |
+| absent / very low | absent / very low | **Noncompliant** | Identifies non-adherence (6%–11% in the retrospective studies) |
+| **230–450** | normal or high | **Refractory** | Switch to alternative therapy, no further escalation → 12 of 12 improved. Dose raised despite therapeutic levels: 3 of 4 no response, 1 toxicity |
+| **>450** | — | **Overdosed** (leukopenia risk) | Failing despite supratherapeutic 6-TGN: switch to alternative therapy, with or without a thiopurine dose decrease → 5 of 5 responded. Dose decreased or unchanged with no other change → 2 of 2 failed |
+| **low** | **high** | **Shunter** — 6-MMP/6-TGN **ratio >11** | Dose decrease plus allopurinol or another alternative therapy → 4 of 4 responded. Dose decrease alone → 0 of 2 improved |
+
+> [!pitfall] A low 6-TGN is not automatically an underdose
+> Check the 6-MMP. In a shunter, a higher dose accumulates 6-MMP rather than 6-TGN, raising **hepatotoxicity** risk without reaching a therapeutic 6-TGN. In a trial of metabolite-guided escalation, median 6-TGN did not differ despite significantly higher azathioprine doses — possibly from this shift ([[aga-2017-tdm-ibd-technical-review]]).
+
+- ⚠ **The 230 threshold discriminates only moderately** — sensitivity 63%, specificity 53% across 17 studies (2,052 patients). **34% of patients with active disease sit above it and 50% of those in remission sit below it** ([[aga-2017-tdm-ibd-technical-review]]).
+- **With an anti-TNF:** whether the optimal 6-TGN cutoff differs from monotherapy (where the main goal may be lower immunogenicity) is **unclear**. One cross-sectional study linked **6-TGN >125 pmol/8×10⁸ RBCs** to high anti-TNF levels and mucosal healing; another found no correlation between 6-TGN and anti-TNF levels ([[aga-2017-tdm-ibd-technical-review]]).
+- **Allopurinol** is named as a strategy for shunters; the trials of routine metabolite-guided dosing did not permit it ([[aga-2017-tdm-ibd-technical-review]]). The IBD sources give no allopurinol dose.
+- AIH has its own metabolite cut-offs and allopurinol regimen: [[autoimmune-hepatitis#Intolerance, Insufficient Response and Rescue|AIH intolerance and insufficient response]].
 
 ---
 
@@ -125,10 +107,10 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 **Adverse effects** ([[acg-2025-crohns]]): allergic reactions, pancreatitis, myelosuppression, nausea, infections, hepatotoxicity, non-melanoma skin cancer (NMSC), and lymphoproliferative disorders.
 
 - Skin-cancer and lymphoma risk rise with **ongoing use, duration of exposure, and increasing age**, and appear to **decrease after discontinuation**.
-- Hepatotoxicity: thiopurine and methotrexate liver injury is covered on [[drug-induced-liver-injury]].
-- The **malignancy risk table** (NMSC ~2×, lymphoma standardized incidence ratio (SIR) 2.8–9.2, hepatosplenic T-cell lymphoma with anti-TNF, urinary-tract and cervical risk) and the **drug-by-cancer-type stop/continue grid** live on [[ibd-in-malignancy]] — not repeated here.
-- **Skin surveillance:** annual NMSC screening on 6-MP or azathioprine, and yearly total-body skin exam **continued even after thiopurine cessation** in anyone with any history of thiopurine use — schedule and vaccination context on [[ibd-preventive-care]].
-- Thiopurines (especially combined with anti-TNF) **blunt vaccine immunogenicity**; live vaccines and the IBD vaccination schedule are on [[ibd-preventive-care]].
+- Hepatotoxicity: thiopurine liver injury is covered on [[drug-induced-liver-injury]].
+- Malignancy risk figures and the **drug-by-cancer-type stop/continue grid**: [[ibd-in-malignancy]] ([[aga-2024-ibd-malignancy]]).
+- **Skin surveillance:** **annual NMSC screening** while on 6-MP or azathioprine, particularly if older than 50 (conditional, very low; [[acg-2025-ibd-preventive-care]] Rec 10); **continue skin surveillance after stopping** thiopurines. Schedule: [[ibd-preventive-care]].
+- **Vaccines:** responses are normal on thiopurine monotherapy and lowest on an anti-TNF **combined** with a thiopurine ([[acg-2025-ibd-preventive-care]]); live-vaccine rules and schedule on [[ibd-preventive-care]].
 
 **Blood-count monitoring schedule** — the azathioprine package insert, as cited by [[aga-2017-tdm-ibd-technical-review]]:
 
@@ -138,10 +120,10 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 | Months 2 and 3 | **Twice monthly** |
 | Thereafter | **Monthly**, or more often whenever the dose or therapy changes |
 
-- ⚠ **TPMT testing does not replace this.** A significant share of thiopurine-related hematologic events occur **despite normal TPMT status**, and monitoring is obligatory for all thiopurine-treated patients regardless of the result. Real-world adherence is poor — a median of **3** counts in the first 8 weeks and **1** between weeks 9 and 26.
-- **Most leukopenia appears within 8 weeks** of starting, but it can emerge many months into therapy — monitoring does not stop being useful.
-- **In AIH:** aspartate and alanine aminotransferase, prothrombin time, fasting glucose and full blood count **weekly for the first month** on azathioprine — toxicity peaks in the first 6 weeks ([[easl-2025-autoimmune-hepatitis]]).
-- *The IBD guidelines themselves give no interval: [[acg-2025-crohns]] specifies routine white-cell and liver-chemistry monitoring only **for methotrexate**, and [[acg-2025-uc]] Rec 15 says only that monitoring for drug-related complications "is important."* The optimal frequency in IBD remains formally uncertain.
+- ⚠ **TPMT testing does not replace this.** A significant share of thiopurine-related hematologic events occur **despite normal TPMT status**; routine monitoring including CBC is done regardless of the TPMT result ([[aga-2017-tdm-ibd]]). Real-world adherence is poor — a median of **3** counts in the first 8 weeks and **1** between weeks 9 and 26 ([[aga-2017-tdm-ibd-technical-review]]).
+- **Most leukopenia appears within 8 weeks** of starting, but it can emerge many months into therapy ([[aga-2017-tdm-ibd-technical-review]]).
+- The optimal monitoring frequency in IBD is uncertain ([[aga-2017-tdm-ibd-technical-review]]); the ACG UC guideline states only that monitoring for drug-related complications is important ([[acg-2025-uc]] Key Concept 15).
+- **In AIH:** aspartate and alanine aminotransferase, prothrombin time, fasting glucose and full blood count **weekly for the first month** on azathioprine — toxicity peaks in the first 6 weeks ([[easl-2025-autoimmune-hepatitis]]); on prolonged therapy, cell counts **at least every 6 months** and yearly dermatologic skin-cancer screening with sun avoidance ([[aasld-2020-autoimmune-hepatitis]] Table 8).
 
 ---
 
@@ -150,11 +132,11 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 *Whole reproductive framework — preconception, trimester plan, delivery, infant vaccines: [[ibd-in-pregnancy]].* ([[global-consensus-2025-pregnancy-ibd]])
 
 - **Continue maintenance thiopurine** when attempting conception and throughout pregnancy — no signal for congenital malformations or infant infections (conditional, very low). **Continue thiopurine + anti-TNF combination** too (conditional, very low).
-- **Do not start or escalate a thiopurine for active disease in pregnancy** — active disease is treated with the same agents as outside pregnancy *except* thiopurines, [[methotrexate]], [[jak-inhibitors|Janus kinase (JAK) inhibitors]] and sphingosine-1-phosphate receptor modulators.
+- **Do not start or optimize a thiopurine for active disease in pregnancy** — active disease is treated with the same agents as outside pregnancy *except* thiopurines, methotrexate, [[jak-inhibitors|Janus kinase (JAK) inhibitors]] and sphingosine-1-phosphate receptor modulators.
 - **Monitoring:** check **metabolites and liver enzymes in the 2nd and 3rd trimesters** — the 6-MMP:6-TGN ratio rises in late pregnancy, risking high 6-MMP and hepatotoxicity. Shunting on those levels → trial **split dosing**.
 - **Intrahepatic cholestasis of pregnancy** is associated with thiopurines (background incidence 1.1%) and is the basis of a US Food and Drug Administration warning — the reason liver enzymes are followed.
 - **Preconception:** optimise serum drug concentrations as part of documented remission 3–6 months before conception.
-- **Allopurinol:** data are insufficient to recommend routine continuation in pregnancy, and on **allopurinol + thiopurine breastfeeding should be avoided** (little data; one report of possible harm).
+- **Allopurinol:** data are insufficient to recommend routine continuation in pregnancy, unless there is no other alternative to maintain adequate disease control; on **allopurinol + thiopurine, breastfeeding should be avoided** (little data; one report of possible harm). The AIH guideline calls allopurinol contraindicated in pregnancy ([[easl-2025-autoimmune-hepatitis]]).
 - **Breastfeeding is compatible** — relative infant dose <1%, with no difference in growth, development or infection between breastfed and non-breastfed infants.
 - In-utero thiopurine exposure carries **no increased risk of early-childhood developmental delay** (conditional, very low).
 - Thiopurine + anti-TNF was the **only** exposure linked to more serious infection in the first 5 years (adjusted hazard ratio 1.36).
@@ -164,7 +146,7 @@ The 6-TGN number alone does not tell you what to do — **pair it with 6-methylm
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[ibd-in-pregnancy]], [[autoimmune-hepatitis]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[pouchitis]], [[drug-induced-liver-injury]], [[calcineurin-inhibitors]], [[nutrition-in-ibd]], [[therapeutic-drug-monitoring-ibd]], [[anti-tnf-agents]]
+[[inflammatory-bowel-disease]], [[ibd-in-pregnancy]], [[autoimmune-hepatitis]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[pouchitis]], [[drug-induced-liver-injury]], [[calcineurin-inhibitors]], [[nutrition-in-ibd]], [[therapeutic-drug-monitoring-ibd]], [[anti-tnf-agents]], [[methotrexate]], [[mycophenolate-mofetil]]
 
 ---
 

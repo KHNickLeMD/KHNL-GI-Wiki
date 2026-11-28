@@ -3,8 +3,9 @@ title: "AGA Institute Guideline on Therapeutic Drug Monitoring in Inflammatory B
 category: source
 tags: [ibd, crohns, ulcerative-colitis, anti-tnf, infliximab, adalimumab, certolizumab, golimumab, thiopurines, tpmt, 6-tgn, therapeutic-drug-monitoring, aga, guideline]
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-11-28
 sources: []
+verified: 2026-11-28
 raw: "GI Guidelines/AGA/AGA 2017 Therapeutic Drug Monitoring in IBD.pdf"
 ---
 
@@ -26,7 +27,7 @@ The framing is that drug failure has **three possible causes**, and the trough c
 
 For **anti-TNF therapy**, the panel conditionally suggests **reactive** TDM in active IBD to guide treatment changes (very low quality), and makes **no recommendation** on **routine proactive** TDM in quiescent IBD — an explicit knowledge gap. For **thiopurines**, it suggests routine **thiopurine methyltransferase (TPMT)** testing (enzymatic activity or genotype) before starting, **reactive** thiopurine metabolite monitoring in active disease or suspected thiopurine toxicity, and **against** routine metabolite monitoring in quiescent disease.
 
-The panel also supplies practical operating detail: measure the trough **as close to the next dose as possible (within 24 hours)**; use the **same assay** for repeated trough and antibody measurements in a given patient, because antidrug-antibody reporting varies between commercial assays, there is no standardized reporting, and uniform thresholds for clinically relevant antibody titers are lacking. Optimal target troughs during **induction** are unknown — applying maintenance thresholds to induction may erroneously misclassify patients as mechanistic failures.
+The panel also supplies practical operating detail: measure an **infliximab or adalimumab** trough **as close to the next dose as possible (within 24 hours)**; use the **same assay** for repeated trough and antibody measurements in a given patient, because antidrug-antibody reporting varies between commercial assays, there is no standardized reporting, and uniform thresholds for clinically relevant antibody titers are lacking. Optimal target troughs during **induction** are unknown — applying maintenance thresholds to induction may erroneously misclassify patients as mechanistic failures; during induction, **empiric dose escalation may be a reasonable alternative unless immune-mediated pharmacokinetic failure is suspected**. The Table 4 troughs are **not uniform targets for all patients regardless of clinical status**, and the supporting data are less robust for adalimumab than for infliximab.
 
 ---
 
@@ -66,7 +67,7 @@ Table 4 footnote: the studies deriving these targets were **cross-sectional** st
 **Evidence behind no recommendation on proactive anti-TNF TDM (Rec 2):**
 - No RCTs and no comparative observational studies compared a priori proactive TDM for achieving remission; only indirect evidence was available.
 - **TAXIT** (Vande Casteele et al.): all patients were first dose-optimized to an infliximab trough of **3–7 µg/mL**, then randomized to proactive TDM vs no TDM. Uniform dose optimization raised clinical remission from **65% pre-optimization to 88% post-optimization**. After optimization, remission at 1 year did **not** differ with routine proactive TDM (**RR 1.04; 95% CI 0.88–1.24**). At 1 year, patients not receiving proactive TDM had higher rates of antidrug antibodies and undetectable infliximab troughs.
-- Vaughn et al. (single-center retrospective): proactive TDM before each infliximab infusion was associated with less infliximab discontinuation and fewer disease flares or infusion reactions — very low quality, significant selection bias.
+- Vaughn et al. (single-center retrospective): patients with proactive TDM before each infliximab infusion were less likely to discontinue infliximab because of disease flares or infusion reactions — very low quality, significant selection bias.
 - Post hoc analyses of induction trials show an exposure–response relationship: **higher troughs between weeks 4 and 14** were more likely to achieve remission.
 - Potential harms of routine proactive TDM: therapeutic dilemmas and **premature switching in patients who are in remission**, driven by unclear target troughs in asymptomatic patients and unclear significance of low-titer antidrug antibodies; cost; unclear required testing frequency.
 
@@ -89,7 +90,7 @@ Table 4 footnote: the studies deriving these targets were **cross-sectional** st
 - These studies did not include patients on combination therapy with an anti-TNF, permitted only thiopurine dose escalation in patients with 6-TGN <230 pmol/8 × 10⁸ RBCs, and did not permit alternative strategies such as adding allopurinol — so they cannot be extrapolated to thiopurines used with an anti-TNF.
 
 **Assay and timing detail:**
-- Draw the trough **as close to the next dose as possible (i.e., within 24 hours)**.
+- Draw an infliximab or adalimumab trough **as close to the next dose as possible (i.e., within 24 hours)**.
 - Quantitative infliximab concentrations from different assays were within **−7% to +20%** of each other; comparison of an enzyme-linked immunosorbent assay (ELISA) and a homogeneous mobility shift assay for adalimumab showed considerable inter-assay variability.
 - **Use the same assay** for repeated trough and antidrug-antibody measurements in a patient.
 - Antidrug-antibody reporting is variable between commercial assays with no standardized reporting, and **uniform thresholds for clinically relevant titers are lacking**; current data do not identify optimal high- vs low-titer antibody cutoffs in commercially available assays.

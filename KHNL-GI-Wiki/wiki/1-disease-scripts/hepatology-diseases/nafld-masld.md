@@ -164,9 +164,9 @@ Cornerstone at every stage, with or without drugs ([[aasld-2025-semaglutide-mash
 
 | Loss | Effect |
 |---|---|
-| **3–5%** / **≥5%** | ↓ Steatosis |
-| **7–10%** / **≥7%** | NASH improvement / resolution |
-| **>10%** / **≥10%** | Fibrosis regression or stability — **10% TBW = AGA goal** if overweight/obese |
+| **3–5%** (AASLD) / **≥5%** (AGA) | ↓ Steatosis |
+| **≥7%** (AGA) | NASH resolution |
+| **>10%** (AASLD) / **≥10%** (AGA) | AASLD: generally required to improve NASH and fibrosis · AGA: fibrosis regression or stability — **10% TBW = AGA goal** if overweight/obese |
 
 - Fibrosis moves only at the top — 9.3% mean loss improved activity but **not fibrosis** ([[aga-2021-lifestyle-modification-nafld]]). Lean target 3%–5% ([[lean-nafld]]).
 
@@ -228,7 +228,7 @@ All [[aasld-2023-nafld]]:
 
 ### Bariatric / Metabolic Surgery and Endoscopic Interventions
 
-- [[bariatric-surgery|Bariatric surgery]] resolves NASH without worsening fibrosis in ~80% at 1 y — consider in eligible non-cirrhotic patients (GS 22). **Decompensated cirrhosis = absolute contraindication**; compensated cirrhosis only at high-volume centers or with liver transplant (LT) ([[aasld-2023-nafld]]). Cirrhosis candidacy by stage and clinically significant portal hypertension (CSPH) on that page ([[baveno-viii-2026-portal-hypertension]]).
+- [[bariatric-surgery|Bariatric surgery]] resolves NASH without worsening fibrosis in ~80% at 1 y — consider in eligible non-cirrhotic patients (GS 22). Compensated NASH cirrhosis: not a primary therapy but seems safe in carefully selected patients (multidisciplinary benefit–risk assessment incl. a hepatologist); decompensated cirrhosis or clinically significant portal hypertension (CSPH): only at high-volume centers, e.g., combined with liver transplant (LT) or in a research protocol; **decompensated cirrhosis = absolute contraindication** unless performed with LT at experienced centers ([[aasld-2023-nafld]]). Cirrhosis candidacy by stage and clinically significant portal hypertension (CSPH) on that page ([[baveno-viii-2026-portal-hypertension]]).
 - [[endoscopic-sleeve-gastroplasty|Endoscopic sleeve gastroplasty]], [[intragastric-balloon|intragastric balloon]] — emerging options ([[aasld-2023-nafld]]).
 
 ### Liver Transplantation and Post-Transplant MASLD

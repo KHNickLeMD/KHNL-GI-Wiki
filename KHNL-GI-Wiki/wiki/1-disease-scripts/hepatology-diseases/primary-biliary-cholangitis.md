@@ -80,7 +80,7 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") — chro
 - **Inadequate response** (used in most studies) = failure to reach **ALP <1.5–1.67× ULN with normal total bilirubin at 12 months**. **ALP normalization is the ideal goal** where attainable — particularly with LSM ≥10 kPa.
 - ALP 1.0–1.5× ULN or bilirubin 0.6–1× ULN: limited evidence to start a second-line agent; favor **risk-based** (LSM, age) over threshold-based decisions.
 - Trial endpoints (EASL–AASLD 2026 Recommendation 1.1.1, Strong, level of evidence 2): **complete response = normal ALP + normal total bilirubin**; adequate = ALP <1.5–1.67× ULN + normal total bilirubin ([[easl-aasld-2026-pbc-surrogate-endpoints]]).
-- Older rule: assess after 1 year (2018 Guidance Statement 7) by any one binary criterion (Rochester, Barcelona, Paris, Rotterdam, Toronto, Global — cut-points on [[ursodeoxycholic-acid#Biochemical Response to UDCA (Assessed at 12 Months)|ursodeoxycholic acid]]); up to 40% respond inadequately ([[aasld-2018-pbc]]).
+- Older rule: assess after 1 year (2018 Guidance Statement 7) by any one binary criterion (Rochester, Barcelona, Paris, Rotterdam, Toronto, Global — cut-points on [[ursodeoxycholic-acid#Biochemical Response to UDCA|ursodeoxycholic acid]]); up to 40% respond inadequately ([[aasld-2018-pbc]]).
 
 ### PBC-AIH Variant
 
