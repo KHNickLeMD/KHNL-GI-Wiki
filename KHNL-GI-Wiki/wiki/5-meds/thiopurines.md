@@ -4,6 +4,8 @@ category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
 updated: 2026-11-28
+quality_reviewed: 2026-11-28
+verified: 2026-11-28
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2017-tdm-ibd, aga-2017-tdm-ibd-technical-review, easl-2025-autoimmune-hepatitis, global-consensus-2025-pregnancy-ibd, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -56,7 +58,7 @@ Purine-antimetabolite **immunomodulators**: **azathioprine (AZA)** and **6-merca
 | Heterozygous / intermediate | **50% dose reduction** |
 | Homozygous / low or absent | **Avoid**, or start at **0–10%** of the standard dose |
 
-- Myelosuppression odds vs wild-type: **4.3** heterozygous, **20.8** homozygous; roughly 4%–11% of people are heterozygous and ~0.3% homozygous ([[aga-2017-tdm-ibd-technical-review]]).
+- Odds of thiopurine-induced leukopenia vs wild-type: **4.3** heterozygous, **20.8** homozygous; roughly 4%–11% of people are heterozygous and ~0.3% homozygous ([[aga-2017-tdm-ibd-technical-review]]).
 - A **blood transfusion in the preceding 3 months** can make TPMT phenotyping unreliable ([[aga-2017-tdm-ibd-technical-review]]).
 - **NUDT15 (nudix hydrolase 15) variants** also impair thiopurine metabolism and raise drug-related toxicity, **particularly in people of East Asian, Latino, and Native American ancestry**. Testing **should be considered if available** ([[acg-2025-crohns]]) — a weaker instruction than the TPMT recommendation.
 - Both sit inside [[acg-2025-crohns]] Key Concept 22: HLA-DQA1\*05, HLA-DRB1\*03, NUDT15 and TPMT "can affect individual treatment response and identify potential risks for adverse effects… should be measured in **select patients**."
@@ -97,7 +99,7 @@ Pair it with **6-methylmercaptopurine (6-MMP)** — the five patterns of the rea
 
 - ⚠ **The 230 threshold discriminates only moderately** — sensitivity 63%, specificity 53% across 17 studies (2,052 patients). **34% of patients with active disease sit above it and 50% of those in remission sit below it** ([[aga-2017-tdm-ibd-technical-review]]).
 - **With an anti-TNF:** whether the optimal 6-TGN cutoff differs from monotherapy (where the main goal may be lower immunogenicity) is **unclear**. One cross-sectional study linked **6-TGN >125 pmol/8×10⁸ RBCs** to high anti-TNF levels and mucosal healing; another found no correlation between 6-TGN and anti-TNF levels ([[aga-2017-tdm-ibd-technical-review]]).
-- **Allopurinol** is named as a strategy for shunters; the trials of routine metabolite-guided dosing did not permit it ([[aga-2017-tdm-ibd-technical-review]]). The IBD sources give no allopurinol dose.
+- **Allopurinol** is named as a strategy for shunters; the trials of routine metabolite-guided dosing did not permit it ([[aga-2017-tdm-ibd-technical-review]]). Low-dose allopurinol (50–100 mg/d) is used with reduced-dose azathioprine or mercaptopurine ([[global-consensus-2025-pregnancy-ibd]]).
 - AIH has its own metabolite cut-offs and allopurinol regimen: [[autoimmune-hepatitis#Intolerance, Insufficient Response and Rescue|AIH intolerance and insufficient response]].
 
 ---
@@ -120,7 +122,7 @@ Pair it with **6-methylmercaptopurine (6-MMP)** — the five patterns of the rea
 | Months 2 and 3 | **Twice monthly** |
 | Thereafter | **Monthly**, or more often whenever the dose or therapy changes |
 
-- ⚠ **TPMT testing does not replace this.** A significant share of thiopurine-related hematologic events occur **despite normal TPMT status**; routine monitoring including CBC is done regardless of the TPMT result ([[aga-2017-tdm-ibd]]). Real-world adherence is poor — a median of **3** counts in the first 8 weeks and **1** between weeks 9 and 26 ([[aga-2017-tdm-ibd-technical-review]]).
+- ⚠ **TPMT testing does not replace this.** A significant share of thiopurine-related hematologic events occur **despite normal TPMT status**; so TPMT testing cannot substitute for routine CBC monitoring ([[aga-2017-tdm-ibd-technical-review]]); routine monitoring including CBC is done regardless of the TPMT result ([[aga-2017-tdm-ibd]]). Real-world adherence is poor — a median of **3** counts in the first 8 weeks and **1** between weeks 9 and 26 ([[aga-2017-tdm-ibd-technical-review]]).
 - **Most leukopenia appears within 8 weeks** of starting, but it can emerge many months into therapy ([[aga-2017-tdm-ibd-technical-review]]).
 - The optimal monitoring frequency in IBD is uncertain ([[aga-2017-tdm-ibd-technical-review]]); the ACG UC guideline states only that monitoring for drug-related complications is important ([[acg-2025-uc]] Key Concept 15).
 - **In AIH:** aspartate and alanine aminotransferase, prothrombin time, fasting glucose and full blood count **weekly for the first month** on azathioprine — toxicity peaks in the first 6 weeks ([[easl-2025-autoimmune-hepatitis]]); on prolonged therapy, cell counts **at least every 6 months** and yearly dermatologic skin-cancer screening with sun avoidance ([[aasld-2020-autoimmune-hepatitis]] Table 8).
