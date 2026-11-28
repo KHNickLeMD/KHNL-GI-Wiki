@@ -6,6 +6,38 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-28] update | Card pass — dedup, re-card stale verified pages, card quality review ($10)
+
+**Dedup (`anki-dupes.mjs`, 5 pairs):**
+
+- Merged: acute-diarrhea [ad9021] absorbs clostridioides-difficile [cd1050] and postinfectious-ibs [7b6001] (IDSA Rec 13 traveler's-diarrhea workup, now 3 clozes with `{also:}` both pages); laryngopharyngeal-symptoms [1a1004] absorbs extraesophageal-reflux [e82007] (AGA 2023 empiric PPI trial).
+- Distinct: anal-fistula [afa003] vs [afa005]; extraesophageal-reflux [e82007] vs proton-pump-inhibitors [3654e5].
+
+**Pages carded (stale card files on newly verified pages; every note correlated, `page_updated` → 2026-11-28):**
+
+- `5-meds/ursodeoxycholic-acid` 8 → 11: [d2c001] Back Extra dropped an AASLD 2021 fetal-risk dispute no longer on the page; [d2c005] PSC continue-rule and "Mayo PSC Risk Score" wording fixed; added [d2c009] keep UDCA / no dose >15 mg/kg in PBC inadequate response, [d2c00a] sequestrant spacing, [d2c00b] recurrent PSC after LT.
+- `7-concepts/colonoscopy-surveillance` 12 → 14: added [c5800d] serrated lesions → 3 y, [c5800e] AGA 2026 older-adult surveillance by polyp history, [c5800f] no stool tests for surveillance, [c58010] isolated ileal Crohn's carve-out; retired [c5800b] [c5800c] (outcome rates).
+- `2-diagnostic-schemas/upper-gi-bleeding` 20 → 20: [e7010c] front misstated the timing RCT arms (now <6 h vs 6–24 h); [e7010f] adherent clot now "no recommendation for or against endoscopic therapy" (was "high-dose PPI alone"); [e7010d] "anecdotal experience" not expert opinion; [e70102]/[e70103] re-sourced to acg-2023-lgib; Back Extra fixes [e70104] [e70107] [e70108] [e7010b]; retired [e70101] (merged into acute-lower-gi-bleeding [ef0011]) and orphans [e70114] CTA, [e70116] 2 g/dL drop, [e70117] aortoenteric fistula (no longer on the page); added [e7011a] erythromycin 250 mg IV, [e7011b] intubation, [e7011c] octreotide/antibiotics in NVUGIB, [e7011d] post-EGD discharge findings.
+- `5-meds/thiopurines` 11 → 11: retired [5f2008] [5f2009] [5f200b] — AIH dosing/metabolite cut-offs moved to `autoimmune-hepatitis`, which has no `verified:` yet; re-card there once verified. Added [5f200c] TPMT-based starting dose, [5f200d] transfusion invalidates TPMT phenotype, [5f200e] methotrexate as combination partner.
+- `4-advanced-gi-procedures/.../capsule-endoscopy` 8 → 9: added [ca5009] CTE before capsule (ACG 2015 Rec 14).
+- `1-disease-scripts/.../gallbladder-polyps` 9 → 10: fixed 5 length-cap violations; added [6b10a1] SRU rules do not apply in PSC.
+- Skipped as not cardable (standing): peginterferon-alfa-2a, li-rads-treatment-response. No other verified page eligible.
+
+**Card quality review (`review-queue.py --cards 10`, `cards_reviewed` → 2026-11-28):**
+
+- hiv-aids-related-diarrhea 6 → 8: [0a0002] recut to the ASGE sequence (either scope first); added [0a0007] empiric antibacterials in the immunocompromised, [0a0008] O&P misses Cryptosporidium/Cyclospora.
+- albumin 6 → 6: [ab2001] front states >5 L.
+- botulinum-toxin 6 → 6, toxic-megacolon 5 → 5, fammm-syndrome 5 → 5, abnormal-liver-tests-after-liver-transplant 5 → 5, zenkers-diverticulum 4 → 4, acute-mesenteric-ischemia 4 → 4: no change needed.
+- direct-acting-antivirals 6 → 7: [da1101] Back Extra trimmed to page facts; added [da1109] HBV management by serology before DAAs.
+- anal-fistula 5 → 7: retired [afa003] (incontinence rate); added [afa006] LIFT / plug-glue, [afa007] draining seton, [afa008] imaging indications.
+- extraesophageal-reflux 5 → 5 active: [e82001] Back Extra rewritten to page wording.
+- hereditary-mixed-polyposis-syndrome 4 → 4: [b9e002] recut (interval-unknown stance → Back Extra; FAP-like management now tested).
+- Also set `cards_reviewed` on the six re-carded files above.
+
+**Build:** 4,946 notes; no problems on any touched file. Remaining build problems are pre-existing broken `at:` anchors (abnormal-liver-chemistries, liver-disease-in-pregnancy, probiotics, nutrition-in-hospitalized-patients) plus one bullet-length cap on nutrition-in-hospitalized-patients [ab5010], and the stale-card backlog. The thiopurines [5f200b] broken anchor is gone with its retirement.
+
+---
+
 ## [2026-11-28] lint | Quality review — release sweep, run 2 ($40)
 
 **Scope:** Quality review step only (no ingest, no new pages). Queue from `review-queue.py --pages 10`; one subagent per page; unverified source pages verified first. Start: 267/377 pages quality-reviewed, 125/377 verified; source pages 279/492 verified. **End: 273/377 quality-reviewed, 130/377 verified; source pages 286/492 verified.** 6 pages finished (gallbladder-polyps, upper-gi-bleeding, colonoscopy-surveillance, capsule-endoscopy, ursodeoxycholic-acid, thiopurines); budget cap reached before the next page. Subagents had no Bash again (PDFs read as rendered pages); no figures captured. Card files edited in place (page_updated left unbumped so they requeue).
