@@ -6,6 +6,30 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-11-28] lint | Lint pass — ingest by budget ($25)
+
+**Start state:** `git pull` up to date; working tree clean — no untracked files under `raw/` (nothing to commit from the inbox); no source page carries `ingest: partial`.
+
+**Backlog audit:** 29 non-lecture `raw/` files are named in no source-page `raw:` line. 7 are the known co-published USMSTF twins (AGA-folder 2020 follow-up / endoscopic removal / malignant polyps, 2022 start–stop age; ASGE-folder 2016 CRC-resection surveillance, 2017 FIT, 2025 bowel prep) — not backlog. NCCN ×3 skipped (EULA); IANS 2024 file has no text layer. 18 non-US guideline/consensus files remain.
+
+**Pick:** `WEO 2025 ERCP Biliary Cannulation and Sphincterotomy (Crino).pdf` (~17,400 words) — non-US, so gap-fill only; chosen because [[ercp]] has no `## Technique` section and no US guideline on file covers cannulation/sphincterotomy technique.
+
+**Daily source fetch:** not run (not the 06:00 pass).
+
+**`[[weo-2025-ercp-cannulation-sphincterotomy]]` — new source (Crinò SF, Aabakken L, Bapaye A, et al. World Endoscopy Organization guidelines on ERCP biliary cannulation and sphincterotomy techniques. Dig Endosc 2025;37:1029–1053; doi:10.1111/den.15060). No Creative Commons licence (Wiley boilerplate only) → no figure screenshots.**
+- *Extract* (fresh agent; whole file, Tables 1–2 and Figures 2–3 rendered): all **24** statements (Statement 1–24 under CQ 1–14) with GRADE strength/certainty and votes as printed (6 strong); definitions table (difficult cannulation, PEP, EPSBD/EPLBD, sphincterotomy size, duodenal stricture types 1–3); Figure 2 (PEP by phase) and Figure 3 (difficult-cannulation algorithm, image-only) transcribed; 8 internal inconsistencies surfaced (e.g. Statement 9 ≥48 h vs Figure 3 "2–3 days"; Statement 2 "immediately after" vs Figure 2 "during"; rendezvous strong vs "equally").
+- *Gate:* ABSENT 6 (Figure 3 "2–3 days" image-only ×2, confirmed on rendered page; ASGE 2023 "3–7 cm"/"2–4 weeks" on comparison lines, confirmed in that PDF; two WEO grades on lines that link US pages) · OTHER 0 · NOMATCH 4 (labelling/comparison lines) · SIGN 16 all read off rendered pages.
+- *Verify* (fresh agent, ~210 claims; 24/24 statements): 0 management, 1 minor — ASGE 2024 Rec 4 comparison overstated as "all non-bypass altered anatomy" (it covers biliary obstruction after hepaticojejunostomy, pancreaticoduodenectomy or Billroth II) → fixed. `verified: 2026-11-28`. Same overstatement fixed on [[ercp]] (Billroth II sub-bullet).
+- *Contradictions surfaced (US governs):* difficult-cannulation time 10 min (WEO) vs 5 min (ASGE 2026); hydration restricted to inpatients without NSAIDs vs unselected (ASGE 2023); wire-guided cannulation strong vs conditional; PD stent only after PD access already achieved vs ASGE Rec 4b; stent 3–5 cm / ≤14 days vs 3–7 cm / 2–4 weeks; RYGB LA-ERCP over E-ERCP vs ASGE 2024 EDGE first; Billroth II standard scopes vs ASGE 2024 E-ERCP first.
+- *Propagated to [[ercp]]:* new `## Technique` (page had none) — `### Cannulation` (ASGE 2026 difficult-cannulation definition with WEO's 10-min version noted; Figure 3 redrawn as a role-class flowchart, 10 boxes, 4-line caption; Statements 6–11, 18; BSG access-papillotomy bullet moved in), `### Sphincterotomy` (AGA 2026 energy bullet moved in; mixed current; size landmarks; pitfall callout on the biliary bulge; no routine sphincterotomy before malignant stenting), `### Papillary Balloon Dilation` (BSG EPBD table moved in + WEO Statements 14–16). Key Concepts: WEO Billroth II technique detail, RYGB and duodenal-obstruction lines as non-US contrasts. **NSAID + PD stent line updated** — "unresolved, trials underpowered" (ASGE 2023) → the 20-centre RCT reported in [[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026]] (indomethacin + stent beat indomethacin alone, PEP cut >30%). **Source-priority fix:** the ESGE 2026 non-bypass-anatomy bullet said ESGE "governs" (newer) — reframed as ASGE 2024 governs (US over non-US). Abbreviation order repaired (PD, EPLBD, EUS-CDS/HGS first uses moved). Gate: no new real flags (3 ABSENT / 2 OTHER = WEO grades or BSG values on lines that also cite other sources). Changed-line check (fresh agent, ~62 claims; flowchart matched Figure 3 box by box): **1 management** — duodenal-obstruction bullet said no US document covers access and offered EUS or percutaneous equally; ASGE 2024 Rec 1 counts an unreachable papilla as failed ERCP and suggests EUS-BD over PTBD (EUS-HGS when duodenal involvement/enteral stent blocks CDS) → rewritten with ASGE governing (confirmed in the raw PDF pp. 3–4); 1 minor — callout "never" overstated a conditional statement → fixed. Page carries no `verified:`.
+- *Left for the [[ercp]] quality review:* the "Failed ERCP in native anatomy" bullet and its sub-bullet still lead with ESGE 2026 and say ESGE "governs" over ASGE 2024 — ASGE 2024 Rec 1 itself favours EUS-BD over PTBD after failed ERCP, so the claimed "reversal" needs re-reading against both raw files; the same ESGE-governs framing likely sits on [[eus-guided-biliary-drainage]].
+- *Not propagated (deliberate):* PEP prophylaxis statements (ASGE 2023 governs and already on [[ercp]]); PD-stent spec (US spec stands); [[electrosurgery]] (mixed current now on [[ercp]], linked).
+- `index.md`: source row added (Sources → Other); [[ercp]] row rewritten (13 → 24 sources, actual frontmatter count; dropped the stale "trials underpowered" claim).
+- *Cards:* none — [[ercp]] is unverified.
+- `ingest: partial` removed.
+
+---
+
 ## [2026-11-27] lint | Quality review — release sweep, second run ($40)
 
 **Scope:** Quality review step only (no ingest, no new pages). Continues from the earlier run today: [[upper-endoscopy]] first (all sources already verified), then pages with a single unverified source page ([[gastric-polyps]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-pain-management]]). NCCN-sourced [[gallbladder-cancer]] / [[somatostatin-analogs]] and [[ercp]] still skipped for the reasons given in the entry below.

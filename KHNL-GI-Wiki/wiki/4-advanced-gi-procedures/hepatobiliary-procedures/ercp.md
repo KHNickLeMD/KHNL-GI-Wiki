@@ -3,14 +3,18 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-11-17
-sources: [acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stones, esge-2021-ampullary-tumors, asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, stapfer-2000-duodenal-perforation-ercp, asge-2026-ercp-adverse-events, esge-2026-biliary-strictures, rome-v-2026-gallbladder-sphincter-of-oddi]
+updated: 2026-11-28
+sources: [weo-2025-ercp-cannulation-sphincterotomy, acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stones, esge-2021-ampullary-tumors, asge-2023-ergonomics, asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management, aga-2016-infection-ercp-endoscopes, aga-2017-mstf-endoscope-reprocessing-commentary, stapfer-2000-duodenal-perforation-ercp, asge-2026-ercp-adverse-events, esge-2026-biliary-strictures, rome-v-2026-gallbladder-sphincter-of-oddi]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined endoscopic ultrasound (EUS) + endoscopic retrograde cholangiopancreatography (ERCP) approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
 
 ## Contents
 - [[#Indications]]
+- [[#Technique]]
+  - [[#Cannulation]]
+  - [[#Sphincterotomy]]
+  - [[#Papillary Balloon Dilation]]
 - [[#Key Concepts]]
 - [[#Complications]]
 - [[#ERCP in Pregnancy]]
@@ -55,9 +59,58 @@ sources: [acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stone
 
 ---
 
-## Key Concepts
+## Technique
 
-- **Difficult stones:** mechanical lithotripsy; **endoscopic papillary large-balloon dilation (EPLBD, ≥12 mm) + sphincterotomy** for large/difficult choledocholithiasis (high clearance, low ~2.3% PEP); peroral [[cholangioscopy]] with electrohydraulic or laser lithotripsy clears 83–100% of difficult extrahepatic stones [[asge-2015-ercp-benign-biliary]]. *The two tier-1 definitions of a "difficult" stone — and what follows each — are on [[cholangioscopy]].*
+*Wire-guided primary cannulation and the rest of PEP prophylaxis: [[#Complications]]. [[weo-2025-ercp-cannulation-sphincterotomy|World Endoscopy Organization (WEO) 2025]] is a non-US guideline — used here only where the US documents are silent.*
+
+### Cannulation
+
+- **Difficult cannulation** — most commonly defined as **>5 papillary engagements, >5 minutes cannulating, >1 inadvertent pancreatic cannulation, and/or pancreatic contrast opacification** ([[asge-2026-ercp-adverse-events|ASGE 2026]]). WEO 2025 uses **>10 min** after the papilla is visualized, **>5 attempts**, or **≥2** unintended pancreatic duct (PD) cannulations/opacification; ASGE 2026 governs.
+
+```mermaid
+flowchart TD
+    A(["Difficult biliary cannulation<br/>(guidewire-assisted)"]) --> B["≥2 unintentional PD cannulations?"]
+    B -- "Yes" --> C["Pancreatic guidewire-assisted techniques"]
+    C -- "Biliary cannulation achieved" --> D(["PD stent"])
+    C -- "Biliary cannulation failed" --> E["PD stent"]
+    E --> P["Precut"]
+    B -- "No" --> P
+    B -- "No (or)" --> H["Attempt PD cannulation"]
+    H -- "Achieved" --> C
+    H -- "Not achieved" --> P
+    P -- "Biliary cannulation failed" --> U["Urgent drainage required?"]
+    U -- "No" --> R(["Repeat ERCP after 2–3 days"])
+    U -- "Yes" --> S(["Percutaneous or EUS-guided rendezvous"])
+    class A start
+    class B,C,E,P,H,U test
+    class D,R,S act
+```
+*Difficult biliary cannulation*
+*Source: redrawn from WEO 2025 Figure 3*
+*[[weo-2025-ercp-cannulation-sphincterotomy|WEO 2025 ERCP Biliary Cannulation and Sphincterotomy Guideline]]*
+*PD = pancreatic duct · ERCP = endoscopic retrograde cholangiopancreatography · EUS = endoscopic ultrasound*
+
+- **Repeated unintentional PD entry** (more than once, deep guidewire access) → **transpancreatic sphincterotomy (TPS) or double-guidewire (DGW) technique**, then a **PD stent** after biliary cannulation (WEO Statement 6, conditional, low) — no clear evidence to prefer either. Both fail with a wire in the PD → **PD stent, then precut over the stent** (Statement 7, conditional, very low).
+- **Difficult cannulation without PD entry** → precut, or an **intentional PD cannulation attempt** for pancreatic guidewire-assisted techniques, ± PD stent (Statement 8, conditional, low). **Early precut — especially fistulotomy — carries less PEP than persisting** with standard attempts; keep the PD-cannulation attempt for when precut/fistulotomy looks challenging (higher PEP than fistulotomy). Choose by papillary anatomy, operator experience and indication.
+- **Access papillotomy** (formerly precut / needle-knife): the old restriction to experts has been replaced — **every endoscopist who performs ERCP is expected to recognise when it is indicated and perform it safely**, acquired during training and mentorship. ([[bsg-2017-common-bile-duct-stones]])
+- **After failed cannulation, if the patient can wait** → **repeat ERCP at a high-volume center ≥48 h later** (Statement 9, conditional, very low; Figure 3 prints 2–3 days). Pooled success **79%**; the orifice is easier to find after an index precut or TPS. **Urgent drainage** → **percutaneous rendezvous** (Statement 10, conditional, very low) or **EUS-guided rendezvous** (Statement 11, strong, moderate), by available expertise. Drainage routes beyond rendezvous: *Failed ERCP in native anatomy* under [[#Key Concepts]].
+- **Periampullary diverticulum** → cannulate and cut **in the usual manner** (Statement 18, conditional, moderate). Cannulation success is lower with an intradiverticular papilla; be **prudent with free-hand precut** (bleeding, perforation).
+
+### Sphincterotomy
+
+- **Energy delivery — PEP risk is primarily *technique*-related, not energy-setting-related** ([[aga-2026-electrosurgery]] BPA 12). Keep wire–tissue contact small and the wire **unburied, applied to the surface with minimal tension**, for high current density and minimal collateral thermal injury. Settings by manufacturer and the physics: **[[electrosurgery#ERCP Sphincterotomy]]**.
+- **Current:** WEO **recommends mixed (blended or alternating) current** (Statement 12, strong, high) — pure cut gives comparable PEP but more (mild) bleeding; no basis to prefer blended over alternating.
+- **Size** — individualized to the patient and the endoscopist's experience (Statement 13, conditional, very low):
+  - **Minimal** (just enough for a stent) for obstruction from ampullary cancer; **as large as the stone** for a large stone.
+  - Extending a previous sphincterotomy to the level of the **first duodenal fold** can be done safely if needed.
+
+> [!pitfall] Stop the cut at the top of the biliary bulge
+> Individualize the size, but do not exceed the upper margin of the intraluminal biliary bulge (Statement 13, conditional) — cutting past the superior margin of the ampulla raises perforation risk. If a large cut is unsafe, make a **small sphincterotomy and add balloon dilation** ([[weo-2025-ercp-cannulation-sphincterotomy|WEO 2025]]).
+
+- **No routine sphincterotomy before stenting malignant biliary obstruction** (Statement 17, conditional, high) — it adds bleeding, with no difference in stent insertion success, migration, occlusion or perforation. WEO leaves open whether it changes PEP with an FCSEMS across the papilla; for *benign* strictures [[esge-2026-biliary-strictures|ESGE 2026]] makes it part of the stent protocol ([[#Key Concepts]]).
+
+### Papillary Balloon Dilation
+
 - **Endoscopic papillary balloon dilation (EPBD) — the rules differ entirely depending on whether a sphincterotomy was made first** ([[bsg-2017-common-bile-duct-stones|BSG 2017]]):
 
 | | **After sphincterotomy** (for large stones) | **Without prior sphincterotomy** |
@@ -67,7 +120,13 @@ sources: [acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stone
 | **Balloon** | Usually **>10 mm** — but **never beyond the diameter of the duct above the sphincter**, and **caution beyond 18 mm** | **8 mm, regardless of CBD diameter**. Dilation lasting **>1 min up to 5 min** is reported as the safest technique |
 | **Caveat** | — | ⚠ **Higher PEP risk**, which is why it is not the default. Contraindicated with biliary stricture or malignancy, previous biliary surgery other than cholecystectomy, cholangitis, pancreatitis, prior access papillotomy, and **large stones (usually defined as >12 mm)**. Published success rates **include patients who crossed over to rescue sphincterotomy** |
 
-- **Access papillotomy** (formerly precut / needle-knife): the old restriction to experts has been replaced — **every endoscopist who performs ERCP is expected to recognise when it is indicated and perform it safely**, acquired during training and mentorship. ([[bsg-2017-common-bile-duct-stones]])
+- **WEO 2025 adds** (Statements 14–16, all conditional): **small-balloon dilation (EPSBD, typically ≤10 mm) only when sphincterotomy is contraindicated by a bleeding tendency** — not an alternative for small-to-medium stones (less clearance, more PEP) — dilating **>1 to ≤5 min** (≤1 min → higher PEP). **Endoscopic papillary large-balloon dilation (EPLBD) + a small sphincterotomy** for large or difficult CBD stones in a duct **≥12 mm**, balloon **no wider than the distal bile duct** ([[weo-2025-ercp-cannulation-sphincterotomy]]).
+
+---
+
+## Key Concepts
+
+- **Difficult stones:** mechanical lithotripsy; **EPLBD (≥12 mm) + sphincterotomy** for large/difficult choledocholithiasis (high clearance, low ~2.3% PEP); peroral [[cholangioscopy]] with electrohydraulic or laser lithotripsy clears 83–100% of difficult extrahepatic stones [[asge-2015-ercp-benign-biliary]]. *The two tier-1 definitions of a "difficult" stone — and what follows each — are on [[cholangioscopy]].*
 - **Before a sphincterotomy for stones: full blood count and international normalised ratio or prothrombin time.** ⚠ **The level at which clotting abnormality becomes an absolute contraindication cannot be stated from the evidence** — so correct what is correctable (including severe thrombocytopenia), and if it cannot be corrected, **start with a lower-bleeding-risk procedure such as stenting** rather than cutting. ([[bsg-2017-common-bile-duct-stones]]) Drug-by-drug periprocedural management: [[anticoagulation-gi-bleeding]].
 - **Antibiotic prophylaxis is not routine** — absent a specific sepsis risk factor (sclerosing cholangitis, communicating pancreatic cysts, hilar strictures, liver transplantation, **cholangioscopy**, or **a failed attempt to drain an opacified duct**), it can safely be avoided. ([[bsg-2017-common-bile-duct-stones]]) [[esge-2026-biliary-strictures|ESGE 2026]] names the same triggers in its own terms — **predicted incomplete biliary drainage, hilar stricture management, [[primary-sclerosing-cholangitis|PSC]], cholangioscopy** — and adds **immunocompromised patients**; it defers the regimens to the ESGE ERCP adverse-events guideline.
 - **Keep a stent registry and recall patients for stent removal or exchange**, especially for benign strictures — a forgotten stent can be extremely difficult to remove, and scheduled exchange reduces septic complications ([[esge-2026-biliary-strictures]]).
@@ -82,22 +141,24 @@ sources: [acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stone
 | **[[bariatric-surgery\|Roux-en-Y gastric bypass]]** | **EDGE** (EUS-directed transgastric ERCP) over enteroscopy-assisted (E-ERCP) or laparoscopy-assisted (LA-ERCP) ERCP — *low quality* | EDGE especially preferred for a suspected ampullary lesion, malignant disease, or when repeat ERCP is expected. **LA-ERCP may be preferred if surgery (e.g. cholecystectomy) is needed in the near future** |
 | **Non–gastric-bypass altered anatomy** — Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, Billroth II | **E-ERCP as the initial approach** — *very low quality* | If unsuccessful → **[[eus-guided-biliary-drainage\|EUS-guided biliary drainage (EUS-BD)]] or percutaneous biliary drainage**. **Review the operative report for Roux-limb length** before starting |
 
-- ⚠ **[[esge-2026-biliary-strictures|ESGE 2026]] splits the non-bypass row by *etiology* and governs it** (newer tier-1): E-ERCP (or EDGE after gastric bypass) stays first-line for a **benign** stricture, while a **malignant** stricture moves to **EUS-BD first-line, PTBD second**. **Billroth II is its own case — conventional ERCP with a front- or side-viewing endoscope can be considered first**, with EUS-assisted or EUS-guided techniques when ERCP is unsuccessful, by local expertise (conditional, **moderate** quality). *The full reconstruction × etiology table: [[eus-guided-biliary-drainage]].*
+- ⚠ **[[esge-2026-biliary-strictures|ESGE 2026]] (non-US) splits the non-bypass row by *etiology*** — ASGE 2024 governs (US over non-US); the split is carried as a contradiction: E-ERCP (or EDGE after gastric bypass) stays first-line for a **benign** stricture, while a **malignant** stricture moves to **EUS-BD first-line, PTBD second**. **Billroth II is its own case — conventional ERCP with a front- or side-viewing endoscope can be considered first**, with EUS-assisted or EUS-guided techniques when ERCP is unsuccessful, by local expertise (conditional, **moderate** quality). *The full reconstruction × etiology table: [[eus-guided-biliary-drainage]].*
 - **Billroth II — once you reach the papilla, it is upside down.** Approached from the afferent limb it sits at **5 o'clock**, so the cut must be reoriented: a sphincterotome **modified to change the cutting-wire orientation**, or a rotatable conventional one. Where safe orientation cannot be achieved at all, **needle-knife sphincterotomy over a straight plastic stent** has **equal efficacy to EPBD**, and the expert-preferred method is now **limited needle-knife sphincterotomy over a stent or guidewire, then EPBD, then conventional extraction**. ([[bsg-2017-common-bile-duct-stones]])
-  - *On which scope goes first, BSG 2017 suggested duodenoscope first and a forward-viewing endoscope on failure (single randomised trial: success **87% vs 68%** favouring forward-viewing, with an **18% visceral perforation rate** for duodenoscopes — ⚠ not reproduced elsewhere, where **2.7%–10%** is reported). [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] made E-ERCP the initial approach for all non-bypass anatomy, but ESGE 2026 is newer still and returns Billroth II to conventional ERCP with either scope type; the technique detail here stands, since neither newer document covers it.*
-- **Roux-en-Y gastric bypass — the comparative numbers behind EDGE's rise:** per-oral enteroscopic ERCP succeeded in **63% with a 12% complication rate** (63 post-bypass patients with an intact papilla; no difference between balloon and spiral techniques), while **laparoscopy-assisted ERCP achieved 100% vs 59%** for long-limb enteroscopy in a 56-patient comparison with no difference in stay or complications. BSG 2017's own recommendation is simply to **refer these patients to centres** offering the advanced options. ([[bsg-2017-common-bile-duct-stones]])
+  - *On which scope goes first, BSG 2017 suggested duodenoscope first and a forward-viewing endoscope on failure (single randomised trial: success **87% vs 68%** favouring forward-viewing, with an **18% visceral perforation rate** for duodenoscopes — ⚠ not reproduced elsewhere, where **2.7%–10%** is reported). [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] suggests E-ERCP as the initial approach for biliary obstruction in non-bypass anatomy (Rec 4) and governs. The non-US documents start Billroth II with standard scopes — ESGE 2026 conventional ERCP with either scope type; [[weo-2025-ercp-cannulation-sphincterotomy|WEO 2025]] a **forward-viewing endoscope with a distal cap, or a duodenoscope** (Statement 19, conditional, moderate), balloon enteroscopy only after standard-scope failure.*
+  - **WEO 2025 technique detail** (no US document covers it): guidewire-assisted cannulation with **rotatable or Billroth II-dedicated sphincterotomes, or bendable cannulas** (Statement 20, conditional, very low); a distal cap helps inspect behind the semilunar folds and steadies the scope; if standard cannulation fails, **percutaneous rendezvous had higher technical success than EUS-guided** in this anatomy.
+- **Roux-en-Y gastric bypass — the comparative numbers behind EDGE's rise:** per-oral enteroscopic ERCP succeeded in **63% with a 12% complication rate** (63 post-bypass patients with an intact papilla; no difference between balloon and spiral techniques), while **laparoscopy-assisted ERCP achieved 100% vs 59%** for long-limb enteroscopy in a 56-patient comparison with no difference in stay or complications. BSG 2017's own recommendation is simply to **refer these patients to centres** offering the advanced options. ([[bsg-2017-common-bile-duct-stones]]) WEO 2025 (non-US) instead suggests **LA-ERCP over E-ERCP** (Statement 22) with EDGE as the alternative (Statement 23; both conditional, moderate) — LA-ERCP and EDGE succeed in **>90%** but carry adverse events of **13–21%** and **14–24%**; ASGE 2024's EDGE-first position governs.
+- **Papilla blocked by duodenal obstruction** — whether ERCP can still reach it depends on where the stricture sits (WEO 2025; no US document gives this detail): type 1 (proximal to the papilla) → ERCP through a duodenal SEMS, only if its distal end can sit **above the papilla** (not possible after EUS-guided gastroenterostomy); type 2 (involving the ampulla) → ERCP through a duodenal stent has significantly lower success; type 3 (distal) → papilla usually reachable by standard ERCP.
+  - **Papilla unreachable = failed ERCP** → **EUS-BD over percutaneous drainage** ([[asge-2024-therapeutic-eus-biliary|ASGE 2024]] Rec 1, conditional, low), with **EUS-guided hepaticogastrostomy (EUS-HGS) preferred** when duodenal cancer involvement or a pre-existing enteral stent compromises the EUS-guided choledochoduodenostomy (EUS-CDS) puncture site (Rec 2). ASGE governs; WEO 2025 offers EUS- or percutaneous-guided access by local expertise (Statement 24, conditional, low).
 
-- **Failed ERCP in native anatomy:** EUS-BD **over PTBD** — **strong** recommendation, moderate quality, for a *malignant* stricture after failed or unfeasible ERCP, with **PTBD only when EUS-BD fails or is not feasible** ([[esge-2026-biliary-strictures]]). In *suspected benign* disease the **rendezvous** technique is preferred over EUS-guided choledochoduodenostomy (EUS-CDS)/hepaticogastrostomy (EUS-HGS) ([[asge-2024-therapeutic-eus-biliary]], [[esge-2026-biliary-strictures]]). PTBD is otherwise preferred when the patient is **hemodynamically unstable, cannot tolerate general anesthesia**, or EUS-BD expertise is unavailable ([[asge-2024-therapeutic-eus-biliary]]). Route selection, outcomes and adverse events live on [[eus-guided-biliary-drainage]].
+- **Failed ERCP in native anatomy:** EUS-BD **over PTBD** — **strong** recommendation, moderate quality, for a *malignant* stricture after failed or unfeasible ERCP, with **PTBD only when EUS-BD fails or is not feasible** ([[esge-2026-biliary-strictures]]). In *suspected benign* disease the **rendezvous** technique is preferred over EUS-CDS/EUS-HGS ([[asge-2024-therapeutic-eus-biliary]], [[esge-2026-biliary-strictures]]). PTBD is otherwise preferred when the patient is **hemodynamically unstable, cannot tolerate general anesthesia**, or EUS-BD expertise is unavailable ([[asge-2024-therapeutic-eus-biliary]]). Route selection, outcomes and adverse events live on [[eus-guided-biliary-drainage]].
   - ⚠ ESGE 2026 **reverses** the ASGE 2024 position that *suspected malignancy* is a reason to pick PTBD — malignant stricture after failed ERCP is precisely where ESGE makes EUS-BD strong. ESGE 2026 is the newer tier-1 source and governs.
-  - **Before abandoning the ERCP, repeat it: wait at least 2 days and try again — up to 82% succeed**, optimizing sedation, team, accessories and referral to a more expert endoscopist or center. ERCP fails in **10%–20%** of patients overall; the expert-center ceiling is **5%** ([[esge-2026-biliary-strictures]]).
-- **Sphincterotomy energy delivery — PEP risk is primarily *technique*-related, not energy-setting-related** ([[aga-2026-electrosurgery]] BPA 12). Keep wire–tissue contact small and the wire **unburied, applied to the surface with minimal tension**, for high current density and minimal collateral thermal injury. Waveform choice (pure cut vs blended), settings by manufacturer, and the underlying physics are on **[[electrosurgery#ERCP Sphincterotomy]]**.
+  - **Before abandoning the ERCP, repeat it: wait at least 2 days and try again — up to 82% succeed**, optimizing sedation, team, accessories and referral to a more expert endoscopist or center. ERCP fails in **10%–20%** of patients overall; the expert-center ceiling is **5%** ([[esge-2026-biliary-strictures]]). WEO 2025's version of the same rule is under [[#Cannulation]].
 
 ---
 
 ## Complications
 
 - **PEP:** the **most frequent serious adverse event of gastrointestinal (GI) endoscopy** — occurs in **~8% of average-risk and ~15% of high-risk procedures** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]).
-  - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected [[sphincter-of-oddi-dysfunction|sphincter of Oddi dysfunction]], prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged/traumatic cannulation with repeated pancreatic duct (PD) injection or deep guidewire access, **precut sphincterotomy without fistulotomy technique**, [[ampullary-adenoma|ampullectomy]], **fully covered SEMS placement**. Risk is cumulative — multiple factors compound.
+  - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected [[sphincter-of-oddi-dysfunction|sphincter of Oddi dysfunction]], prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged/traumatic cannulation with repeated PD injection or deep guidewire access, **precut sphincterotomy without fistulotomy technique**, [[ampullary-adenoma|ampullectomy]], **fully covered SEMS placement**. Risk is cumulative — multiple factors compound.
 
 **PEP prophylaxis ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — with grades and the actual regimens:**
 
@@ -109,7 +170,7 @@ sources: [acg-asge-2026-ercp-quality-indicators, bsg-2017-common-bile-duct-stone
 | **Aggressive periprocedural + postprocedural hydration** (*unselected* patients) | **Lactated Ringer's 20 mL/kg bolus, then 3 mL/kg/h × 8 h post-procedure**; may be started pre- or intraprocedure. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease. More feasible for inpatients | **Conditional; moderate** |
 | **Wire-guided cannulation** over contrast-guided (*unselected* patients) | Cannulate, then advance the wire; the **endoscopist or an experienced operator** performs the wire manipulation; **avoid forceful or repeated wire advancement into the PD**. RR 0.50 (95% CI 0.31–0.72) | **Conditional; moderate** |
 
-- ⚠ **Whether NSAID + PD stent beats NSAID alone is unresolved** — comparative trials to date are **underpowered**; a large multicenter RCT is ongoing. [[bsg-2017-common-bile-duct-stones|BSG 2017]] says the same in its own words: with universal rectal NSAIDs, the **additive** benefit of a pancreatic stent is uncertain.
+- **NSAID + PD stent beats NSAID alone in high-risk patients** — ASGE 2023 called it unresolved pending a large multicenter RCT; that trial (**20 centres, US and Canada**) has since found **rectal indomethacin plus a prophylactic stent more effective than indomethacin alone**, cutting PEP by **more than 30%**, with the benefit **greatest in those at greatest risk** ([[acg-asge-2026-ercp-quality-indicators|ACG/ASGE 2026]]). WEO 2025 accordingly suggests rectal NSAIDs **with aggressive hydration and/or a PD stent** (Statement 4, conditional, low). The older doubt — [[bsg-2017-common-bile-duct-stones|BSG 2017]]: with universal rectal NSAIDs the **additive** benefit of a stent is uncertain — predates the trial.
 - **When to reach for the stent, in a number:** avoid PD cannulation and contrast filling altogether where possible, but if PD cannulation keeps happening — **more than one pancreatic wire passage** while seeking biliary access — consider a **5F** stent, which may both ease biliary access and lower PEP risk. ⚠ **A failed attempt at placement may dramatically increase PEP risk**, so this is a trained manoeuvre, not an improvisation. Optimum dwell time is unknown (likely hours to days); confirm spontaneous migration on a plain abdominal x-ray and remove endoscopically if it has not passed. ([[bsg-2017-common-bile-duct-stones]])
 **Adverse event rates by procedure type — the numbers for consent** ([[asge-2026-ercp-adverse-events]]):
 
@@ -212,3 +273,4 @@ Procedural-success benchmarks from [[asge-2015-ercp-benign-biliary]]:
 21. [[asge-2026-ercp-adverse-events|ASGE 2026: Adverse Events Associated with ERCP and ERCP-Related Procedures]]
 22. [[esge-2026-biliary-strictures|Biliary Stricture Management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline (2026)]]
 23. [[rome-v-2026-gallbladder-sphincter-of-oddi|Rome V (2026): Gallbladder and Sphincter of Oddi Disorders]]
+24. [[weo-2025-ercp-cannulation-sphincterotomy|WEO 2025: Guidelines on ERCP Biliary Cannulation and Sphincterotomy Techniques]]
