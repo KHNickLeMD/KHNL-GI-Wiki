@@ -3,8 +3,8 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-10-21
-sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd, aga-2019-esd-t1b-esophageal-cancer, aga-2021-post-esd-surveillance]
+updated: 2026-11-28
+sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd, aga-2019-esd-t1b-esophageal-cancer, aga-2021-post-esd-surveillance, weo-2025-esophageal-superficial-squamous-neoplasia]
 ---
 
 ## Contents
@@ -89,6 +89,7 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 - Mucosal comparators (SCC): **M1** (epithelium) and **M2** (lamina propria) — negligible LNM; **M3** (muscularis mucosae) ≈ **10%**.
 - Text ranges that sit beside the table: SCC **SM1 8%–26.5%**, SCC **SM2 up to 60%**. **The same document gives both 8%–26.5% and 27% for SM1 SCC** (different source series) — treat SM1 squamous as a meaningful, not a negligible, nodal risk.
+- Ranges from other surgical-specimen studies ([[weo-2025-esophageal-superficial-squamous-neoplasia|World Endoscopy Organization (WEO) 2025]] Table 2, SCC): **m1–m2 0%**, **m3 8–18%**, **sm1 (<200 µm) 8–33%**, **sm2 (200–500 µm) 17–35%**, **sm3 (>500 µm) 21–48%**.
 - Adenocarcinoma, **well-differentiated and <2 cm: LNM 4.2%** (782 esophagectomies). Size matters steeply — **75% of T1b tumors >1.2 cm** had LNM in one T1 adenocarcinoma series.
 
 **Predictors of higher LNM risk** ([[aga-2019-esd-t1b-esophageal-cancer]], Table 1):
@@ -130,7 +131,14 @@ EGJ tumors straddle the esophageal and gastric pathways and share systemic-thera
 - **[[upper-endoscopy|esophagogastroduodenoscopy (EGD)]] with biopsy** — establishes histology.
 - **[[endoscopic-ultrasound|endoscopic ultrasound (EUS)]]** — T and N stage; enables fine-needle aspiration (FNA) of suspicious nodes. (For early [[barretts-esophagus|Barrett's]]-associated lesions, EUS is *not* used to separate T1a from T1b — resection histology is; see [[esophageal-adenocarcinoma]].)
   - In **SCC**, NBI with magnification was **more accurate than EUS** at separating tumors confined to superficial mucosa from those reaching muscularis mucosae or SM1 (174 patients, [[aga-2019-esd-t1b-esophageal-cancer]]).
-- **Computed tomography (CT) chest/abdomen + positron emission tomography (PET)/CT** — distant spread. **In early-stage (T1) disease PET/CT does not appear to be needed** even though it is routinely part of esophageal-cancer staging: benign findings act as confounders and working them up delays therapy ([[aga-2019-esd-t1b-esophageal-cancer]]).
+- **Computed tomography (CT) chest/abdomen + positron emission tomography (PET)/CT** — distant spread. **In early-stage (T1) disease PET/CT does not appear to be needed** even though it is routinely part of esophageal-cancer staging: benign findings act as confounders and working them up delays therapy ([[aga-2019-esd-t1b-esophageal-cancer]]). WEO 2025 (non-US) still has **fluorine-18 fluoro-2-deoxy-D-glucose (FDG)-PET/CT considered in potential surgical candidates** (Statement 15) — a different population; EUS is integral for clinically deep submucosal invasion, and **EUS-FNA of non-peritumoral nodes** only if the result may alter management.
+- **Superficial squamous neoplasia — detection and workup** ([[weo-2025-esophageal-superficial-squamous-neoplasia|WEO 2025]]; non-US, no US document on file covers it):
+  - **Increased risk:** prior head and neck (H&N) SCC, [[achalasia]], radiotherapy, caustic injury, tylosis; heavy alcohol (≥3 units/day, synergistic with smoking); age >60, male sex, hot beverages.
+  - **At-risk patients → add advanced endoscopic imaging (AEI, e.g. NBI) or Lugol chromoendoscopy (LCE) to white-light endoscopy** (Statement 3, moderate / strong). Population screening only in high-incidence countries (Statement 1, weak).
+  - On white light, look for **slight reddening** and surface irregularity; flat **0-IIb** lesions are easily missed. Wash away saliva and mucus first.
+  - **Only one or two targeted biopsies** before a planned resection — more cause scarring that makes resection harder.
+  - **Screen for a second primary in the oral cavity, oropharynx and hypopharynx** (Statement 5, strong); **examine and photodocument the hypopharynx with AEI** (Statement 6, strong) — H&N second primaries in **6.7%**, **60%** of them hypopharyngeal. ⚠ **No Lugol in the laryngopharynx** (aspiration risk).
+  - **Lateral extent:** LCE or magnifying AEI (Statement 12). **Depth:** magnifying AEI or high-frequency EUS (Statement 13) — magnification is reliable for confirming deep invasion, EUS for confirming disease limited to the surface.
 - **Biomarker testing on advanced/metastatic tumors** — HER2 (ERBB2), PD-L1 combined positive score (CPS), microsatellite instability-high (MSI-H)/mismatch repair deficient (dMMR). Positivity cutoffs ([[nccn-2026-esophageal-egj-cancer]]):
   - **HER2-positive** = **immunohistochemistry (IHC) 3+**, or **IHC 2+ with in situ hybridization (ISH)/fluorescence ISH (FISH)-positive**.
   - **PD-L1–positive** = **CPS ≥1**; **≥100 tumor cells** must be present for the stained slide to be adequate. Line-of-therapy CPS gates are in [[#Therapeutics]].
@@ -157,6 +165,13 @@ Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
   - Comparative data, all retrospective: **clinical T1bN0M0 SCC** (173 patients) — 3-/5-year survival **87.0%/77.7%** with radical esophagectomy vs **77.8%/68.6%** with definitive chemoradiation, recurrence **11.8%** vs **28.2%**. **Siewert type II adenocarcinoma** (79 patients, 19% T1b) — 5-year overall survival **93.9% ESD vs 97.3% surgery** (P = .376), adverse events 10.0% vs 17.9%. ESD data in adenocarcinoma is **sparse**.
   - **Endoscopic resection then chemoradiation**, for patients who decline or are unfit for surgery: 66 SCC patients (65% T1b) reached 3-/5-year survival **87%/75%**; ESD + chemoradiation beat chemoradiation alone on 3-year survival (**90% vs 63.2%**) and recurrence (**6.3% vs 29.0%**) in 47 patients. **ESD + radiofrequency ablation** cleared dysplasia in 26/27 (96%) and intestinal metaplasia in 23/27 (85%) in [[barretts-esophagus|Barrett's]] with high-grade dysplasia or adenocarcinoma, usually in **1–2 ablation sessions**.
   - ⚠ **[[aga-2021-post-esd-surveillance|AGA 2021]] is newer and stricter for squamous disease:** in SCC **no depth is curative once the muscularis mucosae is reached** — m3 or any submucosal invasion is noncurative. That is the position [[endoscopic-submucosal-dissection]] asserts; the permissive 2019 framing above is kept for the candidate profile and the nodal numbers.
+  - WEO 2025 (non-US) recommends salvage chemoradiation or surgery for **pT1 submucosal, or pT1a muscularis mucosae (MM) with vascular invasion** (Statement 19), and calls the role of further treatment for other high-risk mucosal cancer undefinable — individualize (Statement 20). AGA 2021 governs.
+- **Squamous resection details from WEO 2025** (non-US; gaps in the US documents):
+  - **EMR only when en bloc resection is achievable** (Statement 16); ESD **first-line for clinical T1a epithelium/lamina propria**, a **relative indication for T1a-MM/T1b-SM1** (Statement 17).
+  - **Ablation only for flat (0-IIb) intraepithelial neoplasia or as salvage** (Statement 18, weak) — radiofrequency ablation recurrence **15–20%** long term, **30%** upstaged on histology, and no specimen to judge curability.
+  - **Isolated lateral-margin involvement:** visible residual → repeat endoscopic treatment; none visible → close surveillance (Statement 21).
+  - **Stop alcohol and smoking** after resection (Statement 22, strong).
+  - **Surveillance:** intervals per AGA 2021 on [[endoscopic-submucosal-dissection]]. WEO adds that **multiple Lugol-voiding lesions** are the strongest predictor of metachronous SCC (**24.7%** at 2 years) and suggests endoscopy **every 6 months** for them (Statement 23 discussion; "multiple" is not defined); use AEI (Statement 11) and look for H&N and gastric cancer too.
 - **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (fluorouracil, leucovorin, oxaliplatin, and docetaxel) for adenocarcinoma or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
 - **Definitive chemoradiation:** for SCC and for patients who are not surgical candidates.
 - **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; immunotherapy for MSI-H/dMMR **independent of PD-L1 status**; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
@@ -198,3 +213,4 @@ flowchart TD
 2. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
 3. [[aga-2019-esd-t1b-esophageal-cancer|AGA Clinical Practice Update on the Utility of Endoscopic Submucosal Dissection in T1b Esophageal Cancer: Expert Review (2019)]]
 4. [[aga-2021-post-esd-surveillance|AGA Clinical Practice Update on Surveillance After Pathologically Curative Endoscopic Submucosal Dissection of Early Gastrointestinal Neoplasia in the United States: Commentary (2021)]]
+5. [[weo-2025-esophageal-superficial-squamous-neoplasia|WEO 2025: Role of Endoscopy in Screening, Diagnosis, and Treatment of Esophageal Superficial Squamous Neoplasia]]
