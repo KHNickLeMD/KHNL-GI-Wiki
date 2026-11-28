@@ -6,6 +6,7 @@ created: 2026-10-26
 updated: 2026-10-26
 sources: []
 raw: "GI Guidelines/Other/ASCRS 2017 Treatment of Rectal Prolapse (Bordeianou).pdf"
+verified: 2026-11-28
 ---
 
 ## Bibliographic Info
@@ -23,7 +24,7 @@ The ASCRS update of its 2011 practice parameters, and the **only operative guide
 
 **The nonoperative answer is blunt: rectal prolapse cannot be corrected without surgery** (weak, 2C). What can be treated medically are the symptoms — fiber and stool softeners for constipation, **topical table sugar to reduce edema and assist reduction of an incarcerated prolapse**, and skin care. ⚠ And the guideline argues against waiting: patients managed medically **develop irreversible fecal incontinence (FI)**, and **leaving prolapse untreated beyond 4 years is associated with higher recurrence after later repair**, presumably through a secondarily weakened pelvic floor. Elderly patients are told to act quickly too.
 
-Two selection rules drive the operation. **First, when prolapse and FI coexist, fix the prolapse first** — many patients' continence improves once the prolapse is gone — and the constipation-inducing manoeuvres (lateral-ligament division) are actually *desirable* in that patient. **Second, coexisting constipation or dyssynergia disqualifies the manoeuvres that worsen it** — posterior rectal mobilization, lateral-ligament transection during suture rectopexy, and levatorplasty during perineal proctectomy. The same logic sets the one hard technical rule: **posterior mobilization without a rectopexy is not recommended** (strong, 1B) — a randomized trial found an **8-fold increase in recurrence** with mobilization alone, and **rectopexy is a key component of the abdominal approach** (strong, 1A).
+Two selection rules drive the operation. **First, when prolapse and FI coexist, fix the prolapse first** — many patients' continence improves once the prolapse is gone — and the constipation-inducing manoeuvres (lateral-ligament division) are actually *desirable* in that patient. **Second, patients with coexisting constipation or dyssynergia may not be ideal candidates for the manoeuvres that worsen it** — posterior rectal mobilization, lateral-ligament transection during suture rectopexy, and levatorplasty during perineal proctectomy. The same logic sets the one hard technical rule: **posterior mobilization without a rectopexy is not recommended** (strong, 1B) — a randomized trial found an **8-fold increase in recurrence** with mobilization alone, and **rectopexy is a key component of the abdominal approach** (strong, 1A).
 
 The one length-based threshold in the document is for the **Delorme procedure — a short (<5 cm) full-thickness prolapse**. Otherwise the choice between abdominal and perineal approaches is by comorbidity, surgeon experience, age and bowel function, and the document explicitly declines to rank **posterior (suture/resection rectopexy) against anterior (ventral mesh) repair** — insufficient evidence either way (strong recommendation, low-quality evidence, 1C).
 
@@ -80,7 +81,7 @@ GRADE per Guyatt et al.: **1A/1B/1C** strong on high / moderate / low-quality ev
 1. **Rectopexy is a key component of the abdominal approach.** — Strong, high-quality, **1A**
    - Suture rectopexy recurrence **3%–9% at 2 years**; ⚠ **the Rectal Prolapse Recurrence Study Group suggests 29% at 10 years**.
    - RCT, 116 mobilization-only vs 136 rectopexy patients: **8-fold increase in recurrence with mobilization alone**.
-   - ⚠ **It can create or worsen constipation:** **≥50%** of patients with preoperative constipation report worsening, and **≈15%** with none beforehand become constipated. **Severe preoperative constipation → do more than a suture rectopexy** (resection rectopexy, ventral rectopexy, or a perineal repair).
+   - ⚠ **It can create or worsen constipation:** **≥50%** of patients with preoperative constipation report worsening, and **≈15%** with none beforehand become constipated. **Severe preoperative constipation → should probably have more than a suture rectopexy** (resection rectopexy, ventral rectopexy, or a perineal repair).
 2. **Sigmoid resection may be added to posterior suture rectopexy in patients with prolapse and preoperative constipation.** — Strong, moderate-quality, **1B**
    - Recurrence **2%–5%**, major complications **0%–20%**; two RCTs found less postoperative constipation than rectopexy alone.
    - ⚠ **Avoid after a failed previous perineal rectosigmoidectomy** — transabdominal resection then risks **ischemic bowel**.

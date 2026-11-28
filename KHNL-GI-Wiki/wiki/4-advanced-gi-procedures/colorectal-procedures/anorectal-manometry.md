@@ -211,7 +211,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - Four parts — RAIR, anal tone and contractility, rectoanal coordination, rectal sensation — and **one study may return a diagnosis under more than one**. Findings are tiered **major** (not seen in controls), **minor** (seen in patients and controls) or **inconclusive**. Full decision logic: [[london-classification]].
 - **The classification publishes no reference values at all** — every decision point is "above/below the limit of normal", referred to the lab's own data or to published data acquired with **identical equipment and protocol**, adjusted for sex, parity and age.
 - **Cough and long squeeze are recorded but excluded from the classification** — the consensus did not consider them justifiable as diagnostic criteria. An abnormal cough response may mark a more severe phenotype and a preserved one a biofeedback target; neither is a criterion.
-- **Dyssynergia never rises above a minor finding**, and an abnormal manometric coordination pattern with a *normal* balloon expulsion is only **inconclusive**. It is the **BET**, not the manometric pattern, that carries the weight.
+- **Dyssynergia never rises above a minor finding**, and an abnormal manometric coordination pattern with a *normal* balloon expulsion is only **inconclusive**. An abnormal expulsion with a normal manometric pattern is also only inconclusive — it takes both abnormal to reach a minor finding.
 
 ## Defecography — Barium vs Magnetic Resonance (MR)
 
